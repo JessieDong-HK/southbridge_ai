@@ -1,0 +1,16 @@
+# 原始数据 — 太大，不进版本控制
+昆山杜克大学公众号/
+上海纽约大学公众号/
+其他博主的知识/
+
+# 爬虫原始数据
+duke_kunshan_official_website_20260603/
+shanghai_nyu_official_site_json_images/
+
+# 系统文件
+.DS_Store
+.claude/credentials*
+
+# AI 产出草稿（可选：如果草稿太多太杂，取消下面这行的注释）
+# outputs/drafts/*
+# !outputs/drafts/.gitkeep

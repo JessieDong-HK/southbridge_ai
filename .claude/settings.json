@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "defaultMode": "dontAsk",
+    "allow": [
+      "WebFetch",
+      "WebSearch",
+      "Bash(curl -s *)",
+      "Bash(curl -L *)",
+      "Bash(~/bin/xhs-ocr *)",
+      "Bash(ssh-keyscan *)"
+    ]
+  }
+}

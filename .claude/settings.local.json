@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "defaultMode": "bypassPermissions",
+    "allow": [
+      "Bash(gh repo *)",
+      "Bash(claude help *)",
+      "Bash(claude plugin *)",
+      "Read(//Users/jess/**)",
+      "Bash(swiftc -O -o /Users/jess/bin/xhs-ocr /Users/jess/bin/xhs-ocr.swift)",
+      "Bash(curl -s -L -o /tmp/test-ocr-image.jpg -H 'Referer: https://www.xiaohongshu.com/' http://sns-webpic-qc.xhscdn.com/202606122000/42df4e22c0ebccc2d628de995717b4c4/1040g2sg321830933n4c05p8lm8l95g89frb30og!nd_dft_wlteh_jpg_3)",
+      "Bash(/Users/jess/bin/xhs-ocr /tmp/test-ocr-image.jpg)",
+      "Bash(cat /tmp/xhs-ocr.swift 2>/dev/null || echo \"swift source not in /tmp\"; ls -la ~/bin/xhs-ocr)",
+      "Read(//private/tmp/**)",
+      "Bash(curl -s \"https://api.github.com/repos/vercel-labs/skills/contents/skills/find-skills\")",
+      "Bash(python3 -c ' *)",
+      "Bash(curl -s \"https://api.github.com/repos/vercel-labs/skills/contents/src\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/vercel-labs/skills/main/AGENTS.md\")",
+      "Bash(curl -s \"https://api.github.com/repos/vercel-labs/agent-skills/contents/skills\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/vercel-labs/skills/main/src/find.ts\")",
+      "WebFetch(domain:skills.sh)",
+      "Bash(curl -s \"https://skills.sh/api/search?q=react&limit=5\")",
+      "Bash(python3 -m json.tool)",
+      "Bash(curl -s \"https://skills.sh/api/search?q=video+script+writing&limit=10\")"
+    ]
+  }
+}
