@@ -1,16 +1,16 @@
-# 原始数据 — 太大，不进版本控制
-昆山杜克大学公众号/
-上海纽约大学公众号/
-其他博主的知识/
+# 排除：只同步上纽昆杜升学项目，其他全部不进版本控制
+Mentorship网络/
+人员清单.md
+会议记录/
+待处理/
+总管理.md
+outputs/
+prompts/
+workflows/
 
-# 爬虫原始数据
-duke_kunshan_official_website_20260603/
-shanghai_nyu_official_site_json_images/
+# 未处理原始资料 — 太大，不进版本控制
+上纽昆杜升学项目/官方资料/未处理原始资料/
 
 # 系统文件
 .DS_Store
 .claude/credentials*
-
-# AI 产出草稿（可选：如果草稿太多太杂，取消下面这行的注释）
-# outputs/drafts/*
-# !outputs/drafts/.gitkeep
