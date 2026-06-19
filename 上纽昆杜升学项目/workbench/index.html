@@ -137,6 +137,18 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);-webkit-font
 .assess-copy-btn.copied{background:var(--green);color:#fff;border-color:var(--green)}
 .assess-view-btn{font-size:12px;padding:5px 12px;border-radius:14px;border:1px solid var(--border);background:var(--card);color:var(--text2);cursor:pointer;font-weight:600;white-space:nowrap;font-family:var(--font)}
 .pending-badge{display:inline-block;font-size:10.5px;font-weight:600;padding:2px 8px;border-radius:10px;background:#fffbeb;color:#92400e}
+
+/* ── Upload sheet tabs ── */
+.upload-tabs{display:flex;gap:4px;margin-bottom:14px}
+.upload-tab{flex:1;padding:8px 0;font-size:12px;font-weight:600;border:1.5px solid var(--border);border-radius:8px;background:var(--card);color:var(--text2);cursor:pointer;font-family:var(--font);transition:all .15s;text-align:center}
+.upload-tab.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.upload-mode{display:none}
+.upload-mode.active{display:block}
+.meeting-fields{display:flex;gap:6px;margin-bottom:10px}
+.meeting-fields select{flex:1}
+.gen-btn{font-size:11px;padding:4px 10px;border-radius:12px;border:1.5px solid var(--blue);background:#eef2ff;color:var(--blue);cursor:pointer;font-weight:600;white-space:nowrap;font-family:var(--font);transition:all .15s}
+.gen-btn:active{background:var(--blue);color:#fff}
+.gen-btn:disabled{opacity:.5;cursor:not-allowed}
 </style>
 </head>
 <body>
@@ -204,10 +216,41 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);-webkit-font
 <button class="fab" id="fabBtn" onclick="openUpload()">+</button>
 <div class="overlay" id="overlay" onclick="if(event.target===this)closeUpload()">
   <div class="sheet">
-    <h3>上传微信截图</h3>
-    <select id="studentSelect"><option value="">选择学生…</option></select>
-    <input type="file" id="screenshotInput" accept="image/*" capture="environment">
-    <button class="btn btn-primary" id="uploadBtn" disabled>上传并归档</button>
+    <h3>📤 上传</h3>
+
+    <div class="upload-tabs">
+      <button class="upload-tab active" onclick="switchUploadMode('screenshot',this)">📱 微信截图</button>
+      <button class="upload-tab" onclick="switchUploadMode('transcript',this)">📝 会议逐字稿</button>
+    </div>
+
+    <select id="studentSelect" onchange="ckAll()"><option value="">选择学生…</option></select>
+
+    <!-- Screenshot mode -->
+    <div id="upload-mode-screenshot" class="upload-mode active">
+      <input type="file" id="screenshotInput" accept="image/*" capture="environment" onchange="ckAll()">
+      <button class="btn btn-primary" id="screenshotBtn" disabled onclick="uploadScreenshot()">上传并归档</button>
+    </div>
+
+    <!-- Transcript mode -->
+    <div id="upload-mode-transcript" class="upload-mode">
+      <div class="meeting-fields">
+        <select id="meetingNumber" onchange="ckAll()">
+          <option value="">场次…</option>
+          <option value="1">第1场</option>
+          <option value="2">第2场</option>
+          <option value="3">第3场</option>
+          <option value="4">第4场</option>
+        </select>
+        <select id="meetingType" onchange="ckAll()">
+          <option value="">类型…</option>
+          <option value="parent">家长会议</option>
+          <option value="student">学生会议</option>
+        </select>
+      </div>
+      <input type="file" id="transcriptInput" accept=".txt,.md,text/plain" onchange="ckAll()">
+      <button class="btn btn-primary" id="transcriptBtn" disabled onclick="uploadTranscript()">上传并生成评估建议</button>
+    </div>
+
     <div class="sheet-result" id="uploadResult"></div>
     <button class="btn" style="background:#f5f5f4;margin-top:8px;color:var(--text2)" onclick="closeUpload()">取消</button>
   </div>
@@ -331,21 +374,62 @@ async function toggleStudent(dir,card){
 }
 
 // ── Upload FAB ──
-function openUpload(){document.getElementById('overlay').classList.add('show')}
+let uploadMode='screenshot';
+function openUpload(){document.getElementById('overlay').classList.add('show');resetUpload()}
 function closeUpload(){document.getElementById('overlay').classList.remove('show')}
-const fi=document.getElementById('screenshotInput'),ss=document.getElementById('studentSelect'),ub=document.getElementById('uploadBtn');
-function ck(){ub.disabled=!fi.files.length||!ss.value}
-fi.addEventListener('change',ck);ss.addEventListener('change',ck);
-ub.addEventListener('click',async function(){
+function resetUpload(){
+  document.getElementById('uploadResult').innerHTML='';
+  document.getElementById('screenshotInput').value='';
+  document.getElementById('transcriptInput').value='';
+  document.getElementById('meetingNumber').value='';
+  document.getElementById('meetingType').value='';
+  ckAll();
+}
+function switchUploadMode(mode,btn){
+  uploadMode=mode;
+  document.querySelectorAll('.upload-tab').forEach(b=>b.classList.toggle('active',b===btn));
+  document.querySelectorAll('.upload-mode').forEach(d=>d.classList.toggle('active',d.id==='upload-mode-'+mode));
+  ckAll();
+}
+function ckAll(){
+  const ss=document.getElementById('studentSelect').value;
+  if(uploadMode==='screenshot'){
+    const fi=document.getElementById('screenshotInput');
+    document.getElementById('screenshotBtn').disabled=!fi.files.length||!ss;
+  }else{
+    const fi=document.getElementById('transcriptInput');
+    const mn=document.getElementById('meetingNumber').value;
+    const mt=document.getElementById('meetingType').value;
+    document.getElementById('transcriptBtn').disabled=!fi.files.length||!ss||!mn||!mt;
+  }
+}
+
+async function uploadScreenshot(){
+  const ss=document.getElementById('studentSelect'),fi=document.getElementById('screenshotInput');
   const st=ss.value,f=fi.files[0];if(!st||!f)return;
-  ub.disabled=true;ub.textContent='上传中…';
+  const btn=document.getElementById('screenshotBtn');btn.disabled=true;btn.textContent='上传中…';
   const fd=new FormData();fd.append('student',st);fd.append('screenshot',f);
   try{const r=await fetch(API+'/api/upload-chat',{method:'POST',body:fd});const d=await r.json();
     document.getElementById('uploadResult').innerHTML=d.ok?`✅ 已保存至 <b>${d.savedTo}</b>`:`❌ ${d.error}`;
-    toast(d.ok?'已上传':'上传失败');fi.value='';ub.disabled=true;
+    toast(d.ok?'已上传':'上传失败');fi.value='';btn.disabled=true;
   }catch(e){document.getElementById('uploadResult').innerHTML='❌ 网络错误';toast('上传失败')}
-  ub.disabled=false;ub.textContent='上传并归档';
-});
+  btn.disabled=false;btn.textContent='上传并归档';
+}
+
+async function uploadTranscript(){
+  const ss=document.getElementById('studentSelect'),fi=document.getElementById('transcriptInput');
+  const mn=document.getElementById('meetingNumber'),mt=document.getElementById('meetingType');
+  const st=ss.value,f=fi.files[0],num=mn.value,type=mt.value;
+  if(!st||!f||!num||!type)return;
+  const btn=document.getElementById('transcriptBtn');btn.disabled=true;btn.textContent='上传并生成中…';
+  const fd=new FormData();fd.append('student',st);fd.append('transcript',f);
+  fd.append('meetingNumber',num);fd.append('meetingType',type);
+  try{const r=await fetch(API+'/api/upload-transcript',{method:'POST',body:fd});const d=await r.json();
+    document.getElementById('uploadResult').innerHTML=d.ok?`✅ 已保存至 <b>${d.transcriptPath}</b><br>🔄 ${d.hint}`:`❌ ${d.error}`;
+    toast(d.ok?'已触发评估生成':'上传失败');fi.value='';btn.disabled=true;
+  }catch(e){document.getElementById('uploadResult').innerHTML='❌ 网络错误';toast('上传失败')}
+  btn.disabled=false;btn.textContent='上传并生成评估建议';
+}
 
 // ── Tab switching ──
 function switchTab(tab){
@@ -373,6 +457,7 @@ async function loadAssessments(){
               <div class="assess-card-name">${a.student} <span class="pending-badge">待生成</span></div>
               <div class="assess-card-meta">${a.meetingCount} 场会议记录 · ${a.status}</div>
             </div>
+            <button class="gen-btn" onclick="event.stopPropagation();triggerAssessment('${a.student}',this)">⚡ 生成</button>
           </div>
         </div>`;
       }
@@ -438,6 +523,20 @@ async function copyAssessment(student,file,btn){
     setTimeout(()=>{btn.textContent='📋 复制';btn.classList.remove('copied')},2000);
     toast('已复制到剪贴板');
   }catch(e){toast('复制失败，请重试')}
+}
+
+async function triggerAssessment(student,btn){
+  btn.disabled=true;btn.textContent='⏳';
+  try{
+    const r=await fetch(API+'/api/trigger-assessment',{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({student})
+    });
+    const d=await r.json();
+    if(d.ok){btn.textContent='✓ 已触发';btn.style.background='var(--green)';btn.style.color='#fff';btn.style.borderColor='var(--green)';toast('已触发评估生成')}
+    else{btn.textContent='⚡ 生成';btn.disabled=false;toast('触发失败')}
+  }catch(e){btn.textContent='⚡ 生成';btn.disabled=false;toast('网络错误')}
 }
 
 // ── Init ──

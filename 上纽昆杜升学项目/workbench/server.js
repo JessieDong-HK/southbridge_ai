@@ -16,7 +16,7 @@ const GH_REPO = 'southbridge_ai';
 const GH_PATH = '上纽昆杜升学项目/咨询管理';
 
 // ── GitHub API helper (Vercel only) ──
-function ghAPI(method, filePath, content) {
+function ghAPI(method, filePath, content, sha) {
   return new Promise((resolve, reject) => {
     const fullPath = `${GH_PATH}/${filePath}`.split('/').filter(s => s).map(s => encodeURIComponent(s)).join('/');
     const p = `/repos/${GH_OWNER}/${GH_REPO}/contents/${fullPath}`;
@@ -25,7 +25,11 @@ function ghAPI(method, filePath, content) {
       let d = ''; res.on('data', c => d += c); res.on('end', () => { try { resolve(JSON.parse(d)); } catch(e) { resolve(d); } });
     });
     req.on('error', reject);
-    if (content) req.write(JSON.stringify({ message: 'workbench update', content: Buffer.from(content).toString('base64') }));
+    if (content) {
+      const body = { message: 'workbench update', content: Buffer.from(content).toString('base64') };
+      if (sha) body.sha = sha;
+      req.write(JSON.stringify(body));
+    }
     req.end();
   });
 }
@@ -55,6 +59,23 @@ function writeFileLocal(relPath, content) {
   const dir = path.dirname(full);
   if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
   fs.writeFileSync(full, content, 'utf-8');
+}
+
+// Dual-mode write (local fs or GitHub API)
+async function writeFile(relPath, content) {
+  if (!IS_VERCEL) {
+    writeFileLocal(relPath, content);
+    return { ok: true };
+  }
+  // Vercel: check if file exists to get SHA for update
+  try {
+    const existing = await ghAPI('GET', relPath);
+    await ghAPI('PUT', relPath, content, existing.sha);
+  } catch (e) {
+    // File doesn't exist, create new
+    await ghAPI('PUT', relPath, content);
+  }
+  return { ok: true };
 }
 
 // ── Parse helpers ──
@@ -269,6 +290,57 @@ app.get('/api/assessments/:student/:file', async (req, res) => {
     const content = await readFile(req.params.student + '/评估与建议/' + req.params.file);
     if (!content) return res.status(404).json({ error: '文件不存在' });
     res.json({ content, html: marked.parse(content) });
+  } catch(e) { res.status(500).json({ error: e.message }); }
+});
+
+// ── 上传逐字稿 + 触发评估生成 ──
+app.post('/api/upload-transcript', upload.single('transcript'), async (req, res) => {
+  try {
+    const { student, meetingNumber, meetingType } = req.body;
+    if (!student || !req.file) return res.status(400).json({ error: '缺少学生姓名或文件' });
+
+    const date = new Date().toISOString().slice(0, 10);
+    const typeLabel = meetingType === 'student' ? '学生会议' : '家长会议';
+    const destPath = `${student}/会议逐字稿/${date}-第${meetingNumber || 'X'}场-${typeLabel}-逐字稿.txt`;
+
+    // Read uploaded file
+    const content = fs.readFileSync(req.file.path, 'utf-8');
+
+    // Save transcript
+    await writeFile(destPath, content);
+
+    // Write trigger file
+    const triggerContent = [
+      `student: ${student}`,
+      `meetingNumber: ${meetingNumber || 'latest'}`,
+      `meetingType: ${meetingType || 'unknown'}`,
+      `transcriptPath: ${destPath}`,
+      `triggeredAt: ${new Date().toISOString()}`,
+    ].join('\n');
+    await writeFile(`${student}/_trigger_assessment`, triggerContent);
+
+    // Clean up temp upload
+    if (!IS_VERCEL && fs.existsSync(req.file.path)) fs.unlinkSync(req.file.path);
+
+    res.json({ ok: true, student, transcriptPath: destPath, hint: '已触发评估建议生成，约1-2分钟后可在评估建议Tab查看' });
+  } catch(e) { res.status(500).json({ error: e.message }); }
+});
+
+// ── 手动触发评估生成 ──
+app.post('/api/trigger-assessment', async (req, res) => {
+  try {
+    const { student, meetingNumber } = req.body;
+    if (!student) return res.status(400).json({ error: '缺少学生姓名' });
+
+    const triggerContent = [
+      `student: ${student}`,
+      `meetingNumber: ${meetingNumber || 'latest'}`,
+      `triggeredAt: ${new Date().toISOString()}`,
+      `source: manual`,
+    ].join('\n');
+    await writeFile(`${student}/_trigger_assessment`, triggerContent);
+
+    res.json({ ok: true, student, hint: '已触发评估建议生成，约1-2分钟后可在评估建议Tab查看' });
   } catch(e) { res.status(500).json({ error: e.message }); }
 });
 
