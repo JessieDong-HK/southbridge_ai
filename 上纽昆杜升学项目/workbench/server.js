@@ -18,7 +18,8 @@ const GH_PATH = '上纽昆杜升学项目/咨询管理';
 // ── GitHub API helper (Vercel only) ──
 function ghAPI(method, filePath, content) {
   return new Promise((resolve, reject) => {
-    const p = `/repos/${GH_OWNER}/${GH_REPO}/contents/${GH_PATH}/${filePath}`;
+    const fullPath = `${GH_PATH}/${filePath}`.split('/').filter(s => s).map(s => encodeURIComponent(s)).join('/');
+    const p = `/repos/${GH_OWNER}/${GH_REPO}/contents/${fullPath}`;
     const headers = { 'Authorization': `Bearer ${GITHUB_TOKEN}`, 'User-Agent': 'southbridge', 'Accept': 'application/vnd.github+json' };
     const req = https.request({ hostname:'api.github.com', path:p, method, headers }, res => {
       let d = ''; res.on('data', c => d += c); res.on('end', () => { try { resolve(JSON.parse(d)); } catch(e) { resolve(d); } });
