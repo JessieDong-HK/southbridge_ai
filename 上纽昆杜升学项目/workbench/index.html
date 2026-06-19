@@ -111,13 +111,46 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);-webkit-font
 .toast{position:fixed;bottom:90px;left:50%;transform:translateX(-50%);background:var(--accent);color:#fff;padding:10px 24px;border-radius:20px;font-size:13px;font-weight:600;z-index:50;opacity:0;transition:opacity .3s;box-shadow:0 8px 30px rgba(0,0,0,.2);pointer-events:none}
 .toast.show{opacity:1}
 .empty{text-align:center;color:var(--text3);padding:24px;font-size:13px}
+
+/* ── Tab bar ── */
+.tab-bar{display:flex;background:var(--accent);padding:0 20px;gap:0}
+.tab-btn{flex:1;text-align:center;padding:10px 0 12px;font-size:13px;font-weight:600;color:rgba(255,255,255,.45);border:none;background:none;cursor:pointer;border-bottom:2.5px solid transparent;transition:all .2s;font-family:var(--font);letter-spacing:-.1px}
+.tab-btn.active{color:#fff;border-bottom-color:var(--gold)}
+.tab-btn:active{color:rgba(255,255,255,.7)}
+.tab-content{display:none}
+.tab-content.active{display:block}
+
+/* ── Assessment cards ── */
+.assess-card{background:var(--card);border-radius:var(--radius-sm);padding:12px 14px;box-shadow:var(--shadow);border:1px solid var(--border);margin-bottom:6px;cursor:pointer;transition:all .15s}
+.assess-card:active{background:#fafaf9}
+.assess-card.pending{border-left:3px solid var(--amber)}
+.assess-card.ready{border-left:3px solid var(--green)}
+.assess-card-header{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.assess-card-left{flex:1;min-width:0}
+.assess-card-name{font-size:14px;font-weight:700;letter-spacing:-.1px}
+.assess-card-meta{font-size:11.5px;color:var(--text2);margin-top:2px}
+.assess-card-actions{display:flex;gap:6px;flex-shrink:0}
+.assess-card.expanded .assess-card-detail{display:block}
+.assess-card-detail{display:none;margin-top:12px;padding-top:12px;border-top:1px solid var(--border)}
+.assess-copy-btn{font-size:12px;padding:5px 12px;border-radius:14px;border:1px solid var(--border);background:var(--card);color:var(--text);cursor:pointer;font-weight:600;white-space:nowrap;font-family:var(--font);transition:all .15s}
+.assess-copy-btn:active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.assess-copy-btn.copied{background:var(--green);color:#fff;border-color:var(--green)}
+.assess-view-btn{font-size:12px;padding:5px 12px;border-radius:14px;border:1px solid var(--border);background:var(--card);color:var(--text2);cursor:pointer;font-weight:600;white-space:nowrap;font-family:var(--font)}
+.pending-badge{display:inline-block;font-size:10.5px;font-weight:600;padding:2px 8px;border-radius:10px;background:#fffbeb;color:#92400e}
 </style>
 </head>
 <body>
 
 <div class="header"><h1>South<span>Bridge</span></h1><div class="time" id="time"></div></div>
 
+<div class="tab-bar">
+  <button class="tab-btn active" data-tab="dashboard" onclick="switchTab('dashboard')">📊 看板</button>
+  <button class="tab-btn" data-tab="assessments" onclick="switchTab('assessments')">📋 评估与建议</button>
+</div>
+
 <div class="container">
+
+  <div id="tab-dashboard" class="tab-content active">
 
   <!-- 待办（置顶） -->
   <div class="section">
@@ -148,7 +181,24 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);-webkit-font
     <div class="student-list" id="students">加载中…</div>
   </div>
 
-</div>
+  </div><!-- /tab-dashboard -->
+
+  <!-- ═══════════════ 评估与建议 Tab ═══════════════ -->
+  <div id="tab-assessments" class="tab-content">
+
+    <div class="section">
+      <div class="section-head"><span class="dot dot-amber"></span> ⏳ 待生成评估</div>
+      <div id="assess-pending">加载中…</div>
+    </div>
+
+    <div class="section">
+      <div class="section-head"><span class="dot" style="background:var(--green)"></span> ✅ 已生成（可发送）</div>
+      <div id="assess-ready">加载中…</div>
+    </div>
+
+  </div><!-- /tab-assessments -->
+
+</div><!-- /container -->
 
 <!-- Upload FAB + sheet -->
 <button class="fab" id="fabBtn" onclick="openUpload()">+</button>
@@ -296,6 +346,99 @@ ub.addEventListener('click',async function(){
   }catch(e){document.getElementById('uploadResult').innerHTML='❌ 网络错误';toast('上传失败')}
   ub.disabled=false;ub.textContent='上传并归档';
 });
+
+// ── Tab switching ──
+function switchTab(tab){
+  document.querySelectorAll('.tab-btn').forEach(b=>b.classList.toggle('active',b.dataset.tab===tab));
+  document.querySelectorAll('.tab-content').forEach(c=>c.classList.toggle('active',c.id==='tab-'+tab));
+  if(tab==='assessments')loadAssessments();
+}
+
+// ── Assessments ──
+let assessmentsData=[];
+async function loadAssessments(){
+  const pel=document.getElementById('assess-pending'),rel=document.getElementById('assess-ready');
+  try{
+    const r=await fetch(API+'/api/assessments');assessmentsData=await r.json();
+    const pending=assessmentsData.filter(a=>a.pending);
+    const ready=assessmentsData.filter(a=>a.assessmentFiles.length>0);
+
+    if(!pending.length){pel.innerHTML='<div class="empty">暂无待生成 ✓</div>'}
+    else{
+      let ph='';
+      for(const a of pending){
+        ph+=`<div class="assess-card pending">
+          <div class="assess-card-header">
+            <div class="assess-card-left">
+              <div class="assess-card-name">${a.student} <span class="pending-badge">待生成</span></div>
+              <div class="assess-card-meta">${a.meetingCount} 场会议记录 · ${a.status}</div>
+            </div>
+          </div>
+        </div>`;
+      }
+      pel.innerHTML=ph;
+    }
+
+    if(!ready.length){rel.innerHTML='<div class="empty">暂无已生成的评估</div>'}
+    else{
+      let rh='';
+      for(const a of ready){
+        for(const f of a.assessmentFiles){
+          const label=f.replace('.md','').replace('第','第').replace('-评估与建议','');
+          rh+=`<div class="assess-card ready" id="assess-${a.student}-${encodeURIComponent(f)}">
+            <div class="assess-card-header">
+              <div class="assess-card-left" onclick="toggleAssessment('${a.student}','${f}',this.parentElement.parentElement.parentElement)">
+                <div class="assess-card-name">${a.student} · ${label}</div>
+                <div class="assess-card-meta">${a.status}</div>
+              </div>
+              <div class="assess-card-actions">
+                <button class="assess-view-btn" onclick="event.stopPropagation();toggleAssessment('${a.student}','${f}',document.getElementById('assess-${a.student}-${encodeURIComponent(f)}'))">查看</button>
+                <button class="assess-copy-btn" onclick="event.stopPropagation();copyAssessment('${a.student}','${f}',this)">📋 复制</button>
+              </div>
+            </div>
+            <div class="assess-card-detail" id="assess-detail-${a.student}-${encodeURIComponent(f)}"></div>
+          </div>`;
+        }
+      }
+      rel.innerHTML=rh;
+    }
+  }catch(e){pel.innerHTML='<div class="empty">加载失败</div>';rel.innerHTML='<div class="empty">加载失败</div>'}
+}
+
+async function toggleAssessment(student,file,card){
+  const detail=card.querySelector('.assess-card-detail');
+  const detailId='assess-detail-'+student+'-'+encodeURIComponent(file);
+  if(card.classList.contains('expanded')){card.classList.remove('expanded');return}
+  if(detail.innerHTML&&!detail.innerHTML.includes('加载中')){card.classList.add('expanded');return}
+  detail.innerHTML='<div class="empty">加载中…</div>';card.classList.add('expanded');
+  try{
+    const r=await fetch(API+'/api/assessments/'+encodeURIComponent(student)+'/'+encodeURIComponent(file));
+    const d=await r.json();
+    detail.innerHTML='<div class="md-content">'+(d.html||'<p>无内容</p>')+'</div>';
+    card.scrollIntoView({behavior:'smooth',block:'nearest'});
+  }catch(e){detail.innerHTML='<div class="empty">加载失败</div>'}
+}
+
+async function copyAssessment(student,file,btn){
+  try{
+    const r=await fetch(API+'/api/assessments/'+encodeURIComponent(student)+'/'+encodeURIComponent(file));
+    const d=await r.json();
+    // Strip markdown syntax for WeChat-friendly plain text
+    let text=d.content||'';
+    text=text.replace(/^# (.+)/gm,'【$1】');
+    text=text.replace(/^## (.+)/gm,'▎$1');
+    text=text.replace(/^### (.+)/gm,'  ▪ $1');
+    text=text.replace(/^> (.+)/gm,'$1');
+    text=text.replace(/\*\*(.+?)\*\*/g,'$1');
+    text=text.replace(/^- /gm,'• ');
+    text=text.replace(/---/g,'');
+    text=text.replace(/\n{3,}/g,'\n\n');
+    await navigator.clipboard.writeText(text.trim());
+    btn.textContent='✓ 已复制';btn.classList.add('copied');
+    setTimeout(()=>{btn.textContent='📋 复制';btn.classList.remove('copied')},2000);
+    toast('已复制到剪贴板');
+  }catch(e){toast('复制失败，请重试')}
+}
 
 // ── Init ──
 (async function(){await loadTodos();await loadPipeline();await loadProcess();loadStudents();})();

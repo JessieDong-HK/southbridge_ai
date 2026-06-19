@@ -1,6 +1,5 @@
 {
   "permissions": {
-    "defaultMode": "bypassPermissions",
     "allow": [
       "Bash(gh repo *)",
       "Bash(claude help *)",
@@ -20,7 +19,14 @@
       "WebFetch(domain:skills.sh)",
       "Bash(curl -s \"https://skills.sh/api/search?q=react&limit=5\")",
       "Bash(python3 -m json.tool)",
-      "Bash(curl -s \"https://skills.sh/api/search?q=video+script+writing&limit=10\")"
+      "Bash(curl -s \"https://skills.sh/api/search?q=video+script+writing&limit=10\")",
+      "Skill(xhs)",
+      "Skill(xhs:*)",
+      "Bash(mv \"/Users/jess/Documents/Obsidian Vault/xhs/2026-02-04 昆杜AI面试知道你的底牌.md\" \"/Users/jess/Desktop/自动化agent code/上纽昆杜升学项目/非官方资料/其他博主-上纽昆杜/整理后资料/2026-02-04 昆杜AI面试知道你的底牌.md\")"
+    ],
+    "defaultMode": "bypassPermissions",
+    "additionalDirectories": [
+      "/Users/jess/Documents/Obsidian Vault/xhs"
     ]
   }
 }

@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>品牌识别系统 · Mentorship 网络</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family: -apple-system,'PingFang SC','Helvetica Neue',sans-serif; background:#f3f2ef; padding:40px 20px; color:#2D3748; }
+  .container { max-width:880px; margin:0 auto; }
+  h1 { text-align:center; font-size:28px; margin-bottom:4px; letter-spacing:-0.5px; }
+  .sub { text-align:center; color:#999; font-size:14px; margin-bottom:44px; }
+
+  .section {
+    background:#fff; border-radius:20px; padding:32px; margin-bottom:24px;
+    box-shadow:0 1px 8px rgba(0,0,0,.04);
+  }
+  .section-title { font-size:13px; font-weight:700; color:#999; letter-spacing:1px; margin-bottom:4px; text-transform:uppercase; }
+  .section-sub { font-size:20px; font-weight:800; margin-bottom:24px; letter-spacing:-0.3px; }
+  .section-desc { font-size:14px; color:#666; line-height:1.8; margin-bottom:24px; }
+
+  /* Color */
+  .palette-grid { display:flex; gap:12px; flex-wrap:wrap; margin-bottom:24px; }
+  .color-card { flex:1; min-width:120px; border-radius:14px; overflow:hidden; }
+  .color-swatch { height:88px; display:flex; align-items:flex-end; padding:12px; font-size:12px; font-weight:600; }
+  .color-info { padding:12px; font-size:12px; }
+  .color-name { font-weight:700; margin-bottom:2px; }
+  .color-hex { color:#999; font-family:monospace; }
+  .color-usage { color:#888; font-size:11px; margin-top:4px; }
+
+  /* Typography */
+  .type-sample { margin-bottom:28px; }
+  .type-label { font-size:11px; color:#999; font-weight:600; letter-spacing:0.5px; margin-bottom:6px; }
+  .type-h1 { font-size:36px; font-weight:800; letter-spacing:-0.5px; line-height:1.2; margin-bottom:4px; }
+  .type-h2 { font-size:20px; font-weight:700; letter-spacing:-0.3px; margin-bottom:4px; }
+  .type-body { font-size:15px; line-height:1.8; color:#555; max-width:500px; }
+  .type-caption { font-size:12px; color:#999; }
+  .type-english { font-family:'Inter',-apple-system,sans-serif; }
+  .type-grid { display:grid; grid-template-columns:1fr 1fr; gap:24px; }
+  .showcase-text { padding:20px; background:#FFF8F0; border-radius:12px; margin-top:12px; }
+
+  /* Shape */
+  .shape-row { display:flex; gap:16px; align-items:flex-end; margin-bottom:20px; flex-wrap:wrap; }
+  .shape-box { display:flex; flex-direction:column; align-items:center; gap:8px; }
+  .shape-demo { width:72px; height:72px; background:#FFF1E6; border:2px solid #E8815D; display:flex; align-items:center; justify-content:center; font-size:13px; font-weight:700; color:#E8815D; }
+  .shape-demo.r4 { border-radius:4px; } .shape-demo.r8 { border-radius:8px; }
+  .shape-demo.r12 { border-radius:12px; } .shape-demo.r16 { border-radius:16px; }
+  .shape-demo.r20 { border-radius:20px; } .shape-demo.r24 { border-radius:24px; }
+  .shape-demo.r-full { border-radius:999px; }
+  .shape-label { font-size:11px; color:#999; }
+
+  /* UI Components */
+  .ui-row { display:flex; gap:16px; flex-wrap:wrap; margin-bottom:16px; align-items:center; }
+  .btn-primary {
+    padding:12px 28px; background:#E8815D; color:#fff; border:none;
+    border-radius:12px; font-size:15px; font-weight:700; cursor:pointer;
+  }
+  .btn-secondary {
+    padding:12px 28px; background:#fff; color:#E8815D; border:1.5px solid #E8815D;
+    border-radius:12px; font-size:15px; font-weight:700;
+  }
+  .btn-ghost {
+    padding:12px 28px; background:transparent; color:#2D3748; border:none;
+    font-size:15px; font-weight:600;
+  }
+  .chip {
+    padding:8px 16px; border-radius:999px; font-size:13px; font-weight:600;
+    border:1px solid #E2D8CF; background:#fff; color:#666;
+  }
+  .chip.active { background:#E8815D; color:#fff; border-color:#E8815D; }
+  .input-field {
+    padding:14px 16px; border:1.5px solid #E2D8CF; border-radius:14px;
+    font-size:15px; width:260px; background:#FFF8F0;
+  }
+  .input-field:focus { outline:none; border-color:#E8815D; background:#fff; }
+  .card-sample {
+    width:200px; background:#fff; border:1px solid #EDE4D8; border-radius:16px;
+    padding:18px; box-shadow:0 2px 12px rgba(0,0,0,.03);
+  }
+  .card-av { width:48px; height:48px; border-radius:50%; background:#FCE4D6; margin-bottom:10px; display:flex; align-items:center; justify-content:center; font-size:22px; }
+  .card-name { font-size:15px; font-weight:700; margin-bottom:2px; }
+  .card-path { font-size:12px; color:#888; line-height:1.4; }
+
+  /* Photography */
+  .photo-grid { display:flex; gap:12px; margin-bottom:16px; }
+  .photo-box {
+    flex:1; height:140px; border-radius:14px; display:flex;
+    align-items:center; justify-content:center; font-size:13px; color:#999;
+    font-weight:600;
+  }
+
+  /* Icon */
+  .icon-row { display:flex; gap:20px; flex-wrap:wrap; }
+  .icon-item { display:flex; flex-direction:column; align-items:center; gap:8px; width:72px; }
+  .icon-circle {
+    width:48px; height:48px; border-radius:50%; display:flex;
+    align-items:center; justify-content:center; font-size:20px;
+  }
+
+  /* Spacing */
+  .space-demo { background:#FFF8F0; border-radius:14px; padding:24px; margin-bottom:24px; }
+  .space-row { display:flex; align-items:center; gap:8px; margin-bottom:8px; }
+  .space-bar { height:8px; background:#E8815D; border-radius:4px; opacity:.3; }
+  .space-label { font-size:11px; color:#999; min-width:40px; }
+
+  /* Tone of Voice */
+  .tone-grid { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+  .tone-card { padding:20px; border-radius:14px; }
+  .tone-label { font-size:11px; font-weight:700; margin-bottom:6px; }
+  .tone-example { font-size:14px; line-height:1.7; }
+</style>
+</head>
+<body>
+<div class="container">
+
+<h1>Mentorship 网络 · 品牌识别系统</h1>
+<div class="sub">Direction A · 温暖人文 — 基于社区温度的完整品牌框架</div>
+
+<!-- 1. COLOR -->
+<div class="section">
+<div class="section-title">01</div>
+<div class="section-sub">色彩系统</div>
+<div class="section-desc">
+主色暖珊瑚——像傍晚的光、一杯热茶、一个值得信任的人。奶油白替代纯白——让屏幕有温度。深灰蓝替代纯黑——够清晰但不冷。
+</div>
+<div class="palette-grid">
+  <div class="color-card">
+    <div class="color-swatch" style="background:#E8815D;color:#fff;">Primary</div>
+    <div class="color-info">
+      <div class="color-name">暖珊瑚 Coral</div>
+      <div class="color-hex">#E8815D</div>
+      <div class="color-usage">主按钮、选中态、强调文案</div>
+    </div>
+  </div>
+  <div class="color-card">
+    <div class="color-swatch" style="background:#FFF8F0;">Bg</div>
+    <div class="color-info">
+      <div class="color-name">奶油白 Cream</div>
+      <div class="color-hex">#FFF8F0</div>
+      <div class="color-usage">页面背景、大面积底色</div>
+    </div>
+  </div>
+  <div class="color-card">
+    <div class="color-swatch" style="background:#2D3748;color:#fff;">Text</div>
+    <div class="color-info">
+      <div class="color-name">深灰蓝 Slate</div>
+      <div class="color-hex">#2D3748</div>
+      <div class="color-usage">正文文字、标题</div>
+    </div>
+  </div>
+  <div class="color-card">
+    <div class="color-swatch" style="background:#F7CDB8;">Light</div>
+    <div class="color-info">
+      <div class="color-name">浅珊瑚 Blush</div>
+      <div class="color-hex">#F7CDB8</div>
+      <div class="color-usage">卡片内强调背景、选中底色</div>
+    </div>
+  </div>
+  <div class="color-card">
+    <div class="color-swatch" style="background:#48BB78;color:#fff;">Accent</div>
+    <div class="color-info">
+      <div class="color-name">鼠尾草绿 Sage</div>
+      <div class="color-hex">#48BB78</div>
+      <div class="color-usage">成功状态、数据指标、点缀</div>
+    </div>
+  </div>
+  <div class="color-card">
+    <div class="color-swatch" style="background:#EDE4D8;">Border</div>
+    <div class="color-info">
+      <div class="color-name">暖灰 Sand</div>
+      <div class="color-hex">#EDE4D8</div>
+      <div class="color-usage">卡片边框、分割线</div>
+    </div>
+  </div>
+</div>
+</div>
+
+<!-- 2. TYPOGRAPHY -->
+<div class="section">
+<div class="section-title">02</div>
+<div class="section-sub">字体系统</div>
+<div class="section-desc">
+中文字体用系统原生——不需要额外加载，在所有设备上都好看。英文/数字用 Inter——现代、干净、可读性极强。标题和正文的层级拉开，让扫读更容易。
+</div>
+
+<div class="type-grid">
+  <div>
+    <div class="type-sample">
+      <div class="type-label">中文 · 大标题</div>
+      <div class="type-h1">找到走过你想走的路的人</div>
+      <div class="type-caption" style="margin-top:6px;">PingFang SC Semibold · 28px · -0.5px 字间距</div>
+    </div>
+    <div class="type-sample">
+      <div class="type-label">中文 · 段落</div>
+      <div class="type-body">高中在夏威夷，GPA 只有 3.74——那会儿心性贪玩，没把学业当回事。进了 UC Davis 之后，身边同学去了普林斯顿、MIT、伯克利，我内心落差极大。我不服。</div>
+      <div class="type-caption" style="margin-top:6px;">PingFang SC Regular · 15px · 行高 1.8</div>
+    </div>
+    <div class="type-sample">
+      <div class="type-label">中文 · 辅助信息</div>
+      <div class="type-caption">共 6 位 mentor · 轻咨询 ¥599 · 已选 4 个时间段</div>
+      <div class="type-caption" style="margin-top:4px;">PingFang SC Regular · 12px</div>
+    </div>
+  </div>
+  <div>
+    <div class="type-sample">
+      <div class="type-label">English · Heading</div>
+      <div class="type-h1 type-english">Find someone who walked your path</div>
+      <div class="type-caption" style="margin-top:6px;">Inter Bold · 28px · -0.5px</div>
+    </div>
+    <div class="type-sample">
+      <div class="type-label">English · Body / Numbers</div>
+      <div class="type-body type-english">3.98 GPA · 5 research projects · Two Ivy League acceptances. Everything had to be done, and done well.</div>
+      <div class="type-caption" style="margin-top:6px;">Inter Regular · 15px · 行高 1.8</div>
+    </div>
+    <div class="type-sample">
+      <div class="type-label">English · Data / Price</div>
+      <div style="font-family:Inter,-apple-system,sans-serif;font-size:24px;font-weight:800;color:#E8815D;">¥599</div>
+      <div class="type-caption" style="margin-top:4px;">Inter Bold · 24px · 价格用</div>
+    </div>
+  </div>
+</div>
+<div style="margin-top:24px;font-size:12px;color:#999;">
+  <b>实现方式：</b>中文字体直接用系统栈 (<code>-apple-system, 'PingFang SC', 'Helvetica Neue'</code>)，英文用 <code>Inter</code>（Google Fonts 免费引入）。不需要购买商业字体。
+</div>
+</div>
+
+<!-- 3. SHAPE LANGUAGE -->
+<div class="section">
+<div class="section-title">03</div>
+<div class="section-sub">形状语言 & 圆角</div>
+<div class="section-desc">
+温暖的品牌用更大的圆角——减少"锋利感"。卡片、按钮、输入框全部 12-16px 圆角。头像和 chip 用全圆。整体感觉是柔软的、可接近的，不是棱角分明、有距离感的。
+</div>
+<div class="shape-row">
+  <div class="shape-box"><div class="shape-demo r4">4px</div><div class="shape-label">小标签</div></div>
+  <div class="shape-box"><div class="shape-demo r8">8px</div><div class="shape-label">能力标签</div></div>
+  <div class="shape-box"><div class="shape-demo r12">12px</div><div class="shape-label">按钮</div></div>
+  <div class="shape-box"><div class="shape-demo r16">16px</div><div class="shape-label">卡片</div></div>
+  <div class="shape-box"><div class="shape-demo r20">20px</div><div class="shape-label">大卡片</div></div>
+  <div class="shape-box"><div class="shape-demo r24">24px</div><div class="shape-label">弹窗</div></div>
+  <div class="shape-box"><div class="shape-demo r-full">全圆</div><div class="shape-label">头像·chip</div></div>
+</div>
+<div class="section-desc" style="margin-bottom:0;">
+<b>规则：</b>越小越方，越大越圆。按钮 12px、卡片 16px、弹窗 24px。统一用偶数值。
+</div>
+</div>
+
+<!-- 4. UI COMPONENTS -->
+<div class="section">
+<div class="section-title">04</div>
+<div class="section-sub">UI 组件风格</div>
+<div class="section-desc">
+按钮用暖珊瑚填充——最显眼的 CTA 永远是我们的主色。次要操作用 ghost 或 outline。卡片用暖灰边框 + 白色底，有淡淡的阴影但不过分。
+</div>
+
+<div class="ui-row">
+  <button class="btn-primary">预约 素心</button>
+  <button class="btn-secondary">返回首页</button>
+  <button class="btn-ghost">取消</button>
+</div>
+<div class="ui-row" style="margin-top:8px;">
+  <span class="chip active">全部</span>
+  <span class="chip">文书</span>
+  <span class="chip">选校</span>
+  <span class="chip">推荐信</span>
+  <span class="chip">背景提升</span>
+</div>
+<div class="ui-row" style="margin-top:8px;">
+  <input class="input-field" placeholder="比如：UCI 大二，犯罪学专业" />
+</div>
+<div class="ui-row" style="margin-top:8px;">
+  <div class="card-sample">
+    <div class="card-av">🌸</div>
+    <div class="card-name">素心</div>
+    <div class="card-path">UC Davis → 宾大</div>
+  </div>
+  <div style="font-size:12px;color:#999;">卡片：暖灰边框 #EDE4D8<br>圆角 16px · 淡阴影</div>
+</div>
+</div>
+
+<!-- 5. SPACING -->
+<div class="section">
+<div class="section-title">05</div>
+<div class="section-sub">间距 & 留白</div>
+<div class="section-desc">
+温暖感不只靠颜色——靠<b>不拥挤</b>。卡片之间 16px，段落行高 1.8，让每个内容都有呼吸的空间。内容密度低 = 信任感高。拥挤 = 廉价感。
+</div>
+<div class="space-demo">
+  <div style="font-size:13px;font-weight:700;color:#999;margin-bottom:16px;">间距标尺（1x = 4px）</div>
+  <div class="space-row"><span class="space-label">8px</span><div class="space-bar" style="width:32px;"></div><span style="font-size:11px;color:#999;">标签之间、图标与文字</span></div>
+  <div class="space-row"><span class="space-label">12px</span><div class="space-bar" style="width:48px;"></div><span style="font-size:11px;color:#999;">卡片内部元素</span></div>
+  <div class="space-row"><span class="space-label">16px</span><div class="space-bar" style="width:64px;"></div><span style="font-size:11px;color:#999;">卡片之间、段落间距</span></div>
+  <div class="space-row"><span class="space-label">24px</span><div class="space-bar" style="width:96px;"></div><span style="font-size:11px;color:#999;">板块之间</span></div>
+  <div class="space-row"><span class="space-label">32px</span><div class="space-bar" style="width:128px;"></div><span style="font-size:11px;color:#999;">页面左右 padding</span></div>
+</div>
+<div class="section-desc" style="margin-bottom:0;">
+<b>规则：</b>间距以 4px 为基准单位。所有间距取 4 的倍数（8/12/16/20/24/32）。不建议用 10/14/18 这种非标值。
+</div>
+</div>
+
+<!-- 6. PHOTOGRAPHY -->
+<div class="section">
+<div class="section-title">06</div>
+<div class="section-sub">摄影 & 图像方向</div>
+<div class="section-desc">
+<b>不要 stock photo。</b>这个品牌唯一应该出现的照片，是真实 mentor 的真实照片。自然光、生活场景、不刻意摆拍。如果 mentor 不愿意放照片，用姓名首字做暖色调圆形头像替代。头像在奶油白底 + 浅珊瑚边框，比单纯灰底有温度。
+</div>
+
+<div class="photo-grid">
+  <div class="photo-box" style="background:#FCE4D6;">自然光人像<br>（mentor 真实照片）</div>
+  <div class="photo-box" style="background:#F7E8DB;">咖啡厅/书房<br>生活场景</div>
+  <div class="photo-box" style="background:#F0E0D0;">暖色调滤镜<br>统一视觉</div>
+</div>
+
+<div class="ui-row" style="margin-top:8px;">
+  <div style="display:flex;gap:12px;align-items:center;">
+    <div style="width:52px;height:52px;border-radius:50%;background:#FCE4D6;border:2px solid #F7CDB8;display:flex;align-items:center;justify-content:center;font-size:22px;">🌸</div>
+    <div style="font-size:12px;color:#999;">无照片时：<br>姓名首字 + 暖色圆形底<br>+ 浅珊瑚边框</div>
+  </div>
+</div>
+<div class="section-desc" style="margin-bottom:0;">
+<b>规则：</b>所有 mentor 照片统一加暖色调滤镜（提高色温、降低饱和度），保持视觉一致性。不出现黑白照片——太冷。
+</div>
+</div>
+
+<!-- 7. ICONOGRAPHY -->
+<div class="section">
+<div class="section-title">07</div>
+<div class="section-sub">图标风格</div>
+<div class="section-desc">
+图标用圆角线条风格——不是纯几何，也不是手绘。介于两者之间：有结构但不僵硬。emoji 可以作为设计元素使用（赛道卡片、活人标签旁），增加"人味"。
+</div>
+
+<div class="icon-row">
+  <div class="icon-item">
+    <div class="icon-circle" style="background:#FFF8F0;border:1.5px solid #EDE4D8;">🏫</div>
+    <div class="shape-label">赛道 emoji</div>
+  </div>
+  <div class="icon-item">
+    <div class="icon-circle" style="background:#FFF8F0;border:1.5px solid #EDE4D8;">💬</div>
+    <div class="shape-label">服务 icon</div>
+  </div>
+  <div class="icon-item">
+    <div class="icon-circle" style="background:#FFF8F0;border:1.5px solid #EDE4D8;">✍️</div>
+    <div class="shape-label">能力 icon</div>
+  </div>
+  <div class="icon-item">
+    <div class="icon-circle" style="background:#FFF8F0;border:1.5px solid #EDE4D8;">🔍</div>
+    <div class="shape-label">功能 icon</div>
+  </div>
+</div>
+<div class="section-desc" style="margin-bottom:0;margin-top:16px;">
+<b>规则：</b>功能 icon 用 <a href="https://phosphoricons.com" style="color:#E8815D;">Phosphor Icons</a>（开源、圆角线条风、免费商用）。能力标签和赛道保留 emoji——它们是我们的"品牌记忆点"。
+</div>
+</div>
+
+<!-- 8. TONE OF VOICE -->
+<div class="section">
+<div class="section-title">08</div>
+<div class="section-sub">文案语气</div>
+<div class="section-desc">
+品牌的温度不只靠视觉——文案的语气决定了用户觉得"这是一个平台在推销"还是"一个朋友在邀请"。我们的文案原则：
+</div>
+
+<div class="tone-grid">
+  <div class="tone-card" style="background:#FFF8F0;">
+    <div class="tone-label" style="color:#E8815D;">✅ 这样说</div>
+    <div class="tone-example">
+      "找到走过你想走的路的人"<br>
+      "真实的过来人经验，不是中介模板"<br>
+      "多选几个时间段，mentor 越容易匹配上"<br>
+      "如果 mentor 超时未回复，我们会帮你跟进"
+    </div>
+  </div>
+  <div class="tone-card" style="background:#fafafa;">
+    <div class="tone-label" style="color:#999;">❌ 不这样说</div>
+    <div class="tone-example" style="color:#aaa;">
+      "高端留学导师一对一咨询"<br>
+      "专业团队 · 名校背景 · 保录取"<br>
+      "请选择您的可用时段"<br>
+      "系统将自动为您匹配最优导师"
+    </div>
+  </div>
+</div>
+<div class="section-desc" style="margin-bottom:0;margin-top:20px;">
+<b>文案规则：</b><br>
+· 用"你"不用"您"——亲切但不过度<br>
+· 说人话——"多选几个时间"而不是"请选择您的可用时段"<br>
+· 透明——有风险就说风险（"如果 mentor 都不行"）<br>
+· 不要营销腔——绝不出现"高端""保录取""最优""名师"这类词
+</div>
+</div>
+
+</div>
+</body>
+</html>

@@ -218,6 +218,60 @@ app.post('/api/upload-chat', upload.single('screenshot'), async (req, res) => {
   } catch(e) { res.status(500).json({ error: e.message }); }
 });
 
+// ── 评估与建议 ──
+app.get('/api/assessments', async (req, res) => {
+  try {
+    const dirs = await listDirs('');
+    const exclude = ['话术库','跟进管理'];
+    const results = [];
+    for (const dir of dirs) {
+      if (exclude.includes(dir)) continue;
+      const content = await readFile(dir + '/学生档案.md');
+      if (!content) continue;
+      const fm = parseFrontmatter(content);
+      const hasRecords = content.includes('# 咨询记录');
+
+      // Count meetings from consultation records
+      const meetingMatches = content.match(/^#{1,2} .*第[一二三四五六七八九十\d]+场/gm) || [];
+      const meetingCount = meetingMatches.length;
+
+      // Check for assessment files
+      let assessmentFiles = [];
+      try {
+        if (!IS_VERCEL) {
+          const assessDir = path.join(CONSULTING_DIR, dir, '评估与建议');
+          if (fs.existsSync(assessDir)) {
+            assessmentFiles = fs.readdirSync(assessDir).filter(f => f.endsWith('.md'));
+          }
+        } else {
+          const files = await ghAPI('GET', dir + '/评估与建议');
+          assessmentFiles = Array.isArray(files) ? files.filter(f => f.name && f.name.endsWith('.md')).map(f => f.name) : [];
+        }
+      } catch(e) { /* no assessments dir yet */ }
+
+      results.push({
+        student: dir,
+        status: fm.status || '未知',
+        hasMeetings: hasRecords,
+        meetingCount,
+        assessmentFiles: assessmentFiles.sort().reverse(),
+        pending: hasRecords && assessmentFiles.length < meetingCount,
+      });
+    }
+    // Sort: pending first, then by status
+    results.sort((a,b) => (b.pending ? 1 : 0) - (a.pending ? 1 : 0));
+    res.json(results);
+  } catch(e) { res.status(500).json({ error: e.message }); }
+});
+
+app.get('/api/assessments/:student/:file', async (req, res) => {
+  try {
+    const content = await readFile(req.params.student + '/评估与建议/' + req.params.file);
+    if (!content) return res.status(404).json({ error: '文件不存在' });
+    res.json({ content, html: marked.parse(content) });
+  } catch(e) { res.status(500).json({ error: e.message }); }
+});
+
 app.listen(PORT, () => {
   console.log(`南桥工作台已启动: http://localhost:${PORT}`);
 });

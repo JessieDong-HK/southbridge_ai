@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>品牌调性探索 · Mentorship 网络</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, 'PingFang SC', 'Helvetica Neue', sans-serif;
+    background: #f5f5f5; padding: 40px 20px;
+  }
+  .container { max-width: 900px; margin: 0 auto; }
+  h1 { text-align: center; font-size: 28px; margin-bottom: 8px; }
+  .subtitle { text-align: center; color: #999; margin-bottom: 40px; font-size: 15px; }
+
+  .direction {
+    background: #fff;
+    border-radius: 20px;
+    padding: 0;
+    margin-bottom: 32px;
+    overflow: hidden;
+    box-shadow: 0 2px 16px rgba(0,0,0,.06);
+  }
+  .dir-header {
+    padding: 28px 32px 0;
+  }
+  .dir-num { font-size: 12px; font-weight: 700; color: #999; letter-spacing: 1px; margin-bottom: 6px; }
+  .dir-name { font-size: 24px; font-weight: 800; margin-bottom: 4px; }
+  .dir-mood { font-size: 14px; color: #666; line-height: 1.8; margin-bottom: 16px; }
+
+  /* Palette swatches */
+  .palette { display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap; }
+  .swatch {
+    width: 56px; height: 56px; border-radius: 14px;
+    display: flex; align-items: flex-end; justify-content: center;
+    padding-bottom: 4px; font-size: 9px; font-weight: 600;
+    color: rgba(0,0,0,.5);
+  }
+  .swatch.light { color: rgba(0,0,0,.4); }
+
+  /* Preview card */
+  .preview {
+    margin: 0 32px 0;
+    border-radius: 16px 16px 0 0;
+    overflow: hidden;
+  }
+  .preview-phone {
+    width: 280px;
+    margin: 0 auto;
+    background: #fff;
+    border-radius: 24px 24px 0 0;
+    border: 1px solid #e5e5e5;
+    border-bottom: none;
+    overflow: hidden;
+  }
+  .preview-status { height: 32px; display:flex; align-items:center; justify-content:space-between; padding:0 16px; font-size:10px; font-weight:600; }
+  .preview-nav { height: 36px; display:flex; align-items:center; justify-content:center; font-size:13px; font-weight:700; border-bottom:0.5px solid rgba(0,0,0,.08); }
+  .preview-content { padding: 16px; }
+  .preview-hero { font-size: 18px; font-weight: 800; line-height: 1.3; margin-bottom: 3px; }
+  .preview-sub { font-size: 11px; color: #888; margin-bottom: 14px; }
+  .preview-track {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 6px; margin-bottom: 14px;
+  }
+  .preview-tc {
+    padding: 12px 10px; border-radius: 10px; font-size: 11px; font-weight: 700;
+    border: 1.5px solid #eee; background: #fafafa;
+  }
+  .preview-tc.primary { border-width: 2px; }
+  .preview-tc .emoji { font-size: 16px; margin-bottom: 3px; }
+  .preview-card {
+    padding: 12px; border-radius: 12px; font-size: 11px;
+    display: flex; gap: 10px; align-items: center; margin-bottom: 8px;
+  }
+  .preview-av { width: 40px; height: 40px; border-radius: 50%; display:flex; align-items:center; justify-content:center; font-size:18px; flex-shrink:0; }
+  .preview-info { flex:1; }
+  .preview-mn { font-size: 13px; font-weight: 700; }
+
+  /* References */
+  .refs { padding: 0 32px 28px; display: flex; gap: 10px; flex-wrap: wrap; }
+  .ref-tag {
+    font-size: 11px; padding: 4px 10px; border-radius: 6px;
+    background: #f3f4f6; color: #888;
+  }
+
+  .footer-note {
+    display: flex; gap: 10px; padding: 0 32px 24px;
+    font-size: 13px; color: #555; line-height: 1.6;
+  }
+  .footer-note .icon { font-size: 18px; flex-shrink: 0; }
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Mentorship 网络 · 品牌调性探索</h1>
+<div class="subtitle">三个完全不同的方向。不是选"哪个最好看"，是选"哪个最像我们"。</div>
+
+<!-- ====== 方向 A: 温暖人文 ====== -->
+<div class="direction">
+
+<div class="dir-header">
+  <div class="dir-num">DIRECTION A</div>
+  <div class="dir-name">温暖人文 · Community Warmth</div>
+  <div class="dir-mood">
+    关键词：<b>像朋友、可信赖、有烟火气、不端着</b><br>
+    不是一个平台在卖服务，是一个社区在邀请你加入。<br>
+    不冷、不商业、不精致到假——像一个温暖的客厅。
+  </div>
+  <div class="palette">
+    <div class="swatch" style="background:#FFF8F0;">#FFF8F0</div>
+    <div class="swatch" style="background:#E8815D;color:#fff;">#E8815D</div>
+    <div class="swatch" style="background:#2D3748;color:#fff;">#2D3748</div>
+    <div class="swatch" style="background:#F7CDB8;">#F7CDB8</div>
+    <div class="swatch" style="background:#48BB78;color:#fff;">#48BB78</div>
+  </div>
+</div>
+
+<div class="preview">
+<div class="preview-phone">
+  <div class="preview-status" style="background:#FFF8F0;">9:41</div>
+  <div class="preview-nav" style="background:#FFF8F0;">Mentorship</div>
+  <div class="preview-content" style="background:#FFF8F0;">
+    <div class="preview-hero">找到走过你想<br>走的路的人</div>
+    <div class="preview-sub">真实的过来人经验</div>
+    <div class="preview-track">
+      <div class="preview-tc primary" style="background:#fff;border-color:#E8815D;">
+        <div class="emoji">🔥</div>美本转学
+      </div>
+      <div class="preview-tc"><div class="emoji">🎓</div>美本申请</div>
+      <div class="preview-tc"><div class="emoji">📚</div>美研申请</div>
+      <div class="preview-tc"><div class="emoji">🌏</div>英联邦申请</div>
+    </div>
+    <div class="preview-card" style="background:#fff;border:1px solid #f0e4d8;">
+      <div class="preview-av" style="background:#fce8dd;">🌸</div>
+      <div class="preview-info">
+        <div class="preview-mn">素心</div>
+        <div style="font-size:10px;color:#888;">UC Davis → 宾大</div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="refs">
+  <span class="ref-tag">参考：小红书社区调性</span>
+  <span class="ref-tag">Mentor Collective</span>
+  <span class="ref-tag">Airbnb 早期品牌</span>
+  <span class="ref-tag">Patagonia</span>
+</div>
+<div class="footer-note">
+  <span class="icon">💡</span>
+  <span>适合如果我们想强调"这是一个人和人之间的 community，不是一个冷冰冰的交易平台"。颜色暖但不幼稚，coral 做主色有记忆点。适合拍照多的设计——真实的 mentor 照片比任何设计都更有说服力。</span>
+</div>
+</div>
+
+<!-- ====== 方向 B: 安静学术 ====== -->
+<div class="direction">
+
+<div class="dir-header">
+  <div class="dir-num">DIRECTION B</div>
+  <div class="dir-name">安静学术 · Calm Scholarly</div>
+  <div class="dir-mood">
+    关键词：<b>沉静、可信、有深度、不喧哗</b><br>
+    像一个安静的图书馆角落，不是热闹的市集。<br>
+    少就是多——用留白和排版说话，不用颜色喊。
+  </div>
+  <div class="palette">
+    <div class="swatch" style="background:#FAFBFC;">#FAFBFC</div>
+    <div class="swatch" style="background:#1A3A4A;color:#fff;">#1A3A4A</div>
+    <div class="swatch" style="background:#5B7F6B;color:#fff;">#5B7F6B</div>
+    <div class="swatch" style="background:#E8EDF0;">#E8EDF0</div>
+    <div class="swatch" style="background:#C8A96E;">#C8A96E</div>
+  </div>
+</div>
+
+<div class="preview">
+<div class="preview-phone">
+  <div class="preview-status" style="background:#FAFBFC;">9:41</div>
+  <div class="preview-nav" style="background:#FAFBFC;">Mentorship</div>
+  <div class="preview-content" style="background:#FAFBFC;">
+    <div class="preview-hero" style="font-weight:500;letter-spacing:-0.5px;">找到走过你想<br>走的路的人</div>
+    <div class="preview-sub">真实的过来人经验，不是中介模板</div>
+    <div class="preview-track">
+      <div class="preview-tc primary" style="background:#fff;border-color:#1A3A4A;">
+        <div class="emoji">🔥</div>美本转学
+      </div>
+      <div class="preview-tc"><div class="emoji">🎓</div>美本申请</div>
+      <div class="preview-tc"><div class="emoji">📚</div>美研申请</div>
+      <div class="preview-tc"><div class="emoji">🌏</div>英联邦申请</div>
+    </div>
+    <div class="preview-card" style="background:#fff;border:1px solid #e8edf0;">
+      <div class="preview-av" style="background:#dce5e0;">🌸</div>
+      <div class="preview-info">
+        <div class="preview-mn" style="font-weight:500;">素心</div>
+        <div style="font-size:10px;color:#888;">UC Davis → 宾大</div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="refs">
+  <span class="ref-tag">参考：Notion</span>
+  <span class="ref-tag">Linear</span>
+  <span class="ref-tag">Muji 無印良品</span>
+  <span class="ref-tag">New York Times</span>
+</div>
+<div class="footer-note">
+  <span class="icon">💡</span>
+  <span>适合如果我们想强调"这里是严肃的教育决策，不是随便看看"。深蓝绿 + 暖金点缀——有学术底蕴但不死板。这种风格特别吃排版和留白——如果内容密度高了，气质就毁了。</span>
+</div>
+</div>
+
+<!-- ====== 方向 C: 青年活力 ====== -->
+<div class="direction">
+
+<div class="dir-header">
+  <div class="dir-num">DIRECTION C</div>
+  <div class="dir-name">青年活力 · Bold Youth</div>
+  <div class="dir-mood">
+    关键词：<b>有态度、敢表达、Gen Z、不无聊</b><br>
+    不是告诉你"你应该做什么"，而是"我们一起搞点事情"。<br>
+    有视觉冲击力，让人记住——在一堆沉闷的教育产品里跳出来。
+  </div>
+  <div class="palette">
+    <div class="swatch" style="background:#F8F6F0;">#F8F6F0</div>
+    <div class="swatch" style="background:#FF6B35;color:#fff;">#FF6B35</div>
+    <div class="swatch" style="background:#1E1E2E;color:#fff;">#1E1E2E</div>
+    <div class="swatch" style="background:#7C5CFC;color:#fff;">#7C5CFC</div>
+    <div class="swatch" style="background:#FFD23F;">#FFD23F</div>
+  </div>
+</div>
+
+<div class="preview">
+<div class="preview-phone">
+  <div class="preview-status" style="background:#F8F6F0;">9:41</div>
+  <div class="preview-nav" style="background:#F8F6F0;">Mentorship</div>
+  <div class="preview-content" style="background:#F8F6F0;">
+    <div class="preview-hero" style="font-weight:900;letter-spacing:-0.5px;">找到走过你想<br>走的路的人 🔥</div>
+    <div class="preview-sub">真实的过来人经验，不是中介模板</div>
+    <div class="preview-track">
+      <div class="preview-tc primary" style="background:#fff;border-color:#FF6B35;">
+        <div class="emoji">🔥</div>美本转学
+      </div>
+      <div class="preview-tc"><div class="emoji">🎓</div>美本申请</div>
+      <div class="preview-tc"><div class="emoji">📚</div>美研申请</div>
+      <div class="preview-tc"><div class="emoji">🌏</div>英联邦申请</div>
+    </div>
+    <div class="preview-card" style="background:#fff;border:1px solid #eee;">
+      <div class="preview-av" style="background:#f0e8ff;">🌸</div>
+      <div class="preview-info">
+        <div class="preview-mn">素心</div>
+        <div style="font-size:10px;color:#888;">UC Davis → 宾大</div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="refs">
+  <span class="ref-tag">参考：Duolingo</span>
+  <span class="ref-tag">Figma 早期品牌</span>
+  <span class="ref-tag">B站设计语言</span>
+  <span class="ref-tag">Spotify</span>
+</div>
+<div class="footer-note">
+  <span class="icon">💡</span>
+  <span>适合如果我们想吸引 Gen Z 学生（我们的核心用户），让品牌在留学赛道里特别显眼。橘色+深色+紫色的碰撞有态度。但这个方向的难点在于"青年但不幼稚"——做得不好容易像少儿教育产品。适合有很多插画/图形元素的设计。</span>
+</div>
+</div>
+
+</div>
+</body>
+</html>

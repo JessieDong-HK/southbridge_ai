@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mentorship 小程序原型 v2 · 品牌版</title>
+<script src="https://unpkg.com/@phosphor-icons/web@2.1.1"></script>
+<style>
+  :root {
+    --coral: #E8815D;
+    --coral-dark: #D06E4A;
+    --cream: #FFF8F0;
+    --slate: #2D3748;
+    --blush: #F7CDB8;
+    --blush-light: #FCE4D6;
+    --sage: #48BB78;
+    --sand: #EDE4D8;
+    --sand-dark: #D4C9BC;
+    --white: #FFFFFF;
+    --text: #2D3748;
+    --text-secondary: #6B7280;
+    --text-muted: #9CA3AF;
+    --radius-sm: 8px;
+    --radius-md: 12px;
+    --radius-lg: 16px;
+    --radius-xl: 20px;
+    --radius-2xl: 24px;
+    --radius-full: 999px;
+    --space-xs: 8px;
+    --space-sm: 12px;
+    --space-md: 16px;
+    --space-lg: 24px;
+    --space-xl: 32px;
+    --font-heading: 28px;
+    --font-title: 20px;
+    --font-body: 15px;
+    --font-sm: 13px;
+    --font-xs: 12px;
+    --font-caption: 11px;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,.04);
+    --shadow-md: 0 2px 12px rgba(0,0,0,.05);
+    --pattern-dot: radial-gradient(circle, var(--sand) 1px, transparent 1px);
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    font-family: -apple-system,'PingFang SC','Helvetica Neue',sans-serif;
+    background: #EDE8E0;
+    display:flex; flex-wrap:wrap; gap:32px; padding:32px;
+    justify-content:center;
+  }
+  .screen-wrap { display:flex; flex-direction:column; align-items:center; }
+  .screen-label {
+    font-size:12px; color:#8B8078; font-weight:700; margin-bottom:8px;
+    letter-spacing:0.5px; background:rgba(255,255,255,.6); padding:4px 12px;
+    border-radius:var(--radius-full);
+  }
+  .phone {
+    width:375px; min-height:680px; background:var(--cream);
+    border-radius:32px; overflow:hidden;
+    box-shadow:0 20px 60px rgba(0,0,0,.12), 0 0 0 1px rgba(0,0,0,.04);
+    position:relative;
+    background-image: var(--pattern-dot);
+    background-size: 20px 20px;
+    background-position: 0 0;
+  }
+  .phone-inner {
+    position:relative; z-index:1;
+    background:var(--cream); min-height:680px;
+  }
+  .status-bar { height:44px; display:flex; align-items:center; justify-content:space-between; padding:0 24px; font-size:12px; font-weight:600; color:var(--slate); }
+  .nav-bar { height:44px; display:flex; align-items:center; justify-content:center; font-size:17px; font-weight:600; color:var(--slate); position:relative; }
+  .nav-back { position:absolute; left:16px; width:28px; height:28px; border-radius:var(--radius-sm); background:rgba(255,255,255,.8); display:flex; align-items:center; justify-content:center; font-size:18px; color:var(--coral); cursor:pointer; }
+  .content { padding:0 var(--space-md); }
+  .content-scroll { max-height:580px; overflow-y:auto; }
+
+  /* Typography */
+  .hero-title { font-size:32px; font-weight:800; letter-spacing:-0.8px; line-height:1.15; color:var(--slate); margin-bottom:6px; }
+  .hero-sub { font-size:var(--font-body); color:var(--text-secondary); margin-bottom:var(--space-lg); line-height:1.5; }
+  .section-title { font-size:18px; font-weight:700; color:var(--slate); margin-bottom:var(--space-sm); letter-spacing:-0.3px; }
+  .section-title-sm { font-size:var(--font-body); font-weight:700; color:var(--slate); margin-bottom:var(--space-sm); }
+
+  /* Track Cards */
+  .track-grid { display:grid; grid-template-columns:1fr 1fr; gap:var(--space-sm); margin-bottom:var(--space-lg); }
+  .track-card {
+    padding:18px 14px; border-radius:var(--radius-lg); cursor:pointer;
+    border:1.5px solid var(--sand); background:var(--white);
+    transition:.15s; position:relative; overflow:hidden;
+  }
+  .track-card:hover { border-color:var(--blush); transform:translateY(-1px); box-shadow:var(--shadow-md); }
+  .track-card.primary { background:var(--white); border-color:var(--coral); border-width:2px; }
+  .track-card .tc-icon {
+    width:36px; height:36px; border-radius:var(--radius-md); display:flex;
+    align-items:center; justify-content:center; font-size:18px; margin-bottom:10px;
+  }
+  .track-card .tc-name { font-size:var(--font-body); font-weight:700; color:var(--slate); margin-bottom:2px; }
+  .track-card .tc-desc { font-size:var(--font-xs); color:var(--text-muted); line-height:1.4; }
+
+  /* Featured Mentors */
+  .featured-scroll { display:flex; gap:var(--space-sm); overflow-x:auto; padding-bottom:var(--space-xs); margin-bottom:var(--space-lg); scroll-snap-type:x mandatory; }
+  .featured-card {
+    min-width:148px; scroll-snap-align:start;
+    background:var(--white); border-radius:var(--radius-lg);
+    padding:var(--space-md); border:1px solid var(--sand);
+    text-align:center; cursor:pointer;
+  }
+  .featured-card .f-avatar {
+    width:56px; height:56px; border-radius:var(--radius-full);
+    margin:0 auto 10px; display:flex; align-items:center; justify-content:center;
+    position:relative; overflow:hidden;
+  }
+  .featured-card .f-avatar-inner {
+    width:100%; height:100%; border-radius:var(--radius-full);
+    display:flex; align-items:center; justify-content:center;
+    font-size:26px;
+  }
+  .featured-card .f-name { font-size:var(--font-sm); font-weight:700; color:var(--slate); margin-bottom:2px; }
+  .featured-card .f-path { font-size:var(--font-caption); color:var(--text-muted); line-height:1.4; }
+
+  /* Steps */
+  .steps-row { display:flex; gap:var(--space-md); margin-bottom:var(--space-lg); }
+  .step-item { flex:1; text-align:center; }
+  .step-num {
+    width:40px; height:40px; border-radius:var(--radius-full);
+    background:var(--white); border:1.5px solid var(--blush);
+    color:var(--coral); font-weight:700; font-size:16px;
+    display:inline-flex; align-items:center; justify-content:center;
+    margin-bottom:8px;
+  }
+  .step-label { font-size:var(--font-xs); color:var(--text-secondary); font-weight:600; line-height:1.4; }
+
+  /* Filter */
+  .filter-row { display:flex; gap:var(--space-xs); flex-wrap:wrap; margin-bottom:var(--space-md); }
+  .filter-chip {
+    padding:8px 16px; border-radius:var(--radius-full); font-size:var(--font-sm);
+    border:1px solid var(--sand); background:var(--white); color:var(--text-secondary);
+    cursor:pointer; white-space:nowrap; font-weight:500; transition:.15s;
+  }
+  .filter-chip.active { background:var(--coral); color:var(--white); border-color:var(--coral); }
+  .result-count { font-size:var(--font-sm); color:var(--text-muted); margin-bottom:var(--space-sm); }
+  .sort-row { display:flex; gap:var(--space-md); margin-bottom:var(--space-md); font-size:var(--font-sm); }
+  .sort-option { color:var(--text-muted); cursor:pointer; font-weight:500; }
+  .sort-option.active { color:var(--coral); font-weight:700; }
+
+  /* Mentor Card */
+  .mentor-card {
+    background:var(--white); border:1px solid var(--sand); border-radius:var(--radius-lg);
+    padding:var(--space-md); margin-bottom:var(--space-sm); cursor:pointer;
+    box-shadow:var(--shadow-sm); transition:.15s;
+  }
+  .mentor-card:active { border-color:var(--blush); box-shadow:var(--shadow-md); }
+  .mc-top { display:flex; gap:var(--space-sm); margin-bottom:var(--space-sm); align-items:flex-start; }
+  .mc-avatar {
+    width:56px; height:56px; border-radius:var(--radius-full); flex-shrink:0;
+    display:flex; align-items:center; justify-content:center; font-size:24px;
+    overflow:hidden; position:relative;
+  }
+  .mc-info { flex:1; }
+  .mc-name { font-size:16px; font-weight:700; color:var(--slate); letter-spacing:-0.2px; }
+  .mc-path { font-size:var(--font-sm); color:var(--text-secondary); margin:2px 0; }
+  .mc-highlight { font-size:var(--font-xs); color:var(--text-muted); }
+  .mc-tags { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:var(--space-sm); }
+  .mc-tag {
+    font-size:var(--font-caption); padding:5px 10px; border-radius:var(--radius-sm);
+    background:var(--cream); color:var(--text-secondary); font-weight:500;
+  }
+  .mc-tier { display:flex; gap:var(--space-xs); font-size:var(--font-xs); color:var(--coral); font-weight:600; margin-bottom:var(--space-xs); }
+  .mc-vibes { display:flex; gap:6px; flex-wrap:wrap; }
+  .mc-vibe {
+    font-size:10px; color:var(--text-muted); background:var(--cream);
+    padding:4px 8px; border-radius:var(--radius-full); font-weight:500;
+  }
+
+  /* Profile */
+  .profile-header { text-align:center; padding:var(--space-lg) 0 var(--space-md); }
+  .profile-avatar {
+    width:88px; height:88px; border-radius:var(--radius-full);
+    margin:0 auto 12px; display:flex; align-items:center; justify-content:center;
+    font-size:40px; overflow:hidden; position:relative;
+  }
+  .profile-name { font-size:24px; font-weight:800; color:var(--slate); letter-spacing:-0.3px; }
+  .profile-path { font-size:var(--font-sm); color:var(--text-secondary); margin:4px 0; }
+  .profile-highlight { font-size:var(--font-xs); color:var(--text-muted); }
+  .section-header {
+    font-size:16px; font-weight:700; color:var(--slate);
+    margin:var(--space-lg) 0 var(--space-sm); padding-top:var(--space-lg);
+    border-top:1px solid var(--sand); letter-spacing:-0.2px;
+  }
+  .cap-group { margin-bottom:var(--space-sm); }
+  .cap-group-title { font-size:var(--font-caption); font-weight:700; color:var(--text-muted); margin-bottom:6px; text-transform:uppercase; letter-spacing:0.5px; }
+  .cap-tags { display:flex; flex-wrap:wrap; gap:6px; }
+  .cap-tag { font-size:var(--font-xs); padding:6px 12px; border-radius:var(--radius-sm); background:var(--white); color:var(--coral); border:1px solid var(--blush); font-weight:500; }
+
+  /* Service Options */
+  .service-list { margin-bottom:var(--space-md); }
+  .service-opt {
+    background:var(--white); border:1.5px solid var(--sand); border-radius:var(--radius-lg);
+    padding:var(--space-md); margin-bottom:var(--space-xs); display:flex;
+    justify-content:space-between; align-items:center; cursor:pointer;
+  }
+  .service-opt:hover { border-color:var(--blush); }
+  .service-opt .sname { font-size:var(--font-body); font-weight:700; color:var(--slate); }
+  .service-opt .sdesc { font-size:var(--font-xs); color:var(--text-muted); margin-top:2px; }
+  .service-opt .sprice { font-size:20px; font-weight:800; color:var(--coral); }
+
+  /* Vibe tags */
+  .vibe-row { display:flex; gap:var(--space-xs); flex-wrap:wrap; margin:var(--space-md) 0; }
+  .vibe-tag {
+    font-size:var(--font-xs); padding:6px 14px; border-radius:var(--radius-full);
+    background:#FFFAF0; color:#C2410C; border:1px solid #FED7AA;
+    font-weight:500;
+  }
+
+  /* Bottom CTA */
+  .bottom-cta {
+    position:sticky; bottom:0; background:rgba(255,248,240,.95);
+    backdrop-filter:blur(10px); padding:var(--space-sm) var(--space-md) 28px;
+    border-top:1px solid var(--sand);
+  }
+  .btn-primary {
+    width:100%; padding:15px; background:var(--coral); color:var(--white);
+    border:none; border-radius:var(--radius-md); font-size:16px; font-weight:700;
+    cursor:pointer; letter-spacing:-0.2px; transition:.15s;
+  }
+  .btn-primary:hover { background:var(--coral-dark); }
+  .btn-outline {
+    width:100%; padding:15px; background:var(--white); color:var(--coral);
+    border:1.5px solid var(--coral); border-radius:var(--radius-md);
+    font-size:16px; font-weight:700; cursor:pointer;
+  }
+
+  /* Booking */
+  .booking-step { font-size:var(--font-caption); color:var(--text-muted); margin-bottom:var(--space-xs); letter-spacing:1px; }
+  .booking-title { font-size:18px; font-weight:700; color:var(--slate); margin-bottom:var(--space-md); }
+  .radio-option {
+    background:var(--white); border:1.5px solid var(--sand); border-radius:var(--radius-lg);
+    padding:var(--space-md); margin-bottom:var(--space-xs); display:flex;
+    align-items:center; gap:var(--space-sm); cursor:pointer;
+  }
+  .radio-option.selected { border-color:var(--coral); background:var(--cream); }
+  .radio-circle {
+    width:22px; height:22px; border-radius:var(--radius-full); border:2px solid var(--sand);
+    flex-shrink:0; display:flex; align-items:center; justify-content:center;
+  }
+  .radio-circle.sel { border-color:var(--coral); }
+  .radio-circle.sel::after { content:''; width:10px; height:10px; border-radius:50%; background:var(--coral); }
+  .radio-info { flex:1; }
+  .radio-title { font-size:var(--font-body); font-weight:700; color:var(--slate); }
+  .radio-desc { font-size:var(--font-xs); color:var(--text-muted); margin-top:2px; }
+
+  /* Time */
+  .tz-select {
+    width:100%; padding:14px var(--space-md); border:1.5px solid var(--sand);
+    border-radius:var(--radius-md); font-size:14px; margin-bottom:var(--space-md);
+    background:var(--white); color:var(--slate); font-family:inherit;
+  }
+  .day-group { margin-bottom:var(--space-md); }
+  .day-label { font-size:var(--font-sm); font-weight:700; color:var(--slate); margin-bottom:var(--space-xs); }
+  .time-chips { display:flex; flex-wrap:wrap; gap:var(--space-xs); }
+  .time-chip {
+    padding:10px 14px; border:1px solid var(--sand); border-radius:var(--radius-md);
+    font-size:var(--font-sm); cursor:pointer; background:var(--white); color:var(--text-secondary);
+    font-weight:500; transition:.15s;
+  }
+  .time-chip.selected { background:var(--coral); color:var(--white); border-color:var(--coral); }
+  .selected-count { font-size:var(--font-sm); color:var(--coral); margin:var(--space-xs) 0 var(--space-md); font-weight:600; }
+
+  /* Forms */
+  .qa-label { font-size:var(--font-sm); font-weight:700; color:var(--slate); margin-bottom:6px; margin-top:var(--space-md); }
+  .text-area {
+    width:100%; padding:14px var(--space-md); border:1.5px solid var(--sand);
+    border-radius:var(--radius-md); font-size:14px; font-family:inherit;
+    resize:none; line-height:1.7; background:var(--white); color:var(--slate);
+  }
+  .text-area:focus { outline:none; border-color:var(--coral); }
+  .text-area::placeholder { color:var(--sand-dark); }
+
+  /* Confirmation */
+  .confirm-card {
+    background:var(--white); border:1px solid var(--sand); border-radius:var(--radius-lg);
+    padding:var(--space-md);
+  }
+  .confirm-row { display:flex; justify-content:space-between; font-size:14px; margin-bottom:6px; }
+  .confirm-label { color:var(--text-muted); }
+  .confirm-value { font-weight:700; color:var(--slate); text-align:right; }
+  .confirm-slots { margin-top:var(--space-sm); }
+  .confirm-slot { font-size:var(--font-sm); color:var(--text-secondary); padding:6px 0; border-bottom:1px solid var(--sand); display:flex; align-items:center; gap:8px; }
+  .confirm-note { font-size:var(--font-xs); color:#C2410C; margin-top:var(--space-sm); line-height:1.6; padding:var(--space-sm); background:#FFFBEB; border-radius:var(--radius-sm); }
+
+  /* Success */
+  .success-icon { text-align:center; margin:40px 0 var(--space-md); }
+  /* Phosphor icon overrides */
+  .ph { display:inline-block; line-height:1; }
+  .nav-back .ph { display:flex; align-items:center; justify-content:center; }
+  .success-title { font-size:22px; font-weight:800; text-align:center; color:var(--slate); margin-bottom:var(--space-xs); }
+  .success-desc { font-size:14px; color:var(--text-secondary); text-align:center; line-height:1.7; margin-bottom:var(--space-lg); }
+  .info-box { background:var(--white); border:1px solid var(--sand); border-radius:var(--radius-lg); padding:var(--space-md); font-size:var(--font-sm); color:var(--text-secondary); line-height:1.8; }
+
+  /* Avatars - Open Peeps style */
+  .peep-1 { background:linear-gradient(135deg, #FCE4D6 0%, #F7CDB8 100%); }
+  .peep-2 { background:linear-gradient(135deg, #E0E7FF 0%, #C7D2FE 100%); }
+  .peep-3 { background:linear-gradient(135deg, #D1FAE5 0%, #A7F3D0 100%); }
+  .peep-4 { background:linear-gradient(135deg, #FEF3C7 0%, #FDE68A 100%); }
+  .peep-5 { background:linear-gradient(135deg, #EDE9FE 0%, #DDD6FE 100%); }
+  .peep-6 { background:linear-gradient(135deg, #FEE2E2 0%, #FECACA 100%); }
+
+  /* Track icons */
+  .track-icon-transfer { background:var(--blush-light); }
+  .track-icon-ug { background:#E0E7FF; }
+  .track-icon-grad { background:#D1FAE5; }
+  .track-icon-commonwealth { background:#FEF3C7; }
+  .track-icon-gaokao { background:#EDE9FE; }
+  .track-icon-domestic { background:#FEE2E2; }
+</style>
+</head>
+<body>
+
+<!-- ====== SCREEN 1: Home ====== -->
+<div class="screen-wrap">
+<div class="screen-label">首页 — 赛道选择</div>
+<div class="phone"><div class="phone-inner">
+<div class="status-bar"><span>9:41</span><span style="display:flex;gap:4px;">● ● ● ●</span></div>
+<div class="nav-bar" style="border-bottom:none;">Mentorship</div>
+<div class="content content-scroll" style="padding-top:8px;">
+  <div class="hero-title">找到走过你想<br>走的路的人</div>
+  <div class="hero-sub">真实的过来人经验，不是中介模板</div>
+
+  <div class="track-grid">
+    <div class="track-card primary">
+      <div class="tc-icon track-icon-transfer">🔄</div>
+      <div class="tc-name">美本转学</div>
+      <div class="tc-desc">在读美本，想转到更好的学校</div>
+    </div>
+    <div class="track-card">
+      <div class="tc-icon track-icon-ug">🎓</div>
+      <div class="tc-name">美本申请</div>
+      <div class="tc-desc">在高中，想申请美国本科</div>
+    </div>
+    <div class="track-card">
+      <div class="tc-icon track-icon-grad">📚</div>
+      <div class="tc-name">美研申请</div>
+      <div class="tc-desc">想申请美国硕士/博士</div>
+    </div>
+    <div class="track-card">
+      <div class="tc-icon track-icon-commonwealth">🌏</div>
+      <div class="tc-name">英联邦申请</div>
+      <div class="tc-desc">英国/香港/新加坡/澳洲</div>
+    </div>
+    <div class="track-card">
+      <div class="tc-icon track-icon-gaokao">🧭</div>
+      <div class="tc-name">高考→海外</div>
+      <div class="tc-desc">普高路线，想走出国门</div>
+    </div>
+    <div class="track-card">
+      <div class="tc-icon track-icon-domestic">🏫</div>
+      <div class="tc-name">国内升学</div>
+      <div class="tc-desc">保研/考研到国内名校</div>
+    </div>
+  </div>
+
+  <div class="section-title"><i class="ph ph-sparkle" style="font-size:18px;color:var(--coral);vertical-align:middle;margin-right:4px;"></i>精选 Mentor</div>
+  <div class="featured-scroll">
+    <div class="featured-card">
+      <div class="f-avatar"><div class="f-avatar-inner peep-1" style="color:#E8815D;font-size:14px;font-weight:700;">素心</div></div>
+      <div class="f-name">素心</div>
+      <div class="f-path">UC Davis → 宾大</div>
+    </div>
+    <div class="featured-card">
+      <div class="f-avatar"><div class="f-avatar-inner peep-5" style="color:#7C3AED;font-size:14px;font-weight:700;">Gabi</div></div>
+      <div class="f-name">Gabrielle</div>
+      <div class="f-path">UNC → 芝加哥</div>
+    </div>
+    <div class="featured-card">
+      <div class="f-avatar"><div class="f-avatar-inner peep-3" style="color:#059669;font-size:14px;font-weight:700;">Mia</div></div>
+      <div class="f-name">Mia</div>
+      <div class="f-path">Tufts → 西北</div>
+    </div>
+    <div class="featured-card">
+      <div class="f-avatar"><div class="f-avatar-inner peep-2" style="color:#4F46E5;font-size:14px;font-weight:700;">Claire</div></div>
+      <div class="f-name">Claire</div>
+      <div class="f-path">UNC → 西北/杜克</div>
+    </div>
+  </div>
+
+  <div class="section-title"><i class="ph ph-list-numbers" style="font-size:18px;color:var(--coral);vertical-align:middle;margin-right:4px;"></i>如何参与</div>
+  <div class="steps-row">
+    <div class="step-item">
+      <div class="step-num">1</div>
+      <div class="step-label">选赛道<br>找到走过这条路的人</div>
+    </div>
+    <div class="step-item">
+      <div class="step-num">2</div>
+      <div class="step-label">看故事<br>找到和你最像的人</div>
+    </div>
+    <div class="step-item">
+      <div class="step-num">3</div>
+      <div class="step-label">约时间<br>开始你的成长</div>
+    </div>
+  </div>
+  <div style="height:24px;"></div>
+</div>
+</div></div>
+</div>
+
+<!-- ====== SCREEN 2: Mentor List ====== -->
+<div class="screen-wrap">
+<div class="screen-label">Mentor 列表 — 美本转学</div>
+<div class="phone"><div class="phone-inner">
+<div class="status-bar"><span>9:41</span><span style="display:flex;gap:4px;">● ● ● ●</span></div>
+<div class="nav-bar"><span class="nav-back"><i class="ph ph-caret-left" style="font-size:20px;"></i></span>美本转学</div>
+<div class="content content-scroll" style="padding-top:12px;">
+  <div class="filter-row">
+    <span class="filter-chip active">全部</span>
+    <span class="filter-chip">文书</span>
+    <span class="filter-chip">选校</span>
+    <span class="filter-chip">推荐信</span>
+    <span class="filter-chip">背景提升</span>
+    <span class="filter-chip">面试</span>
+    <span class="filter-chip">心态</span>
+  </div>
+  <div class="result-count">共 6 位 mentor</div>
+  <div class="sort-row">
+    <span class="sort-option active">推荐</span>
+    <span class="sort-option">评分最高</span>
+    <span class="sort-option">Session 最多</span>
+  </div>
+
+  <div class="mentor-card">
+    <div class="mc-top">
+      <div class="mc-avatar peep-1" style="color:#E8815D;font-size:13px;font-weight:700;">素心</div>
+      <div class="mc-info">
+        <div class="mc-name">素心（王开Kai）</div>
+        <div class="mc-path">UC Davis → 宾夕法尼亚大学 / 康奈尔</div>
+        <div class="mc-highlight">3.98 GPA · 5段科研 · 两所藤校录取</div>
+      </div>
+    </div>
+    <div class="mc-tags">
+      <span class="mc-tag">💡 经历挖掘</span>
+      <span class="mc-tag">🏗️ 文书框架</span>
+      <span class="mc-tag">👀 feedback</span>
+      <span class="mc-tag">🏫 选校方向</span>
+      <span class="mc-tag">📊 school list</span>
+      <span class="mc-tag">🤝 教授关系</span>
+      <span class="mc-tag">📚 选课&GPA</span>
+    </div>
+    <div class="mc-tier">💬 轻咨询 · 📋 短期 · 🌱 长期</div>
+    <div class="mc-vibes">
+      <span class="mc-vibe">山西老乡</span>
+      <span class="mc-vibe">健身狂魔</span>
+      <span class="mc-vibe">佛学入门中</span>
+      <span class="mc-vibe">冰美式续命</span>
+    </div>
+  </div>
+
+  <div class="mentor-card">
+    <div class="mc-top">
+      <div class="mc-avatar peep-5" style="color:#7C3AED;font-size:13px;font-weight:700;">Gabi</div>
+      <div class="mc-info">
+        <div class="mc-name">贺与行 Gabrielle</div>
+        <div class="mc-path">UNC → 芝加哥大学</div>
+        <div class="mc-highlight">只申3所，中芝大 · 双胞胎姐姐</div>
+      </div>
+    </div>
+    <div class="mc-tags">
+      <span class="mc-tag">🏫 选校方向</span>
+      <span class="mc-tag">💡 经历挖掘</span>
+      <span class="mc-tag">🏗️ 文书框架</span>
+      <span class="mc-tag">👀 feedback</span>
+      <span class="mc-tag">❓ 该不该转</span>
+      <span class="mc-tag">🧠 长期陪伴</span>
+    </div>
+    <div class="mc-tier">💬 轻咨询 · 🌱 长期</div>
+    <div class="mc-vibes">
+      <span class="mc-vibe">游戏剧情党</span>
+      <span class="mc-vibe">双胞胎姐姐</span>
+      <span class="mc-vibe">《底特律》吹</span>
+    </div>
+  </div>
+
+  <div class="mentor-card">
+    <div class="mc-top">
+      <div class="mc-avatar peep-3" style="color:#059669;font-size:13px;font-weight:700;">Mia</div>
+      <div class="mc-info">
+        <div class="mc-name">周荣宇 Mia</div>
+        <div class="mc-path">Tufts → 西北大学 ED</div>
+        <div class="mc-highlight">满绩4.0 · Pioneer项目 · 三篇文书策略</div>
+      </div>
+    </div>
+    <div class="mc-tags">
+      <span class="mc-tag">🏫 选校方向</span>
+      <span class="mc-tag">📊 school list</span>
+      <span class="mc-tag">🔍 fit分析</span>
+      <span class="mc-tag">💡 经历挖掘</span>
+      <span class="mc-tag">🏗️ 文书框架</span>
+      <span class="mc-tag">👀 feedback</span>
+      <span class="mc-tag">🤝 教授关系</span>
+    </div>
+    <div class="mc-tier">💬 轻咨询 · 📋 短期</div>
+    <div class="mc-vibes">
+      <span class="mc-vibe">Pioneer幸存者</span>
+      <span class="mc-vibe">K-Pop社团创始人</span>
+    </div>
+  </div>
+  <div style="height:16px;"></div>
+</div>
+</div></div>
+</div>
+
+<!-- ====== SCREEN 3: Mentor Profile ====== -->
+<div class="screen-wrap">
+<div class="screen-label">Mentor 详情 — 素心</div>
+<div class="phone"><div class="phone-inner">
+<div class="status-bar"><span>9:41</span><span style="display:flex;gap:4px;">● ● ● ●</span></div>
+<div class="nav-bar"><span class="nav-back"><i class="ph ph-caret-left" style="font-size:20px;"></i></span>Mentor 详情</div>
+<div class="content content-scroll">
+  <div class="profile-header">
+    <div class="profile-avatar peep-1" style="color:#E8815D;font-size:24px;font-weight:700;">素心</div>
+    <div class="profile-name">素心（王开Kai）</div>
+    <div class="profile-path">UC Davis → 宾夕法尼亚大学 / 康奈尔大学</div>
+    <div class="profile-highlight">3.98 GPA（满分4）· 5段科研 · 金融比赛+公益</div>
+  </div>
+
+  <div class="section-header" style="margin-top:0;border-top:none;padding-top:0;">关于我</div>
+  <div style="font-size:var(--font-body);color:var(--text);line-height:1.9;">
+    高中在夏威夷，GPA 只有 3.74——那会儿心性贪玩，没把学业当回事。进了 UC Davis 之后，身边同学去了普林斯顿、MIT、伯克利，我内心落差极大。我不服。<br><br>
+    从大一第一天起，我把转学当成唯一的出路。Quarter 制学校考试密度极高，我这种容易焦虑的人，每次考前都压力拉满。但我坚决不选水课——转学招生官要看成长曲线，水课高分没有说服力。我全部优先选高难度核心课，在高难度里拼出了 3.98。<br><br>
+    科研方面，我以免费 RA 身份进了 5 个不同方向的课题组——经济学、数学方向，全部围绕学术路线。推荐信我只找哈佛、斯坦福出身的大牛教授，普通教授的推荐信在我眼里没有价值。和教授相处一个学期之后才开口——不急于求成。<br><br>
+    宾大和康奈尔都录了我。但我必须说：如果再选一遍，我不会再走这条路。一年半的高压、焦虑、长期紧绷——代价太大了。我现在在宾大休学半年恢复中。<br><br>
+    我能帮你的，不只是"怎么做"，更是<b>"要不要做、值不值得做"</b>。
+  </div>
+
+  <div class="section-header">我能帮你</div>
+  <div class="cap-group">
+    <div class="cap-group-title">选校定位</div>
+    <div class="cap-tags">
+      <span class="cap-tag">🏫 选校方向建议</span>
+      <span class="cap-tag">📊 完整 school list</span>
+    </div>
+  </div>
+  <div class="cap-group">
+    <div class="cap-group-title">文书</div>
+    <div class="cap-tags">
+      <span class="cap-tag">💡 经历挖掘 + brainstorming</span>
+      <span class="cap-tag">🏗️ 文书框架搭建</span>
+      <span class="cap-tag">👀 给 feedback</span>
+    </div>
+  </div>
+  <div class="cap-group">
+    <div class="cap-group-title">推荐信 & 教授关系</div>
+    <div class="cap-tags">
+      <span class="cap-tag">🤝 教授关系建立</span>
+      <span class="cap-tag">📩 推荐人选择 & 时机</span>
+    </div>
+  </div>
+  <div class="cap-group">
+    <div class="cap-group-title">学术与背景提升</div>
+    <div class="cap-tags">
+      <span class="cap-tag">📚 选课策略 & GPA</span>
+      <span class="cap-tag">🔬 找 research / RA</span>
+      <span class="cap-tag">🎨 活动规划 & 人设</span>
+    </div>
+  </div>
+  <div class="cap-group">
+    <div class="cap-group-title">心态与决策</div>
+    <div class="cap-tags">
+      <span class="cap-tag">❓ 该不该走这条路</span>
+    </div>
+  </div>
+
+  <div class="section-header">可约服务</div>
+  <div class="service-list">
+    <div class="service-opt">
+      <div><div class="sname">💬 轻咨询（30min）</div><div class="sdesc">适合有具体问题，一次聊透</div></div>
+      <div class="sprice">¥599</div>
+    </div>
+    <div class="service-opt">
+      <div><div class="sname">📋 短期 mentor（2-4周）</div><div class="sdesc">启动你的转学准备</div></div>
+      <div class="sprice">¥2,999</div>
+    </div>
+    <div class="service-opt">
+      <div><div class="sname">🌱 长期 mentor</div><div class="sdesc">长期陪伴走过整个申请季</div></div>
+      <div class="sprice">¥9,900</div>
+    </div>
+  </div>
+
+  <div class="vibe-row">
+    <span class="vibe-tag">山西老乡</span>
+    <span class="vibe-tag">健身狂魔</span>
+    <span class="vibe-tag">佛学入门中</span>
+    <span class="vibe-tag">每天冰美式续命</span>
+  </div>
+  <div style="height:80px;"></div>
+</div>
+<div class="bottom-cta"><button class="btn-primary">预约 素心</button></div>
+</div></div>
+</div>
+
+<!-- ====== SCREEN 4: Booking Step 1 ====== -->
+<div class="screen-wrap">
+<div class="screen-label">预约 Step 1 — 选服务</div>
+<div class="phone"><div class="phone-inner">
+<div class="status-bar"><span>9:41</span><span style="display:flex;gap:4px;">● ● ● ●</span></div>
+<div class="nav-bar"><span class="nav-back"><i class="ph ph-caret-left" style="font-size:20px;"></i></span>预约 · 素心</div>
+<div class="content">
+  <div class="booking-step">STEP 1 / 4</div>
+  <div class="booking-title">选择你需要的服务</div>
+  <div class="radio-option selected">
+    <div class="radio-circle sel"></div>
+    <div class="radio-info"><div class="radio-title">💬 轻咨询（30min）</div><div class="radio-desc">适合有具体问题，一次聊透。Mentor 会根据你的情况给出针对性建议。</div></div>
+    <div style="font-size:20px;font-weight:800;color:var(--coral);">¥599</div>
+  </div>
+  <div class="radio-option">
+    <div class="radio-circle"></div>
+    <div class="radio-info"><div class="radio-title">📋 短期 mentor（2-4周）</div><div class="radio-desc">帮你建立 personalized roadmap + 陪伴完成 1-2 件转学准备工作。</div></div>
+    <div style="font-size:20px;font-weight:800;color:var(--slate);">¥2,999</div>
+  </div>
+  <div class="radio-option">
+    <div class="radio-circle"></div>
+    <div class="radio-info"><div class="radio-title">🌱 长期 mentor</div><div class="radio-desc">长期陪伴走过整个申请季，持续 guidance + timeline 管理 + 情绪支持。</div></div>
+    <div style="font-size:20px;font-weight:800;color:var(--slate);">¥9,900</div>
+  </div>
+</div>
+<div class="bottom-cta"><button class="btn-primary">继续 <i class="ph ph-arrow-right" style="font-size:16px;vertical-align:middle;"></i></button></div>
+</div></div>
+</div>
+
+<!-- ====== SCREEN 5: Booking Step 2 ====== -->
+<div class="screen-wrap">
+<div class="screen-label">预约 Step 2 — 选时间</div>
+<div class="phone"><div class="phone-inner">
+<div class="status-bar"><span>9:41</span><span style="display:flex;gap:4px;">● ● ● ●</span></div>
+<div class="nav-bar"><span class="nav-back">‹</span>预约 · 素心</div>
+<div class="content content-scroll">
+  <div class="booking-step">STEP 2 / 4</div>
+  <div class="booking-title">你哪些时间可以？</div>
+  <div style="font-size:var(--font-sm);color:var(--text-muted);margin-bottom:var(--space-md);">多选几个时间段，mentor 越容易匹配上</div>
+
+  <div style="font-size:var(--font-sm);font-weight:700;color:var(--text-secondary);margin-bottom:4px;">你的时区</div>
+  <select class="tz-select"><option>GMT+8 北京时间</option><option>GMT-5 美国东部</option><option>GMT-8 美国西部</option><option>GMT+0 伦敦</option></select>
+
+  <div class="day-group">
+    <div class="day-label">周一 6/23</div>
+    <div class="time-chips">
+      <span class="time-chip">09:00</span><span class="time-chip selected">10:00</span>
+      <span class="time-chip">14:00</span><span class="time-chip selected">15:00</span>
+      <span class="time-chip">20:00</span>
+    </div>
+  </div>
+  <div class="day-group">
+    <div class="day-label">周二 6/24</div>
+    <div class="time-chips">
+      <span class="time-chip">09:00</span><span class="time-chip">10:00</span>
+      <span class="time-chip">14:00</span><span class="time-chip selected">16:00</span>
+      <span class="time-chip">20:00</span>
+    </div>
+  </div>
+  <div class="day-group">
+    <div class="day-label">周三 6/25</div>
+    <div class="time-chips">
+      <span class="time-chip selected">10:00</span><span class="time-chip">14:00</span>
+      <span class="time-chip">15:00</span><span class="time-chip">19:00</span><span class="time-chip">20:00</span>
+    </div>
+  </div>
+  <div class="day-group">
+    <div class="day-label">周四 6/26</div>
+    <div class="time-chips">
+      <span class="time-chip">09:00</span><span class="time-chip">14:00</span>
+      <span class="time-chip">15:00</span><span class="time-chip">20:00</span>
+    </div>
+  </div>
+  <div class="selected-count">已选 4 个时间段</div>
+</div>
+<div class="bottom-cta"><button class="btn-primary">继续 <i class="ph ph-arrow-right" style="font-size:16px;vertical-align:middle;"></i></button></div>
+</div></div>
+</div>
+
+<!-- ====== SCREEN 6: Booking Step 3 ====== -->
+<div class="screen-wrap">
+<div class="screen-label">预约 Step 3 — 简述情况</div>
+<div class="phone"><div class="phone-inner">
+<div class="status-bar"><span>9:41</span><span style="display:flex;gap:4px;">● ● ● ●</span></div>
+<div class="nav-bar"><span class="nav-back"><i class="ph ph-caret-left" style="font-size:20px;"></i></span>预约 · 素心</div>
+<div class="content">
+  <div class="booking-step">STEP 3 / 4</div>
+  <div class="booking-title">简单说说你的情况</div>
+  <div style="font-size:var(--font-sm);color:var(--text-muted);margin-bottom:var(--space-md);">这些信息会发给 mentor，帮助 ta 提前了解你（选填）</div>
+
+  <div class="qa-label">你现在在哪个学校？读什么专业？</div>
+  <textarea class="text-area" rows="2" placeholder="比如：UCI 大二，犯罪学专业"></textarea>
+
+  <div class="qa-label">为什么想转学？最想聊什么？</div>
+  <textarea class="text-area" rows="3" placeholder="比如：对现在的学校不满意，想去资源更多的学校。不知道该怎么开始准备……"></textarea>
+
+  <div class="qa-label">你目前最大的困惑或焦虑是什么？</div>
+  <textarea class="text-area" rows="2" placeholder="选填"></textarea>
+</div>
+<div class="bottom-cta"><button class="btn-primary">继续 <i class="ph ph-arrow-right" style="font-size:16px;vertical-align:middle;"></i></button></div>
+</div></div>
+</div>
+
+<!-- ====== SCREEN 7: Booking Step 4 ====== -->
+<div class="screen-wrap">
+<div class="screen-label">预约 Step 4 — 确认 & 支付</div>
+<div class="phone"><div class="phone-inner">
+<div class="status-bar"><span>9:41</span><span style="display:flex;gap:4px;">● ● ● ●</span></div>
+<div class="nav-bar"><span class="nav-back"><i class="ph ph-caret-left" style="font-size:20px;"></i></span>确认预约</div>
+<div class="content content-scroll">
+  <div class="booking-step">STEP 4 / 4</div>
+  <div class="booking-title">确认你的预约</div>
+
+  <div class="confirm-card">
+    <div class="confirm-row"><span class="confirm-label">Mentor</span><span class="confirm-value">素心（王开Kai）</span></div>
+    <div class="confirm-row"><span class="confirm-label">服务</span><span class="confirm-value">💬 轻咨询（30min）</span></div>
+    <div class="confirm-row"><span class="confirm-label">金额</span><span class="confirm-value" style="color:var(--coral);font-size:20px;">¥599</span></div>
+    <div style="margin-top:var(--space-sm);font-size:var(--font-sm);font-weight:700;color:var(--text-secondary);">你选的时间段（4个）</div>
+    <div class="confirm-slots">
+      <div class="confirm-slot">🕐 6/23 周一 10:00-11:00</div>
+      <div class="confirm-slot">🕐 6/23 周一 15:00-16:00</div>
+      <div class="confirm-slot">🕐 6/24 周二 16:00-17:00</div>
+      <div class="confirm-slot">🕐 6/25 周三 10:00-11:00</div>
+    </div>
+    <div class="confirm-note">Mentor 会从这些时间里选一个确认。如果都不行，mentor 会通知你重新选择。通常 12 小时内回复。</div>
+  </div>
+</div>
+<div class="bottom-cta"><button class="btn-primary">💳 微信支付 ¥599</button></div>
+</div></div>
+</div>
+
+<!-- ====== SCREEN 8: Success ====== -->
+<div class="screen-wrap">
+<div class="screen-label">支付成功</div>
+<div class="phone"><div class="phone-inner">
+<div class="status-bar"><span>9:41</span><span style="display:flex;gap:4px;">● ● ● ●</span></div>
+<div class="nav-bar">预约详情</div>
+<div class="content">
+  <div class="success-icon" style="color:var(--coral);"><i class="ph ph-check-circle" style="font-size:64px;"></i></div>
+  <div class="success-title">预约已提交</div>
+  <div class="success-desc">
+    已通知 <b>素心</b>，ta 会从你选的<br>4 个时间段里挑一个确认。
+  </div>
+  <div class="info-box">
+    <div style="font-weight:700;color:var(--slate);margin-bottom:8px;">接下来会发生什么</div>
+    <div style="color:var(--text-secondary);">
+      · Mentor 通常 <b>12 小时内</b>回复<br>
+      · 确认后你会收到腾讯会议链接<br>
+      · 如果 mentor 超时未回复，我们会帮你跟进<br>
+      · 在「我的 → 我的预约」可以查看状态
+    </div>
+  </div>
+  <div style="text-align:center;margin-top:var(--space-lg);">
+    <button class="btn-outline" style="width:auto;padding:12px 40px;">返回首页</button>
+  </div>
+</div>
+</div></div>
+</div>
+
+</body>
+</html>

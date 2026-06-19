@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>免费开源设计资源库 · Mentorship 网络</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family: -apple-system,'PingFang SC','Helvetica Neue',sans-serif; background:#f3f2ef; padding:40px 20px; color:#2D3748; }
+  .container { max-width:880px; margin:0 auto; }
+  h1 { text-align:center; font-size:28px; margin-bottom:4px; letter-spacing:-0.5px; }
+  .sub { text-align:center; color:#999; font-size:14px; margin-bottom:44px; }
+
+  .section {
+    background:#fff; border-radius:20px; padding:32px; margin-bottom:24px;
+    box-shadow:0 1px 8px rgba(0,0,0,.04);
+  }
+  .section-num { font-size:13px; font-weight:700; color:#999; letter-spacing:1px; margin-bottom:4px; }
+  .section-title { font-size:20px; font-weight:800; margin-bottom:6px; }
+  .section-desc { font-size:14px; color:#666; line-height:1.8; margin-bottom:24px; }
+
+  .resource { border:1.5px solid #EDE4D8; border-radius:16px; padding:20px 24px; margin-bottom:16px; display:flex; gap:16px; align-items:flex-start; transition:.15s; }
+  .resource:hover { border-color:#F7CDB8; background:#FFF8F0; }
+  .resource-rank {
+    width:36px; height:36px; border-radius:10px; display:flex; align-items:center; justify-content:center;
+    font-size:15px; font-weight:800; flex-shrink:0;
+  }
+  .resource-rank.top { background:#E8815D; color:#fff; }
+  .resource-rank.rec { background:#FFF8F0; color:#E8815D; border:1.5px solid #F7CDB8; }
+  .resource-body { flex:1; }
+  .resource-name { font-size:16px; font-weight:700; margin-bottom:4px; }
+  .resource-url { font-size:12px; color:#E8815D; font-family:monospace; margin-bottom:6px; }
+  .resource-desc { font-size:13px; color:#666; line-height:1.6; margin-bottom:6px; }
+  .resource-tags { display:flex; gap:6px; flex-wrap:wrap; }
+  .tag {
+    font-size:10px; padding:3px 8px; border-radius:6px; font-weight:600;
+  }
+  .tag.license { background:#f0fdf4; color:#166534; }
+  .tag.figma { background:#eef2ff; color:#3730A3; }
+  .tag.format { background:#fafafa; color:#888; border:1px solid #eee; }
+  .tag.best { background:#FCE4D6; color:#E8815D; }
+
+  .two-col { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+
+  .highlight-box {
+    background:#FFF8F0; border-radius:14px; padding:20px 24px; margin-top:16px;
+    border:1.5px solid #F7CDB8;
+  }
+  .highlight-title { font-size:14px; font-weight:700; margin-bottom:8px; color:#E8815D; }
+  .highlight-text { font-size:13px; color:#555; line-height:1.8; }
+
+  .preview-row { display:flex; gap:12px; margin-top:12px; flex-wrap:wrap; }
+  .preview-icon {
+    width:56px; height:56px; border-radius:14px; display:flex; align-items:center;
+    justify-content:center; font-size:24px;
+  }
+  .preview-label { font-size:10px; color:#999; text-align:center; margin-top:4px; }
+</style>
+</head>
+<body>
+<div class="container">
+
+<h1>🎨 免费开源设计资源库</h1>
+<div class="sub">全部免费可商用 · 为 Mentorship 网络品牌挑选</div>
+
+<!-- ICONS -->
+<div class="section">
+<div class="section-num">01</div>
+<div class="section-title">图标库（替代系统 Emoji）</div>
+<div class="section-desc">
+系统 emoji 在不同平台显示效果不一致，而且风格太"廉价"。以下开源图标库都是 SVG 矢量格式，统一风格，可以自由改色。
+</div>
+
+<div class="resource" style="border-color:#F7CDB8;background:#FFF8F0;">
+  <div class="resource-rank top">★</div>
+  <div class="resource-body">
+    <div class="resource-name">Phosphor Icons ⭐ 首选</div>
+    <div class="resource-url">phosphoricons.com</div>
+    <div class="resource-desc">
+      目前最全面的开源图标库——1,488 个图标，6 种风格（thin/light/regular/bold/fill/duotone）。
+      风格干净现代，圆角线条。有 Figma 插件可直接拖拽。支持 React/Vue 组件。
+    </div>
+    <div class="resource-tags">
+      <span class="tag best">首选推荐</span>
+      <span class="tag license">MIT 开源</span>
+      <span class="tag figma">Figma 插件</span>
+      <span class="tag format">SVG · React · Vue</span>
+    </div>
+  </div>
+</div>
+
+<div class="two-col">
+<div class="resource">
+  <div class="resource-rank rec">2</div>
+  <div class="resource-body">
+    <div class="resource-name">Pikaicons</div>
+    <div class="resource-url">pikaicons.com</div>
+    <div class="resource-desc">专为"温暖友好"风格设计。圆角柔和，有"精品感"。数量不如 Phosphor 多但风格更独特。</div>
+    <div class="resource-tags">
+      <span class="tag best">温暖风格</span>
+      <span class="tag license">MIT</span>
+      <span class="tag figma">Figma</span>
+    </div>
+  </div>
+</div>
+
+<div class="resource">
+  <div class="resource-rank rec">3</div>
+  <div class="resource-body">
+    <div class="resource-name">Lucide Icons</div>
+    <div class="resource-url">lucide.dev</div>
+    <div class="resource-desc">1,000+ 图标，Feather Icons 的社区 fork。风格干净简洁，Figma 插件可用。</div>
+    <div class="resource-tags">
+      <span class="tag license">ISC（≈MIT）</span>
+      <span class="tag figma">Figma 插件</span>
+    </div>
+  </div>
+</div>
+
+<div class="resource">
+  <div class="resource-rank rec">4</div>
+  <div class="resource-body">
+    <div class="resource-name">Iconoir</div>
+    <div class="resource-url">iconoir.com</div>
+    <div class="resource-desc">1,597 个图标，MIT 协议。量最大，风格偏中性现代。line + fill 双风格。</div>
+    <div class="resource-tags">
+      <span class="tag license">MIT</span>
+      <span class="tag figma">Figma</span>
+    </div>
+  </div>
+</div>
+
+<div class="resource">
+  <div class="resource-rank rec">5</div>
+  <div class="resource-body">
+    <div class="resource-name">MingCute Icon</div>
+    <div class="resource-url">mingcute.com</div>
+    <div class="resource-desc">国内设计师出品，2,400+ 图标。有填充和线框两种风格。对中文场景友好。</div>
+    <div class="resource-tags">
+      <span class="tag license">MIT</span>
+      <span class="tag format">SVG · Figma</span>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="highlight-box" style="margin-top:20px;">
+  <div class="highlight-title">💡 建议</div>
+  <div class="highlight-text">
+    主力用 <b>Phosphor Icons</b>（量大、6 种风格、Figma 插件、MIT）。<br>
+    需要"更温暖"的图标时，从 <b>Pikaicons</b> 补充（风格更软但量少）。<br>
+    <b>能力标签和赛道卡片</b> 保留少量 emoji 作为品牌记忆点，但用自定义 SVG icon 替换大部分系统 emoji。
+  </div>
+</div>
+</div>
+
+<!-- ILLUSTRATIONS -->
+<div class="section">
+<div class="section-num">02</div>
+<div class="section-title">人物插画（替代照片 / 装饰用）</div>
+<div class="section-desc">
+当 mentor 没有照片、或需要装饰性配图时使用。全部免费可商用。
+</div>
+
+<div class="resource" style="border-color:#F7CDB8;background:#FFF8F0;">
+  <div class="resource-rank top">★</div>
+  <div class="resource-body">
+    <div class="resource-name">Open Peeps ⭐ 强烈推荐</div>
+    <div class="resource-url">openpeeps.com</div>
+    <div class="resource-desc">
+      手绘涂鸦风格的人物插画库。可以自由混搭——换发型、表情、服装、配饰——组合出几十万种不重样的人物。
+      <b>这可能是我们 mentor 头像的最佳替代方案</b>：没有照片的 mentor 用 Open Peeps 生成一个代表自己的卡通形象，比系统 emoji 有个性得多。
+    </div>
+    <div class="resource-tags">
+      <span class="tag best">强烈推荐</span>
+      <span class="tag license">CC0（完全自由）</span>
+      <span class="tag format">SVG · PNG · Figma</span>
+    </div>
+  </div>
+</div>
+
+<div class="two-col">
+<div class="resource">
+  <div class="resource-rank rec">2</div>
+  <div class="resource-body">
+    <div class="resource-name">unDraw</div>
+    <div class="resource-url">undraw.co</div>
+    <div class="resource-desc">1,306+ 幅扁平插画。内置调色器，一键换成我们的暖珊瑚色。MIT 协议，Figma 插件。</div>
+    <div class="resource-tags">
+      <span class="tag license">MIT</span>
+      <span class="tag figma">Figma</span>
+    </div>
+  </div>
+</div>
+
+<div class="resource">
+  <div class="resource-rank rec">3</div>
+  <div class="resource-body">
+    <div class="resource-name">Blush</div>
+    <div class="resource-url">blush.design</div>
+    <div class="resource-desc">多个艺术家合集，各种风格可选。Figma/Sketch 插件可用。部分免费（CC0/免费包），部分付费。</div>
+    <div class="resource-tags">
+      <span class="tag license">部分 CC0</span>
+      <span class="tag figma">Figma</span>
+    </div>
+  </div>
+</div>
+
+<div class="resource">
+  <div class="resource-rank rec">4</div>
+  <div class="resource-body">
+    <div class="resource-name">illlustrations</div>
+    <div class="resource-url">illlustrations.co</div>
+    <div class="resource-desc">120+ 幅多彩温暖插画，场景丰富。CC0 协议完全自由。有 Figma 插件（1000+ 幅）。</div>
+    <div class="resource-tags">
+      <span class="tag license">CC0</span>
+      <span class="tag figma">Figma 插件</span>
+    </div>
+  </div>
+</div>
+
+<div class="resource">
+  <div class="resource-rank rec">5</div>
+  <div class="resource-body">
+    <div class="resource-name">OpenStickers</div>
+    <div class="resource-url">openstickers.craftwork.design</div>
+    <div class="resource-desc">80 幅阳光可爱贴纸风插画，涂鸦质感温馨。适合做点缀元素、活人标签旁边的装饰。</div>
+    <div class="resource-tags">
+      <span class="tag license">免费商用</span>
+      <span class="tag format">SVG · Figma</span>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+
+<!-- PATTERNS -->
+<div class="section">
+<div class="section-num">03</div>
+<div class="section-title">背景纹理 & 图案</div>
+<div class="section-desc">
+纯色底太素，照片太重。加一点淡淡的纹理或图案让页面有"质感"而不抢内容。
+</div>
+
+<div class="two-col">
+<div class="resource">
+  <div class="resource-rank rec">1</div>
+  <div class="resource-body">
+    <div class="resource-name">Hero Patterns</div>
+    <div class="resource-url">heropatterns.com</div>
+    <div class="resource-desc">可重复 SVG 背景图案。自定义颜色和透明度。选暖珊瑚色调 → 下载 SVG/CSS。</div>
+    <div class="resource-tags">
+      <span class="tag license">免费</span>
+      <span class="tag format">SVG · CSS</span>
+    </div>
+  </div>
+</div>
+
+<div class="resource">
+  <div class="resource-rank rec">2</div>
+  <div class="resource-body">
+    <div class="resource-name">Pattern Monster</div>
+    <div class="resource-url">pattern.monster</div>
+    <div class="resource-desc">在线图案生成器，滑块调参——形状、大小、间距、颜色。导出 SVG/CSS。</div>
+    <div class="resource-tags">
+      <span class="tag license">免费</span>
+      <span class="tag format">SVG · CSS</span>
+    </div>
+  </div>
+</div>
+
+<div class="resource">
+  <div class="resource-rank rec">3</div>
+  <div class="resource-body">
+    <div class="resource-name">Transparent Textures</div>
+    <div class="resource-url">transparenttextures.com</div>
+    <div class="resource-desc">纸张、布纹、水彩等自然纹理。叠加在奶油白底色上，增加"纸质"的温度感。</div>
+    <div class="resource-tags">
+      <span class="tag license">免费</span>
+      <span class="tag format">PNG · CSS</span>
+    </div>
+  </div>
+</div>
+
+<div class="resource">
+  <div class="resource-rank rec">4</div>
+  <div class="resource-body">
+    <div class="resource-name">CSS Background Patterns</div>
+    <div class="resource-url">codepen.io (Temani Afif)</div>
+    <div class="resource-desc">纯 CSS 写的图案——零图片加载。适合做极简几何纹理。完全自定义颜色。</div>
+    <div class="resource-tags">
+      <span class="tag license">开源</span>
+      <span class="tag format">纯 CSS</span>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="highlight-box">
+  <div class="highlight-title">💡 用法建议</div>
+  <div class="highlight-text">
+    在页面背景（奶油白 #FFF8F0）上叠加 8-15% 透明度的暖色调几何图案，或者叠加 Transparent Textures 的纸张纹理。
+    效果：页面看起来像一本温暖的书，而不是冷冰冰的白色 App。不抢内容，但感受完全不同。
+  </div>
+</div>
+</div>
+
+<!-- SUMMARY -->
+<div class="section">
+<div class="section-num">04</div>
+<div class="section-title">总结：推荐组合</div>
+
+<div style="font-size:14px;color:#555;line-height:2;">
+
+<b>图标：</b>主力 <b>Phosphor Icons</b>（量大、6 风格、Figma、MIT）+ 少量 <b>Pikaicons</b> 补温暖风格<br>
+<b>人物头像（无照片时）：</b><b>Open Peeps</b>——每个人可以捏一个代表自己的卡通形象<br>
+<b>装饰插画：</b><b>unDraw</b>——用内置调色器一键换珊瑚色<br>
+<b>页面背景：</b><b>Hero Patterns</b> 或 <b>Transparent Textures</b>——叠加在奶油白底色上<br>
+<b>点缀元素：</b><b>OpenStickers</b>——小贴纸风，放活人标签旁边<br><br>
+
+全部 <b>MIT / CC0 / 免费商用</b>，零版权风险。<br>
+全部有 <b>SVG 矢量格式</b>，Figma 可直接编辑。<br>
+不需要找设计师付费买资源——这些就够了。
+
+</div>
+</div>
+
+</div>
+</body>
+</html>
