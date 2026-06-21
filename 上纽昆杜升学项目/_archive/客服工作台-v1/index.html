@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>南桥工作台</title>
+<style>
+:root {
+  --bg:#f6f5f3; --card:#fff; --text:#1c1c1e; --text2:#6e6e73; --text3:#aeaeb2;
+  --accent:#0f172a; --gold:#b8860b; --red:#dc2626; --amber:#d97706; --green:#059669; --blue:#4f46e5;
+  --border:#e8e6e1; --shadow:0 1px 2px rgba(0,0,0,.04),0 4px 16px rgba(0,0,0,.04);
+  --shadow-lg:0 2px 4px rgba(0,0,0,.04),0 12px 40px rgba(0,0,0,.08);
+  --radius:14px; --radius-sm:10px;
+  --font:-apple-system,BlinkMacSystemFont,"SF Pro Display","PingFang SC","Microsoft YaHei",sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:var(--font);background:var(--bg);color:var(--text);-webkit-font-smoothing:antialiased;padding-bottom:80px;min-height:100vh}
+
+/* Header */
+.header{background:var(--accent);color:#fff;padding:18px 20px 16px;position:sticky;top:0;z-index:20;display:flex;align-items:center;justify-content:space-between}
+.header h1{font-size:20px;font-weight:700;letter-spacing:-.3px}
+.header h1 span{color:#d4a853}
+.header .time{font-size:12px;color:rgba(255,255,255,.55);font-weight:500}
+
+.container{max-width:680px;margin:0 auto;padding:12px 14px}
+.section{margin-bottom:10px}
+.section-head{display:flex;align-items:center;gap:8px;font-size:12px;font-weight:700;color:var(--text2);text-transform:uppercase;letter-spacing:.6px;padding:8px 4px 6px}
+.section-head .dot{width:7px;height:7px;border-radius:50%}
+.dot-red{background:var(--red)}.dot-amber{background:var(--amber)}.dot-slate{background:var(--text3)}
+
+/* ── Todos ── */
+.todo-list{display:flex;flex-direction:column;gap:5px}
+.todo-item{background:var(--card);border-radius:var(--radius-sm);padding:12px 14px;box-shadow:var(--shadow);border:1px solid var(--border);display:flex;align-items:center;gap:10px;cursor:pointer;transition:all .15s}
+.todo-item:active{background:#fafaf9}
+.todo-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+.todo-dot.u{background:var(--red)}.todo-dot.w{background:var(--amber)}
+.todo-text{font-size:13.5px;font-weight:600;flex:1}
+.todo-reason{font-size:11px;color:var(--text3);flex-shrink:0}
+.todo-empty{text-align:center;color:var(--text3);padding:28px;font-size:13px}
+
+/* ── Pipeline funnel ── */
+.funnel{display:flex;align-items:center;gap:4px;margin-bottom:6px}
+.funnel-step{flex:1;text-align:center;padding:10px 4px;background:var(--card);border-radius:var(--radius-sm);box-shadow:var(--shadow);border:1px solid var(--border);position:relative}
+.funnel-step::after{content:'';position:absolute;right:-6px;top:50%;transform:translateY(-50%);width:0;height:0;border-top:5px solid transparent;border-bottom:5px solid transparent;border-left:6px solid var(--border);z-index:1}
+.funnel-step:last-child::after{display:none}
+.funnel-num{font-size:24px;font-weight:800;letter-spacing:-1px;line-height:1}
+.funnel-num.f1{color:var(--text)}.funnel-num.f2{color:var(--blue)}.funnel-num.f3{color:var(--amber)}.funnel-num.f4{color:var(--green)}
+.funnel-label{font-size:10.5px;color:var(--text2);margin-top:2px;font-weight:600}
+.funnel-zero .funnel-num{color:var(--text3)}
+.funnel-empty{text-align:center;color:var(--text3);padding:16px;font-size:12px}
+
+/* ── Process steps ── */
+.process-list{display:flex;flex-direction:column;gap:0}
+.process-step{display:flex;gap:10px;position:relative;cursor:pointer}
+.process-step:last-child .process-line{display:none}
+.process-num{width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:700;flex-shrink:0;border:2px solid var(--border);background:var(--card);color:var(--text2);transition:all .2s}
+.process-num.active{background:var(--accent);border-color:var(--accent);color:#fff}
+.process-body{flex:1;padding-bottom:12px}
+.process-line{position:absolute;left:13px;top:32px;width:2px;height:calc(100% - 32px);background:var(--border)}
+.process-header{display:flex;align-items:center;gap:8px;padding-top:4px}
+.process-label{font-size:13.5px;font-weight:700}
+.process-count{font-size:12px;color:var(--text3);background:#f5f5f4;padding:2px 8px;border-radius:10px}
+.process-count.has{background:#eef2ff;color:var(--blue);font-weight:600}
+.process-desc{font-size:12px;color:var(--text2);margin-top:1px}
+.process-detail{display:none;margin-top:8px;padding:10px 12px;background:#fafaf9;border-radius:8px;font-size:12px;color:var(--text2);line-height:1.6}
+.process-detail.open{display:block}
+
+/* ── Students ── */
+.student-list{display:flex;flex-direction:column;gap:6px}
+.student-card{background:var(--card);border-radius:var(--radius-sm);padding:12px 14px;box-shadow:var(--shadow);border:1px solid var(--border);cursor:pointer;transition:all .2s;display:flex;align-items:center;gap:10px;border-left:3px solid transparent;flex-wrap:wrap}
+.student-card:active{transform:scale(.985);box-shadow:var(--shadow-lg)}
+.student-card.expanded{flex-direction:column;align-items:stretch;border-color:#d4d0c8;box-shadow:var(--shadow-lg)}
+.student-card.needs-action{border-left-color:var(--red)}
+.student-card.has-todo{border-left-color:var(--amber)}
+.student-info{flex:1;min-width:0}
+.student-name{font-size:15px;font-weight:700;letter-spacing:-.1px}
+.student-stage{font-size:12px;color:var(--text2);margin-top:1px}
+.student-badge{display:inline-block;font-size:10.5px;font-weight:600;padding:3px 10px;border-radius:20px}
+.sb-urgent{background:#fef2f2;color:#b91c1c}.sb-week{background:#fffbeb;color:#92400e}.sb-soon{background:#f0fdf4;color:#166534}.sb-signed{background:#eef2ff;color:#3730a3}
+.student-detail{display:none;margin-top:14px;padding-top:14px;border-top:1px solid var(--border)}
+.student-card.expanded .student-detail{display:block}
+.md-content{font-size:13.5px;line-height:1.8;color:#3a3a3c;max-height:55vh;overflow-y:auto;-webkit-overflow-scrolling:touch;word-break:break-word}
+.md-content h1{font-size:17px;margin:14px 0 6px;color:var(--accent)}
+.md-content h2{font-size:15px;margin:16px 0 6px;border-bottom:1px solid var(--border);padding-bottom:4px}
+.md-content h3{font-size:13.5px;margin:12px 0 4px;font-weight:700}
+.md-content h4{font-size:13px;margin:8px 0 3px;color:var(--text2)}
+.md-content table{display:block;overflow-x:auto;border-collapse:collapse;font-size:12px;margin:10px 0;-webkit-overflow-scrolling:touch}
+.md-content td,.md-content th{border:1px solid #e5e3de;padding:5px 8px;text-align:left;white-space:nowrap}
+.md-content td{white-space:normal;min-width:60px}
+.md-content th{background:#fafaf9;font-weight:600;white-space:nowrap}
+.md-content blockquote{border-left:3px solid var(--gold);padding:4px 12px;color:var(--text2);margin:10px 0;background:#fdfcf9;border-radius:0 6px 6px 0}
+.md-content ul,.md-content ol{padding-left:18px;margin:8px 0}
+.md-content li{margin:3px 0}
+.md-content hr{border:none;border-top:1px solid var(--border);margin:16px 0}
+.md-content strong{color:var(--text)}
+.md-content p{margin:6px 0}
+
+/* ── FAB upload ── */
+.fab{position:fixed;bottom:24px;right:20px;width:52px;height:52px;border-radius:50%;background:var(--accent);color:#fff;border:none;font-size:24px;cursor:pointer;box-shadow:0 4px 20px rgba(0,0,0,.25);z-index:30;display:flex;align-items:center;justify-content:center;transition:all .2s}
+.fab:active{transform:scale(.9)}
+.overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:40;align-items:flex-end;justify-content:center}
+.overlay.show{display:flex}
+.sheet{background:#fff;border-radius:18px 18px 0 0;padding:20px 16px 30px;width:100%;max-width:500px;max-height:70vh;overflow-y:auto}
+.sheet h3{font-size:16px;margin-bottom:14px}
+.sheet select,.sheet input[type=file]{font-size:14px;padding:10px 12px;border:1px solid var(--border);border-radius:var(--radius-sm);width:100%;margin-bottom:10px;background:#fafaf9;font-family:var(--font)}
+.btn{display:block;width:100%;padding:13px;border:none;border-radius:var(--radius-sm);font-size:15px;font-weight:600;cursor:pointer;font-family:var(--font);transition:all .2s}
+.btn-primary{background:var(--accent);color:#fff}.btn-primary:active{background:#1e293b;transform:scale(.985)}
+.btn:disabled{background:#e5e3de;color:#aeaeb2;cursor:not-allowed}
+.sheet-result{margin-top:10px;font-size:12.5px;color:var(--text2);line-height:1.5}
+
+.toast{position:fixed;bottom:90px;left:50%;transform:translateX(-50%);background:var(--accent);color:#fff;padding:10px 24px;border-radius:20px;font-size:13px;font-weight:600;z-index:50;opacity:0;transition:opacity .3s;box-shadow:0 8px 30px rgba(0,0,0,.2);pointer-events:none}
+.toast.show{opacity:1}
+.empty{text-align:center;color:var(--text3);padding:24px;font-size:13px}
+
+/* ── Tab bar ── */
+.tab-bar{display:flex;background:var(--accent);padding:0 20px;gap:0}
+.tab-btn{flex:1;text-align:center;padding:10px 0 12px;font-size:13px;font-weight:600;color:rgba(255,255,255,.45);border:none;background:none;cursor:pointer;border-bottom:2.5px solid transparent;transition:all .2s;font-family:var(--font);letter-spacing:-.1px}
+.tab-btn.active{color:#fff;border-bottom-color:var(--gold)}
+.tab-btn:active{color:rgba(255,255,255,.7)}
+.tab-content{display:none}
+.tab-content.active{display:block}
+
+/* ── Assessment cards ── */
+.assess-card{background:var(--card);border-radius:var(--radius-sm);padding:12px 14px;box-shadow:var(--shadow);border:1px solid var(--border);margin-bottom:6px;cursor:pointer;transition:all .15s}
+.assess-card:active{background:#fafaf9}
+.assess-card.pending{border-left:3px solid var(--amber)}
+.assess-card.ready{border-left:3px solid var(--green)}
+.assess-card-header{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.assess-card-left{flex:1;min-width:0}
+.assess-card-name{font-size:14px;font-weight:700;letter-spacing:-.1px}
+.assess-card-meta{font-size:11.5px;color:var(--text2);margin-top:2px}
+.assess-card-actions{display:flex;gap:6px;flex-shrink:0}
+.assess-card.expanded .assess-card-detail{display:block}
+.assess-card-detail{display:none;margin-top:12px;padding-top:12px;border-top:1px solid var(--border)}
+.assess-copy-btn{font-size:12px;padding:5px 12px;border-radius:14px;border:1px solid var(--border);background:var(--card);color:var(--text);cursor:pointer;font-weight:600;white-space:nowrap;font-family:var(--font);transition:all .15s}
+.assess-copy-btn:active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.assess-copy-btn.copied{background:var(--green);color:#fff;border-color:var(--green)}
+.assess-view-btn{font-size:12px;padding:5px 12px;border-radius:14px;border:1px solid var(--border);background:var(--card);color:var(--text2);cursor:pointer;font-weight:600;white-space:nowrap;font-family:var(--font)}
+.pending-badge{display:inline-block;font-size:10.5px;font-weight:600;padding:2px 8px;border-radius:10px;background:#fffbeb;color:#92400e}
+
+/* ── Upload sheet tabs ── */
+.upload-tabs{display:flex;gap:4px;margin-bottom:14px}
+.upload-tab{flex:1;padding:8px 0;font-size:12px;font-weight:600;border:1.5px solid var(--border);border-radius:8px;background:var(--card);color:var(--text2);cursor:pointer;font-family:var(--font);transition:all .15s;text-align:center}
+.upload-tab.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.upload-mode{display:none}
+.upload-mode.active{display:block}
+.meeting-fields{display:flex;gap:6px;margin-bottom:10px}
+.meeting-fields select{flex:1}
+.gen-btn{font-size:11px;padding:4px 10px;border-radius:12px;border:1.5px solid var(--blue);background:#eef2ff;color:var(--blue);cursor:pointer;font-weight:600;white-space:nowrap;font-family:var(--font);transition:all .15s}
+.gen-btn:active{background:var(--blue);color:#fff}
+.gen-btn:disabled{opacity:.5;cursor:not-allowed}
+
+/* ── Add Client form ── */
+.add-client-form{background:var(--card);border-radius:var(--radius);padding:16px 14px;box-shadow:var(--shadow);border:1px solid var(--border)}
+.add-client-form .field-group{margin-bottom:16px}
+.add-client-form label{display:block;font-size:13px;font-weight:700;margin-bottom:4px;color:var(--text)}
+.add-client-form label .hint{display:block;font-size:11px;color:var(--text3);font-weight:400;margin-top:1px}
+.add-client-form input[type=text]{font-size:15px;padding:10px 12px;border:1.5px solid var(--border);border-radius:var(--radius-sm);width:100%;background:#fafaf9;font-family:var(--font);transition:border-color .2s}
+.add-client-form input[type=text]:focus{border-color:var(--blue);outline:none;background:#fff}
+.add-client-form .file-input-wrap{position:relative}
+.add-client-form input[type=file]{font-size:13px;padding:10px 12px;border:1.5px dashed var(--border);border-radius:var(--radius-sm);width:100%;background:#fafaf9;font-family:var(--font);cursor:pointer}
+.add-client-form .file-chosen{font-size:11px;color:var(--green);margin-top:3px;display:none}
+.radio-group{display:flex;gap:8px;flex-wrap:wrap}
+.radio-group label{display:flex;align-items:center;gap:6px;font-size:14px;font-weight:500;padding:10px 14px;border:1.5px solid var(--border);border-radius:var(--radius-sm);cursor:pointer;transition:all .15s;background:#fafaf9}
+.radio-group label:has(input:checked){background:var(--accent);color:#fff;border-color:var(--accent);font-weight:700}
+.radio-group input[type=radio]{accent-color:var(--accent);width:16px;height:16px}
+.required-star{color:var(--red);font-weight:700}
+.screening-checklist{background:#fefce8;border:1px solid #fde68a;border-radius:var(--radius-sm);padding:10px 12px;margin-bottom:16px;font-size:12px;color:#92400e;line-height:1.6;cursor:pointer}
+.screening-checklist summary{font-weight:700;font-size:13px}
+.screening-checklist ul{padding-left:16px;margin-top:4px}
+</style>
+</head>
+<body>
+
+<div class="header"><h1>South<span>Bridge</span></h1><div class="time" id="time"></div></div>
+
+<div class="tab-bar">
+  <button class="tab-btn active" data-tab="dashboard" onclick="switchTab('dashboard')">📊 看板</button>
+  <button class="tab-btn" data-tab="assessments" onclick="switchTab('assessments')">📋 评估与建议</button>
+  <button class="tab-btn" data-tab="addclient" onclick="switchTab('addclient')">➕ 添加</button>
+</div>
+
+<div class="container">
+
+  <div id="tab-dashboard" class="tab-content active">
+
+  <!-- 待办（置顶） -->
+  <div class="section">
+    <div class="section-head"><span class="dot dot-red"></span> 待办</div>
+    <div class="todo-list" id="todos">加载中…</div>
+  </div>
+
+  <!-- 看板 funnel -->
+  <div class="section">
+    <div class="section-head"><span class="dot dot-slate"></span> 看板</div>
+    <div class="funnel" id="funnel">
+      <div class="funnel-step"><div class="funnel-num f1">-</div><div class="funnel-label">过bar</div></div>
+      <div class="funnel-step"><div class="funnel-num f2">-</div><div class="funnel-label">已开会</div></div>
+      <div class="funnel-step"><div class="funnel-num f3">-</div><div class="funnel-label">签约中</div></div>
+      <div class="funnel-step"><div class="funnel-num f4">-</div><div class="funnel-label">已签约</div></div>
+    </div>
+  </div>
+
+  <!-- 跟进流程 -->
+  <div class="section">
+    <div class="section-head"><span class="dot dot-slate"></span> 跟进流程</div>
+    <div class="process-list" id="process">加载中…</div>
+  </div>
+
+  <!-- 学生 -->
+  <div class="section">
+    <div class="section-head"><span class="dot dot-slate"></span> 学生</div>
+    <div class="student-list" id="students">加载中…</div>
+  </div>
+
+  </div><!-- /tab-dashboard -->
+
+  <!-- ═══════════════ 评估与建议 Tab ═══════════════ -->
+  <div id="tab-assessments" class="tab-content">
+
+    <div class="section">
+      <div class="section-head"><span class="dot dot-amber"></span> ⏳ 待生成评估</div>
+      <div id="assess-pending">加载中…</div>
+    </div>
+
+    <div class="section">
+      <div class="section-head"><span class="dot" style="background:var(--green)"></span> ✅ 已生成（可发送）</div>
+      <div id="assess-ready">加载中…</div>
+    </div>
+
+  </div><!-- /tab-assessments -->
+
+  <!-- ═══════════════ 添加客户 Tab ═══════════════ -->
+  <div id="tab-addclient" class="tab-content">
+
+    <details class="screening-checklist">
+      <summary>📋 筛查参考：添加客户前，确认以下信息</summary>
+      <ul>
+        <li><b>学校背景</b>：一线城市头部高中 / 省市重点</li>
+        <li><b>校内成绩</b>：年级前 30-40%</li>
+        <li><b>语言成绩</b>：雅思 6.5+ / 托福 85+ / 多邻国 110+</li>
+      </ul>
+      分类：<b>优秀</b>（三项达标+亮点）· <b>过bar</b>（基本达标）· <b>不满足</b>（任一项不达标）
+    </details>
+
+    <div class="add-client-form">
+      <div class="field-group">
+        <label>1. 学生姓名 <span class="required-star">*</span></label>
+        <input type="text" id="acName" placeholder="填写学生真实姓名">
+      </div>
+
+      <div class="field-group">
+        <label>2. 微信身份信息页截图 <span class="required-star">*</span>
+          <span class="hint">📷 截取对方的微信主页（含微信号）</span>
+        </label>
+        <input type="file" id="acProfileScreenshot" accept="image/*" capture="environment" onchange="onAddClientFile('profile',this)">
+        <div class="file-chosen" id="acProfileChosen">已选择 ✓</div>
+      </div>
+
+      <div class="field-group">
+        <label>3. 微信聊天记录截图 <span class="required-star">*</span>
+          <span class="hint">📷 请完整截图，确保每一句对话都被截到，重复截到是完全OK的</span>
+        </label>
+        <input type="file" id="acChatScreenshot" accept="image/*" capture="environment" onchange="onAddClientFile('chat',this)">
+        <div class="file-chosen" id="acChatChosen">已选择 ✓</div>
+      </div>
+
+      <div class="field-group">
+        <label>4. 此聊天对象是：<span class="required-star">*</span></label>
+        <div class="radio-group" id="acIdentity">
+          <label><input type="radio" name="acIdentity" value="parent" onchange="ckAddClient()"> 学生家长</label>
+          <label><input type="radio" name="acIdentity" value="student" onchange="ckAddClient()"> 学生本人</label>
+        </div>
+      </div>
+
+      <div class="field-group">
+        <label>5. 通过筛查发现，此学生分类为：<span class="required-star">*</span></label>
+        <div class="radio-group" id="acScreening">
+          <label><input type="radio" name="acScreening" value="excellent" onchange="ckAddClient()"> 优秀</label>
+          <label><input type="radio" name="acScreening" value="qualified" onchange="ckAddClient()"> 过bar</label>
+          <label><input type="radio" name="acScreening" value="unqualified" onchange="ckAddClient()"> 不满足</label>
+        </div>
+      </div>
+
+      <button class="btn btn-primary" id="acSubmitBtn" disabled onclick="addClient()">添加客户</button>
+      <div id="acResult" style="margin-top:10px;font-size:12.5px;color:var(--text2);line-height:1.5"></div>
+    </div>
+
+  </div><!-- /tab-addclient -->
+
+</div><!-- /container -->
+
+<!-- Upload FAB + sheet -->
+<button class="fab" id="fabBtn" onclick="openUpload()">+</button>
+<div class="overlay" id="overlay" onclick="if(event.target===this)closeUpload()">
+  <div class="sheet">
+    <h3>📤 上传</h3>
+
+    <div class="upload-tabs">
+      <button class="upload-tab active" onclick="switchUploadMode('screenshot',this)">📱 微信截图</button>
+      <button class="upload-tab" onclick="switchUploadMode('transcript',this)">📝 会议逐字稿</button>
+    </div>
+
+    <select id="studentSelect" onchange="ckAll()"><option value="">选择学生…</option></select>
+
+    <!-- Screenshot mode -->
+    <div id="upload-mode-screenshot" class="upload-mode active">
+      <div class="meeting-fields">
+        <select id="chatIdentity" onchange="ckAll()">
+          <option value="">聊天对象身份…</option>
+          <option value="parent">学生家长</option>
+          <option value="student">学生本人</option>
+        </select>
+      </div>
+      <input type="file" id="screenshotInput" accept="image/*" capture="environment" onchange="ckAll()">
+      <button class="btn btn-primary" id="screenshotBtn" disabled onclick="uploadScreenshot()">上传并归档</button>
+    </div>
+
+    <!-- Transcript mode -->
+    <div id="upload-mode-transcript" class="upload-mode">
+      <div class="meeting-fields">
+        <select id="meetingNumber" onchange="ckAll()">
+          <option value="">场次…</option>
+          <option value="1">第1场</option>
+          <option value="2">第2场</option>
+          <option value="3">第3场</option>
+          <option value="4">第4场</option>
+        </select>
+        <select id="meetingType" onchange="ckAll()">
+          <option value="">类型…</option>
+          <option value="parent">家长会议</option>
+          <option value="student">学生会议</option>
+        </select>
+      </div>
+      <div class="meeting-fields">
+        <select id="transcriptAttendees" multiple style="font-size:12px;padding:8px" onchange="ckAll()">
+          <option value="parent">客户方：学生家长</option>
+          <option value="student">客户方：学生本人</option>
+          <option value="Cherie">公司方：Cherie</option>
+          <option value="Jessie">公司方：Jessie</option>
+          <option value="Chloe">公司方：Chloe</option>
+        </select>
+      </div>
+      <input type="file" id="transcriptInput" accept=".txt,.md,text/plain" onchange="ckAll()">
+      <button class="btn btn-primary" id="transcriptBtn" disabled onclick="uploadTranscript()">上传并生成评估建议</button>
+    </div>
+
+    <div class="sheet-result" id="uploadResult"></div>
+    <button class="btn" style="background:#f5f5f4;margin-top:8px;color:var(--text2)" onclick="closeUpload()">取消</button>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const API = '';
+let studentsData = [], todosData = [];
+
+function toast(msg){const t=document.getElementById('toast');t.textContent=msg;t.classList.add('show');setTimeout(()=>t.classList.remove('show'),2200)}
+function updateTime(){const n=new Date();document.getElementById('time').textContent=n.toLocaleDateString('zh-CN',{month:'short',day:'numeric'})+' · '+n.toLocaleDateString('zh-CN',{weekday:'short'})}
+updateTime();
+
+// ── Todos ──
+async function loadTodos(){
+  const el=document.getElementById('todos');
+  try{
+    const r=await fetch(API+'/api/todos');todosData=await r.json();
+    if(!todosData.length){el.innerHTML='<div class="todo-empty">暂无待办 ✓</div>';return}
+    let h='';
+    for(const t of todosData){
+      h+=`<div class="todo-item" onclick="scrollToStudent('${t.student}')">
+        <span class="todo-dot ${t.urgency==='urgent'?'u':'w'}"></span>
+        <span class="todo-text">${t.action}</span>
+        <span class="todo-reason">${t.reason}</span>
+      </div>`;
+    }
+    el.innerHTML=h;
+  }catch(e){el.innerHTML='<div class="todo-empty">加载失败</div>'}
+}
+
+// ── Pipeline ──
+async function loadPipeline(){
+  try{
+    const r=await fetch(API+'/api/pipeline');const d=await r.json();
+    const nums=document.querySelectorAll('.funnel-num');
+    nums[0].textContent=d.overBar;nums[1].textContent=d.met;
+    nums[2].textContent=d.negotiating;nums[3].textContent=d.signed;
+    const vals=[d.overBar,d.met,d.negotiating,d.signed];
+    document.querySelectorAll('.funnel-step').forEach((s,i)=>{
+      s.classList.toggle('funnel-zero',vals[i]===0);
+    });
+  }catch(e){}
+}
+
+// ── Process ──
+async function loadProcess(){
+  const el=document.getElementById('process');
+  try{
+    const r=await fetch(API+'/api/process');const steps=await r.json();
+    let h='';
+    for(const s of steps){
+      const has=s.count>0;
+      h+=`<div class="process-step" onclick="this.querySelector('.process-detail').classList.toggle('open')">
+        <div class="process-num${has?' active':''}">${s.num}</div>
+        <div class="process-body">
+          <div class="process-line"></div>
+          <div class="process-header">
+            <span class="process-label">${s.icon} ${s.label}</span>
+            <span class="process-count${has?' has':''}">${s.count}人</span>
+          </div>
+          <div class="process-desc">${s.desc}</div>
+          <div class="process-detail">${s.detail}</div>
+        </div>
+      </div>`;
+    }
+    el.innerHTML=h;
+  }catch(e){el.innerHTML='<div class="empty">加载失败</div>'}
+}
+
+// ── Students ──
+async function loadStudents(){
+  const el=document.getElementById('students');
+  try{
+    const r=await fetch(API+'/api/students');studentsData=await r.json();
+    let h='';const sel=document.getElementById('studentSelect');
+    sel.innerHTML='<option value="">选择学生…</option>';
+    const todoStudents=new Set(todosData.map(t=>t.student));
+
+    for(const s of studentsData){
+      if(s.exists===false)continue;
+      sel.innerHTML+=`<option value="${s.dir}">${s.name}</option>`;
+
+      const sc=s.status==='已签约'?'sb-signed':(s.status==='方案沟通中'?'sb-week':(s.status==='已咨询'?'sb-urgent':'sb-soon'));
+
+      const hasUrgent=todosData.some(t=>t.student===s.dir&&t.urgency==='urgent');
+      const hasTodo=todosData.some(t=>t.student===s.dir);
+      let cardClass='';
+      if(hasUrgent)cardClass=' needs-action';
+      else if(hasTodo)cardClass=' has-todo';
+
+      h+=`<div class="student-card${cardClass}" id="stu-${s.dir}" onclick="toggleStudent('${s.dir}',this)">
+        <div class="student-info">
+          <div class="student-name">${s.name} <span class="student-badge ${sc}">${s.status}</span></div>
+          <div class="student-stage">${s.school||''}${s.grade?' · '+s.grade:''}${s.plan?' · '+s.plan.replace(/（.*$/,''):''}</div>
+        </div>
+        <div class="student-detail" id="detail-${s.dir}"></div>
+      </div>`;
+    }
+    if(!h)h='<div class="empty">暂无学生</div>';
+    el.innerHTML=h;
+  }catch(e){el.innerHTML='<div class="empty">加载失败</div>'}
+}
+
+// Scroll to student from todo
+function scrollToStudent(dir){
+  const card=document.getElementById('stu-'+dir);
+  if(card){card.scrollIntoView({behavior:'smooth',block:'center'});card.style.background='#fefce8';setTimeout(()=>card.style.background='',1200)}
+}
+
+// Toggle student detail
+async function toggleStudent(dir,card){
+  const detail=card.querySelector('.student-detail');
+  if(card.classList.contains('expanded')){card.classList.remove('expanded');return}
+  if(detail.innerHTML&&!detail.innerHTML.includes('加载中')){card.classList.add('expanded');return}
+  detail.innerHTML='<div class="empty">加载中…</div>';card.classList.add('expanded');
+  try{const r=await fetch(API+'/api/students/'+encodeURIComponent(dir));const d=await r.json();detail.innerHTML='<div class="md-content">'+(d.html||'<p>无内容</p>')+'</div>'}
+  catch(e){detail.innerHTML='<div class="empty">加载失败</div>'}
+}
+
+// ── Upload FAB ──
+let uploadMode='screenshot';
+function openUpload(){document.getElementById('overlay').classList.add('show');resetUpload()}
+function closeUpload(){document.getElementById('overlay').classList.remove('show')}
+function resetUpload(){
+  document.getElementById('uploadResult').innerHTML='';
+  document.getElementById('screenshotInput').value='';
+  document.getElementById('transcriptInput').value='';
+  document.getElementById('meetingNumber').value='';
+  document.getElementById('meetingType').value='';
+  ckAll();
+}
+function switchUploadMode(mode,btn){
+  uploadMode=mode;
+  document.querySelectorAll('.upload-tab').forEach(b=>b.classList.toggle('active',b===btn));
+  document.querySelectorAll('.upload-mode').forEach(d=>d.classList.toggle('active',d.id==='upload-mode-'+mode));
+  ckAll();
+}
+function ckAll(){
+  const ss=document.getElementById('studentSelect').value;
+  if(uploadMode==='screenshot'){
+    const fi=document.getElementById('screenshotInput');
+    const ci=document.getElementById('chatIdentity').value;
+    document.getElementById('screenshotBtn').disabled=!fi.files.length||!ss||!ci;
+  }else{
+    const fi=document.getElementById('transcriptInput');
+    const mn=document.getElementById('meetingNumber').value;
+    const mt=document.getElementById('meetingType').value;
+    document.getElementById('transcriptBtn').disabled=!fi.files.length||!ss||!mn||!mt;
+  }
+}
+
+async function uploadScreenshot(){
+  const ss=document.getElementById('studentSelect'),fi=document.getElementById('screenshotInput');
+  const ci=document.getElementById('chatIdentity');
+  const st=ss.value,f=fi.files[0],identity=ci.value;
+  if(!st||!f||!identity)return;
+  const btn=document.getElementById('screenshotBtn');btn.disabled=true;btn.textContent='上传中…';
+  const fd=new FormData();fd.append('student',st);fd.append('screenshot',f);
+  fd.append('identity',identity);
+  try{const r=await fetch(API+'/api/upload-chat',{method:'POST',body:fd});const d=await r.json();
+    document.getElementById('uploadResult').innerHTML=d.ok?`✅ 已保存至 <b>${d.savedTo}</b><br>🔄 ${d.hint||''}`:`❌ ${d.error}`;
+    toast(d.ok?'已上传，触发处理':'上传失败');fi.value='';ci.value='';btn.disabled=true;
+  }catch(e){document.getElementById('uploadResult').innerHTML='❌ 网络错误';toast('上传失败')}
+  btn.disabled=false;btn.textContent='上传并归档';
+}
+
+async function uploadTranscript(){
+  const ss=document.getElementById('studentSelect'),fi=document.getElementById('transcriptInput');
+  const mn=document.getElementById('meetingNumber'),mt=document.getElementById('meetingType');
+  const st=ss.value,f=fi.files[0],num=mn.value,type=mt.value;
+  if(!st||!f||!num||!type)return;
+  // Collect selected attendees
+  const attSelect=document.getElementById('transcriptAttendees');
+  const attendees=Array.from(attSelect.selectedOptions).map(o=>o.value);
+  const btn=document.getElementById('transcriptBtn');btn.disabled=true;btn.textContent='上传并生成中…';
+  const fd=new FormData();fd.append('student',st);fd.append('transcript',f);
+  fd.append('meetingNumber',num);fd.append('meetingType',type);
+  fd.append('attendees',attendees.join(','));
+  try{const r=await fetch(API+'/api/upload-transcript',{method:'POST',body:fd});const d=await r.json();
+    document.getElementById('uploadResult').innerHTML=d.ok?`✅ 已保存至 <b>${d.transcriptPath}</b><br>🔄 ${d.hint}`:`❌ ${d.error}`;
+    toast(d.ok?'已触发评估生成':'上传失败');fi.value='';btn.disabled=true;
+  }catch(e){document.getElementById('uploadResult').innerHTML='❌ 网络错误';toast('上传失败')}
+  btn.disabled=false;btn.textContent='上传并生成评估建议';
+}
+
+// ── Tab switching ──
+function switchTab(tab){
+  document.querySelectorAll('.tab-btn').forEach(b=>b.classList.toggle('active',b.dataset.tab===tab));
+  document.querySelectorAll('.tab-content').forEach(c=>c.classList.toggle('active',c.id==='tab-'+tab));
+  if(tab==='assessments')loadAssessments();
+}
+
+// ── Add Client ──
+function onAddClientFile(type,input){
+  const el=document.getElementById(type==='profile'?'acProfileChosen':'acChatChosen');
+  el.style.display=input.files.length?'block':'none';
+  ckAddClient();
+}
+function ckAddClient(){
+  const name=document.getElementById('acName').value.trim();
+  const profile=document.getElementById('acProfileScreenshot').files.length;
+  const chat=document.getElementById('acChatScreenshot').files.length;
+  const identity=document.querySelector('input[name="acIdentity"]:checked');
+  const screening=document.querySelector('input[name="acScreening"]:checked');
+  document.getElementById('acSubmitBtn').disabled=!(name&&profile&&chat&&identity&&screening);
+}
+// Also track text input changes
+document.addEventListener('DOMContentLoaded',()=>{
+  const acName=document.getElementById('acName');
+  if(acName)acName.addEventListener('input',ckAddClient);
+});
+
+async function addClient(){
+  const name=document.getElementById('acName').value.trim();
+  const profileInput=document.getElementById('acProfileScreenshot');
+  const chatInput=document.getElementById('acChatScreenshot');
+  const identity=document.querySelector('input[name="acIdentity"]:checked');
+  const screening=document.querySelector('input[name="acScreening"]:checked');
+
+  if(!name||!profileInput.files.length||!chatInput.files.length||!identity||!screening)return;
+
+  const btn=document.getElementById('acSubmitBtn');
+  const result=document.getElementById('acResult');
+  btn.disabled=true;btn.textContent='正在创建客户…';
+
+  const fd=new FormData();
+  fd.append('student',name);
+  fd.append('identity',identity.value);
+  fd.append('screeningResult',screening.value);
+  fd.append('profileScreenshot',profileInput.files[0]);
+  fd.append('chatScreenshot',chatInput.files[0]);
+
+  try{
+    const r=await fetch(API+'/api/add-client',{method:'POST',body:fd});
+    const d=await r.json();
+    if(d.ok){
+      result.innerHTML=`✅ <b>${d.student}</b> 已建档<br>📌 身份：${d.identity} · 筛查：${d.screening}<br><i>${d.hint}</i>`;
+      // Reset form
+      document.getElementById('acName').value='';
+      profileInput.value='';chatInput.value='';
+      document.getElementById('acProfileChosen').style.display='none';
+      document.getElementById('acChatChosen').style.display='none';
+      document.querySelectorAll('input[name="acIdentity"]').forEach(r=>r.checked=false);
+      document.querySelectorAll('input[name="acScreening"]').forEach(r=>r.checked=false);
+      btn.disabled=true;
+      toast('客户已添加');
+      // Refresh student list
+      loadStudents();
+    }else{
+      result.innerHTML=`❌ ${d.error}`;
+      btn.disabled=false;
+    }
+  }catch(e){
+    result.innerHTML='❌ 网络错误，请重试';
+    btn.disabled=false;
+  }
+  btn.textContent='添加客户';
+}
+
+// ── Assessments ──
+let assessmentsData=[];
+async function loadAssessments(){
+  const pel=document.getElementById('assess-pending'),rel=document.getElementById('assess-ready');
+  try{
+    const r=await fetch(API+'/api/assessments');assessmentsData=await r.json();
+    const pending=assessmentsData.filter(a=>a.pending);
+    const ready=assessmentsData.filter(a=>a.assessmentFiles.length>0);
+
+    if(!pending.length){pel.innerHTML='<div class="empty">暂无待生成 ✓</div>'}
+    else{
+      let ph='';
+      for(const a of pending){
+        ph+=`<div class="assess-card pending">
+          <div class="assess-card-header">
+            <div class="assess-card-left">
+              <div class="assess-card-name">${a.student} <span class="pending-badge">待生成</span></div>
+              <div class="assess-card-meta">${a.meetingCount} 场会议记录 · ${a.status}</div>
+            </div>
+            <button class="gen-btn" onclick="event.stopPropagation();triggerAssessment('${a.student}',this)">⚡ 生成</button>
+          </div>
+        </div>`;
+      }
+      pel.innerHTML=ph;
+    }
+
+    if(!ready.length){rel.innerHTML='<div class="empty">暂无已生成的评估</div>'}
+    else{
+      let rh='';
+      for(const a of ready){
+        for(const f of a.assessmentFiles){
+          const label=f.replace('.md','').replace('第','第').replace('-评估与建议','');
+          rh+=`<div class="assess-card ready" id="assess-${a.student}-${encodeURIComponent(f)}">
+            <div class="assess-card-header">
+              <div class="assess-card-left" onclick="toggleAssessment('${a.student}','${f}',this.parentElement.parentElement.parentElement)">
+                <div class="assess-card-name">${a.student} · ${label}</div>
+                <div class="assess-card-meta">${a.status}</div>
+              </div>
+              <div class="assess-card-actions">
+                <button class="assess-view-btn" onclick="event.stopPropagation();toggleAssessment('${a.student}','${f}',document.getElementById('assess-${a.student}-${encodeURIComponent(f)}'))">查看</button>
+                <button class="assess-copy-btn" onclick="event.stopPropagation();copyAssessment('${a.student}','${f}',this)">📋 复制</button>
+              </div>
+            </div>
+            <div class="assess-card-detail" id="assess-detail-${a.student}-${encodeURIComponent(f)}"></div>
+          </div>`;
+        }
+      }
+      rel.innerHTML=rh;
+    }
+  }catch(e){pel.innerHTML='<div class="empty">加载失败</div>';rel.innerHTML='<div class="empty">加载失败</div>'}
+}
+
+async function toggleAssessment(student,file,card){
+  const detail=card.querySelector('.assess-card-detail');
+  const detailId='assess-detail-'+student+'-'+encodeURIComponent(file);
+  if(card.classList.contains('expanded')){card.classList.remove('expanded');return}
+  if(detail.innerHTML&&!detail.innerHTML.includes('加载中')){card.classList.add('expanded');return}
+  detail.innerHTML='<div class="empty">加载中…</div>';card.classList.add('expanded');
+  try{
+    const r=await fetch(API+'/api/assessments/'+encodeURIComponent(student)+'/'+encodeURIComponent(file));
+    const d=await r.json();
+    detail.innerHTML='<div class="md-content">'+(d.html||'<p>无内容</p>')+'</div>';
+    card.scrollIntoView({behavior:'smooth',block:'nearest'});
+  }catch(e){detail.innerHTML='<div class="empty">加载失败</div>'}
+}
+
+async function copyAssessment(student,file,btn){
+  try{
+    const r=await fetch(API+'/api/assessments/'+encodeURIComponent(student)+'/'+encodeURIComponent(file));
+    const d=await r.json();
+    // Strip markdown syntax for WeChat-friendly plain text
+    let text=d.content||'';
+    text=text.replace(/^# (.+)/gm,'【$1】');
+    text=text.replace(/^## (.+)/gm,'▎$1');
+    text=text.replace(/^### (.+)/gm,'  ▪ $1');
+    text=text.replace(/^> (.+)/gm,'$1');
+    text=text.replace(/\*\*(.+?)\*\*/g,'$1');
+    text=text.replace(/^- /gm,'• ');
+    text=text.replace(/---/g,'');
+    text=text.replace(/\n{3,}/g,'\n\n');
+    await navigator.clipboard.writeText(text.trim());
+    btn.textContent='✓ 已复制';btn.classList.add('copied');
+    setTimeout(()=>{btn.textContent='📋 复制';btn.classList.remove('copied')},2000);
+    toast('已复制到剪贴板');
+  }catch(e){toast('复制失败，请重试')}
+}
+
+async function triggerAssessment(student,btn){
+  btn.disabled=true;btn.textContent='⏳';
+  try{
+    const r=await fetch(API+'/api/trigger-assessment',{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({student})
+    });
+    const d=await r.json();
+    if(d.ok){btn.textContent='✓ 已触发';btn.style.background='var(--green)';btn.style.color='#fff';btn.style.borderColor='var(--green)';toast('已触发评估生成')}
+    else{btn.textContent='⚡ 生成';btn.disabled=false;toast('触发失败')}
+  }catch(e){btn.textContent='⚡ 生成';btn.disabled=false;toast('网络错误')}
+}
+
+// ── Init ──
+(async function(){await loadTodos();await loadPipeline();await loadProcess();loadStudents();})();
+</script>
+</body>
+</html>

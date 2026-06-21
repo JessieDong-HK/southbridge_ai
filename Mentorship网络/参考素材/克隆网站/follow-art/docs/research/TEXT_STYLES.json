@@ -1,0 +1,286 @@
+[
+  {
+    "name": "Hero",
+    "title": "FOLLOW.ART One Practice. One Card",
+    "titleStyles": {
+      "fontSize": "257px",
+      "fontWeight": "700",
+      "lineHeight": "200px",
+      "color": "rgb(0, 0, 0)",
+      "letterSpacing": "normal"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "FOLLOW.ART One Practice. One Card",
+    "tag": "DIV",
+    "styles": {
+      "fontSize": "26px",
+      "fontWeight": "400",
+      "lineHeight": "30px",
+      "color": "rgb(255, 255, 255)",
+      "letterSpacing": "-0.78px",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "FOLLOW.ART One Practice. One Card",
+    "tag": "H1",
+    "styles": {
+      "fontSize": "257px",
+      "fontWeight": "700",
+      "lineHeight": "200px",
+      "color": "rgb(0, 0, 0)",
+      "letterSpacing": "normal",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "How  FOLLOW. ART  works?",
+    "tag": "P",
+    "styles": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "20px",
+      "color": "rgb(255, 255, 255)",
+      "letterSpacing": "-0.48px",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "CURATORS AND ARTISTS",
+    "tag": "DIV",
+    "styles": {
+      "fontSize": "26px",
+      "fontWeight": "400",
+      "lineHeight": "30px",
+      "color": "rgb(255, 255, 255)",
+      "letterSpacing": "-0.78px",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "CURATORS AND ARTISTS",
+    "tag": "H2",
+    "styles": {
+      "fontSize": "224.877px",
+      "fontWeight": "700",
+      "lineHeight": "177.534px",
+      "color": "rgb(0, 0, 0)",
+      "letterSpacing": "normal",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "ARTISTS",
+    "tag": "SPAN",
+    "styles": {
+      "fontSize": "224.877px",
+      "fontWeight": "700",
+      "lineHeight": "177.534px",
+      "color": "rgb(0, 0, 0)",
+      "letterSpacing": "normal",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "Testimonials",
+    "tag": "DIV",
+    "styles": {
+      "fontSize": "26px",
+      "fontWeight": "400",
+      "lineHeight": "30px",
+      "color": "rgb(255, 255, 255)",
+      "letterSpacing": "-0.78px",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "Testimonials",
+    "tag": "H2",
+    "styles": {
+      "fontSize": "228px",
+      "fontWeight": "700",
+      "lineHeight": "180px",
+      "color": "rgb(0, 0, 0)",
+      "letterSpacing": "normal",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "CENTRALIZE",
+    "tag": "H2",
+    "styles": {
+      "fontSize": "224.877px",
+      "fontWeight": "700",
+      "lineHeight": "177.534px",
+      "color": "rgb(0, 0, 0)",
+      "letterSpacing": "normal",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "CENTRA",
+    "tag": "SPAN",
+    "styles": {
+      "fontSize": "224.877px",
+      "fontWeight": "700",
+      "lineHeight": "177.534px",
+      "color": "rgb(0, 0, 0)",
+      "letterSpacing": "normal",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "LIZE",
+    "tag": "SPAN",
+    "styles": {
+      "fontSize": "224.877px",
+      "fontWeight": "700",
+      "lineHeight": "177.534px",
+      "color": "rgb(0, 0, 0)",
+      "letterSpacing": "normal",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "LIZE",
+    "tag": "SPAN",
+    "styles": {
+      "fontSize": "224.877px",
+      "fontWeight": "700",
+      "lineHeight": "177.534px",
+      "color": "rgb(0, 0, 0)",
+      "letterSpacing": "normal",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "card",
+    "tag": "DIV",
+    "styles": {
+      "fontSize": "26px",
+      "fontWeight": "400",
+      "lineHeight": "30px",
+      "color": "rgb(255, 255, 255)",
+      "letterSpacing": "-0.78px",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "card",
+    "tag": "H2",
+    "styles": {
+      "fontSize": "228px",
+      "fontWeight": "700",
+      "lineHeight": "180px",
+      "color": "rgb(0, 0, 0)",
+      "letterSpacing": "normal",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "Audience Support",
+    "tag": "DIV",
+    "styles": {
+      "fontSize": "26px",
+      "fontWeight": "400",
+      "lineHeight": "30px",
+      "color": "rgb(255, 255, 255)",
+      "letterSpacing": "-0.78px",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "Audience Support",
+    "tag": "H2",
+    "styles": {
+      "fontSize": "224.877px",
+      "fontWeight": "700",
+      "lineHeight": "177.534px",
+      "color": "rgb(0, 0, 0)",
+      "letterSpacing": "normal",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "Discover Others & Get Discovered",
+    "tag": "P",
+    "styles": {
+      "fontSize": "26px",
+      "fontWeight": "400",
+      "lineHeight": "30px",
+      "color": "rgb(0, 0, 0)",
+      "letterSpacing": "-0.78px",
+      "marginBottom": "80px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "Connectory",
+    "tag": "DIV",
+    "styles": {
+      "fontSize": "26px",
+      "fontWeight": "400",
+      "lineHeight": "30px",
+      "color": "rgb(255, 255, 255)",
+      "letterSpacing": "-0.78px",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "Connectory",
+    "tag": "H2",
+    "styles": {
+      "fontSize": "228px",
+      "fontWeight": "700",
+      "lineHeight": "180px",
+      "color": "rgb(0, 0, 0)",
+      "letterSpacing": "normal",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "Join Us",
+    "tag": "DIV",
+    "styles": {
+      "fontSize": "26px",
+      "fontWeight": "400",
+      "lineHeight": "30px",
+      "color": "rgb(255, 255, 255)",
+      "letterSpacing": "-0.78px",
+      "marginBottom": "0px"
+    }
+  },
+  {
+    "name": "Heading",
+    "text": "Join Us",
+    "tag": "H2",
+    "styles": {
+      "fontSize": "228px",
+      "fontWeight": "700",
+      "lineHeight": "180px",
+      "color": "rgb(0, 0, 0)",
+      "letterSpacing": "normal",
+      "marginBottom": "0px"
+    }
+  }
+]

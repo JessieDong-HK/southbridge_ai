@@ -1,0 +1,506 @@
+[
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/line.svg",
+    "alt": " ",
+    "naturalWidth": 225,
+    "naturalHeight": 156,
+    "parentClasses": "intro__title-decoration",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/star.svg",
+    "alt": " ",
+    "naturalWidth": 70,
+    "naturalHeight": 74,
+    "parentClasses": "ui-orange loading-screen",
+    "position": "absolute"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/vortex.svg",
+    "alt": " ",
+    "naturalWidth": 106,
+    "naturalHeight": 106,
+    "parentClasses": "ui-orange loading-screen",
+    "position": "absolute"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/emoji-smile.svg",
+    "alt": " ",
+    "naturalWidth": 105,
+    "naturalHeight": 103,
+    "parentClasses": "ui-orange loading-screen",
+    "position": "absolute"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/flower.svg",
+    "alt": " ",
+    "naturalWidth": 120,
+    "naturalHeight": 103,
+    "parentClasses": "ui-orange loading-screen",
+    "position": "absolute"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/loop-arrows.svg",
+    "alt": " ",
+    "naturalWidth": 120,
+    "naturalHeight": 82,
+    "parentClasses": "ui-orange loading-screen",
+    "position": "absolute"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/common/media-play.svg",
+    "alt": " ",
+    "naturalWidth": 11,
+    "naturalHeight": 16,
+    "parentClasses": "btn__text",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/helix-decoration.svg",
+    "alt": " ",
+    "naturalWidth": 630,
+    "naturalHeight": 561,
+    "parentClasses": "section-2__media-wrapper",
+    "position": "absolute"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/9.testimonials/speech-balloon.svg",
+    "alt": " ",
+    "naturalWidth": 117,
+    "naturalHeight": 46,
+    "parentClasses": "title-children-wrapper",
+    "position": "absolute"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&s_52x55/images/landing/common/star.svg",
+    "alt": " ",
+    "naturalWidth": 70,
+    "naturalHeight": 74,
+    "parentClasses": "section-4__title-word",
+    "position": "absolute"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&s_398x440/images/landing/4.follow-art/cross.svg",
+    "alt": " ",
+    "naturalWidth": 599,
+    "naturalHeight": 657,
+    "parentClasses": "section-4__cards-wrapper-decoration",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/the.svg",
+    "alt": "Card for artists — share your portfolio, bio, exhibitions, and awards with one professional tool.",
+    "naturalWidth": 105,
+    "naturalHeight": 92,
+    "parentClasses": "title-children-wrapper",
+    "position": "absolute"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/promo-arrow.svg",
+    "alt": " ",
+    "naturalWidth": 93,
+    "naturalHeight": 37,
+    "parentClasses": "section-5__btn-icon",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/promo-arrow.svg",
+    "alt": " ",
+    "naturalWidth": 93,
+    "naturalHeight": 37,
+    "parentClasses": "section-5__btn-icon",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/common/usd-currency.svg",
+    "alt": " ",
+    "naturalWidth": 61,
+    "naturalHeight": 130,
+    "parentClasses": "section-3__title",
+    "position": "absolute"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-1.jpg",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-2.jpg",
+    "alt": " ",
+    "naturalWidth": 1280,
+    "naturalHeight": 1280,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-3.jpg",
+    "alt": " ",
+    "naturalWidth": 1280,
+    "naturalHeight": 1280,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-4.jpg",
+    "alt": " ",
+    "naturalWidth": 997,
+    "naturalHeight": 997,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-5.jpg",
+    "alt": " ",
+    "naturalWidth": 1165,
+    "naturalHeight": 1165,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-6.jpg",
+    "alt": " ",
+    "naturalWidth": 1199,
+    "naturalHeight": 1199,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-7.jpg",
+    "alt": " ",
+    "naturalWidth": 300,
+    "naturalHeight": 300,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-8.jpg",
+    "alt": " ",
+    "naturalWidth": 300,
+    "naturalHeight": 300,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-9.jpg",
+    "alt": " ",
+    "naturalWidth": 799,
+    "naturalHeight": 799,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-10.jpg",
+    "alt": " ",
+    "naturalWidth": 416,
+    "naturalHeight": 416,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-1.jpg",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-2.jpg",
+    "alt": " ",
+    "naturalWidth": 1280,
+    "naturalHeight": 1280,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-3.jpg",
+    "alt": " ",
+    "naturalWidth": 1280,
+    "naturalHeight": 1280,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-4.jpg",
+    "alt": " ",
+    "naturalWidth": 997,
+    "naturalHeight": 997,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-5.jpg",
+    "alt": " ",
+    "naturalWidth": 1165,
+    "naturalHeight": 1165,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-6.jpg",
+    "alt": " ",
+    "naturalWidth": 1199,
+    "naturalHeight": 1199,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-7.jpg",
+    "alt": " ",
+    "naturalWidth": 300,
+    "naturalHeight": 300,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-8.jpg",
+    "alt": " ",
+    "naturalWidth": 300,
+    "naturalHeight": 300,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-9.jpg",
+    "alt": " ",
+    "naturalWidth": 799,
+    "naturalHeight": 799,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_jpeg&s_3072x3072/images/landing/team/person-10.jpg",
+    "alt": " ",
+    "naturalWidth": 416,
+    "naturalHeight": 416,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/the.svg",
+    "alt": " ",
+    "naturalWidth": 52,
+    "naturalHeight": 46,
+    "parentClasses": "title-children-wrapper",
+    "position": "absolute"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/promo-arrow.svg",
+    "alt": " ",
+    "naturalWidth": 46,
+    "naturalHeight": 18,
+    "parentClasses": "section-7__btn-icon",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/promo-arrow.svg",
+    "alt": " ",
+    "naturalWidth": 46,
+    "naturalHeight": 18,
+    "parentClasses": "section-7__btn-icon",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/10.join-us/us-word.svg",
+    "alt": " ",
+    "naturalWidth": 87,
+    "naturalHeight": 87,
+    "parentClasses": "title-children-wrapper",
+    "position": "absolute"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-16.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-18.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-14.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-1.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-2.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-3.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-4.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-5.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-6.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-7.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-8.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-9.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-10.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-11.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-12.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-13.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-15.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088&f_png&s_3072x3072/images/landing/10.join-us/trail-17.png",
+    "alt": " ",
+    "naturalWidth": 480,
+    "naturalHeight": 480,
+    "parentClasses": "img-full",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/promo-arrow.svg",
+    "alt": " ",
+    "naturalWidth": 46,
+    "naturalHeight": 18,
+    "parentClasses": "section-10__btn-icon",
+    "position": "static"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/star.svg",
+    "alt": " ",
+    "naturalWidth": 35,
+    "naturalHeight": 37,
+    "parentClasses": "ui-orange loading-screen loading-screen--background",
+    "position": "absolute"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/vortex.svg",
+    "alt": " ",
+    "naturalWidth": 53,
+    "naturalHeight": 53,
+    "parentClasses": "ui-orange loading-screen loading-screen--background",
+    "position": "absolute"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/emoji-smile.svg",
+    "alt": " ",
+    "naturalWidth": 52,
+    "naturalHeight": 51,
+    "parentClasses": "ui-orange loading-screen loading-screen--background",
+    "position": "absolute"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/flower.svg",
+    "alt": " ",
+    "naturalWidth": 60,
+    "naturalHeight": 51,
+    "parentClasses": "ui-orange loading-screen loading-screen--background",
+    "position": "absolute"
+  },
+  {
+    "src": "https://follow.art/_ipx/v_1781268325088/images/landing/common/loop-arrows.svg",
+    "alt": " ",
+    "naturalWidth": 60,
+    "naturalHeight": 41,
+    "parentClasses": "ui-orange loading-screen loading-screen--background",
+    "position": "absolute"
+  }
+]

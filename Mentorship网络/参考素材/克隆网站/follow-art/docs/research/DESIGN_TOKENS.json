@@ -1,0 +1,37 @@
+{
+  "bodyBackground": "rgb(255, 255, 255)",
+  "bodyColor": "rgb(0, 0, 0)",
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgb(0, 0, 255)",
+    "rgb(255, 255, 255)",
+    "rgba(255, 255, 255, 0.6)",
+    "rgb(244, 121, 58)",
+    "rgb(128, 128, 128)"
+  ],
+  "bgColors": [
+    "rgb(244, 121, 58)",
+    "rgb(142, 148, 135)",
+    "rgb(132, 152, 172)",
+    "rgb(0, 0, 0)",
+    "rgb(197, 147, 157)"
+  ],
+  "fonts": [
+    "HeadingNow, Helvetica, Arial, sans-serif",
+    "Hardbop, Helvetica, Arial, sans-serif"
+  ],
+  "favicons": [
+    {
+      "href": "https://follow.art/manifest/favicon-96x96.png",
+      "sizes": "96x96",
+      "rel": "icon"
+    },
+    {
+      "href": "https://follow.art/manifest/apple-touch-icon.png",
+      "sizes": null,
+      "rel": "apple-touch-icon"
+    }
+  ],
+  "title": "FOLLOW.ART | Digital Infrastructure for Curators & Artists",
+  "description": "Your portfolio, contacts, and direct support in one Card. Join 2.5K+ curators and artists across 100+ countries. Free to start. No algorithm. "
+}

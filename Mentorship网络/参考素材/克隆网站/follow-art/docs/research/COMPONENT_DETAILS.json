@@ -1,0 +1,1433 @@
+[
+  {
+    "index": 0,
+    "tag": "header",
+    "classes": "promo-header px-1 promo--has-loading-state promo--loaded promo-header--border-auto promo-header--expanded ui-orange ui-background",
+    "id": null,
+    "position": "fixed",
+    "top": 0,
+    "height": 60,
+    "width": 1440,
+    "zIndex": "10",
+    "isSticky": true,
+    "childCount": 2,
+    "textPreview": "FOLLOW. ART One Practice. One Card AboutOur ProductCommunity BoardPricingFAQLoginJoin",
+    "detail": {
+      "tag": "header",
+      "classes": "promo-header px-1 promo--has-loading-state promo--loaded promo-header--border-auto promo-header--expanded ui-orange ui-background",
+      "styles": {
+        "display": "block",
+        "position": "fixed",
+        "padding": "0px 20px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "backgroundColor": "rgb(244, 121, 58)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "gap": "normal"
+      },
+      "textPreview": "FOLLOW. ART One Practice. One Card AboutOur ProductCommunity BoardPricingFAQLoginJoin",
+      "childCount": 2,
+      "children": [
+        {
+          "tag": "div",
+          "classes": "ui-orange ui-background promo-header__previous-bg",
+          "styles": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "display": "block",
+            "padding": "0px",
+            "margin": "0px",
+            "borderRadius": "0px",
+            "background": "rgb(244, 121, 58) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": null,
+            "transform": "matrix(1, 0, 0, 1, 0, -60)",
+            "opacity": null,
+            "position": "absolute",
+            "boxShadow": null,
+            "gap": "normal",
+            "flexDirection": "row"
+          },
+          "textPreview": "",
+          "childCount": 0,
+          "hasImg": 0,
+          "hasVideo": 0,
+          "hasSvg": 0
+        },
+        {
+          "tag": "div",
+          "classes": "row row--gx row--middle promo-header__row",
+          "styles": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 255)",
+            "display": "flex",
+            "padding": "20px 0px",
+            "margin": "0px",
+            "borderRadius": "0px",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": null,
+            "transform": "matrix(1, 0, 0, 1, 0, -9)",
+            "opacity": null,
+            "position": "relative",
+            "boxShadow": null,
+            "gap": "0px 20px",
+            "flexDirection": "row"
+          },
+          "textPreview": "FOLLOW. ART One Practice. One Card AboutOur ProductCommunity BoardPricingFAQLoginJoin",
+          "childCount": 4,
+          "hasImg": 0,
+          "hasVideo": 0,
+          "hasSvg": 10
+        }
+      ]
+    }
+  },
+  {
+    "index": 1,
+    "tag": "div (named section)",
+    "classes": "section section--under-next",
+    "id": null,
+    "top": 0,
+    "height": 1800,
+    "width": 1440,
+    "textPreview": "FOLLOW.ART One Practice. One Card One Card.  Share it. Be noticed.  Be supported",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 2,
+    "tag": "div (named section)",
+    "classes": "section__layer section__layer--sticky section__layer--full-height ui-orange ui-background intro intro--show",
+    "id": null,
+    "top": 0,
+    "height": 900,
+    "width": 1440,
+    "textPreview": "FOLLOW.ART One Practice. One Card One Card.  Share it. Be noticed.  Be supported",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 3,
+    "tag": "div (named section)",
+    "classes": "ui-green js-get-seen-section",
+    "id": null,
+    "top": 900,
+    "height": 1800,
+    "width": 1440,
+    "textPreview": "How  FOLLOW. ART  works? CURATORS AND ARTISTS - Share your practice.  - Build new relationships.  - ",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 4,
+    "tag": "div (named section)",
+    "classes": "section section--under-next",
+    "id": null,
+    "top": 900,
+    "height": 1800,
+    "width": 1440,
+    "textPreview": "How  FOLLOW. ART  works? CURATORS AND ARTISTS - Share your practice.  - Build new relationships.  - ",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 5,
+    "tag": "div (named section)",
+    "classes": "section__layer section__layer--sticky section__layer--full-height ui-background",
+    "id": null,
+    "top": 900,
+    "height": 1242,
+    "width": 1624,
+    "textPreview": "How  FOLLOW. ART  works? CURATORS AND ARTISTS - Share your practice.  - Build new relationships.  - ",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 6,
+    "tag": "div (named section)",
+    "classes": "section-2 row row--gx row--gy row--stretch",
+    "id": null,
+    "top": 982,
+    "height": 1135,
+    "width": 1559,
+    "textPreview": "How  FOLLOW. ART  works? CURATORS AND ARTISTS - Share your practice.  - Build new relationships.  - ",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 7,
+    "tag": "div (named section)",
+    "classes": "section-2__media pr-1:md",
+    "id": null,
+    "top": 982,
+    "height": 826,
+    "width": 840,
+    "textPreview": "How  FOLLOW. ART  works?",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 8,
+    "tag": "div (named section)",
+    "classes": "section-2__media-wrapper",
+    "id": null,
+    "top": 1077,
+    "height": 632,
+    "width": 576,
+    "textPreview": "How  FOLLOW. ART  works?",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 9,
+    "tag": "div (named section)",
+    "classes": "section-2__video-preview-wrapper",
+    "id": null,
+    "top": 1104,
+    "height": 577,
+    "width": 560,
+    "textPreview": "How  FOLLOW. ART  works?",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 10,
+    "tag": "div (named section)",
+    "classes": "section-2__video-preview-wrapper-inner",
+    "id": null,
+    "top": 1104,
+    "height": 577,
+    "width": 560,
+    "textPreview": "How  FOLLOW. ART  works?",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 11,
+    "tag": "div (named section)",
+    "classes": "section-2__content col-divider__right:md col col-12 col--6:md",
+    "id": null,
+    "top": 1166,
+    "height": 951,
+    "width": 874,
+    "textPreview": "CURATORS AND ARTISTS - Share your practice.  - Build new relationships.  - Get financial support.  A",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 12,
+    "tag": "div (named section)",
+    "classes": "section-2__content-top",
+    "id": null,
+    "top": 1166,
+    "height": 545,
+    "width": 765,
+    "textPreview": "CURATORS AND ARTISTS",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 13,
+    "tag": "div (named section)",
+    "classes": "section-2__title",
+    "id": null,
+    "top": 1166,
+    "height": 502,
+    "width": 753,
+    "textPreview": "CURATORS AND ARTISTS",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 14,
+    "tag": "div (named section)",
+    "classes": "section-2__content-bottom",
+    "id": null,
+    "top": 1572,
+    "height": 545,
+    "width": 765,
+    "textPreview": "- Share your practice.  - Build new relationships.  - Get financial support.  All in one  place peop",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 15,
+    "tag": "div (named section)",
+    "classes": "section section--under-next",
+    "id": null,
+    "top": 1800,
+    "height": 1800,
+    "width": 1440,
+    "textPreview": "Our Members Say TestimonialsPrevNext",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 16,
+    "tag": "div (named section)",
+    "classes": "section__layer section__layer--sticky ui-background",
+    "id": null,
+    "top": 1800,
+    "height": 1242,
+    "width": 1624,
+    "textPreview": "Our Members Say TestimonialsPrevNext",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 17,
+    "tag": "div (named section)",
+    "classes": "section-9 pb-1 pt-promo-header",
+    "id": null,
+    "top": 1800,
+    "height": 1242,
+    "width": 1624,
+    "textPreview": "Our Members Say TestimonialsPrevNext",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 18,
+    "tag": "div (named section)",
+    "classes": "section-9__header px-1 col col-12",
+    "id": null,
+    "top": 1877,
+    "height": 816,
+    "width": 1510,
+    "textPreview": "TestimonialsPrevNext",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 19,
+    "tag": "div (named section)",
+    "classes": "section-9__cards",
+    "id": null,
+    "top": 1986,
+    "height": 811,
+    "width": 1508,
+    "textPreview": "PrevNext",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 20,
+    "tag": "div (named section)",
+    "classes": "section section--under-next",
+    "id": null,
+    "top": 2700,
+    "height": 1800,
+    "width": 1440,
+    "textPreview": "CENTRALIZE No more  scattered links, PDFs, and half-finished profiles.  Have your work together in o",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 21,
+    "tag": "div (named section)",
+    "classes": "section__layer section__layer--sticky section__layer--full-height ui-background",
+    "id": null,
+    "top": 2700,
+    "height": 1242,
+    "width": 1624,
+    "textPreview": "CENTRALIZE No more  scattered links, PDFs, and half-finished profiles.  Have your work together in o",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 22,
+    "tag": "div (named section)",
+    "classes": "section-4 row row--gx row--stretch",
+    "id": null,
+    "top": 2782,
+    "height": 1135,
+    "width": 1559,
+    "textPreview": "CENTRALIZE No more  scattered links, PDFs, and half-finished profiles.  Have your work together in o",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 23,
+    "tag": "div (named section)",
+    "classes": "section-4__content col col-12 col--6:md pr-1:md",
+    "id": null,
+    "top": 2782,
+    "height": 951,
+    "width": 874,
+    "textPreview": "CENTRALIZE No more  scattered links, PDFs, and half-finished profiles.  Have your work together in o",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 24,
+    "tag": "div (named section)",
+    "classes": "section-4__cards-wrapper col col-12 col--6:md col-divider__right:md",
+    "id": null,
+    "top": 2966,
+    "height": 951,
+    "width": 874,
+    "textPreview": "1 Professional  presentation 1 Portfolio, biography, experience, links and contacts in one place 2 F",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 25,
+    "tag": "div (named section)",
+    "classes": "section-4__cards-wrapper-decoration",
+    "id": null,
+    "top": 3083,
+    "height": 718,
+    "width": 718,
+    "textPreview": "",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 26,
+    "tag": "div (named section)",
+    "classes": "section-4__content-texts mb-4 mb-0:md mt-9.5:md",
+    "id": null,
+    "top": 3118,
+    "height": 366,
+    "width": 699,
+    "textPreview": "No more  scattered links, PDFs, and half-finished profiles.  Have your work together in one clear fo",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 27,
+    "tag": "div (named section)",
+    "classes": "section-4__card-inner",
+    "id": null,
+    "top": 3243,
+    "height": 262,
+    "width": 120,
+    "textPreview": "1 Professional  presentation 1 Portfolio, biography, experience, links and contacts in one place",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 28,
+    "tag": "div (named section)",
+    "classes": "section-4__card-front",
+    "id": null,
+    "top": 3243,
+    "height": 262,
+    "width": 120,
+    "textPreview": "1 Professional  presentation",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 29,
+    "tag": "div (named section)",
+    "classes": "section-4__card-back",
+    "id": null,
+    "top": 3243,
+    "height": 262,
+    "width": 120,
+    "textPreview": "1 Portfolio, biography, experience, links and contacts in one place",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 30,
+    "tag": "div (named section)",
+    "classes": "section-4__card-inner",
+    "id": null,
+    "top": 3382,
+    "height": 262,
+    "width": 120,
+    "textPreview": "2 Financial  support 2 Let people financially support your practice, instantly",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 31,
+    "tag": "div (named section)",
+    "classes": "section-4__card-front",
+    "id": null,
+    "top": 3382,
+    "height": 262,
+    "width": 120,
+    "textPreview": "2 Financial  support",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 32,
+    "tag": "div (named section)",
+    "classes": "section-4__card-back",
+    "id": null,
+    "top": 3382,
+    "height": 262,
+    "width": 120,
+    "textPreview": "2 Let people financially support your practice, instantly",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 33,
+    "tag": "div (named section)",
+    "classes": "section-4__card-inner",
+    "id": null,
+    "top": 3588,
+    "height": 262,
+    "width": 120,
+    "textPreview": "3 Instant  sharing 3 Use a link, QR code or Wallet pass during events and meetings",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 34,
+    "tag": "div (named section)",
+    "classes": "section-4__card-front",
+    "id": null,
+    "top": 3588,
+    "height": 262,
+    "width": 120,
+    "textPreview": "3 Instant  sharing",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 35,
+    "tag": "div (named section)",
+    "classes": "section-4__card-back",
+    "id": null,
+    "top": 3588,
+    "height": 262,
+    "width": 120,
+    "textPreview": "3 Use a link, QR code or Wallet pass during events and meetings",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 36,
+    "tag": "div (named section)",
+    "classes": "section section--under-next",
+    "id": null,
+    "top": 3600,
+    "height": 2375,
+    "width": 1440,
+    "textPreview": "card Your practice, all in one place  A digital Card that brings everything together. Easy for you t",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 37,
+    "tag": "div (named section)",
+    "classes": "section__layer section__layer--sticky ui-background",
+    "id": null,
+    "top": 3600,
+    "height": 1798,
+    "width": 1773,
+    "textPreview": "card Your practice, all in one place  A digital Card that brings everything together. Easy for you t",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 38,
+    "tag": "div (named section)",
+    "classes": "section-5 px-1 pb-1 pt-promo-header",
+    "id": null,
+    "top": 3600,
+    "height": 1798,
+    "width": 1773,
+    "textPreview": "card Your practice, all in one place  A digital Card that brings everything together. Easy for you t",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 39,
+    "tag": "div (named section)",
+    "classes": "section-4__card-inner",
+    "id": null,
+    "top": 3668,
+    "height": 262,
+    "width": 120,
+    "textPreview": "4 Better  discovery 4 Be searchable through Connectory without algorithms or closed circles",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 40,
+    "tag": "div (named section)",
+    "classes": "section-4__card-front",
+    "id": null,
+    "top": 3668,
+    "height": 262,
+    "width": 120,
+    "textPreview": "4 Better  discovery",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 41,
+    "tag": "div (named section)",
+    "classes": "section-4__card-back",
+    "id": null,
+    "top": 3668,
+    "height": 262,
+    "width": 120,
+    "textPreview": "4 Be searchable through Connectory without algorithms or closed circles",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 42,
+    "tag": "div (named section)",
+    "classes": "section-5__header col col-12",
+    "id": null,
+    "top": 3682,
+    "height": 1072,
+    "width": 1542,
+    "textPreview": "card",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 43,
+    "tag": "div (named section)",
+    "classes": "landing-5-nexus-webgl section-5__header-webgl",
+    "id": null,
+    "top": 3682,
+    "height": 1197,
+    "width": 1576,
+    "textPreview": "",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 44,
+    "tag": "div (named section)",
+    "classes": "section-5__content row row--gx col col-12",
+    "id": null,
+    "top": 4431,
+    "height": 942,
+    "width": 1508,
+    "textPreview": "Your practice, all in one place  A digital Card that brings everything together. Easy for you to sha",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 45,
+    "tag": "div (named section)",
+    "classes": "section-5__content-side col col-12 col--6:md pr-1:md",
+    "id": null,
+    "top": 4431,
+    "height": 758,
+    "width": 822,
+    "textPreview": "Your practice, all in one place  A digital Card that brings everything together. Easy for you to sha",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 46,
+    "tag": "div (named section)",
+    "classes": "section-5__content-side col col-12 col--6:md col-divider__right is-hidden:sm-down",
+    "id": null,
+    "top": 4615,
+    "height": 758,
+    "width": 822,
+    "textPreview": "A digital Card that brings everything together. Easy for you to share. Easy for others to discover, ",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 47,
+    "tag": "div (named section)",
+    "classes": "section-5__btn-grid",
+    "id": null,
+    "top": 4982,
+    "height": 391,
+    "width": 723,
+    "textPreview": "",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 48,
+    "tag": "div (named section)",
+    "classes": "section section--under-next",
+    "id": null,
+    "top": 5075,
+    "height": 1800,
+    "width": 1440,
+    "textPreview": "Audience Support  Already, hundreds have financially supported curators and artists through FOLLOW.A",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 49,
+    "tag": "div (named section)",
+    "classes": "section__layer section__layer--sticky section__layer--full-height ui-background",
+    "id": null,
+    "top": 5075,
+    "height": 1242,
+    "width": 1624,
+    "textPreview": "Audience Support  Already, hundreds have financially supported curators and artists through FOLLOW.A",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 50,
+    "tag": "div (named section)",
+    "classes": "section-3",
+    "id": null,
+    "top": 5153,
+    "height": 1145,
+    "width": 1598,
+    "textPreview": "Audience Support  Already, hundreds have financially supported curators and artists through FOLLOW.A",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 51,
+    "tag": "div (named section)",
+    "classes": "section-3__content row row--column:xs-down row--gx row--stretch px-1",
+    "id": null,
+    "top": 5153,
+    "height": 951,
+    "width": 1546,
+    "textPreview": "Audience Support  Already, hundreds have financially supported curators and artists through FOLLOW.A",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 52,
+    "tag": "div (named section)",
+    "classes": "section-3__title",
+    "id": null,
+    "top": 5158,
+    "height": 502,
+    "width": 753,
+    "textPreview": "Audience Support",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 53,
+    "tag": "div (named section)",
+    "classes": "section-5__btn-wrapper mt-7",
+    "id": null,
+    "top": 5240,
+    "height": 133,
+    "width": 230,
+    "textPreview": "",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 54,
+    "tag": "div (named section)",
+    "classes": "section-3__texts col-divider__right:md col col--grow col-12 col--6:md",
+    "id": null,
+    "top": 5342,
+    "height": 757,
+    "width": 822,
+    "textPreview": "Already, hundreds have financially supported curators and artists through FOLLOW.ART Cards.  Support",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 55,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 5391,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Teona ToderelArtist",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 56,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 5438,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Erin J CoholanArtist",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 57,
+    "tag": "div (named section)",
+    "classes": "section-3__sub-description",
+    "id": null,
+    "top": 5476,
+    "height": 121,
+    "width": 185,
+    "textPreview": "Already, hundreds have financially supported curators and artists through FOLLOW.ART Cards.",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 58,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 5484,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Baimba KamaraCurator",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 59,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 5531,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Alberto BaloccaArtist",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 60,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 5577,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Thomas OosterhofCurator",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 61,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 5624,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Isabela GaleanoCurator",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 62,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 5670,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Danny Van der ElstArtist",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 63,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 5717,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Sophie WratzfeldCurator",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 64,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 5764,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Farouk AlaoArtist",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 65,
+    "tag": "div (named section)",
+    "classes": "section-3__loop-carousel mt-1 mt-0:md",
+    "id": null,
+    "top": 5771,
+    "height": 527,
+    "width": 1432,
+    "textPreview": "Teona ToderelArtistErin J CoholanArtistBaimba KamaraCuratorAlberto BaloccaArtistThomas OosterhofCura",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 66,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 5810,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Keita MelleArtist",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 67,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 5855,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Teona ToderelArtist",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 68,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 5902,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Erin J CoholanArtist",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 69,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 5948,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Baimba KamaraCurator",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 70,
+    "tag": "div (named section)",
+    "classes": "section section--under-next",
+    "id": null,
+    "top": 5975,
+    "height": 2512,
+    "width": 1440,
+    "textPreview": "Discover Others & Get DiscoveredConnectory A  global  searchable directory of curators and artists  ",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 71,
+    "tag": "div (named section)",
+    "classes": "section__layer section__layer--sticky ui-background",
+    "id": null,
+    "top": 5975,
+    "height": 1930,
+    "width": 1808,
+    "textPreview": "Discover Others & Get DiscoveredConnectory A  global  searchable directory of curators and artists  ",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 72,
+    "tag": "div (named section)",
+    "classes": "section-7 px-1 pb-1 pt-promo-header",
+    "id": null,
+    "top": 5975,
+    "height": 1930,
+    "width": 1808,
+    "textPreview": "Discover Others & Get DiscoveredConnectory A  global  searchable directory of curators and artists  ",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 73,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 5995,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Alberto BaloccaArtist",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 74,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 6041,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Thomas OosterhofCurator",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 75,
+    "tag": "div (named section)",
+    "classes": "section-7__header col col-12",
+    "id": null,
+    "top": 6058,
+    "height": 1253,
+    "width": 1591,
+    "textPreview": "Discover Others & Get DiscoveredConnectory",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 76,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 6088,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Isabela GaleanoCurator",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 77,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 6135,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Danny Van der ElstArtist",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 78,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 6181,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Sophie WratzfeldCurator",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 79,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 6228,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Farouk AlaoArtist",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 80,
+    "tag": "div (named section)",
+    "classes": "section-3__card-content",
+    "id": null,
+    "top": 6274,
+    "height": 196,
+    "width": 196,
+    "textPreview": "Keita MelleArtist",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 81,
+    "tag": "div (named section)",
+    "classes": "section-7__content row row--gx col col-12",
+    "id": null,
+    "top": 6988,
+    "height": 893,
+    "width": 1494,
+    "textPreview": "A  global  searchable directory of curators and artists  Join 3K+ members. Explore practices, find c",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 82,
+    "tag": "div (named section)",
+    "classes": "section-7__content-side col col-12 col--6:md pr-1:md",
+    "id": null,
+    "top": 6988,
+    "height": 709,
+    "width": 809,
+    "textPreview": "A  global  searchable directory of curators and artists  Join 3K+ members. Explore practices, find c",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 83,
+    "tag": "div (named section)",
+    "classes": "section-7__content-side col col-12 col--6:md col-divider__right is-hidden:sm-down",
+    "id": null,
+    "top": 7171,
+    "height": 709,
+    "width": 809,
+    "textPreview": "Join 3K+ members. Explore practices, find collaborators, and search beyond your usual circles. No al",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 84,
+    "tag": "div (named section)",
+    "classes": "section-7__btn-grid",
+    "id": null,
+    "top": 7393,
+    "height": 488,
+    "width": 749,
+    "textPreview": "",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 85,
+    "tag": "div (named section)",
+    "classes": "ui-orange wrapper-section-10",
+    "id": null,
+    "top": 7587,
+    "height": 900,
+    "width": 1440,
+    "textPreview": "Join Us Create Your  Card and share wherever your practice is seen  Join Get your FOLLOW.ART Card to",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 86,
+    "tag": "div (named section)",
+    "classes": "section",
+    "id": null,
+    "top": 7587,
+    "height": 900,
+    "width": 1440,
+    "textPreview": "Join Us Create Your  Card and share wherever your practice is seen  Join Get your FOLLOW.ART Card to",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 87,
+    "tag": "div (named section)",
+    "classes": "section__layer section__layer--sticky section__layer--full-height ui-background",
+    "id": null,
+    "top": 7587,
+    "height": 1242,
+    "width": 1624,
+    "textPreview": "Join Us Create Your  Card and share wherever your practice is seen  Join Get your FOLLOW.ART Card to",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 88,
+    "tag": "div (named section)",
+    "classes": "section-10",
+    "id": null,
+    "top": 7670,
+    "height": 1077,
+    "width": 1544,
+    "textPreview": "Join Us Create Your  Card and share wherever your practice is seen  Join Get your FOLLOW.ART Card to",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 89,
+    "tag": "div (named section)",
+    "classes": "section-10__content row row--gx row--stretch",
+    "id": null,
+    "top": 7670,
+    "height": 968,
+    "width": 1515,
+    "textPreview": "Join Us Create Your  Card and share wherever your practice is seen  Join Get your FOLLOW.ART Card to",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 90,
+    "tag": "div (named section)",
+    "classes": "col col-12 col--6:md pr-1:md section-10__content-col",
+    "id": null,
+    "top": 7670,
+    "height": 784,
+    "width": 829,
+    "textPreview": "Join Us",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 91,
+    "tag": "div (named section)",
+    "classes": "section-7__btn-wrapper mt-12",
+    "id": null,
+    "top": 7747,
+    "height": 133,
+    "width": 230,
+    "textPreview": "",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 92,
+    "tag": "div (named section)",
+    "classes": "section-10__content-side col col-12 col--6:md col-divider__right:md mt-6.5 mt-0:md",
+    "id": null,
+    "top": 7854,
+    "height": 784,
+    "width": 829,
+    "textPreview": "Create Your  Card and share wherever your practice is seen  Join Get your FOLLOW.ART Card to present",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 93,
+    "tag": "div (named section)",
+    "classes": "section-10__btn-grid",
+    "id": null,
+    "top": 8246,
+    "height": 391,
+    "width": 723,
+    "textPreview": "Join Get your FOLLOW.ART Card to present your artistic or curatorial practice, share instantly, rece",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 94,
+    "tag": "div (named section)",
+    "classes": "section-10__footer text-smaller row row--gx row--stretch",
+    "id": null,
+    "top": 8315,
+    "height": 432,
+    "width": 1371,
+    "textPreview": "Brand KitBuy Gift CardTerms & ConditionsPrivacy PolicyCookie Policy Digital product development by V",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 95,
+    "tag": "div (named section)",
+    "classes": "section-10__footer-side-left col col--12 col--6:md mt-2 mt-0:md is-hidden:sm-down",
+    "id": null,
+    "top": 8315,
+    "height": 248,
+    "width": 685,
+    "textPreview": "2026 © FOLLOW.ART help@follow.art",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 96,
+    "tag": "div (named section)",
+    "classes": "row row--gx mt-auto section-10__footer-social",
+    "id": null,
+    "top": 8356,
+    "height": 208,
+    "width": 674,
+    "textPreview": "",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 97,
+    "tag": "nav",
+    "classes": "",
+    "id": null,
+    "position": "static",
+    "top": 8498,
+    "height": 102,
+    "width": 141,
+    "zIndex": "auto",
+    "isSticky": false,
+    "childCount": 1,
+    "textPreview": "Brand KitBuy Gift CardTerms & ConditionsPrivacy PolicyCookie Policy",
+    "detail": {
+      "tag": "nav",
+      "classes": "",
+      "styles": {
+        "display": "block",
+        "position": "static",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "gap": "normal"
+      },
+      "textPreview": "Brand KitBuy Gift CardTerms & ConditionsPrivacy PolicyCookie Policy",
+      "childCount": 1,
+      "children": [
+        {
+          "tag": "ul",
+          "classes": "section-10__footer-nav",
+          "styles": {
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "display": "flex",
+            "padding": "0px",
+            "margin": "0px",
+            "borderRadius": "0px",
+            "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+            "backgroundImage": null,
+            "transform": null,
+            "opacity": null,
+            "position": "static",
+            "boxShadow": null,
+            "gap": "6px",
+            "flexDirection": "column"
+          },
+          "textPreview": "Brand KitBuy Gift CardTerms & ConditionsPrivacy PolicyCookie Policy",
+          "childCount": 5,
+          "hasImg": 0,
+          "hasVideo": 0,
+          "hasSvg": 5
+        }
+      ]
+    }
+  },
+  {
+    "index": 98,
+    "tag": "div (named section)",
+    "classes": "section-10__footer-side col col--12 col--6:md col--last:md mb-1 mb-0:md",
+    "id": null,
+    "top": 8498,
+    "height": 248,
+    "width": 685,
+    "textPreview": "Brand KitBuy Gift CardTerms & ConditionsPrivacy PolicyCookie Policy Digital product development by V",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 99,
+    "tag": "div (named section)",
+    "classes": "section-10__btn-wrapper mt-5.5 mt-7:md",
+    "id": null,
+    "top": 8504,
+    "height": 133,
+    "width": 230,
+    "textPreview": "Join Get your FOLLOW.ART Card to present your artistic or curatorial practice, share instantly, rece",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  },
+  {
+    "index": 100,
+    "tag": "div (named section)",
+    "classes": "section-10__signup-btn-wrapper--hidden",
+    "id": null,
+    "top": 8504,
+    "height": 133,
+    "width": 230,
+    "textPreview": "Join Get your FOLLOW.ART Card to present your artistic or curatorial practice, share instantly, rece",
+    "detail": {
+      "error": "page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'div (named section)' is not a valid selector.\n    at eval (eval at evaluate (:303:30), <anonymous>:2:29)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    }
+  }
+]
