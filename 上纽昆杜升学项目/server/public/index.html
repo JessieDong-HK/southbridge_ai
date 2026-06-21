@@ -1,0 +1,437 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>南桥教育 | 咨询管理系统</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f6f9ff;
+      --panel: rgba(255,255,255,.76);
+      --panel-strong: rgba(255,255,255,.94);
+      --text: #102033;
+      --muted: #607089;
+      --line: rgba(75, 100, 140, .18);
+      --primary: #1657d9;
+      --primary-2: #e8f0ff;
+      --orange: #d97706;
+      --green: #059669;
+      --red: #dc2626;
+      --shadow: 0 18px 50px rgba(33, 65, 115, .09);
+      --radius: 18px;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: "Noto Sans SC", system-ui, sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 12% 10%, rgba(37, 99, 235, .16), transparent 30%),
+        radial-gradient(circle at 82% 4%, rgba(56, 189, 248, .16), transparent 28%),
+        linear-gradient(145deg, #fbfdff 0%, var(--bg) 42%, #e8f1ff 100%);
+    }
+    button, input, select, textarea { font: inherit; }
+    button { cursor: pointer; }
+    .shell { display: grid; grid-template-columns: 248px 1fr; min-height: 100vh; gap: 24px; padding: 24px; }
+    .sidebar, .panel, .modal-card {
+      background: var(--panel);
+      border: 1px solid rgba(255,255,255,.78);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(24px);
+    }
+    .sidebar { border-radius: 26px; padding: 22px; position: sticky; top: 24px; height: calc(100vh - 48px); display: flex; flex-direction: column; }
+    .brand { display: flex; align-items: center; gap: 12px; margin-bottom: 28px; }
+    .brand-mark { width: 42px; height: 42px; display: grid; place-items: center; color: #fff; background: linear-gradient(135deg, #0f4fd7, #58b4ff); border-radius: 13px; font-weight: 800; }
+    .brand h1 { font-size: 18px; margin: 0; letter-spacing: 0; }
+    .brand p { margin: 2px 0 0; color: var(--muted); font-size: 12px; }
+    .nav { display: grid; gap: 8px; }
+    .nav button { border: 0; background: transparent; color: var(--muted); border-radius: 13px; padding: 11px 12px; text-align: left; font-weight: 700; display: flex; align-items: center; gap: 10px; }
+    .nav button.active { color: var(--primary); background: rgba(22, 87, 217, .1); }
+    .side-foot { margin-top: auto; color: var(--muted); font-size: 12px; line-height: 1.7; border-top: 1px solid var(--line); padding-top: 18px; }
+    main { min-width: 0; }
+    .topbar { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; margin-bottom: 18px; }
+    .eyebrow { color: var(--primary); font-size: 12px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; margin: 0 0 6px; }
+    h2 { margin: 0; font-size: 30px; line-height: 1.2; letter-spacing: 0; }
+    .sub { color: var(--muted); margin: 8px 0 0; }
+    .actions { display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-end; }
+    .btn { border: 1px solid var(--line); background: var(--panel-strong); color: var(--text); border-radius: 12px; padding: 10px 14px; font-weight: 800; }
+    .btn.primary { border-color: transparent; background: linear-gradient(135deg, #1457dc, #3488ff); color: #fff; }
+    .btn:disabled { opacity: .5; cursor: not-allowed; }
+    .grid { display: grid; gap: 16px; }
+    .stats { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+    .panel { border-radius: var(--radius); padding: 18px; }
+    .stat-num { font-size: 30px; font-weight: 800; margin-top: 12px; }
+    .stat-label, .label { color: var(--muted); font-size: 13px; font-weight: 700; }
+    .layout { display: grid; grid-template-columns: minmax(280px, 390px) minmax(0, 1fr); gap: 16px; align-items: start; }
+    .list { display: grid; gap: 10px; max-height: calc(100vh - 250px); overflow: auto; padding-right: 4px; }
+    .student-card { border: 1px solid var(--line); border-radius: 16px; padding: 14px; background: rgba(255,255,255,.72); }
+    .student-card.active { border-color: rgba(22,87,217,.45); box-shadow: 0 12px 28px rgba(22,87,217,.1); }
+    .row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+    .name { font-weight: 800; font-size: 17px; }
+    .badge { display: inline-flex; align-items: center; border-radius: 999px; padding: 4px 9px; font-size: 12px; font-weight: 800; background: var(--primary-2); color: var(--primary); }
+    .badge.warn { background: #fff7ed; color: var(--orange); }
+    .badge.good { background: #ecfdf5; color: var(--green); }
+    .badge.red { background: #fef2f2; color: var(--red); }
+    .meta { color: var(--muted); font-size: 12px; margin-top: 8px; }
+    .tabs { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px; }
+    .tabs button { border: 1px solid var(--line); background: rgba(255,255,255,.6); color: var(--muted); border-radius: 999px; padding: 7px 11px; font-size: 13px; font-weight: 800; }
+    .tabs button.active { color: #fff; background: var(--primary); border-color: var(--primary); }
+    .detail-body { min-height: 440px; }
+    .md { color: #25364d; line-height: 1.75; font-size: 14px; max-height: 58vh; overflow: auto; }
+    .md h1 { font-size: 23px; margin: 0 0 12px; }
+    .md h2 { font-size: 18px; margin: 22px 0 8px; }
+    .md table { border-collapse: collapse; width: 100%; margin: 12px 0; font-size: 13px; }
+    .md th, .md td { border: 1px solid var(--line); padding: 8px; text-align: left; vertical-align: top; }
+    .md th { background: rgba(22,87,217,.06); }
+    .file-list, .todo-list, .meeting-list, .task-list { display: grid; gap: 10px; }
+    .file-item, .todo-item, .meeting-item, .task-item { border: 1px solid var(--line); background: rgba(255,255,255,.66); border-radius: 14px; padding: 12px; }
+    .forms { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+    .field { display: grid; gap: 7px; margin-bottom: 12px; }
+    .field span { color: var(--muted); font-size: 13px; font-weight: 800; }
+    input, select, textarea { width: 100%; border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; background: rgba(255,255,255,.78); color: var(--text); outline: none; }
+    textarea { min-height: 110px; resize: vertical; }
+    .stage-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+    .stage-col { min-height: 180px; }
+    .stage-col h3 { margin: 0 0 12px; font-size: 15px; }
+    .modal { position: fixed; inset: 0; background: rgba(16,32,51,.28); display: none; align-items: center; justify-content: center; padding: 20px; z-index: 20; }
+    .modal.show { display: flex; }
+    .modal-card { width: min(780px, 100%); border-radius: 22px; padding: 20px; max-height: 86vh; overflow: auto; }
+    .toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); background: #102033; color: #fff; padding: 11px 16px; border-radius: 999px; opacity: 0; pointer-events: none; transition: .2s; z-index: 30; }
+    .toast.show { opacity: 1; }
+    .hidden { display: none !important; }
+    @media (max-width: 980px) {
+      .shell { grid-template-columns: 1fr; padding: 14px; }
+      .sidebar { position: static; height: auto; }
+      .nav { grid-template-columns: repeat(4, 1fr); }
+      .nav button { justify-content: center; text-align: center; }
+      .layout, .forms, .stats, .stage-grid { grid-template-columns: 1fr; }
+      .topbar { flex-direction: column; }
+      .actions { justify-content: flex-start; }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">SB</div>
+        <div>
+          <h1>咨询管理系统</h1>
+          <p>客服工作台</p>
+        </div>
+      </div>
+      <nav class="nav">
+        <button class="active" data-view="dashboard">工作台</button>
+        <button data-view="students">客户列表</button>
+        <button data-view="board">进度看板</button>
+        <button data-view="tasks">AI 任务</button>
+      </nav>
+      <div class="side-foot">
+        生成内容仅供客服查看。<br>
+        原始逐字稿上传后只保留清洗后的 Markdown。
+      </div>
+    </aside>
+
+    <main>
+      <div class="topbar">
+        <div>
+          <p class="eyebrow">SouthBridge Consulting</p>
+          <h2 id="pageTitle">咨询管理系统</h2>
+          <p class="sub" id="pageSub">覆盖从「加微信」到「签约」的完整咨询期。</p>
+        </div>
+        <div class="actions">
+          <button class="btn" id="refreshBtn">刷新</button>
+          <button class="btn primary" id="newStudentBtn">新建学生</button>
+        </div>
+      </div>
+
+      <section id="view-dashboard" class="view grid">
+        <div class="grid stats" id="stats"></div>
+        <div class="layout">
+          <div class="panel">
+            <div class="row"><strong>待办清单</strong><span class="label" id="todoCount"></span></div>
+            <div class="todo-list" id="todos"></div>
+          </div>
+          <div class="panel">
+            <div class="row"><strong>会议安排</strong><span class="label" id="meetingCount"></span></div>
+            <div class="meeting-list" id="meetings"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="view-students" class="view layout hidden">
+        <div class="panel">
+          <div class="row" style="margin-bottom:12px"><strong>客户列表</strong><span class="label" id="studentCount"></span></div>
+          <div class="list" id="studentList"></div>
+        </div>
+        <div class="panel">
+          <div id="emptyDetail" class="label">选择左侧学生查看详情。</div>
+          <div id="studentDetail" class="hidden">
+            <div class="row" style="margin-bottom:14px">
+              <div>
+                <div class="name" id="detailName"></div>
+                <div class="meta" id="detailMeta"></div>
+              </div>
+              <button class="btn primary" id="assessmentBtn">生成评估</button>
+            </div>
+            <div class="tabs" id="detailTabs">
+              <button class="active" data-tab="progress">客户咨询进度</button>
+              <button data-tab="summary">学生信息总结</button>
+              <button data-tab="upload">上传更多记录</button>
+              <button data-tab="files">相关文件</button>
+              <button data-tab="assessment">评估与建议</button>
+            </div>
+            <div class="detail-body" id="detailBody"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="view-board" class="view hidden">
+        <div class="stage-grid" id="board"></div>
+      </section>
+
+      <section id="view-tasks" class="view hidden">
+        <div class="panel">
+          <div class="row"><strong>AI 任务状态</strong><span class="label">上传后可查看处理结果</span></div>
+          <div class="task-list" id="tasks"></div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div class="modal" id="studentModal">
+    <div class="modal-card">
+      <div class="row" style="margin-bottom:14px"><h2 style="font-size:22px">新建学生</h2><button class="btn" data-close>关闭</button></div>
+      <div class="field"><span>学生姓名</span><input id="studentNameInput" placeholder="例如：阎浩翔"></div>
+      <p class="sub">创建后会自动生成微信聊天记录、学生信息总结、客户咨询进度、会议逐字稿、评估与建议目录。</p>
+      <button class="btn primary" id="createStudentBtn">创建</button>
+    </div>
+  </div>
+
+  <div class="modal" id="fileModal">
+    <div class="modal-card">
+      <div class="row" style="margin-bottom:14px"><h2 style="font-size:22px" id="fileTitle">文件</h2><button class="btn" data-close>关闭</button></div>
+      <div class="md" id="fileContent"></div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script>
+    const state = { students: [], selected: null, selectedDetail: null, board: null, todos: [], meetings: [], tasks: [], tab: 'progress' };
+    const $ = (id) => document.getElementById(id);
+
+    document.querySelectorAll('.nav button').forEach(btn => btn.addEventListener('click', () => switchView(btn.dataset.view)));
+    $('refreshBtn').addEventListener('click', loadAll);
+    $('newStudentBtn').addEventListener('click', () => $('studentModal').classList.add('show'));
+    $('createStudentBtn').addEventListener('click', createStudent);
+    $('assessmentBtn').addEventListener('click', triggerAssessment);
+    document.querySelectorAll('[data-close]').forEach(btn => btn.addEventListener('click', () => btn.closest('.modal').classList.remove('show')));
+    document.querySelectorAll('.modal').forEach(modal => modal.addEventListener('click', e => { if (e.target === modal) modal.classList.remove('show'); }));
+
+    async function api(path, options) {
+      const res = await fetch(path, options);
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok) throw new Error(data.error || '请求失败');
+      return data;
+    }
+
+    async function loadAll() {
+      const [students, board, todos, meetings, tasks] = await Promise.all([
+        api('/api/students'), api('/api/board'), api('/api/todos'), api('/api/meetings'), api('/api/tasks')
+      ]);
+      Object.assign(state, { students, board, todos, meetings, tasks });
+      renderDashboard();
+      renderStudents();
+      renderBoard();
+      renderTasks();
+    }
+
+    function switchView(view) {
+      document.querySelectorAll('.nav button').forEach(b => b.classList.toggle('active', b.dataset.view === view));
+      document.querySelectorAll('.view').forEach(v => v.classList.add('hidden'));
+      $(`view-${view}`).classList.remove('hidden');
+      const titles = {
+        dashboard: ['咨询管理系统', '覆盖从「加微信」到「签约」的完整咨询期。'],
+        students: ['客户列表', '查看客户详情页、相关文件和上传更多记录。'],
+        board: ['进度看板', '按阶段展示所有学生。'],
+        tasks: ['AI 任务状态', '查看 OCR、逐字稿和评估与建议生成状态。']
+      };
+      $('pageTitle').textContent = titles[view][0];
+      $('pageSub').textContent = titles[view][1];
+    }
+
+    function renderDashboard() {
+      const counts = Object.fromEntries((state.board?.stages || []).map(stage => [stage, state.board.groups[stage].length]));
+      $('stats').innerHTML = ['添加微信','筛查','开会与发评估','跟进'].map(stage => `
+        <div class="panel"><div class="stat-label">${stage}</div><div class="stat-num">${counts[stage] || 0}</div></div>
+      `).join('');
+      $('todoCount').textContent = `${state.todos.length} 项`;
+      $('todos').innerHTML = state.todos.slice(0, 8).map(todo => `
+        <div class="todo-item"><div class="row"><strong>${todo.student || '全局'}</strong><span class="badge ${todo.done ? 'good' : 'warn'}">${todo.done ? '完成' : '待办'}</span></div><div class="meta">${todo.text}</div></div>
+      `).join('') || '<div class="meta">暂无待办</div>';
+      $('meetingCount').textContent = `${state.meetings.length} 场`;
+      $('meetings').innerHTML = state.meetings.slice(0, 8).map(m => `
+        <div class="meeting-item"><div class="row"><strong>${m.time}</strong><span class="badge">${m.status}</span></div><div class="meta">${m.student} · ${m.attendees}</div></div>
+      `).join('') || '<div class="meta">暂无会议安排</div>';
+    }
+
+    function renderStudents() {
+      $('studentCount').textContent = `${state.students.length} 人`;
+      $('studentList').innerHTML = state.students.map(s => `
+        <button class="student-card ${state.selected === s.name ? 'active' : ''}" data-student="${s.name}">
+          <div class="row"><span class="name">${s.name}</span><span class="badge ${s.hasChat ? '' : 'warn'}">${s.stage}</span></div>
+          <div class="meta">${s.hasChat ? '聊天记录已上传' : '待上传：聊天记录'} · ${s.fileCount} 个文件</div>
+        </button>
+      `).join('');
+      document.querySelectorAll('[data-student]').forEach(btn => btn.addEventListener('click', () => selectStudent(btn.dataset.student)));
+    }
+
+    async function selectStudent(name) {
+      state.selected = name;
+      state.selectedDetail = await api(`/api/students/${encodeURIComponent(name)}`);
+      state.tab = 'progress';
+      renderStudents();
+      renderDetail();
+    }
+
+    function renderDetail() {
+      const d = state.selectedDetail;
+      $('emptyDetail').classList.add('hidden');
+      $('studentDetail').classList.remove('hidden');
+      $('detailName').textContent = d.name;
+      $('detailMeta').textContent = `${d.stage} · ${d.source === 'legacy' ? '旧档案可读' : 'v2结构'}`;
+      document.querySelectorAll('#detailTabs button').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.tab === state.tab);
+        btn.onclick = () => { state.tab = btn.dataset.tab; renderDetailBody(); };
+      });
+      renderDetailBody();
+    }
+
+    function renderDetailBody() {
+      const d = state.selectedDetail;
+      if (state.tab === 'progress') $('detailBody').innerHTML = `<div class="md">${d.progressHtml || '暂无进度'}</div>`;
+      if (state.tab === 'summary') $('detailBody').innerHTML = `<div class="md">${d.summaryHtml || '暂无信息总结'}</div>`;
+      if (state.tab === 'assessment') $('detailBody').innerHTML = `<div class="md">${d.assessmentHtml || '<p class="meta">暂无评估与建议。</p>'}</div>`;
+      if (state.tab === 'files') {
+        $('detailBody').innerHTML = `<div class="file-list">${d.files.map(f => `<button class="file-item" data-file="${f.path}"><strong>${f.path}</strong><div class="meta">${f.size} bytes</div></button>`).join('')}</div>`;
+        document.querySelectorAll('[data-file]').forEach(btn => btn.onclick = () => openFile(d.name, btn.dataset.file));
+      }
+      if (state.tab === 'upload') {
+        $('detailBody').innerHTML = `
+          <div class="forms">
+            <form class="panel" id="chatForm">
+              <strong>上传微信聊天截图</strong>
+              <div class="field"><span>身份</span><select name="identity"><option>学生家长</option><option>学生本人</option><option>家长学生群聊</option></select></div>
+              <div class="field"><span>截图</span><input name="screenshots" type="file" accept="image/*" multiple></div>
+              <button class="btn primary">上传微信聊天记录截图</button>
+              <p class="meta">上传前请先把微信备注改成「学生姓名 + 关系」。</p>
+            </form>
+            <form class="panel" id="transcriptForm">
+              <strong>上传会议逐字稿</strong>
+              <div class="field"><span>会议场次</span><input name="meetingNumber" placeholder="1"></div>
+              <div class="field"><span>参会人</span><input name="attendees" placeholder="Jessie, Chloe, 学生本人"></div>
+              <div class="field"><span>TXT 文件</span><input name="transcript" type="file" accept=".txt,.md,text/plain"></div>
+              <button class="btn primary">上传会议逐字稿</button>
+              <p class="meta">原始 TXT 上传后会删除，只保留清洗后的 Markdown。</p>
+            </form>
+          </div>`;
+        $('chatForm').onsubmit = uploadChat;
+        $('transcriptForm').onsubmit = uploadTranscript;
+      }
+    }
+
+    async function openFile(student, path) {
+      const data = await api(`/api/files?student=${encodeURIComponent(student)}&path=${encodeURIComponent(path)}`);
+      $('fileTitle').textContent = path;
+      $('fileContent').innerHTML = data.html;
+      $('fileModal').classList.add('show');
+    }
+
+    async function createStudent() {
+      const name = $('studentNameInput').value.trim();
+      if (!name) return toast('请输入学生姓名');
+      await api('/api/students', { method: 'POST', headers: {'content-type':'application/json'}, body: JSON.stringify({ name }) });
+      $('studentNameInput').value = '';
+      $('studentModal').classList.remove('show');
+      toast('学生已创建');
+      await loadAll();
+      switchView('students');
+      selectStudent(name);
+    }
+
+    async function uploadChat(event) {
+      event.preventDefault();
+      const form = event.currentTarget;
+      const fd = new FormData(form);
+      fd.append('student', state.selected);
+      await api('/api/upload-chat', { method: 'POST', body: fd });
+      toast('已提交 OCR 任务');
+      await loadAll();
+      switchView('tasks');
+    }
+
+    async function uploadTranscript(event) {
+      event.preventDefault();
+      const form = event.currentTarget;
+      const fd = new FormData(form);
+      fd.append('student', state.selected);
+      fd.set('attendees', fd.get('attendees'));
+      await api('/api/upload-transcript', { method: 'POST', body: fd });
+      toast('已提交逐字稿任务');
+      await loadAll();
+      switchView('tasks');
+    }
+
+    async function triggerAssessment() {
+      if (!state.selected) return;
+      await api('/api/trigger-assessment', { method: 'POST', headers: {'content-type':'application/json'}, body: JSON.stringify({ student: state.selected }) });
+      toast('已提交评估生成任务');
+      await loadAll();
+      switchView('tasks');
+    }
+
+    function renderBoard() {
+      const board = state.board;
+      $('board').innerHTML = board.stages.map(stage => `
+        <div class="panel stage-col"><h3>${stage}</h3>
+        ${(board.groups[stage] || []).map(s => `<div class="student-card"><div class="row"><strong>${s.name}</strong><span class="badge">${s.stage}</span></div><div class="meta">${s.hasChat ? '已上传聊天' : '待上传聊天'}</div></div>`).join('') || '<div class="meta">暂无学生</div>'}
+        </div>
+      `).join('');
+    }
+
+    function renderTasks() {
+      $('tasks').innerHTML = state.tasks.map(t => `
+        <div class="task-item">
+          <div class="row"><strong>${t.student} · ${typeLabel(t.type)}</strong><span class="badge ${t.status === 'failed' ? 'red' : t.status === 'completed' ? 'good' : 'warn'}">${t.status}</span></div>
+          <div class="meta">${t.message}</div>
+          <div class="meta">${new Date(t.updatedAt).toLocaleString()}</div>
+        </div>
+      `).join('') || '<div class="meta">暂无任务</div>';
+    }
+
+    function typeLabel(type) {
+      return { chat:'微信截图', transcript:'会议逐字稿', assessment:'评估建议' }[type] || type;
+    }
+
+    function toast(message) {
+      $('toast').textContent = message;
+      $('toast').classList.add('show');
+      setTimeout(() => $('toast').classList.remove('show'), 2200);
+    }
+
+    setInterval(async () => {
+      if (!document.hidden) {
+        state.tasks = await api('/api/tasks').catch(() => state.tasks);
+        renderTasks();
+      }
+    }, 5000);
+
+    loadAll().catch(err => toast(err.message));
+  </script>
+</body>
+</html>
