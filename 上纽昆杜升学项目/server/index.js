@@ -193,16 +193,16 @@ app.post('/api/upload-chat', upload.array('screenshots', 4), (req, res) => {
     if (!IDENTITIES.includes(identity)) return res.status(400).json({ error: '请选择有效身份' });
     if (!req.files || req.files.length === 0) return res.status(400).json({ error: '未上传截图' });
 
-    const screenshotDir = path.join(UPLOADS_DIR, sanitizeFilePart(student), Date.now().toString());
+    const task = createTask('chat', student, `处理 ${req.files.length} 张微信截图`);
+    const screenshotDir = path.join(UPLOADS_DIR, sanitizeFilePart(student), task.id);
     fs.mkdirSync(screenshotDir, { recursive: true });
     const saved = [];
-    for (const file of req.files) {
-      const dest = path.join(screenshotDir, sanitizeFilePart(file.originalname || file.filename));
+    for (const [index, file] of req.files.entries()) {
+      const dest = path.join(screenshotDir, `${String(index + 1).padStart(2, '0')}-${sanitizeFilePart(file.originalname || file.filename)}`);
       fs.renameSync(file.path, dest);
       saved.push(dest);
     }
 
-    const task = createTask('chat', student, `处理 ${saved.length} 张微信截图`);
     enqueueStudentTask(student, () => processChatUpload(task.id, student, identity, saved)).catch((error) => failTask(task.id, error));
     res.json({ ok: true, taskId: task.id, hint: '聊天截图已保存，Claude 正在后台识别和更新档案' });
   } catch (error) {
@@ -219,9 +219,9 @@ app.post('/api/upload-transcript', upload.single('transcript'), (req, res) => {
     if (attendees.length === 0) return res.status(400).json({ error: '请选择参会人' });
     if (!req.file) return res.status(400).json({ error: '未上传逐字稿文件' });
 
-    const nextNum = meetingNumber || String(getExistingMeetingCount(student) + 1);
-    const task = createTask('transcript', student, `处理第 ${nextNum} 场会议逐字稿`);
-    enqueueStudentTask(student, () => processTranscriptUpload(task.id, student, nextNum, attendees, req.file.path)).catch((error) => failTask(task.id, error));
+    const taskLabel = meetingNumber ? `处理第 ${meetingNumber} 场会议逐字稿` : '处理会议逐字稿';
+    const task = createTask('transcript', student, taskLabel);
+    enqueueStudentTask(student, () => processTranscriptUpload(task.id, student, meetingNumber, attendees, req.file.path)).catch((error) => failTask(task.id, error));
     res.json({ ok: true, taskId: task.id, hint: '逐字稿已接收，原始 TXT 将清洗为 Markdown 后删除' });
   } catch (error) {
     res.status(500).json({ error: error.message });
@@ -435,14 +435,15 @@ async function processChatUpload(taskId, student, identity, imagePaths) {
 async function processTranscriptUpload(taskId, student, num, attendees, tmpPath) {
   updateTask(taskId, 'running', '正在清洗逐字稿');
   ensureStudentScaffold(student, false);
+  const meetingNum = num || String(getExistingMeetingCount(student) + 1);
   const raw = fs.readFileSync(tmpPath, 'utf-8');
   const cleaned = cleanTranscript(raw);
   const today = currentDate();
-  const filename = `${today}-第${num}场.md`;
+  const filename = `${today}-第${meetingNum}场.md`;
   const transcriptPath = path.join(STUDENTS_DIR, student, '会议逐字稿', filename);
   fs.mkdirSync(path.dirname(transcriptPath), { recursive: true });
   fs.writeFileSync(transcriptPath, [
-    `# ${student} · 第${num}场会议逐字稿`,
+    `# ${student} · 第${meetingNum}场会议逐字稿`,
     `> 日期：${today}`,
     `> 参会人：${attendees.join(', ')}`,
     '',
@@ -454,7 +455,7 @@ async function processTranscriptUpload(taskId, student, num, attendees, tmpPath)
   updateTask(taskId, 'running', '正在生成会议总结并更新档案');
   const prompt = [
     `学生：${student}`,
-    `场次：第${num}场`,
+    `场次：第${meetingNum}场`,
     `参会人：${attendees.join(', ')}`,
     '以下是清洗后的会议逐字稿：',
     cleaned,
@@ -464,20 +465,20 @@ async function processTranscriptUpload(taskId, student, num, attendees, tmpPath)
 
   if (analysis.internalMeetingSummary) {
     fs.writeFileSync(
-      path.join(STUDENTS_DIR, student, '会议逐字稿', `第${num}场-会议总结.md`),
+      path.join(STUDENTS_DIR, student, '会议逐字稿', `第${meetingNum}场-会议总结.md`),
       analysis.internalMeetingSummary,
       'utf-8'
     );
   }
   if (analysis.customerVisibleMeetingSummary) {
     fs.writeFileSync(
-      path.join(STUDENTS_DIR, student, '会议逐字稿', `第${num}场-会议总结-客服查看.md`),
+      path.join(STUDENTS_DIR, student, '会议逐字稿', `第${meetingNum}场-会议总结-客服查看.md`),
       analysis.customerVisibleMeetingSummary,
       'utf-8'
     );
   }
 
-  completeTask(taskId, `第 ${num} 场会议处理完成`);
+  completeTask(taskId, `第 ${meetingNum} 场会议处理完成`);
 }
 
 async function processAssessment(taskId, student) {
@@ -624,14 +625,50 @@ async function callVision(prompt, imagePaths) {
   const payload = await response.json().catch(async () => ({ error: await response.text() }));
   if (!response.ok) throw new Error(payload.error?.message || JSON.stringify(payload));
   let raw = payload.choices?.[0]?.message?.content?.trim() || '';
-  // Qwen VL OCR returns structured JSON with pos_list — extract text fields
-  try {
-    const parsed = JSON.parse(raw);
-    if (Array.isArray(parsed)) {
-      raw = parsed.map(item => item.text || '').filter(Boolean).join('\n');
-    }
-  } catch {}
+  raw = normalizeVisionText(raw);
   return raw;
+}
+
+function normalizeVisionText(raw) {
+  const text = String(raw || '').trim();
+  if (!text) return '';
+  try {
+    const parsed = JSON.parse(text);
+    const extracted = extractTextFields(parsed);
+    return extracted.length ? extracted.join('\n') : text;
+  } catch {}
+  try {
+    const parsed = parseJsonFromText(text);
+    const extracted = extractTextFields(parsed);
+    return extracted.length ? extracted.join('\n') : text;
+  } catch {
+    return text;
+  }
+}
+
+function extractTextFields(value, result = []) {
+  if (!value) return result;
+  if (typeof value === 'string') {
+    const cleaned = value.trim();
+    if (cleaned) result.push(cleaned);
+    return result;
+  }
+  if (Array.isArray(value)) {
+    for (const item of value) extractTextFields(item, result);
+    return result;
+  }
+  if (typeof value !== 'object') return result;
+
+  for (const key of ['text', 'content', 'words', 'word']) {
+    if (typeof value[key] === 'string') {
+      const cleaned = value[key].trim();
+      if (cleaned) result.push(cleaned);
+    }
+  }
+  for (const key of ['pos_list', 'result', 'results', 'data', 'items', 'lines']) {
+    if (value[key]) extractTextFields(value[key], result);
+  }
+  return result;
 }
 
 function getAuthHeaders() {
@@ -763,7 +800,7 @@ function getStudentCard(name) {
   const transcripts = fs.existsSync(transcriptDir)
     ? fs.readdirSync(transcriptDir).filter(f => f.endsWith('.md') && !f.includes('会议总结') && !f.includes('客服查看'))
     : [];
-  const latestTranscript = transcripts.sort().pop() || '';
+  const latestTranscript = [...transcripts].sort().pop() || '';
   return {
     name,
     stage,
