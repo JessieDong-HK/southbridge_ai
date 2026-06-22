@@ -605,7 +605,8 @@ async function callOpenAiCompatible(prompt, imageParts = []) {
   }, AI_TIMEOUT_MS);
   const payload = await response.json().catch(async () => ({ error: await response.text() }));
   if (!response.ok) throw new Error(payload.error?.message || JSON.stringify(payload));
-  return payload.choices?.[0]?.message?.content?.trim() || '';
+  const raw = payload.choices?.[0]?.message?.content ?? payload.output_text ?? payload.output?.text ?? payload.output ?? '';
+  return normalizeAssistantText(raw);
 }
 
 async function callVision(prompt, imagePaths) {
@@ -624,26 +625,41 @@ async function callVision(prompt, imagePaths) {
   }, 120000);
   const payload = await response.json().catch(async () => ({ error: await response.text() }));
   if (!response.ok) throw new Error(payload.error?.message || JSON.stringify(payload));
-  let raw = payload.choices?.[0]?.message?.content?.trim() || '';
+  let raw = payload.choices?.[0]?.message?.content ?? payload.output?.text ?? payload.output ?? '';
   raw = normalizeVisionText(raw);
   return raw;
 }
 
 function normalizeVisionText(raw) {
+  if (raw && typeof raw !== 'string') {
+    const extracted = extractTextFields(raw);
+    if (extracted.length) return dedupeLines(extracted).join('\n');
+    raw = JSON.stringify(raw);
+  }
   const text = String(raw || '').trim();
   if (!text) return '';
   try {
     const parsed = JSON.parse(text);
     const extracted = extractTextFields(parsed);
-    return extracted.length ? extracted.join('\n') : text;
+    return extracted.length ? dedupeLines(extracted).join('\n') : text;
   } catch {}
   try {
     const parsed = parseJsonFromText(text);
     const extracted = extractTextFields(parsed);
-    return extracted.length ? extracted.join('\n') : text;
+    return extracted.length ? dedupeLines(extracted).join('\n') : text;
   } catch {
     return text;
   }
+}
+
+function normalizeAssistantText(raw) {
+  if (typeof raw === 'string') return raw.trim();
+  if (raw && typeof raw === 'object') {
+    const extracted = extractTextFields(raw);
+    if (extracted.length) return dedupeLines(extracted).join('\n').trim();
+    return JSON.stringify(raw);
+  }
+  return String(raw || '').trim();
 }
 
 function extractTextFields(value, result = []) {
@@ -659,14 +675,30 @@ function extractTextFields(value, result = []) {
   }
   if (typeof value !== 'object') return result;
 
-  for (const key of ['text', 'content', 'words', 'word']) {
+  const textKeys = new Set(['text', 'content', 'words', 'word', 'value']);
+  const skipKeys = new Set(['pos', 'bbox', 'box', 'position', 'coordinates', 'coordinate', 'confidence', 'score', 'x', 'y', 'w', 'h', 'width', 'height']);
+  for (const key of textKeys) {
     if (typeof value[key] === 'string') {
       const cleaned = value[key].trim();
       if (cleaned) result.push(cleaned);
     }
   }
-  for (const key of ['pos_list', 'result', 'results', 'data', 'items', 'lines']) {
-    if (value[key]) extractTextFields(value[key], result);
+  for (const [key, child] of Object.entries(value)) {
+    if (skipKeys.has(key)) continue;
+    if (textKeys.has(key) && typeof child === 'string') continue;
+    extractTextFields(child, result);
+  }
+  return result;
+}
+
+function dedupeLines(lines) {
+  const seen = new Set();
+  const result = [];
+  for (const line of lines) {
+    const cleaned = String(line || '').trim();
+    if (!cleaned || seen.has(cleaned)) continue;
+    seen.add(cleaned);
+    result.push(cleaned);
   }
   return result;
 }
