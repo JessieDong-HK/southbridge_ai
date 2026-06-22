@@ -10,6 +10,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 const ROOT_DIR = path.join(__dirname, '..');
 const CONSULTING_DIR = path.join(ROOT_DIR, '咨询管理');
+const STUDENTS_DIR = path.join(CONSULTING_DIR, '学生');
 const UPLOADS_DIR = path.join(CONSULTING_DIR, '_uploads');
 const TASKS_FILE = path.join(CONSULTING_DIR, '_tasks.json');
 const PUBLIC_DIR = path.join(__dirname, 'public');
@@ -22,12 +23,25 @@ const AI_BASE_URL = (process.env.ANTHROPIC_BASE_URL || 'https://api.anthropic.co
 const AI_KEY = process.env.ANTHROPIC_API_KEY || process.env.CLAUDE_API_KEY || '';
 const AI_STYLE = process.env.CLAUDE_API_STYLE || (AI_BASE_URL.includes('anthropic.com') ? 'anthropic' : 'openai');
 const AI_TIMEOUT_MS = Number(process.env.AI_TIMEOUT_MS || 120000);
+const VISION_KEY = process.env.VISION_API_KEY || '';
+const VISION_BASE_URL = (process.env.VISION_BASE_URL || '').replace(/\/$/, '');
+const VISION_MODEL = process.env.VISION_MODEL || 'qwen-vl-plus';
+const VISION_READY = Boolean(VISION_KEY && VISION_BASE_URL);
 
+if (!fs.existsSync(STUDENTS_DIR)) fs.mkdirSync(STUDENTS_DIR, { recursive: true });
 if (!fs.existsSync(UPLOADS_DIR)) fs.mkdirSync(UPLOADS_DIR, { recursive: true });
 if (!fs.existsSync(PUBLIC_DIR)) fs.mkdirSync(PUBLIC_DIR, { recursive: true });
 
 const upload = multer({ dest: UPLOADS_DIR });
 let tasks = readJson(TASKS_FILE, {});
+const studentQueues = new Map();
+
+function enqueueStudentTask(student, taskFn) {
+  const prev = studentQueues.get(student) || Promise.resolve();
+  const next = prev.then(() => taskFn(), () => taskFn());
+  studentQueues.set(student, next.catch(() => {}));
+  return next;
+}
 
 app.use(express.json({ limit: '10mb' }));
 app.use(express.static(PUBLIC_DIR));
@@ -70,7 +84,7 @@ app.post('/api/students', (req, res) => {
     if (!name) return res.status(400).json({ error: '学生姓名不能为空' });
     assertSafeName(name);
 
-    const dir = path.join(CONSULTING_DIR, name);
+    const dir = path.join(STUDENTS_DIR, name);
     if (fs.existsSync(dir)) return res.status(409).json({ error: `学生 "${name}" 已存在` });
 
     createStudentScaffold(name);
@@ -89,7 +103,7 @@ app.get('/api/students/:name', (req, res) => {
   try {
     const name = decodeURIComponent(req.params.name);
     assertStudentExists(name);
-    const dir = path.join(CONSULTING_DIR, name);
+    const dir = path.join(STUDENTS_DIR, name);
     const files = listMarkdownFiles(dir);
     const summary = readStudentPreferred(name, '学生信息总结.md', '学生档案.md');
     const progress = readStudentPreferred(name, '客户咨询进度.md', '学生档案.md');
@@ -105,8 +119,8 @@ app.get('/api/students/:name', (req, res) => {
       assessment,
       todos: getTodosForStudent(name),
       meetings: getMeetings().filter((m) => m.student === name),
-      progressHtml: marked.parse(progress || ''),
-      summaryHtml: marked.parse(summary || ''),
+      progressHtml: marked.parse(stripFrontmatter(progress || '')),
+      summaryHtml: marked.parse(stripFrontmatter(summary || '')),
       assessmentHtml: marked.parse(assessment || ''),
     });
   } catch (error) {
@@ -120,7 +134,7 @@ app.get('/api/files', (req, res) => {
     const student = String(req.query.student || '');
     const relPath = String(req.query.path || '');
     assertStudentExists(student);
-    const full = resolveInside(path.join(CONSULTING_DIR, student), relPath);
+    const full = resolveInside(path.join(STUDENTS_DIR, student), relPath);
     if (!fs.existsSync(full) || !fs.statSync(full).isFile()) {
       return res.status(404).json({ error: '文件不存在' });
     }
@@ -171,7 +185,7 @@ app.get('/api/tasks/:id', (req, res) => {
   res.json(task);
 });
 
-app.post('/api/upload-chat', upload.array('screenshots', 50), (req, res) => {
+app.post('/api/upload-chat', upload.array('screenshots', 4), (req, res) => {
   try {
     const student = String(req.body.student || '');
     const identity = String(req.body.identity || '');
@@ -189,7 +203,7 @@ app.post('/api/upload-chat', upload.array('screenshots', 50), (req, res) => {
     }
 
     const task = createTask('chat', student, `处理 ${saved.length} 张微信截图`);
-    processChatUpload(task.id, student, identity, saved).catch((error) => failTask(task.id, error));
+    enqueueStudentTask(student, () => processChatUpload(task.id, student, identity, saved)).catch((error) => failTask(task.id, error));
     res.json({ ok: true, taskId: task.id, hint: '聊天截图已保存，Claude 正在后台识别和更新档案' });
   } catch (error) {
     res.status(500).json({ error: error.message });
@@ -199,15 +213,15 @@ app.post('/api/upload-chat', upload.array('screenshots', 50), (req, res) => {
 app.post('/api/upload-transcript', upload.single('transcript'), (req, res) => {
   try {
     const student = String(req.body.student || '');
-    const meetingNumber = String(req.body.meetingNumber || '').trim();
+    const meetingNumber = String(req.body.meetingNumber || '').trim() || null;
     const attendees = normalizeAttendees(req.body.attendees);
     assertStudentExists(student);
-    if (!meetingNumber) return res.status(400).json({ error: '缺少会议场次' });
     if (attendees.length === 0) return res.status(400).json({ error: '请选择参会人' });
     if (!req.file) return res.status(400).json({ error: '未上传逐字稿文件' });
 
-    const task = createTask('transcript', student, `处理第 ${meetingNumber} 场会议逐字稿`);
-    processTranscriptUpload(task.id, student, meetingNumber, attendees, req.file.path).catch((error) => failTask(task.id, error));
+    const nextNum = meetingNumber || String(getExistingMeetingCount(student) + 1);
+    const task = createTask('transcript', student, `处理第 ${nextNum} 场会议逐字稿`);
+    enqueueStudentTask(student, () => processTranscriptUpload(task.id, student, nextNum, attendees, req.file.path)).catch((error) => failTask(task.id, error));
     res.json({ ok: true, taskId: task.id, hint: '逐字稿已接收，原始 TXT 将清洗为 Markdown 后删除' });
   } catch (error) {
     res.status(500).json({ error: error.message });
@@ -219,7 +233,7 @@ app.post('/api/trigger-assessment', (req, res) => {
     const student = String(req.body.student || '');
     assertStudentExists(student);
     const task = createTask('assessment', student, '生成评估与建议（仅客服查看）');
-    processAssessment(task.id, student).catch((error) => failTask(task.id, error));
+    enqueueStudentTask(student, () => processAssessment(task.id, student)).catch((error) => failTask(task.id, error));
     res.json({ ok: true, taskId: task.id, hint: 'Claude 正在生成评估与建议，仅在客服工作台展示' });
   } catch (error) {
     res.status(500).json({ error: error.message });
@@ -238,48 +252,197 @@ app.post('/api/dev/scaffold-missing', (req, res) => {
   }
 });
 
+app.post('/api/chat', async (req, res) => {
+  try {
+    const message = String(req.body.message || '').trim();
+    if (!message) return res.status(400).json({ error: '消息不能为空' });
+    if (!AI_KEY) return res.status(400).json({ error: '未配置 AI 接口，无法使用聊天功能' });
+
+    const history = Array.isArray(req.body.history) ? req.body.history.slice(-20) : [];
+    const context = buildChatContext();
+    const systemPrompt = [
+      '你是南桥教育（SouthBridge Consulting）客服工作台的 AI 助手。',
+      '你可以查阅以下数据库内容来回答客服的问题：学生档案、咨询进度、待办清单、会议安排。',
+      '',
+      '规则：',
+      '1. 回答简洁、结构化，用中文。涉及具体学生时引用姓名。',
+      '2. 如果数据库中没有相关信息，如实告知，不要编造。',
+      '3. 绝对禁止：修改任何文件、调整学生状态、删除数据、写文件。你只能读取信息。',
+      '4. 如果客服要求你修改数据（例如"把学生A改为已签约"），礼貌拒绝并告知：',
+      '   "我无法修改系统数据。如需更新学生状态，请通过界面上传聊天记录或逐字稿，系统会自动更新。"',
+      '5. 如果客服问"你能做什么"，列出你可以回答的问题类型：学生概况、进度查询、待办提醒、会议安排、数据统计、学生对比。',
+      '',
+      '当前数据库内容：',
+      context,
+    ].join('\n');
+
+    const messages = [
+      { role: 'user', content: systemPrompt },
+      ...history,
+      { role: 'user', content: message },
+    ];
+    const prompt = messages.map((m) => `${m.role === 'user' ? 'Human' : 'Assistant'}: ${m.content}`).join('\n\n');
+
+    const reply = await callClaudeText(prompt);
+    res.json({ reply });
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
 app.listen(PORT, () => {
   console.log(`SouthBridge v2 MVP running on http://localhost:${PORT}`);
   console.log(`Data directory: ${CONSULTING_DIR}`);
   console.log(`Students: ${getStudentNames().length}`);
 });
 
-async function processChatUpload(taskId, student, identity, imagePaths) {
-  updateTask(taskId, 'running', '正在识别微信截图');
-  ensureStudentScaffold(student, false);
-  const images = imagePaths.map(imageToClaudeContent);
-  const ocr = await callClaudeJson([
-    '你是南桥教育客服工作台的微信聊天 OCR 助手。',
-    `学生：${student}`,
-    `本次上传身份：${identity}`,
-    '请逐张读取微信截图，提取完整聊天消息。输出 JSON：',
-    '{"messages":[{"speaker":"说话人","content":"原文内容","datetime":"YYYY-MM-DD HH:mm"}]}',
-    '要求：不要改写消息；如果截图只显示今天/昨天/周几，请结合图片文件上传日期推断绝对日期；无法确定分钟时可以用最接近的时间。',
-  ].join('\n'), images);
+function buildChatContext() {
+  const students = getStudentNames().map(getStudentCard);
+  const stages = {};
+  for (const s of students) {
+    stages[s.stage] = (stages[s.stage] || 0) + 1;
+  }
 
-  const messages = Array.isArray(ocr.messages) ? ocr.messages : [];
-  updateTask(taskId, 'running', `识别到 ${messages.length} 条消息，正在写入聊天记录`);
+  let ctx = '';
+  ctx += `## 系统概览\n学生总数：${students.length}\n`;
+  for (const [stage, count] of Object.entries(stages)) {
+    ctx += `- ${stage}：${count} 人\n`;
+  }
+
+  ctx += '\n## 学生详情\n';
+  for (const s of students) {
+    const summary = readStudentPreferred(s.name, '学生信息总结.md', '学生档案.md') || '';
+    const preview = summary.replace(/^#.*$/gm, '').replace(/\n{3,}/g, '\n\n').trim().slice(0, 400);
+    const assessment = readStudentFile(s.name, '评估与建议/评估与建议.md') || '';
+    ctx += `### ${s.name}\n`;
+    ctx += `阶段：${s.stage} | 更新：${s.updated} | 聊天记录：${s.hasChat ? '已上传' : '待上传'} | 评估：${s.hasAssessment ? '已生成' : '未生成'} | 文件数：${s.fileCount}\n`;
+    if (preview) ctx += `信息摘要：${preview}\n`;
+    if (assessment) ctx += `评估节选：${assessment.trim().slice(0, 500)}\n`;
+    ctx += '\n';
+  }
+
+  const todos = getTodos();
+  if (todos.length) {
+    ctx += '## 全局待办清单\n';
+    for (const t of todos.slice(0, 20)) {
+      ctx += `- [${t.done ? 'x' : ' '}] ${t.student || '全局'}：${t.text}\n`;
+    }
+    ctx += '\n';
+  }
+
+  const meetings = getMeetings();
+  if (meetings.length) {
+    ctx += '## 会议安排\n';
+    for (const m of meetings.slice(0, 15)) {
+      ctx += `| ${m.time} | ${m.student} | ${m.attendees} | ${m.status} |\n`;
+    }
+    ctx += '\n';
+  }
+
+  const checklist = readGlobalFile('学生筛选检查清单.md');
+  if (checklist) {
+    ctx += `## 筛查清单（参考）\n${checklist.trim().slice(0, 600)}\n`;
+  }
+
+  return ctx;
+}
+
+async function processChatUpload(taskId, student, identity, imagePaths) {
+  ensureStudentScaffold(student, false);
+
+  // ── Step 1: OCR raw extraction ──
+  updateTask(taskId, 'running', 'Step 1/2: 通义千问 OCR 逐字提取截图文字');
+  const ocrRaw = await callVision([
+    '请逐张读取微信聊天截图中的所有文字，并按气泡颜色区分说话人。',
+    '',
+    '识别方法：',
+    '- 微信聊天截图右侧的绿色气泡 = 己方发送的消息，标记为"南桥"',
+    '- 微信聊天截图左侧的白色气泡 = 对方发送的消息，标记为对方的微信备注名或昵称',
+    '- 每条消息的格式：说话人：消息内容',
+    '',
+    '其他要求：',
+    '- 按照截图顺序，将能看到的文字全部逐行输出',
+    '- 保留截图中的日期标签和时间',
+    '- 不要输出微信界面固定文字（如头像里的品牌名、状态栏、底部菜单栏等 UI 装饰）',
+  ].join('\n'), imagePaths);
+
+  // Save raw OCR output for debugging
+  const ocrTimestamp = Date.now();
+  const ocrPath = path.join(STUDENTS_DIR, student, `微信聊天记录-OCR-${ocrTimestamp}.txt`);
+  fs.writeFileSync(ocrPath, [
+    `# OCR 原始输出 · ${student} · ${identity}`,
+    `> 上传时间：${currentDateTime()}`,
+    `> 截图数量：${imagePaths.length}`,
+    '',
+    ocrRaw,
+  ].join('\n'), 'utf-8');
+
+  // ── Step 2: Structure raw OCR into chat messages ──
+  updateTask(taskId, 'running', 'Step 2/2: DeepSeek 将原始 OCR 整理为结构化聊天记录');
+  const step2Prompt = [
+    '你是一个微信聊天记录整理助手。以下是 OCR 从微信截图中提取的原始文字，比较碎片化。',
+    '请把它整理成完整的聊天消息列表。输出纯 JSON（不要 Markdown 代码块，不要 ``` 包裹）：',
+    '',
+    '{"messages":[{"speaker":"说话人（昵称或备注名）","content":"完整消息内容","datetime":"YYYY-MM-DD HH:MM"}]}',
+    '',
+    '规则：',
+    '- 截图中日期如 "6/9" 应转为 "2026-06-09"，时间如 "17:46" 保持 24 小时制',
+    '- 根据上下文合并碎片化的多行文字为完整消息。例如 OCR 把一条长消息拆成了多行，你要合并回一条',
+    '- 判断说话人：备注名/昵称是对方（学生家长或学生本人），"南桥""南桥|上纽昆杜工作室"是己方',
+    '- 系统消息（如"你已添加了xxx"）也作为一条消息',
+    '- 按时间顺序排列',
+    '',
+    'OCR 原始输出：',
+    ocrRaw,
+  ].join('\n');
+  let step2Raw = '';
+  let messages = [];
+  try {
+    step2Raw = await callClaudeText(step2Prompt);
+  } catch (e) {
+    step2Raw = `API 调用失败: ${e.message}`;
+  }
+  // Save Step 2 raw output for debugging
+  const step2Path = path.join(STUDENTS_DIR, student, `微信聊天记录-Step2-${ocrTimestamp}.txt`);
+  fs.writeFileSync(step2Path, `字数：${step2Raw.length}\n---\n${step2Raw}`, 'utf-8');
+
+  if (step2Raw && step2Raw.length > 10 && !step2Raw.startsWith('API 调用失败')) {
+    try {
+      const structured = parseJsonFromText(step2Raw);
+      messages = Array.isArray(structured.messages) ? structured.messages : [];
+    } catch (e) {
+      updateTask(taskId, 'running', `JSON 解析失败（${e.message.slice(0,50)}），使用原始 OCR 降级处理`);
+    }
+  }
+  // Fallback: if no messages parsed, log error but don't dump raw data
+  if (messages.length === 0 && ocrRaw.trim()) {
+    messages = [{ datetime: currentDateTime(), speaker: '系统', content: `⚠️ 本次上传的截图未能自动整理为结构化消息。请重新上传，或检查截图是否清晰。` }];
+    updateTask(taskId, 'failed', 'Step 2 未能解析出有效消息，原始 OCR 已保存至 txt 文件');
+    return;
+  }
+  updateTask(taskId, 'running', `整理出 ${messages.length} 条消息，正在写入聊天记录`);
   const added = appendChatMessages(student, identity, messages);
 
+  // ── Step 3: Update AI docs ──
   updateTask(taskId, 'running', '正在更新学生总结、进度、待办和会议安排');
   const chat = readStudentFile(student, '微信聊天记录.md') || '';
   const analysis = await analyzeStudentMaterial(student, `最新微信聊天记录：\n${chat}`, 'chat');
   applyStudentAnalysis(student, analysis);
 
-  completeTask(taskId, `聊天处理完成，新增 ${added} 条消息`);
+  completeTask(taskId, `聊天处理完成，新增 ${added} 条消息（OCR 原始输出已保存）`);
 }
 
-async function processTranscriptUpload(taskId, student, meetingNumber, attendees, tmpPath) {
+async function processTranscriptUpload(taskId, student, num, attendees, tmpPath) {
   updateTask(taskId, 'running', '正在清洗逐字稿');
   ensureStudentScaffold(student, false);
   const raw = fs.readFileSync(tmpPath, 'utf-8');
   const cleaned = cleanTranscript(raw);
   const today = currentDate();
-  const filename = `${today}-第${meetingNumber}场.md`;
-  const transcriptPath = path.join(CONSULTING_DIR, student, '会议逐字稿', filename);
+  const filename = `${today}-第${num}场.md`;
+  const transcriptPath = path.join(STUDENTS_DIR, student, '会议逐字稿', filename);
   fs.mkdirSync(path.dirname(transcriptPath), { recursive: true });
   fs.writeFileSync(transcriptPath, [
-    `# ${student} · 第${meetingNumber}场会议逐字稿`,
+    `# ${student} · 第${num}场会议逐字稿`,
     `> 日期：${today}`,
     `> 参会人：${attendees.join(', ')}`,
     '',
@@ -291,7 +454,7 @@ async function processTranscriptUpload(taskId, student, meetingNumber, attendees
   updateTask(taskId, 'running', '正在生成会议总结并更新档案');
   const prompt = [
     `学生：${student}`,
-    `场次：第${meetingNumber}场`,
+    `场次：第${num}场`,
     `参会人：${attendees.join(', ')}`,
     '以下是清洗后的会议逐字稿：',
     cleaned,
@@ -301,26 +464,26 @@ async function processTranscriptUpload(taskId, student, meetingNumber, attendees
 
   if (analysis.internalMeetingSummary) {
     fs.writeFileSync(
-      path.join(CONSULTING_DIR, student, '会议逐字稿', `第${meetingNumber}场-会议总结.md`),
+      path.join(STUDENTS_DIR, student, '会议逐字稿', `第${num}场-会议总结.md`),
       analysis.internalMeetingSummary,
       'utf-8'
     );
   }
   if (analysis.customerVisibleMeetingSummary) {
     fs.writeFileSync(
-      path.join(CONSULTING_DIR, student, '会议逐字稿', `第${meetingNumber}场-会议总结-客服查看.md`),
+      path.join(STUDENTS_DIR, student, '会议逐字稿', `第${num}场-会议总结-客服查看.md`),
       analysis.customerVisibleMeetingSummary,
       'utf-8'
     );
   }
 
-  completeTask(taskId, `第 ${meetingNumber} 场会议处理完成`);
+  completeTask(taskId, `第 ${num} 场会议处理完成`);
 }
 
 async function processAssessment(taskId, student) {
   updateTask(taskId, 'running', '正在读取会议资料');
   ensureStudentScaffold(student, false);
-  const dir = path.join(CONSULTING_DIR, student);
+  const dir = path.join(STUDENTS_DIR, student);
   const transcriptDir = path.join(dir, '会议逐字稿');
   let material = '';
   if (fs.existsSync(transcriptDir)) {
@@ -342,7 +505,7 @@ async function processAssessment(taskId, student) {
     '输出 Markdown，结构必须包含：学生画像速览、匹配度分析（上纽/昆杜）、申请时间线、需要突破的方向、推荐方案、下一步客服动作。',
   ].join('\n');
   const content = await callClaudeText(prompt);
-  const assessmentPath = path.join(CONSULTING_DIR, student, '评估与建议', '评估与建议.md');
+  const assessmentPath = path.join(STUDENTS_DIR, student, '评估与建议', '评估与建议.md');
   fs.mkdirSync(path.dirname(assessmentPath), { recursive: true });
   fs.writeFileSync(assessmentPath, content.trim(), 'utf-8');
   markAssessmentGenerated(student);
@@ -444,6 +607,33 @@ async function callOpenAiCompatible(prompt, imageParts = []) {
   return payload.choices?.[0]?.message?.content?.trim() || '';
 }
 
+async function callVision(prompt, imagePaths) {
+  if (!VISION_READY) throw new Error('未配置 Vision API');
+  const content = [{ type: 'text', text: prompt }];
+  for (const filePath of imagePaths) {
+    const ext = path.extname(filePath).toLowerCase();
+    const mediaType = ext === '.png' ? 'image/png' : ext === '.webp' ? 'image/webp' : 'image/jpeg';
+    const data = fs.readFileSync(filePath).toString('base64');
+    content.push({ type: 'image_url', image_url: { url: `data:${mediaType};base64,${data}` } });
+  }
+  const response = await fetchWithTimeout(`${VISION_BASE_URL}/chat/completions`, {
+    method: 'POST',
+    headers: { authorization: `Bearer ${VISION_KEY}`, 'content-type': 'application/json' },
+    body: JSON.stringify({ model: VISION_MODEL, messages: [{ role: 'user', content }], temperature: 0.1 }),
+  }, 120000);
+  const payload = await response.json().catch(async () => ({ error: await response.text() }));
+  if (!response.ok) throw new Error(payload.error?.message || JSON.stringify(payload));
+  let raw = payload.choices?.[0]?.message?.content?.trim() || '';
+  // Qwen VL OCR returns structured JSON with pos_list — extract text fields
+  try {
+    const parsed = JSON.parse(raw);
+    if (Array.isArray(parsed)) {
+      raw = parsed.map(item => item.text || '').filter(Boolean).join('\n');
+    }
+  } catch {}
+  return raw;
+}
+
 function getAuthHeaders() {
   if (AI_STYLE === 'anthropic') return { 'x-api-key': AI_KEY };
   return { authorization: `Bearer ${AI_KEY}` };
@@ -479,7 +669,7 @@ function imageToClaudeContent(filePath) {
 
 function appendChatMessages(student, identity, messages) {
   ensureStudentScaffold(student, false);
-  const chatPath = path.join(CONSULTING_DIR, student, '微信聊天记录.md');
+  const chatPath = path.join(STUDENTS_DIR, student, '微信聊天记录.md');
   let content = fs.readFileSync(chatPath, 'utf-8');
   const cleanMessages = messages
     .filter((m) => m && m.content)
@@ -505,6 +695,37 @@ function appendChatMessages(student, identity, messages) {
   return fresh.length;
 }
 
+function getExistingMeetingCount(student) {
+  const dir = path.join(STUDENTS_DIR, student, '会议逐字稿');
+  if (!fs.existsSync(dir)) return 0;
+  return fs.readdirSync(dir).filter(f => f.endsWith('.md') && !f.includes('会议总结')).length;
+}
+
+function parseChatTranscript(text) {
+  const messages = [];
+  const lines = String(text || '').split(/\r?\n/);
+  let curDate = currentDate();
+  const dateTag = /^---\s*日期[：:]\s*(\d{1,2})[\/-](\d{1,2})\s*---/;
+  const msgLine = /^(.+?)[：:]\s*(.+?)(?:\s*\((\d{1,2}:\d{2})\))?\s*$/;
+  for (const line of lines) {
+    const dateMatch = line.trim().match(dateTag);
+    if (dateMatch) {
+      const month = String(Number(dateMatch[1])).padStart(2, '0');
+      const day = String(Number(dateMatch[2])).padStart(2, '0');
+      curDate = `2026-${month}-${day}`;
+      continue;
+    }
+    const msgMatch = line.trim().match(msgLine);
+    if (msgMatch) {
+      const speaker = msgMatch[1].trim();
+      const content = msgMatch[2].trim();
+      const time = msgMatch[3] || '00:00';
+      messages.push({ datetime: `${curDate} ${time}`, speaker, content });
+    }
+  }
+  return messages;
+}
+
 function cleanTranscript(raw) {
   return raw
     .split(/\r?\n/)
@@ -517,8 +738,8 @@ function cleanTranscript(raw) {
 }
 
 function getStudentNames() {
-  if (!fs.existsSync(CONSULTING_DIR)) return [];
-  return fs.readdirSync(CONSULTING_DIR, { withFileTypes: true })
+  if (!fs.existsSync(STUDENTS_DIR)) return [];
+  return fs.readdirSync(STUDENTS_DIR, { withFileTypes: true })
     .filter((d) => d.isDirectory())
     .filter((d) => !SYSTEM_DIRS.has(d.name) && !d.name.startsWith('_') && !d.name.startsWith('.'))
     .map((d) => d.name)
@@ -535,17 +756,32 @@ function getStudentCard(name) {
   const chat = readStudentFile(name, '微信聊天记录.md') || '';
   const summary = readStudentPreferred(name, '学生信息总结.md', '学生档案.md') || '';
   const assessment = readStudentFile(name, path.join('评估与建议', '评估与建议.md')) || '';
-  const files = listMarkdownFiles(path.join(CONSULTING_DIR, name));
+  const files = listMarkdownFiles(path.join(STUDENTS_DIR, name));
+  const chatPath = path.join(STUDENTS_DIR, name, '微信聊天记录.md');
+  const chatStat = fs.existsSync(chatPath) ? fs.statSync(chatPath) : null;
+  const transcriptDir = path.join(STUDENTS_DIR, name, '会议逐字稿');
+  const transcripts = fs.existsSync(transcriptDir)
+    ? fs.readdirSync(transcriptDir).filter(f => f.endsWith('.md') && !f.includes('会议总结') && !f.includes('客服查看'))
+    : [];
+  const latestTranscript = transcripts.sort().pop() || '';
   return {
     name,
     stage,
     updated: fm.updated || fm.created || '',
     hasChat: chat.replace(/[#\s·学生家长本人群聊微信记录]/g, '').trim().length > 20,
+    chatUpdated: chatStat ? formatDate(chatStat.mtime) : '',
     hasSummary: Boolean(summary.trim()),
     hasAssessment: Boolean(assessment.trim()),
+    hasTranscript: transcripts.length > 0,
+    latestTranscript,
     fileCount: files.length,
     source: progress && !useLegacy ? 'v2' : oldProfile ? 'legacy' : 'new',
   };
+}
+
+function stripFrontmatter(content) {
+  const match = String(content || '').match(/^---\r?\n[\s\S]*?\r?\n---\r?\n/);
+  return match ? content.slice(match[0].length) : content;
 }
 
 function parseFrontmatter(content) {
@@ -633,7 +869,7 @@ function listMarkdownFiles(dir) {
 }
 
 function createStudentScaffold(name) {
-  const dir = path.join(CONSULTING_DIR, name);
+  const dir = path.join(STUDENTS_DIR, name);
   fs.mkdirSync(path.join(dir, '会议逐字稿'), { recursive: true });
   fs.mkdirSync(path.join(dir, '评估与建议'), { recursive: true });
   const today = currentDate();
@@ -643,7 +879,7 @@ function createStudentScaffold(name) {
 }
 
 function ensureStudentScaffold(name, includeLegacyNote = false) {
-  const dir = path.join(CONSULTING_DIR, name);
+  const dir = path.join(STUDENTS_DIR, name);
   if (!fs.existsSync(dir)) return [];
   const before = new Set(fs.readdirSync(dir));
   createStudentScaffold(name);
@@ -681,12 +917,12 @@ function isPlaceholderStudentDoc(content, student, filename) {
 }
 
 function readStudentFile(student, relPath) {
-  const full = path.join(CONSULTING_DIR, student, relPath);
+  const full = path.join(STUDENTS_DIR, student, relPath);
   return fs.existsSync(full) && fs.statSync(full).isFile() ? fs.readFileSync(full, 'utf-8') : null;
 }
 
 function writeStudentFile(student, relPath, content) {
-  const full = path.join(CONSULTING_DIR, student, relPath);
+  const full = path.join(STUDENTS_DIR, student, relPath);
   fs.mkdirSync(path.dirname(full), { recursive: true });
   fs.writeFileSync(full, String(content).trim() + '\n', 'utf-8');
 }
@@ -706,7 +942,7 @@ function writeIfMissing(filePath, content) {
 }
 
 function markAssessmentGenerated(student) {
-  const progressPath = path.join(CONSULTING_DIR, student, '客户咨询进度.md');
+  const progressPath = path.join(STUDENTS_DIR, student, '客户咨询进度.md');
   if (!fs.existsSync(progressPath)) return;
   let content = fs.readFileSync(progressPath, 'utf-8');
   const now = currentDateTime();
@@ -742,13 +978,25 @@ function saveTasks() {
 }
 
 function parseJsonFromText(text) {
-  const raw = String(text || '').trim().replace(/^```json\s*/i, '').replace(/^```\s*/i, '').replace(/```$/i, '').trim();
+  let raw = String(text || '').trim();
+  // Remove markdown code fences more aggressively
+  raw = raw.replace(/^```(?:json)?\s*\n?/i, '').replace(/\n?```\s*$/i, '');
+  // Remove any leading/trailing non-JSON text (common with reasoning models)
+  const jsonStart = raw.indexOf('{');
+  const jsonEnd = raw.lastIndexOf('}');
+  if (jsonStart !== -1 && jsonEnd !== -1 && jsonEnd > jsonStart) {
+    raw = raw.slice(jsonStart, jsonEnd + 1);
+  }
   try {
     return JSON.parse(raw);
-  } catch {
-    const match = raw.match(/\{[\s\S]*\}/);
-    if (!match) throw new Error(`Claude 未返回 JSON：${raw.slice(0, 200)}`);
-    return JSON.parse(match[0]);
+  } catch (e1) {
+    // Last resort: try to fix common issues and re-parse
+    try {
+      const cleaned = raw.replace(/,\s*}/g, '}').replace(/,\s*\]/g, ']');
+      return JSON.parse(cleaned);
+    } catch (e2) {
+      throw new Error(`Claude 未返回 JSON（前200字）：${String(text).trim().slice(0, 200)}`);
+    }
   }
 }
 
@@ -772,7 +1020,7 @@ function assertSafeName(name) {
 
 function assertStudentExists(name) {
   assertSafeName(name);
-  if (!fs.existsSync(path.join(CONSULTING_DIR, name))) {
+  if (!fs.existsSync(path.join(STUDENTS_DIR, name))) {
     const error = new Error('学生不存在');
     error.code = 'NOT_FOUND';
     throw error;
@@ -792,6 +1040,11 @@ function sanitizeFilePart(value) {
 
 function currentDate() {
   return new Date().toISOString().slice(0, 10);
+}
+
+function formatDate(d) {
+  const pad = (n) => String(n).padStart(2, '0');
+  return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
 }
 
 function currentDateTime() {

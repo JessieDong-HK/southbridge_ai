@@ -44,10 +44,10 @@
       backdrop-filter: blur(24px);
     }
     .sidebar { border-radius: 26px; padding: 22px; position: sticky; top: 24px; height: calc(100vh - 48px); display: flex; flex-direction: column; }
-    .brand { display: flex; align-items: center; gap: 12px; margin-bottom: 28px; }
-    .brand-mark { width: 42px; height: 42px; display: grid; place-items: center; color: #fff; background: linear-gradient(135deg, #0f4fd7, #58b4ff); border-radius: 13px; font-weight: 800; }
-    .brand h1 { font-size: 18px; margin: 0; letter-spacing: 0; }
-    .brand p { margin: 2px 0 0; color: var(--muted); font-size: 12px; }
+    .brand { margin-bottom: 20px; }
+    .brand img { width: 100%; max-width: 200px; display: block; }
+    .brand h1 { font-size: 28px; font-weight: 800; margin: 14px 0 0; padding-top: 14px; border-top: 1px solid var(--line); letter-spacing: -.01em; color: var(--primary); }
+    .brand p { margin: 2px 0 0; color: var(--muted); font-size: 11px; }
     .nav { display: grid; gap: 8px; }
     .nav button { border: 0; background: transparent; color: var(--muted); border-radius: 13px; padding: 11px 12px; text-align: left; font-weight: 700; display: flex; align-items: center; gap: 10px; }
     .nav button.active { color: var(--primary); background: rgba(22, 87, 217, .1); }
@@ -68,8 +68,9 @@
     .stat-label, .label { color: var(--muted); font-size: 13px; font-weight: 700; }
     .layout { display: grid; grid-template-columns: minmax(280px, 390px) minmax(0, 1fr); gap: 16px; align-items: start; }
     .list { display: grid; gap: 10px; max-height: calc(100vh - 250px); overflow: auto; padding-right: 4px; }
-    .student-card { border: 1px solid var(--line); border-radius: 16px; padding: 14px; background: rgba(255,255,255,.72); }
+    .student-card { border: 1px solid var(--line); border-radius: 16px; padding: 14px; background: rgba(255,255,255,.72); text-align: left; }
     .student-card.active { border-color: rgba(22,87,217,.45); box-shadow: 0 12px 28px rgba(22,87,217,.1); }
+    .student-card.needs-chat { border-left: 3px solid var(--orange); background: linear-gradient(135deg, #fff7ed, rgba(255,255,255,.72)); }
     .row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
     .name { font-weight: 800; font-size: 17px; }
     .badge { display: inline-flex; align-items: center; border-radius: 999px; padding: 4px 9px; font-size: 12px; font-weight: 800; background: var(--primary-2); color: var(--primary); }
@@ -81,14 +82,31 @@
     .tabs button { border: 1px solid var(--line); background: rgba(255,255,255,.6); color: var(--muted); border-radius: 999px; padding: 7px 11px; font-size: 13px; font-weight: 800; }
     .tabs button.active { color: #fff; background: var(--primary); border-color: var(--primary); }
     .detail-body { min-height: 440px; }
-    .md { color: #25364d; line-height: 1.75; font-size: 14px; max-height: 58vh; overflow: auto; }
-    .md h1 { font-size: 23px; margin: 0 0 12px; }
-    .md h2 { font-size: 18px; margin: 22px 0 8px; }
-    .md table { border-collapse: collapse; width: 100%; margin: 12px 0; font-size: 13px; }
-    .md th, .md td { border: 1px solid var(--line); padding: 8px; text-align: left; vertical-align: top; }
-    .md th { background: rgba(22,87,217,.06); }
+    .md { color: #1e293b; line-height: 1.8; font-size: 15px; max-height: 58vh; overflow: auto; }
+    .md h1 { font-size: 22px; font-weight: 800; margin: 0 0 16px; letter-spacing: -.02em; }
+    .md h2 { font-size: 16px; font-weight: 700; margin: 28px 0 10px; color: #334155; }
+    .md h3 { font-size: 14px; font-weight: 700; margin: 20px 0 8px; color: #475569; }
+    .md p { margin: 0 0 10px; }
+    .md strong { color: #0f172a; }
+    .md table { border-collapse: collapse; width: 100%; margin: 14px 0; font-size: 13px; }
+    .md th, .md td { border: 1px solid var(--line); padding: 8px 10px; text-align: left; vertical-align: top; }
+    .md th { background: rgba(22,87,217,.06); font-weight: 700; }
+    .md ul, .md ol { margin: 8px 0; padding-left: 20px; }
+    .md li { margin-bottom: 6px; }
+    .md blockquote { border-left: 3px solid var(--primary); margin: 12px 0; padding: 4px 14px; color: var(--muted); background: rgba(22,87,217,.04); border-radius: 0 8px 8px 0; }
+    .md hr { border: 0; border-top: 1px solid var(--line); margin: 20px 0; }
+    .md code { background: rgba(22,87,217,.08); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+    .md .timeline { list-style: none; padding: 0; margin: 0; position: relative; }
+    .md .timeline::before { content: ''; position: absolute; left: 5px; top: 6px; bottom: 6px; width: 2px; background: var(--line); border-radius: 1px; }
+    .md .timeline li { position: relative; padding: 0 0 18px 24px; margin: 0; }
+    .md .timeline li:last-child { padding-bottom: 0; }
+    .md .timeline li::before { content: ''; position: absolute; left: 0; top: 5px; width: 12px; height: 12px; border-radius: 50%; background: #fff; border: 2px solid var(--primary); box-sizing: border-box; }
+    .md .timeline li.stage-change::before { border-color: var(--green); background: #ecfdf5; }
+    .md .timeline .tl-date { display: block; font-size: 12px; font-weight: 700; color: var(--muted); margin-bottom: 2px; }
     .file-list, .todo-list, .meeting-list, .task-list { display: grid; gap: 10px; }
     .file-item, .todo-item, .meeting-item, .task-item { border: 1px solid var(--line); background: rgba(255,255,255,.66); border-radius: 14px; padding: 12px; }
+    .task-item.clickable { cursor: pointer; }
+    .task-item.clickable:hover { border-color: var(--primary); background: var(--primary-2); }
     .forms { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
     .field { display: grid; gap: 7px; margin-bottom: 12px; }
     .field span { color: var(--muted); font-size: 13px; font-weight: 800; }
@@ -103,6 +121,16 @@
     .toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); background: #102033; color: #fff; padding: 11px 16px; border-radius: 999px; opacity: 0; pointer-events: none; transition: .2s; z-index: 30; }
     .toast.show { opacity: 1; }
     .hidden { display: none !important; }
+    .chip { display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; border: 1px solid var(--line); border-radius: 999px; background: rgba(255,255,255,.7); font-size: 13px; font-weight: 600; cursor: pointer; user-select: none; }
+    .chip:has(input:checked) { background: var(--primary-2); border-color: var(--primary); color: var(--primary); }
+    .chat-msg { display: flex; margin-bottom: 6px; }
+    .chat-msg.user { justify-content: flex-end; }
+    .chat-msg.assistant { justify-content: flex-start; }
+    .chat-bubble { max-width: 78%; padding: 12px 16px; border-radius: 18px; font-size: 14px; line-height: 1.65; white-space: pre-wrap; word-break: break-word; }
+    .chat-msg.user .chat-bubble { background: linear-gradient(135deg, #1457dc, #3488ff); color: #fff; border-bottom-right-radius: 6px; }
+    .chat-msg.assistant .chat-bubble { background: var(--panel-strong); border: 1px solid var(--line); color: var(--text); border-bottom-left-radius: 6px; }
+    .loader { display: inline-block; width: 20px; height: 20px; border: 3px solid var(--line); border-top-color: var(--primary); border-radius: 50%; animation: spin .6s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
     @media (max-width: 980px) {
       .shell { grid-template-columns: 1fr; padding: 14px; }
       .sidebar { position: static; height: auto; }
@@ -118,21 +146,18 @@
   <div class="shell">
     <aside class="sidebar">
       <div class="brand">
-        <div class="brand-mark">SB</div>
-        <div>
-          <h1>咨询管理系统</h1>
-          <p>客服工作台</p>
-        </div>
+        <img src="logo.png" alt="南桥教育">
+        <h1>咨询管理系统</h1>
       </div>
       <nav class="nav">
         <button class="active" data-view="dashboard">工作台</button>
         <button data-view="students">客户列表</button>
         <button data-view="board">进度看板</button>
-        <button data-view="tasks">AI 任务</button>
+        <button data-view="tasks">AI 任务状态</button>
+        <button data-view="chat">AI 助手</button>
       </nav>
       <div class="side-foot">
-        生成内容仅供客服查看。<br>
-        原始逐字稿上传后只保留清洗后的 Markdown。
+        此系统仅供内部客服使用。<br>网站链接及任何内容请勿外传。
       </div>
     </aside>
 
@@ -196,8 +221,19 @@
 
       <section id="view-tasks" class="view hidden">
         <div class="panel">
-          <div class="row"><strong>AI 任务状态</strong><span class="label">上传后可查看处理结果</span></div>
+          <div class="row" style="padding-bottom:10px;border-bottom:1px solid var(--line);margin-bottom:10px"><strong>AI 任务状态</strong><span class="label">完成后可查看处理结果</span></div>
           <div class="task-list" id="tasks"></div>
+        </div>
+      </section>
+
+      <section id="view-chat" class="view hidden">
+        <div class="panel" style="display:flex;flex-direction:column;height:calc(100vh - 200px)">
+          <div class="row" style="margin-bottom:12px"><strong>AI 助手</strong><span class="label">基于数据库回答，只读不写</span></div>
+          <div id="chatMessages" style="flex:1;overflow:auto;padding-right:8px;display:flex;flex-direction:column;gap:10px"></div>
+          <div style="display:flex;gap:10px;margin-top:12px">
+            <textarea id="chatInput" placeholder="提问，例如：现在有多少学生？哪些人还没上传聊天记录？陈亦帆和陈亦枫有什么异同？" style="flex:1;min-height:56px" onkeydown="if(event.key==='Enter'&&!event.shiftKey){event.preventDefault();sendMessage()}"></textarea>
+            <button class="btn primary" id="chatSendBtn" onclick="sendMessage()" style="align-self:flex-end">发送</button>
+          </div>
         </div>
       </section>
     </main>
@@ -222,7 +258,7 @@
   <div class="toast" id="toast"></div>
 
   <script>
-    const state = { students: [], selected: null, selectedDetail: null, board: null, todos: [], meetings: [], tasks: [], tab: 'progress' };
+    const state = { students: [], selected: null, selectedDetail: null, board: null, todos: [], meetings: [], tasks: [], tab: 'progress', chatHistory: [] };
     const $ = (id) => document.getElementById(id);
 
     document.querySelectorAll('.nav button').forEach(btn => btn.addEventListener('click', () => switchView(btn.dataset.view)));
@@ -241,14 +277,35 @@
     }
 
     async function loadAll() {
-      const [students, board, todos, meetings, tasks] = await Promise.all([
-        api('/api/students'), api('/api/board'), api('/api/todos'), api('/api/meetings'), api('/api/tasks')
-      ]);
-      Object.assign(state, { students, board, todos, meetings, tasks });
-      renderDashboard();
-      renderStudents();
-      renderBoard();
-      renderTasks();
+      $('refreshBtn').disabled = true;
+      try {
+        const [students, board, todos, meetings, tasks] = await Promise.all([
+          api('/api/students'), api('/api/board'), api('/api/todos'), api('/api/meetings'), api('/api/tasks')
+        ]);
+        Object.assign(state, { students, board, todos, meetings, tasks });
+        if (state.selected && !students.find(s => s.name === state.selected)) {
+          state.selected = null;
+          state.selectedDetail = null;
+        }
+        if (state.selected) {
+          state.selectedDetail = await api(`/api/students/${encodeURIComponent(state.selected)}`);
+        }
+        renderDashboard();
+        renderStudents();
+        renderBoard();
+        renderTasks();
+        if (state.selected) {
+          renderDetail();
+        } else {
+          $('emptyDetail').classList.remove('hidden');
+          $('studentDetail').classList.add('hidden');
+        }
+        toast('已刷新');
+      } catch (err) {
+        toast('刷新失败：' + err.message);
+      } finally {
+        $('refreshBtn').disabled = false;
+      }
     }
 
     function switchView(view) {
@@ -259,7 +316,8 @@
         dashboard: ['咨询管理系统', '覆盖从「加微信」到「签约」的完整咨询期。'],
         students: ['客户列表', '查看客户详情页、相关文件和上传更多记录。'],
         board: ['进度看板', '按阶段展示所有学生。'],
-        tasks: ['AI 任务状态', '查看 OCR、逐字稿和评估与建议生成状态。']
+        tasks: ['AI 任务状态', '查看截图 OCR、逐字稿清洗、评估与建议等任务的实时进度。'],
+        chat: ['AI 助手', '基于数据库内容回答问题，只读不写。客服无法通过聊天修改任何数据。']
       };
       $('pageTitle').textContent = titles[view][0];
       $('pageSub').textContent = titles[view][1];
@@ -283,9 +341,10 @@
     function renderStudents() {
       $('studentCount').textContent = `${state.students.length} 人`;
       $('studentList').innerHTML = state.students.map(s => `
-        <button class="student-card ${state.selected === s.name ? 'active' : ''}" data-student="${s.name}">
-          <div class="row"><span class="name">${s.name}</span><span class="badge ${s.hasChat ? '' : 'warn'}">${s.stage}</span></div>
-          <div class="meta">${s.hasChat ? '聊天记录已上传' : '待上传：聊天记录'} · ${s.fileCount} 个文件</div>
+        <button class="student-card ${state.selected === s.name ? 'active' : ''} ${s.hasChat ? '' : 'needs-chat'}" data-student="${s.name}">
+          <div class="row"><span class="name">${s.name}</span><span class="badge">${s.stage}</span></div>
+          <div class="meta">${s.hasChat ? `✅ 微信聊天记录已上传 · ${fmtShort(s.chatUpdated)}` : '⚠️ 微信聊天记录未上传'}</div>
+          <div class="meta">${s.hasTranscript ? `✅ 会议逐字稿已上传 · ${fmtTranscript(s.latestTranscript)}` : '📝 会议逐字稿未上传'}</div>
         </button>
       `).join('');
       document.querySelectorAll('[data-student]').forEach(btn => btn.addEventListener('click', () => selectStudent(btn.dataset.student)));
@@ -304,17 +363,36 @@
       $('emptyDetail').classList.add('hidden');
       $('studentDetail').classList.remove('hidden');
       $('detailName').textContent = d.name;
-      $('detailMeta').textContent = `${d.stage} · ${d.source === 'legacy' ? '旧档案可读' : 'v2结构'}`;
+      $('detailMeta').textContent = '';
       document.querySelectorAll('#detailTabs button').forEach(btn => {
         btn.classList.toggle('active', btn.dataset.tab === state.tab);
-        btn.onclick = () => { state.tab = btn.dataset.tab; renderDetailBody(); };
+        btn.onclick = () => { state.tab = btn.dataset.tab; document.querySelectorAll('#detailTabs button').forEach(b => b.classList.toggle('active', b.dataset.tab === state.tab)); renderDetailBody(); };
       });
       renderDetailBody();
     }
 
     function renderDetailBody() {
       const d = state.selectedDetail;
-      if (state.tab === 'progress') $('detailBody').innerHTML = `<div class="md">${d.progressHtml || '暂无进度'}</div>`;
+      if (state.tab === 'progress') {
+        const el = document.createElement('div'); el.className = 'md'; el.innerHTML = d.progressHtml || '<p class="meta">暂无进度</p>';
+        el.querySelectorAll('ul').forEach(ul => {
+          const prev = ul.previousElementSibling;
+          if (prev && prev.tagName === 'H2' && prev.textContent.includes('时间线')) {
+            ul.classList.add('timeline');
+            ul.querySelectorAll('li').forEach(li => {
+              const text = li.textContent;
+              const dateMatch = text.match(/^(\d{4}-\d{2}-\d{2})\s*/);
+              if (dateMatch) {
+                const date = dateMatch[1];
+                const rest = text.slice(dateMatch[0].length);
+                li.innerHTML = `<span class="tl-date">${date}</span>${rest}`;
+              }
+              if (/进入「|推进到「|已签约|已流失/.test(text)) li.classList.add('stage-change');
+            });
+          }
+        });
+        $('detailBody').innerHTML = ''; $('detailBody').appendChild(el);
+      }
       if (state.tab === 'summary') $('detailBody').innerHTML = `<div class="md">${d.summaryHtml || '暂无信息总结'}</div>`;
       if (state.tab === 'assessment') $('detailBody').innerHTML = `<div class="md">${d.assessmentHtml || '<p class="meta">暂无评估与建议。</p>'}</div>`;
       if (state.tab === 'files') {
@@ -326,17 +404,25 @@
           <div class="forms">
             <form class="panel" id="chatForm">
               <strong>上传微信聊天截图</strong>
-              <div class="field"><span>身份</span><select name="identity"><option>学生家长</option><option>学生本人</option><option>家长学生群聊</option></select></div>
-              <div class="field"><span>截图</span><input name="screenshots" type="file" accept="image/*" multiple></div>
-              <button class="btn primary">上传微信聊天记录截图</button>
-              <p class="meta">上传前请先把微信备注改成「学生姓名 + 关系」。</p>
+              <div class="field"><span>身份</span><select name="identity"><option value="">-- 请选择 --</option><option>学生家长</option><option>学生本人</option><option>家长学生群聊</option></select></div>
+              <div class="field"><span>截图（最多 4 张）</span><input name="screenshots" type="file" accept="image/*" multiple></div>
+              <button class="btn primary">确认上传微信聊天截图</button>
+              <p class="meta">一次最多 4 张，超过请分批上传。上传前请先把微信备注改成「学生姓名 + 关系」。</p>
             </form>
             <form class="panel" id="transcriptForm">
               <strong>上传会议逐字稿</strong>
-              <div class="field"><span>会议场次</span><input name="meetingNumber" placeholder="1"></div>
-              <div class="field"><span>参会人</span><input name="attendees" placeholder="Jessie, Chloe, 学生本人"></div>
+              <p class="meta" style="margin-bottom:10px">场次自动计算，无需手动填写。</p>
+              <div class="field"><span>参会人（可多选）</span>
+                <div style="display:flex;flex-wrap:wrap;gap:8px" id="attendeesGroup">
+                  <label class="chip"><input type="checkbox" name="attendees" value="Jessie"> Jessie</label>
+                  <label class="chip"><input type="checkbox" name="attendees" value="Cherie"> Cherie</label>
+                  <label class="chip"><input type="checkbox" name="attendees" value="Chloe"> Chloe</label>
+                  <label class="chip"><input type="checkbox" name="attendees" value="学生家长"> 学生家长</label>
+                  <label class="chip"><input type="checkbox" name="attendees" value="学生本人"> 学生本人</label>
+                </div>
+              </div>
               <div class="field"><span>TXT 文件</span><input name="transcript" type="file" accept=".txt,.md,text/plain"></div>
-              <button class="btn primary">上传会议逐字稿</button>
+              <button class="btn primary">确认上传会议逐字稿</button>
               <p class="meta">原始 TXT 上传后会删除，只保留清洗后的 Markdown。</p>
             </form>
           </div>`;
@@ -367,6 +453,11 @@
     async function uploadChat(event) {
       event.preventDefault();
       const form = event.currentTarget;
+      const identity = form.identity.value;
+      const files = form.screenshots.files;
+      if (!identity) return toast('请选择身份');
+      if (!files || files.length === 0) return toast('请选择微信聊天截图');
+      if (files.length > 4) return toast('一次最多上传 4 张截图，请分批上传');
       const fd = new FormData(form);
       fd.append('student', state.selected);
       await api('/api/upload-chat', { method: 'POST', body: fd });
@@ -378,9 +469,14 @@
     async function uploadTranscript(event) {
       event.preventDefault();
       const form = event.currentTarget;
+      const checkedAttendees = form.querySelectorAll('input[name="attendees"]:checked');
+      const file = form.transcript.files[0];
+      if (checkedAttendees.length === 0) return toast('请选择参会人');
+      if (!file) return toast('请选择逐字稿文件');
       const fd = new FormData(form);
+      fd.delete('attendees');
+      checkedAttendees.forEach(cb => fd.append('attendees', cb.value));
       fd.append('student', state.selected);
-      fd.set('attendees', fd.get('attendees'));
       await api('/api/upload-transcript', { method: 'POST', body: fd });
       toast('已提交逐字稿任务');
       await loadAll();
@@ -399,29 +495,118 @@
       const board = state.board;
       $('board').innerHTML = board.stages.map(stage => `
         <div class="panel stage-col"><h3>${stage}</h3>
-        ${(board.groups[stage] || []).map(s => `<div class="student-card"><div class="row"><strong>${s.name}</strong><span class="badge">${s.stage}</span></div><div class="meta">${s.hasChat ? '已上传聊天' : '待上传聊天'}</div></div>`).join('') || '<div class="meta">暂无学生</div>'}
+        ${(board.groups[stage] || []).map(s => `<div class="student-card ${s.hasChat ? '' : 'needs-chat'}"><div class="row"><strong>${s.name}</strong><span class="badge">${s.stage}</span></div><div class="meta">${s.hasChat ? '✅ 微信聊天已上传' : '⚠️ 微信聊天未上传'}${s.hasTranscript ? ' · ✅ 会议已上传' : ''}</div></div>`).join('') || '<div class="meta">暂无学生</div>'}
         </div>
       `).join('');
     }
 
     function renderTasks() {
-      $('tasks').innerHTML = state.tasks.map(t => `
-        <div class="task-item">
+      $('tasks').innerHTML = state.tasks.map(t => {
+        const isDone = t.status === 'completed';
+        const tab = t.type === 'assessment' ? 'assessment' : 'files';
+        const label = t.type === 'assessment' ? '评估与建议' : '相关文件';
+        return `
+        <div class="task-item ${isDone ? 'clickable' : ''}" ${isDone ? `data-task-student="${t.student}" data-task-tab="${tab}" data-task-type="${t.type}"` : ''}>
           <div class="row"><strong>${t.student} · ${typeLabel(t.type)}</strong><span class="badge ${t.status === 'failed' ? 'red' : t.status === 'completed' ? 'good' : 'warn'}">${t.status}</span></div>
           <div class="meta">${t.message}</div>
-          <div class="meta">${new Date(t.updatedAt).toLocaleString()}</div>
+          <div class="meta">${new Date(t.updatedAt).toLocaleString()}${isDone ? ` · 点击查看 → ${label}` : ''}</div>
         </div>
-      `).join('') || '<div class="meta">暂无任务</div>';
+      `}).join('') || '<div class="meta">暂无任务</div>';
+      document.querySelectorAll('.task-item.clickable').forEach(el => {
+        el.addEventListener('click', async () => {
+          const student = el.dataset.taskStudent;
+          const tab = el.dataset.taskTab;
+          const taskType = el.dataset.taskType;
+          switchView('students');
+          await selectStudent(student);
+          if (tab === 'assessment') {
+            state.tab = 'assessment';
+            renderDetailBody();
+          } else {
+            state.tab = 'files';
+            renderDetailBody();
+            setTimeout(() => {
+              if (taskType === 'chat') {
+                openFile(student, '微信聊天记录.md');
+              } else if (taskType === 'transcript') {
+                const transcripts = (state.selectedDetail?.files || [])
+                  .filter(f => f.path.startsWith('会议逐字稿/') && f.name.endsWith('.md') && !f.name.includes('会议总结') && !f.name.includes('客服查看'))
+                  .sort((a, b) => b.name.localeCompare(a.name));
+                if (transcripts.length) openFile(student, transcripts[0].path);
+              }
+            }, 200);
+          }
+          document.querySelectorAll('#detailTabs button').forEach(btn => {
+            btn.classList.toggle('active', btn.dataset.tab === state.tab);
+          });
+        });
+      });
     }
 
     function typeLabel(type) {
       return { chat:'微信截图', transcript:'会议逐字稿', assessment:'评估建议' }[type] || type;
     }
 
+    function fmtShort(dateStr) {
+      if (!dateStr) return '';
+      const parts = dateStr.split(/[\s-]/);
+      if (parts.length >= 4) return `${parts[1]}-${parts[2]} ${parts[3]}`;
+      return dateStr;
+    }
+
+    function fmtTranscript(filename) {
+      const match = String(filename || '').match(/^(\d{4})-(\d{2})-(\d{2})-第(\d+)场/);
+      if (match) return `${Number(match[2])}月${Number(match[3])}日第${match[4]}场`;
+      return filename;
+    }
+
     function toast(message) {
       $('toast').textContent = message;
       $('toast').classList.add('show');
       setTimeout(() => $('toast').classList.remove('show'), 2200);
+    }
+
+    async function sendMessage() {
+      const input = $('chatInput');
+      const message = input.value.trim();
+      if (!message) return;
+      state.chatHistory.push({ role: 'user', content: message });
+      input.value = '';
+      renderChat();
+      $('chatSendBtn').disabled = true;
+      const loading = document.createElement('div');
+      loading.className = 'chat-msg assistant';
+      loading.innerHTML = '<div class="chat-bubble"><span class="loader"></span></div>';
+      $('chatMessages').appendChild(loading);
+      $('chatMessages').scrollTop = $('chatMessages').scrollHeight;
+      try {
+        const data = await api('/api/chat', {
+          method: 'POST',
+          headers: { 'content-type': 'application/json' },
+          body: JSON.stringify({ message, history: state.chatHistory.slice(0, -1) })
+        });
+        state.chatHistory.push({ role: 'assistant', content: data.reply });
+      } catch (err) {
+        state.chatHistory.push({ role: 'assistant', content: '抱歉，请求失败：' + err.message });
+      }
+      loading.remove();
+      $('chatSendBtn').disabled = false;
+      renderChat();
+      $('chatInput').value = '';
+    }
+
+    function renderChat() {
+      const container = $('chatMessages');
+      container.innerHTML = state.chatHistory.length === 0
+        ? '<div class="meta" style="text-align:center;padding:40px">AI 助手已就绪。试试提问吧 👋</div>'
+        : '';
+      for (const msg of state.chatHistory) {
+        const div = document.createElement('div');
+        div.className = `chat-msg ${msg.role}`;
+        div.innerHTML = `<div class="chat-bubble">${msg.content.replace(/\n/g, '<br>')}</div>`;
+        container.appendChild(div);
+      }
+      container.scrollTop = container.scrollHeight;
     }
 
     setInterval(async () => {
