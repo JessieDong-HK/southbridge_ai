@@ -1,0 +1,154 @@
+{
+  "id": "arc__meet-the-team-f289101e23",
+  "url": "https://shanghai.nyu.edu/arc/meet-the-team",
+  "canonical_url": "https://shanghai.nyu.edu/arc/meet-the-team",
+  "page_type": "arc",
+  "title": "Meet the Team",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Meet the Team\nWelcome to the Academic Resource Center Team! We are a dedicated group committed to fostering student success through various academic support services. Our team is made up of three full-time staff members and a group of student workers, including 33 Discipline Learning Assistants, 14 Writing & Speaking Learning Assistants, and 8 Information Assistants. We provide a range of academic services designed to support students in their transition to college and their ongoing academic journey. Whether you need assistance with English language skills development, study skills coaching, subject tutoring, or academic accommodations, our team is here to equip you with the skills and guidance you need to thrive in your studies at NYU Shanghai and beyond.\nAny general inquiries about ARC services can be directed to shanghai.arc@nyu.edu.\nTong Jin\nDirector of Academic Resources; Liaison with the Moses Center for Accessibility and Inclusive Culture tong.jin@nyu.edu\nTracy Hua\nManager of Writing, Speaking & Academic Integrity tracy.hua@nyu.edu\nHelen Miao\nManager of Tutoring & Academic Skills helen.miao@nyu.edu\nDiscipline Learning Assistants\nARC Discipline Learning Assistants (LA) are NYU Shanghai student tutors who provide peer tutoring support for NYU Shanghai students out of the classroom. LAs work closely with faculty and ARC professionals to support student success and promote independent and active learning. LAs provide Individual and small-group tutoring in a variety of STEM, Business, Economics, and Chinese Language courses\nWriting and Speaking Learning Assistants\nThe ARC Writing & Speaking Learning Assistants (WSLAs) provide peer feedback on students’ writing assignments, help students practice presentations or understand academic texts. WSLAs work closely with ARC professionals and faculty mentors to support student success and promote independent and active learning.\nInformation Assistants\nInformation Assistants (IAs) attend the front desk, welcoming students to the Academic Resource Center (ARC) and directing students to appropriate academic resources. They also serve as the liaison between the ARC and the undergraduate student body, sharing feedback with the ARC and helping the ARC promote and improve its services.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Meet the Team"
+    },
+    {
+      "type": "p",
+      "text": "Welcome to the Academic Resource Center Team! We are a dedicated group committed to fostering student success through various academic support services. Our team is made up of three full-time staff members and a group of student workers, including 33 Discipline Learning Assistants, 14 Writing & Speaking Learning Assistants, and 8 Information Assistants. We provide a range of academic services designed to support students in their transition to college and their ongoing academic journey. Whether you need assistance with English language skills development, study skills coaching, subject tutoring, or academic accommodations, our team is here to equip you with the skills and guidance you need to thrive in your studies at NYU Shanghai and beyond."
+    },
+    {
+      "type": "p",
+      "text": "Any general inquiries about ARC services can be directed to shanghai.arc@nyu.edu."
+    },
+    {
+      "type": "p",
+      "text": "Tong Jin"
+    },
+    {
+      "type": "p",
+      "text": "Director of Academic Resources; Liaison with the Moses Center for Accessibility and Inclusive Culture tong.jin@nyu.edu"
+    },
+    {
+      "type": "p",
+      "text": "Tracy Hua"
+    },
+    {
+      "type": "p",
+      "text": "Manager of Writing, Speaking & Academic Integrity tracy.hua@nyu.edu"
+    },
+    {
+      "type": "p",
+      "text": "Helen Miao"
+    },
+    {
+      "type": "p",
+      "text": "Manager of Tutoring & Academic Skills helen.miao@nyu.edu"
+    },
+    {
+      "type": "h3",
+      "text": "Discipline Learning Assistants"
+    },
+    {
+      "type": "p",
+      "text": "ARC Discipline Learning Assistants (LA) are NYU Shanghai student tutors who provide peer tutoring support for NYU Shanghai students out of the classroom. LAs work closely with faculty and ARC professionals to support student success and promote independent and active learning. LAs provide Individual and small-group tutoring in a variety of STEM, Business, Economics, and Chinese Language courses"
+    },
+    {
+      "type": "h3",
+      "text": "Writing and Speaking Learning Assistants"
+    },
+    {
+      "type": "p",
+      "text": "The ARC Writing & Speaking Learning Assistants (WSLAs) provide peer feedback on students’ writing assignments, help students practice presentations or understand academic texts. WSLAs work closely with ARC professionals and faculty mentors to support student success and promote independent and active learning."
+    },
+    {
+      "type": "h3",
+      "text": "Information Assistants"
+    },
+    {
+      "type": "p",
+      "text": "Information Assistants (IAs) attend the front desk, welcoming students to the Academic Resource Center (ARC) and directing students to appropriate academic resources. They also serve as the liaison between the ARC and the undergraduate student body, sharing feedback with the ARC and helping the ARC promote and improve its services."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/p-ARC-2-2.jpg",
+      "alt": "Tong Jin",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-ARC-2-2-af049930908e.jpg",
+      "download_status": "downloaded",
+      "bytes": 14249,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/p-ARC-2-3.jpg",
+      "alt": "Tracy Hua",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/p-ARC-2-4.jpg",
+      "alt": "Helen Miao",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-ARC-2-4-0206d2219fe9.jpg",
+      "download_status": "downloaded",
+      "bytes": 33287,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/welcome%20%281%29.jpg",
+      "alt": "Meet the Team",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/welcome-20-281-29-27add8c62526.jpg",
+      "download_status": "downloaded",
+      "bytes": 317813,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Writing%20and%20Speaking%20Learning%20Assistants.jpg",
+      "alt": "Writing and Speaking Learning Assistants",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/IA.jpg",
+      "alt": "Information Assistants",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/arc/course-specific-tutoring/la?field_arc_disciplines_tid=826",
+      "text": "ARC Discipline Learning Assistants (LA)",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/arc/wsla/profile",
+      "text": "Writing & Speaking Learning Assistants (WSLAs)",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/arc/ias/profile",
+      "text": "Information Assistants (IAs)",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 335,
+  "crawled_at": "2026-06-09T04:30:39+00:00",
+  "sequence": 336
+}

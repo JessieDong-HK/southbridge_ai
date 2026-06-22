@@ -1,0 +1,119 @@
+{
+  "id": "cn__campus-life__career__students__career-exploration-bd68328e66",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/career-exploration",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/career/students/career-exploration",
+  "page_type": "cn",
+  "title": "探索多种可能",
+  "description": "寻找适合我的职业发展路径职业发展中心通过一对一咨询、企业宣讲会、校友导师项目等，助力学生充分探索职业发展可能。若你已有明确的职业方向，我们将着手帮你打造达成目标的计划；若你不知从何开始，不妨先预约职业发展咨询吧！",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "探索多种可能\n寻找适合我的职业发展路径\n职业发展中心通过一对一咨询、企业宣讲会、校友导师项目等，助力学生充分探索职业发展可能。若你已有明确的职业方向，我们将着手帮你打造达成目标的计划；若你不知从何开始，不妨先预约职业发展咨询吧！\n如何在本科学习的每一年不断进步，实现自己的职业目标？查看职业行动规划以获取一些想法吧。你可以找到多种职业探索工具和资源，如果你在考虑间隔年，这里同样有相关网站为你提供信息。\n职业探索工具\n职业及升学咨询指导\n职业发展行动计划\n间隔年计划",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "探索多种可能"
+    },
+    {
+      "type": "h2",
+      "text": "寻找适合我的职业发展路径"
+    },
+    {
+      "type": "p",
+      "text": "职业发展中心通过一对一咨询、企业宣讲会、校友导师项目等，助力学生充分探索职业发展可能。若你已有明确的职业方向，我们将着手帮你打造达成目标的计划；若你不知从何开始，不妨先预约职业发展咨询吧！"
+    },
+    {
+      "type": "p",
+      "text": "如何在本科学习的每一年不断进步，实现自己的职业目标？查看职业行动规划以获取一些想法吧。你可以找到多种职业探索工具和资源，如果你在考虑间隔年，这里同样有相关网站为你提供信息。"
+    },
+    {
+      "type": "h4",
+      "text": "职业探索工具"
+    },
+    {
+      "type": "h4",
+      "text": "职业及升学咨询指导"
+    },
+    {
+      "type": "h4",
+      "text": "职业发展行动计划"
+    },
+    {
+      "type": "h4",
+      "text": "间隔年计划"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/img_5011-7_0.jpg",
+      "alt": "寻找适合我的职业发展路径",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/img_5011-7_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-2-02-2.jpg",
+      "alt": "Career Exploration Tools",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-2-02-3.jpg",
+      "alt": "Career",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/career-action-plan_0.jpg",
+      "alt": "职业发展行动计划",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/career-action-plan_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-2-02-5_0.jpg",
+      "alt": "Taking a Gap Year",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-2-02-5_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/campuslife/career-action-plan",
+      "text": "职业行动规划",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campuslife/career-exploration-tools",
+      "text": "职业探索工具",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campuslife/coaching-advisement",
+      "text": "职业及升学咨询指导",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campuslife/taking-gap-year",
+      "text": "间隔年计划",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 20,
+  "crawled_at": "2026-06-09T04:36:53+00:00",
+  "sequence": 970
+}

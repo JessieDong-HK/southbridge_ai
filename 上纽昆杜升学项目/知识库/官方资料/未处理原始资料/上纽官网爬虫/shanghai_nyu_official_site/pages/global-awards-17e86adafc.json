@@ -1,0 +1,114 @@
+{
+  "id": "global-awards-17e86adafc",
+  "url": "https://shanghai.nyu.edu/global-awards?page=3",
+  "canonical_url": "https://shanghai.nyu.edu/global-awards",
+  "page_type": "global-awards",
+  "title": "Global Awards | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Global Awards",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Global Awards"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/img_0560-940.jpg?itok=bLWb8n1S",
+      "alt": "Hannah Johnstone",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/story/21014621_940.jpg?itok=mwb2XCEA",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/img_0487-940.jpg?itok=jmSmdZfy",
+      "alt": "Ann Fan Yang",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_0487-940-7e793661f992.jpg",
+      "download_status": "downloaded",
+      "bytes": 78775,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/15327561_347308522-940.jpg?itok=z6K5D9i6",
+      "alt": "Roxanne Roman and Jacko Walz",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/15327561_347308522-940-c982b5691524.jpg",
+      "download_status": "downloaded",
+      "bytes": 41456,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/zhang-haiyan-940.jpg?itok=A2plpCLh",
+      "alt": "Zhang Haiyan",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/zhang-haiyan-940-1df015a6b56f.jpg",
+      "download_status": "downloaded",
+      "bytes": 92795,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/clean-air_940-350.jpg?itok=WFumy1D9",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/clean-air_940-350-1cb33ddcb8f3.jpg",
+      "download_status": "downloaded",
+      "bytes": 39986,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-graduate-earns-coveted-fulbright-scholarship",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/social-mission-myanmar",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/ann-fan-yang-marine-biology-medical-science",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-seniors-earn-schwarzman-scholarships",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/freshman-wins-fgl-fellowship",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/venturing-cleaner-air",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:42:03+00:00",
+  "sequence": 1436
+}

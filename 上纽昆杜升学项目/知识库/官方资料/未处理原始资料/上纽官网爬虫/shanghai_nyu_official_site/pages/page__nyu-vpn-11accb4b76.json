@@ -1,0 +1,108 @@
+{
+  "id": "page__nyu-vpn-11accb4b76",
+  "url": "https://shanghai.nyu.edu/page/nyu-vpn",
+  "canonical_url": "https://shanghai.nyu.edu/page/nyu-vpn",
+  "page_type": "page",
+  "title": "NYU VPN",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "NYU VPN\nNYU Shanghai’s Virtual Private Network (VPN) allows you to connect to the Campus Network wherever you are, to enjoy unlimited internet access and secure off-campus access to global websites.\nWho is this service available to?\nCurrent members of the NYU Shanghai community, including students, faculty, and staff.\nHow can users access this service?\nPlease search for theKnowledge Bases articles on support.nyu.edu, or click the link below to download VPN software: Windows / Mac / Android\nWhere can you use this service?\nOff-Campus\nNeed help?\nSubmit a request on support.nyu.edu\nSend a request through WeChat\nEmail to shanghai.it.help@nyu.edu\nVisit the IT Service Center: Room N525 @ New Bund Campus",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "NYU VPN"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai’s Virtual Private Network (VPN) allows you to connect to the Campus Network wherever you are, to enjoy unlimited internet access and secure off-campus access to global websites."
+    },
+    {
+      "type": "h2",
+      "text": "Who is this service available to?"
+    },
+    {
+      "type": "p",
+      "text": "Current members of the NYU Shanghai community, including students, faculty, and staff."
+    },
+    {
+      "type": "h2",
+      "text": "How can users access this service?"
+    },
+    {
+      "type": "p",
+      "text": "Please search for theKnowledge Bases articles on support.nyu.edu, or click the link below to download VPN software: Windows / Mac / Android"
+    },
+    {
+      "type": "h2",
+      "text": "Where can you use this service?"
+    },
+    {
+      "type": "p",
+      "text": "Off-Campus"
+    },
+    {
+      "type": "h2",
+      "text": "Need help?"
+    },
+    {
+      "type": "li",
+      "text": "Submit a request on support.nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Send a request through WeChat"
+    },
+    {
+      "type": "li",
+      "text": "Email to shanghai.it.help@nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Visit the IT Service Center: Room N525 @ New Bund Campus"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://support.nyu.edu/esc?id=search&spa=1&q=vpn%20install&disableAllSuggestions=false&disableSpellCheck=false",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu",
+      "text": "support.nyu.edu",
+      "internal": false
+    },
+    {
+      "url": "https://digicommvideo.shanghai.nyu.edu/sites/default/files/cisco-secure-client-win-5.1.12.146-core-vpn-predeploy-k9.msi",
+      "text": "Windows",
+      "internal": false
+    },
+    {
+      "url": "https://digicommvideo.shanghai.nyu.edu/sites/default/files/cisco-secure-client-macos-5.1.12.146-core-vpn-webdeploy-k9.dmg",
+      "text": "Mac",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/cisco_secure_client_5.0.03085.zip",
+      "text": "Android",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=sc_cat_item&sys_id=5110048e1bd85a103f31a9b6624bcb5d",
+      "text": "Submit a request on support.nyu.edu",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011955",
+      "text": "Send a request through WeChat",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 118,
+  "crawled_at": "2026-06-09T04:31:43+00:00",
+  "sequence": 479
+}

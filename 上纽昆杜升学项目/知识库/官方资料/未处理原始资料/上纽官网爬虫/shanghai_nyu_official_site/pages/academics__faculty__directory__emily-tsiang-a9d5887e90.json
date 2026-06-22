@@ -1,0 +1,62 @@
+{
+  "id": "academics__faculty__directory__emily-tsiang-a9d5887e90",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/emily-tsiang",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/emily-tsiang",
+  "page_type": "academics",
+  "title": "Emily",
+  "description": "Emily Tsiang is an Associate Arts Professor of Interactive Media Business (IMB) at NYU Shanghai and affiliated with the Program on Creativity + Innovation. She comes from Stanford, where she taught design thinking, Designing Your Life, and launched the Life Design Accelerator. Prior to joining",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Emily Tsiang\nEmily Tsiang is an Associate Arts Professor of Interactive Media Business (IMB) at NYU Shanghai and affiliated with the Program on Creativity + Innovation. She comes from Stanford, where she taught design thinking, Designing Your Life, and launched the Life Design Accelerator. Prior to joining academia, Emily co-founded CULTURE LABx, led global M&A integrations for Cisco, and managed urban economic development initiatives for the City of New York.\nShe holds a BA in Economics & East Asian Studies from UCLA and an MBA in Organizational Strategy & Design from University of Michigan. Emily's research areas explore the first year experience and the function of human agency in global learning experiences.\nSelect Publications\nSleep Wise, with Daniel Jin Blum, Parallax Press (Distributed by Penguin Random House), 2016\nCulture Code, with Josh Levine, 2014.\nEducation\nMBA, Organizational Strategy & DesignUniversity of Michigan",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Emily Tsiang"
+    },
+    {
+      "type": "p",
+      "text": "Emily Tsiang is an Associate Arts Professor of Interactive Media Business (IMB) at NYU Shanghai and affiliated with the Program on Creativity + Innovation. She comes from Stanford, where she taught design thinking, Designing Your Life, and launched the Life Design Accelerator. Prior to joining academia, Emily co-founded CULTURE LABx, led global M&A integrations for Cisco, and managed urban economic development initiatives for the City of New York."
+    },
+    {
+      "type": "p",
+      "text": "She holds a BA in Economics & East Asian Studies from UCLA and an MBA in Organizational Strategy & Design from University of Michigan. Emily's research areas explore the first year experience and the function of human agency in global learning experiences."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Sleep Wise, with Daniel Jin Blum, Parallax Press (Distributed by Penguin Random House), 2016"
+    },
+    {
+      "type": "li",
+      "text": "Culture Code, with Josh Levine, 2014."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MBA, Organizational Strategy & DesignUniversity of Michigan"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/z_3591-selectedsmall.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/z_3591-selectedsmall.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 141,
+  "crawled_at": "2026-06-09T04:33:18+00:00",
+  "sequence": 667
+}

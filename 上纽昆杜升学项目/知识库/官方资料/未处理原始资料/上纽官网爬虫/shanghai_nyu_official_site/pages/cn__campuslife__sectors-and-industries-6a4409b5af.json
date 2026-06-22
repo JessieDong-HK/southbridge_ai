@@ -1,0 +1,102 @@
+{
+  "id": "cn__campuslife__sectors-and-industries-6a4409b5af",
+  "url": "https://shanghai.nyu.edu/cn/campuslife/sectors-and-industries",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campuslife/sectors-and-industries",
+  "page_type": "cn",
+  "title": "行业分类",
+  "description": "行业指南下面列出了部分行业的探索指南，内含行业简介、所需重点技能及深入探索行业内核的步骤。欢迎前往图书馆及其他网站以获取更多信息。利用这份指南开启职业探索之旅吧！",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "行业分类\n行业指南\n下面列出了部分行业的探索指南，内含行业简介、所需重点技能及深入探索行业内核的步骤。欢迎前往图书馆及其他网站以获取更多信息。利用这份指南开启职业探索之旅吧！\n国际组织",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "行业分类"
+    },
+    {
+      "type": "h3",
+      "text": "行业指南"
+    },
+    {
+      "type": "p",
+      "text": "下面列出了部分行业的探索指南，内含行业简介、所需重点技能及深入探索行业内核的步骤。欢迎前往图书馆及其他网站以获取更多信息。利用这份指南开启职业探索之旅吧！"
+    },
+    {
+      "type": "p",
+      "text": "国际组织"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "http://guides.nyu.edu/nyushanghaicareer",
+      "text": "图书馆",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Researching%20Companies%20Workshop-edited.docx",
+      "text": "这份指南",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Arts%20_%20Entertainment%202017%20Revised_0.pdf",
+      "text": "艺术与娱乐",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Business%20_%20Finance%202017%20Rivised.pdf",
+      "text": "商业与金融",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Computing%20Technology%202017%20Revised.pdf",
+      "text": "计算机科技",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Education%2C%20Counseling%20_%20Social%20Services%202017%20Revised.pdf",
+      "text": "教育、咨询及社会服务",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Engineering%202017%20Revised.pdf",
+      "text": "工程",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Health%20Sciences%202017%20Rivised.pdf",
+      "text": "健康科学",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Hospitality%202017%20Revised.pdf",
+      "text": "酒店、旅游及体育管理",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/HR%202017%20Revised.pdf",
+      "text": "人力资源及应用/组织心理学",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Marketing%20_%20Communication%202017%20Revised.pdf",
+      "text": "市场与传播",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Public%20Service%2C%20NGOs%2C%20and%20Legal%20Services%20%281%29_3.pdf",
+      "text": "公共服务、非营利组织及法律服务",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/International%20Organization%20Guide%202018.pdf",
+      "text": "国际组织",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 8,
+  "crawled_at": "2026-06-09T04:36:56+00:00",
+  "sequence": 981
+}

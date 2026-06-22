@@ -1,0 +1,136 @@
+{
+  "id": "news__how-do-you-measure-measurement-5d1f3d7e21",
+  "url": "https://shanghai.nyu.edu/news/how-do-you-measure-measurement",
+  "canonical_url": "https://shanghai.nyu.edu/news/how-do-you-measure-measurement",
+  "page_type": "news",
+  "title": "How Do You Measure Measurement?",
+  "description": "A study led by NYU Shanghai researchers and published in Nature's Scientific Reports, assesses measurements.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "How Do You Measure Measurement?\nTwitter\nFacebook\nWeibo\nOur lives are governed by countless forms of measurement. In hospitals, medical tests gauge one’s health; in the workplace, interviews assess the right fit for a job candidate, while schools employ exams to evaluate knowledge mastery. In many cases, the results of measurements shape our focus and actions across diverse domains. But how do we measure measurement itself? As the saying goes, \"what you measure is what you get.”\nA recent study by Professor of Neuroscience Zhong-Lin Lu and his collaborators, published in Nature's Scientific Reports, assesses measurements. They applied a concept from information theory, the expected information gain, to quantify the knowledge gained from different measurements.\n\"In our lives, measurements are rarely conducted for measurement's sake,” explains Lu. “They serve as guiding tools for subsequent actions.” He gives the example of a patient diagnosed with cancer. A series of measurements are crucial to determine the stage of cancer development, which informs the treatment plan. Therefore, having the 'right' measurements is very important, as it guides or even determines the treatment.\nAs a vision scientist, Lu has been thinking about how to assess measurements for years, noting that some conventional vision testing methods are no longer as effective as they once were, due to research and scientific development over years. For this study, he drew inspiration from a concept employed in machine learning to address the issue.\nThe relative magnitude of expected information gain is a common tool in machine learning that is used to select the optimal strategy in the learning process. It’s however not used to quantify the total amount of knowledge obtained through learning, which requires quantification of initial uncertainty before learning. When this concept is introduced to the field of measurement with quantification of initial uncertainty based on the properties of the target population, it aids in evaluating the \"value\" of different measurements.\nThe key idea is that expected information gain quantifies the increase in knowledge achieved through measurement, with greater gains when there is more initial uncertainty and when the measurement effectively reduces this uncertainty. In other words, we become more certain about the measurement outcomes with a better measurement.\nAs the first practical application, the study compared two sets of vision tests - visual acuity (VA) and contrast sensitivity (CS) - using expected information gain. Visual acuity (VA) tests assess the sharpness and clarity of a person's vision, helping diagnose vision problems, determine eyeglass prescriptions, and evaluate suitability for activities like driving or refractive surgery. The results showed that for VA tests, the current gold standard, ETDRS, generated less expected information gain than the active-learning-based qVA test, suggesting potential improvements in VA assessment.\n(a) An ETDRS chart (Image courtesy of Precision Vision, Inc). (b) An illustration of qVA.\nContrast sensitivity (CS) is used to detect various eye diseases, such as glaucoma, cataracts, and macular degeneration, by evaluating the ability to perceive subtle changes of light against the background. Study results showed that the CSV-1000 test outperformed the traditional Pelli-Robson test, but the active-learning-based qCSF test demonstrated the highest expected information gain, highlighting its advantages in assessing CS.\n(a) A Pelli–Robson chart (Image courtesy of Precision Vision, Inc.). (b) A CSV-1000 chart (Reproduced with permission from GUARDiON Health Sciences, Inc.). (c) An example of stimuli in qCSF test.\nThe study also emphasizes the importance of considering the target population when comparing expected information gain, as it can vary for different groups. “From our study, we see a tendency that different target populations might require different measurements, and different measurements may have advantages or disadvantages in different populations,” said Lu. “For example, the same questionnaire that can effectively assess the living conditions of the population in Shanghai may not be as accurate when reflecting the population in Zhejiang province.”\n\"Expected information gain can serve as a valuable tool for objectively evaluating the new knowledge acquired through measurements,\" said Lu. “It may facilitate better comparisons and informed decision-making in diverse fields involving measurement and data analysis, from scientific research to daily life.”",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "How Do You Measure Measurement?"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Our lives are governed by countless forms of measurement. In hospitals, medical tests gauge one’s health; in the workplace, interviews assess the right fit for a job candidate, while schools employ exams to evaluate knowledge mastery. In many cases, the results of measurements shape our focus and actions across diverse domains. But how do we measure measurement itself? As the saying goes, \"what you measure is what you get.”"
+    },
+    {
+      "type": "p",
+      "text": "A recent study by Professor of Neuroscience Zhong-Lin Lu and his collaborators, published in Nature's Scientific Reports, assesses measurements. They applied a concept from information theory, the expected information gain, to quantify the knowledge gained from different measurements."
+    },
+    {
+      "type": "p",
+      "text": "\"In our lives, measurements are rarely conducted for measurement's sake,” explains Lu. “They serve as guiding tools for subsequent actions.” He gives the example of a patient diagnosed with cancer. A series of measurements are crucial to determine the stage of cancer development, which informs the treatment plan. Therefore, having the 'right' measurements is very important, as it guides or even determines the treatment."
+    },
+    {
+      "type": "p",
+      "text": "As a vision scientist, Lu has been thinking about how to assess measurements for years, noting that some conventional vision testing methods are no longer as effective as they once were, due to research and scientific development over years. For this study, he drew inspiration from a concept employed in machine learning to address the issue."
+    },
+    {
+      "type": "p",
+      "text": "The relative magnitude of expected information gain is a common tool in machine learning that is used to select the optimal strategy in the learning process. It’s however not used to quantify the total amount of knowledge obtained through learning, which requires quantification of initial uncertainty before learning. When this concept is introduced to the field of measurement with quantification of initial uncertainty based on the properties of the target population, it aids in evaluating the \"value\" of different measurements."
+    },
+    {
+      "type": "p",
+      "text": "The key idea is that expected information gain quantifies the increase in knowledge achieved through measurement, with greater gains when there is more initial uncertainty and when the measurement effectively reduces this uncertainty. In other words, we become more certain about the measurement outcomes with a better measurement."
+    },
+    {
+      "type": "p",
+      "text": "As the first practical application, the study compared two sets of vision tests - visual acuity (VA) and contrast sensitivity (CS) - using expected information gain. Visual acuity (VA) tests assess the sharpness and clarity of a person's vision, helping diagnose vision problems, determine eyeglass prescriptions, and evaluate suitability for activities like driving or refractive surgery. The results showed that for VA tests, the current gold standard, ETDRS, generated less expected information gain than the active-learning-based qVA test, suggesting potential improvements in VA assessment."
+    },
+    {
+      "type": "p",
+      "text": "(a) An ETDRS chart (Image courtesy of Precision Vision, Inc). (b) An illustration of qVA."
+    },
+    {
+      "type": "p",
+      "text": "Contrast sensitivity (CS) is used to detect various eye diseases, such as glaucoma, cataracts, and macular degeneration, by evaluating the ability to perceive subtle changes of light against the background. Study results showed that the CSV-1000 test outperformed the traditional Pelli-Robson test, but the active-learning-based qCSF test demonstrated the highest expected information gain, highlighting its advantages in assessing CS."
+    },
+    {
+      "type": "p",
+      "text": "(a) A Pelli–Robson chart (Image courtesy of Precision Vision, Inc.). (b) A CSV-1000 chart (Reproduced with permission from GUARDiON Health Sciences, Inc.). (c) An example of stimuli in qCSF test."
+    },
+    {
+      "type": "p",
+      "text": "The study also emphasizes the importance of considering the target population when comparing expected information gain, as it can vary for different groups. “From our study, we see a tendency that different target populations might require different measurements, and different measurements may have advantages or disadvantages in different populations,” said Lu. “For example, the same questionnaire that can effectively assess the living conditions of the population in Shanghai may not be as accurate when reflecting the population in Zhejiang province.”"
+    },
+    {
+      "type": "p",
+      "text": "\"Expected information gain can serve as a valuable tool for objectively evaluating the new knowledge acquired through measurements,\" said Lu. “It may facilitate better comparisons and informed decision-making in diverse fields involving measurement and data analysis, from scientific research to daily life.”"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/rsc4rfika33ejjorqg3tlvdvoh-5ckt10bawd2rnpb1rg1gzcnknmfjr96yuz_mo6kf4sk5trvs7le6nptmkpo3lpuesgyewcukhlr1buy8arb4wr2zjhoxvmx2v.jpg?itok=BMh6c1Ni",
+      "alt": "research banner image",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/rsc4rfika33ejjorqg3tlvdvoh-5ckt10bawd2rnpb1rg1gzcnkn-ce57f93528a3.jpg",
+      "download_status": "downloaded",
+      "bytes": 49682,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/t8i8rfifo4uvrs6olajhnjnes2ndzpybgpwxtovbmvpfzsoidtg7htar0dw3x6rnz-lhpvz1mfxkjo9d07ihcqvy8n6mdz4rgzezmkvl4h2x3ctibgsfgl97hr-_0.jpg",
+      "alt": "vision test chart",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/t8i8rfifo4uvrs6olajhnjnes2ndzpybgpwxtovbmvpfzsoidtg7-75cf3c4e0682.jpg",
+      "download_status": "downloaded",
+      "bytes": 91689,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/whtgddczs8y9ym84ez61bizjttazjt_hlhad2_oaat2j4w4xcwa26hggjt6_v7p8lqawkiugcvzzjmrdmiuhfw4xvlnx16w6nhzrytbkefckh4qb7okryxy0-_pv.png",
+      "alt": "research image in body",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/whtgddczs8y9ym84ez61bizjttazjt_hlhad2_oaat2j4w4xcwa2-5f39ceeee047.png",
+      "download_status": "downloaded",
+      "bytes": 247274,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=How%20Do%20You%20Measure%20Measurement%3F&url=https%3A//shanghai.nyu.edu/news/how-do-you-measure-measurement&status=How%20Do%20You%20Measure%20Measurement%3F%20https%3A//shanghai.nyu.edu/news/how-do-you-measure-measurement",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/how-do-you-measure-measurement&title=How%20Do%20You%20Measure%20Measurement%3F",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/how-do-you-measure-measurement&title=How%20Do%20You%20Measure%20Measurement%3F",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/zhong-lin-lu",
+      "text": "Zhong-Lin Lu",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 686,
+  "crawled_at": "2026-06-09T04:40:51+00:00",
+  "sequence": 1328
+}

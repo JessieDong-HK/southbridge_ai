@@ -1,0 +1,250 @@
+{
+  "id": "cn__stories-e27bc0cd1a",
+  "url": "https://shanghai.nyu.edu/cn/stories?page=2",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "cn",
+  "title": "人物 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "人物\n上纽大2025届毕业生叶进然：让AI落笔，把日常化作创意\n上纽大2025届毕业生Shauna Stewart：在文化与学术间，寻获真我\n上纽大2025届毕业生徐子云：“野生”环境研究者\n上纽大2025届毕业生Lesley Manokore：从津巴布韦到中国，一名“创客”的文化探寻\n上纽大2019届校友Callum Amor：一位音乐创业者的跨文化交流之路\n上纽大2020届校友Isabel Adler：热爱，让每一步都坚定\nRaymond Ro：一位上纽商学教授的非典型跨界\n上纽大2019届校友宾雪：我的人生由我设计\n上纽大舞蹈艺术副教授陶思烨：我舞，故我在\n上纽大2018届校友Adriano Albarosa：中文，助我逐梦金融圈\n上纽大2023届校友范嘉茵：我做店员这一年\n将爱好干成事业 上纽大2023届校友Brandon Shi的创业路",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "人物"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大2025届毕业生叶进然：让AI落笔，把日常化作创意"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大2025届毕业生Shauna Stewart：在文化与学术间，寻获真我"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大2025届毕业生徐子云：“野生”环境研究者"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大2025届毕业生Lesley Manokore：从津巴布韦到中国，一名“创客”的文化探寻"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大2019届校友Callum Amor：一位音乐创业者的跨文化交流之路"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大2020届校友Isabel Adler：热爱，让每一步都坚定"
+    },
+    {
+      "type": "h4",
+      "text": "Raymond Ro：一位上纽商学教授的非典型跨界"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大2019届校友宾雪：我的人生由我设计"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大舞蹈艺术副教授陶思烨：我舞，故我在"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大2018届校友Adriano Albarosa：中文，助我逐梦金融圈"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大2023届校友范嘉茵：我做店员这一年"
+    },
+    {
+      "type": "h4",
+      "text": "将爱好干成事业 上纽大2023届校友Brandon Shi的创业路"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_ye_jinran_25-03.jpg?itok=EonWdn1J",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_shauna_stewart_25-03_1.jpg?itok=QrDyXFZQ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_xu_ziyun_25-03.jpg?itok=I2iF0VDh",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/senior_spotlight_-_xu_ziyun_25-03-b39c6a338942.jpg",
+      "download_status": "downloaded",
+      "bytes": 33704,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_4-14_-_senior_spotlight_-_lesley_manokore_25-03.jpg?itok=vi9ri5RM",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/senior_spotlight_-_4-14_-_senior_spotlight_-_lesley-2c1a554fce2c.jpg",
+      "download_status": "downloaded",
+      "bytes": 28885,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_ho_bin_kim-02.jpg?itok=MGA2yOWf",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_-_ho_bin_kim-02-5c44ad3b63c1.jpg",
+      "download_status": "downloaded",
+      "bytes": 21319,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_isabel_adler-02.jpg?itok=Vog9-cTN",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_-_isabel_adler-02-205da90d5e7f.jpg",
+      "download_status": "downloaded",
+      "bytes": 26607,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/faculty_spotlight_-_raymond_ro-03.jpg?itok=FS-Cgc5t",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/faculty_spotlight_-_raymond_ro-03-64d761756e79.jpg",
+      "download_status": "downloaded",
+      "bytes": 20145,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_bin_xue_19-02.jpg?itok=GJT0jYsu",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_-_bin_xue_19-02-b87001243f69.jpg",
+      "download_status": "downloaded",
+      "bytes": 16057,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/faculty_spotlight_-_tao_siye-03.jpg?itok=CEPtQzwe",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/faculty_spotlight_-_tao_siye-03-70833687b62f.jpg",
+      "download_status": "downloaded",
+      "bytes": 14244,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_adriano_albarosa_18-02_1.jpg?itok=ILaXY4_Q",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/image2_0.jpg?itok=IWi-JugR",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/image2_0-0558727cfe16.jpg",
+      "download_status": "downloaded",
+      "bytes": 21171,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_brandon_shi-02.jpg?itok=u1tTgnHE",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/ye-jinran-25-when-design-becomes-interactive",
+      "text": "上纽大2025届毕业生叶进然：让AI落笔，把日常化作创意",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/shauna-stewart-25-journey-self-discovery-through-culture-and-academia",
+      "text": "上纽大2025届毕业生Shauna Stewart：在文化与学术间，寻获真我",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/xu-ziyun-25-her-life-wild",
+      "text": "上纽大2025届毕业生徐子云：“野生”环境研究者",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/lesley-manokore-25-makers-life",
+      "text": "上纽大2025届毕业生Lesley Manokore：从津巴布韦到中国，一名“创客”的文化探寻",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/alumni-voices-callum-amor-19",
+      "text": "上纽大2019届校友Callum Amor：一位音乐创业者的跨文化交流之路",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/alumni-voices-isabel-adler-20",
+      "text": "上纽大2020届校友Isabel Adler：热爱，让每一步都坚定",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/raymond-ro-power-pivoting",
+      "text": "Raymond Ro：一位上纽商学教授的非典型跨界",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/alumni-voices-bin-xue-19",
+      "text": "上纽大2019届校友宾雪：我的人生由我设计",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/siye-tao-dance-floor-classroom",
+      "text": "上纽大舞蹈艺术副教授陶思烨：我舞，故我在",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/alumni-voices-adriano-albarosa-18",
+      "text": "上纽大2018届校友Adriano Albarosa：中文，助我逐梦金融圈",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/alum-voices-mia-fan-jiayin-23",
+      "text": "上纽大2023届校友范嘉茵：我做店员这一年",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/alumni-voices-brandon-shi-23",
+      "text": "将爱好干成事业 上纽大2023届校友Brandon Shi的创业路",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 41,
+  "crawled_at": "2026-06-09T04:33:04+00:00",
+  "sequence": 649
+}

@@ -1,0 +1,67 @@
+{
+  "id": "news__2013-nyu-shanghais-candidate-weekend-9f855a8675",
+  "url": "https://shanghai.nyu.edu/news/2013-nyu-shanghais-candidate-weekend",
+  "canonical_url": "https://shanghai.nyu.edu/news/2013-nyu-shanghais-candidate-weekend",
+  "page_type": "news",
+  "title": "2013 NYU Shanghai's Candidate Weekend",
+  "description": "This past weekend marked the end of six NYU Shanghai Candidate Weekend sessions, where 500 Chinese students vied for admission to NYU Shanghai's inaugural class of 2017.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "2013 NYU Shanghai's Candidate Weekend\nTwitter\nFacebook\nWeibo\nThis past weekend marked the end of six NYU Shanghai Candidate Weekend sessions, where 500 Chinese students vied for admission to NYU Shanghai's inaugural class of 2017.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "2013 NYU Shanghai's Candidate Weekend"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "This past weekend marked the end of six NYU Shanghai Candidate Weekend sessions, where 500 Chinese students vied for admission to NYU Shanghai's inaugural class of 2017."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/groupwork__cover.jpg?itok=HTB9Vp7l",
+      "alt": "week",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/groupwork__cover-e4edcff7a634.jpg",
+      "download_status": "downloaded",
+      "bytes": 39446,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=2013%20NYU%20Shanghai",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/2013-nyu-shanghais-candidate-weekend&title=2013%20NYU%20Shanghai",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/2013-nyu-shanghais-candidate-weekend&title=2013%20NYU%20Shanghai",
+      "text": "Weibo",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 37,
+  "crawled_at": "2026-06-09T04:39:58+00:00",
+  "sequence": 1267
+}

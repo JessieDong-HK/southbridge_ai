@@ -1,0 +1,102 @@
+{
+  "id": "academics__faculty__directory__ilaf-elard-190716b8d0",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/ilaf-elard",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/ilaf-elard",
+  "page_type": "academics",
+  "title": "Ilaf",
+  "description": "Ilaf Elard is an Associate Professor of Practice in Economics at NYU Shanghai. He also is Core Faculty Member at the Center for Data Science and A.I. He researches blockchain, fintech and international macro-finance.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Ilaf Elard\nIlaf Elard is an Associate Professor of Practice in Economics at NYU Shanghai. He also is Core Faculty Member at the Center for Data Science and A.I. He researches blockchain, fintech and international macro-finance.\nPreviously he was an Assistant Professor of Finance at Shanghai UIBE and, prior to coming to China, a Visiting Assistant Professor of Economics at Brown University in the U.S. and visiting researcher at the Bank of England in London, U.K.\nProfessor Elard holds a Ph.D. in Economics from the University of Oxford.\nProfessor Elard’s academic research helps to inform new financial regulatory policy. His research was cited by the U.S. Federal Deposit Insurance Corporation (F.D.I.C.) and the Office of the Controller of the Currency (O.C.C.) of the U.S. Treasury Department, respectively, in newly adopted federal regulations including the Federal Rule on \"Permissible Interest on Loans That Are Sold, Assigned, or Otherwise Transferred\" (85 F.R. 33530) and the U.S. Code of Federal Regulation: “Federal Interest Rate Authority” (12 C.F.R. Part 331). Professor Elard’s research, moreover, informs the formulation of financial legislation. His research was quoted in congressional testimony, including during the 116th United States Congress (2019-2021) hearings on the H.R. 5050 Bill at the U.S. House of Representative’s Financial Services Committee. His work was also cited during the 115th United States Congress (2017-2019) hearings on “Examining Opportunities and Challenges in the Financial Technology (FinTech) Marketplace” with respect to bills H.R. 3299 and H.R. 4439, at the U.S. House of Representative’s Financial Services Committee.\nProfessor Elard’s research has received academic recognition in winning the Best Conference Paper in Finance Award at the Frontiers in Business Research in China Conference and the Best Conference Paper Award at the Second Toronto Conference on FinTech.\nProfessor Elard’s research is published in, amongst others, the Journal of International Money and Finance.\nSelect Publications\n“Unconventional Monetary Policy and Asset Allocation of International Mutual Funds,” Journal of International Money and Finance, 2021, forthcoming. (with Gino Cenedese)\n“Three-Player Sovereign Debt Negotiations,” International Economics, 2020, Vol. 164, pp. 217-240\nEducation\nPhD, EconomicsUniversity of Oxford\nBlockchain\nFinTech\nInternational Macro-Finance",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Ilaf Elard"
+    },
+    {
+      "type": "p",
+      "text": "Ilaf Elard is an Associate Professor of Practice in Economics at NYU Shanghai. He also is Core Faculty Member at the Center for Data Science and A.I. He researches blockchain, fintech and international macro-finance."
+    },
+    {
+      "type": "p",
+      "text": "Previously he was an Assistant Professor of Finance at Shanghai UIBE and, prior to coming to China, a Visiting Assistant Professor of Economics at Brown University in the U.S. and visiting researcher at the Bank of England in London, U.K."
+    },
+    {
+      "type": "p",
+      "text": "Professor Elard holds a Ph.D. in Economics from the University of Oxford."
+    },
+    {
+      "type": "p",
+      "text": "Professor Elard’s academic research helps to inform new financial regulatory policy. His research was cited by the U.S. Federal Deposit Insurance Corporation (F.D.I.C.) and the Office of the Controller of the Currency (O.C.C.) of the U.S. Treasury Department, respectively, in newly adopted federal regulations including the Federal Rule on \"Permissible Interest on Loans That Are Sold, Assigned, or Otherwise Transferred\" (85 F.R. 33530) and the U.S. Code of Federal Regulation: “Federal Interest Rate Authority” (12 C.F.R. Part 331). Professor Elard’s research, moreover, informs the formulation of financial legislation. His research was quoted in congressional testimony, including during the 116th United States Congress (2019-2021) hearings on the H.R. 5050 Bill at the U.S. House of Representative’s Financial Services Committee. His work was also cited during the 115th United States Congress (2017-2019) hearings on “Examining Opportunities and Challenges in the Financial Technology (FinTech) Marketplace” with respect to bills H.R. 3299 and H.R. 4439, at the U.S. House of Representative’s Financial Services Committee."
+    },
+    {
+      "type": "p",
+      "text": "Professor Elard’s research has received academic recognition in winning the Best Conference Paper in Finance Award at the Frontiers in Business Research in China Conference and the Best Conference Paper Award at the Second Toronto Conference on FinTech."
+    },
+    {
+      "type": "p",
+      "text": "Professor Elard’s research is published in, amongst others, the Journal of International Money and Finance."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "“Unconventional Monetary Policy and Asset Allocation of International Mutual Funds,” Journal of International Money and Finance, 2021, forthcoming. (with Gino Cenedese)"
+    },
+    {
+      "type": "li",
+      "text": "“Three-Player Sovereign Debt Negotiations,” International Economics, 2020, Vol. 164, pp. 217-240"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, EconomicsUniversity of Oxford"
+    },
+    {
+      "type": "li",
+      "text": "Blockchain"
+    },
+    {
+      "type": "li",
+      "text": "FinTech"
+    },
+    {
+      "type": "li",
+      "text": "International Macro-Finance"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/ilaf_elard.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ilaf_elard-0cad6168b18c.jpg",
+      "download_status": "downloaded",
+      "bytes": 2116227,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://ilafelard.com/",
+      "text": "https://ilafelard.com/",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/centers-and-institutes/datascience/people",
+      "text": "Center for Data Science and A.I.",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 376,
+  "crawled_at": "2026-06-09T04:54:36+00:00",
+  "sequence": 2441
+}

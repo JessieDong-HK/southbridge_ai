@@ -1,0 +1,70 @@
+{
+  "id": "academics__faculty__directory__yiqing-lu-730c19b5bc",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/yiqing-lu",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/yiqing-lu",
+  "page_type": "academics",
+  "title": "Yiqing",
+  "description": "Yiqing Lü is an Assistant Professor of Finance at NYU Shanghai. She holds a PhD from London School of Economics and Political Science and a BS from Shanghai Jiao Tong University. Professor Lü’s research interests are theoretical and empirical Corporate Finance, Corporate Governance, and Contract",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Yiqing Lü\nYiqing Lü is an Assistant Professor of Finance at NYU Shanghai. She holds a PhD from London School of Economics and Political Science and a BS from Shanghai Jiao Tong University. Professor Lü’s research interests are theoretical and empirical Corporate Finance, Corporate Governance, and Contract Theory. Professor Lü is also a faculty member at Center for Business Education and Research. For more information about the center, please visit https://research.shanghai.nyu.edu/cber.\nEducation\nPhD, FinanceLondon School of Economics and Political Science\nMS, Finance and EconomicsLondon School of Economics and Political Science\nBusiness and Economics Honors Seminar\nFoundations of Finance",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Yiqing Lü"
+    },
+    {
+      "type": "p",
+      "text": "Yiqing Lü is an Assistant Professor of Finance at NYU Shanghai. She holds a PhD from London School of Economics and Political Science and a BS from Shanghai Jiao Tong University. Professor Lü’s research interests are theoretical and empirical Corporate Finance, Corporate Governance, and Contract Theory. Professor Lü is also a faculty member at Center for Business Education and Research. For more information about the center, please visit https://research.shanghai.nyu.edu/cber."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, FinanceLondon School of Economics and Political Science"
+    },
+    {
+      "type": "li",
+      "text": "MS, Finance and EconomicsLondon School of Economics and Political Science"
+    },
+    {
+      "type": "li",
+      "text": "Business and Economics Honors Seminar"
+    },
+    {
+      "type": "li",
+      "text": "Foundations of Finance"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/yiqinglu280.jpg",
+      "alt": "Assistant Professor of Finance, NYU Shanghai; Global Network Assistant Professor, NYU",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/yiqinglu280-c031e330e5c6.jpg",
+      "download_status": "downloaded",
+      "bytes": 67121,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.yiqinglu.com/",
+      "text": "https://www.yiqinglu.com/",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/cber",
+      "text": "https://research.shanghai.nyu.edu/cber",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 104,
+  "crawled_at": "2026-06-09T04:53:42+00:00",
+  "sequence": 2385
+}

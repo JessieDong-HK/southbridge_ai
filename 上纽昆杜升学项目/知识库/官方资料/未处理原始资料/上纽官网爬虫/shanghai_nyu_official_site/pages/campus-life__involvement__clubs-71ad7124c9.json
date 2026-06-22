@@ -1,0 +1,87 @@
+{
+  "id": "campus-life__involvement__clubs-71ad7124c9",
+  "url": "https://shanghai.nyu.edu/campus-life/involvement/clubs",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/involvement/clubs",
+  "page_type": "campus-life",
+  "title": "Clubs & Organizations",
+  "description": "Student clubs and organizations, such as the NYU Shanghai Student Government, Youth League, Model United Nations Club, and \"Thespians\" Theatre Club, represent a vast diversity of interests and play an important role in developing student leade",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Clubs & Organizations\nStudent clubs and organizations, such as the NYU Shanghai Student Government, Youth League, Model United Nations Club, and \"Thespians\" Theatre Club, represent a vast diversity of interests and play an important role in developing student leaders and creating community at NYU Shanghai. The university strives to work with the student body to provide opportunities for students to meet, engage, and explore similar interests.\nExplore the Club Directory to connect with a student organization that appeals to you, or visit the Starting a New Club page to learn how to build an organization and make a lasting impact on this community.\nClub Directory\nStarting a New Club\nContact Us\nStudent Involvement shanghai.involvement@nyu.edu",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Clubs & Organizations"
+    },
+    {
+      "type": "p",
+      "text": "Student clubs and organizations, such as the NYU Shanghai Student Government, Youth League, Model United Nations Club, and \"Thespians\" Theatre Club, represent a vast diversity of interests and play an important role in developing student leaders and creating community at NYU Shanghai. The university strives to work with the student body to provide opportunities for students to meet, engage, and explore similar interests."
+    },
+    {
+      "type": "p",
+      "text": "Explore the Club Directory to connect with a student organization that appeals to you, or visit the Starting a New Club page to learn how to build an organization and make a lasting impact on this community."
+    },
+    {
+      "type": "h4",
+      "text": "Club Directory"
+    },
+    {
+      "type": "h4",
+      "text": "Starting a New Club"
+    },
+    {
+      "type": "h2",
+      "text": "Contact Us"
+    },
+    {
+      "type": "p",
+      "text": "Student Involvement shanghai.involvement@nyu.edu"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/activities-newpic-06.jpg",
+      "alt": "NYU Shanghai Health",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/activities-newpic-06.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/activities-newpic-07.jpg",
+      "alt": "Club Directory",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/activities-newpic-07.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/activities-newpic-08.jpg",
+      "alt": "Starting a New Club",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/activities-newpic-08.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/involvement/clubs/directory",
+      "text": "Club Directory",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/involvement/clubs/starting",
+      "text": "Starting a New Club",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 116,
+  "crawled_at": "2026-06-09T04:32:01+00:00",
+  "sequence": 507
+}

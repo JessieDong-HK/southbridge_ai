@@ -1,0 +1,87 @@
+{
+  "id": "academics__faculty__directory__gottfried-haider-e3d7ecdcd0",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/gottfried-haider",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/gottfried-haider",
+  "page_type": "academics",
+  "title": "Gottfried",
+  "description": "Gottfried Haider is an artist, educator, and software tool builder. He received a degree in Digital Arts from the University of Applied Arts in Vienna, and an MFA from the Design Media Arts program at UCLA. He currently holds the position of Assistant Arts Professor at NYU Shanghai. He has",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Gottfried Haider\nGottfried Haider is an artist, educator, and software tool builder. He received a degree in Digital Arts from the University of Applied Arts in Vienna, and an MFA from the Design Media Arts program at UCLA. He currently holds the position of Assistant Arts Professor at NYU Shanghai. He has participated in numerous exhibitions and media art festivals internationally and his work has been recognized with an Award of Distinction at Prix Ars Electronica and a Lumen Futures Award. He has been the recipient of a Fulbright Scholarship as well as a Processing Foundation Fellowship for working towards building tools of empowerment and access at the convergence of art and technology. His personal practice considers the intersection of technology and the quotidian, and with a close engagement with hardware and software, explores nuanced perspectives in the realm of entirely mediated existence.\nSelect Publications\nHaider, Gottfried and Zhang, Jie. \"LLMscape\", NeurIPS 2025, Creative AI track, arXiv:2511.07161.\nHaider, Gottfried. \"Open Tools, Open Questions: Teaching AI in Creative Practice\", SIGGRAPH Asia 2025, Educator's Forum.\nEducation\nMFA, Design Media ArtsUniversity of California Los Angeles\nMA, Digital ArtsUniversity of Applied Arts Vienna\nMachine Learning for Artists and Designers\nExpanded Web\nCreative Coding Lab\nInteraction Lab\nAdvanced Lab: Open Project\nCapstone Studio I",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Gottfried Haider"
+    },
+    {
+      "type": "p",
+      "text": "Gottfried Haider is an artist, educator, and software tool builder. He received a degree in Digital Arts from the University of Applied Arts in Vienna, and an MFA from the Design Media Arts program at UCLA. He currently holds the position of Assistant Arts Professor at NYU Shanghai. He has participated in numerous exhibitions and media art festivals internationally and his work has been recognized with an Award of Distinction at Prix Ars Electronica and a Lumen Futures Award. He has been the recipient of a Fulbright Scholarship as well as a Processing Foundation Fellowship for working towards building tools of empowerment and access at the convergence of art and technology. His personal practice considers the intersection of technology and the quotidian, and with a close engagement with hardware and software, explores nuanced perspectives in the realm of entirely mediated existence."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Haider, Gottfried and Zhang, Jie. \"LLMscape\", NeurIPS 2025, Creative AI track, arXiv:2511.07161."
+    },
+    {
+      "type": "li",
+      "text": "Haider, Gottfried. \"Open Tools, Open Questions: Teaching AI in Creative Practice\", SIGGRAPH Asia 2025, Educator's Forum."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MFA, Design Media ArtsUniversity of California Los Angeles"
+    },
+    {
+      "type": "li",
+      "text": "MA, Digital ArtsUniversity of Applied Arts Vienna"
+    },
+    {
+      "type": "li",
+      "text": "Machine Learning for Artists and Designers"
+    },
+    {
+      "type": "li",
+      "text": "Expanded Web"
+    },
+    {
+      "type": "li",
+      "text": "Creative Coding Lab"
+    },
+    {
+      "type": "li",
+      "text": "Interaction Lab"
+    },
+    {
+      "type": "li",
+      "text": "Advanced Lab: Open Project"
+    },
+    {
+      "type": "li",
+      "text": "Capstone Studio I"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/gottfriedhaider.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/gottfriedhaider-30b5c9e0206e.jpg",
+      "download_status": "downloaded",
+      "bytes": 466701,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 212,
+  "crawled_at": "2026-06-09T04:38:53+00:00",
+  "sequence": 1175
+}

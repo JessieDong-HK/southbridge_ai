@@ -1,0 +1,36 @@
+{
+  "id": "zh-hans__news__-e6-98-86-e5-b1-b1-e6-9d-9c-e5-85-8b-e7-94-b7-e8-b6-b3-e5-9c-a8-e9-a6-96-e5-66ef2f804c",
+  "url": "https://www.dukekunshan.edu.cn/zh-hans/news/%e6%98%86%e5%b1%b1%e6%9d%9c%e5%85%8b%e7%94%b7%e8%b6%b3%e5%9c%a8%e9%a6%96%e5%b1%8a%e9%ba%92%e9%ba%9f%e6%9d%af%e5%a4%ba%e5%86%a0",
+  "canonical_url": "https://www.dukekunshan.edu.cn/zh-hans/news/昆山杜克男足在首届麒麟杯夺冠/",
+  "page_type": "zh-hans",
+  "title": "昆山杜克男足在首届“麒麟杯”夺冠",
+  "description": "",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "2023-11-27T09:36:40+00:00",
+  "sitemap_lastmod": "2023-11-27T09:36:40+00:00",
+  "text": "昆山杜克男足在首届“麒麟杯”夺冠",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "昆山杜克男足在首届“麒麟杯”夺冠"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 3,
+  "crawled_at": "2026-06-03T13:52:09+00:00",
+  "sequence": 291
+}

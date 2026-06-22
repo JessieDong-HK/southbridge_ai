@@ -1,0 +1,102 @@
+{
+  "id": "academics__minors__neural-science-a79897aec0",
+  "url": "https://shanghai.nyu.edu/academics/minors/neural-science",
+  "canonical_url": "https://shanghai.nyu.edu/academics/minors/neural-science",
+  "page_type": "academics",
+  "title": "Neural Science",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Neural Science\nNeural science (NS) is a collection of disciplines unified by a concern for the function of the brain. Experimental approaches in neural science vary from analyses of molecular and cellular mechanisms in nerve cells and groups of nerve cells to behavioral and psychological studies of whole organisms. We attract students who are interested in understanding the brain’s command of all its diverse functions including but not limited to the following questions: How do cell circuits enable us to read and speak? How and why do we form relationships? How do we think, remember, despair, or motivate? What are possible causes of devastating disorders of the brain and body, as well as ways to prevent or cure them?\nRequirements for the Minor\nChoose One\nNEUR-SHU 251 Behavioral and Integrative Neuroscience\nNEUR- SHU 210 Cellular and Molecular Neuroscience\nFaculty Mentors\nFaculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory.\nArea Head of Neuroscience\nUndergraduate Coordinator of Neuroscience",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Neural Science"
+    },
+    {
+      "type": "p",
+      "text": "Neural science (NS) is a collection of disciplines unified by a concern for the function of the brain. Experimental approaches in neural science vary from analyses of molecular and cellular mechanisms in nerve cells and groups of nerve cells to behavioral and psychological studies of whole organisms. We attract students who are interested in understanding the brain’s command of all its diverse functions including but not limited to the following questions: How do cell circuits enable us to read and speak? How and why do we form relationships? How do we think, remember, despair, or motivate? What are possible causes of devastating disorders of the brain and body, as well as ways to prevent or cure them?"
+    },
+    {
+      "type": "h3",
+      "text": "Requirements for the Minor"
+    },
+    {
+      "type": "p",
+      "text": "Choose One"
+    },
+    {
+      "type": "p",
+      "text": "NEUR-SHU 251 Behavioral and Integrative Neuroscience"
+    },
+    {
+      "type": "p",
+      "text": "NEUR- SHU 210 Cellular and Molecular Neuroscience"
+    },
+    {
+      "type": "h3",
+      "text": "Faculty Mentors"
+    },
+    {
+      "type": "p",
+      "text": "Faculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory."
+    },
+    {
+      "type": "p",
+      "text": "Area Head of Neuroscience"
+    },
+    {
+      "type": "p",
+      "text": "Undergraduate Coordinator of Neuroscience"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/zhong-lin_lu.jpg",
+      "alt": "Zhong-lin Lu",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/zhong-lin_lu-e641a85cff41.jpg",
+      "download_status": "downloaded",
+      "bytes": 104656,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/sukbin_lim.jpeg",
+      "alt": "Sukbin Lim",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/sukbin_lim-a050f51d2d59.jpeg",
+      "download_status": "downloaded",
+      "bytes": 789886,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/posting-minor",
+      "text": "Post a Minor",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory",
+      "text": "faculty directory",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/zhong-lin-lu",
+      "text": "Zhong-lin Lu",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/sukbin-lim",
+      "text": "Sukbin Lim",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 205,
+  "crawled_at": "2026-06-09T04:41:33+00:00",
+  "sequence": 1393
+}

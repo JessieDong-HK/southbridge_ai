@@ -1,0 +1,86 @@
+{
+  "id": "academics__faculty__directory__guodong-chen-4fd8959e6e",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/guodong-chen",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/guodong-chen",
+  "page_type": "academics",
+  "title": "Guodong",
+  "description": "Guodong Chen is an Assistant Professor of Finance at NYU Shanghai and a Global Network Assistant Professor at the Leonard N. Stern School of Business at NYU. Prior to joining NYU Shanghai, he was a PhD candidate at University of Michigan. He holds a PhD and dual MA degrees from University of",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Guodong Chen\nGuodong Chen is an Assistant Professor of Finance at NYU Shanghai and a Global Network Assistant Professor at the Leonard N. Stern School of Business at NYU. Prior to joining NYU Shanghai, he was a PhD candidate at University of Michigan. He holds a PhD and dual MA degrees from University of Michigan, an MA degree from Peking University, and a BS degree from University of Science and Technology of China. Professor Chen is a member of AFA, AEA, FMA, and Econometric Society.\nSelect Publications\n“Bank Ownership and Credit Growth in Emerging Markets During and After the 2008–09 Financial Crisis—A Cross-Regional Comparison,” (Joint with Yi Wu), IMF Working Paper, No. 14-171, 2014.\nEducation\nPhD, EconomicsUniversity of Michigan\nMA, Economics; StatisticsUniversity of Michigan\nMA, EconomicsPeking University\nBanking and Financial Intermediation\nHousehold Finance\nCorporate Finance\nFinancial Economics\nBusiness Independent Study\nCorporate Finance",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Guodong Chen"
+    },
+    {
+      "type": "p",
+      "text": "Guodong Chen is an Assistant Professor of Finance at NYU Shanghai and a Global Network Assistant Professor at the Leonard N. Stern School of Business at NYU. Prior to joining NYU Shanghai, he was a PhD candidate at University of Michigan. He holds a PhD and dual MA degrees from University of Michigan, an MA degree from Peking University, and a BS degree from University of Science and Technology of China. Professor Chen is a member of AFA, AEA, FMA, and Econometric Society."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "“Bank Ownership and Credit Growth in Emerging Markets During and After the 2008–09 Financial Crisis—A Cross-Regional Comparison,” (Joint with Yi Wu), IMF Working Paper, No. 14-171, 2014."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, EconomicsUniversity of Michigan"
+    },
+    {
+      "type": "li",
+      "text": "MA, Economics; StatisticsUniversity of Michigan"
+    },
+    {
+      "type": "li",
+      "text": "MA, EconomicsPeking University"
+    },
+    {
+      "type": "li",
+      "text": "Banking and Financial Intermediation"
+    },
+    {
+      "type": "li",
+      "text": "Household Finance"
+    },
+    {
+      "type": "li",
+      "text": "Corporate Finance"
+    },
+    {
+      "type": "li",
+      "text": "Financial Economics"
+    },
+    {
+      "type": "li",
+      "text": "Business Independent Study"
+    },
+    {
+      "type": "li",
+      "text": "Corporate Finance"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Guodong%20Chen%202026s.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/Guodong%20Chen%202026s.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 146,
+  "crawled_at": "2026-06-09T04:53:35+00:00",
+  "sequence": 2379
+}

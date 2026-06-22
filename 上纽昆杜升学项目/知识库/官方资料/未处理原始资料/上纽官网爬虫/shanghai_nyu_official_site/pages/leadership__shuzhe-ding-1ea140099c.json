@@ -1,0 +1,38 @@
+{
+  "id": "leadership__shuzhe-ding-1ea140099c",
+  "url": "https://shanghai.nyu.edu/leadership/shuzhe-ding",
+  "canonical_url": "https://shanghai.nyu.edu/leadership/shuzhe-ding",
+  "page_type": "leadership",
+  "title": "Shuzhe Ding",
+  "description": "Dr. Ding Shuzhe is Associate Vice Chancellor of NYU Shanghai and professor of kinesiology at East China Normal University. He was an associate dean for the School of Physical Education and Health for seven years and a director of ECNU's international exchange division for eight years. He is vice",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Shuzhe Ding\nDr. Ding Shuzhe is Associate Vice Chancellor of NYU Shanghai and professor of kinesiology at East China Normal University. He was an associate dean for the School of Physical Education and Health for seven years and a director of ECNU's international exchange division for eight years. He is vice chairman of the International Education Association Shanghai and Sport Health Division of the China Association of Gerontology and Geriatrics. Ding earned his PhD degree from ECNU in exercise biochemistry in 1999 and served as a visiting professor at St. Olaf College in Minnesota from 1997 to 1998 and the University College London from 2005 to 2006.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Shuzhe Ding"
+    },
+    {
+      "type": "p",
+      "text": "Dr. Ding Shuzhe is Associate Vice Chancellor of NYU Shanghai and professor of kinesiology at East China Normal University. He was an associate dean for the School of Physical Education and Health for seven years and a director of ECNU's international exchange division for eight years. He is vice chairman of the International Education Association Shanghai and Sport Health Division of the China Association of Gerontology and Geriatrics. Ding earned his PhD degree from ECNU in exercise biochemistry in 1999 and served as a visiting professor at St. Olaf College in Minnesota from 1997 to 1998 and the University College London from 2005 to 2006."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/profile/shuzhe-ding.jpg?itok=yxGDVF66",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 108,
+  "crawled_at": "2026-06-09T04:29:28+00:00",
+  "sequence": 218
+}

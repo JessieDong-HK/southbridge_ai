@@ -1,0 +1,132 @@
+{
+  "id": "news__when-our-memories-drift-hidden-patterns-behind-everyday-biases-2c4f3c86d5",
+  "url": "https://shanghai.nyu.edu/news/when-our-memories-drift-hidden-patterns-behind-everyday-biases",
+  "canonical_url": "https://shanghai.nyu.edu/news/when-our-memories-drift-hidden-patterns-behind-everyday-biases",
+  "page_type": "news",
+  "title": "When Our Memories Drift: Hidden Patterns Behind Everyday Biases",
+  "description": "Professor Sukbin Lim and her collaborators offer a new explanation for these memory errors.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "When Our Memories Drift: Hidden Patterns Behind Everyday Biases\nTwitter\nFacebook\nWeibo\nSometimes our memories play tricks on us. We might recall a friend wearing a blue shirt when it was really green, or remember a line in a painting as upright when it was actually tilted. Such errors are not random; they follow certain patterns that scientists call biases. For decades, researchers have been trying to uncover what causes these systematic distortions in our perception and memory.\nIn a recent study published in Neuron, Associate Professor of Neural Science Sukbin Lim and her collaborators from Seoul National University offer a new explanation for these memory errors. Their work proposes a unified mechanism that can account for two types of bias, stimulus-specific and decision-consistent, bridging insights from behavioral experiments, brain imaging, and computational modeling.\nStimulus-specific bias describes how our memories tend to drift toward certain preferred features in the environment. For instance, when people try to recall the angle of a line, they tend to report it as slightly repulsed away vertical or horizontal, which are orientations more common in our daily surroundings.\n“Our sensory systems are shaped by the world we live in,” Lim explained. “Because we encounter horizontal and vertical structures more often, from buildings to landscapes, our brains become more efficient at processing these orientations.” That efficiency, she added, can lead to a small but systematic repulsion.\nDecision-consistent bias emerges after we make a choice. Imagine you saw a line and decided it was tilted clockwise relative to a reference. Later, when asked to recall its angle, your memory might shift slightly further in that same direction, as if your brain were reinforcing your earlier decision.\n“It’s a form of confirmation tendency,” said Lim. “Once we make a choice, we tend to remember in ways that support that choice, especially under uncertain conditions.”\nIn the past, scientists believed these two biases arose from separate processes: one rooted in sensory perception, the other in decision-making. Lim and her collaborators found otherwise.\nIn the experiment, participants viewed a visual stimulus, a line at a certain orientation, and then performed two related tasks: making a quick decision about its direction and later recalling it from memory. The team introduced small timing changes in when decisions were made, allowing them to track how the participants’ biases evolved over time.\nWhat they found was surprising: the biases were not static, but in fact grew gradually during the delay period. Using a mathematical framework called a drift-diffusion model, Lim analyzed this gradual “drift” in working memory and confirmed that the systematic bias strengthens the longer the information is retained.\nTo understand what might be happening in the brain, the researchers also analyzed fMRI data, which showed similar patterns of drift in cortical activity. “Previously, people thought the stimulus-specific bias was caused only by sensory encoding,” Lim said. “But our results showed that memory can continue to distort the information; it’s a dynamic process.”\nLim and her collaborators probed deeper and built recurrent neural network (RNN) models, using computer systems that mimic how neurons interact over time. By training the network to perform the same memory and decision tasks, the team examined how different neural circuits might give rise to the observed behavior.\nThe model revealed an interesting feedback connection. “We found that signals from the decision-making area can flow back to the memory area and slightly alter the stored information,” explained Lim.“This feedback helps us make more confident choices, but at the cost of perfect memory.”\nTogether, the behavioral data, brain imaging, and computational modeling pointed to a single underlying principle: drift dynamics. These dynamics cause both the stimulus-specific and decision-consistent biases to grow gradually, offering a unifying explanation for how memory and decision-making interact.\nFor Lim, this study marks an expansion of her research focus. “In my earlier work, I mostly looked at the neural network level, how neurons connect and communicate within one area,” she reflected. “But through this collaboration, I’ve become more interested in how multiple areas, such as sensory, memory, and decision, interact together, and how behavior can reveal the underlying neural mechanisms.”\nLooking ahead, Lim hopes to explore these cross-area dynamics further. “Even for a simple memory task, other cognitive processes like decision-making can reshape what we remember,” she said. “Understanding these interactions will help us see how the brain balances accuracy and flexibility, and perhaps, why our imperfect memory is also what makes us human.”",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "When Our Memories Drift: Hidden Patterns Behind Everyday Biases"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Sometimes our memories play tricks on us. We might recall a friend wearing a blue shirt when it was really green, or remember a line in a painting as upright when it was actually tilted. Such errors are not random; they follow certain patterns that scientists call biases. For decades, researchers have been trying to uncover what causes these systematic distortions in our perception and memory."
+    },
+    {
+      "type": "p",
+      "text": "In a recent study published in Neuron, Associate Professor of Neural Science Sukbin Lim and her collaborators from Seoul National University offer a new explanation for these memory errors. Their work proposes a unified mechanism that can account for two types of bias, stimulus-specific and decision-consistent, bridging insights from behavioral experiments, brain imaging, and computational modeling."
+    },
+    {
+      "type": "p",
+      "text": "Stimulus-specific bias describes how our memories tend to drift toward certain preferred features in the environment. For instance, when people try to recall the angle of a line, they tend to report it as slightly repulsed away vertical or horizontal, which are orientations more common in our daily surroundings."
+    },
+    {
+      "type": "p",
+      "text": "“Our sensory systems are shaped by the world we live in,” Lim explained. “Because we encounter horizontal and vertical structures more often, from buildings to landscapes, our brains become more efficient at processing these orientations.” That efficiency, she added, can lead to a small but systematic repulsion."
+    },
+    {
+      "type": "p",
+      "text": "Decision-consistent bias emerges after we make a choice. Imagine you saw a line and decided it was tilted clockwise relative to a reference. Later, when asked to recall its angle, your memory might shift slightly further in that same direction, as if your brain were reinforcing your earlier decision."
+    },
+    {
+      "type": "p",
+      "text": "“It’s a form of confirmation tendency,” said Lim. “Once we make a choice, we tend to remember in ways that support that choice, especially under uncertain conditions.”"
+    },
+    {
+      "type": "p",
+      "text": "In the past, scientists believed these two biases arose from separate processes: one rooted in sensory perception, the other in decision-making. Lim and her collaborators found otherwise."
+    },
+    {
+      "type": "p",
+      "text": "In the experiment, participants viewed a visual stimulus, a line at a certain orientation, and then performed two related tasks: making a quick decision about its direction and later recalling it from memory. The team introduced small timing changes in when decisions were made, allowing them to track how the participants’ biases evolved over time."
+    },
+    {
+      "type": "p",
+      "text": "What they found was surprising: the biases were not static, but in fact grew gradually during the delay period. Using a mathematical framework called a drift-diffusion model, Lim analyzed this gradual “drift” in working memory and confirmed that the systematic bias strengthens the longer the information is retained."
+    },
+    {
+      "type": "p",
+      "text": "To understand what might be happening in the brain, the researchers also analyzed fMRI data, which showed similar patterns of drift in cortical activity. “Previously, people thought the stimulus-specific bias was caused only by sensory encoding,” Lim said. “But our results showed that memory can continue to distort the information; it’s a dynamic process.”"
+    },
+    {
+      "type": "p",
+      "text": "Lim and her collaborators probed deeper and built recurrent neural network (RNN) models, using computer systems that mimic how neurons interact over time. By training the network to perform the same memory and decision tasks, the team examined how different neural circuits might give rise to the observed behavior."
+    },
+    {
+      "type": "p",
+      "text": "The model revealed an interesting feedback connection. “We found that signals from the decision-making area can flow back to the memory area and slightly alter the stored information,” explained Lim.“This feedback helps us make more confident choices, but at the cost of perfect memory.”"
+    },
+    {
+      "type": "p",
+      "text": "Together, the behavioral data, brain imaging, and computational modeling pointed to a single underlying principle: drift dynamics. These dynamics cause both the stimulus-specific and decision-consistent biases to grow gradually, offering a unifying explanation for how memory and decision-making interact."
+    },
+    {
+      "type": "p",
+      "text": "For Lim, this study marks an expansion of her research focus. “In my earlier work, I mostly looked at the neural network level, how neurons connect and communicate within one area,” she reflected. “But through this collaboration, I’ve become more interested in how multiple areas, such as sensory, memory, and decision, interact together, and how behavior can reveal the underlying neural mechanisms.”"
+    },
+    {
+      "type": "p",
+      "text": "Looking ahead, Lim hopes to explore these cross-area dynamics further. “Even for a simple memory task, other cognitive processes like decision-making can reshape what we remember,” she said. “Understanding these interactions will help us see how the brain balances accuracy and flexibility, and perhaps, why our imperfect memory is also what makes us human.”"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/when_our_memories_drift_hidden_patterns_behind_everyday_biases_1.jpg?itok=U9RlJWgb",
+      "alt": "sukbin study",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=When%20Our%20Memories%20Drift%3A%20Hidden%20Patterns%20Behind%20Everyday%20Biases&url=https%3A//shanghai.nyu.edu/news/when-our-memories-drift-hidden-patterns-behind-everyday-biases&status=When%20Our%20Memories%20Drift%3A%20Hidden%20Patterns%20Behind%20Everyday%20Biases%20https%3A//shanghai.nyu.edu/news/when-our-memories-drift-hidden-patterns-behind-everyday-biases",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/when-our-memories-drift-hidden-patterns-behind-everyday-biases&title=When%20Our%20Memories%20Drift%3A%20Hidden%20Patterns%20Behind%20Everyday%20Biases",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/when-our-memories-drift-hidden-patterns-behind-everyday-biases&title=When%20Our%20Memories%20Drift%3A%20Hidden%20Patterns%20Behind%20Everyday%20Biases",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0896627325005100?via%3Dihub",
+      "text": "Neuron",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/sukbin-lim",
+      "text": "Sukbin Lim",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 755,
+  "crawled_at": "2026-06-09T04:39:35+00:00",
+  "sequence": 1235
+}

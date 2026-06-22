@@ -1,0 +1,145 @@
+{
+  "id": "news__when-ai-says-one-thing-does-another-f2350960d2",
+  "url": "https://shanghai.nyu.edu/news/when-ai-says-one-thing-does-another",
+  "canonical_url": "https://shanghai.nyu.edu/news/when-ai-says-one-thing-does-another",
+  "page_type": "news",
+  "title": "When AI Says One Thing but Does Another",
+  "description": "Do AI systems behave according to the values they claim to uphold?",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "When AI Says One Thing but Does Another\nTwitter\nFacebook\nWeibo\nAI tools are quickly becoming part of everyday life, from chatbots to job applicant screening systems or ones that support doctors to make medical decisions. When prompted, many of these systems can articulate values, for example claiming to oppose bias, avoid dominating users, or prioritize honesty. But when put to use in real-world situations, do these systems behave according to the values they claim to uphold?\nA new study led by Assistant Professor of Computer Science Shen Hua tackles that question head-on. In “Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values?”, Shen and co-authors Nicholas Clark and Tanu Mitra from University of Washington introduce a framework for testing whether large language models (LLMs) behave consistently with the values they claim to hold. The paper received an Outstanding Paper Award at the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), a prestigious honor recognizing the top 0.5% of accepted papers.\nProfessor Shen receiving the award at EMNLP 2025\nShen traces the project back to a basic question she encountered while working on human-AI alignment: “Alignment is a two-way thing—humans and AI aligning with each other—and that leads to a fundamental question,” she asks, “ align for what?” Through extensive literature review, she said, her team found a clear answer: a key goal of human-AI alignment is “value alignment.” They also found a gap: while many studies ask models to state their values, there was little systematic work examining whether models act in accordance with those values across diverse real-world contexts.\nTo fill that gap, the team built ValueActionLens, a context-aware framework that compares what a model claims about a value with how it acts in a value-relevant situation. The framework is supported by a dataset of 14,784 value-informed actions spanning 12 countries, 11 social topics, and 56 human values drawn from Schwartz’s Theory of Basic Values, a widely used psychology framework for describing universal human values.\nThe evaluation is designed to directly compare “what an LLM says” with “what it does” First, a model is asked how strongly it agrees or disagrees with a value (such as “social power”) in a specific context. Then it is asked to choose between two plausible actions, one consistent with agreeing with that value and the other consistent with disagreeing. Because no existing resource offered large-scale, context-matched action pairs, the team created the dataset through a human-in-the-loop process, including expert review and cross-cultural validation.\nWhen the researchers tested multiple widely used LLMs, they found that the “value-action gap” is real: models do not always “do” what they “say” they believe. “LLMs’ value and action gap is large in many cases,” Shen said. “They don’t always ‘say’ what they ‘do’, or ‘do’ what they ‘say.’” She added that the gap is often highly context-dependent—models may appear aligned in one setting but drift in another.\nOne case, in which an AI home assistant bot is asked to help a Nigerian family make healthcare decisions illustrates that value gap. While the AI assistant claims to disagree with dominance, in actuality it chooses to make decisions for the family and ensure everyone follows its recommendation, revealing a clear mismatch between stated values and real choices.\nWhy does this matter? Shen emphasized that the risks are not limited to the “usual suspects” like fairness checklists. Misalignment around values such as social power or loyalty can shape how AI behaves in subtle but consequential ways, especially in high-stakes settings where people may rely on AI without paying close attention to how those suggestions steer decisions.\nProfessor Shen joined NYU Shanghai in fall 2025 as an assistant professor of computer science\n“This study is among the first to systematically evaluate whether models follow through on their stated values, and it draws attention to overlooked but important risk areas, such as social power and loyalty,” said NYU Shanghai’s Interim Dean of Computer Science, Data Science, and Engineering Nasir Memon. “That’s one reason this paper stood out at EMNLP.” He noted that Shen’s research strengthens the university’s efforts to advance responsible, human-centered AI.\nLooking ahead, Shen sees two major research directions. First, she wants to study how models handle trade-offs among values, which can shift along a spectrum of priorities rather than fitting into simple binaries. Second, she aims to capture how different people and communities hold different values, and how AI systems could be tailored accordingly to each user group.\nAs she explained, the “right” value set may differ depending on the situation, culture, or community. For example, healthcare scenarios may demand safer and more conservative behavior, while creative work demands exploration and novelty. Ultimately, she argues, researchers must learn how to identify the values a specific situation needs, and then find ways to incorporate those values into AI systems.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "When AI Says One Thing but Does Another"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "AI tools are quickly becoming part of everyday life, from chatbots to job applicant screening systems or ones that support doctors to make medical decisions. When prompted, many of these systems can articulate values, for example claiming to oppose bias, avoid dominating users, or prioritize honesty. But when put to use in real-world situations, do these systems behave according to the values they claim to uphold?"
+    },
+    {
+      "type": "p",
+      "text": "A new study led by Assistant Professor of Computer Science Shen Hua tackles that question head-on. In “Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values?”, Shen and co-authors Nicholas Clark and Tanu Mitra from University of Washington introduce a framework for testing whether large language models (LLMs) behave consistently with the values they claim to hold. The paper received an Outstanding Paper Award at the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), a prestigious honor recognizing the top 0.5% of accepted papers."
+    },
+    {
+      "type": "figcaption",
+      "text": "Professor Shen receiving the award at EMNLP 2025"
+    },
+    {
+      "type": "p",
+      "text": "Shen traces the project back to a basic question she encountered while working on human-AI alignment: “Alignment is a two-way thing—humans and AI aligning with each other—and that leads to a fundamental question,” she asks, “ align for what?” Through extensive literature review, she said, her team found a clear answer: a key goal of human-AI alignment is “value alignment.” They also found a gap: while many studies ask models to state their values, there was little systematic work examining whether models act in accordance with those values across diverse real-world contexts."
+    },
+    {
+      "type": "p",
+      "text": "To fill that gap, the team built ValueActionLens, a context-aware framework that compares what a model claims about a value with how it acts in a value-relevant situation. The framework is supported by a dataset of 14,784 value-informed actions spanning 12 countries, 11 social topics, and 56 human values drawn from Schwartz’s Theory of Basic Values, a widely used psychology framework for describing universal human values."
+    },
+    {
+      "type": "p",
+      "text": "The evaluation is designed to directly compare “what an LLM says” with “what it does” First, a model is asked how strongly it agrees or disagrees with a value (such as “social power”) in a specific context. Then it is asked to choose between two plausible actions, one consistent with agreeing with that value and the other consistent with disagreeing. Because no existing resource offered large-scale, context-matched action pairs, the team created the dataset through a human-in-the-loop process, including expert review and cross-cultural validation."
+    },
+    {
+      "type": "p",
+      "text": "When the researchers tested multiple widely used LLMs, they found that the “value-action gap” is real: models do not always “do” what they “say” they believe. “LLMs’ value and action gap is large in many cases,” Shen said. “They don’t always ‘say’ what they ‘do’, or ‘do’ what they ‘say.’” She added that the gap is often highly context-dependent—models may appear aligned in one setting but drift in another."
+    },
+    {
+      "type": "p",
+      "text": "One case, in which an AI home assistant bot is asked to help a Nigerian family make healthcare decisions illustrates that value gap. While the AI assistant claims to disagree with dominance, in actuality it chooses to make decisions for the family and ensure everyone follows its recommendation, revealing a clear mismatch between stated values and real choices."
+    },
+    {
+      "type": "p",
+      "text": "Why does this matter? Shen emphasized that the risks are not limited to the “usual suspects” like fairness checklists. Misalignment around values such as social power or loyalty can shape how AI behaves in subtle but consequential ways, especially in high-stakes settings where people may rely on AI without paying close attention to how those suggestions steer decisions."
+    },
+    {
+      "type": "figcaption",
+      "text": "Professor Shen joined NYU Shanghai in fall 2025 as an assistant professor of computer science"
+    },
+    {
+      "type": "p",
+      "text": "“This study is among the first to systematically evaluate whether models follow through on their stated values, and it draws attention to overlooked but important risk areas, such as social power and loyalty,” said NYU Shanghai’s Interim Dean of Computer Science, Data Science, and Engineering Nasir Memon. “That’s one reason this paper stood out at EMNLP.” He noted that Shen’s research strengthens the university’s efforts to advance responsible, human-centered AI."
+    },
+    {
+      "type": "p",
+      "text": "Looking ahead, Shen sees two major research directions. First, she wants to study how models handle trade-offs among values, which can shift along a spectrum of priorities rather than fitting into simple binaries. Second, she aims to capture how different people and communities hold different values, and how AI systems could be tailored accordingly to each user group."
+    },
+    {
+      "type": "p",
+      "text": "As she explained, the “right” value set may differ depending on the situation, culture, or community. For example, healthcare scenarios may demand safer and more conservative behavior, while creative work demands exploration and novelty. Ultimately, she argues, researchers must learn how to identify the values a specific situation needs, and then find ways to incorporate those values into AI systems."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/diwen_-_when_ai_says_one_thing_but_does_another_0.jpg?itok=AWqlz7K1",
+      "alt": "Professor Shen joined NYU Shanghai in fall 2025 as an assistant professor of computer science",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/diwen_-_when_ai_says_one_thing_but_does_another_0-a2b10d212d2b.jpg",
+      "download_status": "downloaded",
+      "bytes": 90406,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/When%20AI%20Says%20One%20Thing%20but%20Does%20Another%20%5BRecovered%5D-02.jpg",
+      "alt": "Professor Shen receiving the award at EMNLP 2025",
+      "caption": "Professor Shen receiving the award at EMNLP 2025",
+      "source": "img",
+      "local_path": "_shared/When-20AI-20Says-20One-20Thing-20but-20Does-20Anothe-27308e4d5b10.jpg",
+      "download_status": "downloaded",
+      "bytes": 640336,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/When%20AI%20Says%20One%20Thing%20but%20Does%20Another%20%5BRecovered%5D-03.jpg",
+      "alt": "Professor Shen joined NYU Shanghai in fall 2025 as an assistant professor of computer science",
+      "caption": "Professor Shen joined NYU Shanghai in fall 2025 as an assistant professor of computer science",
+      "source": "img",
+      "local_path": "_shared/When-20AI-20Says-20One-20Thing-20but-20Does-20Anothe-d2d803e450ed.jpg",
+      "download_status": "downloaded",
+      "bytes": 711709,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=When%20AI%20Says%20One%20Thing%20but%20Does%20Another&url=https%3A//shanghai.nyu.edu/news/when-ai-says-one-thing-does-another&status=When%20AI%20Says%20One%20Thing%20but%20Does%20Another%20https%3A//shanghai.nyu.edu/news/when-ai-says-one-thing-does-another",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/when-ai-says-one-thing-does-another&title=When%20AI%20Says%20One%20Thing%20but%20Does%20Another",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/when-ai-says-one-thing-does-another&title=When%20AI%20Says%20One%20Thing%20but%20Does%20Another",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/hua-shen",
+      "text": "Shen Hua",
+      "internal": true
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.15463",
+      "text": "“Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values?”",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 837,
+  "crawled_at": "2026-06-09T04:39:23+00:00",
+  "sequence": 1220
+}

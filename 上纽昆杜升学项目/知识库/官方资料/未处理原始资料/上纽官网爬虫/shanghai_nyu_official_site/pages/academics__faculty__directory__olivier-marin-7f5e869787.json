@@ -1,0 +1,117 @@
+{
+  "id": "academics__faculty__directory__olivier-marin-7f5e869787",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/olivier-marin",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/olivier-marin",
+  "page_type": "academics",
+  "title": "Olivier",
+  "description": "Olivier-Gilles Marin is Professor of Practice in Computer Science at NYU Shanghai and a tenured faculty member (Maître de Conférences) at Sorbonne Université in Paris, France. He has over twenty years of international experience in teaching, research, and academic leadership across Europe, North and",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Olivier Marin\nOlivier-Gilles Marin is Professor of Practice in Computer Science at NYU Shanghai and a tenured faculty member (Maître de Conférences) at Sorbonne Université in Paris, France. He has over twenty years of international experience in teaching, research, and academic leadership across Europe, North and South America, and China. At NYU Shanghai, he built the undergraduate Computer Science curriculum from the ground up and has served in multiple senior leadership roles, including Interim Dean and Associate Dean of Arts and Sciences. His research focuses on distributed systems, with active projects funded by the French National Research Agency (ANR) and the National Natural Science Foundation of China (NSFC).\nSelect Publications\nP. Sens, L. Arantes, A. G. De Moraes Rossetto, O. Marin (2024). Stab-FD: A cooperative and adaptive failure detector for wide area networks. Journal of Parallel and Distributed Computing, 186.\nXiaonan Li, O. Marin (2022). Towards Implementing ML-Based Failure Detectors. EDCC’22: 18th European Dependable Computing Conference.\nLeyi Sun, Yifan Zhuo, O. Marin (2021). Simple yet Efficient Deployment of Scientific Applications in the Cloud. ICPADS’21: IEEE International Conference on Parallel and Distributed Systems.\nX. Bonnaire, R. Cortes, F. Kordon, O. Marin (2017). ASCENT: a Provably-Terminating Decentralized Logging Service. The Computer Journal, 60(12), 1889–1911.\nMarin O., Bertier M., Sens P. (2003). DARX – A Framework for the Fault-Tolerant Support of Agent Software. ISSRE: IEEE International Symposium on Software Reliability Engineering.\nEducation\nPhD (Doctor Europaeus), Computer ScienceUniversité du Havre, France\nMS, Distributed SystemsUniversité Paris 6 – Pierre & Marie Curie, France\nDistributed systems\nFault tolerance\nScalability.\nHis work bridges distributed algorithms and systems implementation, with applications spanning collective AI, distributed quantum computing, cloud infrastructure, and edge-to-cloud coordination.\nComputer Science Senior Project\nData Structures\nDistributed Systems\nIntroduction to Computer Programming\nOperating Systems",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Olivier Marin"
+    },
+    {
+      "type": "p",
+      "text": "Olivier-Gilles Marin is Professor of Practice in Computer Science at NYU Shanghai and a tenured faculty member (Maître de Conférences) at Sorbonne Université in Paris, France. He has over twenty years of international experience in teaching, research, and academic leadership across Europe, North and South America, and China. At NYU Shanghai, he built the undergraduate Computer Science curriculum from the ground up and has served in multiple senior leadership roles, including Interim Dean and Associate Dean of Arts and Sciences. His research focuses on distributed systems, with active projects funded by the French National Research Agency (ANR) and the National Natural Science Foundation of China (NSFC)."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "P. Sens, L. Arantes, A. G. De Moraes Rossetto, O. Marin (2024). Stab-FD: A cooperative and adaptive failure detector for wide area networks. Journal of Parallel and Distributed Computing, 186."
+    },
+    {
+      "type": "li",
+      "text": "Xiaonan Li, O. Marin (2022). Towards Implementing ML-Based Failure Detectors. EDCC’22: 18th European Dependable Computing Conference."
+    },
+    {
+      "type": "li",
+      "text": "Leyi Sun, Yifan Zhuo, O. Marin (2021). Simple yet Efficient Deployment of Scientific Applications in the Cloud. ICPADS’21: IEEE International Conference on Parallel and Distributed Systems."
+    },
+    {
+      "type": "li",
+      "text": "X. Bonnaire, R. Cortes, F. Kordon, O. Marin (2017). ASCENT: a Provably-Terminating Decentralized Logging Service. The Computer Journal, 60(12), 1889–1911."
+    },
+    {
+      "type": "li",
+      "text": "Marin O., Bertier M., Sens P. (2003). DARX – A Framework for the Fault-Tolerant Support of Agent Software. ISSRE: IEEE International Symposium on Software Reliability Engineering."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD (Doctor Europaeus), Computer ScienceUniversité du Havre, France"
+    },
+    {
+      "type": "li",
+      "text": "MS, Distributed SystemsUniversité Paris 6 – Pierre & Marie Curie, France"
+    },
+    {
+      "type": "li",
+      "text": "Distributed systems"
+    },
+    {
+      "type": "li",
+      "text": "Fault tolerance"
+    },
+    {
+      "type": "li",
+      "text": "Scalability."
+    },
+    {
+      "type": "p",
+      "text": "His work bridges distributed algorithms and systems implementation, with applications spanning collective AI, distributed quantum computing, cloud infrastructure, and edge-to-cloud coordination."
+    },
+    {
+      "type": "li",
+      "text": "Computer Science Senior Project"
+    },
+    {
+      "type": "li",
+      "text": "Data Structures"
+    },
+    {
+      "type": "li",
+      "text": "Distributed Systems"
+    },
+    {
+      "type": "li",
+      "text": "Introduction to Computer Programming"
+    },
+    {
+      "type": "li",
+      "text": "Operating Systems"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/selected-capture_one_catalog0440.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/selected-capture_one_catalog0440-2583abf8e021.jpg",
+      "download_status": "downloaded",
+      "bytes": 122090,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://wp.nyu.edu/omarin",
+      "text": "https://wp.nyu.edu/omarin/",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 296,
+  "crawled_at": "2026-06-09T04:43:14+00:00",
+  "sequence": 1539
+}

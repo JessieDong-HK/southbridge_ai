@@ -1,0 +1,34 @@
+{
+  "id": "campus-life-111d962157",
+  "url": "https://shanghai.nyu.edu/campus-life",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life",
+  "page_type": "campus-life",
+  "title": "Student Life",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Student Life",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Student Life"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/campus-life/welcome_0.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/campus-life/welcome_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:32:26+00:00",
+  "sequence": 573
+}

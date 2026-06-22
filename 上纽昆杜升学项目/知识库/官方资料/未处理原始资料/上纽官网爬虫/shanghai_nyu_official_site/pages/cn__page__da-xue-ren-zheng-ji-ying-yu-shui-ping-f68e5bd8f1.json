@@ -1,0 +1,97 @@
+{
+  "id": "cn__page__da-xue-ren-zheng-ji-ying-yu-shui-ping-f68e5bd8f1",
+  "url": "https://shanghai.nyu.edu/cn/page/da-xue-ren-zheng-ji-ying-yu-shui-ping",
+  "canonical_url": "https://shanghai.nyu.edu/cn/page/da-xue-ren-zheng-ji-ying-yu-shui-ping",
+  "page_type": "cn",
+  "title": "大学认证及英语水平",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "大学认证及英语水平\n关于校名的说明\n大学资质声明\n英语水平\n上海纽约大学是获中美双方教育部认可的高校，教学语言是英语，我校毕业学生也将获得中美两张学位证书。因此学生在申请海外研究生院时通常无需提供英语水平考试成绩。在申请时，请提前确认研究生院的英语语言能力要求，并向其提交“上海纽约大学资质声明”解释我校认证情况。\n部分研究生院校在审读“上海纽约大学资质声明”后，或仍要求学生提供英语水平成绩。遇此情况，请访问以下网站，了解考试中心和考试日期的相关信息，以便在申请截止日期前安排考试。\nTOEFL 托福\nIELTS 雅思",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "大学认证及英语水平"
+    },
+    {
+      "type": "p",
+      "text": "关于校名的说明"
+    },
+    {
+      "type": "p",
+      "text": "大学资质声明"
+    },
+    {
+      "type": "p",
+      "text": "英语水平"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学是获中美双方教育部认可的高校，教学语言是英语，我校毕业学生也将获得中美两张学位证书。因此学生在申请海外研究生院时通常无需提供英语水平考试成绩。在申请时，请提前确认研究生院的英语语言能力要求，并向其提交“上海纽约大学资质声明”解释我校认证情况。"
+    },
+    {
+      "type": "p",
+      "text": "部分研究生院校在审读“上海纽约大学资质声明”后，或仍要求学生提供英语水平成绩。遇此情况，请访问以下网站，了解考试中心和考试日期的相关信息，以便在申请截止日期前安排考试。"
+    },
+    {
+      "type": "li",
+      "text": "TOEFL 托福"
+    },
+    {
+      "type": "li",
+      "text": "IELTS 雅思"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-3-07-1.jpg",
+      "alt": "School",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-3-07-1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-3-07-2.jpg",
+      "alt": "School",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-3-07-3.jpg",
+      "alt": "School",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-cdc-3-07-3-ddf3fd9b49d4.jpg",
+      "download_status": "downloaded",
+      "bytes": 5414,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://docs.google.com/document/d/1VIppoUQUhsYhTOkz_IIx-RK8rb3ybV8cEVf7IQw0C0c/edit?tab=t.0",
+      "text": "上海纽约大学资质声明",
+      "internal": false
+    },
+    {
+      "url": "http://www.ets.org/toefl",
+      "text": "TOEFL 托福",
+      "internal": false
+    },
+    {
+      "url": "http://www.ielts.org/",
+      "text": "IELTS 雅思",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 25,
+  "crawled_at": "2026-06-09T04:36:56+00:00",
+  "sequence": 979
+}

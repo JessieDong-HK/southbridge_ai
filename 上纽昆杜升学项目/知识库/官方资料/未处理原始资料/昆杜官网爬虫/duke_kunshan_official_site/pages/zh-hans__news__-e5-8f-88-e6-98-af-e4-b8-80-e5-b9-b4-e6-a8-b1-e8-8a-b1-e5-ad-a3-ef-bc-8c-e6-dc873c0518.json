@@ -1,0 +1,36 @@
+{
+  "id": "zh-hans__news__-e5-8f-88-e6-98-af-e4-b8-80-e5-b9-b4-e6-a8-b1-e8-8a-b1-e5-ad-a3-ef-bc-8c-e6-dc873c0518",
+  "url": "https://www.dukekunshan.edu.cn/zh-hans/news/%e5%8f%88%e6%98%af%e4%b8%80%e5%b9%b4%e6%a8%b1%e8%8a%b1%e5%ad%a3%ef%bc%8c%e6%98%86%e6%9d%9c%e5%ad%a6%e7%94%9f%e7%9a%84%e6%ad%a6%e5%a4%a7%e4%b9%8b%e6%97%85",
+  "canonical_url": "https://www.dukekunshan.edu.cn/zh-hans/news/又是一年樱花季，昆杜学生的武大之旅/",
+  "page_type": "zh-hans",
+  "title": "又是一年樱花季，昆杜学生的武大之旅",
+  "description": "",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "2024-03-26T06:27:22+00:00",
+  "sitemap_lastmod": "2024-03-26T06:27:22+00:00",
+  "text": "又是一年樱花季，昆杜学生的武大之旅",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "又是一年樱花季，昆杜学生的武大之旅"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-03T13:52:45+00:00",
+  "sequence": 347
+}

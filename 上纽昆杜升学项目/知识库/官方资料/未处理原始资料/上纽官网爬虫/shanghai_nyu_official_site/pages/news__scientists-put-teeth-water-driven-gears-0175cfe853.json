@@ -1,0 +1,139 @@
+{
+  "id": "news__scientists-put-teeth-water-driven-gears-0175cfe853",
+  "url": "https://shanghai.nyu.edu/news/scientists-put-teeth-water-driven-gears",
+  "canonical_url": "https://shanghai.nyu.edu/news/scientists-put-teeth-water-driven-gears",
+  "page_type": "news",
+  "title": "Scientists Put Teeth Into Water-Driven Gears",
+  "description": "“Fluid gears” invention offers promise for improving mechanical devices",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Scientists Put Teeth Into Water-Driven Gears\nTwitter\nFacebook\nWeibo\nA team of NYU scientists, led by Professor of Physics and Mathematics Jun Zhang, has created a gear mechanism that relies on fluids to generate rotation. The invention holds potential for a new generation of mechanical devices that offer greater flexibility and durability than do existing gears—whose origins date back to ancient China.\nThe breakthrough is reported in the journal Physical Review Letters.\n“We invented new types of gears that engage by spinning up fluid rather than interlocking teeth—and we discovered new capabilities for controlling the rotation speed and even direction,” says Jun Zhang, a professor of mathematics and physics at NYU and NYU Shanghai and the senior author of the paper.\nGears are among the oldest machine parts, dating back to 3,000 BCE in China, where they were used in two-wheeled chariots to cross the Gobi Desert. Over time, they’ve been deployed in the famous Antikythera mechanism, which predicted astronomical positions in ancient Greece, as well as in windmills, clocks, and, now, robotics.\nRemnants of the Antikythera mechanism, displayed in the National Archaeological Museum in Athens, Greece. Peulle, via Wikimedia Commons\nHowever, gears’ teeth, whether wood, metal, or plastic, are inflexible, so are vulnerable to breaking—and they must interlock perfectly to work.\nGiven these limitations, Zhang and his colleagues—Leif Ristroph, an associate professor of mathematics at NYU’s Courant Institute School of Mathematics, Computing, and Data Science, and Jesse Etan Smith, an NYU doctoral candidate—wanted to know if it was possible to make devices that function like gears, but that don’t need teeth nor to be in contact with each other in order to function.\nRecognizing that flowing air and water have been used to rotate structures such as turbines, the authors hypothesized that fluids could also serve as gears’ teeth if their flows could be accurately directed.\nTo explore this, the researchers conducted an intricate series of experiments that included immersing cylinders, or rotors, in liquid—a glycerol-water solution whose properties, such as viscosity and density, the researchers could manipulate.\nIn these experiments, one cylinder was actively powered to rotate while the other was unpowered or passive. The researchers hypothesized that the active cylinder could generate fluid flows to cause the passive one to rotate. To monitor this, they added tiny bubbles to the mixture—this allowed the scientists to track the movement of the flows and, specifically, to see how the fluids functioned as gears. They ran experiments with the cylinders at various distances and with the active cylinder rotating at different speeds.\nA gear mechanism created by NYU researchers relies on water to generate movement. Under some conditions, the rotors spin in the same direction like pulleys looped together with a belt (above left); in others, the rotors spin in opposite directions like a pair of gears (above right). Videos courtesy of NYU's Applied Mathematics Laboratory.\nOverall, they found that the active cylinders, combined with fluid flows, could prompt the passive cylinders to move in ways that were sometimes like gears and sometimes like pulleys connected by a belt. Under conditions where the cylinders were very close, the flows functioned like teeth that engage on the facing sides of two gears and cause them to rotate—the swirling flows could effectively grip the passive rotor and cause it to spin in the opposite direction as the active one. However, when the cylinders were farther apart and the active one spun faster, the flows looped around the outside of the passive one, akin to a belt around a pulley that then rotates in the same direction as the active one.\nThe paper’s authors point to potential uses for gears or pulley systems—and advantages over current mechanisms.\n“Regular gears have to be carefully designed so their teeth mesh just right, and any defect, incorrect spacing, or bit of grit causes them to jam,” explains Ristroph. “Fluid gears are free of all these problems, and the speed and even direction can be changed in ways not possible with mechanical gears.”",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Scientists Put Teeth Into Water-Driven Gears"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "A team of NYU scientists, led by Professor of Physics and Mathematics Jun Zhang, has created a gear mechanism that relies on fluids to generate rotation. The invention holds potential for a new generation of mechanical devices that offer greater flexibility and durability than do existing gears—whose origins date back to ancient China."
+    },
+    {
+      "type": "p",
+      "text": "The breakthrough is reported in the journal Physical Review Letters."
+    },
+    {
+      "type": "p",
+      "text": "“We invented new types of gears that engage by spinning up fluid rather than interlocking teeth—and we discovered new capabilities for controlling the rotation speed and even direction,” says Jun Zhang, a professor of mathematics and physics at NYU and NYU Shanghai and the senior author of the paper."
+    },
+    {
+      "type": "p",
+      "text": "Gears are among the oldest machine parts, dating back to 3,000 BCE in China, where they were used in two-wheeled chariots to cross the Gobi Desert. Over time, they’ve been deployed in the famous Antikythera mechanism, which predicted astronomical positions in ancient Greece, as well as in windmills, clocks, and, now, robotics."
+    },
+    {
+      "type": "figcaption",
+      "text": "Remnants of the Antikythera mechanism, displayed in the National Archaeological Museum in Athens, Greece. Peulle, via Wikimedia Commons"
+    },
+    {
+      "type": "p",
+      "text": "However, gears’ teeth, whether wood, metal, or plastic, are inflexible, so are vulnerable to breaking—and they must interlock perfectly to work."
+    },
+    {
+      "type": "p",
+      "text": "Given these limitations, Zhang and his colleagues—Leif Ristroph, an associate professor of mathematics at NYU’s Courant Institute School of Mathematics, Computing, and Data Science, and Jesse Etan Smith, an NYU doctoral candidate—wanted to know if it was possible to make devices that function like gears, but that don’t need teeth nor to be in contact with each other in order to function."
+    },
+    {
+      "type": "p",
+      "text": "Recognizing that flowing air and water have been used to rotate structures such as turbines, the authors hypothesized that fluids could also serve as gears’ teeth if their flows could be accurately directed."
+    },
+    {
+      "type": "p",
+      "text": "To explore this, the researchers conducted an intricate series of experiments that included immersing cylinders, or rotors, in liquid—a glycerol-water solution whose properties, such as viscosity and density, the researchers could manipulate."
+    },
+    {
+      "type": "p",
+      "text": "In these experiments, one cylinder was actively powered to rotate while the other was unpowered or passive. The researchers hypothesized that the active cylinder could generate fluid flows to cause the passive one to rotate. To monitor this, they added tiny bubbles to the mixture—this allowed the scientists to track the movement of the flows and, specifically, to see how the fluids functioned as gears. They ran experiments with the cylinders at various distances and with the active cylinder rotating at different speeds."
+    },
+    {
+      "type": "p",
+      "text": "A gear mechanism created by NYU researchers relies on water to generate movement. Under some conditions, the rotors spin in the same direction like pulleys looped together with a belt (above left); in others, the rotors spin in opposite directions like a pair of gears (above right). Videos courtesy of NYU's Applied Mathematics Laboratory."
+    },
+    {
+      "type": "p",
+      "text": "Overall, they found that the active cylinders, combined with fluid flows, could prompt the passive cylinders to move in ways that were sometimes like gears and sometimes like pulleys connected by a belt. Under conditions where the cylinders were very close, the flows functioned like teeth that engage on the facing sides of two gears and cause them to rotate—the swirling flows could effectively grip the passive rotor and cause it to spin in the opposite direction as the active one. However, when the cylinders were farther apart and the active one spun faster, the flows looped around the outside of the passive one, akin to a belt around a pulley that then rotates in the same direction as the active one."
+    },
+    {
+      "type": "p",
+      "text": "The paper’s authors point to potential uses for gears or pulley systems—and advantages over current mechanisms."
+    },
+    {
+      "type": "p",
+      "text": "“Regular gears have to be carefully designed so their teeth mesh just right, and any defect, incorrect spacing, or bit of grit causes them to jam,” explains Ristroph. “Fluid gears are free of all these problems, and the speed and even direction can be changed in ways not possible with mechanical gears.”"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/scientists_put_teeth_into_water-driven_gears-01.jpg?itok=II7y9X9R",
+      "alt": "jun zhang study",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/scientists_put_teeth_into_water-driven_gears-01-5c80cb1130bb.jpg",
+      "download_status": "downloaded",
+      "bytes": 82247,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Scientists%20Put%20Teeth%20Into%20Water-Driven%20Gears-02.jpg",
+      "alt": "Remnants of the Antikythera mechanism, displayed in the National Archaeological Museum in Athens, Greece. Peulle, via Wikimedia Commons",
+      "caption": "Remnants of the Antikythera mechanism, displayed in the National Archaeological Museum in Athens, Greece. Peulle, via Wikimedia Commons",
+      "source": "img",
+      "local_path": "_shared/Scientists-20Put-20Teeth-20Into-20Water-Driven-20Gea-b081664d46d0.jpg",
+      "download_status": "downloaded",
+      "bytes": 690640,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Scientists%20Put%20Teeth%20Into%20Water-Driven%20Gears&url=https%3A//shanghai.nyu.edu/news/scientists-put-teeth-water-driven-gears&status=Scientists%20Put%20Teeth%20Into%20Water-Driven%20Gears%20https%3A//shanghai.nyu.edu/news/scientists-put-teeth-water-driven-gears",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/scientists-put-teeth-water-driven-gears&title=Scientists%20Put%20Teeth%20Into%20Water-Driven%20Gears",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/scientists-put-teeth-water-driven-gears&title=Scientists%20Put%20Teeth%20Into%20Water-Driven%20Gears",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jun-zhang",
+      "text": "Jun Zhang",
+      "internal": true
+    },
+    {
+      "url": "https://journals.aps.org/prl/abstract/10.1103/m6ft-ll2c",
+      "text": "Physical Review Letters",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 684,
+  "crawled_at": "2026-06-09T04:39:24+00:00",
+  "sequence": 1221
+}

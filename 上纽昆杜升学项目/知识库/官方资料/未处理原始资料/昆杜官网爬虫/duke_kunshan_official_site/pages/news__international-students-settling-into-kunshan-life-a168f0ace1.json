@@ -1,0 +1,36 @@
+{
+  "id": "news__international-students-settling-into-kunshan-life-a168f0ace1",
+  "url": "https://www.dukekunshan.edu.cn/news/international-students-settling-into-kunshan-life",
+  "canonical_url": "https://www.dukekunshan.edu.cn/news/international-students-settling-into-kunshan-life/",
+  "page_type": "news",
+  "title": "International students settling into Kunshan life",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2023-01-31T09:04:17+00:00",
+  "sitemap_lastmod": "2023-01-31T09:04:17+00:00",
+  "text": "International students settling into Kunshan life",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "International students settling into Kunshan life"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 6,
+  "crawled_at": "2026-06-03T13:51:42+00:00",
+  "sequence": 250
+}

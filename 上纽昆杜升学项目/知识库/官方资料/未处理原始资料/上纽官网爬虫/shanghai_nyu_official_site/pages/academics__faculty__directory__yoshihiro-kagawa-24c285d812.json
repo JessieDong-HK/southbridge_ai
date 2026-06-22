@@ -1,0 +1,55 @@
+{
+  "id": "academics__faculty__directory__yoshihiro-kagawa-24c285d812",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/yoshihiro-kagawa",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/yoshihiro-kagawa",
+  "page_type": "academics",
+  "title": "Yoshihiro",
+  "description": "Yoshihiro Kagawa is a Senior Language Lecturer of Japanese at NYU Shanghai. Kagawa holds an MA in Political Science from Doshisha University and Teaching Japanese as a Second Language (TJSL) certification. Kagawa comes to NYU Shanghai with over fifteen years of experience in teaching Japanese at the",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Yoshihiro Kagawa\nYoshihiro Kagawa is a Senior Language Lecturer of Japanese at NYU Shanghai. Kagawa holds an MA in Political Science from Doshisha University and Teaching Japanese as a Second Language (TJSL) certification.\nKagawa comes to NYU Shanghai with over fifteen years of experience in teaching Japanese at the university level. Most recently, he was a Language Tutor in Japanese at the University of Nottingham Ningbo. In that role, he also served as the Japanese Language Coordinator since 2017.\nEducation\nMA, Political ScienceDoshisha University\nElementary Japanese I",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Yoshihiro Kagawa"
+    },
+    {
+      "type": "p",
+      "text": "Yoshihiro Kagawa is a Senior Language Lecturer of Japanese at NYU Shanghai. Kagawa holds an MA in Political Science from Doshisha University and Teaching Japanese as a Second Language (TJSL) certification."
+    },
+    {
+      "type": "p",
+      "text": "Kagawa comes to NYU Shanghai with over fifteen years of experience in teaching Japanese at the university level. Most recently, he was a Language Tutor in Japanese at the University of Nottingham Ningbo. In that role, he also served as the Japanese Language Coordinator since 2017."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MA, Political ScienceDoshisha University"
+    },
+    {
+      "type": "li",
+      "text": "Elementary Japanese I"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/yoshihiro_kagawa.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/yoshihiro_kagawa-496853d8e16b.jpg",
+      "download_status": "downloaded",
+      "bytes": 2967850,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 87,
+  "crawled_at": "2026-06-09T04:54:50+00:00",
+  "sequence": 2457
+}

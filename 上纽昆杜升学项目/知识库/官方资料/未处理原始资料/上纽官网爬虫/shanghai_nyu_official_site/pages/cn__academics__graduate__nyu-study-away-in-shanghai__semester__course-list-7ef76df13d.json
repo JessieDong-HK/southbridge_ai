@@ -1,0 +1,92 @@
+{
+  "id": "cn__academics__graduate__nyu-study-away-in-shanghai__semester__course-list-7ef76df13d",
+  "url": "https://shanghai.nyu.edu/cn/academics/graduate/nyu-study-away-in-shanghai/semester/course-list",
+  "canonical_url": "https://shanghai.nyu.edu/cn/academics/graduate/nyu-study-away-in-shanghai/semester/course-list",
+  "page_type": "cn",
+  "title": "课程",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "课程\n上海纽约大学提供以下“研究生上海学习项目”课程。所有课程都是每个项目核心课程中的必修课，都会计入学位学分要求。学生必须参加并完成学习所有课程，一旦开始学习项目，就不能中途退出。\nSPS Start@NYU Shanghai - 整合市场营销理学硕士项目\nINTG1-GC1000 整合市场营销\nINTG1-GC1005 活动 I: 战略与执行\nINTG1-GC1055 统计测量、分析与研究\nINTG1-GC1035 数字营销\nSPS Start@NYU Shanghai - 管理与分析理学硕士项目\n该项目课程信息正在更新中，更多信息可查看项目网站\n该项目课程信息正在更新中，更多信息可查看项目网站\nMOT Shanghai-NYC - 技术管理理学硕士项目\nMG-GY 6013 组织行为学\nMG-GY 6033 技术经理的财务分析\nMG-GY 6203 数据可视化",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "课程"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学提供以下“研究生上海学习项目”课程。所有课程都是每个项目核心课程中的必修课，都会计入学位学分要求。学生必须参加并完成学习所有课程，一旦开始学习项目，就不能中途退出。"
+    },
+    {
+      "type": "p",
+      "text": "SPS Start@NYU Shanghai - 整合市场营销理学硕士项目"
+    },
+    {
+      "type": "li",
+      "text": "INTG1-GC1000 整合市场营销"
+    },
+    {
+      "type": "li",
+      "text": "INTG1-GC1005 活动 I: 战略与执行"
+    },
+    {
+      "type": "li",
+      "text": "INTG1-GC1055 统计测量、分析与研究"
+    },
+    {
+      "type": "li",
+      "text": "INTG1-GC1035 数字营销"
+    },
+    {
+      "type": "p",
+      "text": "SPS Start@NYU Shanghai - 管理与分析理学硕士项目"
+    },
+    {
+      "type": "li",
+      "text": "该项目课程信息正在更新中，更多信息可查看项目网站"
+    },
+    {
+      "type": "p",
+      "text": "该项目课程信息正在更新中，更多信息可查看项目网站"
+    },
+    {
+      "type": "p",
+      "text": "MOT Shanghai-NYC - 技术管理理学硕士项目"
+    },
+    {
+      "type": "li",
+      "text": "MG-GY 6013 组织行为学"
+    },
+    {
+      "type": "li",
+      "text": "MG-GY 6033 技术经理的财务分析"
+    },
+    {
+      "type": "li",
+      "text": "MG-GY 6203 数据可视化"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-nyu_semester-3-2.jpg",
+      "alt": "Course List",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-nyu_semester-3-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.sps.nyu.edu/homepage/academics/masters-degrees/ms-in-management-and-systems.html",
+      "text": "项目网站",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 54,
+  "crawled_at": "2026-06-09T04:37:12+00:00",
+  "sequence": 1026
+}

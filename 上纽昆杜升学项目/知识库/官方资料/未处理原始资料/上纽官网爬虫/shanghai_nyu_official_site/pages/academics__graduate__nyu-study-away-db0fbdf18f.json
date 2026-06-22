@@ -1,0 +1,133 @@
+{
+  "id": "academics__graduate__nyu-study-away-db0fbdf18f",
+  "url": "https://shanghai.nyu.edu/academics/graduate/nyu-study-away",
+  "canonical_url": "https://shanghai.nyu.edu/academics/graduate/nyu-study-away",
+  "page_type": "academics",
+  "title": "Short-term Programs",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Short-term Programs\nIn recent years, programs have included the following:\nAnnual Shanghai modules of various NYU Stern programs, such as the Executive MBA, Master of Science in Business Analytics, Master of Science in Global Finance, and TRIUM Global Executive MBA\nNYU Law in Shanghai (annual Spring semester program)\nA two-week course during J-term 2020 offered by NYU School of Global Public Health about Climate Change\nTwo one-week courses during Summer term offered by NYU School of Professional Studies, about (i) the Changing Political, Economic, and Energy Landscape of China Today, in 2018, and (ii) Sports Business in China, in 2017\nThree two-week courses offered by NYU Steinhardt, about (i) Global Food Cultures, during Summer 2018, (ii) Disability in a Global Context, during Summer 2018 and Summer 2017, and (iii) Cross-Cultural Counseling, during Summer 2017 and J-term 2019\nA two-week course during Summer term offered by NYU Wagner about Urbanization and Sustainable Development in 2019, 2018, and 2017\nA two-week course during Summer term offered by NYU Silver about human services and social work in China in 2019\nFor recent news features about some of these programs, please see:\nMS in Global Finance Program Holds Module at NYU Shanghai(June 2023)\nNYU January Term Abroad\nNYU Summer Abroad",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Short-term Programs"
+    },
+    {
+      "type": "h3",
+      "text": "In recent years, programs have included the following:"
+    },
+    {
+      "type": "li",
+      "text": "Annual Shanghai modules of various NYU Stern programs, such as the Executive MBA, Master of Science in Business Analytics, Master of Science in Global Finance, and TRIUM Global Executive MBA"
+    },
+    {
+      "type": "li",
+      "text": "NYU Law in Shanghai (annual Spring semester program)"
+    },
+    {
+      "type": "li",
+      "text": "A two-week course during J-term 2020 offered by NYU School of Global Public Health about Climate Change"
+    },
+    {
+      "type": "li",
+      "text": "Two one-week courses during Summer term offered by NYU School of Professional Studies, about (i) the Changing Political, Economic, and Energy Landscape of China Today, in 2018, and (ii) Sports Business in China, in 2017"
+    },
+    {
+      "type": "li",
+      "text": "Three two-week courses offered by NYU Steinhardt, about (i) Global Food Cultures, during Summer 2018, (ii) Disability in a Global Context, during Summer 2018 and Summer 2017, and (iii) Cross-Cultural Counseling, during Summer 2017 and J-term 2019"
+    },
+    {
+      "type": "li",
+      "text": "A two-week course during Summer term offered by NYU Wagner about Urbanization and Sustainable Development in 2019, 2018, and 2017"
+    },
+    {
+      "type": "li",
+      "text": "A two-week course during Summer term offered by NYU Silver about human services and social work in China in 2019"
+    },
+    {
+      "type": "h3",
+      "text": "For recent news features about some of these programs, please see:"
+    },
+    {
+      "type": "h4",
+      "text": "MS in Global Finance Program Holds Module at NYU Shanghai(June 2023)"
+    },
+    {
+      "type": "li",
+      "text": "NYU January Term Abroad"
+    },
+    {
+      "type": "li",
+      "text": "NYU Summer Abroad"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-04-2.jpg",
+      "alt": "NYU Study Away Programs in Shanghai",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-graduate-04-2-1fe4f6360684.jpg",
+      "download_status": "downloaded",
+      "bytes": 122902,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/nyu_0.jpg",
+      "alt": "MS in Global Finance Program Holds Module at NYU Shanghai",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/nyu_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://www.stern.nyu.edu/programs-admissions/executive-mba-nyc",
+      "text": "Executive MBA",
+      "internal": false
+    },
+    {
+      "url": "http://www.stern.nyu.edu/programs-admissions/ms-business-analytics",
+      "text": "Master of Science in Business Analytics",
+      "internal": false
+    },
+    {
+      "url": "https://www.msglobalfinance.org/",
+      "text": "Master of Science in Global Finance",
+      "internal": false
+    },
+    {
+      "url": "http://www.triumemba.org",
+      "text": "TRIUM Global Executive MBA",
+      "internal": false
+    },
+    {
+      "url": "http://www.law.nyu.edu/global/globalopportunities/nyulawabroad/shanghai",
+      "text": "NYU Law in Shanghai",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/ms-global-finance-program-holds-module-nyu-shanghai",
+      "text": "MS in Global Finance Program Holds Module at NYU Shanghai",
+      "internal": true
+    },
+    {
+      "url": "https://www.nyu.edu/academics/studying-abroad/january-study-away.html",
+      "text": "NYU January Term Abroad",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/academics/studying-abroad/summer-abroad.html",
+      "text": "NYU Summer Abroad",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 216,
+  "crawled_at": "2026-06-09T04:30:52+00:00",
+  "sequence": 378
+}

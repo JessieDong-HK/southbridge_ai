@@ -1,0 +1,156 @@
+{
+  "id": "academics__faculty__directory__siyao-guo-e6f05e8a3b",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/siyao-guo",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/siyao-guo",
+  "page_type": "academics",
+  "title": "Siyao",
+  "description": "Siyao Guo is an Associate Professor of Computer Science at NYU Shanghai, and a Global Network Associate Professor at the Tandon School of Engineering at NYU. Prior to joining NYU Shanghai, she was a Postdoctoral Researcher at New York University, UC Berkeley and Northeastern University. She",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Siyao Guo\nSiyao Guo is an Associate Professor of Computer Science at NYU Shanghai, and a Global Network Associate Professor at the Tandon School of Engineering at NYU. Prior to joining NYU Shanghai, she was a Postdoctoral Researcher at New York University, UC Berkeley and Northeastern University. She obtained her PhD from the Chinese University of Hong Kong.\nSelect Publications\nAkshima, Tyler Besselman, Siyao Guo, Zhiye Xie and Yuping Ye: Tight Time-Space Tradeoffs for the Decisional Diffie-Hellman Problem. STOC 2024:1739-1749\nAlexander Golovnev, Siyao Guo, Spencer Peters and Noah Stephens-Davidowitz: Revisiting Time-Space Tradeoffs for Function Inversion. CRYPTO (2) 2023: 453-481\nAkshima, Siyao Guo, Qipeng Liu: Time-Space Lower Bounds for Finding Collisions in Merkle-Damgård Hash Functions. CRYPTO (3) 2022: 192-221\nNick Gravin, Siyao Guo, Tsz Chiu Kwok, Pinyan Lu: Concentration bounds for almost k-wise independence with applications to non-uniform security. SODA 2021: 2404-2423\nKai-Min Chung, Siyao Guo, Qipeng Liu, Luowen Qian: Tight Quantum Time-Space Tradeoffs for Function Inversion. FOCS 2020: 673-684\nEducation\nPhD, Computer and Information ScienceChinese University of Hong Kong\nBS, Computer ScienceBeijing Normal University\nCryptography\nComputational Complexity\nPseudorandomness\nAlgorithms\nIntroduction to Cryptography",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Siyao Guo"
+    },
+    {
+      "type": "p",
+      "text": "Siyao Guo is an Associate Professor of Computer Science at NYU Shanghai, and a Global Network Associate Professor at the Tandon School of Engineering at NYU. Prior to joining NYU Shanghai, she was a Postdoctoral Researcher at New York University, UC Berkeley and Northeastern University. She obtained her PhD from the Chinese University of Hong Kong."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Akshima, Tyler Besselman, Siyao Guo, Zhiye Xie and Yuping Ye: Tight Time-Space Tradeoffs for the Decisional Diffie-Hellman Problem. STOC 2024:1739-1749"
+    },
+    {
+      "type": "li",
+      "text": "Alexander Golovnev, Siyao Guo, Spencer Peters and Noah Stephens-Davidowitz: Revisiting Time-Space Tradeoffs for Function Inversion. CRYPTO (2) 2023: 453-481"
+    },
+    {
+      "type": "li",
+      "text": "Akshima, Siyao Guo, Qipeng Liu: Time-Space Lower Bounds for Finding Collisions in Merkle-Damgård Hash Functions. CRYPTO (3) 2022: 192-221"
+    },
+    {
+      "type": "li",
+      "text": "Nick Gravin, Siyao Guo, Tsz Chiu Kwok, Pinyan Lu: Concentration bounds for almost k-wise independence with applications to non-uniform security. SODA 2021: 2404-2423"
+    },
+    {
+      "type": "li",
+      "text": "Kai-Min Chung, Siyao Guo, Qipeng Liu, Luowen Qian: Tight Quantum Time-Space Tradeoffs for Function Inversion. FOCS 2020: 673-684"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Computer and Information ScienceChinese University of Hong Kong"
+    },
+    {
+      "type": "li",
+      "text": "BS, Computer ScienceBeijing Normal University"
+    },
+    {
+      "type": "li",
+      "text": "Cryptography"
+    },
+    {
+      "type": "li",
+      "text": "Computational Complexity"
+    },
+    {
+      "type": "li",
+      "text": "Pseudorandomness"
+    },
+    {
+      "type": "li",
+      "text": "Algorithms"
+    },
+    {
+      "type": "li",
+      "text": "Introduction to Cryptography"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/expansion_20240717152407875.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/expansion_20240717152407875-965ba6be3386.jpg",
+      "download_status": "downloaded",
+      "bytes": 12186,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cs.shanghai.nyu.edu/faculty/siyao-guo-guosiyao",
+      "text": "https://cs.shanghai.nyu.edu/faculty/siyao-guo-guosiyao",
+      "internal": false
+    },
+    {
+      "url": "https://dblp.uni-trier.de/db/conf/crypto/crypto2023-2.html",
+      "text": "CRYPTO (2) 2023",
+      "internal": false
+    },
+    {
+      "url": "https://dblp.uni-trier.de/pid/172/0049.html",
+      "text": "Akshima",
+      "internal": false
+    },
+    {
+      "url": "https://dblp.uni-trier.de/pid/40/8351-1.html",
+      "text": "Qipeng Liu",
+      "internal": false
+    },
+    {
+      "url": "https://dblp.uni-trier.de/db/conf/crypto/crypto2022-3.html",
+      "text": "CRYPTO (3) 2022",
+      "internal": false
+    },
+    {
+      "url": "https://dblp.uni-trier.de/pid/78/7611.html",
+      "text": "Nick Gravin",
+      "internal": false
+    },
+    {
+      "url": "https://dblp.uni-trier.de/pid/58/11142.html",
+      "text": "Tsz Chiu Kwok",
+      "internal": false
+    },
+    {
+      "url": "https://dblp.uni-trier.de/pid/03/4112.html",
+      "text": "Pinyan Lu",
+      "internal": false
+    },
+    {
+      "url": "https://dblp.uni-trier.de/db/conf/soda/soda2021.html",
+      "text": "SODA 2021",
+      "internal": false
+    },
+    {
+      "url": "https://dblp.uni-trier.de/pid/11/6568.html",
+      "text": "Kai-Min Chung",
+      "internal": false
+    },
+    {
+      "url": "https://dblp.uni-trier.de/pid/251/1419.html",
+      "text": "Luowen Qian",
+      "internal": false
+    },
+    {
+      "url": "https://dblp.uni-trier.de/db/conf/focs/focs2020.html",
+      "text": "FOCS 2020",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 198,
+  "crawled_at": "2026-06-09T04:53:57+00:00",
+  "sequence": 2402
+}

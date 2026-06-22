@@ -1,0 +1,90 @@
+{
+  "id": "academics__faculty__directory__adam-brandenburger-b9f1614147",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/adam-brandenburger",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/adam-brandenburger",
+  "page_type": "academics",
+  "title": "Adam",
+  "description": "Adam Brandenburger holds appointments at New York University as J.P. Valles Professor at the Stern School of Business, Distinguished Professor at the Tandon School of Engineering, Faculty Director of the NYU Shanghai Program on Creativity + Innovation, and Global Network Professor. He was a",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Adam Brandenburger\nAdam Brandenburger holds appointments at New York University as J.P. Valles Professor at the Stern School of Business, Distinguished Professor at the Tandon School of Engineering, Faculty Director of the NYU Shanghai Program on Creativity + Innovation, and Global Network Professor. He was a professor at Harvard Business School from 1987 to 2002. He received his B.A., M.Phil., and Ph.D. degrees from the University of Cambridge.\nSelect Publications\n\"Agreement and Disagreement in a Non-Classical World,\" by Adam Brandenbuger, Patricia Contreras-Tejada, Pierfrancesco La Mura, Giannicola Scarpa, and Kai Steverson, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 382, 2024\n\"Divisive Normalization is an Eﬃcient Code for Multivariate Pareto-Distributed Environments,\" by Stefan Bucher and Adam Brandenburger, Proceedings of the National Academy of Sciences, 119, 2022\n\"Team Decision Problems with Classical and Quantum Signals,” by Adam Brandenburger and Pierfrancesco La Mura, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 374, 2016\n\"The Sheaf-Theoretic Structure of Non-Locality and Contextuality,” by Adam Brandenburger and Samson Abramsky, New Journal of Physics, 13, 2011\n\"Admissibility in Games,\" by Adam Brandenburger, Amanda Friedenberg, and H. Jerome Keisler, Econometrica, 76, 2008\nEducation\nPhD, EconomicsUniversity of Cambridge\nMPhil, EconomicsUniversity of Cambridge\nBA, Natural Sciences and BA, EconomicsUniversity of Cambridge\nGame theory\nInformation theory\nBusiness strategy",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Adam Brandenburger"
+    },
+    {
+      "type": "p",
+      "text": "Adam Brandenburger holds appointments at New York University as J.P. Valles Professor at the Stern School of Business, Distinguished Professor at the Tandon School of Engineering, Faculty Director of the NYU Shanghai Program on Creativity + Innovation, and Global Network Professor. He was a professor at Harvard Business School from 1987 to 2002. He received his B.A., M.Phil., and Ph.D. degrees from the University of Cambridge."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "\"Agreement and Disagreement in a Non-Classical World,\" by Adam Brandenbuger, Patricia Contreras-Tejada, Pierfrancesco La Mura, Giannicola Scarpa, and Kai Steverson, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 382, 2024"
+    },
+    {
+      "type": "li",
+      "text": "\"Divisive Normalization is an Eﬃcient Code for Multivariate Pareto-Distributed Environments,\" by Stefan Bucher and Adam Brandenburger, Proceedings of the National Academy of Sciences, 119, 2022"
+    },
+    {
+      "type": "li",
+      "text": "\"Team Decision Problems with Classical and Quantum Signals,” by Adam Brandenburger and Pierfrancesco La Mura, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 374, 2016"
+    },
+    {
+      "type": "li",
+      "text": "\"The Sheaf-Theoretic Structure of Non-Locality and Contextuality,” by Adam Brandenburger and Samson Abramsky, New Journal of Physics, 13, 2011"
+    },
+    {
+      "type": "li",
+      "text": "\"Admissibility in Games,\" by Adam Brandenburger, Amanda Friedenberg, and H. Jerome Keisler, Econometrica, 76, 2008"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, EconomicsUniversity of Cambridge"
+    },
+    {
+      "type": "li",
+      "text": "MPhil, EconomicsUniversity of Cambridge"
+    },
+    {
+      "type": "li",
+      "text": "BA, Natural Sciences and BA, EconomicsUniversity of Cambridge"
+    },
+    {
+      "type": "li",
+      "text": "Game theory"
+    },
+    {
+      "type": "li",
+      "text": "Information theory"
+    },
+    {
+      "type": "li",
+      "text": "Business strategy"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/adam-brandenburger-photo-12-25-23.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 223,
+  "crawled_at": "2026-06-09T04:33:53+00:00",
+  "sequence": 726
+}

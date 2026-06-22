@@ -1,0 +1,98 @@
+{
+  "id": "academics__faculty__directory__eric-parren-b3937320ac",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/eric-parren",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/eric-parren",
+  "page_type": "academics",
+  "title": "Eric",
+  "description": "Eric Parren (NL/US) is an interdisciplinary artist operating out of Shanghai. His practice includes the combined use of new and traditional digital and analog media, through which he investigates our understanding of the ideas and technologies that shape the future. Eric's works are often visceral,",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Eric Parren\nEric Parren (NL/US) is an interdisciplinary artist operating out of Shanghai. His practice includes the combined use of new and traditional digital and analog media, through which he investigates our understanding of the ideas and technologies that shape the future. Eric's works are often visceral, sensory experiences exploring modes of perception and the physics of light and sound. Informed by a deep knowledge of the histories of media arts, electronic music composition, and expanded cinema, his work makes links between the past, the present, and what is to come. Eric is a founding member of the art collective Macular, is on the organizing committee of the annual Conflux Festival, and runs the experimental music show La Force Sauvage. His works have been shown at galleries and festivals across Europe, North America, and Asia.\nSelect Exhibitions, Screenings, and Performances:\n15 Years of Macular, Conflux Festival 2023, Rotterdam, NL\nOpen Codes, ZKM | Center for Art and Media, Karlsruhe, DE\nHoughton Festival 2017, Houghton Hall, Norfolk, UK\nPrix Russolo, CNMAS, Mexico City, MX\nSphaerae, Ars Electronica Festival 2013, Linz, AT\nEducation\nMFA, Design Media ArtsUniversity of California, Los Angeles\nArtScience BFARoyal Academy of Art & Royal Conservatory, The Hague\nKinetic Art / Light Art / Sound Art\nVisual Music / Live Audiovisual Performance\nEmbodied Creative A.I.\nInteraction Lab\nRealtime Audiovisual Performance Systems\nTopics in Electronics & Physical Computing",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Eric Parren"
+    },
+    {
+      "type": "p",
+      "text": "Eric Parren (NL/US) is an interdisciplinary artist operating out of Shanghai. His practice includes the combined use of new and traditional digital and analog media, through which he investigates our understanding of the ideas and technologies that shape the future. Eric's works are often visceral, sensory experiences exploring modes of perception and the physics of light and sound. Informed by a deep knowledge of the histories of media arts, electronic music composition, and expanded cinema, his work makes links between the past, the present, and what is to come. Eric is a founding member of the art collective Macular, is on the organizing committee of the annual Conflux Festival, and runs the experimental music show La Force Sauvage. His works have been shown at galleries and festivals across Europe, North America, and Asia."
+    },
+    {
+      "type": "h3",
+      "text": "Select Exhibitions, Screenings, and Performances:"
+    },
+    {
+      "type": "li",
+      "text": "15 Years of Macular, Conflux Festival 2023, Rotterdam, NL"
+    },
+    {
+      "type": "li",
+      "text": "Open Codes, ZKM | Center for Art and Media, Karlsruhe, DE"
+    },
+    {
+      "type": "li",
+      "text": "Houghton Festival 2017, Houghton Hall, Norfolk, UK"
+    },
+    {
+      "type": "li",
+      "text": "Prix Russolo, CNMAS, Mexico City, MX"
+    },
+    {
+      "type": "li",
+      "text": "Sphaerae, Ars Electronica Festival 2013, Linz, AT"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MFA, Design Media ArtsUniversity of California, Los Angeles"
+    },
+    {
+      "type": "li",
+      "text": "ArtScience BFARoyal Academy of Art & Royal Conservatory, The Hague"
+    },
+    {
+      "type": "li",
+      "text": "Kinetic Art / Light Art / Sound Art"
+    },
+    {
+      "type": "li",
+      "text": "Visual Music / Live Audiovisual Performance"
+    },
+    {
+      "type": "li",
+      "text": "Embodied Creative A.I."
+    },
+    {
+      "type": "li",
+      "text": "Interaction Lab"
+    },
+    {
+      "type": "li",
+      "text": "Realtime Audiovisual Performance Systems"
+    },
+    {
+      "type": "li",
+      "text": "Topics in Electronics & Physical Computing"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/eric_parren.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 225,
+  "crawled_at": "2026-06-09T04:53:08+00:00",
+  "sequence": 2342
+}

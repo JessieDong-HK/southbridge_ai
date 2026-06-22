@@ -1,0 +1,126 @@
+{
+  "id": "page__software-2b051d15ac",
+  "url": "https://shanghai.nyu.edu/page/software",
+  "canonical_url": "https://shanghai.nyu.edu/page/software",
+  "page_type": "page",
+  "title": "Software",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Software\nNYU Shanghai IT offers a wide variety of software to support research, teaching, and class projects at the computer labs, the residence halls, and the Virtual Computer Lab.\nSoftware list\nNeed help?\nSubmit a request on support.nyu.edu\nSend a request through WeChat\nEmail to shanghai.it.help@nyu.edu\nVisit the IT Service Center: Room N525 @ New Bund Campus\nSoftware request form and FAQ\nRequest for Academic License",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Software"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai IT offers a wide variety of software to support research, teaching, and class projects at the computer labs, the residence halls, and the Virtual Computer Lab."
+    },
+    {
+      "type": "h2",
+      "text": "Software list"
+    },
+    {
+      "type": "h2",
+      "text": "Need help?"
+    },
+    {
+      "type": "li",
+      "text": "Submit a request on support.nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Send a request through WeChat"
+    },
+    {
+      "type": "li",
+      "text": "Email to shanghai.it.help@nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Visit the IT Service Center: Room N525 @ New Bund Campus"
+    },
+    {
+      "type": "h2",
+      "text": "Software request form and FAQ"
+    },
+    {
+      "type": "li",
+      "text": "Request for Academic License"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://www.microsoft.com/en-us/education/products/office",
+      "text": "Office 365",
+      "internal": false
+    },
+    {
+      "url": "https://vcl.shanghai.nyu.edu/",
+      "text": "VCL",
+      "internal": false
+    },
+    {
+      "url": "https://www.mathworks.com/academia/tah-portal/new-york-university-618777.html",
+      "text": "NYU Matlab",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011968",
+      "text": "Download",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=sc_cat_item&sys_id=5110048e1bd85a103f31a9b6624bcb5d",
+      "text": "On Requst",
+      "internal": false
+    },
+    {
+      "url": "https://guides.nyu.edu/appointment",
+      "text": "Request Form",
+      "internal": false
+    },
+    {
+      "url": "https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_mnuMain_child=53dc5a04-399f-df11-81b7-0030487d8897&cmi_mnuMain=32f96f40-1879-e611-9421-b8ca3a5db7a1&ws=fab9c17e-308d-e311-93fa-b8ca3a5db7a1&vsro=8",
+      "text": "Purchase",
+      "internal": false
+    },
+    {
+      "url": "https://vcl.nyu.edu/",
+      "text": "Global VCL",
+      "internal": false
+    },
+    {
+      "url": "https://www.autodesk.com/education/free-software/featured",
+      "text": "Free Download",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0012376",
+      "text": "NYU Adobe Licensing",
+      "internal": false
+    },
+    {
+      "url": "https://obsproject.com/",
+      "text": "Free Download",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011955",
+      "text": "Send a request through WeChat",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011980",
+      "text": "Request for Academic License",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 71,
+  "crawled_at": "2026-06-09T04:31:43+00:00",
+  "sequence": 478
+}

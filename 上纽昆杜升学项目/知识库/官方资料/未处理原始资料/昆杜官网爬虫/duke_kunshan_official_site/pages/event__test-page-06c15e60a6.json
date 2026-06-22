@@ -1,0 +1,63 @@
+{
+  "id": "event__test-page-06c15e60a6",
+  "url": "https://www.dukekunshan.edu.cn/event/test-page",
+  "canonical_url": "https://www.dukekunshan.edu.cn/event/test-page/",
+  "page_type": "event",
+  "title": "Creative Spark: AR Content Creation and Tool Mastery",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2024-10-15T03:06:10+00:00",
+  "sitemap_lastmod": "2024-10-15T03:06:10+00:00",
+  "text": "Creative Spark: AR Content Creation and Tool Mastery\nDescription\nHost\nRegistration Link",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Creative Spark: AR Content Creation and Tool Mastery"
+    },
+    {
+      "type": "h4",
+      "text": "Description"
+    },
+    {
+      "type": "h4",
+      "text": "Host"
+    },
+    {
+      "type": "h4",
+      "text": "Registration Link"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://dku-web-admissions.s3.cn-north-1.amazonaws.com.cn/wp-content/uploads/staging/2024/06/25160649/Augmented_Reality_V3-scaled-1.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/Augmented_Reality_V3-scaled-1-2d7926033549.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 183554
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/06/25160649/Augmented_Reality_V3-scaled-1.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "images/_shared/Augmented_Reality_V3-scaled-1-520b4d610d48.jpg",
+      "download_status": "ok",
+      "bytes": 183554,
+      "cached_from_disk": true
+    }
+  ],
+  "links": [
+    {
+      "url": "https://dukekunshan.dserec.com/online/intramurals",
+      "text": "https://dukekunshan.dserec.com/online/intramurals",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 12,
+  "crawled_at": "2026-06-03T13:51:16+00:00",
+  "sequence": 211
+}

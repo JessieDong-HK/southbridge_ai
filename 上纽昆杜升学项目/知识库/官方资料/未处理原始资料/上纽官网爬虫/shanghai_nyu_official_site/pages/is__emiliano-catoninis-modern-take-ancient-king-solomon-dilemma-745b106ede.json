@@ -1,0 +1,202 @@
+{
+  "id": "is__emiliano-catoninis-modern-take-ancient-king-solomon-dilemma-745b106ede",
+  "url": "https://shanghai.nyu.edu/is/emiliano-catoninis-modern-take-ancient-king-solomon-dilemma",
+  "canonical_url": "https://shanghai.nyu.edu/is/emiliano-catoninis-modern-take-ancient-king-solomon-dilemma",
+  "page_type": "is",
+  "title": "Emiliano Catonini’s Modern Take on the Ancient “King Solomon Dilemma”",
+  "description": "Emiliano Catonini shares on his latest research--a modern reimagining of the “King Solomon dilemma” through the lens of game theory.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Emiliano Catonini’s Modern Take on the Ancient “King Solomon Dilemma”\nTwitter\nFacebook\nWeibo\nFor centuries, the story of King Solomon’s judgment has stood as a timeless metaphor for fairness, truth, and human motivation. For NYU Shanghai Associate Professor of Economics Emiliano Catonini, it’s also the inspiration for his latest research, a modern reimagining of the “King Solomon dilemma” through the lens of game theory.\nBlending logic, psychology, and practical economics, his new two-stage mechanism explores how to design fairer systems for allocating scarce resources, whether deciding who deserves a grant, resolving disputes, or designing court settlements. His work offers a novel way to elicit truth and cooperation, even when individuals have incentives to conceal information.\nHere Catonini shares his perspective on how ancient wisdom meets modern economics, why costly verification can keep people honest, and how understanding human motivation continues to shape his approach to game theory and teaching alike.\nSo what does the King Solomon dilemma have to do with game theory?\nThe classic story involves a king faced with two women who both claim to be the mother of the same baby. Solomon proposes to cut the baby in half; the true mother, motivated to save the child, offers to give the baby to the other woman. Game theorists have long used this story as a metaphor for situations in which a planner must allocate a good among multiple agents who all claim to deserve it, while the planner lacks private information that the agents possess.\nWhat is your contribution to the theory?\nI started by developing a new mechanism that, under some light assumptions, solves the classical King Solomon without some of the undesirable features of the existing mechanisms. The two-stage design improves on prior mechanisms in two important ways: it is simpler for participants to play—an important practical consideration because in real settings we cannot assume agents are sophisticated game theorists—and it substantially reduces the risk of very large losses for participants. In mechanism-design terms, it offers limited liability properties that some previous \"state-of-the-art\" solutions lack.\nBut then I realized that the most attractive aspect of this mechanism is the following: the second-stage auction-like procedure used to solve first-stage disputes can be easily transformed into a game of costly disclosure, in which the participants get the chance to prove being right—think of showing a DNA test to King Solomon. In many settings, proving the truth is possible but costly. My mechanism uses the mere availability of a costly disclosure as a deterrent: it functions as a credible threat that induces the participants to reveal the truth in the first stage.This feature makes the mechanism potentially useful for real-world problems where verification is expensive or privacy-sensitive.\nWhat other directions has your research taken you?\nThe original Solomon story crucially depends on emotional or moral responses, but many game-theoretic applications abstract those away and assume purely self-interested agents. One promising direction is to extend the mechanism to settings in which psychological payoffs or privacy concerns matter; the mechanism can be designed to exploit those incentives (in the same spirit Solomon exploits maternal affection) while still preserving the desirable incentive and liability properties.\nSo, this is one of the main things I'm working on right now: a new, two-stage mechanism for allocation problems inspired by the King Solomon dilemma, with potentially broader applications to costly disclosure, privacy, litigation, and settings where psychology matters.\nHow can your research be applied in the real world?\nThe design could affect how trials are organized or how court settlements are negotiated: systems where parties can, at cost, prove claims but where the mechanism is arranged so that verification is unlikely to be needed in equilibrium. It may also be adapted to environments with privacy costs—where proving the truth reveals sensitive information and thus creates additional strategic considerations.\nApplications include grant allocation or tax exemptions, where the goal is to identify who is truly most deserving. For instance, deciding which student or which research institution is most deserving. More generally, it applies to all situations where a government or policymaker needs to make the right decision for a community. In these situations, valuable information exists within the community, but not everyone has the same willingness to reveal it.\nThe challenge, then, is to design a way to elicit what people in the community know and to use that information effectively, even though individuals may not tell the full truth.\nHow did your experiences in engineering, marketing, and management shape your passion for economics?\nI studied engineering, then management, but I realized those were not what I wanted to do for the rest of my life. I think going through engineering school was very valuable for developing problem-solving skills, because engineering is extremely concrete. You use mathematics, but always with a very specific goal in mind. In that sense, engineering is a great training ground for learning how to approach problems in a practical, solution-oriented way.\nI also worked for a year in marketing, which was helpful in a different sense—it gave me a better sense of how to construct a narrative and communicate ideas effectively. I became exposed to economics through management courses, but it was only during my first year of my PhD that I truly understood what economics is about. Once I studied it properly, I discovered game theory, which eventually became my main research field.\nWhat about game theory draws you in?\nMany economists today emphasize price frictions and argue that the world is imperfect because prices cannot adjust instantly. Personally, I don’t fully agree. I think the world is imperfect because it is very difficult to make accurate predictions. There is always a mismatch between expectations and reality. This is something game theory addresses well—issues of information asymmetry, for example, are at the root of many real-world problems, from classic stories like King Solomon’s judgment to modern financial markets.\nLooking ahead, I would like to further connect my work with macroeconomics. I am sure there are many directions for research, and I want to continue contributing in that space.\nLeft: In a workshop designed to help students explore potential majors, Catonini presents “tricky questions” that come up in his Advanced Economic Theory class. Right: He also leads NYU Shanghai’s community basketball group, where faculty and staff gather for weekly games and occasionally join tournaments.\nWhat do your students come away with after taking a course with you?\nI want students to learn structural thinking, how to construct an argument, and how to use precise language. The quality of language directly shapes the quality of thought. So my message is: don’t just think outside the box—first learn to think inside the box. That means working only with the data you have, being scientific and rigorous. This skill is useful well beyond the classroom. To convince someone, to make a strong case—for instance, asking for a raise—you need to present arguments that are precise, rigorous, and professional. That’s the kind of problem-solving ability I want my students to gain.\nEconomic thinking has its own structure; it’s not something you can pick up automatically just because you’re good at mathematics or logic. Even excellent mathematicians who have never studied economics may struggle with it. There’s something distinctive about the way economists analyze problems—something I can’t even fully put into words—that makes it valuable in whatever students choose to do in life.\nDo you have any advice for your students?\nI encourage economics students to stay open to other fields. What I usually tell them is not to rush into making definitive life decisions. Concentrate on what you are doing in the present, so you won’t have regrets. If it doesn’t work out, at least you can say: “I gave it my best, and now I’m ready to try something else.”\nMany students feel anxious and believe they must accumulate as many internships and extracurricular activities as possible. I sometimes see resumes that are 22 pages long. In reality, what matters is the two pages that truly reflect what you have done seriously and with passion. Everything else can be cut without regret. Simply listing every minor activity or conference may even backfire, because it suggests a lack of focus or depth.\nSo my advice is: don’t spread yourself too thin. Instead, pursue a few things you genuinely care about and commit to them fully. That way, when you talk to a potential employer, you can say: “I did this because I was truly interested, and I tried to do it as well as I could.” That speaks far more than a long list of superficial experiences.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Emiliano Catonini’s Modern Take on the Ancient “King Solomon Dilemma”"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "For centuries, the story of King Solomon’s judgment has stood as a timeless metaphor for fairness, truth, and human motivation. For NYU Shanghai Associate Professor of Economics Emiliano Catonini, it’s also the inspiration for his latest research, a modern reimagining of the “King Solomon dilemma” through the lens of game theory."
+    },
+    {
+      "type": "p",
+      "text": "Blending logic, psychology, and practical economics, his new two-stage mechanism explores how to design fairer systems for allocating scarce resources, whether deciding who deserves a grant, resolving disputes, or designing court settlements. His work offers a novel way to elicit truth and cooperation, even when individuals have incentives to conceal information."
+    },
+    {
+      "type": "p",
+      "text": "Here Catonini shares his perspective on how ancient wisdom meets modern economics, why costly verification can keep people honest, and how understanding human motivation continues to shape his approach to game theory and teaching alike."
+    },
+    {
+      "type": "p",
+      "text": "So what does the King Solomon dilemma have to do with game theory?"
+    },
+    {
+      "type": "p",
+      "text": "The classic story involves a king faced with two women who both claim to be the mother of the same baby. Solomon proposes to cut the baby in half; the true mother, motivated to save the child, offers to give the baby to the other woman. Game theorists have long used this story as a metaphor for situations in which a planner must allocate a good among multiple agents who all claim to deserve it, while the planner lacks private information that the agents possess."
+    },
+    {
+      "type": "p",
+      "text": "What is your contribution to the theory?"
+    },
+    {
+      "type": "p",
+      "text": "I started by developing a new mechanism that, under some light assumptions, solves the classical King Solomon without some of the undesirable features of the existing mechanisms. The two-stage design improves on prior mechanisms in two important ways: it is simpler for participants to play—an important practical consideration because in real settings we cannot assume agents are sophisticated game theorists—and it substantially reduces the risk of very large losses for participants. In mechanism-design terms, it offers limited liability properties that some previous \"state-of-the-art\" solutions lack."
+    },
+    {
+      "type": "p",
+      "text": "But then I realized that the most attractive aspect of this mechanism is the following: the second-stage auction-like procedure used to solve first-stage disputes can be easily transformed into a game of costly disclosure, in which the participants get the chance to prove being right—think of showing a DNA test to King Solomon. In many settings, proving the truth is possible but costly. My mechanism uses the mere availability of a costly disclosure as a deterrent: it functions as a credible threat that induces the participants to reveal the truth in the first stage.This feature makes the mechanism potentially useful for real-world problems where verification is expensive or privacy-sensitive."
+    },
+    {
+      "type": "p",
+      "text": "What other directions has your research taken you?"
+    },
+    {
+      "type": "p",
+      "text": "The original Solomon story crucially depends on emotional or moral responses, but many game-theoretic applications abstract those away and assume purely self-interested agents. One promising direction is to extend the mechanism to settings in which psychological payoffs or privacy concerns matter; the mechanism can be designed to exploit those incentives (in the same spirit Solomon exploits maternal affection) while still preserving the desirable incentive and liability properties."
+    },
+    {
+      "type": "p",
+      "text": "So, this is one of the main things I'm working on right now: a new, two-stage mechanism for allocation problems inspired by the King Solomon dilemma, with potentially broader applications to costly disclosure, privacy, litigation, and settings where psychology matters."
+    },
+    {
+      "type": "p",
+      "text": "How can your research be applied in the real world?"
+    },
+    {
+      "type": "p",
+      "text": "The design could affect how trials are organized or how court settlements are negotiated: systems where parties can, at cost, prove claims but where the mechanism is arranged so that verification is unlikely to be needed in equilibrium. It may also be adapted to environments with privacy costs—where proving the truth reveals sensitive information and thus creates additional strategic considerations."
+    },
+    {
+      "type": "p",
+      "text": "Applications include grant allocation or tax exemptions, where the goal is to identify who is truly most deserving. For instance, deciding which student or which research institution is most deserving. More generally, it applies to all situations where a government or policymaker needs to make the right decision for a community. In these situations, valuable information exists within the community, but not everyone has the same willingness to reveal it."
+    },
+    {
+      "type": "p",
+      "text": "The challenge, then, is to design a way to elicit what people in the community know and to use that information effectively, even though individuals may not tell the full truth."
+    },
+    {
+      "type": "p",
+      "text": "How did your experiences in engineering, marketing, and management shape your passion for economics?"
+    },
+    {
+      "type": "p",
+      "text": "I studied engineering, then management, but I realized those were not what I wanted to do for the rest of my life. I think going through engineering school was very valuable for developing problem-solving skills, because engineering is extremely concrete. You use mathematics, but always with a very specific goal in mind. In that sense, engineering is a great training ground for learning how to approach problems in a practical, solution-oriented way."
+    },
+    {
+      "type": "p",
+      "text": "I also worked for a year in marketing, which was helpful in a different sense—it gave me a better sense of how to construct a narrative and communicate ideas effectively. I became exposed to economics through management courses, but it was only during my first year of my PhD that I truly understood what economics is about. Once I studied it properly, I discovered game theory, which eventually became my main research field."
+    },
+    {
+      "type": "p",
+      "text": "What about game theory draws you in?"
+    },
+    {
+      "type": "p",
+      "text": "Many economists today emphasize price frictions and argue that the world is imperfect because prices cannot adjust instantly. Personally, I don’t fully agree. I think the world is imperfect because it is very difficult to make accurate predictions. There is always a mismatch between expectations and reality. This is something game theory addresses well—issues of information asymmetry, for example, are at the root of many real-world problems, from classic stories like King Solomon’s judgment to modern financial markets."
+    },
+    {
+      "type": "p",
+      "text": "Looking ahead, I would like to further connect my work with macroeconomics. I am sure there are many directions for research, and I want to continue contributing in that space."
+    },
+    {
+      "type": "figcaption",
+      "text": "Left: In a workshop designed to help students explore potential majors, Catonini presents “tricky questions” that come up in his Advanced Economic Theory class. Right: He also leads NYU Shanghai’s community basketball group, where faculty and staff gather for weekly games and occasionally join tournaments."
+    },
+    {
+      "type": "p",
+      "text": "What do your students come away with after taking a course with you?"
+    },
+    {
+      "type": "p",
+      "text": "I want students to learn structural thinking, how to construct an argument, and how to use precise language. The quality of language directly shapes the quality of thought. So my message is: don’t just think outside the box—first learn to think inside the box. That means working only with the data you have, being scientific and rigorous. This skill is useful well beyond the classroom. To convince someone, to make a strong case—for instance, asking for a raise—you need to present arguments that are precise, rigorous, and professional. That’s the kind of problem-solving ability I want my students to gain."
+    },
+    {
+      "type": "p",
+      "text": "Economic thinking has its own structure; it’s not something you can pick up automatically just because you’re good at mathematics or logic. Even excellent mathematicians who have never studied economics may struggle with it. There’s something distinctive about the way economists analyze problems—something I can’t even fully put into words—that makes it valuable in whatever students choose to do in life."
+    },
+    {
+      "type": "p",
+      "text": "Do you have any advice for your students?"
+    },
+    {
+      "type": "p",
+      "text": "I encourage economics students to stay open to other fields. What I usually tell them is not to rush into making definitive life decisions. Concentrate on what you are doing in the present, so you won’t have regrets. If it doesn’t work out, at least you can say: “I gave it my best, and now I’m ready to try something else.”"
+    },
+    {
+      "type": "p",
+      "text": "Many students feel anxious and believe they must accumulate as many internships and extracurricular activities as possible. I sometimes see resumes that are 22 pages long. In reality, what matters is the two pages that truly reflect what you have done seriously and with passion. Everything else can be cut without regret. Simply listing every minor activity or conference may even backfire, because it suggests a lack of focus or depth."
+    },
+    {
+      "type": "p",
+      "text": "So my advice is: don’t spread yourself too thin. Instead, pursue a few things you genuinely care about and commit to them fully. That way, when you talk to a potential employer, you can say: “I did this because I was truly interested, and I tried to do it as well as I could.” That speaks far more than a long list of superficial experiences."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/focus_image",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/focus_image/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/focus_image/what_im_working_on_-_emiliano_catonini-01.jpg?itok=_-pTa88p",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/what_im_working_on_-_emiliano_catonini-01-2f9eca1d4da6.jpg",
+      "download_status": "downloaded",
+      "bytes": 53849,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Emiliano%20Catonini%E2%80%99s%20Modern%20Take%20on%20the%20Ancient%20%E2%80%9CKing%20Solomon%20Dilemma%E2%80%9D%20-02.jpg",
+      "alt": "Left: In a workshop designed to help students explore potential majors, Catonini presents “tricky questions” that come up in his Advanced Economic Theory class. Right: He also leads NYU Shanghai’s community basketball group, where faculty and staff gather for weekly games and occasionally join tournaments.",
+      "caption": "Left: In a workshop designed to help students explore potential majors, Catonini presents “tricky questions” that come up in his Advanced Economic Theory class. Right: He also leads NYU Shanghai’s community basketball group, where faculty and staff gather for weekly games and occasionally join tournaments.",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/Emiliano%20Catonini%E2%80%99s%20Modern%20Take%20on%20the%20Ancient%20%E2%80%9CKing%20Solomon%20Dilemma%E2%80%9D%20-02.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Emiliano%20Catonini%E2%80%99s%20Modern%20Take%20on%20the%20Ancient%20%E2%80%9CKing%20Solomon%20Dilemma%E2%80%9D&url=https%3A//shanghai.nyu.edu/is/emiliano-catoninis-modern-take-ancient-king-solomon-dilemma&status=Emiliano%20Catonini%E2%80%99s%20Modern%20Take%20on%20the%20Ancient%20%E2%80%9CKing%20Solomon%20Dilemma%E2%80%9D%20https%3A//shanghai.nyu.edu/is/emiliano-catoninis-modern-take-ancient-king-solomon-dilemma",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/is/emiliano-catoninis-modern-take-ancient-king-solomon-dilemma&title=Emiliano%20Catonini%E2%80%99s%20Modern%20Take%20on%20the%20Ancient%20%E2%80%9CKing%20Solomon%20Dilemma%E2%80%9D",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/is/emiliano-catoninis-modern-take-ancient-king-solomon-dilemma&title=Emiliano%20Catonini%E2%80%99s%20Modern%20Take%20on%20the%20Ancient%20%E2%80%9CKing%20Solomon%20Dilemma%E2%80%9D",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/emiliano-catonini",
+      "text": "Emiliano Catonini",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1480,
+  "crawled_at": "2026-06-09T04:33:23+00:00",
+  "sequence": 677
+}

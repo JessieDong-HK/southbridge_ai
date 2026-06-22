@@ -1,0 +1,57 @@
+{
+  "id": "academics__faculty__directory__li-guo-cc7f2dc6dc",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/li-guo",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/li-guo",
+  "page_type": "academics",
+  "title": "Li",
+  "description": "Li Guo is the Area Head of Data Science and an Associate Professor of Practice in Data Science at NYU Shanghai. Guo’s research and technical skills center around statistical analysis. She incorporates this specialty to perform research into deep neural networks to study natural language processing",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Li Guo\nLi Guo is the Area Head of Data Science and an Associate Professor of Practice in Data Science at NYU Shanghai. Guo’s research and technical skills center around statistical analysis. She incorporates this specialty to perform research into deep neural networks to study natural language processing and computer vision. Guo also specializes in machine learning models, including generalized linear models, logistic regression, and cluster analysis. Prior to joining NYU Shanghai, Guo worked as a data scientist with Alibaba Groups and as a statistician with Kelley Blue Book. Her research has appeared in the Australian & New Zealand Journal of Statistics and the American Journal of Cosmetic Surgery.\nEducation\nPhD, Applied StatisticsUniversity of California, Riverside\nIntroduction to Computer Science",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Li Guo"
+    },
+    {
+      "type": "p",
+      "text": "Li Guo is the Area Head of Data Science and an Associate Professor of Practice in Data Science at NYU Shanghai. Guo’s research and technical skills center around statistical analysis. She incorporates this specialty to perform research into deep neural networks to study natural language processing and computer vision. Guo also specializes in machine learning models, including generalized linear models, logistic regression, and cluster analysis. Prior to joining NYU Shanghai, Guo worked as a data scientist with Alibaba Groups and as a statistician with Kelley Blue Book. Her research has appeared in the Australian & New Zealand Journal of Statistics and the American Journal of Cosmetic Surgery."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Applied StatisticsUniversity of California, Riverside"
+    },
+    {
+      "type": "li",
+      "text": "Introduction to Computer Science"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/retouched%202024.3.1%EF%BC%88%E6%9B%B9%EF%BC%890147.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/retouched-202024.3.1-EF-BC-88-E6-9B-B9-EF-BC-890147-ef91bcd00b79.jpg",
+      "download_status": "downloaded",
+      "bytes": 650170,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cs.shanghai.nyu.edu/faculty/li-guo-guoli",
+      "text": "https://cs.shanghai.nyu.edu/faculty/li-guo-guoli",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 120,
+  "crawled_at": "2026-06-09T04:43:25+00:00",
+  "sequence": 1551
+}

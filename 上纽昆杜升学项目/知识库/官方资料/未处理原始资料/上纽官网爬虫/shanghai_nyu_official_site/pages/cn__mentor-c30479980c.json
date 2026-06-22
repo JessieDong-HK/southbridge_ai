@@ -1,0 +1,138 @@
+{
+  "id": "cn__mentor-c30479980c",
+  "url": "https://shanghai.nyu.edu/cn/mentor",
+  "canonical_url": "https://shanghai.nyu.edu/cn/mentor",
+  "page_type": "cn",
+  "title": "校友导师项目",
+  "description": "在一项关于校友项目的调查中，上纽大超过35%的受访学生表示最希望得到校友的指导。基于这一反馈，纽大全球校友项目与上海纽约大学职业发展中心合作，于2015年春季启动了校友导师项目。通过申请，被选中的学生可与在亚洲工作的资深校友结成对子，收获职业发展指导。 该项目每年都会举行启动招待会，并在学期结束时举办答谢晚宴。我们鼓励学生和导师在项目期间多次会面。导师可与学生分享深入了解现实世界的视角，并为他们未来的职业目标提供建议和指导。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "校友导师项目\n在一项关于校友项目的调查中，上纽大超过35%的受访学生表示最希望得到校友的指导。基于这一反馈，纽大全球校友项目与上海纽约大学职业发展中心合作，于2015年春季启动了校友导师项目。通过申请，被选中的学生可与在亚洲工作的资深校友结成对子，收获职业发展指导。\n该项目每年都会举行启动招待会，并在学期结束时举办答谢晚宴。我们鼓励学生和导师在项目期间多次会面。导师可与学生分享深入了解现实世界的视角，并为他们未来的职业目标提供建议和指导。\n导师与学员故事集\nRead our previous Mentee Story Books\nAY23-24 Mentee Story Book\nAY22-23 Mentee Story Book\nAY21-22 Mentee Story Book\nAY20-21 Mentee Story Book\nAY19-20 Mentee Story Book\n如何参与\n校友可提交一份一页的自我介绍至xin.wei@nyu.edu，内容包括姓名、照片、从纽约大学毕业的专业和年份、目前的工作单位与头衔、专业领域和简短的职业简历。\n请留意每年冬季的申请公告。",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "校友导师项目"
+    },
+    {
+      "type": "p",
+      "text": "在一项关于校友项目的调查中，上纽大超过35%的受访学生表示最希望得到校友的指导。基于这一反馈，纽大全球校友项目与上海纽约大学职业发展中心合作，于2015年春季启动了校友导师项目。通过申请，被选中的学生可与在亚洲工作的资深校友结成对子，收获职业发展指导。"
+    },
+    {
+      "type": "p",
+      "text": "该项目每年都会举行启动招待会，并在学期结束时举办答谢晚宴。我们鼓励学生和导师在项目期间多次会面。导师可与学生分享深入了解现实世界的视角，并为他们未来的职业目标提供建议和指导。"
+    },
+    {
+      "type": "h3",
+      "text": "导师与学员故事集"
+    },
+    {
+      "type": "p",
+      "text": "Read our previous Mentee Story Books"
+    },
+    {
+      "type": "li",
+      "text": "AY23-24 Mentee Story Book"
+    },
+    {
+      "type": "li",
+      "text": "AY22-23 Mentee Story Book"
+    },
+    {
+      "type": "li",
+      "text": "AY21-22 Mentee Story Book"
+    },
+    {
+      "type": "li",
+      "text": "AY20-21 Mentee Story Book"
+    },
+    {
+      "type": "li",
+      "text": "AY19-20 Mentee Story Book"
+    },
+    {
+      "type": "h4",
+      "text": "如何参与"
+    },
+    {
+      "type": "p",
+      "text": "校友可提交一份一页的自我介绍至xin.wei@nyu.edu，内容包括姓名、照片、从纽约大学毕业的专业和年份、目前的工作单位与头衔、专业领域和简短的职业简历。"
+    },
+    {
+      "type": "p",
+      "text": "请留意每年冬季的申请公告。"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/cdc.jpg",
+      "alt": "CDC",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/cdc-ea2dd336a93c.jpg",
+      "download_status": "downloaded",
+      "bytes": 96630,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/2023-24_0.jpg",
+      "alt": "A Decade of Journeys: Alumni Mentee Story Special",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/mentor-program-1-8.jpg",
+      "alt": "Interested in participating?",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/mentor-program-1-8-0a47ff31390f.jpg",
+      "download_status": "downloaded",
+      "bytes": 58176,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/mentor/advice",
+      "text": "导师与学员故事集",
+      "internal": true
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/decade_of_journeys_alumni_mentee_story_special.pdf",
+      "text": "A Decade of Journeys: Alumni Mentee Story Special",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/alumni_executive_mentor_program_2023-24_mentee_story_book.pdf",
+      "text": "AY23-24 Mentee Story Book",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/22-23_mentee_storybook.pdf",
+      "text": "AY22-23 Mentee Story Book",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/21-22_mentee_story_book.pdf",
+      "text": "AY21-22 Mentee Story Book",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/2020-2021_mentee_story_book93.pdf",
+      "text": "AY20-21 Mentee Story Book",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/2019-2020_mentee_story_book-1009.pdf",
+      "text": "AY19-20 Mentee Story Book",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 58,
+  "crawled_at": "2026-06-09T04:37:00+00:00",
+  "sequence": 996
+}

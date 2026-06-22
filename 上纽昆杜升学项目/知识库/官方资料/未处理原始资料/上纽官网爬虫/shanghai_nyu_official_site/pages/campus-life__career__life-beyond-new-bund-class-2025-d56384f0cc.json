@@ -1,0 +1,90 @@
+{
+  "id": "campus-life__career__life-beyond-new-bund-class-2025-d56384f0cc",
+  "url": "https://shanghai.nyu.edu/campus-life/career/life-beyond-new-bund-class-2025",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/career/life-beyond-new-bund-class-2025",
+  "page_type": "campus-life",
+  "title": "Life Beyond the New Bund: Class of 2025",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Life Beyond the New Bund: Class of 2025\nNYU Shanghai’s Class of 2025 has completed a four-year journey defined by curiosity, resilience, and global perspectives. In a community that bridges the best of Chinese and American higher education, they have cultivated the ability to engage with the world and be informed. From the New Bund campus to graduate study, careers, and new adventures around the globe, they carry forward the distinctive spirit of “Made in NYU Shanghai.”\nAccording to the 2025 First Destination Report, 399 graduates from 42 countries and regions have launched the next chapter of their lives across 35 countries and regions worldwide. From advanced studies and entrepreneurship to cutting-edge technology and public service, their choices reflect the diversity, ambition, and sense of purpose that define the NYU Shanghai community.\nIn a complex and rapidly changing global landscape, the Class of 2025 continues to demonstrate curiosity and a spirit of exploration. Notably, a record 14 graduates have chosen to pursue entrepreneurial paths — some even beyond their home countries — turning ideas into action and meeting the opportunities and challenges of our time with creativity and vision.\nMay the Class of 2025 move forward with the courage to lead and the determination to build, leaving their distinctive mark on the world. Wherever their paths may lead, NYU Shanghai is proud to stand behind every new beginning.\n*Statistics are rounded to the nearest whole number. Therefore, totals do not always equal 100%.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Life Beyond the New Bund: Class of 2025"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai’s Class of 2025 has completed a four-year journey defined by curiosity, resilience, and global perspectives. In a community that bridges the best of Chinese and American higher education, they have cultivated the ability to engage with the world and be informed. From the New Bund campus to graduate study, careers, and new adventures around the globe, they carry forward the distinctive spirit of “Made in NYU Shanghai.”"
+    },
+    {
+      "type": "p",
+      "text": "According to the 2025 First Destination Report, 399 graduates from 42 countries and regions have launched the next chapter of their lives across 35 countries and regions worldwide. From advanced studies and entrepreneurship to cutting-edge technology and public service, their choices reflect the diversity, ambition, and sense of purpose that define the NYU Shanghai community."
+    },
+    {
+      "type": "p",
+      "text": "In a complex and rapidly changing global landscape, the Class of 2025 continues to demonstrate curiosity and a spirit of exploration. Notably, a record 14 graduates have chosen to pursue entrepreneurial paths — some even beyond their home countries — turning ideas into action and meeting the opportunities and challenges of our time with creativity and vision."
+    },
+    {
+      "type": "p",
+      "text": "May the Class of 2025 move forward with the courage to lead and the determination to build, leaving their distinctive mark on the world. Wherever their paths may lead, NYU Shanghai is proud to stand behind every new beginning."
+    },
+    {
+      "type": "p",
+      "text": "*Statistics are rounded to the nearest whole number. Therefore, totals do not always equal 100%."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/1_11.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/1_11.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/2_6.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/2_6.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/3_5.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/4_5.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/4_5.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/5_3.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/5_3.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 244,
+  "crawled_at": "2026-06-09T04:34:11+00:00",
+  "sequence": 750
+}

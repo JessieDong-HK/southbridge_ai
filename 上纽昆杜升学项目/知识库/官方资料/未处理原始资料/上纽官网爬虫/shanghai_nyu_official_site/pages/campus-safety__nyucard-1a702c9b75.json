@@ -1,0 +1,161 @@
+{
+  "id": "campus-safety__nyucard-1a702c9b75",
+  "url": "https://shanghai.nyu.edu/campus-safety/nyucard",
+  "canonical_url": "https://shanghai.nyu.edu/campus-safety/nyucard",
+  "page_type": "campus-safety",
+  "title": "NYUCard",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "NYUCard\nThe NYUCard is required for all NYU faculty, staff, and students. It enables cardholders to access NYU’s three campuses and twelve academic centers within the New York University Global Network University (GNU), and provides access to essential services including dining, printing, billing, library resources, and campus transportation.\nThe NYUCard must be carried at all times while on campus. As the card remains the property of the University, individuals who separate from NYU for any reason are required to return their card to the Campus Safety Office (Room S103) prior to departure to avoid the assessment of any future fees.\nFront and Back\nAccess Privileges\nElectronic access privileges are reviewed each semester and are contingent upon enrollment status as an NYU student. If your access privileges are deactivated for any reason, please contact Campus Safety for assistance.\nInterior campus doors may be managed by designated area managers through the web-based Access Management System (VPN required). Detailed guidelines are available here. If you require access to specific areas, such as laboratories or lounges, please contact the relevant area manager or Campus Safety.\nCommunity members from other campuses or academic centers within the New York University Global Network, aside from NYU Shanghai, do not have automatic access privileges to the NYU Shanghai campus. Please contact Campus Safety at shanghai.safety@nyu.edu to inquire about entry procedures.\nGet Your NYUCard\nStep 1: Submit your photo online or by email to shanghai.safety@nyu.edu.Step 2: Ensure that your NetID and NYU email account have been activated.Step 3: Wait for the confirmation email, then visit the designated location to pick up your NYU Card.\nWalk-in photo service:Room S103, 1st Floor, South Hall, New Bund Campus\nAdministrative departments may apply for an NYU Card on behalf of new employees by submitting the online application form. Detailed guidelines are available here.\nReplace a Lost, Damaged, or Expired Card\nIf your NYUCard is lost or suspected to be stolen, please report it to Campus Safety as soon as possible by one of the following methods: completing a replacement application through the NYU Shanghai WeChat Enterprise Account, submitting the online form, or visiting the Service Center in Room S103 at the New Bund Campus.\nA card replacement fee of RMB 150 will be charged if the original card cannot be presented at the time of application. Payment may be made online via WeChat Pay or Alipay, or in person at the Bursar Office. No fee will be charged if the original NYUCard is returned due to damage or expiration.\nOnce payment is confirmed, Campus Safety will issue a replacement card within two working days. An email notification will be sent when the card is ready for pickup.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "NYUCard"
+    },
+    {
+      "type": "p",
+      "text": "The NYUCard is required for all NYU faculty, staff, and students. It enables cardholders to access NYU’s three campuses and twelve academic centers within the New York University Global Network University (GNU), and provides access to essential services including dining, printing, billing, library resources, and campus transportation."
+    },
+    {
+      "type": "p",
+      "text": "The NYUCard must be carried at all times while on campus. As the card remains the property of the University, individuals who separate from NYU for any reason are required to return their card to the Campus Safety Office (Room S103) prior to departure to avoid the assessment of any future fees."
+    },
+    {
+      "type": "h3",
+      "text": "Front and Back"
+    },
+    {
+      "type": "h3",
+      "text": "Access Privileges"
+    },
+    {
+      "type": "p",
+      "text": "Electronic access privileges are reviewed each semester and are contingent upon enrollment status as an NYU student. If your access privileges are deactivated for any reason, please contact Campus Safety for assistance."
+    },
+    {
+      "type": "p",
+      "text": "Interior campus doors may be managed by designated area managers through the web-based Access Management System (VPN required). Detailed guidelines are available here. If you require access to specific areas, such as laboratories or lounges, please contact the relevant area manager or Campus Safety."
+    },
+    {
+      "type": "p",
+      "text": "Community members from other campuses or academic centers within the New York University Global Network, aside from NYU Shanghai, do not have automatic access privileges to the NYU Shanghai campus. Please contact Campus Safety at shanghai.safety@nyu.edu to inquire about entry procedures."
+    },
+    {
+      "type": "h3",
+      "text": "Get Your NYUCard"
+    },
+    {
+      "type": "p",
+      "text": "Step 1: Submit your photo online or by email to shanghai.safety@nyu.edu.Step 2: Ensure that your NetID and NYU email account have been activated.Step 3: Wait for the confirmation email, then visit the designated location to pick up your NYU Card."
+    },
+    {
+      "type": "p",
+      "text": "Walk-in photo service:Room S103, 1st Floor, South Hall, New Bund Campus"
+    },
+    {
+      "type": "p",
+      "text": "Administrative departments may apply for an NYU Card on behalf of new employees by submitting the online application form. Detailed guidelines are available here."
+    },
+    {
+      "type": "h3",
+      "text": "Replace a Lost, Damaged, or Expired Card"
+    },
+    {
+      "type": "p",
+      "text": "If your NYUCard is lost or suspected to be stolen, please report it to Campus Safety as soon as possible by one of the following methods: completing a replacement application through the NYU Shanghai WeChat Enterprise Account, submitting the online form, or visiting the Service Center in Room S103 at the New Bund Campus."
+    },
+    {
+      "type": "p",
+      "text": "A card replacement fee of RMB 150 will be charged if the original card cannot be presented at the time of application. Payment may be made online via WeChat Pay or Alipay, or in person at the Bursar Office. No fee will be charged if the original NYUCard is returned due to damage or expiration."
+    },
+    {
+      "type": "p",
+      "text": "Once payment is confirmed, Campus Safety will issue a replacement card within two working days. An email notification will be sent when the card is ready for pickup."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-safety-02-2-min.jpg",
+      "alt": "NYUCard Front and Back",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-safety-02-2-min.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/screenshot_2024-03-01_at_11.25.46.png",
+      "alt": "CS",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/screenshot_2024-03-01_at_11.25.46.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-safety-02-4-min.jpg",
+      "alt": "Replace a card on Wechat",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-safety-02-4-min.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-safety-02-5-min.jpg",
+      "alt": "Online Form",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-safety-02-5-min.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-safety-02-6-min.jpg",
+      "alt": "Walk-in Service: Room 118",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://access.shanghai.nyu.edu/",
+      "text": "Access Management System",
+      "internal": false
+    },
+    {
+      "url": "https://safe.shanghai.nyu.edu/oa/Page_Help?name=2e60e022-8a89-4844-9cb6-2cfe22146db8",
+      "text": "here",
+      "internal": false
+    },
+    {
+      "url": "https://photoid.nyu.edu/",
+      "text": "online",
+      "internal": false
+    },
+    {
+      "url": "https://visitors.shanghai.nyu.edu/service/NYUCardReplacement_NetID",
+      "text": "online application form",
+      "internal": false
+    },
+    {
+      "url": "https://safe.shanghai.nyu.edu/oa/Page_Help?name=bfccc2c5-15ee-4252-bf4e-c8ada156dcbc",
+      "text": "here",
+      "internal": false
+    },
+    {
+      "url": "https://open.work.weixin.qq.com/wwopen/mpnews?mixuin=5kCDEAAABwDi8lKfAAAUAA&mfid=WW0323-_roKaAAABwDyewgPx3jRUgSPsqW3b&idx=1&sn=a6d6a554c87d2cf9f47efcb8344e354a",
+      "text": "Replace a card on WeChat",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 456,
+  "crawled_at": "2026-06-09T04:29:58+00:00",
+  "sequence": 259
+}

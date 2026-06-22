@@ -1,0 +1,48 @@
+{
+  "id": "campuslife__career-action-plan-ebd55ccc67",
+  "url": "https://shanghai.nyu.edu/campuslife/career-action-plan",
+  "canonical_url": "https://shanghai.nyu.edu/campuslife/career-action-plan",
+  "page_type": "campuslife",
+  "title": "Career Action Plan",
+  "description": "Figuring out your career path can seem complicated and intimidating, but early planning can make a huge difference. Our comprehensive four-year career plan serves as a guide to help you achieve your career goals.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Career Action Plan\nFiguring out your career path can seem complicated and intimidating, but early planning can make a huge difference. Our comprehensive four-year career plan serves as a guide to help you achieve your career goals. Your actual journey will be unique, and may not resemble that of your peers or match the four-year action plan exactly. Speak to a career coach to tailor your own action plan and set achievable goals.\nFour Year Career Action Plan (PDF)",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Career Action Plan"
+    },
+    {
+      "type": "p",
+      "text": "Figuring out your career path can seem complicated and intimidating, but early planning can make a huge difference. Our comprehensive four-year career plan serves as a guide to help you achieve your career goals. Your actual journey will be unique, and may not resemble that of your peers or match the four-year action plan exactly. Speak to a career coach to tailor your own action plan and set achievable goals."
+    },
+    {
+      "type": "h2",
+      "text": "Four Year Career Action Plan (PDF)"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/career-action-plan_1.jpg",
+      "alt": "Career Action Plan",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Career%20Action%20Plan%20%28June%202017%29.pdf",
+      "text": "Four Year Career Action Plan (PDF)",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 81,
+  "crawled_at": "2026-06-09T04:32:10+00:00",
+  "sequence": 529
+}

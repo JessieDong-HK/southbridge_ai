@@ -1,0 +1,35 @@
+{
+  "id": "academics__faculty__directory__jiuheng-he-0a29114471",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/jiuheng-he",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/jiuheng-he",
+  "page_type": "academics",
+  "title": "Jiuheng",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Jiuheng He",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Jiuheng He"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Shanghai%20Mascot_19.jpeg",
+      "alt": "Shanghai Mascot",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Shanghai-20Mascot_19-8b7a8497a43e.jpeg",
+      "download_status": "downloaded",
+      "bytes": 103793,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:34:32+00:00",
+  "sequence": 770
+}

@@ -1,0 +1,49 @@
+{
+  "id": "page__ask-student-c38509b427",
+  "url": "https://shanghai.nyu.edu/page/ask-student",
+  "canonical_url": "https://shanghai.nyu.edu/page/ask-student",
+  "page_type": "page",
+  "title": "Ask a Student",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Ask a Student\nWe know you’re eager to learn about NYU Shanghai. Connect with our current students and ask about their college experiences—from classes, studying with international students, roommates, finding their major, making friends—no topic is off limits!\nFind Out Who You Can Ask",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Ask a Student"
+    },
+    {
+      "type": "p",
+      "text": "We know you’re eager to learn about NYU Shanghai. Connect with our current students and ask about their college experiences—from classes, studying with international students, roommates, finding their major, making friends—no topic is off limits!"
+    },
+    {
+      "type": "h2",
+      "text": "Find Out Who You Can Ask"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-admissions-cu-06.jpg",
+      "alt": "Find Out Who You Can Ask",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-admissions-cu-06-a05e455330bb.jpg",
+      "download_status": "downloaded",
+      "bytes": 86243,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/admissions-ambassador?tid=All&field_primary_major_value=All&field_primary_minor_value=All&field_class_value=All&page=1",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 47,
+  "crawled_at": "2026-06-09T04:36:09+00:00",
+  "sequence": 883
+}

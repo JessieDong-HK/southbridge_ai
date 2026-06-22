@@ -1,0 +1,122 @@
+{
+  "id": "news__neuroscience-mathematics-better-understanding-how-we-learn-and-memorize-76023efc61",
+  "url": "https://shanghai.nyu.edu/news/neuroscience-mathematics-better-understanding-how-we-learn-and-memorize",
+  "canonical_url": "https://shanghai.nyu.edu/news/neuroscience-mathematics-better-understanding-how-we-learn-and-memorize",
+  "page_type": "news",
+  "title": "Neuroscience + Mathematics: Better Understanding How We Learn and Memorize",
+  "description": "A new approach proposed to studying how the brain changes and learns.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Neuroscience + Mathematics: Better Understanding How We Learn and Memorize\nTwitter\nFacebook\nWeibo\nThe billions of neurons in our brain communicate with each other via synapses, pathways formed by the transmission of signals. The brain’s ability to adapt to new environments and acquire new knowledge relies on the changing of these connections. This process, called synaptic plasticity, is critical for learning and memory. While many fundamental skills and knowledge are acquired during childhood, ongoing synaptic plasticity is required throughout our lives as we continue to encounter new information and environments.\nSynapses are the “links” between neurons\nA recent study led by Sukbin Lim, Assistant Professor of Neural Science at NYU Shanghai and published in iScience, proposed a new approach to studying how the brain changes and learns over time using machine learning tools. This approach has the potential to facilitate future research in the field of computational neuroscience and could lead to breakthroughs in our understanding of the brain’s cognitive function.\nStudying synaptic plasticity presents a significant challenge, as it requires long-term monitoring of brain network activity during learning. Traditionally, theoretical studies of synaptic plasticity and experiments have been conducted separately. However, Lim has long been interested in combining theoretical studies with experimental data to better understand the functional form of synaptic plasticity and investigate its function based on the theory of network and dynamical systems.\nThe team tackled the neuroscience problem of inferring the synaptic plasticity function by transforming it into a matrix completion problem. This mathematical challenge involves filling in missing information in a large table of data, similar to the “Netflix problem” where movie recommendations are made based on past ratings. The team employed Gaussian process regression (GPR) to solve this math problem by utilizing observed neuron activity to fill in missing data regarding how the strength of connections between neurons evolve over time.\nGPR method is able to recover synaptic plasticity rules from data in various experimental settings\nThe researchers found that GPR outperformed other approaches in recovering plasticity rules under various measurement conditions. GPR was able to recover multiple plasticity rules simultaneously and was resilient to varying levels of data noise. With the evolution of neuroscience techniques and the increasing feasibility of population recording of neuronal activity, vast amounts of data are now available. The efficiency of GPR makes it a fitting candidate for analyzing the vast amounts of data generated from population recording. Furthermore, the method’s versatility extends beyond neuroscience and can be applied to prediction problems in various fields.\nChen Shirui and Yang Qixin share the first authorship of this study, with Shirui joining the project through the NYU Shanghai Summer Undergraduate Research Experience Program (SURP) in Neuroscience and Yang starting the project as an intern at Lim’s lab. Lim expressed her appreciation for their persistent work on the project, even after their time with NYU Shanghai had ended.\nMoving forward, Lim hopes to collaborate with experimentalists to test the proposed GPR method in in vivo experiments. She also plans to develop the GPR method into an interactive approach called active learning. This method uses data to make predictions about changes in neuronal connections and suggests the best way to stimulate the neurons for the next experiment. Such approaches could lead to further advancements in understanding synaptic plasticity and its role in learning and memory, and may ultimately help develop new treatments for related disorders.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Neuroscience + Mathematics: Better Understanding How We Learn and Memorize"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "The billions of neurons in our brain communicate with each other via synapses, pathways formed by the transmission of signals. The brain’s ability to adapt to new environments and acquire new knowledge relies on the changing of these connections. This process, called synaptic plasticity, is critical for learning and memory. While many fundamental skills and knowledge are acquired during childhood, ongoing synaptic plasticity is required throughout our lives as we continue to encounter new information and environments."
+    },
+    {
+      "type": "p",
+      "text": "Synapses are the “links” between neurons"
+    },
+    {
+      "type": "p",
+      "text": "A recent study led by Sukbin Lim, Assistant Professor of Neural Science at NYU Shanghai and published in iScience, proposed a new approach to studying how the brain changes and learns over time using machine learning tools. This approach has the potential to facilitate future research in the field of computational neuroscience and could lead to breakthroughs in our understanding of the brain’s cognitive function."
+    },
+    {
+      "type": "p",
+      "text": "Studying synaptic plasticity presents a significant challenge, as it requires long-term monitoring of brain network activity during learning. Traditionally, theoretical studies of synaptic plasticity and experiments have been conducted separately. However, Lim has long been interested in combining theoretical studies with experimental data to better understand the functional form of synaptic plasticity and investigate its function based on the theory of network and dynamical systems."
+    },
+    {
+      "type": "p",
+      "text": "The team tackled the neuroscience problem of inferring the synaptic plasticity function by transforming it into a matrix completion problem. This mathematical challenge involves filling in missing information in a large table of data, similar to the “Netflix problem” where movie recommendations are made based on past ratings. The team employed Gaussian process regression (GPR) to solve this math problem by utilizing observed neuron activity to fill in missing data regarding how the strength of connections between neurons evolve over time."
+    },
+    {
+      "type": "p",
+      "text": "GPR method is able to recover synaptic plasticity rules from data in various experimental settings"
+    },
+    {
+      "type": "p",
+      "text": "The researchers found that GPR outperformed other approaches in recovering plasticity rules under various measurement conditions. GPR was able to recover multiple plasticity rules simultaneously and was resilient to varying levels of data noise. With the evolution of neuroscience techniques and the increasing feasibility of population recording of neuronal activity, vast amounts of data are now available. The efficiency of GPR makes it a fitting candidate for analyzing the vast amounts of data generated from population recording. Furthermore, the method’s versatility extends beyond neuroscience and can be applied to prediction problems in various fields."
+    },
+    {
+      "type": "p",
+      "text": "Chen Shirui and Yang Qixin share the first authorship of this study, with Shirui joining the project through the NYU Shanghai Summer Undergraduate Research Experience Program (SURP) in Neuroscience and Yang starting the project as an intern at Lim’s lab. Lim expressed her appreciation for their persistent work on the project, even after their time with NYU Shanghai had ended."
+    },
+    {
+      "type": "p",
+      "text": "Moving forward, Lim hopes to collaborate with experimentalists to test the proposed GPR method in in vivo experiments. She also plans to develop the GPR method into an interactive approach called active learning. This method uses data to make predictions about changes in neuronal connections and suggests the best way to stimulate the neurons for the next experiment. Such approaches could lead to further advancements in understanding synaptic plasticity and its role in learning and memory, and may ultimately help develop new treatments for related disorders."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/neuro-science_subkun-01.jpg?itok=QZRpCuxN",
+      "alt": "sukbin study",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/neuro-science_sukbin-05.jpg",
+      "alt": "synapses",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/ga3.png",
+      "alt": "GPR",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ga3-ec1253e7d50f.png",
+      "download_status": "downloaded",
+      "bytes": 84147,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Neuroscience%20%20%20Mathematics%3A%20Better%20Understanding%20How%20We%20Learn%20and%20Memorize&url=https%3A//shanghai.nyu.edu/news/neuroscience-mathematics-better-understanding-how-we-learn-and-memorize&status=Neuroscience%20%20%20Mathematics%3A%20Better%20Understanding%20How%20We%20Learn%20and%20Memorize%20https%3A//shanghai.nyu.edu/news/neuroscience-mathematics-better-understanding-how-we-learn-and-memorize",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/neuroscience-mathematics-better-understanding-how-we-learn-and-memorize&title=Neuroscience%20%20%20Mathematics%3A%20Better%20Understanding%20How%20We%20Learn%20and%20Memorize",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/neuroscience-mathematics-better-understanding-how-we-learn-and-memorize&title=Neuroscience%20%20%20Mathematics%3A%20Better%20Understanding%20How%20We%20Learn%20and%20Memorize",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/sukbin-lim",
+      "text": "Sukbin Lim",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 566,
+  "crawled_at": "2026-06-09T04:40:51+00:00",
+  "sequence": 1329
+}

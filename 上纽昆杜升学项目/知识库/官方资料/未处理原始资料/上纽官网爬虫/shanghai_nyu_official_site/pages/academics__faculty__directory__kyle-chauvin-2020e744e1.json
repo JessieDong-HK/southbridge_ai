@@ -1,0 +1,94 @@
+{
+  "id": "academics__faculty__directory__kyle-chauvin-2020e744e1",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/kyle-chauvin",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/kyle-chauvin",
+  "page_type": "academics",
+  "title": "Kyle",
+  "description": "Kyle Chauvin is an Assistant Professor of Economics at NYU Shanghai. His research in microeconomic theory and behavioral economics investigates the consequences of imperfect learning for communication, persuasion, discrimination, and social networks.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Kyle Chauvin\nKyle Chauvin is an Assistant Professor of Economics at NYU Shanghai. His research in microeconomic theory and behavioral economics investigates the consequences of imperfect learning for communication, persuasion, discrimination, and social networks.\nEducation\nPhD, EconomicsPrinceton University\nPhD, EconomicsPrinceton University\nMAPrinceton University\nBAHarvard University\nMicroeconomic Theory\nBehavioral Economics\nIntermediate Microeconomics\nMarket Design\nBehavioral Economics",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Kyle Chauvin"
+    },
+    {
+      "type": "p",
+      "text": "Kyle Chauvin is an Assistant Professor of Economics at NYU Shanghai. His research in microeconomic theory and behavioral economics investigates the consequences of imperfect learning for communication, persuasion, discrimination, and social networks."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, EconomicsPrinceton University"
+    },
+    {
+      "type": "p",
+      "text": "PhD, EconomicsPrinceton University"
+    },
+    {
+      "type": "li",
+      "text": "MAPrinceton University"
+    },
+    {
+      "type": "li",
+      "text": "BAHarvard University"
+    },
+    {
+      "type": "li",
+      "text": "Microeconomic Theory"
+    },
+    {
+      "type": "li",
+      "text": "Behavioral Economics"
+    },
+    {
+      "type": "li",
+      "text": "Intermediate Microeconomics"
+    },
+    {
+      "type": "li",
+      "text": "Market Design"
+    },
+    {
+      "type": "li",
+      "text": "Behavioral Economics"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/unnamed%20%281%29.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.kylechauvin.com",
+      "text": "https://www.kylechauvin.com",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/1EUT6usQ_H5X2pEWikft9yGQ5GWHu83tm/view?usp=sharing",
+      "text": "CV",
+      "internal": false
+    },
+    {
+      "url": "http://www.kylechauvin.com/",
+      "text": "personal website",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 55,
+  "crawled_at": "2026-06-09T04:54:21+00:00",
+  "sequence": 2426
+}

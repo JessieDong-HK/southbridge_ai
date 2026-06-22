@@ -1,0 +1,88 @@
+{
+  "id": "academics__faculty__directory__raymond-ro-999dcc8772",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/raymond-ro",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/raymond-ro",
+  "page_type": "academics",
+  "title": "Raymond",
+  "description": "Raymond Ro is the Associate Dean of Business and an Associate Professor of Practice in Business at NYU Shanghai. He is a professor, engineer, and lawyer. He has taught at NYU Shanghai since 2012, when the institution was just a study-away site. His academic and teaching interests include: the",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Raymond Ro\nRaymond Ro is the Associate Dean of Business and an Associate Professor of Practice in Business at NYU Shanghai. He is a professor, engineer, and lawyer. He has taught at NYU Shanghai since 2012, when the institution was just a study-away site. His academic and teaching interests include: the intersection of law, business, and technology; management and organizations; marketing; entrepreneurship; leadership; professional responsibility; and comparative intellectual property law. Raymond is also the Shanghai site faculty for Experiential Learning in the Global Liberal Studies program at NYU. Prior to his teaching career, Raymond worked as a biomedical engineer researching cancer detection methods using ultrasound technology. He also worked as a patent attorney in the U.S. with an international law firm, where he litigated and prosecuted patents and counseled clients with their start-up strategies. Additionally, Raymond conducts executive education training courses for private and governmental entities, and he also serves on the Advisory Board of the Lemann Program on Creativity and Entrepreneurship at Harvard University. Raymond enjoys playing sports, learning Chinese, trying unique foods, and watching American football.\nEducation\nJD, LawUniversity of Wisconsin-Madison\nPhD, Biomedical EngineeringDrexel University\nBusiness Independent Study\nCITY AS TEXT\nExperiential Learning\nIntroduction to Marketing\nLaw, Business, & Society\nManagement and Organizations\nPracticum on Innovation and Branding\nProfessional Responsibility & Leadership",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Raymond Ro"
+    },
+    {
+      "type": "p",
+      "text": "Raymond Ro is the Associate Dean of Business and an Associate Professor of Practice in Business at NYU Shanghai. He is a professor, engineer, and lawyer. He has taught at NYU Shanghai since 2012, when the institution was just a study-away site. His academic and teaching interests include: the intersection of law, business, and technology; management and organizations; marketing; entrepreneurship; leadership; professional responsibility; and comparative intellectual property law. Raymond is also the Shanghai site faculty for Experiential Learning in the Global Liberal Studies program at NYU. Prior to his teaching career, Raymond worked as a biomedical engineer researching cancer detection methods using ultrasound technology. He also worked as a patent attorney in the U.S. with an international law firm, where he litigated and prosecuted patents and counseled clients with their start-up strategies. Additionally, Raymond conducts executive education training courses for private and governmental entities, and he also serves on the Advisory Board of the Lemann Program on Creativity and Entrepreneurship at Harvard University. Raymond enjoys playing sports, learning Chinese, trying unique foods, and watching American football."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "JD, LawUniversity of Wisconsin-Madison"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Biomedical EngineeringDrexel University"
+    },
+    {
+      "type": "li",
+      "text": "Business Independent Study"
+    },
+    {
+      "type": "li",
+      "text": "CITY AS TEXT"
+    },
+    {
+      "type": "li",
+      "text": "Experiential Learning"
+    },
+    {
+      "type": "li",
+      "text": "Introduction to Marketing"
+    },
+    {
+      "type": "li",
+      "text": "Law, Business, & Society"
+    },
+    {
+      "type": "li",
+      "text": "Management and Organizations"
+    },
+    {
+      "type": "li",
+      "text": "Practicum on Innovation and Branding"
+    },
+    {
+      "type": "li",
+      "text": "Professional Responsibility & Leadership"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/z_0320_selected.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://lpce.college.harvard.edu/advisory-board-1/raymond-ro",
+      "text": "Lemann Program on Creativity and Entrepreneurship",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 216,
+  "crawled_at": "2026-06-09T04:43:13+00:00",
+  "sequence": 1538
+}

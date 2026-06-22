@@ -1,0 +1,248 @@
+{
+  "id": "academics__graduate__news-2ed7752eda",
+  "url": "https://shanghai.nyu.edu/academics/graduate/news?page=4",
+  "canonical_url": "https://shanghai.nyu.edu/academics/graduate/news",
+  "page_type": "academics",
+  "title": "Graduate News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Graduate News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Graduate News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/screen_shot_2022-02-14_at_1.23.45_pm_1.png?itok=umqmCDKr",
+      "alt": "photo",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2022-02-14_at_1.23.45_pm_1-45001f991594.png",
+      "download_status": "downloaded",
+      "bytes": 161086,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/craigfeng_mian_tu_.jpg?itok=VEo-BdO0",
+      "alt": "prof. Craig",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/craigfeng_mian_tu-bcf599b909d1.jpg",
+      "download_status": "downloaded",
+      "bytes": 21272,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/phd_cover_3_-_wechat_thumbnail_image-01-2.jpg?itok=ntmP8TlG",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/phd_cover_3_-_wechat_thumbnail_image-01-2-adb2e9bcbf61.jpg",
+      "download_status": "downloaded",
+      "bytes": 20224,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/640_1-3.jpg?itok=ctxR28qR",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/640_1-3-3385467b0ab9.jpg",
+      "download_status": "downloaded",
+      "bytes": 41534,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/guan_chenghewechat_thumbnail_image-01.jpg?itok=Xh6cycsy",
+      "alt": "new phd in public administration",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/guan_chenghewechat_thumbnail_image-01-0e129de8fd46.jpg",
+      "download_status": "downloaded",
+      "bytes": 38588,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/dabc.png?itok=sAYb0_kP",
+      "alt": "image",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/dabc-c901e795b11b.png",
+      "download_status": "downloaded",
+      "bytes": 187660,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/qf.png?itok=GHc12SwA",
+      "alt": "image",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/yutong_cai.jpg?itok=7zE2ViKa",
+      "alt": "image",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/yutong_cai.jpg?itok=7zE2ViKa (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol ("
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/xiaoxuan_li.png?itok=Ts3yudWJ",
+      "alt": "image",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/xiaoxuan_li-3c736a2ba659.png",
+      "download_status": "downloaded",
+      "bytes": 180205,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/tesol_alumni_banner.jpg?itok=8b8-gBmH",
+      "alt": "tesol chen chen yan zheyuan1",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/tesol_alumni_banner-626394bf9ec4.jpg",
+      "download_status": "downloaded",
+      "bytes": 18974,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/stern_program_recap_-_wechat_thumbnail_image-01_2.jpg?itok=p_g8D1GK",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/stern_program_recap_-_wechat_thumbnail_image-01_2-70c4c6a5a55a.jpg",
+      "download_status": "downloaded",
+      "bytes": 34037,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/low_res_banner.jpeg?itok=xKHytsm7",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/low_res_banner-1d2424782cbd.jpeg",
+      "download_status": "downloaded",
+      "bytes": 21882,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/press_release.jpg?itok=Yt-jpGFr",
+      "alt": "stern new program announce cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/press_release-76f5665948c3.jpg",
+      "download_status": "downloaded",
+      "bytes": 31666,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/liu_haoyang.jpg?itok=aW4ItlQl",
+      "alt": "liu haoyang cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/liu_haoyang-065fcda2237c.jpg",
+      "download_status": "downloaded",
+      "bytes": 10410,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/hongyue_shi.jpg?itok=93GPcM2X",
+      "alt": "shi hongyue profile msdabc",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/hongyue_shi.jpg?itok=93GPcM2X (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol "
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/huang-fangling-ima-22-stay-curious-and-keep-exploring",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/program-director-prof-craig-protzel-metaverse-ai-ima-your-key-future",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-awards-first-phd-neural-science-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/timothy-heck-msw-23-journey-empowerment",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-launches-new-phd-public-administration-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/meet-cohort-leaders-msdabc-class-2022",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/meet-cohort-leaders-msqf-class-2022",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/student-ambassador-yutong-cai-dabc-22-sharing",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/student-ambassador-xiaoxuan-li-qf-22-sharing",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/tesol-alumni-chen-chen-and-yan-zheyuan-colleagues-classmates",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-nyu-stern-launch-new-ms-programs-industry-leaders-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/first-class-ima-masters-students-graduates-new-skills-new-directions-1",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-and-nyu-stern-launch-new-masters-degrees-management-and-marketing-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/liu-haoyang-msqf-21",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/shi-hongyue-msdabc-21",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:42:52+00:00",
+  "sequence": 1510
+}

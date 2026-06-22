@@ -1,0 +1,93 @@
+{
+  "id": "it__virtualmachine-9e2d8dd22e",
+  "url": "https://shanghai.nyu.edu/it/virtualmachine",
+  "canonical_url": "https://shanghai.nyu.edu/it/virtualmachine",
+  "page_type": "it",
+  "title": "Virtual Machine",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Virtual Machine\nShanghai IT provides several virtual machine options that can be used for academic and administration purposes.\nWho can use this service?\nNYU Faculty and Staff\nHow much does it cost?\nThis service is free, but the user may have to pay for the license of the OS working on the virtual machine. Users can apply for Microsoft Imagine to obtain the OS for research/academic purposes.\nHow can users access this service?\nPlease fill out the Request Form\nNeed help?\nStart a ticket on ServiceLink\nSend a request through WeChat\nEmail shanghai.it.help@nyu.edu\nVisit the IT front desk in Room N525",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Virtual Machine"
+    },
+    {
+      "type": "p",
+      "text": "Shanghai IT provides several virtual machine options that can be used for academic and administration purposes."
+    },
+    {
+      "type": "h2",
+      "text": "Who can use this service?"
+    },
+    {
+      "type": "p",
+      "text": "NYU Faculty and Staff"
+    },
+    {
+      "type": "h2",
+      "text": "How much does it cost?"
+    },
+    {
+      "type": "p",
+      "text": "This service is free, but the user may have to pay for the license of the OS working on the virtual machine. Users can apply for Microsoft Imagine to obtain the OS for research/academic purposes."
+    },
+    {
+      "type": "h2",
+      "text": "How can users access this service?"
+    },
+    {
+      "type": "p",
+      "text": "Please fill out the Request Form"
+    },
+    {
+      "type": "h2",
+      "text": "Need help?"
+    },
+    {
+      "type": "li",
+      "text": "Start a ticket on ServiceLink"
+    },
+    {
+      "type": "li",
+      "text": "Send a request through WeChat"
+    },
+    {
+      "type": "li",
+      "text": "Email shanghai.it.help@nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Visit the IT front desk in Room N525"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "http://www.nyu.edu/servicelink/KB0015684",
+      "text": "Microsoft Imagine",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/servicelink/form/4f58e6f313516a0095f031f18144b06e",
+      "text": "Request Form",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/servicelink/form/68ffb6e269ecc1004c8c358c44bab559",
+      "text": "Start a ticket on ServiceLink",
+      "internal": false
+    },
+    {
+      "url": "http://www.nyu.edu/servicelink/KB0014288",
+      "text": "Send a request through WeChat",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 106,
+  "crawled_at": "2026-06-09T04:31:52+00:00",
+  "sequence": 491
+}

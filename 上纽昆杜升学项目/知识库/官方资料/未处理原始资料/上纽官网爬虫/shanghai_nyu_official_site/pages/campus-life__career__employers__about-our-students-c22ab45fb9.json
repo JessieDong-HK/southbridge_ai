@@ -1,0 +1,84 @@
+{
+  "id": "campus-life__career__employers__about-our-students-c22ab45fb9",
+  "url": "https://shanghai.nyu.edu/campus-life/career/employers/about-our-students",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/career/employers/about-our-students",
+  "page_type": "campus-life",
+  "title": "About Our Students",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "About Our Students\nNYU Shanghai seeks to cultivate globally-minded graduates through innovative teaching, world class research, and a commitment to public service. All undergraduate students pursue a course of study that will equip them with the broad knowledge base and tools to become creative thinkers and active learners throughout their lives.\nOur student body currently consists of 1,500 undergraduate and graduate students, half of whom are from China. Students from the United States and some 70 other countries represent the other half. Our faculty of renowned scholars, innovators, and educators are recruited from the world’s best research universities.\nWhere do our students go after they graduate? Read our Graduate Destinations Reports to find out!\nTake a 360° Virtual Tour of Our Campus\nNYU Shanghai at a Glance",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "About Our Students"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai seeks to cultivate globally-minded graduates through innovative teaching, world class research, and a commitment to public service. All undergraduate students pursue a course of study that will equip them with the broad knowledge base and tools to become creative thinkers and active learners throughout their lives."
+    },
+    {
+      "type": "p",
+      "text": "Our student body currently consists of 1,500 undergraduate and graduate students, half of whom are from China. Students from the United States and some 70 other countries represent the other half. Our faculty of renowned scholars, innovators, and educators are recruited from the world’s best research universities."
+    },
+    {
+      "type": "p",
+      "text": "Where do our students go after they graduate? Read our Graduate Destinations Reports to find out!"
+    },
+    {
+      "type": "h4",
+      "text": "Take a 360° Virtual Tour of Our Campus"
+    },
+    {
+      "type": "h2",
+      "text": "NYU Shanghai at a Glance"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-6-03-01.jpg",
+      "alt": "About Our Students",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-6-03-01.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/bundcampus.jpg",
+      "alt": "About Our Students",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/bundcampus-6bcfc777cc6a.jpg",
+      "download_status": "downloaded",
+      "bytes": 484228,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-6-03-03.jpg",
+      "alt": "About Our Students",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-6-03-03.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations",
+      "text": "Graduate Destinations Reports",
+      "internal": true
+    },
+    {
+      "url": "http://360.shanghai.nyu.edu/putout/1/25/pano",
+      "text": "Take a 360° Virtual Tour of Our Campus",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 130,
+  "crawled_at": "2026-06-09T04:32:18+00:00",
+  "sequence": 554
+}

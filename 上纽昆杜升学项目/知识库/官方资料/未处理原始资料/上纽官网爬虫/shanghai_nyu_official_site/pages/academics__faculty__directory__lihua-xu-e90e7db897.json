@@ -1,0 +1,92 @@
+{
+  "id": "academics__faculty__directory__lihua-xu-e90e7db897",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/lihua-xu",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/lihua-xu",
+  "page_type": "academics",
+  "title": "Lihua",
+  "description": "Lihua Xu is the Area Head of Computer Science and a Professor of Practice in Computer Science at NYU Shanghai. She received both her Masters and PhD degree in computer science from the University of California, Irvine. Her research interests are in software engineering and mobile security, with a",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Lihua Xu\nLihua Xu is the Area Head of Computer Science and a Professor of Practice in Computer Science at NYU Shanghai. She received both her Masters and PhD degree in computer science from the University of California, Irvine. Her research interests are in software engineering and mobile security, with a focus on improving software quality via program analysis. She has published in top-tier venues such as ICSE, FSE, ASE, CCS, and MobiCom. Her recent work in software analysis received the 2018 ACM SIGSOFT Distinguished Paper Award. She is a recipient of the “Best New Investigator” award at the 2006 Grace Hopper Women in Computing conference.\nSelect Publications\nQingshun Wang, Lintao Gu, Minhui Xue, Lihua Xu, Wenyu Niu, Liang Dou, Liang He and Tao Xie, FACTS: Automated Black-box Testing of FinTech Systems, In Proc. ESEC/FSE, Industrial Track, 2018\nSen Chen, Ting Su, Lingling Fan, Guozhu Meng, Minhui Xue, Yang Liu, Lihua Xu, Are Mobile Banking Apps Secure? What Can be Improved?, In Proc. ESEC/FSE, Industrial Track, 2018\nLingling Fan, Ting Su, Sen Chen, Guozhu Meng, Yang Liu, Lihua Xu and Geguang Pu, Efficiently Manifesting Asynchronous Programming Errors in Android Apps, In Proc. ASE'18, Montpellier, France, 2018\nYujie Yuan, Lihua Xu, Xusheng Xiao, Andy Podgurski, and Huibiao Zhu, RunDroid: Recovering Execution Call Graphs for Android Applications. In Proc. ESEC/FSE, Demo Track, 2017\nWenqi Bu, Minhui Xue, Lihua Xu, Yajin Zhou, Zhushou Tang, and Tao Xie. When Program Analysis Meets Mobile Security: An Industrial Study of Misusing Android Internet Sockets. In Proc. ESEC/FSE, Industrial Track, 2017\nEducation\nPhD, Information and Computer ScienceUniversity of California, Irvine\nMS, Information and Computer ScienceUniversity of California, Irvine\nDatabases\nIntroduction to Computer Programming\nSoftware Engineering",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Lihua Xu"
+    },
+    {
+      "type": "p",
+      "text": "Lihua Xu is the Area Head of Computer Science and a Professor of Practice in Computer Science at NYU Shanghai. She received both her Masters and PhD degree in computer science from the University of California, Irvine. Her research interests are in software engineering and mobile security, with a focus on improving software quality via program analysis. She has published in top-tier venues such as ICSE, FSE, ASE, CCS, and MobiCom. Her recent work in software analysis received the 2018 ACM SIGSOFT Distinguished Paper Award. She is a recipient of the “Best New Investigator” award at the 2006 Grace Hopper Women in Computing conference."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Qingshun Wang, Lintao Gu, Minhui Xue, Lihua Xu, Wenyu Niu, Liang Dou, Liang He and Tao Xie, FACTS: Automated Black-box Testing of FinTech Systems, In Proc. ESEC/FSE, Industrial Track, 2018"
+    },
+    {
+      "type": "li",
+      "text": "Sen Chen, Ting Su, Lingling Fan, Guozhu Meng, Minhui Xue, Yang Liu, Lihua Xu, Are Mobile Banking Apps Secure? What Can be Improved?, In Proc. ESEC/FSE, Industrial Track, 2018"
+    },
+    {
+      "type": "li",
+      "text": "Lingling Fan, Ting Su, Sen Chen, Guozhu Meng, Yang Liu, Lihua Xu and Geguang Pu, Efficiently Manifesting Asynchronous Programming Errors in Android Apps, In Proc. ASE'18, Montpellier, France, 2018"
+    },
+    {
+      "type": "li",
+      "text": "Yujie Yuan, Lihua Xu, Xusheng Xiao, Andy Podgurski, and Huibiao Zhu, RunDroid: Recovering Execution Call Graphs for Android Applications. In Proc. ESEC/FSE, Demo Track, 2017"
+    },
+    {
+      "type": "li",
+      "text": "Wenqi Bu, Minhui Xue, Lihua Xu, Yajin Zhou, Zhushou Tang, and Tao Xie. When Program Analysis Meets Mobile Security: An Industrial Study of Misusing Android Internet Sockets. In Proc. ESEC/FSE, Industrial Track, 2017"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Information and Computer ScienceUniversity of California, Irvine"
+    },
+    {
+      "type": "li",
+      "text": "MS, Information and Computer ScienceUniversity of California, Irvine"
+    },
+    {
+      "type": "li",
+      "text": "Databases"
+    },
+    {
+      "type": "li",
+      "text": "Introduction to Computer Programming"
+    },
+    {
+      "type": "li",
+      "text": "Software Engineering"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/image1.jpeg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cs.shanghai.nyu.edu/faculty/lihua-xu-xulihua",
+      "text": "https://cs.shanghai.nyu.edu/faculty/lihua-xu-xulihua",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 285,
+  "crawled_at": "2026-06-09T04:33:15+00:00",
+  "sequence": 664
+}

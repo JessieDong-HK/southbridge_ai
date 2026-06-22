@@ -1,0 +1,36 @@
+{
+  "id": "zh-hans__news__-e5-a5-b9-e4-bb-ac-e8-b5-b0-e8-bf-87-e5-90-8c-e4-b8-80-e6-ae-b5-e6-97-85-e7-3dc1f11fc9",
+  "url": "https://www.dukekunshan.edu.cn/zh-hans/news/%e5%a5%b9%e4%bb%ac%e8%b5%b0%e8%bf%87%e5%90%8c%e4%b8%80%e6%ae%b5%e6%97%85%e7%a8%8b%ef%bc%8c%e6%88%90%e5%b0%b1%e6%9b%b4%e5%a5%bd%e7%9a%84%e8%87%aa%e5%b7%b1",
+  "canonical_url": "https://www.dukekunshan.edu.cn/zh-hans/news/她们走过同一段旅程，成就更好的自己/",
+  "page_type": "zh-hans",
+  "title": "她们走过同一段旅程，成就更好的自己",
+  "description": "",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "2024-06-04T07:27:20+00:00",
+  "sitemap_lastmod": "2024-06-04T07:27:20+00:00",
+  "text": "她们走过同一段旅程，成就更好的自己",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "她们走过同一段旅程，成就更好的自己"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-03T13:53:06+00:00",
+  "sequence": 383
+}

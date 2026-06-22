@@ -1,0 +1,101 @@
+{
+  "id": "academics__faculty__directory__shengjie-wang-f1442079d4",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/shengjie-wang",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/shengjie-wang",
+  "page_type": "academics",
+  "title": "Shengjie",
+  "description": "Shengjie Wang is an Assistant Professor of Computer Science at NYU Shanghai. He obtained his PhD in Computer Science from University of Washington, Seattle. His research interests include machine learning, deep learning, AI for science, optimization, and human-centered AI.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Shengjie Wang\nShengjie Wang is an Assistant Professor of Computer Science at NYU Shanghai. He obtained his PhD in Computer Science from University of Washington, Seattle. His research interests include machine learning, deep learning, AI for science, optimization, and human-centered AI.\nSelect Publications\nMachine Learning Force Fields with Data Cost Aware Training. A. Bukharin, T. Liu, S. Wang, S. Zuo, W. Gao, W. Yan, T. Zhao. ICML23\nConstrained Robust Submodular Partitioning. S Wang*, T Zhou*, C Lavania, J Bilmes. NeurIPS21\nRobust Curriculum Learning: from clean label detection to noisy label self-correction.T Zhou*, S Wang*, J Bilmes. ICLR21\nBias also matters: Bias attribution for deep neural network explanation. S Wang*, T Zhou*, J Bilmes. ICML19\nAnalysis of deep neural networks with extended data Jacobian matrix. S Wang, A Mohamed, R Caruana, J Bilmes, M Plilipose, M Richardson, K Geras, G Urban, O Aslan. ICML16\nEducation\nPhD, Computer ScienceUniversity of Washington, Seattle\nBS and BA, Computer Science and PsychologyUniversity of Illinois at Urbana-Champaign\nMachine Learning\nDeep Learning\nAI for Science\nOptimization\nHuman-centered AI",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Shengjie Wang"
+    },
+    {
+      "type": "p",
+      "text": "Shengjie Wang is an Assistant Professor of Computer Science at NYU Shanghai. He obtained his PhD in Computer Science from University of Washington, Seattle. His research interests include machine learning, deep learning, AI for science, optimization, and human-centered AI."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Machine Learning Force Fields with Data Cost Aware Training. A. Bukharin, T. Liu, S. Wang, S. Zuo, W. Gao, W. Yan, T. Zhao. ICML23"
+    },
+    {
+      "type": "li",
+      "text": "Constrained Robust Submodular Partitioning. S Wang*, T Zhou*, C Lavania, J Bilmes. NeurIPS21"
+    },
+    {
+      "type": "li",
+      "text": "Robust Curriculum Learning: from clean label detection to noisy label self-correction.T Zhou*, S Wang*, J Bilmes. ICLR21"
+    },
+    {
+      "type": "li",
+      "text": "Bias also matters: Bias attribution for deep neural network explanation. S Wang*, T Zhou*, J Bilmes. ICML19"
+    },
+    {
+      "type": "li",
+      "text": "Analysis of deep neural networks with extended data Jacobian matrix. S Wang, A Mohamed, R Caruana, J Bilmes, M Plilipose, M Richardson, K Geras, G Urban, O Aslan. ICML16"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Computer ScienceUniversity of Washington, Seattle"
+    },
+    {
+      "type": "li",
+      "text": "BS and BA, Computer Science and PsychologyUniversity of Illinois at Urbana-Champaign"
+    },
+    {
+      "type": "li",
+      "text": "Machine Learning"
+    },
+    {
+      "type": "li",
+      "text": "Deep Learning"
+    },
+    {
+      "type": "li",
+      "text": "AI for Science"
+    },
+    {
+      "type": "li",
+      "text": "Optimization"
+    },
+    {
+      "type": "li",
+      "text": "Human-centered AI"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/selected-capture_one_catalog0152.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/selected-capture_one_catalog0152-7afcaa6293d0.jpg",
+      "download_status": "downloaded",
+      "bytes": 133614,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cs.shanghai.nyu.edu/faculty/shengjie-wang-wangshengjie",
+      "text": "https://cs.shanghai.nyu.edu/faculty/shengjie-wang-wangshengjie",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 176,
+  "crawled_at": "2026-06-09T04:32:55+00:00",
+  "sequence": 632
+}

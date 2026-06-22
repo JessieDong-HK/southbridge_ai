@@ -1,0 +1,119 @@
+{
+  "id": "academics__minors__biology-cae45515bb",
+  "url": "https://shanghai.nyu.edu/academics/minors/biology",
+  "canonical_url": "https://shanghai.nyu.edu/academics/minors/biology",
+  "page_type": "academics",
+  "title": "Biology",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Biology\nBiology is concerned with the workings of life in all its varied forms. Over the past few decades, the life sciences have been revolutionized by the development of molecular, cellular, genomic, and bioinformatics techniques that are now being utilized to study fundamental processes in organisms as well as applying this information to improve human health, enhance rational management of our environment, develop forensic science, and augment the production of renewable energy with the concomitant sequestering of pollutants, as well as approach ethical and legal issues that impinge on biological discoveries and their applications. The Biology curriculum aims to produce scientists with inquisitive minds who are self-reliant and who seek high quality of information about how the natural world works.\nRequirements for the Minor\nMolecular and Cell Biology Minor\nChoose One\nBIOL-SHU 30 Genetics\nBIOL-SHU 263 Developmental Biology\nChoose One (or one approved class to count towards this minor)\nBIOL-UA 36 At the Bench: Applied Molecular Biology DNA Techniques\nBIOL-UA 37 At the Bench: Applied Cell Biology\nGenomics and Bioinformatics Minor\nChoose One\nBIOL-SHU 267 Microbiology and Microbial Genomics\nBIOL-GA 1128 Systems Biology\nBIOL-UA 58 Evolution\nFaculty mentors\nFaculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory.\nArea Head of Natural Sciences, Professor of Practice of Biology",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Biology"
+    },
+    {
+      "type": "p",
+      "text": "Biology is concerned with the workings of life in all its varied forms. Over the past few decades, the life sciences have been revolutionized by the development of molecular, cellular, genomic, and bioinformatics techniques that are now being utilized to study fundamental processes in organisms as well as applying this information to improve human health, enhance rational management of our environment, develop forensic science, and augment the production of renewable energy with the concomitant sequestering of pollutants, as well as approach ethical and legal issues that impinge on biological discoveries and their applications. The Biology curriculum aims to produce scientists with inquisitive minds who are self-reliant and who seek high quality of information about how the natural world works."
+    },
+    {
+      "type": "h3",
+      "text": "Requirements for the Minor"
+    },
+    {
+      "type": "h4",
+      "text": "Molecular and Cell Biology Minor"
+    },
+    {
+      "type": "p",
+      "text": "Choose One"
+    },
+    {
+      "type": "p",
+      "text": "BIOL-SHU 30 Genetics"
+    },
+    {
+      "type": "p",
+      "text": "BIOL-SHU 263 Developmental Biology"
+    },
+    {
+      "type": "p",
+      "text": "Choose One (or one approved class to count towards this minor)"
+    },
+    {
+      "type": "p",
+      "text": "BIOL-UA 36 At the Bench: Applied Molecular Biology DNA Techniques"
+    },
+    {
+      "type": "p",
+      "text": "BIOL-UA 37 At the Bench: Applied Cell Biology"
+    },
+    {
+      "type": "h4",
+      "text": "Genomics and Bioinformatics Minor"
+    },
+    {
+      "type": "p",
+      "text": "Choose One"
+    },
+    {
+      "type": "p",
+      "text": "BIOL-SHU 267 Microbiology and Microbial Genomics"
+    },
+    {
+      "type": "p",
+      "text": "BIOL-GA 1128 Systems Biology"
+    },
+    {
+      "type": "p",
+      "text": "BIOL-UA 58 Evolution"
+    },
+    {
+      "type": "h3",
+      "text": "Faculty mentors"
+    },
+    {
+      "type": "p",
+      "text": "Faculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory."
+    },
+    {
+      "type": "p",
+      "text": "Area Head of Natural Sciences, Professor of Practice of Biology"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/danyang_yu.jpeg",
+      "alt": "Danyang Yu",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/danyang_yu-c2e970728738.jpeg",
+      "download_status": "downloaded",
+      "bytes": 1010578,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/posting-minor",
+      "text": "Post a Minor",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory",
+      "text": "faculty directory",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/danyang-yu",
+      "text": "Danyang Yu",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 261,
+  "crawled_at": "2026-06-09T04:41:29+00:00",
+  "sequence": 1388
+}

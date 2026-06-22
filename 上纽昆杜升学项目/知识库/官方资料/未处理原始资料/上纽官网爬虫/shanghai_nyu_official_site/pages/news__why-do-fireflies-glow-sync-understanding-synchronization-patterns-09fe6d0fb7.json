@@ -1,0 +1,162 @@
+{
+  "id": "news__why-do-fireflies-glow-sync-understanding-synchronization-patterns-09fe6d0fb7",
+  "url": "https://shanghai.nyu.edu/news/why-do-fireflies-glow-sync-understanding-synchronization-patterns",
+  "canonical_url": "https://shanghai.nyu.edu/news/why-do-fireflies-glow-sync-understanding-synchronization-patterns",
+  "page_type": "news",
+  "title": "Why Do Fireflies Glow in Sync? Understanding Synchronization Patterns",
+  "description": "Professor Ling Shuyang's new study on synchronization.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Why Do Fireflies Glow in Sync? Understanding Synchronization Patterns\nTwitter\nFacebook\nWeibo\nYou’ve probably seen videos of fireflies flickering in unison—hundreds of them glowing and dimming as if on cue. That’s synchronization: a process where individual parts gradually adjust their rhythms to align with one another.\nThis phenomenon isn’t limited to fireflies. It appears throughout nature: heart cells pulse together to keep a steady heartbeat and neurons fire in sync to coordinate thoughts and movements.\nFor decades, scientists from across physics, biology, engineering, and mathematics have tried to understand how synchronization works, and how systems naturally fall into sync. A new study by NYU Shanghai Assistant Professor of Data Science Ling Shuyang, published in Foundations of Computational Mathematics, offers insights into how synchronization emerges and how it depends on the hidden interactions between agents.\nThe Kuramoto Model – Why Does Synchronization Happen?\nSynchronization has fascinated scientists for centuries, dating back to Dutch mathematician Christiaan Huygens’ observation of synchronized pendulum clocks. A powerful mathematical model proposed by Japanese physicist Yoshiki Kuramoto in 1975 provides a framework to understand it. Known as the Kuramoto model, it treats each entity in the system—whether a firefly, a neuron, or a power grid node—as an oscillator, something that cycles repeatedly. These oscillators adjust their timing based on what their neighbors are doing. Given enough time, they begin to align, forming spontaneous order from apparent chaos.\nBut what’s even more surprising is that this same model appears in a completely different realm: modern optimization and signal processing.\nThe Hidden Harmony Between Synchronization and Optimization\nIt may come as a surprise that a centuries-old problem of synchronization, originally studied through systems like flashing fireflies and coupled pendulum clocks, turns out to be deeply connected to modern challenges in data science and signal processing. In particular, it shows up in a seemingly unrelated context: group synchronization, a problem at the heart of statistical inference and signal processing.\nGroup synchronization involves reconstructing a set of unknown quantities—such as angles or rotations—using only noisy pairwise comparisons. This problem appears in a wide range of applications, from detecting communities in social networks to reconstructing 3D molecular structures in cryo-electron microscopy.\nResearchers tackle synchronization problems by turning them to optimization problems: formulating an energy function that captures how well a particular configuration fits the data, and then seeking the global minimum, the best possible explanation. But here’s the rub: the problem is nonconvex, meaning the energy landscape is filled with misleading valleys and peaks. Just like a hiker trying to find the lowest point in a foggy mountain range, algorithms can easily get stuck far from the true solution. In the worst-case scenario, finding the global minimum is NP-hard.\nOne workaround is an approach called semidefinite relaxation (SDR). It transforms the original nonconvex problem into a convex one—where solving it is computationally tractable. In some cases, this relaxed version leads directly to the true global minimum. However, SDR is computationally heavy and doesn’t scale well for large datasets.\nThis is where things get interesting. Recent research—including an earlier work by Ling and collaborators featured in the Quanta Magazine in 2023—reveals a remarkable bridge between group synchronization and the Kuramoto model. If you restrict the group structure to a circle group (imagine elements on a clock face), and exploit the underlying low-rank structure of the problem, the optimization task becomes mathematically identical to the energy function minimized by the Kuramoto model.\nIn other words, understanding the rugged optimization landscape of group synchronization helps illuminate how and why synchronization emerges in systems governed by the Kuramoto model.\n“There have been many developments,” Ling said, “but it still doesn’t fully characterize the energy landscape. I keep wondering: is there a simple quantity or universal principle that governs synchronization?”\nThis question continues to drive research at the intersection of physics, optimization, and data science. For Ling, he is searching for a deeper mathematical truth.\nA Unified Theorem for Synchronization\nIn December 2023, Ling completed research that sheds light on the mathematical structure underlying synchronization. Despite the seemingly messy, nonconvex energy landscape—filled with exponentially many saddle points—his work showed something remarkable: there is only one local minimum, and it happens to be the global minimum, under certain conditions.\nThe key condition lies in the curvature at the global minimum, which—perhaps surprisingly—is determined by the graph Laplacian of the underlying network. In simple terms, this Laplacian encodes how nodes in a network (or oscillators in the Kuramoto model) are connected. If this structure is “well-behaved”—that is, it resembles the Laplacian of a fully connected network in terms of the spectra—then the energy landscape behaves in an exceptionally nice way.\n“This is a deterministic condition that characterizes the energy landscape,” Ling explains. “It’s surprising that the local geometry—just around the minimum—is sufficient to determine the global structure of the energy landscape. Moreover, it works on a large family of networks, even for signed and weighted networks, and for more general coupling matrices.”\nThis result is more than a theoretical curiosity. It lays down a rigorous foundation for when efficient nonconvex algorithms can perform just as well as slower, more expensive, but powerful convex methods like SDR. It may also open the door to applying these insights across a wide range of scientific and engineering problems where synchronization plays a role, in fields such as neural dynamics.\n“I hope this work offers not only practical tools, but also new insight into how harmony emerges from complexity—across science, mathematics, and engineering,” Ling adds.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Why Do Fireflies Glow in Sync? Understanding Synchronization Patterns"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "You’ve probably seen videos of fireflies flickering in unison—hundreds of them glowing and dimming as if on cue. That’s synchronization: a process where individual parts gradually adjust their rhythms to align with one another."
+    },
+    {
+      "type": "p",
+      "text": "This phenomenon isn’t limited to fireflies. It appears throughout nature: heart cells pulse together to keep a steady heartbeat and neurons fire in sync to coordinate thoughts and movements."
+    },
+    {
+      "type": "p",
+      "text": "For decades, scientists from across physics, biology, engineering, and mathematics have tried to understand how synchronization works, and how systems naturally fall into sync. A new study by NYU Shanghai Assistant Professor of Data Science Ling Shuyang, published in Foundations of Computational Mathematics, offers insights into how synchronization emerges and how it depends on the hidden interactions between agents."
+    },
+    {
+      "type": "p",
+      "text": "The Kuramoto Model – Why Does Synchronization Happen?"
+    },
+    {
+      "type": "p",
+      "text": "Synchronization has fascinated scientists for centuries, dating back to Dutch mathematician Christiaan Huygens’ observation of synchronized pendulum clocks. A powerful mathematical model proposed by Japanese physicist Yoshiki Kuramoto in 1975 provides a framework to understand it. Known as the Kuramoto model, it treats each entity in the system—whether a firefly, a neuron, or a power grid node—as an oscillator, something that cycles repeatedly. These oscillators adjust their timing based on what their neighbors are doing. Given enough time, they begin to align, forming spontaneous order from apparent chaos."
+    },
+    {
+      "type": "p",
+      "text": "But what’s even more surprising is that this same model appears in a completely different realm: modern optimization and signal processing."
+    },
+    {
+      "type": "p",
+      "text": "The Hidden Harmony Between Synchronization and Optimization"
+    },
+    {
+      "type": "p",
+      "text": "It may come as a surprise that a centuries-old problem of synchronization, originally studied through systems like flashing fireflies and coupled pendulum clocks, turns out to be deeply connected to modern challenges in data science and signal processing. In particular, it shows up in a seemingly unrelated context: group synchronization, a problem at the heart of statistical inference and signal processing."
+    },
+    {
+      "type": "p",
+      "text": "Group synchronization involves reconstructing a set of unknown quantities—such as angles or rotations—using only noisy pairwise comparisons. This problem appears in a wide range of applications, from detecting communities in social networks to reconstructing 3D molecular structures in cryo-electron microscopy."
+    },
+    {
+      "type": "p",
+      "text": "Researchers tackle synchronization problems by turning them to optimization problems: formulating an energy function that captures how well a particular configuration fits the data, and then seeking the global minimum, the best possible explanation. But here’s the rub: the problem is nonconvex, meaning the energy landscape is filled with misleading valleys and peaks. Just like a hiker trying to find the lowest point in a foggy mountain range, algorithms can easily get stuck far from the true solution. In the worst-case scenario, finding the global minimum is NP-hard."
+    },
+    {
+      "type": "p",
+      "text": "One workaround is an approach called semidefinite relaxation (SDR). It transforms the original nonconvex problem into a convex one—where solving it is computationally tractable. In some cases, this relaxed version leads directly to the true global minimum. However, SDR is computationally heavy and doesn’t scale well for large datasets."
+    },
+    {
+      "type": "p",
+      "text": "This is where things get interesting. Recent research—including an earlier work by Ling and collaborators featured in the Quanta Magazine in 2023—reveals a remarkable bridge between group synchronization and the Kuramoto model. If you restrict the group structure to a circle group (imagine elements on a clock face), and exploit the underlying low-rank structure of the problem, the optimization task becomes mathematically identical to the energy function minimized by the Kuramoto model."
+    },
+    {
+      "type": "p",
+      "text": "In other words, understanding the rugged optimization landscape of group synchronization helps illuminate how and why synchronization emerges in systems governed by the Kuramoto model."
+    },
+    {
+      "type": "p",
+      "text": "“There have been many developments,” Ling said, “but it still doesn’t fully characterize the energy landscape. I keep wondering: is there a simple quantity or universal principle that governs synchronization?”"
+    },
+    {
+      "type": "p",
+      "text": "This question continues to drive research at the intersection of physics, optimization, and data science. For Ling, he is searching for a deeper mathematical truth."
+    },
+    {
+      "type": "p",
+      "text": "A Unified Theorem for Synchronization"
+    },
+    {
+      "type": "p",
+      "text": "In December 2023, Ling completed research that sheds light on the mathematical structure underlying synchronization. Despite the seemingly messy, nonconvex energy landscape—filled with exponentially many saddle points—his work showed something remarkable: there is only one local minimum, and it happens to be the global minimum, under certain conditions."
+    },
+    {
+      "type": "p",
+      "text": "The key condition lies in the curvature at the global minimum, which—perhaps surprisingly—is determined by the graph Laplacian of the underlying network. In simple terms, this Laplacian encodes how nodes in a network (or oscillators in the Kuramoto model) are connected. If this structure is “well-behaved”—that is, it resembles the Laplacian of a fully connected network in terms of the spectra—then the energy landscape behaves in an exceptionally nice way."
+    },
+    {
+      "type": "p",
+      "text": "“This is a deterministic condition that characterizes the energy landscape,” Ling explains. “It’s surprising that the local geometry—just around the minimum—is sufficient to determine the global structure of the energy landscape. Moreover, it works on a large family of networks, even for signed and weighted networks, and for more general coupling matrices.”"
+    },
+    {
+      "type": "p",
+      "text": "This result is more than a theoretical curiosity. It lays down a rigorous foundation for when efficient nonconvex algorithms can perform just as well as slower, more expensive, but powerful convex methods like SDR. It may also open the door to applying these insights across a wide range of scientific and engineering problems where synchronization plays a role, in fields such as neural dynamics."
+    },
+    {
+      "type": "p",
+      "text": "“I hope this work offers not only practical tools, but also new insight into how harmony emerges from complexity—across science, mathematics, and engineering,” Ling adds."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/why_do_fireflies_blink_in_sync_-01.jpg?itok=8s--d3FX",
+      "alt": "ling study",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/why_do_fireflies_blink_in_sync_-01-27877ac123be.jpg",
+      "download_status": "downloaded",
+      "bytes": 78442,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Why%20Do%20Fireflies%20Glow%20in%20Sync%3F%20Understanding%20Synchronization%20Patterns&url=https%3A//shanghai.nyu.edu/news/why-do-fireflies-glow-sync-understanding-synchronization-patterns&status=Why%20Do%20Fireflies%20Glow%20in%20Sync%3F%20Understanding%20Synchronization%20Patterns%20https%3A//shanghai.nyu.edu/news/why-do-fireflies-glow-sync-understanding-synchronization-patterns",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/why-do-fireflies-glow-sync-understanding-synchronization-patterns&title=Why%20Do%20Fireflies%20Glow%20in%20Sync%3F%20Understanding%20Synchronization%20Patterns",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/why-do-fireflies-glow-sync-understanding-synchronization-patterns&title=Why%20Do%20Fireflies%20Glow%20in%20Sync%3F%20Understanding%20Synchronization%20Patterns",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s10208-025-09707-9",
+      "text": "study",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/shuyang-ling",
+      "text": "Ling Shuyang",
+      "internal": true
+    },
+    {
+      "url": "https://www.quantamagazine.org/new-proof-shows-that-expander-graphs-synchronize-20230724",
+      "text": "Quanta Magazine",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 942,
+  "crawled_at": "2026-06-09T04:40:40+00:00",
+  "sequence": 1309
+}

@@ -1,0 +1,153 @@
+{
+  "id": "advising__programs-and-events-4880166034",
+  "url": "https://shanghai.nyu.edu/advising/programs-and-events",
+  "canonical_url": "https://shanghai.nyu.edu/advising/programs-and-events",
+  "page_type": "advising",
+  "title": "Programs and Events",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Programs and Events\nNYU Shanghai academic advising sponsors a wide variety of programs and workshops for students to explore academic interests, study away options, and postgraduate opportunities. See the event calendar for a schedule of upcoming events.\nAcademic Events\nExplore Your Academic Interests\nJoin major exploration events to explore your academic interests. Hear from faculty, advisors, and your fellow students!\nCraft Your Global Experience\nAcademic Advising has set up a series of study away events for students at different stages of the study away cycle.\nPrepare for Postgraduate Studies\nThe Graduate School Blast helps undergraduate students explore their graduate school options and enhance their applications.\nAcademic Support Program\nIn the Academic Support Program program, academic advisors provide support for students to be successful in their academic journey.\nAcademic Peer Advisor\nThe Academic Peer Advisors program provides the students opportunities to connect with peer mentors in rich academic and extracurricular experiences.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Programs and Events"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai academic advising sponsors a wide variety of programs and workshops for students to explore academic interests, study away options, and postgraduate opportunities. See the event calendar for a schedule of upcoming events."
+    },
+    {
+      "type": "h3",
+      "text": "Academic Events"
+    },
+    {
+      "type": "h4",
+      "text": "Explore Your Academic Interests"
+    },
+    {
+      "type": "p",
+      "text": "Join major exploration events to explore your academic interests. Hear from faculty, advisors, and your fellow students!"
+    },
+    {
+      "type": "h4",
+      "text": "Craft Your Global Experience"
+    },
+    {
+      "type": "p",
+      "text": "Academic Advising has set up a series of study away events for students at different stages of the study away cycle."
+    },
+    {
+      "type": "h4",
+      "text": "Prepare for Postgraduate Studies"
+    },
+    {
+      "type": "p",
+      "text": "The Graduate School Blast helps undergraduate students explore their graduate school options and enhance their applications."
+    },
+    {
+      "type": "h4",
+      "text": "Academic Support Program"
+    },
+    {
+      "type": "p",
+      "text": "In the Academic Support Program program, academic advisors provide support for students to be successful in their academic journey."
+    },
+    {
+      "type": "h4",
+      "text": "Academic Peer Advisor"
+    },
+    {
+      "type": "p",
+      "text": "The Academic Peer Advisors program provides the students opportunities to connect with peer mentors in rich academic and extracurricular experiences."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/02-p-programs_and_events-1.jpg",
+      "alt": "Major Exploration: Explore Academic Interests",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/02-p-programs_and_events-1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/02-p-programs_and_events-2.jpg",
+      "alt": "Study Away Events: Craft a Global Experience",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/02-p-programs_and_events-2-75807fbfc899.jpg",
+      "download_status": "downloaded",
+      "bytes": 43834,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/02-p-programs_and_events-3.jpg",
+      "alt": "Graduate School Blast: Prepare for Postgraduate Studies",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/02-p-programs_and_events-3-b050b71e4fa6.jpg",
+      "download_status": "downloaded",
+      "bytes": 73168,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/02-p-programs_and_events-4.jpg",
+      "alt": "Academic Support Program",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/02-p-programs_and_events-4-93131dddf1cd.jpg",
+      "download_status": "downloaded",
+      "bytes": 36983,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/02-p-programs_and_events-5.jpg",
+      "alt": "Academic Peer Advisor",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/02-p-programs_and_events-5-6e970c813476.jpg",
+      "download_status": "downloaded",
+      "bytes": 44827,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://calendar.google.com/calendar/u/0/r?cid=Y19xbXZwZzIydWVib2tnNjhrYmhiZzdpaXFwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+      "text": "Event Calendar",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/programs-and-events/major-exploration",
+      "text": "Explore Your Academic Interests",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/study-away/out/study-away-events",
+      "text": "Craft Your Global Experience",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/prepare-graduate-school/graduateschoolblast",
+      "text": "Prepare for Postgraduate Studies",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/programs-and-events/academic-support-program",
+      "text": "Academic Support Program",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/programs-and-events/academic-peer-advisor",
+      "text": "Academic Peer Advisor",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 150,
+  "crawled_at": "2026-06-09T04:30:37+00:00",
+  "sequence": 327
+}

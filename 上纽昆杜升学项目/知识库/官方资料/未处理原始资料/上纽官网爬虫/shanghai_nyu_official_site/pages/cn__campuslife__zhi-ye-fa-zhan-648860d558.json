@@ -1,0 +1,181 @@
+{
+  "id": "cn__campuslife__zhi-ye-fa-zhan-648860d558",
+  "url": "https://shanghai.nyu.edu/cn/campuslife/zhi-ye-fa-zhan",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campuslife/zhi-ye-fa-zhan",
+  "page_type": "cn",
+  "title": "职业发展",
+  "description": "上海纽约大学职业发展中心(CCD)旨在为全校学生提供全方位的职业规划教育及就业指导。我们与雇主、校友及各大机构倾力合作，挖掘多种资源与机会，致力于帮助学生实现个人目标，取得事业成功。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "职业发展\n上海纽约大学职业发展中心(CCD)旨在为全校学生提供全方位的职业规划教育及就业指导。我们与雇主、校友及各大机构倾力合作，挖掘多种资源与机会，致力于帮助学生实现个人目标，取得事业成功。\n学生\n获取就业岗位信息，预定面试间，预约一对一求职辅导等\n雇主\n了解上纽大职业发展中心职能以及如何招聘上纽大人才\n校友\n获取校友服务，与上纽大家庭保持联络\n毕业去向\n了解上纽大学生的毕业去向及就业情况\n联系我们\n地址：上海纽约大学（前滩校园）西楼W309室电话：021-20595300\n邮箱: shanghai.careerdevelopment@nyu.edu",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "职业发展"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学职业发展中心(CCD)旨在为全校学生提供全方位的职业规划教育及就业指导。我们与雇主、校友及各大机构倾力合作，挖掘多种资源与机会，致力于帮助学生实现个人目标，取得事业成功。"
+    },
+    {
+      "type": "h4",
+      "text": "学生"
+    },
+    {
+      "type": "p",
+      "text": "获取就业岗位信息，预定面试间，预约一对一求职辅导等"
+    },
+    {
+      "type": "h4",
+      "text": "雇主"
+    },
+    {
+      "type": "p",
+      "text": "了解上纽大职业发展中心职能以及如何招聘上纽大人才"
+    },
+    {
+      "type": "h4",
+      "text": "校友"
+    },
+    {
+      "type": "p",
+      "text": "获取校友服务，与上纽大家庭保持联络"
+    },
+    {
+      "type": "h4",
+      "text": "毕业去向"
+    },
+    {
+      "type": "p",
+      "text": "了解上纽大学生的毕业去向及就业情况"
+    },
+    {
+      "type": "h2",
+      "text": "联系我们"
+    },
+    {
+      "type": "p",
+      "text": "地址：上海纽约大学（前滩校园）西楼W309室电话：021-20595300"
+    },
+    {
+      "type": "p",
+      "text": "邮箱: shanghai.careerdevelopment@nyu.edu"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/stude.png",
+      "alt": "Handshake求职平台",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/stude.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-1-06.jpg",
+      "alt": "CDC Career Guide",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-1-06.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-1-07.jpg",
+      "alt": "CDC Service Policies",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-1-07.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-1-01-2.jpg",
+      "alt": "cdc",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-1-01-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-1-01_3.jpg",
+      "alt": "雇主",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-1-01_3.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-1-03.jpg",
+      "alt": "Alumni",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-1-04.jpg",
+      "alt": "Graduate Destinations",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-6-01-08.jpg",
+      "alt": "QR Code",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://career.shanghai.nyu.edu/",
+      "text": "职业发展学生官网",
+      "internal": false
+    },
+    {
+      "url": "http://cdn.shanghai.nyu.edu/sites/default/files/accessible_career_guidebook-final-0906.pdf",
+      "text": "职业发展指南",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/career_development_center_service_policy.pdf",
+      "text": "服务条款",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/students",
+      "text": "学生",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/employers",
+      "text": "雇主",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/alumni",
+      "text": "校友",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/about/graduate-destinations",
+      "text": "毕业去向",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 32,
+  "crawled_at": "2026-06-09T04:29:06+00:00",
+  "sequence": 178
+}

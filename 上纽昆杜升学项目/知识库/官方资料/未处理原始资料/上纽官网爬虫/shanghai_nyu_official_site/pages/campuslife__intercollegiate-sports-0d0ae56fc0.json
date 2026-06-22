@@ -1,0 +1,42 @@
+{
+  "id": "campuslife__intercollegiate-sports-0d0ae56fc0",
+  "url": "https://shanghai.nyu.edu/campuslife/intercollegiate-sports",
+  "canonical_url": "https://shanghai.nyu.edu/campuslife/intercollegiate-sports",
+  "page_type": "campuslife",
+  "title": "Intercollegiate Sports",
+  "description": "NYU Shanghai competes with student-athletes from universities across Shanghai and in city collegiate federation events, leagues, and competitions during the academic year. The university fields teams in several sports, including soccer, basketball, volleyball, table tennis, badminton and tennis.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Intercollegiate Sports\nNYU Shanghai competes with student-athletes from universities across Shanghai and in city collegiate federation events, leagues, and competitions during the academic year. The university fields teams in several sports, including soccer, basketball, volleyball, table tennis, badminton and tennis. Students are encouraged to try out for teams to develop their skills and represent NYU Shanghai to the greater Shanghai community.\nSee Our Teams\nFor more information on competitive sports, please email shanghai.athletics@nyu.edu.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Intercollegiate Sports"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai competes with student-athletes from universities across Shanghai and in city collegiate federation events, leagues, and competitions during the academic year. The university fields teams in several sports, including soccer, basketball, volleyball, table tennis, badminton and tennis. Students are encouraged to try out for teams to develop their skills and represent NYU Shanghai to the greater Shanghai community."
+    },
+    {
+      "type": "p",
+      "text": "See Our Teams"
+    },
+    {
+      "type": "p",
+      "text": "For more information on competitive sports, please email shanghai.athletics@nyu.edu."
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://sites.google.com/nyu.edu/intercollegiatesports/home",
+      "text": "See Our Teams",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 77,
+  "crawled_at": "2026-06-09T04:32:27+00:00",
+  "sequence": 577
+}

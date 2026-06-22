@@ -1,0 +1,101 @@
+{
+  "id": "news__new-research-examines-how-short-selling-can-intensify-stock-market-volatility-d40af8d5bd",
+  "url": "https://shanghai.nyu.edu/news/new-research-examines-how-short-selling-can-intensify-stock-market-volatility",
+  "canonical_url": "https://shanghai.nyu.edu/news/new-research-examines-how-short-selling-can-intensify-stock-market-volatility",
+  "page_type": "news",
+  "title": "New Research Examines How Short Selling Can Intensify Stock Market Volatility",
+  "description": "Why do some stocks experience sudden swings in short-selling activity?",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "New Research Examines How Short Selling Can Intensify Stock Market Volatility\nTwitter\nFacebook\nWeibo\nWhy do some stocks experience sudden swings in short-selling activity, and why might short sellers step away even when a stock appears even more overpriced? In a recent paper published in the American Economic Review, NYU Shanghai Assistant Professor of Finance Geoffery Zheng and his coauthors propose a new framework to explain how the interaction between stock trading and stock lending can make some stocks especially unstable. Their study shows that short-selling activity can shift abruptly, and that the stocks most exposed to this mechanism are also the ones most likely to experience jumps in short interest.\nThe project grew out of the 2021 market turbulence surrounding GameStop and other heavily shorted stocks. Professor Zheng said the team wanted to better understand whether short selling itself could be contributing to excess volatility in financial markets. Short selling refers to borrowing a stock, selling it, and later buying it back, hopefully at a lower price, before returning it to the lender. While this practice is common in many financial markets, Professor Zheng said many earlier models did not take seriously enough the fact that short selling depends on a separate lending market, where borrowers must locate shares and pay lending fees.\nThat feature is central to the paper’s mechanism. As Professor Zheng explained, investors who hold a stock can earn returns in two ways: through the stock price rising, or through lending income paid by short sellers. For long-term investors, both contribute to returns. For short sellers, however, the lending fee is a cost. This difference can create more than one sustainable market outcome. In one, prices are lower, expected returns are higher, and short sellers stay out of the market. In another, prices are higher, short sellers remain active, and the borrowing fees they pay help support the willingness of long-term investors to hold the stock. In that way, short selling can amplify stock market volatility rather than simply counteracting it.\nThe paper also addresses a puzzle that may seem counterintuitive: why more short selling can sometimes coincide with higher stock prices. Professor Zheng noted that short sellers do not just bet against a stock—by borrowing shares, they also create lending income for long-term investors. When borrowing demand rises enough, that added income can make the stock more attractive to hold, helping push prices even higher. The result, he said, is that at the same moment that some investors become eager to bet against the stock, others become more willing to buy it.\nAlthough the paper is theoretical at its core, the authors also tested its predictions using market data. They found that changes in utilization—the share of lendable stock that is actually borrowed for shorting—are what are known as fat tailed, meaning that while changes are usually small, large jumps happen more often than a normal distribution would predict. They further showed that stocks satisfying the paper’s condition for multiple equilibria are more likely to exhibit these abrupt jumps in utilization. Professor Zheng said that was a key step in the project: deriving a testable prediction from the model and then finding support for it in historical data.\nThe paper includes a case study of the broad retreat of short sellers between November 2020 and January 2021. While that period is often associated with GameStop, the authors show that the decline in short interest began before online discussion peaked and extended across hundreds of stocks, many of which did not see unusual retail trading activity. This, the paper argues, points to a broader market dynamic rather than a single meme-stock episode.\nFor Professor Zheng, the study is not about judging short sellers as good or bad for markets. Instead, it is about understanding how the existence of a shorting market can affect the broader stock market around it. By bringing the lending market directly into a standard asset-pricing framework, the paper offers a new way to think about volatility, market coordination, and the institutional frictions that can shape price movements.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "New Research Examines How Short Selling Can Intensify Stock Market Volatility"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Why do some stocks experience sudden swings in short-selling activity, and why might short sellers step away even when a stock appears even more overpriced? In a recent paper published in the American Economic Review, NYU Shanghai Assistant Professor of Finance Geoffery Zheng and his coauthors propose a new framework to explain how the interaction between stock trading and stock lending can make some stocks especially unstable. Their study shows that short-selling activity can shift abruptly, and that the stocks most exposed to this mechanism are also the ones most likely to experience jumps in short interest."
+    },
+    {
+      "type": "p",
+      "text": "The project grew out of the 2021 market turbulence surrounding GameStop and other heavily shorted stocks. Professor Zheng said the team wanted to better understand whether short selling itself could be contributing to excess volatility in financial markets. Short selling refers to borrowing a stock, selling it, and later buying it back, hopefully at a lower price, before returning it to the lender. While this practice is common in many financial markets, Professor Zheng said many earlier models did not take seriously enough the fact that short selling depends on a separate lending market, where borrowers must locate shares and pay lending fees."
+    },
+    {
+      "type": "p",
+      "text": "That feature is central to the paper’s mechanism. As Professor Zheng explained, investors who hold a stock can earn returns in two ways: through the stock price rising, or through lending income paid by short sellers. For long-term investors, both contribute to returns. For short sellers, however, the lending fee is a cost. This difference can create more than one sustainable market outcome. In one, prices are lower, expected returns are higher, and short sellers stay out of the market. In another, prices are higher, short sellers remain active, and the borrowing fees they pay help support the willingness of long-term investors to hold the stock. In that way, short selling can amplify stock market volatility rather than simply counteracting it."
+    },
+    {
+      "type": "p",
+      "text": "The paper also addresses a puzzle that may seem counterintuitive: why more short selling can sometimes coincide with higher stock prices. Professor Zheng noted that short sellers do not just bet against a stock—by borrowing shares, they also create lending income for long-term investors. When borrowing demand rises enough, that added income can make the stock more attractive to hold, helping push prices even higher. The result, he said, is that at the same moment that some investors become eager to bet against the stock, others become more willing to buy it."
+    },
+    {
+      "type": "p",
+      "text": "Although the paper is theoretical at its core, the authors also tested its predictions using market data. They found that changes in utilization—the share of lendable stock that is actually borrowed for shorting—are what are known as fat tailed, meaning that while changes are usually small, large jumps happen more often than a normal distribution would predict. They further showed that stocks satisfying the paper’s condition for multiple equilibria are more likely to exhibit these abrupt jumps in utilization. Professor Zheng said that was a key step in the project: deriving a testable prediction from the model and then finding support for it in historical data."
+    },
+    {
+      "type": "p",
+      "text": "The paper includes a case study of the broad retreat of short sellers between November 2020 and January 2021. While that period is often associated with GameStop, the authors show that the decline in short interest began before online discussion peaked and extended across hundreds of stocks, many of which did not see unusual retail trading activity. This, the paper argues, points to a broader market dynamic rather than a single meme-stock episode."
+    },
+    {
+      "type": "p",
+      "text": "For Professor Zheng, the study is not about judging short sellers as good or bad for markets. Instead, it is about understanding how the existence of a shorting market can affect the broader stock market around it. By bringing the lending market directly into a standard asset-pricing framework, the paper offers a new way to think about volatility, market coordination, and the institutional frictions that can shape price movements."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/new_research_examines_how_short_selling_can_intensify_stock_market_volatility.jpg?itok=sXogWerS",
+      "alt": "short selling",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/new_research_examines_how_short_selling_can_intensif-7a802c834308.jpg",
+      "download_status": "downloaded",
+      "bytes": 41416,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=New%20Research%20Examines%20How%20Short%20Selling%20Can%20Intensify%20Stock%20Market%20Volatility&url=https%3A//shanghai.nyu.edu/news/new-research-examines-how-short-selling-can-intensify-stock-market-volatility&status=New%20Research%20Examines%20How%20Short%20Selling%20Can%20Intensify%20Stock%20Market%20Volatility%20https%3A//shanghai.nyu.edu/news/new-research-examines-how-short-selling-can-intensify-stock-market-volatility",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/new-research-examines-how-short-selling-can-intensify-stock-market-volatility&title=New%20Research%20Examines%20How%20Short%20Selling%20Can%20Intensify%20Stock%20Market%20Volatility",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/new-research-examines-how-short-selling-can-intensify-stock-market-volatility&title=New%20Research%20Examines%20How%20Short%20Selling%20Can%20Intensify%20Stock%20Market%20Volatility",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20211548&&from=f",
+      "text": "American Economic Review",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/geoffery-zheng",
+      "text": "Geoffery Zheng",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 687,
+  "crawled_at": "2026-06-09T04:39:00+00:00",
+  "sequence": 1188
+}

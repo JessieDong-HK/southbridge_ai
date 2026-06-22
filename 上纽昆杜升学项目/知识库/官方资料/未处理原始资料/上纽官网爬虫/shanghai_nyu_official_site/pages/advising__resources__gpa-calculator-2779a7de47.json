@@ -1,0 +1,47 @@
+{
+  "id": "advising__resources__gpa-calculator-2779a7de47",
+  "url": "https://shanghai.nyu.edu/advising/resources/gpa-calculator",
+  "canonical_url": "https://shanghai.nyu.edu/advising/resources/gpa-calculator",
+  "page_type": "advising",
+  "title": "GPA Calculator",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "GPA Calculator\nTo calculate your term and cumulative GPAs, enter your grades (A, A-, B+, etc.) and credits (1,2,3, etc.) in the calculator below. Learn more about how your GPA is calculated.\nTerm GPA\nCumulative GPA",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "GPA Calculator"
+    },
+    {
+      "type": "p",
+      "text": "To calculate your term and cumulative GPAs, enter your grades (A, A-, B+, etc.) and credits (1,2,3, etc.) in the calculator below. Learn more about how your GPA is calculated."
+    },
+    {
+      "type": "li",
+      "text": "Term GPA"
+    },
+    {
+      "type": "li",
+      "text": "Cumulative GPA"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/transcripts-certifications-grades/grades.html",
+      "text": "Learn more about how your GPA is calculated.",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/resources/gpa-calculator",
+      "text": "Term GPA",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 38,
+  "crawled_at": "2026-06-09T04:31:42+00:00",
+  "sequence": 475
+}

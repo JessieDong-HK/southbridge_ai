@@ -1,0 +1,94 @@
+{
+  "id": "academics__faculty__directory__noel-joyce-3affbbe0ba",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/noel-joyce",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/noel-joyce",
+  "page_type": "academics",
+  "title": "Noel",
+  "description": "When a mountain biking accident ended his career in the military and left him confined to a wheelchair Noel went back to education to study design. This was the beginning of a journey that is still ongoing. Noel views the world through a unique prism having lived part of his life able bodied and",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Noel Joyce\nWhen a mountain biking accident ended his career in the military and left him confined to a wheelchair Noel went back to education to study design. This was the beginning of a journey that is still ongoing. Noel views the world through a unique prism having lived part of his life able bodied and part of it with disability. Before his current position at NYU Shanghai he had his own startups and went on to become head of design at HAX a hardware startup accelerator where he worked with over 200 startups in the areas of robotics, medical devices, consumer products as well as many more. An advocate of design as a problem solving activity and a keen interest in creating solutions to difficulties around disability Noel utilizes his experience to create solutions to complex problems and utilizes this research to teach his students in his role as Assistant Professor of IMB at NYU Shanghai.\nSelect Publications\nhttps://narratives.insidehighered.com/autodesk-skills-based-learning-student-career-readiness/index.html\nhttps://sponsored.chronicle.com/students-dont-feel-ready-for-their-careers/index.html\nhttps://www.forbes.com/sites/jimvinoski/2025/03/21/an-ardent-irishmans-quest-for-a-more-inclusive-mountain-bike/\nEducation\nMA, Interactive Media in Arts\nBA, Product Design InnovationInstitute of Technology Carlow\nDesign and innovation in the area of Design for Inclusion and Design with Disabilities.\nIndustrial and Product Design and Human Factors.\nEntrepreneurial Innovation and Development",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Noel Joyce"
+    },
+    {
+      "type": "p",
+      "text": "When a mountain biking accident ended his career in the military and left him confined to a wheelchair Noel went back to education to study design. This was the beginning of a journey that is still ongoing. Noel views the world through a unique prism having lived part of his life able bodied and part of it with disability. Before his current position at NYU Shanghai he had his own startups and went on to become head of design at HAX a hardware startup accelerator where he worked with over 200 startups in the areas of robotics, medical devices, consumer products as well as many more. An advocate of design as a problem solving activity and a keen interest in creating solutions to difficulties around disability Noel utilizes his experience to create solutions to complex problems and utilizes this research to teach his students in his role as Assistant Professor of IMB at NYU Shanghai."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "https://narratives.insidehighered.com/autodesk-skills-based-learning-student-career-readiness/index.html"
+    },
+    {
+      "type": "li",
+      "text": "https://sponsored.chronicle.com/students-dont-feel-ready-for-their-careers/index.html"
+    },
+    {
+      "type": "li",
+      "text": "https://www.forbes.com/sites/jimvinoski/2025/03/21/an-ardent-irishmans-quest-for-a-more-inclusive-mountain-bike/"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MA, Interactive Media in Arts"
+    },
+    {
+      "type": "li",
+      "text": "BA, Product Design InnovationInstitute of Technology Carlow"
+    },
+    {
+      "type": "li",
+      "text": "Design and innovation in the area of Design for Inclusion and Design with Disabilities."
+    },
+    {
+      "type": "li",
+      "text": "Industrial and Product Design and Human Factors."
+    },
+    {
+      "type": "li",
+      "text": "Entrepreneurial Innovation and Development"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/bio%20photo%20Noel%20Joyce.jpg",
+      "alt": "Headshot photo of Noel Joyce",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/bio%20photo%20Noel%20Joyce.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://narratives.insidehighered.com/autodesk-skills-based-learning-student-career-readiness/index.html",
+      "text": "https://narratives.insidehighered.com/autodesk-skills-based-learning-student-career-readiness/index.html",
+      "internal": false
+    },
+    {
+      "url": "https://sponsored.chronicle.com/students-dont-feel-ready-for-their-careers/index.html",
+      "text": "https://sponsored.chronicle.com/students-dont-feel-ready-for-their-careers/index.html",
+      "internal": false
+    },
+    {
+      "url": "https://www.forbes.com/sites/jimvinoski/2025/03/21/an-ardent-irishmans-quest-for-a-more-inclusive-mountain-bike",
+      "text": "https://www.forbes.com/sites/jimvinoski/2025/03/21/an-ardent-irishmans-quest-for-a-more-inclusive-mountain-bike/",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 242,
+  "crawled_at": "2026-06-09T04:53:52+00:00",
+  "sequence": 2395
+}

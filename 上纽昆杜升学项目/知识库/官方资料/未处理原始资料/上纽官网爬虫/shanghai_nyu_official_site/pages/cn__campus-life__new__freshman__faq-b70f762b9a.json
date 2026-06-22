@@ -1,0 +1,42 @@
+{
+  "id": "cn__campus-life__new__freshman__faq-b70f762b9a",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/new/freshman/faq",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/new/freshman/faq",
+  "page_type": "cn",
+  "title": "2023级新生入学常见问题答疑",
+  "description": "我们按类别整理出了新生入学常见问题，供新生及家长参考。若还有其他疑问，请发电子邮件至shanghai.newstudents@nyu.edu。点击下载答疑文档。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "2023级新生入学常见问题答疑\n我们按类别整理出了新生入学常见问题，供新生及家长参考。若还有其他疑问，请发电子邮件至shanghai.newstudents@nyu.edu。\n点击下载答疑文档。\n迎新周",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "2023级新生入学常见问题答疑"
+    },
+    {
+      "type": "p",
+      "text": "我们按类别整理出了新生入学常见问题，供新生及家长参考。若还有其他疑问，请发电子邮件至shanghai.newstudents@nyu.edu。"
+    },
+    {
+      "type": "p",
+      "text": "点击下载答疑文档。"
+    },
+    {
+      "type": "h3",
+      "text": "迎新周"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/2023_parent_faq.pdf",
+      "text": "点击",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 10,
+  "crawled_at": "2026-06-09T04:36:47+00:00",
+  "sequence": 950
+}

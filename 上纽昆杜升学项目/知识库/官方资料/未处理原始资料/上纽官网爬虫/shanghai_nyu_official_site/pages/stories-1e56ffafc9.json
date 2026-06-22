@@ -1,0 +1,251 @@
+{
+  "id": "stories-1e56ffafc9",
+  "url": "https://shanghai.nyu.edu/stories?page=9",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "stories",
+  "title": "People | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "People\nAlexander Bogdanowicz '20: Everything Is an Opening, a Shattering of Expectations\nGuan ChengHe: Reimagining Cities with Big Data\nAudrey Samuel '20: A Global Citizen Finding Ways to Give Back\nA Two-Month Race: Supplying the Frontlines of a Pandemic\nTim Wu Guangyu '20: From Century Avenue to Huaihua City to the UN\nGraduate Student Spotlight: Dai Weiduo, M.S. '20\nHe Ziqing '20: Embracing Uncertainty to Follow Her Passions\nViolet Spotlight: Sibling Edition\nFaculty-Student Research: Teaching Robots to Run\nEric Song Yilun '20: On the Research Fast Track\nFaculty-Student Research: Tracing the Celebrities of the Space Age\nStudying Away: Sydney Fontalvo",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "People"
+    },
+    {
+      "type": "h4",
+      "text": "Alexander Bogdanowicz '20: Everything Is an Opening, a Shattering of Expectations"
+    },
+    {
+      "type": "h4",
+      "text": "Guan ChengHe: Reimagining Cities with Big Data"
+    },
+    {
+      "type": "h4",
+      "text": "Audrey Samuel '20: A Global Citizen Finding Ways to Give Back"
+    },
+    {
+      "type": "h4",
+      "text": "A Two-Month Race: Supplying the Frontlines of a Pandemic"
+    },
+    {
+      "type": "h4",
+      "text": "Tim Wu Guangyu '20: From Century Avenue to Huaihua City to the UN"
+    },
+    {
+      "type": "h4",
+      "text": "Graduate Student Spotlight: Dai Weiduo, M.S. '20"
+    },
+    {
+      "type": "h4",
+      "text": "He Ziqing '20: Embracing Uncertainty to Follow Her Passions"
+    },
+    {
+      "type": "h4",
+      "text": "Violet Spotlight: Sibling Edition"
+    },
+    {
+      "type": "h4",
+      "text": "Faculty-Student Research: Teaching Robots to Run"
+    },
+    {
+      "type": "h4",
+      "text": "Eric Song Yilun '20: On the Research Fast Track"
+    },
+    {
+      "type": "h4",
+      "text": "Faculty-Student Research: Tracing the Celebrities of the Space Age"
+    },
+    {
+      "type": "h4",
+      "text": "Studying Away: Sydney Fontalvo"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alex_square.jpg?itok=xQyPMpEj",
+      "alt": "Alex bogdanowicz square",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alex_square-b75c5b84eac4.jpg",
+      "download_status": "downloaded",
+      "bytes": 18786,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/focus_image/05.11-940.jpg?itok=tih9p4fT",
+      "alt": "pic01010101",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/05.11-940-858872193836.jpg",
+      "download_status": "downloaded",
+      "bytes": 20362,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/1971366975-800.jpg?itok=2S-gaz6L",
+      "alt": "A Global Citizen Finding Ways to Give Back",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/1971366975-800-2eed554bc015.jpg",
+      "download_status": "downloaded",
+      "bytes": 26023,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/3q0a007-940.jpg?itok=ZuqpCPY7",
+      "alt": "ying-frontlines-pandemic",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/screen_shot_2020-05-08_at_4.25.03_pm.png?itok=MRX-Vgl9",
+      "alt": "Tim Wu",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2020-05-08_at_4.25.03_pm-a993782350c7.png",
+      "download_status": "downloaded",
+      "bytes": 259163,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/19-0908_135_meitu_1.jpg?itok=5EBjRHqv",
+      "alt": "Dai Weiduo 3",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/headline_photo_-_homepage.jpg?itok=HpBxV70D",
+      "alt": "Laughing under cherry blossoms at Jefferson Memorial",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/headline_photo_-_homepage-4c866264cc7d.jpg",
+      "download_status": "downloaded",
+      "bytes": 21849,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/zainab_ali_2.jpeg?itok=YUWSazRM",
+      "alt": "violetspotlight",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/zainab_ali_2-19dd16f81345.jpeg",
+      "download_status": "downloaded",
+      "bytes": 33360,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/keith_ross-400.jpg?itok=3PdBSu5f",
+      "alt": "Keith Ross",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/keith_ross-400-9961c3a2fdbf.jpg",
+      "download_status": "downloaded",
+      "bytes": 26238,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/img_20190226_480.jpg?itok=Nl0DVRfE",
+      "alt": "Eric Song Yilun",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_20190226_480-b232a309f5a9.jpg",
+      "download_status": "downloaded",
+      "bytes": 24933,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/img_0271-1_copy.jpg?itok=uC43HFFE",
+      "alt": "Register for Courses in Shanghai",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_0271-1_copy-e5bb631c1da6.jpg",
+      "download_status": "downloaded",
+      "bytes": 34701,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/sydney_fontalvo-2.jpg?itok=JJIn0kmr",
+      "alt": "syaney",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/stories/alexander-bogdanowicz-20-everything-opening-shattering-expectations",
+      "text": "Alexander Bogdanowicz '20: Everything Is an Opening, a Shattering of Expectations",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/guan-chenghe-reimagining-cities-big-data",
+      "text": "Guan ChengHe: Reimagining Cities with Big Data",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/audrey-samuel-20-global-citizen-finding-ways-give-back",
+      "text": "Audrey Samuel '20: A Global Citizen Finding Ways to Give Back",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/two-month-race-supplying-frontlines-pandemic",
+      "text": "A Two-Month Race: Supplying the Frontlines of a Pandemic",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/tim-wu-guangyu-20-century-avenue-huaihua-city-un",
+      "text": "Tim Wu Guangyu '20: From Century Avenue to Huaihua City to the UN",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/graduate-student-spotlight-dai-weiduo-ms-20",
+      "text": "Graduate Student Spotlight: Dai Weiduo, M.S. '20",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/he-ziqing-20-embracing-uncertainty-follow-her-passions",
+      "text": "He Ziqing '20: Embracing Uncertainty to Follow Her Passions",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/violet-spotlight-sibling-edition",
+      "text": "Violet Spotlight: Sibling Edition",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/faculty-student-research-teaching-robots-run",
+      "text": "Faculty-Student Research: Teaching Robots to Run",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/eric-song-yilun-20-research-fast-track",
+      "text": "Eric Song Yilun '20: On the Research Fast Track",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/faculty-student-research-tracing-celebrities-space-age",
+      "text": "Faculty-Student Research: Tracing the Celebrities of the Space Age",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/studying-away-sydney-fontalvo",
+      "text": "Studying Away: Sydney Fontalvo",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 104,
+  "crawled_at": "2026-06-09T04:47:13+00:00",
+  "sequence": 1842
+}

@@ -1,0 +1,84 @@
+{
+  "id": "cn__campus-life__athletics__fitness-424a8c851c",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/athletics/fitness",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/athletics/fitness",
+  "page_type": "cn",
+  "title": "健身与休闲体育",
+  "description": "上海纽约大学为学生提供各种健身和健康教育的机会，从瑜伽、舞蹈到健身主题培训，每个学生都能在这里找到适合自己的课程。此外，学校也为需要防护和治疗运动损伤的学生提供个人训练计划。团体健身上纽大体育运动与健身办公室每年提供多种免费的团体健身课程。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "健身与休闲体育\n上海纽约大学为学生提供各种健身和健康教育的机会，从瑜伽、舞蹈到健身主题培训，每个学生都能在这里找到适合自己的课程。此外，学校也为需要防护和治疗运动损伤的学生提供个人训练计划。\n团体健身\n上纽大体育运动与健身办公室每年提供多种免费的团体健身课程。\n学生健身中心\n学生健身中心是上纽大最受欢迎的地点之一。学生可和着节奏欢快的流行音乐，使用中心提供的先进健身器材，尽情享受舒适安全的健身氛围。学生还可以参加由专业健身教练教授的团体健身课。健身中心的开放时间如下：\n周一至周五：上午10点至晚上8点 周日下午1点到5点\n休闲体育活动\n休闲体育活动是面向我校学生开展的非正式竞赛和非竞赛类活动。每个学生都可以参加体育运动与健身办公室安排的友谊比赛。若你想推荐新的休闲体育活动，可发送邮件至 shanghai.athletics@nyu.edu 获取更多信息。",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "健身与休闲体育"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学为学生提供各种健身和健康教育的机会，从瑜伽、舞蹈到健身主题培训，每个学生都能在这里找到适合自己的课程。此外，学校也为需要防护和治疗运动损伤的学生提供个人训练计划。"
+    },
+    {
+      "type": "h4",
+      "text": "团体健身"
+    },
+    {
+      "type": "p",
+      "text": "上纽大体育运动与健身办公室每年提供多种免费的团体健身课程。"
+    },
+    {
+      "type": "h4",
+      "text": "学生健身中心"
+    },
+    {
+      "type": "p",
+      "text": "学生健身中心是上纽大最受欢迎的地点之一。学生可和着节奏欢快的流行音乐，使用中心提供的先进健身器材，尽情享受舒适安全的健身氛围。学生还可以参加由专业健身教练教授的团体健身课。健身中心的开放时间如下："
+    },
+    {
+      "type": "li",
+      "text": "周一至周五：上午10点至晚上8点 周日下午1点到5点"
+    },
+    {
+      "type": "h4",
+      "text": "休闲体育活动"
+    },
+    {
+      "type": "p",
+      "text": "休闲体育活动是面向我校学生开展的非正式竞赛和非竞赛类活动。每个学生都可以参加体育运动与健身办公室安排的友谊比赛。若你想推荐新的休闲体育活动，可发送邮件至 shanghai.athletics@nyu.edu 获取更多信息。"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/banner_athletics3.jpg",
+      "alt": "团体健身",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/banner_athletics3.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-athletics-3-3.jpg",
+      "alt": "学生健身中心",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-athletics-3-3.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-athletics-3-4.jpg",
+      "alt": "休闲体育活动",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-athletics-3-4.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 29,
+  "crawled_at": "2026-06-09T04:36:48+00:00",
+  "sequence": 953
+}

@@ -1,0 +1,72 @@
+{
+  "id": "academics__study-away-e4d29f3504",
+  "url": "https://shanghai.nyu.edu/academics/study-away",
+  "canonical_url": "https://shanghai.nyu.edu/academics/study-away",
+  "page_type": "academics",
+  "title": "Study Away",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Study Away\nStudy Away in Shanghai\nIf you are interested in studying for a semester, summer term, or January term at NYU Shanghai or have any questions regarding NYU Shanghai, please e-mail the Shanghai Advising Team at shanghai.advising@nyu.edu.\nStudy Away out of Shanghai\nGlobal education is an essential component of NYU Shanghai’s educational mission and curriculum. It permeates every aspect of our educational environment, including a core curriculum designed to foster cross-cultural understanding and communication, and the requirement that students study away within NYU’s global network for at least one semester.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Study Away"
+    },
+    {
+      "type": "h4",
+      "text": "Study Away in Shanghai"
+    },
+    {
+      "type": "p",
+      "text": "If you are interested in studying for a semester, summer term, or January term at NYU Shanghai or have any questions regarding NYU Shanghai, please e-mail the Shanghai Advising Team at shanghai.advising@nyu.edu."
+    },
+    {
+      "type": "h4",
+      "text": "Study Away out of Shanghai"
+    },
+    {
+      "type": "p",
+      "text": "Global education is an essential component of NYU Shanghai’s educational mission and curriculum. It permeates every aspect of our educational environment, including a core curriculum designed to foster cross-cultural understanding and communication, and the requirement that students study away within NYU’s global network for at least one semester."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-study-away-out-00-1_0.jpg",
+      "alt": "Study Away in Shanghai",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-study-away-out-00-1_0-a06c61e99cf9.jpg",
+      "download_status": "downloaded",
+      "bytes": 110898,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-study-away-out-00-2_0.jpg",
+      "alt": "Study Away out of Shanghai",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-study-away-out-00-2_0-84d88d1883b3.jpg",
+      "download_status": "downloaded",
+      "bytes": 144950,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/academics/study-away/in",
+      "text": "Study Away in Shanghai",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/study-away/out",
+      "text": "Study Away out of Shanghai",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 98,
+  "crawled_at": "2026-06-09T04:28:24+00:00",
+  "sequence": 65
+}

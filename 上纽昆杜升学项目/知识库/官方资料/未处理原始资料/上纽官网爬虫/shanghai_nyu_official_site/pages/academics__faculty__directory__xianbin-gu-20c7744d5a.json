@@ -1,0 +1,89 @@
+{
+  "id": "academics__faculty__directory__xianbin-gu-20c7744d5a",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu",
+  "page_type": "academics",
+  "title": "Xianbin",
+  "description": "Xianbin Gu is an Associate Professor of Practice in Computer Science at NYU Shanghai. He earned his PhD in Information Science from the University of Otago, New Zealand. As a dedicated educator, he focuses on teaching foundational courses in computer science and data science, helping students build",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Xianbin Gu\nXianbin Gu is an Associate Professor of Practice in Computer Science at NYU Shanghai. He earned his PhD in Information Science from the University of Otago, New Zealand. As a dedicated educator, he focuses on teaching foundational courses in computer science and data science, helping students build both practical skills and conceptual understanding. Beyond the classroom, he serves as the coach of NYU Shanghai’s International Collegiate Programming Contest (ICPC) team, mentoring students to excel in competitive programming at the regional and international levels.\nSelect Publications\nGu, Xianbin, and Jeremiah D. Deng. \"A multi-feature bipartite graph ensemble for image segmentation.\" Pattern recognition letters 131 (2020): 98-104.\nGu, Xianbin, and Martin Purvis. \"Image segmentation with superpixel-based covariance descriptor.\" Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer, Cham, 2016\nGu, Xianbin, Jeremiah D. Deng, and Martin K. Purvis. \"Improving superpixel-based image segmentation by incorporating color covariance matrix manifolds.\" 2014 IEEE International Conference on Image Processing (ICIP). IEEE, 2014\nGu, Xianbin, and Xuying LI. \"Empirical analysis on long memory property of Baltic dry index.\" Journal of Shanghai Maritime University 30.1 (2009): 40-44\nEducation\nPhD, Information ScienceUniversity of Otago\nComputer Vision and Machine Learning - Developing methods that enable computers to interpret and analyze visual information\nData Analysis - Applying computational approaches to uncover patterns and solve complex real-world problems\nIntroduction to Computer Science\nInformation Visualization",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Xianbin Gu"
+    },
+    {
+      "type": "p",
+      "text": "Xianbin Gu is an Associate Professor of Practice in Computer Science at NYU Shanghai. He earned his PhD in Information Science from the University of Otago, New Zealand. As a dedicated educator, he focuses on teaching foundational courses in computer science and data science, helping students build both practical skills and conceptual understanding. Beyond the classroom, he serves as the coach of NYU Shanghai’s International Collegiate Programming Contest (ICPC) team, mentoring students to excel in competitive programming at the regional and international levels."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Gu, Xianbin, and Jeremiah D. Deng. \"A multi-feature bipartite graph ensemble for image segmentation.\" Pattern recognition letters 131 (2020): 98-104."
+    },
+    {
+      "type": "li",
+      "text": "Gu, Xianbin, and Martin Purvis. \"Image segmentation with superpixel-based covariance descriptor.\" Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer, Cham, 2016"
+    },
+    {
+      "type": "li",
+      "text": "Gu, Xianbin, Jeremiah D. Deng, and Martin K. Purvis. \"Improving superpixel-based image segmentation by incorporating color covariance matrix manifolds.\" 2014 IEEE International Conference on Image Processing (ICIP). IEEE, 2014"
+    },
+    {
+      "type": "li",
+      "text": "Gu, Xianbin, and Xuying LI. \"Empirical analysis on long memory property of Baltic dry index.\" Journal of Shanghai Maritime University 30.1 (2009): 40-44"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Information ScienceUniversity of Otago"
+    },
+    {
+      "type": "li",
+      "text": "Computer Vision and Machine Learning - Developing methods that enable computers to interpret and analyze visual information"
+    },
+    {
+      "type": "li",
+      "text": "Data Analysis - Applying computational approaches to uncover patterns and solve complex real-world problems"
+    },
+    {
+      "type": "li",
+      "text": "Introduction to Computer Science"
+    },
+    {
+      "type": "li",
+      "text": "Information Visualization"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/wu_ti_mu_lu_0428_selected_small.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "skipped_too_large",
+      "bytes": 3116496,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cs.shanghai.nyu.edu/faculty/xianbin-gu-guxianbin",
+      "text": "https://cs.shanghai.nyu.edu/faculty/xianbin-gu-guxianbin",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 231,
+  "crawled_at": "2026-06-09T04:53:57+00:00",
+  "sequence": 2401
+}

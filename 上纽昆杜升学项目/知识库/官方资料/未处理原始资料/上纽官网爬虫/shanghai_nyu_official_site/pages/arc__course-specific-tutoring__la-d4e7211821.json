@@ -1,0 +1,92 @@
+{
+  "id": "arc__course-specific-tutoring__la-d4e7211821",
+  "url": "https://shanghai.nyu.edu/arc/course-specific-tutoring/la?field_arc_disciplines_target_id=830",
+  "canonical_url": "https://shanghai.nyu.edu/arc/course-specific-tutoring/la",
+  "page_type": "arc",
+  "title": "Learning Assistants Spring 2026 | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Learning Assistants Spring 2026\nLeran ZhangBusiness Lead LABUSF-SHU 202 Foundations of Finance, BUSF-SHU 250 Principles of Financial Accounting\nJirui (Elvira) FanBusiness LABUSF-SHU 101: Statistics for Business and Economics, BUSF-SHU 250: Principles of Financial Accounting\nZhuo ChenBUSF&ECON LABUSF-SHU 303 Corporate Finance, ECON-SHU 301 Econometrics\nZhuoyue ZhangBusiness LAMKTG-SHU 1 Introduction to Marketing, BUSF-SHU 101 Statistics for Business and Economics\nTong QuBusiness LABUSF-SHU 202 Foundations of Finance, BUSF-SHU 250 Principles of Financial Accounting",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Learning Assistants Spring 2026"
+    },
+    {
+      "type": "li",
+      "text": "Leran ZhangBusiness Lead LABUSF-SHU 202 Foundations of Finance, BUSF-SHU 250 Principles of Financial Accounting"
+    },
+    {
+      "type": "li",
+      "text": "Jirui (Elvira) FanBusiness LABUSF-SHU 101: Statistics for Business and Economics, BUSF-SHU 250: Principles of Financial Accounting"
+    },
+    {
+      "type": "li",
+      "text": "Zhuo ChenBUSF&ECON LABUSF-SHU 303 Corporate Finance, ECON-SHU 301 Econometrics"
+    },
+    {
+      "type": "li",
+      "text": "Zhuoyue ZhangBusiness LAMKTG-SHU 1 Introduction to Marketing, BUSF-SHU 101 Statistics for Business and Economics"
+    },
+    {
+      "type": "li",
+      "text": "Tong QuBusiness LABUSF-SHU 202 Foundations of Finance, BUSF-SHU 250 Principles of Financial Accounting"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/alumni_vocies__300x450/public/meettheteam/LeranZhang%20-%20Leran%20Zhang.jpg?itok=Yaiec08X",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/LeranZhang-20-20Leran-20Zhang-d56b7f3b1880.jpg",
+      "download_status": "downloaded",
+      "bytes": 9893,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/alumni_vocies__300x450/public/meettheteam/Jirui%20Fan%20-%20Jirui%20Fan%20%28Elvira%29.jpg?itok=VjOS-oay",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/alumni_vocies__300x450/public/meettheteam/%E7%BE%8E%E7%AD%BE%20-%20Zhuo%20Chen.jpg?itok=3V7UTRTD",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/alumni_vocies__300x450/public/meettheteam/%E7%BE%8E%E7%AD%BE%20-%20Zhuo%20Chen.jpg?itok=3V7UTRTD (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/alumni_vocies__300x450/public/meettheteam/IMG_7098%20-%20Zhuoyue%20Zhang.JPG?itok=ENDhhHob",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/IMG_7098-20-20Zhuoyue-20Zhang-8e1936723b53.jpg",
+      "download_status": "downloaded",
+      "bytes": 19030,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/alumni_vocies__300x450/public/meettheteam/%E7%85%A7%E7%89%87%20-%20Tong%20Qu.jpg?itok=f_GJtcfM",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 81,
+  "crawled_at": "2026-06-09T04:42:19+00:00",
+  "sequence": 1463
+}

@@ -1,0 +1,36 @@
+{
+  "id": "news__searching-for-a-deeper-meaning-ed5b14973f",
+  "url": "https://www.dukekunshan.edu.cn/news/searching-for-a-deeper-meaning",
+  "canonical_url": "https://www.dukekunshan.edu.cn/news/searching-for-a-deeper-meaning/",
+  "page_type": "news",
+  "title": "Searching for a deeper meaning",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2023-10-23T13:27:54+00:00",
+  "sitemap_lastmod": "2023-10-23T13:27:54+00:00",
+  "text": "Searching for a deeper meaning",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Searching for a deeper meaning"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 5,
+  "crawled_at": "2026-06-03T13:51:53+00:00",
+  "sequence": 265
+}

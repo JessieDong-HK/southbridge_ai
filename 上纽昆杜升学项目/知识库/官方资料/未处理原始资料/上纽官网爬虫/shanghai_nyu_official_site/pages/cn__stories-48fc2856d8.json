@@ -1,0 +1,250 @@
+{
+  "id": "cn__stories-48fc2856d8",
+  "url": "https://shanghai.nyu.edu/cn/stories?page=11",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "cn",
+  "title": "人物 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "人物\n对话2018届校友刘令仪\n对话全球中国学助理教授赵璐\n对话2018届校友陈雨航\n好室友 好朋友——冯语欣和Dayna Brown\n紫罗兰的声音：2021届Zane Fadul\n好室友 好朋友——Matthew Couch与刘天纬\n好室友 好朋友——Lauren Benedict与周谧\n2018届毕业生李响——打破藩篱\nSevi Reyes——从不懂代码到发明机器臂\nAlexandru Grigoras——一个程序员的理想\n赵楠——设计未来\nDefne Inhan——神经科学之“艺术”探索",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "人物"
+    },
+    {
+      "type": "h4",
+      "text": "对话2018届校友刘令仪"
+    },
+    {
+      "type": "h4",
+      "text": "对话全球中国学助理教授赵璐"
+    },
+    {
+      "type": "h4",
+      "text": "对话2018届校友陈雨航"
+    },
+    {
+      "type": "h4",
+      "text": "好室友 好朋友——冯语欣和Dayna Brown"
+    },
+    {
+      "type": "h4",
+      "text": "紫罗兰的声音：2021届Zane Fadul"
+    },
+    {
+      "type": "h4",
+      "text": "好室友 好朋友——Matthew Couch与刘天纬"
+    },
+    {
+      "type": "h4",
+      "text": "好室友 好朋友——Lauren Benedict与周谧"
+    },
+    {
+      "type": "h4",
+      "text": "2018届毕业生李响——打破藩篱"
+    },
+    {
+      "type": "h4",
+      "text": "Sevi Reyes——从不懂代码到发明机器臂"
+    },
+    {
+      "type": "h4",
+      "text": "Alexandru Grigoras——一个程序员的理想"
+    },
+    {
+      "type": "h4",
+      "text": "赵楠——设计未来"
+    },
+    {
+      "type": "h4",
+      "text": "Defne Inhan——神经科学之“艺术”探索"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/wechatimg540_0.jpeg?itok=uPBwO0Zq",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/dsc01053_2.jpg?itok=i-ZAdCxc",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/mo_ren_biao_ti_gong_zhong_hao_feng_mian_shou_tu_2019.02.21_5.png?itok=c6BJ6HmW",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/mo_ren_biao_ti_gong_zhong_hao_feng_mian_shou_tu_2019-e49be5e2fc05.png",
+      "download_status": "downloaded",
+      "bytes": 192923,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/662738126-940.jpg?itok=Nr-O5VDB",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/662738126-940-b929b805361c.jpg",
+      "download_status": "downloaded",
+      "bytes": 28514,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/zane_1_1.jpg?itok=HaU9tQxH",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/zane_1_1-923f8ec9c80e.jpg",
+      "download_status": "downloaded",
+      "bytes": 22506,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/mathew-and-tianwei-940-2_0.jpg?itok=a6Tv43kw",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/mathew-and-tianwei-940-2_0-461c48b3b65c.jpg",
+      "download_status": "downloaded",
+      "bytes": 27890,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/wechatimg777.jpg?itok=qbkFuVC4",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg777-949cf752becf.jpg",
+      "download_status": "downloaded",
+      "bytes": 16358,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/251841651-940.jpg?itok=uVEd7Lf1",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/img_0777-940.jpg?itok=0lhlTvIn",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_0777-940-823d1590043e.jpg",
+      "download_status": "downloaded",
+      "bytes": 36077,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/img_0760-940.jpg?itok=G0YoA4VE",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_0760-940-25ba3129ede8.jpg",
+      "download_status": "downloaded",
+      "bytes": 21450,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/img_1151-940_0.jpg?itok=ArPJy6V1",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/img_0737-940.jpg?itok=BnJWlplB",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_0737-940-063f30382bbe.jpg",
+      "download_status": "downloaded",
+      "bytes": 28649,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/dui-hua2018-jie-xiao-you-liu-ling-yi",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/dui-hua-quan-qiu-zhong-guo-xue-zhu-li-jiao-shou-zhao-lu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/alumni-voices-chen-yuhang-18",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/hao-shi-you-hao-peng-you-feng-yu-xin-hedayna-brown",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/violet-spotlight-zane",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/roommates-matthew-and-tianwei",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/hao-shi-you-hao-peng-you-lauren-benedict-yu-zhou-mi",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/li-xiang-breaking-barriers",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/sevi-reyes",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/alexandru-grigoras-yi-ge-cheng-xu-yuan-de-li-xiang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/zhao-nan-she-ji-wei-lai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/defne-inhan",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 34,
+  "crawled_at": "2026-06-09T04:48:47+00:00",
+  "sequence": 1979
+}

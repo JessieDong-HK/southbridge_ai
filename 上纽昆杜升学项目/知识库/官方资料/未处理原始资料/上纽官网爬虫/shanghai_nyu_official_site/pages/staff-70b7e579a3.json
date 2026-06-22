@@ -1,0 +1,127 @@
+{
+  "id": "staff-70b7e579a3",
+  "url": "https://shanghai.nyu.edu/staff",
+  "canonical_url": "https://shanghai.nyu.edu/staff",
+  "page_type": "staff",
+  "title": "Staff",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Staff\nNYU Shanghai is a highly selective world-class research university and the first Sino-American university with independent legal registration in China.\nMeet our Community\n5 Years Service Award\nThank You for Your Service and Contribution to NYU Shanghai!\nWork Here\nWe welcome diverse, energetic and talented people to grow and succeed together.\nJoin Us\nFind all available staff positions and internship opportunities.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Staff"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai is a highly selective world-class research university and the first Sino-American university with independent legal registration in China."
+    },
+    {
+      "type": "h2",
+      "text": "Meet our Community"
+    },
+    {
+      "type": "h4",
+      "text": "5 Years Service Award"
+    },
+    {
+      "type": "p",
+      "text": "Thank You for Your Service and Contribution to NYU Shanghai!"
+    },
+    {
+      "type": "h4",
+      "text": "Work Here"
+    },
+    {
+      "type": "p",
+      "text": "We welcome diverse, energetic and talented people to grow and succeed together."
+    },
+    {
+      "type": "h4",
+      "text": "Join Us"
+    },
+    {
+      "type": "p",
+      "text": "Find all available staff positions and internship opportunities."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-staff_gateway-2020-1-2-min.jpg",
+      "alt": "5 Years Service Award",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-staff_gateway-2020-1-2-min-c8468df07258.jpg",
+      "download_status": "downloaded",
+      "bytes": 39920,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/15_2.jpg",
+      "alt": "Work Here",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/15_2-862161f983f0.jpg",
+      "download_status": "downloaded",
+      "bytes": 37895,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-staff_gateway-2020-1-4-min.jpg",
+      "alt": "join us",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/16_2.jpg",
+      "alt": "The Transnational University",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/16_2-d2e84b2d9122.jpg",
+      "download_status": "downloaded",
+      "bytes": 93962,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/staff/5-years-service-award",
+      "text": "5 Years Service Award",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/about/work/benefits",
+      "text": "Work Here",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/staff/join-us",
+      "text": "Join Us",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/magazinestory/transnational-university",
+      "text": "The Transnational University",
+      "internal": true
+    },
+    {
+      "url": "http://staff.shanghai.nyu.edu/en",
+      "text": "Staff Portal",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/about/staff",
+      "text": "Staff Directory",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 64,
+  "crawled_at": "2026-06-09T04:27:52+00:00",
+  "sequence": 4
+}

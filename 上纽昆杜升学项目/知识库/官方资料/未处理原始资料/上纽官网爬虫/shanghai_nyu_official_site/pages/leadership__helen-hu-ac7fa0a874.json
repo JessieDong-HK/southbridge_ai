@@ -1,0 +1,50 @@
+{
+  "id": "leadership__helen-hu-ac7fa0a874",
+  "url": "https://shanghai.nyu.edu/leadership/helen-hu",
+  "canonical_url": "https://shanghai.nyu.edu/leadership/helen-hu",
+  "page_type": "leadership",
+  "title": "Helen Hu",
+  "description": "Helen Hu is the Chief Financial Officer at NYU Shanghai, overseeing finance and procurement related areas.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Helen Hu\nHelen Hu is the Chief Financial Officer at NYU Shanghai, overseeing finance and procurement related areas.\nBefore joining NYU Shanghai, Helen was the CFO for Duke Kunshan University and the Chair of DKU Education Development Foundation. Prior to that, she worked for multinational companies in progressive leadership roles in both China and the United States, and has accumulated a wealth of experience in corporate finance, control and compliance, risk management, financial planning and analysis (FP&A), mergers and acquisitions (M&A), restructuring, system implementation and people development.\nHelen is an active AmCham Shanghai member, and has been elected multiple times to the American Chamber of Commerce in Shanghai’s Board of Governors and appointed as the Treasurer and the Chair of Finance Committee for 2017, 2018, 2023 and 2024, in addition to serving on the Finance Committee each term.\nHelen is an AICPA and CGMA member. She received her bachelor’s degree from the University of International Business and Economics (UIBE), China, and an MBA degree from Wake Forest University, USA.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Helen Hu"
+    },
+    {
+      "type": "p",
+      "text": "Helen Hu is the Chief Financial Officer at NYU Shanghai, overseeing finance and procurement related areas."
+    },
+    {
+      "type": "p",
+      "text": "Before joining NYU Shanghai, Helen was the CFO for Duke Kunshan University and the Chair of DKU Education Development Foundation. Prior to that, she worked for multinational companies in progressive leadership roles in both China and the United States, and has accumulated a wealth of experience in corporate finance, control and compliance, risk management, financial planning and analysis (FP&A), mergers and acquisitions (M&A), restructuring, system implementation and people development."
+    },
+    {
+      "type": "p",
+      "text": "Helen is an active AmCham Shanghai member, and has been elected multiple times to the American Chamber of Commerce in Shanghai’s Board of Governors and appointed as the Treasurer and the Chair of Finance Committee for 2017, 2018, 2023 and 2024, in addition to serving on the Finance Committee each term."
+    },
+    {
+      "type": "p",
+      "text": "Helen is an AICPA and CGMA member. She received her bachelor’s degree from the University of International Business and Economics (UIBE), China, and an MBA degree from Wake Forest University, USA."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/profile/Helen-HU-1.jpg?itok=wUs7w_sd",
+      "alt": "Helen Hu",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 173,
+  "crawled_at": "2026-06-09T04:29:36+00:00",
+  "sequence": 230
+}

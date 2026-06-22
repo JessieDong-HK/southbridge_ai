@@ -1,0 +1,75 @@
+{
+  "id": "stories__lucia-pierce-director-external-and-academic-events-67d6feed22",
+  "url": "https://shanghai.nyu.edu/stories/lucia-pierce-director-external-and-academic-events",
+  "canonical_url": "https://shanghai.nyu.edu/stories/lucia-pierce-director-external-and-academic-events",
+  "page_type": "stories",
+  "title": "Lucia Pierce, Director of External and Academic Events",
+  "description": "May 19, 2015 - \"It's the informal interactions with students that I love. Whether walking down Century Avenue discussing John Sexton and Rick Hills' courses on American law, or being entranced by explanations of impossibly complicated and astonishing creations during the End-of-Semester IMA Show, or",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Lucia Pierce, Director of External and Academic Events\nTwitter\nFacebook\nWeibo\nMay 19, 2015 - \"It's the informal interactions with students that I love. Whether walking down Century Avenue discussing John Sexton and Rick Hills' courses on American law, or being entranced by explanations of impossibly complicated and astonishing creations during the End-of-Semester IMA Show, or students dropping by my office to catch up, I am always delighted and impressed with their energy, openness, and smarts!\" - Lucia Pierce, Director of External and Academic Events (by Dylan J Crow)",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Lucia Pierce, Director of External and Academic Events"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "May 19, 2015 - \"It's the informal interactions with students that I love. Whether walking down Century Avenue discussing John Sexton and Rick Hills' courses on American law, or being entranced by explanations of impossibly complicated and astonishing creations during the End-of-Semester IMA Show, or students dropping by my office to catch up, I am always delighted and impressed with their energy, openness, and smarts!\" - Lucia Pierce, Director of External and Academic Events (by Dylan J Crow)"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/story",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/story/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/story/3Q0A1993.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Lucia%20Pierce%2C%20Director%20of%20External%20and%20Academic%20Events&url=https%3A//shanghai.nyu.edu/stories/lucia-pierce-director-external-and-academic-events&status=Lucia%20Pierce%2C%20Director%20of%20External%20and%20Academic%20Events%20https%3A//shanghai.nyu.edu/stories/lucia-pierce-director-external-and-academic-events",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/stories/lucia-pierce-director-external-and-academic-events&title=Lucia%20Pierce%2C%20Director%20of%20External%20and%20Academic%20Events",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/stories/lucia-pierce-director-external-and-academic-events&title=Lucia%20Pierce%2C%20Director%20of%20External%20and%20Academic%20Events",
+      "text": "Weibo",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 90,
+  "crawled_at": "2026-06-09T04:47:41+00:00",
+  "sequence": 1879
+}

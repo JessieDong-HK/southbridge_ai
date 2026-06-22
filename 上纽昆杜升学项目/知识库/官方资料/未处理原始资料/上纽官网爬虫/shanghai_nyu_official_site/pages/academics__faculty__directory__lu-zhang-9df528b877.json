@@ -1,0 +1,98 @@
+{
+  "id": "academics__faculty__directory__lu-zhang-9df528b877",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/lu-zhang",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/lu-zhang",
+  "page_type": "academics",
+  "title": "Lu",
+  "description": "PhD from NYU. Former McCracken fellow. Scholar of DNA damage. PhD from NYU. Teaches in the area of chemistry at NYU Shanghai.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Lu Zhang\nLu Zhang is a Professor of Practice in Chemistry at NYU Shanghai. Prior to joining NYU Shanghai, she was a Teaching Assistant at New York University. She holds a PhD from New York University and a BS from Jilin University.\nProfessor Zhang’s research focuses on the mechanisms by which chemical carcinogens damage DNA and how the human nucleotide excision repair system processes these lesions to protect the genome. She has published her research in Nano Letters, Chemistry – A European Journal, Journal of Molecular Biology, and Nucleic Acids Research.\nProfessor Zhang was the recipient of the New York University Henry M. MacCracken Graduate Fellowship.\nEducation\nPhD, Molecular BiochemistryNew York University\nPhD, Molecular BiochemistryNew York University\nDNA damage and repair mechanisms\nHuman nucleotide excision repair\nFoundations of Science Chemistry Laboratory\nOrganic Chemistry I\nOrganic Chemistry I Lab\nOrganic Chemistry II\nOrganic Chemistry II Lab\nFoundations of Chemistry Labs\nExperiments in Food Science\nIndependent Study – Chemistry",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Lu Zhang"
+    },
+    {
+      "type": "p",
+      "text": "Lu Zhang is a Professor of Practice in Chemistry at NYU Shanghai. Prior to joining NYU Shanghai, she was a Teaching Assistant at New York University. She holds a PhD from New York University and a BS from Jilin University."
+    },
+    {
+      "type": "p",
+      "text": "Professor Zhang’s research focuses on the mechanisms by which chemical carcinogens damage DNA and how the human nucleotide excision repair system processes these lesions to protect the genome. She has published her research in Nano Letters, Chemistry – A European Journal, Journal of Molecular Biology, and Nucleic Acids Research."
+    },
+    {
+      "type": "p",
+      "text": "Professor Zhang was the recipient of the New York University Henry M. MacCracken Graduate Fellowship."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Molecular BiochemistryNew York University"
+    },
+    {
+      "type": "p",
+      "text": "PhD, Molecular BiochemistryNew York University"
+    },
+    {
+      "type": "li",
+      "text": "DNA damage and repair mechanisms"
+    },
+    {
+      "type": "li",
+      "text": "Human nucleotide excision repair"
+    },
+    {
+      "type": "li",
+      "text": "Foundations of Science Chemistry Laboratory"
+    },
+    {
+      "type": "li",
+      "text": "Organic Chemistry I"
+    },
+    {
+      "type": "li",
+      "text": "Organic Chemistry I Lab"
+    },
+    {
+      "type": "li",
+      "text": "Organic Chemistry II"
+    },
+    {
+      "type": "li",
+      "text": "Organic Chemistry II Lab"
+    },
+    {
+      "type": "li",
+      "text": "Foundations of Chemistry Labs"
+    },
+    {
+      "type": "li",
+      "text": "Experiments in Food Science"
+    },
+    {
+      "type": "li",
+      "text": "Independent Study – Chemistry"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/lu_zhang_0_0.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/lu_zhang_0_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 156,
+  "crawled_at": "2026-06-09T04:53:32+00:00",
+  "sequence": 2375
+}

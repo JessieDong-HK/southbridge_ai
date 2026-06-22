@@ -1,0 +1,150 @@
+{
+  "id": "campus-safety__emergencies-45cb0dfa3a",
+  "url": "https://shanghai.nyu.edu/campus-safety/emergencies",
+  "canonical_url": "https://shanghai.nyu.edu/campus-safety/emergencies",
+  "page_type": "campus-safety",
+  "title": "Emergencies",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Emergencies\nContact Us\nHotline (24/7): + 86 21 2059 5500Email: shanghai.safety@nyu.eduAddress: E118 New Bund Campus, 567 West Yangsi Rd., Pudong New District\nNYU's Emergency Notification System\nIn line with NYU' global network, Campus Safety has implemented an emergency notification system utilizing text messaging and email to alert all students, faculty, and staff of developing incidents that may impact campus operations. For more details, please visit this webpage.\nMedical Emergencies\nCampus Safety is here to assist with arranging ambulances or taxis in the event of a medical emergency. Campus Safety personnel can be reached at the New Bund Campus and in all residence halls. Security guards in the residence halls are trained to provide assistance in both emergency and non-emergency situations.\nLife-threatening Situations\nCall the police (110) and/or an ambulance (120).\nCall Campus Safety at +86 21 2059 5500 and provide the following information:Location and addressContact NumberGender of person/persons involved in the emergency\nLocation and address\nContact Number\nGender of person/persons involved in the emergency\nCampus Safety will assist emergency responders in accessing the campus and will escort them to the exact location of the medical emergency.\nNon-life Threatening Situations\nCall Campus Safety at +86 21 2059 5500.\nProvide us with your contact number.\nCampus Safety will arrange an ambulance or taxi to transport you to the medical facility of your choice.\nCampus Safety can assist with medical transportation 24/7.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Emergencies"
+    },
+    {
+      "type": "h2",
+      "text": "Contact Us"
+    },
+    {
+      "type": "p",
+      "text": "Hotline (24/7): + 86 21 2059 5500Email: shanghai.safety@nyu.eduAddress: E118 New Bund Campus, 567 West Yangsi Rd., Pudong New District"
+    },
+    {
+      "type": "h3",
+      "text": "NYU's Emergency Notification System"
+    },
+    {
+      "type": "h4",
+      "text": "In line with NYU' global network, Campus Safety has implemented an emergency notification system utilizing text messaging and email to alert all students, faculty, and staff of developing incidents that may impact campus operations. For more details, please visit this webpage."
+    },
+    {
+      "type": "h3",
+      "text": "Medical Emergencies"
+    },
+    {
+      "type": "p",
+      "text": "Campus Safety is here to assist with arranging ambulances or taxis in the event of a medical emergency. Campus Safety personnel can be reached at the New Bund Campus and in all residence halls. Security guards in the residence halls are trained to provide assistance in both emergency and non-emergency situations."
+    },
+    {
+      "type": "h3",
+      "text": "Life-threatening Situations"
+    },
+    {
+      "type": "li",
+      "text": "Call the police (110) and/or an ambulance (120)."
+    },
+    {
+      "type": "li",
+      "text": "Call Campus Safety at +86 21 2059 5500 and provide the following information:Location and addressContact NumberGender of person/persons involved in the emergency"
+    },
+    {
+      "type": "li",
+      "text": "Location and address"
+    },
+    {
+      "type": "li",
+      "text": "Contact Number"
+    },
+    {
+      "type": "li",
+      "text": "Gender of person/persons involved in the emergency"
+    },
+    {
+      "type": "li",
+      "text": "Campus Safety will assist emergency responders in accessing the campus and will escort them to the exact location of the medical emergency."
+    },
+    {
+      "type": "h3",
+      "text": "Non-life Threatening Situations"
+    },
+    {
+      "type": "li",
+      "text": "Call Campus Safety at +86 21 2059 5500."
+    },
+    {
+      "type": "li",
+      "text": "Provide us with your contact number."
+    },
+    {
+      "type": "li",
+      "text": "Campus Safety will arrange an ambulance or taxi to transport you to the medical facility of your choice."
+    },
+    {
+      "type": "li",
+      "text": "Campus Safety can assist with medical transportation 24/7."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/police.jpg",
+      "alt": "Police",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/police.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/fire.jpg",
+      "alt": "Fire",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/fire.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/ambulance.jpg",
+      "alt": "Ambulance",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/ambulance.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/bu_men_ming_pian__2.png",
+      "alt": "Campus Safety Contact Card",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/bu_men_ming_pian__2-c9ec03d2d14b.png",
+      "download_status": "downloaded",
+      "bytes": 29843,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-safety-08-6-min.jpg",
+      "alt": "Medical Emergencies",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-safety-08-6-min-2f206457a1c7.jpg",
+      "download_status": "downloaded",
+      "bytes": 16743,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.nyu.edu/life/safety-health-wellness/campus-safety/emergency-preparedness/emergency-procedures.html",
+      "text": "this webpage",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 241,
+  "crawled_at": "2026-06-09T04:30:05+00:00",
+  "sequence": 274
+}

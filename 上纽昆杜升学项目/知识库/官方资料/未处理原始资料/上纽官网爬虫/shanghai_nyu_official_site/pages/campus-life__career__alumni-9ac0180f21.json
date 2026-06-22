@@ -1,0 +1,158 @@
+{
+  "id": "campus-life__career__alumni-9ac0180f21",
+  "url": "https://shanghai.nyu.edu/campus-life/career/alumni",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/career/alumni",
+  "page_type": "campus-life",
+  "title": "Alumni",
+  "description": "One of the NYU Global Network's greatest strengths is the bread and reach of our 500,000-person strong alumni network.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Alumni\nOne of the NYU Global Network's greatest strengths is the bread and reach of our 500,000-person strong alumni network. The NYU Shanghai Center for Career Development encourages NYU alumni from all three portal campuses to participate in our alumni events and be part of our thriving international community. Recent graduates are encouraged to take advantage of the CCD's career resources. And all alumni are more than welcome to interact with current students by joining networking events, sitting on panel discussions, making presentations an area of expertise, or sharing career stories.\nServices for Recent Graduates\nCareer Coaching for Recent Graduates\n(Graduated within 1 year)\nJob Listings for Recent Graduates\nAlumni Involvement\nNYU Alumni Executive Mentor Program\nDinner with Six\nDistinguished Alumni Speaker Series\nContact us at shanghai.careerdevelopment@nyu.edu to let us know how you would like to contribute!\nContact Info for Alumni Chapters\nShanghai: nyushalumni.shanghai@nyu.edu\nBeijing: nyushalumni.beijing@nyu.edu\nNew York: nyushalumni.newyork@nyu.edu",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Alumni"
+    },
+    {
+      "type": "p",
+      "text": "One of the NYU Global Network's greatest strengths is the bread and reach of our 500,000-person strong alumni network. The NYU Shanghai Center for Career Development encourages NYU alumni from all three portal campuses to participate in our alumni events and be part of our thriving international community. Recent graduates are encouraged to take advantage of the CCD's career resources. And all alumni are more than welcome to interact with current students by joining networking events, sitting on panel discussions, making presentations an area of expertise, or sharing career stories."
+    },
+    {
+      "type": "h2",
+      "text": "Services for Recent Graduates"
+    },
+    {
+      "type": "h3",
+      "text": "Career Coaching for Recent Graduates"
+    },
+    {
+      "type": "h3",
+      "text": "(Graduated within 1 year)"
+    },
+    {
+      "type": "h3",
+      "text": "Job Listings for Recent Graduates"
+    },
+    {
+      "type": "h2",
+      "text": "Alumni Involvement"
+    },
+    {
+      "type": "h4",
+      "text": "NYU Alumni Executive Mentor Program"
+    },
+    {
+      "type": "h4",
+      "text": "Dinner with Six"
+    },
+    {
+      "type": "h4",
+      "text": "Distinguished Alumni Speaker Series"
+    },
+    {
+      "type": "p",
+      "text": "Contact us at shanghai.careerdevelopment@nyu.edu to let us know how you would like to contribute!"
+    },
+    {
+      "type": "p",
+      "text": "Contact Info for Alumni Chapters"
+    },
+    {
+      "type": "p",
+      "text": "Shanghai: nyushalumni.shanghai@nyu.edu"
+    },
+    {
+      "type": "p",
+      "text": "Beijing: nyushalumni.beijing@nyu.edu"
+    },
+    {
+      "type": "p",
+      "text": "New York: nyushalumni.newyork@nyu.edu"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-7-01-11.jpg",
+      "alt": "NYU Executive Alumni Mentor Program",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-7-01-21.jpg",
+      "alt": "Dinner with Six",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-7-01-21.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-7-01-31.jpg",
+      "alt": "Distinguished Alumni Speaker Series",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-cdc-7-01-31-628b3da19f1b.jpg",
+      "download_status": "downloaded",
+      "bytes": 90290,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-7-01-3.jpg",
+      "alt": "Shanghai",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-cdc-7-01-3-02cc87cb4b26.jpg",
+      "download_status": "downloaded",
+      "bytes": 3334,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-7-01-4.jpg",
+      "alt": "Beijing",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-7-01-5.jpg",
+      "alt": "New York",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://app.joinhandshake.com/login",
+      "text": "Handshake",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/mentor",
+      "text": "NYU Alumni",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/alumni/dinner",
+      "text": "Dinner with Six",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/alumni/speaker",
+      "text": "Distinguished Alumni Speaker Series",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 165,
+  "crawled_at": "2026-06-09T04:32:19+00:00",
+  "sequence": 557
+}

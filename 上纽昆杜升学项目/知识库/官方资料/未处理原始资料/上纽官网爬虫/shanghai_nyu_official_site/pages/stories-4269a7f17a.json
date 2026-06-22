@@ -1,0 +1,251 @@
+{
+  "id": "stories-4269a7f17a",
+  "url": "https://shanghai.nyu.edu/stories?page=1",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "stories",
+  "title": "People | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "People\nJun Zhang on His Winding Path in Science\nFei Zeping ’20 on Designing for Meaningful Impact\nShi Jiamin ’23 on Learning by Doing\nRima Mehta ’17 on a Career in Sustainability\nHelena Ma ’19 on Mixing Beats and Business\nSavannah Billman ’19 on Building a China-Focused Career\nZane Fadul ’21 on Leading, Learning, and Landing at Google\nJiang Xiaoxuan IMA Low Res ’22 on Becoming a Director\nTravis Liu Tanruizhi '25: Living With Intent\nShahama Samsudeen ’25: Finding Community and Resilience\nYe Jinran ’25: When Design Becomes Interactive\nLesley Manokore ’25: A Maker's Life",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "People"
+    },
+    {
+      "type": "h4",
+      "text": "Jun Zhang on His Winding Path in Science"
+    },
+    {
+      "type": "h4",
+      "text": "Fei Zeping ’20 on Designing for Meaningful Impact"
+    },
+    {
+      "type": "h4",
+      "text": "Shi Jiamin ’23 on Learning by Doing"
+    },
+    {
+      "type": "h4",
+      "text": "Rima Mehta ’17 on a Career in Sustainability"
+    },
+    {
+      "type": "h4",
+      "text": "Helena Ma ’19 on Mixing Beats and Business"
+    },
+    {
+      "type": "h4",
+      "text": "Savannah Billman ’19 on Building a China-Focused Career"
+    },
+    {
+      "type": "h4",
+      "text": "Zane Fadul ’21 on Leading, Learning, and Landing at Google"
+    },
+    {
+      "type": "h4",
+      "text": "Jiang Xiaoxuan IMA Low Res ’22 on Becoming a Director"
+    },
+    {
+      "type": "h4",
+      "text": "Travis Liu Tanruizhi '25: Living With Intent"
+    },
+    {
+      "type": "h4",
+      "text": "Shahama Samsudeen ’25: Finding Community and Resilience"
+    },
+    {
+      "type": "h4",
+      "text": "Ye Jinran ’25: When Design Becomes Interactive"
+    },
+    {
+      "type": "h4",
+      "text": "Lesley Manokore ’25: A Maker's Life"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/wechatimg702.jpg?itok=ssQhRDrn",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg702-585d5be7e04b.jpg",
+      "download_status": "downloaded",
+      "bytes": 21230,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_fei_zeping_20-02_0.jpg?itok=CzVXGydZ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_-_fei_zeping_20-02_0-3ae1f9b4cc84.jpg",
+      "download_status": "downloaded",
+      "bytes": 25625,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_jiamin_shi_23-02.jpg?itok=SN6wnUuf",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_-_jiamin_shi_23-02-85b5e70f0eb9.jpg",
+      "download_status": "downloaded",
+      "bytes": 20871,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/9-9_-_alumni_voices_-_rima_mehta_17-02_0.jpg?itok=YvPLKs5d",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/9-9_-_alumni_voices_-_helena_ma_19-02.jpg?itok=sdoi8fQM",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/9-9_-_alumni_voices_-_helena_ma_19-02-b0bca0cc458b.jpg",
+      "download_status": "downloaded",
+      "bytes": 16273,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_savannah_billman_19-02.jpg?itok=miieqlXj",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_-_savannah_billman_19-02-95d67e663882.jpg",
+      "download_status": "downloaded",
+      "bytes": 24550,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_zane_fadul_21-02.jpg?itok=f7NBMaAa",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_-_zane_fadul_21-02-133697478c80.jpg",
+      "download_status": "downloaded",
+      "bytes": 43841,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_ima_low_res_22_jiang_xiaoxuan-02.jpg?itok=zFh-Web4",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_liu_tanruizhi_25-03.jpg?itok=dNzE7W5W",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/senior_spotlight_-_liu_tanruizhi_25-03-83a0c76981fb.jpg",
+      "download_status": "downloaded",
+      "bytes": 25133,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_shahama_samsudeen-03.jpg?itok=1ucavmwY",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/senior_spotlight_-_shahama_samsudeen-03-4bbe1e0d42ad.jpg",
+      "download_status": "downloaded",
+      "bytes": 30939,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_ye_jinran_25-03.jpg?itok=EonWdn1J",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_4-14_-_senior_spotlight_-_lesley_manokore_25-03.jpg?itok=vi9ri5RM",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/senior_spotlight_-_4-14_-_senior_spotlight_-_lesley-2c1a554fce2c.jpg",
+      "download_status": "downloaded",
+      "bytes": 28885,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/stories/jun-zhang-winding-path-science",
+      "text": "Jun Zhang on His Winding Path in Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/fei-zeping-20-design-meaningful-impact",
+      "text": "Fei Zeping ’20 on Designing for Meaningful Impact",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alum-voices-shi-jiamin-23",
+      "text": "Shi Jiamin ’23 on Learning by Doing",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-rima-mehta-17",
+      "text": "Rima Mehta ’17 on a Career in Sustainability",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-helena-ma-19",
+      "text": "Helena Ma ’19 on Mixing Beats and Business",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/savannah-billman-19-building-china-focused-career",
+      "text": "Savannah Billman ’19 on Building a China-Focused Career",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/zane-fadul-21-leading-learning-and-landing-google",
+      "text": "Zane Fadul ’21 on Leading, Learning, and Landing at Google",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-ima-low-res-22-jiang-xiaoxuan-becoming-director",
+      "text": "Jiang Xiaoxuan IMA Low Res ’22 on Becoming a Director",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/travis-liu-tanruizhi-25-living-intent",
+      "text": "Travis Liu Tanruizhi '25: Living With Intent",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/shahama-samsudeen-25-finding-community-and-resilience",
+      "text": "Shahama Samsudeen ’25: Finding Community and Resilience",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/ye-jinran-25-when-design-becomes-interactive",
+      "text": "Ye Jinran ’25: When Design Becomes Interactive",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/lesley-manokore-25-makers-life",
+      "text": "Lesley Manokore ’25: A Maker's Life",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 97,
+  "crawled_at": "2026-06-09T04:32:57+00:00",
+  "sequence": 636
+}

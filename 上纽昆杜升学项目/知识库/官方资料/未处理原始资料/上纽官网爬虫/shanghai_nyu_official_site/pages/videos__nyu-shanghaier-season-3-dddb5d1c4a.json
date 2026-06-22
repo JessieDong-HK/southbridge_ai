@@ -1,0 +1,275 @@
+{
+  "id": "videos__nyu-shanghaier-season-3-dddb5d1c4a",
+  "url": "https://shanghai.nyu.edu/videos/nyu-shanghaier-season-3?page=7",
+  "canonical_url": "https://shanghai.nyu.edu/videos/nyu-shanghaier-season-3",
+  "page_type": "videos",
+  "title": "NYU Shanghaier Season One - 3",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "NYU Shanghaier Season One - 3\nTwitter\nFacebook\nWeibo",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "NYU Shanghaier Season One - 3"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/jie_tu_2019-08-01_16shi_56fen_33miao_.jpg?itok=NaYJaeHW",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/jie_tu_2019-07-31_16shi_42fen_22miao_.jpg?itok=wxc1HGv5",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/jie_tu_2019-07-31_16shi_42fen_22miao-483c84c082f3.jpg",
+      "download_status": "downloaded",
+      "bytes": 22788,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/jie_tu_2019-07-03_15shi_30fen_03miao_.jpg?itok=mkvL7yLF",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/jie_tu_2019-07-03_15shi_30fen_03miao_.jpg?itok=mkvL7yLF (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF o"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/screen_shot_2019-06-10_at_2.52.17_pm.png?itok=FTAUOk2m",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2019-06-10_at_2.52.17_pm-9ec0a39c4078.png",
+      "download_status": "downloaded",
+      "bytes": 146892,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/2019-tribute-video-940.jpg?itok=qaRL5tdN",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2019-tribute-video-940-54d14d0d7fe8.jpg",
+      "download_status": "downloaded",
+      "bytes": 24483,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/screen_shot_2019-05-30_at_11.02.55_am.png?itok=n_5u0SJd",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2019-05-30_at_11.02.55_am-1f1daa030c47.png",
+      "download_status": "downloaded",
+      "bytes": 55212,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/imavisartsp2019_190.jpg?itok=goigN4wW",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/imavisartsp2019_190-52879e0915a5.jpg",
+      "download_status": "downloaded",
+      "bytes": 24655,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/movein-video.jpg?itok=CSLUmLTg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/movein-video-15e98c4ae63f.jpg",
+      "download_status": "downloaded",
+      "bytes": 31627,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/packing-33.jpg?itok=t_3uovrQ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/packing-33-530481643e31.jpg",
+      "download_status": "downloaded",
+      "bytes": 22076,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/screen_shot_2018-08-10_at_2.42.27_pm.png?itok=Y2O2xh4L",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2018-08-10_at_2.42.27_pm-ac548f670abb.png",
+      "download_status": "downloaded",
+      "bytes": 262648,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/screen_shot_2018-08-10_at_2.40.49_pm.png?itok=0AiEzJ9N",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/screen_shot_2018-08-10_at_2.40.03_pm_0.png?itok=gD5dZtkd",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2018-08-10_at_2.40.03_pm_0-f0ee21277a70.png",
+      "download_status": "downloaded",
+      "bytes": 230232,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/1-jing.jpg?itok=wNYmB8qF",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/1-jing-cbdc6f362912.jpg",
+      "download_status": "downloaded",
+      "bytes": 12756,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/2-jeffrey.jpg?itok=3k1jL6Hd",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2-jeffrey-655da8d2896d.jpg",
+      "download_status": "downloaded",
+      "bytes": 19559,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/3-deng.jpg?itok=o4MLkSxo",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/3-deng-f8838418d457.jpg",
+      "download_status": "downloaded",
+      "bytes": 15143,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=NYU%20Shanghaier%20Season%20One%20-%203&url=https%3A//shanghai.nyu.edu/videos/nyu-shanghaier-season-3&status=NYU%20Shanghaier%20Season%20One%20-%203%20https%3A//shanghai.nyu.edu/videos/nyu-shanghaier-season-3",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/videos/nyu-shanghaier-season-3&title=NYU%20Shanghaier%20Season%20One%20-%203",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/videos/nyu-shanghaier-season-3&title=NYU%20Shanghaier%20Season%20One%20-%203",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/lily-mark-19-speaking-shanghainese-my-grandma",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/computer-science-nyu-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/learning-arts-nyu-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/nyu-shanghai-alma-mater-music-video",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/congratulations-class-2019",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/congratulations-messages-around-world",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/ima-end-semester-show-2019",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/welcome-home-class-2022",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/packing-tips",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/class-2022-welcome-orientation-week-and-first-year-dialogue-preview",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/getting-started-student-life-nyu-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/dance-without-boundaries",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/how-entrepreneurship-can-be-force-good",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/best-time-be-digital-analyst",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/why-are-online-promotions-china-so-complicated",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 8,
+  "crawled_at": "2026-06-09T04:56:19+00:00",
+  "sequence": 2563
+}

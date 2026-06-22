@@ -1,0 +1,678 @@
+{
+  "id": "academics__faculty-directory-d8e79a327d",
+  "url": "https://shanghai.nyu.edu/academics/faculty-directory?page=4",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty-directory",
+  "page_type": "academics",
+  "title": "Faculty Directory | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Faculty Directory\nBy Appointment\nAll Ranks\nFull-Time Faculty\nNYU Affiliated Faculty\nVisiting Faculty\nAdjunct Faculty\nContributing Faculty\nAcademic and Research Fellows\nEmeritus/Emerita\nBy Academic Areas\nArts\nBiology\nBusiness\nChemistry\nChinese Language\nComputer Science\nData Science\nEconomics\nEngineering\nEnglish for Academic Purposes\nGlobal China Studies\nGlobal Perspectives on Society\nHumanities\nInteractive Media Arts\nInteractive Media Business\nLaw\nMathematics\nNeural Science\nPhysics\nSocial Sciences\nSocial Work\nTESOL\nWorld Languages\nWriting",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Faculty Directory"
+    },
+    {
+      "type": "p",
+      "text": "By Appointment"
+    },
+    {
+      "type": "li",
+      "text": "All Ranks"
+    },
+    {
+      "type": "li",
+      "text": "Full-Time Faculty"
+    },
+    {
+      "type": "li",
+      "text": "NYU Affiliated Faculty"
+    },
+    {
+      "type": "li",
+      "text": "Visiting Faculty"
+    },
+    {
+      "type": "li",
+      "text": "Adjunct Faculty"
+    },
+    {
+      "type": "li",
+      "text": "Contributing Faculty"
+    },
+    {
+      "type": "li",
+      "text": "Academic and Research Fellows"
+    },
+    {
+      "type": "li",
+      "text": "Emeritus/Emerita"
+    },
+    {
+      "type": "p",
+      "text": "By Academic Areas"
+    },
+    {
+      "type": "li",
+      "text": "Arts"
+    },
+    {
+      "type": "li",
+      "text": "Biology"
+    },
+    {
+      "type": "li",
+      "text": "Business"
+    },
+    {
+      "type": "li",
+      "text": "Chemistry"
+    },
+    {
+      "type": "li",
+      "text": "Chinese Language"
+    },
+    {
+      "type": "li",
+      "text": "Computer Science"
+    },
+    {
+      "type": "li",
+      "text": "Data Science"
+    },
+    {
+      "type": "li",
+      "text": "Economics"
+    },
+    {
+      "type": "li",
+      "text": "Engineering"
+    },
+    {
+      "type": "li",
+      "text": "English for Academic Purposes"
+    },
+    {
+      "type": "li",
+      "text": "Global China Studies"
+    },
+    {
+      "type": "li",
+      "text": "Global Perspectives on Society"
+    },
+    {
+      "type": "li",
+      "text": "Humanities"
+    },
+    {
+      "type": "li",
+      "text": "Interactive Media Arts"
+    },
+    {
+      "type": "li",
+      "text": "Interactive Media Business"
+    },
+    {
+      "type": "li",
+      "text": "Law"
+    },
+    {
+      "type": "li",
+      "text": "Mathematics"
+    },
+    {
+      "type": "li",
+      "text": "Neural Science"
+    },
+    {
+      "type": "li",
+      "text": "Physics"
+    },
+    {
+      "type": "li",
+      "text": "Social Sciences"
+    },
+    {
+      "type": "li",
+      "text": "Social Work"
+    },
+    {
+      "type": "li",
+      "text": "TESOL"
+    },
+    {
+      "type": "li",
+      "text": "World Languages"
+    },
+    {
+      "type": "li",
+      "text": "Writing"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/J%20H%20Colour%20Photo.jpg?itok=8FQiJQCO",
+      "alt": "Photo of Julie Horne",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/J-20H-20Colour-20Photo-ea98f270509f.jpg",
+      "download_status": "downloaded",
+      "bytes": 12538,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/screen_shot_2024-06-24_at_10.24.39_am_10.png?itok=Bd2xFN4z",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/jin_huang_0.jpg?itok=Wk74e1Ji",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/jin_huang_0-eabe9395bb88.jpg",
+      "download_status": "downloaded",
+      "bytes": 10337,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/Mac%20Huang%202026s.jpg?itok=a-R8VE_v",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Mac-20Huang-202026s-e7df8c27504f.jpg",
+      "download_status": "downloaded",
+      "bytes": 12153,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/selected-capture_one_catalog0059.jpg?itok=_nTXFGd3",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/selected-capture_one_catalog0059-aa907d7b33f9.jpg",
+      "download_status": "downloaded",
+      "bytes": 12047,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/selected-Capture%20One%20Catalog1047-touch%20up%20and%20update.jpg?itok=VhPEzQB5",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/selected-Capture-20One-20Catalog1047-touch-20up-20an-6db1e545e42a.jpg",
+      "download_status": "downloaded",
+      "bytes": 12183,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/%E7%85%A7%E7%89%871.jpg?itok=ohxtl2Ju",
+      "alt": "Headshot photo of Xiaoyue Huang",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/juliahur_photo_0.jpeg?itok=7jMruGuH",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/juliahur_photo_0-329e60b9314e.jpeg",
+      "download_status": "downloaded",
+      "bytes": 9036,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/iams_steve_2022.jpeg?itok=5Z-DQoiW",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/iams_steve_2022-b937a73bc6dd.jpeg",
+      "download_status": "downloaded",
+      "bytes": 16393,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/retouched%20in%20Nov_2024.3.20%E7%BA%BD%E7%BA%A6%E5%A4%A7%E5%AD%A62320.jpg?itok=vxbt_HW0",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/retouched-20in-20Nov_2024.3.20-E7-BA-BD-E7-BA-A6-E5-c11e3a06a3f5.jpg",
+      "download_status": "downloaded",
+      "bytes": 11947,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/tao_jiao_0.jpg?itok=rd4cU0BK",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/tao_jiao_0-d49365952961.jpg",
+      "download_status": "downloaded",
+      "bytes": 11290,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/faculty_portrait-mengyun_jinmj103.jpg?itok=IZukPHnV",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/minchao_jin_0.jpg?itok=WX4E1_9c",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/minchao_jin_0-8298aa967e58.jpg",
+      "download_status": "downloaded",
+      "bytes": 11216,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/xiaoli_jin.jpg?itok=WKlFX-Kv",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/xiaoli_jin-f0b3950ea700.jpg",
+      "download_status": "downloaded",
+      "bytes": 11542,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/headshot.jpg?itok=n7DAtL_b",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/headshot-3568b2efb33c.jpg",
+      "download_status": "downloaded",
+      "bytes": 10299,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/ye_jin_.jpg?itok=C9UljuMv",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ye_jin-687112bcbb0c.jpg",
+      "download_status": "downloaded",
+      "bytes": 11541,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/jordan_john_robert_2022.jpeg?itok=VMBilonf",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/jordan_john_robert_2022-f6785b58a6ac.jpeg",
+      "download_status": "downloaded",
+      "bytes": 11688,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/z_3580-selectedsmall.jpg?itok=gLMYSdDD",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/bio%20photo%20Noel%20Joyce.jpg?itok=syGpceBj",
+      "alt": "Headshot photo of Noel Joyce",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/bio-20photo-20Noel-20Joyce-c5c23c95ebc5.jpg",
+      "download_status": "downloaded",
+      "bytes": 9023,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/yoshihiro_kagawa.jpg?itok=FMc65AIG",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/yoshihiro_kagawa.jpg?itok=FMc65AIG (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol "
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/jungseog_kang.jpg?itok=egTMXD9c",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/jungseog_kang-b16979e68c8d.jpg",
+      "download_status": "downloaded",
+      "bytes": 12511,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/retouched%202024.3.1%EF%BC%88%E6%9B%B9%EF%BC%890085.jpg?itok=t3AdJdpJ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/2024.3.20niu_yue_da_xue_2440-2.jpg?itok=38Y54Wq0",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2024.3.20niu_yue_da_xue_2440-2-d796a012246a.jpg",
+      "download_status": "downloaded",
+      "bytes": 11757,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/wu_ti_mu_lu_0913.jpg?itok=H2ULOZou",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wu_ti_mu_lu_0913-e5278aaed557.jpg",
+      "download_status": "downloaded",
+      "bytes": 12311,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/magali_nadine_kerbellec.jpg?itok=cz4074GL",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/magali_nadine_kerbellec-0ddceea4d4da.jpg",
+      "download_status": "downloaded",
+      "bytes": 12925,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/screen_shot_2024-06-24_at_10.24.39_am_12.png?itok=GQP4lASr",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2024-06-24_at_10.24.39_am_12-150932969f99.png",
+      "download_status": "downloaded",
+      "bytes": 45689,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/kong_hyoungee_2022.jpeg?itok=w6DEnRzX",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/kong_hyoungee_2022-75a69ec6e6d9.jpeg",
+      "download_status": "downloaded",
+      "bytes": 10456,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/final2-bogna_konior_2024.jpg?itok=83TruFBN",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/me.jpg?itok=yXleGVAv",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/img-20190505-wa0058.jpg?itok=IVHf7rJ6",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/julie-horne",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=405",
+      "text": "English for Academic Purposes",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/ching-jung-huang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=194",
+      "text": "Biology",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jin-huang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=436",
+      "text": "Business",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jinzi-mac-huang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=287",
+      "text": "Mathematics",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/kangning-ken-huang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=283",
+      "text": "Social Sciences",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/sterling-huang-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/xiaoyue-huang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=785",
+      "text": "Chinese Language",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/julia-hur",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/steven-iams",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/etienne-jaime",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/tao-jiao",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/mengyun-jin",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/minchao-jin",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=725",
+      "text": "Social Work",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/xiaoli-jin",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/xin-jin",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=288",
+      "text": "Neural Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/ye-wendy-jin",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=202",
+      "text": "Economics",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/john-jordan",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/catherine-journeaux",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/noel-joyce",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=749",
+      "text": "Interactive Media Business",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/yoshihiro-kagawa",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=750",
+      "text": "World Languages",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jungseog-kang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/ishraki-kazi",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=719",
+      "text": "Humanities",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/wujun-ke",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=713",
+      "text": "Global Perspectives on Society",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/anna-kendrick",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/magali-kerbellec",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/travis-klingberg",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/hyoungee-kong",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/bogna-konior",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=289",
+      "text": "Interactive Media Arts",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/maya-kramer",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=437",
+      "text": "Arts",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/sofia-lago",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 70,
+  "crawled_at": "2026-06-09T04:34:59+00:00",
+  "sequence": 798
+}

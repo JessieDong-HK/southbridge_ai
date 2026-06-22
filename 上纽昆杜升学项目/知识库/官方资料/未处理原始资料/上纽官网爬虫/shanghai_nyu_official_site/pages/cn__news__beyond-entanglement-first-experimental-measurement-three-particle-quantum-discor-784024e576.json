@@ -1,0 +1,122 @@
+{
+  "id": "cn__news__beyond-entanglement-first-experimental-measurement-three-particle-quantum-discor-784024e576",
+  "url": "https://shanghai.nyu.edu/cn/news/beyond-entanglement-first-experimental-measurement-three-particle-quantum-discord",
+  "canonical_url": "https://shanghai.nyu.edu/cn/news/beyond-entanglement-first-experimental-measurement-three-particle-quantum-discord",
+  "page_type": "cn",
+  "title": "量子世界的另一种关联：科研团队首次实现三粒子失谐实验测量",
+  "description": "上纽大团队与合作者提出新方法测量三粒子之间的量子失谐。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "量子世界的另一种关联：科研团队首次实现三粒子失谐实验测量\nTwitter\nFacebook\nWeibo\n2023年，诺贝尔物理学奖授予了量子纠缠的研究。这一现象曾被爱因斯坦称为“鬼魅般的超距作用”：无论粒子相隔多远，它们之间依然保持紧密的联系。\n不过，纠缠并不是量子世界中唯一的联系形式。还有一种更微妙的关联，被称作“量子失谐”（quantum discord）。科学家们发现，它在未来的量子计算、量子通信等应用中同样可能发挥重要作用。\n过去，量子失谐的测量几乎只局限于两个粒子之间。然而，真实的量子系统——无论是量子计算机还是量子密码学——往往涉及多个粒子相互作用。在多粒子体系中准确测量失谐，一直是科研上的一道难题。\n早在2020年，上海纽约大学物理学副教授Tim Byrnes团队就提出了一种数学方法，可以测量任意数量粒子之间的量子失谐，这是许多传统方法无法做到的。近日，他们与印度莫哈里科学教育与研究学院（IISER Mohali）的物理学教授Kavita Dorai团队展开合作，将这一方法付诸实验，成果发表于《美国国家科学院院刊》（PNAS）。\n此次合作中，团队首次实现了三粒子量子失谐的实验测量。研究采用了核磁共振（NMR）实验手段操控并探测量子态，该技术既能兼顾经济成本，且有效性高。论文合著者、上海纽约大学计算机科学访问副教授 Chandrashekar Radhakrishnan 解释说：“Dorai 教授长期致力于利用核磁共振开展量子计算研究，因此这次合作非常契合。”\n研究人员利用核磁共振制备了三种不同构型的量子比特：有些高度纠缠，有些纠缠程度较低，随后分别测量了其中存在的量子失谐。结果与 2020 年的理论预测完全一致，证明该方法不仅在公式层面可行，在实验中同样成立。\n“五年前，我们只有一个停留在理论层面的数学公式，”Radhakrishnan 回忆道，“如今，我们在真实实验中验证了它。”\n在此之前，多粒子之间的量子关联（包括纠缠）的测量要么极其困难，要么几乎无法实现。而新方法为测量任意数量粒子的量子失谐提供了一条通用途径。\nByrnes 教授表示，这一成果有助于推进量子信息科学发展：“无论是量子密码学、量子计算，还是量子计量学，都依赖量子关联。量子失谐是一种即便不涉及纠缠也能利用的资源。能够测量它，意味着我们离实际应用更近了一步。”\n团队也期待，这一研究能为更大规模系统中的量子失谐测量铺平道路，并推动其在未来量子技术中发挥作用。",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "量子世界的另一种关联：科研团队首次实现三粒子失谐实验测量"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "2023年，诺贝尔物理学奖授予了量子纠缠的研究。这一现象曾被爱因斯坦称为“鬼魅般的超距作用”：无论粒子相隔多远，它们之间依然保持紧密的联系。"
+    },
+    {
+      "type": "p",
+      "text": "不过，纠缠并不是量子世界中唯一的联系形式。还有一种更微妙的关联，被称作“量子失谐”（quantum discord）。科学家们发现，它在未来的量子计算、量子通信等应用中同样可能发挥重要作用。"
+    },
+    {
+      "type": "p",
+      "text": "过去，量子失谐的测量几乎只局限于两个粒子之间。然而，真实的量子系统——无论是量子计算机还是量子密码学——往往涉及多个粒子相互作用。在多粒子体系中准确测量失谐，一直是科研上的一道难题。"
+    },
+    {
+      "type": "p",
+      "text": "早在2020年，上海纽约大学物理学副教授Tim Byrnes团队就提出了一种数学方法，可以测量任意数量粒子之间的量子失谐，这是许多传统方法无法做到的。近日，他们与印度莫哈里科学教育与研究学院（IISER Mohali）的物理学教授Kavita Dorai团队展开合作，将这一方法付诸实验，成果发表于《美国国家科学院院刊》（PNAS）。"
+    },
+    {
+      "type": "p",
+      "text": "此次合作中，团队首次实现了三粒子量子失谐的实验测量。研究采用了核磁共振（NMR）实验手段操控并探测量子态，该技术既能兼顾经济成本，且有效性高。论文合著者、上海纽约大学计算机科学访问副教授 Chandrashekar Radhakrishnan 解释说：“Dorai 教授长期致力于利用核磁共振开展量子计算研究，因此这次合作非常契合。”"
+    },
+    {
+      "type": "p",
+      "text": "研究人员利用核磁共振制备了三种不同构型的量子比特：有些高度纠缠，有些纠缠程度较低，随后分别测量了其中存在的量子失谐。结果与 2020 年的理论预测完全一致，证明该方法不仅在公式层面可行，在实验中同样成立。"
+    },
+    {
+      "type": "p",
+      "text": "“五年前，我们只有一个停留在理论层面的数学公式，”Radhakrishnan 回忆道，“如今，我们在真实实验中验证了它。”"
+    },
+    {
+      "type": "p",
+      "text": "在此之前，多粒子之间的量子关联（包括纠缠）的测量要么极其困难，要么几乎无法实现。而新方法为测量任意数量粒子的量子失谐提供了一条通用途径。"
+    },
+    {
+      "type": "p",
+      "text": "Byrnes 教授表示，这一成果有助于推进量子信息科学发展：“无论是量子密码学、量子计算，还是量子计量学，都依赖量子关联。量子失谐是一种即便不涉及纠缠也能利用的资源。能够测量它，意味着我们离实际应用更近了一步。”"
+    },
+    {
+      "type": "p",
+      "text": "团队也期待，这一研究能为更大规模系统中的量子失谐测量铺平道路，并推动其在未来量子技术中发挥作用。"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/beyond_entanglement_-_first_experimental_measurement_of_three-particle_quantum_discord-01.jpg?itok=C3wt_HpP",
+      "alt": "discord",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=%E9%87%8F%E5%AD%90%E4%B8%96%E7%95%8C%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%85%B3%E8%81%94%EF%BC%9A%E7%A7%91%E7%A0%94%E5%9B%A2%E9%98%9F%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E4%B8%89%E7%B2%92%E5%AD%90%E5%A4%B1%E8%B0%90%E5%AE%9E%E9%AA%8C%E6%B5%8B%E9%87%8F&url=https%3A//shanghai.nyu.edu/cn/news/beyond-entanglement-first-experimental-measurement-three-particle-quantum-discord&status=%E9%87%8F%E5%AD%90%E4%B8%96%E7%95%8C%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%85%B3%E8%81%94%EF%BC%9A%E7%A7%91%E7%A0%94%E5%9B%A2%E9%98%9F%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E4%B8%89%E7%B2%92%E5%AD%90%E5%A4%B1%E8%B0%90%E5%AE%9E%E9%AA%8C%E6%B5%8B%E9%87%8F%20https%3A//shanghai.nyu.edu/cn/news/beyond-entanglement-first-experimental-measurement-three-particle-quantum-discord",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/cn/news/beyond-entanglement-first-experimental-measurement-three-particle-quantum-discord&title=%E9%87%8F%E5%AD%90%E4%B8%96%E7%95%8C%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%85%B3%E8%81%94%EF%BC%9A%E7%A7%91%E7%A0%94%E5%9B%A2%E9%98%9F%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E4%B8%89%E7%B2%92%E5%AD%90%E5%A4%B1%E8%B0%90%E5%AE%9E%E9%AA%8C%E6%B5%8B%E9%87%8F",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/cn/news/beyond-entanglement-first-experimental-measurement-three-particle-quantum-discord&title=%E9%87%8F%E5%AD%90%E4%B8%96%E7%95%8C%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%85%B3%E8%81%94%EF%BC%9A%E7%A7%91%E7%A0%94%E5%9B%A2%E9%98%9F%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E4%B8%89%E7%B2%92%E5%AD%90%E5%A4%B1%E8%B0%90%E5%AE%9E%E9%AA%8C%E6%B5%8B%E9%87%8F",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/tim-byrnes",
+      "text": "Tim Byrnes",
+      "internal": true
+    },
+    {
+      "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.110401",
+      "text": "数学方法",
+      "internal": false
+    },
+    {
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2507467122",
+      "text": "成果发表于《美国国家科学院院刊》（PNAS）",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty/directory/chandrashekar-radhakrishnan-0",
+      "text": "Chandrashekar Radhakrishnan",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 93,
+  "crawled_at": "2026-06-09T04:46:21+00:00",
+  "sequence": 1766
+}

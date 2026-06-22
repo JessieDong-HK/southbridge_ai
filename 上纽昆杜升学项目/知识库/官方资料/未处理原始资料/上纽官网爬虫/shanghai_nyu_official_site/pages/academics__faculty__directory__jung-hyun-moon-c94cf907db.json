@@ -1,0 +1,81 @@
+{
+  "id": "academics__faculty__directory__jung-hyun-moon-c94cf907db",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/jung-hyun-moon",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/jung-hyun-moon",
+  "page_type": "academics",
+  "title": "Jung Hyun",
+  "description": "Moon, Jung Hyun is the Interactive Media Arts (IMA) Low Res Program Coordinator and an Assistant Arts Professor of Interactive Media Arts (IMA) at NYU Shanghai.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Jung Hyun Moon\nEducation\nMPS, Interactive Telecommunications ProgramNew York University\nCreative Coding Lab\nCommunications Lab\nInteraction Lab\nAdvanced Lab: Web Page to Web Space\nNature of Code\nMachine Learning for New Interfaces\nKinetic Interfaces",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Jung Hyun Moon"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MPS, Interactive Telecommunications ProgramNew York University"
+    },
+    {
+      "type": "li",
+      "text": "Creative Coding Lab"
+    },
+    {
+      "type": "li",
+      "text": "Communications Lab"
+    },
+    {
+      "type": "li",
+      "text": "Interaction Lab"
+    },
+    {
+      "type": "li",
+      "text": "Advanced Lab: Web Page to Web Space"
+    },
+    {
+      "type": "li",
+      "text": "Nature of Code"
+    },
+    {
+      "type": "li",
+      "text": "Machine Learning for New Interfaces"
+    },
+    {
+      "type": "li",
+      "text": "Kinetic Interfaces"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/moon_photo2.jpeg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/moon_photo2.jpeg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://ml5js.org",
+      "text": "ml5.js",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/cross-cutting-initiatives/goddard-impact-awards.html",
+      "text": "2025 Goddard Impact Group Award",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 34,
+  "crawled_at": "2026-06-09T04:43:31+00:00",
+  "sequence": 1557
+}

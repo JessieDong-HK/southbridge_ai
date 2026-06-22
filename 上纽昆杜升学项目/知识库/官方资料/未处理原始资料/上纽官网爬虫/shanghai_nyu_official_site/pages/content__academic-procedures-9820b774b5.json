@@ -1,0 +1,89 @@
+{
+  "id": "content__academic-procedures-9820b774b5",
+  "url": "https://shanghai.nyu.edu/content/academic-procedures",
+  "canonical_url": "https://shanghai.nyu.edu/content/academic-procedures",
+  "page_type": "content",
+  "title": "Academic Procedures",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Academic Procedures\nThis page describes the procedures involved in declaring a major or a minor, withdrawing from courses, applying for a leave of absence, and applying for a course evaluation. It also includes the forms needed to complete the above procedures and the relevant academic policies.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Academic Procedures"
+    },
+    {
+      "type": "p",
+      "text": "This page describes the procedures involved in declaring a major or a minor, withdrawing from courses, applying for a leave of absence, and applying for a course evaluation. It also includes the forms needed to complete the above procedures and the relevant academic policies."
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/declare-or-change-major-posting-minor",
+      "text": "Declare or Change a Major",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/academic-procedures/degree-progress-report-audit",
+      "text": "Degree Progress Report & Audit",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/posting-minor",
+      "text": "Posting a Minor",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/changing-grading-basis-pass-fail-class-withdrawal",
+      "text": "Grading Options (Pass-Fail & Withdrawal)",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/credit-overload",
+      "text": "Credit Overload",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/course-repeat",
+      "text": "Course Repeat",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/course-evaluation",
+      "text": "Global Course Evaluation",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/independent-study",
+      "text": "Independent Study",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/leave-absence-policy",
+      "text": "Leave of Absence & Withdrawal",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/registration-guidance",
+      "text": "Registration Guidance",
+      "internal": true
+    },
+    {
+      "url": "https://docs.google.com/document/d/1ztJE6Y4clTI9BhX5D7kfEF3nYiuJd9ODjUs6yDgL8rc/edit",
+      "text": "Information for Advisors [Log-in Required]",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1DyrQOUTrAndLDnYVNr-DodSXngKoAkV71IrnT95AoUs/edit",
+      "text": "Information for Faculty [Log-in Required]",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 46,
+  "crawled_at": "2026-06-09T04:31:39+00:00",
+  "sequence": 471
+}

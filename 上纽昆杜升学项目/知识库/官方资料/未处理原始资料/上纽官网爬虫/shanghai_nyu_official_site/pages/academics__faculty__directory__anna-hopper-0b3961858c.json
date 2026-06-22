@@ -1,0 +1,35 @@
+{
+  "id": "academics__faculty__directory__anna-hopper-0b3961858c",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/anna-hopper",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/anna-hopper",
+  "page_type": "academics",
+  "title": "Anna",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Anna Hopper",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Anna Hopper"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/anna_hopper.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/anna_hopper-a8aba8f849a0.jpg",
+      "download_status": "downloaded",
+      "bytes": 1024915,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:53:13+00:00",
+  "sequence": 2349
+}

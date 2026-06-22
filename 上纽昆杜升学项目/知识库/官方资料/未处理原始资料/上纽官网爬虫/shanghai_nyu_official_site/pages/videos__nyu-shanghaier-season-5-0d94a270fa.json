@@ -1,0 +1,273 @@
+{
+  "id": "videos__nyu-shanghaier-season-5-0d94a270fa",
+  "url": "https://shanghai.nyu.edu/videos/nyu-shanghaier-season-5?page=6",
+  "canonical_url": "https://shanghai.nyu.edu/videos/nyu-shanghaier-season-5",
+  "page_type": "videos",
+  "title": "NYU Shanghaier Season One - 5",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "NYU Shanghaier Season One - 5\nTwitter\nFacebook\nWeibo",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "NYU Shanghaier Season One - 5"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/tribute733.jpg?itok=rwFQwkmJ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/tribute733-b66c7dff540d.jpg",
+      "download_status": "downloaded",
+      "bytes": 33053,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/04-27-733.jpg?itok=-uUTiSTT",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/04-27-733.jpg?itok=-uUTiSTT (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of prot"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/screen_shot_2020-04-10.jpg?itok=xbctA6fT",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2020-04-10-c9b54a1c78ec.jpg",
+      "download_status": "downloaded",
+      "bytes": 29703,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/cber2020-2.jpg?itok=xM7tMEsW",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/vins2019-940.jpg?itok=4ytH-CeH",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/vins2019-940-2fc1b7fec3ad.jpg",
+      "download_status": "downloaded",
+      "bytes": 22180,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/finding_common.png?itok=k_NjqL01",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/fs-940.jpg?itok=u3gX6RlG",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/fs-940-10fae642befa.jpg",
+      "download_status": "downloaded",
+      "bytes": 26504,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/nyu_4590-940.jpg?itok=K-cW3zWZ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyu_4590-940-33134c0db42e.jpg",
+      "download_status": "downloaded",
+      "bytes": 16231,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/shanghai-vi_1.jpg?itok=-yGKyWbr",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/shanghai-vi_1-79fe57862a97.jpg",
+      "download_status": "downloaded",
+      "bytes": 40871,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/0faed2.jpg?itok=OlXt2pka",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/0faed2-7a58331982a4.jpg",
+      "download_status": "downloaded",
+      "bytes": 30163,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/jie_tu_2019-09-19_17shi_17fen_13miao_.jpg?itok=jet5_bU_",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/jie_tu_2019-08-30_10shi_53fen_39miao_.jpg?itok=GDN6RAjk",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/jie_tu_2019-08-30_10shi_53fen_39miao-1e0d9c312850.jpg",
+      "download_status": "downloaded",
+      "bytes": 36535,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/jie_tu_2019-08-05_11shi_58fen_20miao_.jpg?itok=kKlyLfia",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/jie_tu_2019-08-05_11shi_58fen_20miao-f2925b901595.jpg",
+      "download_status": "downloaded",
+      "bytes": 22783,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/jie_tu_2019-08-02_16shi_26fen_19miao_.jpg?itok=wr4p6El_",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/jie_tu_2019-08-02_16shi_26fen_19miao-49c2b93f049d.jpg",
+      "download_status": "downloaded",
+      "bytes": 19179,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/jie_tu_2019-08-02_15shi_40fen_12miao_.jpg?itok=T2gi23Gw",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/jie_tu_2019-08-02_15shi_40fen_12miao_.jpg?itok=T2gi23Gw (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF o"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=NYU%20Shanghaier%20Season%20One%20-%205&url=https%3A//shanghai.nyu.edu/videos/nyu-shanghaier-season-5&status=NYU%20Shanghaier%20Season%20One%20-%205%20https%3A//shanghai.nyu.edu/videos/nyu-shanghaier-season-5",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/videos/nyu-shanghaier-season-5&title=NYU%20Shanghaier%20Season%20One%20-%205",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/videos/nyu-shanghaier-season-5&title=NYU%20Shanghaier%20Season%20One%20-%205",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/congratulations-class-2020",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/digital-learning-nyu-shanghai-spring-2020",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/one-reason-class-2024-should-choose-nyu-shanghai-world-class-teaching-and-research",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/accounting-best-times-and-worst-times",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/credit-risk-new-era-vins-fifth-annual-conference",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/finding-common-ground-through-effective-negotiation",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/university-students-across-shanghai-join-nyu-shanghais-trash-fashion-show",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/chancellor-yu-lizhong-journeys-heilongjiang-and-retraces-past",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/nyu-shanghai-summer-program",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/what-did-nyu-shanghai-students-do-over-national-holiday",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/faculty-summer-stories",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/nyu-shanghai-move-day-2019-class-2023",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/jinqiao-neighborhood-tour",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/jinqiao-residence-hall-tour",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/jaime-cantwell-21-performs-wild-rose-nyu-shanghai-chinese-language-program",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 8,
+  "crawled_at": "2026-06-09T04:56:02+00:00",
+  "sequence": 2544
+}

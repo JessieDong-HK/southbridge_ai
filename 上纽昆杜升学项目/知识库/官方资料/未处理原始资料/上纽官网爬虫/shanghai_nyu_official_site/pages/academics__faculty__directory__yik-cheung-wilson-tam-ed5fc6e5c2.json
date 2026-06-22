@@ -1,0 +1,97 @@
+{
+  "id": "academics__faculty__directory__yik-cheung-wilson-tam-ed5fc6e5c2",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/yik-cheung-wilson-tam",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/yik-cheung-wilson-tam",
+  "page_type": "academics",
+  "title": "Yik-Cheung (Wilson)",
+  "description": "Yik-Cheung (Wilson) Tam is Associate Director of the Center for Data Science and a Professor of Practice in Computer Science at NYU Shanghai. From 2017 to 2020, he was a principal NLP scientist and manager at WeChat AI focusing on research and development for Xiaowei, a virtual personal assistant,",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Yik-Cheung (Wilson) Tam\nYik-Cheung (Wilson) Tam is Associate Director of the Center for Data Science and a Professor of Practice in Computer Science at NYU Shanghai. From 2017 to 2020, he was a principal NLP scientist and manager at WeChat AI focusing on research and development for Xiaowei, a virtual personal assistant, and music recommendation. From 2015 to 2017, Wilson was a senior NLP scientist and manager at Microsoft (Suzhou) working on natural language understanding for Cortana, Microsoft's virtual personal assistant. He has six years of research experience in the United States, including with SRI international (formerly Stanford Research Institute), and Nuance communications Inc.\nWilson's Natural Language Processing course was recognized as the First-Class Undergraduate Courses of Shanghai Higher Education Institutions in 2022.\nSelect Publications\nJ. Chen, Y. C. Tam Predicate-Guided Generation for Mathematical Reasoning, In Proceedings of EMNLP, 2025\nX. Yang, B. Chen, Y. C. Tam Arithmetic Reasoning with LLM: Prolog Generation & Permutation, In Proceedings of NAACL, 2024\nZ. Wang and Y. C. Tam. Suffix Retrieval-Augmented Language Modeling. In Proceedings of ICASSP, 2023\nY. Huang, Y. Wang, Y. C. Tam. UNITER-Based Situated Coreference Resolution with Rich Multimodal Input (won sub-task 2nd place in DSTC10 track 3). In AAAI workshop, 2022\nY. C. Tam, J. Ding, C. Niu and J. Zhou. Cluster-based Beam Search for Pointer-Generator Chatbot Grounded by Knowledge (won 1st place in DSTC7 track 2). In Computer Speech & Language, volume 64, Elsevier, 2020\nEducation\nPhD, Language TechnologiesCarnegie Mellon University\nResearch Interests\nNatural Language Processing\nRobotics\nMachine Learning",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Yik-Cheung (Wilson) Tam"
+    },
+    {
+      "type": "p",
+      "text": "Yik-Cheung (Wilson) Tam is Associate Director of the Center for Data Science and a Professor of Practice in Computer Science at NYU Shanghai. From 2017 to 2020, he was a principal NLP scientist and manager at WeChat AI focusing on research and development for Xiaowei, a virtual personal assistant, and music recommendation. From 2015 to 2017, Wilson was a senior NLP scientist and manager at Microsoft (Suzhou) working on natural language understanding for Cortana, Microsoft's virtual personal assistant. He has six years of research experience in the United States, including with SRI international (formerly Stanford Research Institute), and Nuance communications Inc."
+    },
+    {
+      "type": "p",
+      "text": "Wilson's Natural Language Processing course was recognized as the First-Class Undergraduate Courses of Shanghai Higher Education Institutions in 2022."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "J. Chen, Y. C. Tam Predicate-Guided Generation for Mathematical Reasoning, In Proceedings of EMNLP, 2025"
+    },
+    {
+      "type": "li",
+      "text": "X. Yang, B. Chen, Y. C. Tam Arithmetic Reasoning with LLM: Prolog Generation & Permutation, In Proceedings of NAACL, 2024"
+    },
+    {
+      "type": "li",
+      "text": "Z. Wang and Y. C. Tam. Suffix Retrieval-Augmented Language Modeling. In Proceedings of ICASSP, 2023"
+    },
+    {
+      "type": "li",
+      "text": "Y. Huang, Y. Wang, Y. C. Tam. UNITER-Based Situated Coreference Resolution with Rich Multimodal Input (won sub-task 2nd place in DSTC10 track 3). In AAAI workshop, 2022"
+    },
+    {
+      "type": "li",
+      "text": "Y. C. Tam, J. Ding, C. Niu and J. Zhou. Cluster-based Beam Search for Pointer-Generator Chatbot Grounded by Knowledge (won 1st place in DSTC7 track 2). In Computer Speech & Language, volume 64, Elsevier, 2020"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Language TechnologiesCarnegie Mellon University"
+    },
+    {
+      "type": "h3",
+      "text": "Research Interests"
+    },
+    {
+      "type": "li",
+      "text": "Natural Language Processing"
+    },
+    {
+      "type": "li",
+      "text": "Robotics"
+    },
+    {
+      "type": "li",
+      "text": "Machine Learning"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/selected-capture_one_catalog0320.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/selected-capture_one_catalog0320-b1922995ae27.jpg",
+      "download_status": "downloaded",
+      "bytes": 126421,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cs.shanghai.nyu.edu/faculty/yik-cheung-tam-tanyizhang",
+      "text": "https://cs.shanghai.nyu.edu/faculty/yik-cheung-tam-tanyizhang",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 260,
+  "crawled_at": "2026-06-09T04:43:27+00:00",
+  "sequence": 1553
+}

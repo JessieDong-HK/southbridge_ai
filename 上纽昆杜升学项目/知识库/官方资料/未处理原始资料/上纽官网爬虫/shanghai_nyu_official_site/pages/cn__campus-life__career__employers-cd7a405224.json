@@ -1,0 +1,119 @@
+{
+  "id": "cn__campus-life__career__employers-cd7a405224",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/career/employers",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/career/employers",
+  "page_type": "cn",
+  "title": "雇主",
+  "description": "上海纽约大学毕业生以独特的语言技能、多元的背景、国际化视野、优异的成绩等特质获得了社会各界及用人单位认可。职业发展中心欢迎社会各界雇主来到上海纽约大学招募优秀毕业生，您可以通过参加招聘会、举办宣讲会等渠道招募我校学子。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "雇主\n生源速览\n招聘渠道\n规章守则\n常见问题\n联系我们\n电话: 021-20595300\n上海纽约大学职业发展中心校企合作邮箱: shanghai.employer@nyu.edu",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "雇主"
+    },
+    {
+      "type": "h4",
+      "text": "生源速览"
+    },
+    {
+      "type": "h4",
+      "text": "招聘渠道"
+    },
+    {
+      "type": "h4",
+      "text": "规章守则"
+    },
+    {
+      "type": "h4",
+      "text": "常见问题"
+    },
+    {
+      "type": "h2",
+      "text": "联系我们"
+    },
+    {
+      "type": "p",
+      "text": "电话: 021-20595300"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学职业发展中心校企合作邮箱: shanghai.employer@nyu.edu"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/ccd.jpg",
+      "alt": "ccd",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/ccd.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-6-01-04.jpg",
+      "alt": "Recruitment and Engagement",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-6-01-06_1.jpg",
+      "alt": "规章守则",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-6-01-06_1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-6-01-07.jpg",
+      "alt": "Employer FAQs",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-6-01-07.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-6-01-08.jpg",
+      "alt": "QR Code",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/employers/about-our-students",
+      "text": "生源速览",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/employers/handshake",
+      "text": "招聘渠道",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/employers/terms",
+      "text": "规章守则",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/employers/faq",
+      "text": "常见问题",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 14,
+  "crawled_at": "2026-06-09T04:36:58+00:00",
+  "sequence": 990
+}

@@ -1,0 +1,36 @@
+{
+  "id": "news__duke-welcomes-duke-kunshan-university-board-of-trustees-to-durham-8aaf574d8d",
+  "url": "https://www.dukekunshan.edu.cn/news/duke-welcomes-duke-kunshan-university-board-of-trustees-to-durham",
+  "canonical_url": "https://www.dukekunshan.edu.cn/news/duke-welcomes-duke-kunshan-university-board-of-trustees-to-durham/",
+  "page_type": "news",
+  "title": "Duke Welcomes Duke Kunshan University Board of Trustees to Durham",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2024-11-22T06:28:24+00:00",
+  "sitemap_lastmod": "2024-11-22T06:28:24+00:00",
+  "text": "Duke Welcomes Duke Kunshan University Board of Trustees to Durham",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Duke Welcomes Duke Kunshan University Board of Trustees to Durham"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 10,
+  "crawled_at": "2026-06-03T13:53:49+00:00",
+  "sequence": 459
+}

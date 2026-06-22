@@ -1,0 +1,256 @@
+{
+  "id": "page__job-search-fa87fa2268",
+  "url": "https://shanghai.nyu.edu/page/job-search",
+  "canonical_url": "https://shanghai.nyu.edu/page/job-search",
+  "page_type": "page",
+  "title": "The Job Search",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "The Job Search\nJob Search Sites\nExplore the websites below to get started searching for jobs and internships in China and around the world. It's a good idea to visit these sites from time to time and get familiar with the types of opportunities out there, and understand what kind of experience employers expect to see from recent graduates.\nHandshake\nBORDER DO NOT TOUCH\nOther Resources\nAfter you become familiar with the job boards listed above, you can also try the proactive job search strategies below in order to identify hidden opportunities.\nAttend on-campus events such as the Career Fair and On-Campus Recruitment Programs, to employers and learn about new sectors and opportunities.\nVolunteer for a cause to gain experience and skills that will build out your resume. The NYU Shanghai Community Engagement pages are a good place to start.\nReach out to your network. Somebody might know someone in an industry you’re passionate about.\nSpeculative applications can impress an employer and show that you are proactive and resourceful. Write to an organization that you would love to work for, even if they haven’t posted any job openings.\nCheck our Graduate Destinations report to see what NYU Shanghai alum are doing and get some ideas.\nWorking While Studying Abroad\nHere are some resources to help you gain internship and working experience while studying away:\nWasserman Career Development Center helps students find career opportunities in North America\nVisit Global Internships to learn about internship programs at each of NYU’s global sites\nOffice of Global Services for US visa and immigration guidance.\nNYU Shanghai students who are non-US citizens are eligible to participate in an internship or on-campus research through the 1 credit summer practicum course.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "The Job Search"
+    },
+    {
+      "type": "h3",
+      "text": "Job Search Sites"
+    },
+    {
+      "type": "p",
+      "text": "Explore the websites below to get started searching for jobs and internships in China and around the world. It's a good idea to visit these sites from time to time and get familiar with the types of opportunities out there, and understand what kind of experience employers expect to see from recent graduates."
+    },
+    {
+      "type": "h3",
+      "text": "Handshake"
+    },
+    {
+      "type": "p",
+      "text": "BORDER DO NOT TOUCH"
+    },
+    {
+      "type": "h2",
+      "text": "Other Resources"
+    },
+    {
+      "type": "p",
+      "text": "After you become familiar with the job boards listed above, you can also try the proactive job search strategies below in order to identify hidden opportunities."
+    },
+    {
+      "type": "li",
+      "text": "Attend on-campus events such as the Career Fair and On-Campus Recruitment Programs, to employers and learn about new sectors and opportunities."
+    },
+    {
+      "type": "li",
+      "text": "Volunteer for a cause to gain experience and skills that will build out your resume. The NYU Shanghai Community Engagement pages are a good place to start."
+    },
+    {
+      "type": "li",
+      "text": "Reach out to your network. Somebody might know someone in an industry you’re passionate about."
+    },
+    {
+      "type": "li",
+      "text": "Speculative applications can impress an employer and show that you are proactive and resourceful. Write to an organization that you would love to work for, even if they haven’t posted any job openings."
+    },
+    {
+      "type": "li",
+      "text": "Check our Graduate Destinations report to see what NYU Shanghai alum are doing and get some ideas."
+    },
+    {
+      "type": "h2",
+      "text": "Working While Studying Abroad"
+    },
+    {
+      "type": "p",
+      "text": "Here are some resources to help you gain internship and working experience while studying away:"
+    },
+    {
+      "type": "li",
+      "text": "Wasserman Career Development Center helps students find career opportunities in North America"
+    },
+    {
+      "type": "li",
+      "text": "Visit Global Internships to learn about internship programs at each of NYU’s global sites"
+    },
+    {
+      "type": "li",
+      "text": "Office of Global Services for US visa and immigration guidance."
+    },
+    {
+      "type": "li",
+      "text": "NYU Shanghai students who are non-US citizens are eligible to participate in an internship or on-campus research through the 1 credit summer practicum course."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-4-01-5_0.jpg",
+      "alt": "Handshake",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-4-01-5_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-4-02-1.jpg",
+      "alt": "PDF",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-4-02-1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/job-search.jpg",
+      "alt": "Career Fair and On-Campus Recruitment Programs",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/job-search-c3e1444a747a.jpg",
+      "download_status": "downloaded",
+      "bytes": 260512,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/working-abroad_0.jpg",
+      "alt": "Working While Studying Abroad",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/working-abroad_0-fddeda383c8d.jpg",
+      "download_status": "downloaded",
+      "bytes": 252996,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-4-02-4.jpg",
+      "alt": "Book",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-4-02-4.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://app.joinhandshake.com",
+      "text": "Handshake",
+      "internal": false
+    },
+    {
+      "url": "https://www.indeed.com/worldwide",
+      "text": "Indeed.com",
+      "internal": false
+    },
+    {
+      "url": "https://www.entrypark.com/opportunities",
+      "text": "Entry Park",
+      "internal": false
+    },
+    {
+      "url": "https://jobs.theguardian.com/",
+      "text": "The Guardian",
+      "internal": false
+    },
+    {
+      "url": "https://link.zhihu.com/?target=http%3A//www.51job.com/",
+      "text": "前程无忧/51 job",
+      "internal": false
+    },
+    {
+      "url": "https://link.zhihu.com/?target=http%3A//www.zhaopin.com/",
+      "text": "智联招聘 / Zhilian Zhaopin",
+      "internal": false
+    },
+    {
+      "url": "http://www.yingjiesheng.com/",
+      "text": "应届生求职网/Yingjiesheng",
+      "internal": false
+    },
+    {
+      "url": "https://www.ihipo.com/",
+      "text": "iHipo",
+      "internal": false
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/linkedin-jobs?position=1&pageNum=0",
+      "text": "Linkedin",
+      "internal": false
+    },
+    {
+      "url": "https://www.wayup.com/",
+      "text": "Wayup",
+      "internal": false
+    },
+    {
+      "url": "https://sg.gradconnection.com/",
+      "text": "Gradconnection.com",
+      "internal": false
+    },
+    {
+      "url": "https://www.shixiseng.com/",
+      "text": "实习僧/Shixiseng",
+      "internal": false
+    },
+    {
+      "url": "https://www.ciweishixi.com/",
+      "text": "刺猬实习/Ciwei Shixi",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1FPVR5hatVYP8T0YWgtnY161imj37_fg96ojRuQb46Ko/edit?usp=sharing",
+      "text": "View More Job Boards",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/students/identify-opportunities/career-fair-ocr-sessions",
+      "text": "Career Fair and On-Campus Recruitment Programs",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/involvement/community",
+      "text": "Community Engagement",
+      "internal": true
+    },
+    {
+      "url": "https://www.prospects.ac.uk/careers-advice/applying-for-jobs/how-to-write-a-speculative-job-application",
+      "text": "Speculative applications",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations",
+      "text": "Graduate Destinations",
+      "internal": true
+    },
+    {
+      "url": "https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html",
+      "text": "Wasserman Career Development Center",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/academics/studying-abroad/upperclassmen-semester-academic-year-study-away/internships.html",
+      "text": "Global Internships",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/university-life/office-of-studentaffairs/office-of-global-services.html",
+      "text": "Office of Global Services",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/1-credit-course",
+      "text": "1 credit summer practicum course",
+      "internal": true
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/content/internship-job-search",
+      "text": "Considerations for your job search",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 292,
+  "crawled_at": "2026-06-09T04:44:25+00:00",
+  "sequence": 1604
+}

@@ -1,0 +1,135 @@
+{
+  "id": "leadership-e680978052",
+  "url": "https://shanghai.nyu.edu/leadership",
+  "canonical_url": "https://shanghai.nyu.edu/leadership",
+  "page_type": "leadership",
+  "title": "| NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Resources for:\nStudents\nFaculty\nStaff\nParents\nAlumni\nVisitors\nMedia\n中文\nLogin\nAll NYU",
+  "text_blocks": [
+    {
+      "type": "li",
+      "text": "Resources for:"
+    },
+    {
+      "type": "li",
+      "text": "Students"
+    },
+    {
+      "type": "li",
+      "text": "Faculty"
+    },
+    {
+      "type": "li",
+      "text": "Staff"
+    },
+    {
+      "type": "li",
+      "text": "Parents"
+    },
+    {
+      "type": "li",
+      "text": "Alumni"
+    },
+    {
+      "type": "li",
+      "text": "Visitors"
+    },
+    {
+      "type": "li",
+      "text": "Media"
+    },
+    {
+      "type": "li",
+      "text": "中文"
+    },
+    {
+      "type": "li",
+      "text": "Login"
+    },
+    {
+      "type": "li",
+      "text": "All NYU"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/themes/custom/shanghai/images/r2/logo_white_topbar.png",
+      "alt": "NYU Shanghai",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='shanghai.nyu.edu', port=443): Max retries exceeded with url: /themes/custom/shanghai/images/r2/logo_white_topbar.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/leadership",
+      "text": "Skip to main content",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/students",
+      "text": "Students",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty",
+      "text": "Faculty",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/staff",
+      "text": "Staff",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/community/parents",
+      "text": "Parents",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/community/alumni",
+      "text": "Alumni",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/admissions/us-visit",
+      "text": "Visitors",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/in-the-media",
+      "text": "Media",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn",
+      "text": "中文",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/Shibboleth.sso/Login?target=https%3A%2F%2Fshanghai.nyu.edu%2F%3Fq%3Dshib_login%2Fnode",
+      "text": "Login",
+      "internal": true
+    },
+    {
+      "url": "https://allnyu.nyu.edu",
+      "text": "All NYU",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 13,
+  "crawled_at": "2026-06-09T04:27:56+00:00",
+  "sequence": 18
+}

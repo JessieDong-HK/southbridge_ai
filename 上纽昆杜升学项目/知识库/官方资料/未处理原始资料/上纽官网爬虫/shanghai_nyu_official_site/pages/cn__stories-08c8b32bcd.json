@@ -1,0 +1,251 @@
+{
+  "id": "cn__stories-08c8b32bcd",
+  "url": "https://shanghai.nyu.edu/cn/stories?page=10",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "cn",
+  "title": "人物 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "人物\n对话计算机科学教授郭斯瑶\n好室友 好朋友——2021届周忠文和Justin Zotos\n2019届毕业生 | Muddassar Sharif\n2019届毕业生 | 赵雪涵：心怀善意 坚定前行\n2019届毕业生 | Savannah Billman\n2019届毕业生 | 黄淇： 成为一名全球公民\n2019届毕业生 | Honey Lera\n2019届毕业生 | 杨小寒：不一样的选择\n2019届毕业生 | Anthony Comeau\n对话文理学部主任、历史学教授：Maria E. Montoya\n2019届毕业生 | 胡文倩：做不一样的设计\n对话数学教授Pierre Tarrès",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "人物"
+    },
+    {
+      "type": "h4",
+      "text": "对话计算机科学教授郭斯瑶"
+    },
+    {
+      "type": "h4",
+      "text": "好室友 好朋友——2021届周忠文和Justin Zotos"
+    },
+    {
+      "type": "h4",
+      "text": "2019届毕业生 | Muddassar Sharif"
+    },
+    {
+      "type": "h4",
+      "text": "2019届毕业生 | 赵雪涵：心怀善意 坚定前行"
+    },
+    {
+      "type": "h4",
+      "text": "2019届毕业生 | Savannah Billman"
+    },
+    {
+      "type": "h4",
+      "text": "2019届毕业生 | 黄淇： 成为一名全球公民"
+    },
+    {
+      "type": "h4",
+      "text": "2019届毕业生 | Honey Lera"
+    },
+    {
+      "type": "h4",
+      "text": "2019届毕业生 | 杨小寒：不一样的选择"
+    },
+    {
+      "type": "h4",
+      "text": "2019届毕业生 | Anthony Comeau"
+    },
+    {
+      "type": "h4",
+      "text": "对话文理学部主任、历史学教授：Maria E. Montoya"
+    },
+    {
+      "type": "h4",
+      "text": "2019届毕业生 | 胡文倩：做不一样的设计"
+    },
+    {
+      "type": "h4",
+      "text": "对话数学教授Pierre Tarrès"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/wechatimg413.jpg?itok=oMVhvL5c",
+      "alt": "guosiyao",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg413-ff7fadbb6b25.jpg",
+      "download_status": "downloaded",
+      "bytes": 21799,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/dsc08253-450.jpg?itok=B2WAx3ej",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/dsc08253-450-31c3b8d3567f.jpg",
+      "download_status": "downloaded",
+      "bytes": 26552,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/screen_shot_2019-06-06_at_5.54.09_pm.png?itok=8BK41Ky2",
+      "alt": "new faculty 2019",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2019-06-06_at_5.54.09_pm-1571d57fc7f1.png",
+      "download_status": "downloaded",
+      "bytes": 264822,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/screen_shot_2019-05-31_at_1.51.52_pm.png?itok=08jIAZUm",
+      "alt": "zhao",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2019-05-31_at_1.51.52_pm-be0f55b3b5f2.png",
+      "download_status": "downloaded",
+      "bytes": 283362,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/savannah_cover_940.jpg?itok=JePfgDGF",
+      "alt": "billman",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/ping_940.jpg?itok=bKwqJOes",
+      "alt": "huangqi",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ping_940-dcc686ccaa55.jpg",
+      "download_status": "downloaded",
+      "bytes": 16350,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/2019-05-09_1.jpg?itok=Yqa5M6O0",
+      "alt": "Honey Lera",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/wechatimg544.jpg?itok=uEC8SwhB",
+      "alt": "Yang Xiaohan",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg544-ea965c3bfd4c.jpg",
+      "download_status": "downloaded",
+      "bytes": 20326,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/anthony-comeau-940.jpg?itok=5gnjFGPd",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/anthony-comeau-940-423350985351.jpg",
+      "download_status": "downloaded",
+      "bytes": 27464,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/maria-480-1.jpg?itok=NKbZSZFJ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/untitled.png?itok=RpOXNbX0",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/untitled-d0cff63ba332.png",
+      "download_status": "downloaded",
+      "bytes": 270376,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/pierre-tarres-940-2.jpg?itok=OGMujpAV",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/pierre-tarres-940-2-0ef3ab479368.jpg",
+      "download_status": "downloaded",
+      "bytes": 22825,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/dui-hua-ji-suan-ji-ke-xue-jiao-shou-guo-si-yao",
+      "text": "对话计算机科学教授郭斯瑶",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/hao-shi-you-hao-peng-you-2021-jie-zhou-zhong-wen-hejustin-zotos",
+      "text": "好室友 好朋友——2021届周忠文和Justin Zotos",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/senior-spotlight-muddassar-sharif",
+      "text": "2019届毕业生 | Muddassar Sharif",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2019-jie-bi-ye-sheng-zhao-xue-han-xin-huai-shan-yi-jian-ding-qian-xing",
+      "text": "2019届毕业生 | 赵雪涵：心怀善意 坚定前行",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/senior-spotlight-savannah-billman",
+      "text": "2019届毕业生 | Savannah Billman",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2019-jie-bi-ye-sheng-huang-qi-cheng-wei-yi-ming-quan-qiu-gong-min",
+      "text": "2019届毕业生 | 黄淇： 成为一名全球公民",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/senior-spotlight-honey-lera",
+      "text": "2019届毕业生 | Honey Lera",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2019-jie-bi-ye-sheng-yang-xiao-han-bu-yi-yang-de-xuan-ze",
+      "text": "2019届毕业生 | 杨小寒：不一样的选择",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2019-jie-bi-ye-sheng-anthony-comeau",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/dui-hua-wen-li-xue-bu-zhu-ren-li-shi-xue-jiao-shou-maria-e-montoya",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2019-jie-bi-ye-sheng-hu-wen-qian-zuo-bu-yi-yang-de-she-ji",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/faculty-spotlight-pierre-tarres",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 38,
+  "crawled_at": "2026-06-09T04:48:40+00:00",
+  "sequence": 1967
+}

@@ -1,0 +1,91 @@
+{
+  "id": "academics__faculty__directory__andy-garcia-f0f848dd78",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/andy-garcia",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/andy-garcia",
+  "page_type": "academics",
+  "title": "Andy",
+  "description": "Andy Garcia is a designer, engineer, and artist from Barcelona who graduated in Industrial Design from Elisava School of Design and Engineering in 2013. He worked at MedioDesign, blending advanced digital manufacturing technology with artisanal craftsmanship. He then completed a Master’s in Advanced",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Andy Garcia\nAndy Garcia is a designer, engineer, and artist from Barcelona who graduated in Industrial Design from Elisava School of Design and Engineering in 2013. He worked at MedioDesign, blending advanced digital manufacturing technology with artisanal craftsmanship. He then completed a Master’s in Advanced Product Engineering at Kingston University in London in 2015. During this time he was part of the KU e-racing Formula student team, contributing to the development of a fully electric racing car. He also was part of the FabLab London community, assisting members with digital fabrication projects.\nIn 2017, Andy moved to Shanghai, joining XincheJian, China’s first hackerspace, where he collaborated with startups, led workshops, and mentored young people in design and prototyping. Since 2019, he has been part of the IMA community at NYU Shanghai, and teaches courses related to Industrial Design, Digital Fabrication, Urban Farming, and Physical Computing. In his own words, Andy describes himself as a lifelong maker, dedicated to making people's lives easier.\nEducation\nMSc, Advanced Product Design EngineeringKingston University London\nBachelor's, Product Design ELISAVA Higher School of Design Barcelona\nDigital Fabrication\nSustainable Design\nDesign for Social Impact\nMechanical Engineering\nUrban Farming\nInteraction Lab\nDesign for Digital Fabrication\nIndustrial Design in Action\nUrban Farming: Technology and Community",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Andy Garcia"
+    },
+    {
+      "type": "p",
+      "text": "Andy Garcia is a designer, engineer, and artist from Barcelona who graduated in Industrial Design from Elisava School of Design and Engineering in 2013. He worked at MedioDesign, blending advanced digital manufacturing technology with artisanal craftsmanship. He then completed a Master’s in Advanced Product Engineering at Kingston University in London in 2015. During this time he was part of the KU e-racing Formula student team, contributing to the development of a fully electric racing car. He also was part of the FabLab London community, assisting members with digital fabrication projects."
+    },
+    {
+      "type": "p",
+      "text": "In 2017, Andy moved to Shanghai, joining XincheJian, China’s first hackerspace, where he collaborated with startups, led workshops, and mentored young people in design and prototyping. Since 2019, he has been part of the IMA community at NYU Shanghai, and teaches courses related to Industrial Design, Digital Fabrication, Urban Farming, and Physical Computing. In his own words, Andy describes himself as a lifelong maker, dedicated to making people's lives easier."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MSc, Advanced Product Design EngineeringKingston University London"
+    },
+    {
+      "type": "li",
+      "text": "Bachelor's, Product Design ELISAVA Higher School of Design Barcelona"
+    },
+    {
+      "type": "li",
+      "text": "Digital Fabrication"
+    },
+    {
+      "type": "li",
+      "text": "Sustainable Design"
+    },
+    {
+      "type": "li",
+      "text": "Design for Social Impact"
+    },
+    {
+      "type": "li",
+      "text": "Mechanical Engineering"
+    },
+    {
+      "type": "li",
+      "text": "Urban Farming"
+    },
+    {
+      "type": "li",
+      "text": "Interaction Lab"
+    },
+    {
+      "type": "li",
+      "text": "Design for Digital Fabrication"
+    },
+    {
+      "type": "li",
+      "text": "Industrial Design in Action"
+    },
+    {
+      "type": "li",
+      "text": "Urban Farming: Technology and Community"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/andy_garcia.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/andy_garcia-4ecdae294cbf.jpg",
+      "download_status": "downloaded",
+      "bytes": 2245567,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 211,
+  "crawled_at": "2026-06-09T04:53:04+00:00",
+  "sequence": 2339
+}

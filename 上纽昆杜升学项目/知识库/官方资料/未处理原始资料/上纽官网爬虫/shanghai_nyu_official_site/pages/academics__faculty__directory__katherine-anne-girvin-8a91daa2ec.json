@@ -1,0 +1,78 @@
+{
+  "id": "academics__faculty__directory__katherine-anne-girvin-8a91daa2ec",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/katherine-anne-girvin",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/katherine-anne-girvin",
+  "page_type": "academics",
+  "title": "Katherine Anne",
+  "description": "Professor Katherine Girvin is the Director of the University Choir and a Clinical Assistant Professor of Arts at NYU Shanghai.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Katherine Anne Girvin\nProfessor Katherine Girvin is the Director of the University Choir and a Clinical Assistant Professor of Arts at NYU Shanghai. A native of San Diego, Katherine attended the University of Missouri, Columbia where she received a Bachelors of Art and Science (2004), a Bachelors of Science in Middle School Education (2005) and a Masters in Education with a focus on Curriculum and Instruction (2006). Katherine has been teaching choral education for fifteen years and has been named Choral Educator of the Year by California Music Educator Association Southern Border division (2012) and in the same year received the Mackenzie-Haney award, an Outstanding Choral Educator Award voted on by her colleagues throughout the San Diego Unified School District. Some of her directing highlights include St. Peter’s Basilica, Carnegie Hall, Harpa Concert Hall, and the Sydney Opera House. Katherine spent three years in educational leadership as a K-12 district-wide principal and is thrilled to now be working with the NYU Shanghai choral community.\nSelect Publications\nContributor\nTeaching Music Through Performance in Contemporary A cappella(GIA Publications)/ Book/ 342 Pages\nEducation\nMA, Education (Curriculum and Instruction)University of Missouri, Columbia\nBAS, Middle School EducationUniversity of Missouri, Columbia\nResearch Interests\nMusic Research\nMusic Technology\nA cappela",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Katherine Anne Girvin"
+    },
+    {
+      "type": "p",
+      "text": "Professor Katherine Girvin is the Director of the University Choir and a Clinical Assistant Professor of Arts at NYU Shanghai. A native of San Diego, Katherine attended the University of Missouri, Columbia where she received a Bachelors of Art and Science (2004), a Bachelors of Science in Middle School Education (2005) and a Masters in Education with a focus on Curriculum and Instruction (2006). Katherine has been teaching choral education for fifteen years and has been named Choral Educator of the Year by California Music Educator Association Southern Border division (2012) and in the same year received the Mackenzie-Haney award, an Outstanding Choral Educator Award voted on by her colleagues throughout the San Diego Unified School District. Some of her directing highlights include St. Peter’s Basilica, Carnegie Hall, Harpa Concert Hall, and the Sydney Opera House. Katherine spent three years in educational leadership as a K-12 district-wide principal and is thrilled to now be working with the NYU Shanghai choral community."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "p",
+      "text": "Contributor"
+    },
+    {
+      "type": "li",
+      "text": "Teaching Music Through Performance in Contemporary A cappella(GIA Publications)/ Book/ 342 Pages"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MA, Education (Curriculum and Instruction)University of Missouri, Columbia"
+    },
+    {
+      "type": "li",
+      "text": "BAS, Middle School EducationUniversity of Missouri, Columbia"
+    },
+    {
+      "type": "h3",
+      "text": "Research Interests"
+    },
+    {
+      "type": "li",
+      "text": "Music Research"
+    },
+    {
+      "type": "li",
+      "text": "Music Technology"
+    },
+    {
+      "type": "li",
+      "text": "A cappela"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/final_2024.3.20niu_yue_da_xue_2428.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 209,
+  "crawled_at": "2026-06-09T04:54:38+00:00",
+  "sequence": 2444
+}

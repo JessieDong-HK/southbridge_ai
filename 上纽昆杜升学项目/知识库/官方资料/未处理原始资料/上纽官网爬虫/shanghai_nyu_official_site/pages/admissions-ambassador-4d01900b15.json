@@ -1,0 +1,200 @@
+{
+  "id": "admissions-ambassador-4d01900b15",
+  "url": "https://shanghai.nyu.edu/admissions-ambassador?tid=All&field_primary_major_value=All&field_primary_minor_value=All&field_class_value=All&page=1",
+  "canonical_url": "https://shanghai.nyu.edu/admissions-ambassador",
+  "page_type": "admissions-ambassador",
+  "title": "Admissions Ambassador | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Admissions Ambassador",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Admissions Ambassador"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/juicebox_small/public/field/profile/Hannia%20Colon%20Valdez.jpg?itok=RMgVauAZ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Hannia-20Colon-20Valdez-b5b9936462a1.jpg",
+      "download_status": "downloaded",
+      "bytes": 39871,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/juicebox_small/public/field/profile/Jiaqi%20Qian%E9%92%B1%E4%BD%B3%E7%90%AA.jpg?itok=Wr8UUBtp",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Jiaqi-20Qian-E9-92-B1-E4-BD-B3-E7-90-AA-f5a369a304b1.jpg",
+      "download_status": "downloaded",
+      "bytes": 30918,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/juicebox_small/public/field/profile/Nigel%20Dai.jpg?itok=Ld5yGNC-",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/juicebox_small/public/field/profile/Jingsen%20Zhang%20%E5%BC%A0%E9%9D%99%E6%A3%AE.jpg?itok=4xFgU4B9",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Jingsen-20Zhang-20-E5-BC-A0-E9-9D-99-E6-A3-AE-0936edf5339b.jpg",
+      "download_status": "downloaded",
+      "bytes": 31905,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/juicebox_small/public/field/profile/Karimjon%20olimjonov.jpg?itok=ITdN_iRd",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/juicebox_small/public/field/profile/Karimjon%20olimjonov.jpg?itok=ITdN_iRd (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of proto"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/juicebox_small/public/field/profile/Astroyd%20Kang.jpg?itok=sPF1kaLy",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/juicebox_small/public/field/profile/Henry%20Yu%20%E8%99%9E%E5%BF%AB%E5%A4%9A.jpg?itok=vsrrrj2I",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/juicebox_small/public/field/profile/Henry%20Yu%20%E8%99%9E%E5%BF%AB%E5%A4%9A.jpg?itok=vsrrrj2I (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred i"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/juicebox_small/public/field/profile/Masha%20shramko.jpg?itok=Yz_qqp_a",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/juicebox_small/public/field/profile/Camille%20Cai%E8%94%A1%E6%97%BB%E5%90%9B.jpg?itok=g4QbDCJ_",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Camille-20Cai-E8-94-A1-E6-97-BB-E5-90-9B-6bfd3dbd83ee.jpg",
+      "download_status": "downloaded",
+      "bytes": 32738,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/juicebox_small/public/field/profile/Poonyisa%20Chutichetpong_0.jpg?itok=szsepvqp",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Poonyisa-20Chutichetpong_0-cd236b672c0a.jpg",
+      "download_status": "downloaded",
+      "bytes": 32972,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/juicebox_small/public/field/profile/Ramish%20Jam.jpg?itok=Vf26rRy8",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Ramish-20Jam-e17a958a7447.jpg",
+      "download_status": "downloaded",
+      "bytes": 36662,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/juicebox_small/public/field/profile/Ruiqi%20Zhuang%E5%BA%84%E7%9D%BF%E5%A5%87%EF%BC%88Ricky%EF%BC%89.jpg?itok=9uVh3snU",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/admissions-ambassador/profile/hannia",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/admissions-ambassador/profile/jiaqi",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/admissions-ambassador/profile/jiasheng",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/admissions-ambassador/profile/jingsen-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/admissions-ambassador/profile/karimjon",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/admissions-ambassador/profile/kewei",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/admissions-ambassador/profile/kuaiduo",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/admissions-ambassador/profile/mariia-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/admissions-ambassador/profile/minjun",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/admissions-ambassador/profile/poonyisa",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/admissions-ambassador/profile/ramish",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/admissions-ambassador/profile/ruiqi-0",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:36:10+00:00",
+  "sequence": 884
+}

@@ -1,0 +1,73 @@
+{
+  "id": "undergraduate-admissions__graduate-destinations2018-a237b0dd43",
+  "url": "https://shanghai.nyu.edu/undergraduate-admissions/graduate-destinations2018",
+  "canonical_url": "https://shanghai.nyu.edu/undergraduate-admissions/graduate-destinations2018",
+  "page_type": "undergraduate-admissions",
+  "title": "Life Beyond Century Avenue: Class of 2018",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Life Beyond Century Avenue: Class of 2018\nIn the months following graduation, members of NYU Shanghai’s second graduating class have hit the ground running - with 94 percent of the Class of 2018 either taking jobs in fields such as tech, finance, education, consulting, and the non-profit sector or continuing their educations in graduate school. 56% of graduates are living outside their home country post-graduation.\nMore than half - 53% - of the Class of 2018 have entered the global workforce. Graduates working in China report an average annual salary of 134,575 RMB, while graduates working in the United States report an average salary of US$60,217. Of these graduates, 21% are working in the tech industry, representing a 13% increase over the Class of 2017.\nOf the 41% who are in graduate schools, 10 are enrolled in PhD programs. Ninety have started work on their Masters degrees.\nEighteen of NYU Shanghai’s 111 international graduates have chosen to remain in China. 11 are working, while seven are pursuing further study.\nFour international graduates earned prestigious global scholarships and fellowships, including two Yenching Scholarships, a Schwarzman Scholarship, and a Princeton in Asia Fellowship.\nLife Beyond Century Avenue 2019\nLife Beyond Century Avenue 2017",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Life Beyond Century Avenue: Class of 2018"
+    },
+    {
+      "type": "p",
+      "text": "In the months following graduation, members of NYU Shanghai’s second graduating class have hit the ground running - with 94 percent of the Class of 2018 either taking jobs in fields such as tech, finance, education, consulting, and the non-profit sector or continuing their educations in graduate school. 56% of graduates are living outside their home country post-graduation."
+    },
+    {
+      "type": "p",
+      "text": "More than half - 53% - of the Class of 2018 have entered the global workforce. Graduates working in China report an average annual salary of 134,575 RMB, while graduates working in the United States report an average salary of US$60,217. Of these graduates, 21% are working in the tech industry, representing a 13% increase over the Class of 2017."
+    },
+    {
+      "type": "p",
+      "text": "Of the 41% who are in graduate schools, 10 are enrolled in PhD programs. Ninety have started work on their Masters degrees."
+    },
+    {
+      "type": "p",
+      "text": "Eighteen of NYU Shanghai’s 111 international graduates have chosen to remain in China. 11 are working, while seven are pursuing further study."
+    },
+    {
+      "type": "p",
+      "text": "Four international graduates earned prestigious global scholarships and fellowships, including two Yenching Scholarships, a Schwarzman Scholarship, and a Princeton in Asia Fellowship."
+    },
+    {
+      "type": "p",
+      "text": "Life Beyond Century Avenue 2019"
+    },
+    {
+      "type": "p",
+      "text": "Life Beyond Century Avenue 2017"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/fdr-eng-final-2.jpg",
+      "alt": "CDC",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/undergraduate-admissions/graduate-destinations2019",
+      "text": "Life Beyond Century Avenue 2019",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/undergraduate-admissions/graduate-destinations2017",
+      "text": "Life Beyond Century Avenue 2017",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 205,
+  "crawled_at": "2026-06-09T04:53:01+00:00",
+  "sequence": 2335
+}

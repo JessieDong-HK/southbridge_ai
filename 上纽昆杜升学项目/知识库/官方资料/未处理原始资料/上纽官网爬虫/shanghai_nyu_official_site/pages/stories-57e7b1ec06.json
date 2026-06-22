@@ -1,0 +1,252 @@
+{
+  "id": "stories-57e7b1ec06",
+  "url": "https://shanghai.nyu.edu/stories?page=4",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "stories",
+  "title": "People | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "People\nMia Trinh ’24: Embracing Changes with an Open Heart\nWang Yuhan ’24: Exploring the Future of Interactive Design\nCelia Forster ’24: Examining Educational Technology through a Multicultural Lens\nAlumni Voices: Xavier Ante '18\nAlumni Voices: Amy DeCillis '20\nAlumni Voices: Marcos Brisson '23\nAlumni Voices: Kenny Song '17\nAlumni Voices: Michelle Huang ’18\nAlumni Voices: Wu Yuwei ’17\nAlumni Voices: Sang Rong ’17\nAlumni Voices: Zhao Nan ’18\nNYU Shanghai Love Story: Sherry Zhuang Chen ’17 and Richard Zhao Zeyu ’17",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "People"
+    },
+    {
+      "type": "h4",
+      "text": "Mia Trinh ’24: Embracing Changes with an Open Heart"
+    },
+    {
+      "type": "h4",
+      "text": "Wang Yuhan ’24: Exploring the Future of Interactive Design"
+    },
+    {
+      "type": "h4",
+      "text": "Celia Forster ’24: Examining Educational Technology through a Multicultural Lens"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Voices: Xavier Ante '18"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Voices: Amy DeCillis '20"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Voices: Marcos Brisson '23"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Voices: Kenny Song '17"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Voices: Michelle Huang ’18"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Voices: Wu Yuwei ’17"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Voices: Sang Rong ’17"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Voices: Zhao Nan ’18"
+    },
+    {
+      "type": "h4",
+      "text": "NYU Shanghai Love Story: Sherry Zhuang Chen ’17 and Richard Zhao Zeyu ’17"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/mia_trinh_24_recovered-02_0.jpg?itok=oVRIOH9c",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/mia_trinh_24_recovered-02_0-9eaf4f53a802.jpg",
+      "download_status": "downloaded",
+      "bytes": 25406,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/wang_yuhan_24-02.jpg?itok=c2fQhalt",
+      "alt": "wangyuhan",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wang_yuhan_24-02-8d594b685854.jpg",
+      "download_status": "downloaded",
+      "bytes": 30645,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/celia_forster_24-02.jpg?itok=7U12wo_y",
+      "alt": "homepage image of celia forster",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/celia_forster_24-02-8ffe4aa0ccd9.jpg",
+      "download_status": "downloaded",
+      "bytes": 28281,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_xavier_ante_18-02_0.jpg?itok=wNZ-VxPf",
+      "alt": "xavier thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_xavier_ante_18-02_0-26812fa43762.jpg",
+      "download_status": "downloaded",
+      "bytes": 24054,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_amy_decillis_20ai-02.jpg?itok=qnVBCMSO",
+      "alt": "amydecillis",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_amy_decillis_20ai-02-0ec9191f3ae3.jpg",
+      "download_status": "downloaded",
+      "bytes": 32151,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_marcos_brisson_23-02_0.jpg?itok=cOBpeYli",
+      "alt": "marcos brisson",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_marcos_brisson_23-02_0-4ccc81556187.jpg",
+      "download_status": "downloaded",
+      "bytes": 18595,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_kenny_song17-02.jpg?itok=jum_uUL9",
+      "alt": "kennysong",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_kenny_song17-02-1d1e68bac775.jpg",
+      "download_status": "downloaded",
+      "bytes": 19256,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/4_7.jpg?itok=thZQk1eg",
+      "alt": "homepage image michelle",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/1012_wu_yuwei_alumni_voices_copy.jpg?itok=wOdlEnPc",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/1012_wu_yuwei_alumni_voices_copy-c82749e23183.jpg",
+      "download_status": "downloaded",
+      "bytes": 15344,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_sang_rong-02.jpg?itok=yCYIH22C",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_-_sang_rong-02-e0fab8f5db5c.jpg",
+      "download_status": "downloaded",
+      "bytes": 28592,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_zhao_nan_18-02.jpg?itok=hu3UjLSF",
+      "alt": "zhao",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_-_zhao_nan_18-02-ac884d84eaed.jpg",
+      "download_status": "downloaded",
+      "bytes": 16823,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/homepage_image.jpeg?itok=hjP6m0s1",
+      "alt": "richard and sherry",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/stories/mia-trinh-24-embracing-changes-open-heart",
+      "text": "Mia Trinh ’24: Embracing Changes with an Open Heart",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/wang-yuhan-24-exploring-future-interactive-design",
+      "text": "Wang Yuhan ’24: Exploring the Future of Interactive Design",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/celia-forster-24-examining-educational-technology-through-multicultural-lens",
+      "text": "Celia Forster ’24: Examining Educational Technology through a Multicultural Lens",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-xavier-ante-18",
+      "text": "Alumni Voices: Xavier Ante '18",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-amy-decillis-20",
+      "text": "Alumni Voices: Amy DeCillis '20",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-marcos-brisson-23",
+      "text": "Alumni Voices: Marcos Brisson '23",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-kenny-song-17",
+      "text": "Alumni Voices: Kenny Song '17",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-michelle-huang-18",
+      "text": "Alumni Voices: Michelle Huang ’18",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-wu-yuwei-17",
+      "text": "Alumni Voices: Wu Yuwei ’17",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-sang-rong-17",
+      "text": "Alumni Voices: Sang Rong ’17",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-zhao-nan-18",
+      "text": "Alumni Voices: Zhao Nan ’18",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/nyu-shanghai-love-story-sherry-zhuang-chen-17-and-richard-zhao-zeyu-17",
+      "text": "NYU Shanghai Love Story: Sherry Zhuang Chen ’17 and Richard Zhao Zeyu ’17",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 82,
+  "crawled_at": "2026-06-09T04:32:58+00:00",
+  "sequence": 639
+}

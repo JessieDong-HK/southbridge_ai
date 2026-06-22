@@ -1,0 +1,70 @@
+{
+  "id": "cn__campus-life__career__employers__faq-36bee03fad",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/career/employers/faq",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/career/employers/faq",
+  "page_type": "cn",
+  "title": "雇主常见问题",
+  "description": "",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "雇主常见问题\n上海纽约大学是中国第一所中美合办研究型大学，也是纽约大学全球教育体系中具有学位授予资格的三大校园之一。具体介绍可参见关于我们。\n预估费用可参见学费与奖助学金页面。\n上海纽约大学采用严格的招生流程，从世界各地选拔优秀学生。更多申请详情请见招生信息页面。\n上海纽约大学为本科生提供人文、理工及商学领域的多种专业及硕博项目，详情请参见专业与辅修专业列表页面。\n职业发展中心专注搭建雇主与上纽大学生之间的桥梁，我们提供多种参与渠道，更多信息请见招聘渠道页面。",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "雇主常见问题"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学是中国第一所中美合办研究型大学，也是纽约大学全球教育体系中具有学位授予资格的三大校园之一。具体介绍可参见关于我们。"
+    },
+    {
+      "type": "p",
+      "text": "预估费用可参见学费与奖助学金页面。"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学采用严格的招生流程，从世界各地选拔优秀学生。更多申请详情请见招生信息页面。"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学为本科生提供人文、理工及商学领域的多种专业及硕博项目，详情请参见专业与辅修专业列表页面。"
+    },
+    {
+      "type": "p",
+      "text": "职业发展中心专注搭建雇主与上纽大学生之间的桥梁，我们提供多种参与渠道，更多信息请见招聘渠道页面。"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/cn/about",
+      "text": "关于我们",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/zsb/cost",
+      "text": "学费与奖助学金",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/zsb/admission-process",
+      "text": "招生信息",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors",
+      "text": "专业与辅修专业列表",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/employers/handshake",
+      "text": "招聘渠道",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 14,
+  "crawled_at": "2026-06-09T04:36:59+00:00",
+  "sequence": 994
+}

@@ -1,0 +1,129 @@
+{
+  "id": "campus-life__career__graduate-destinations2022-f36139edb2",
+  "url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations2022",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations2022",
+  "page_type": "campus-life",
+  "title": "Life Beyond Century Avenue: Class of 2022",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Life Beyond Century Avenue: Class of 2022\nDespite the unforeseen challenges brought on by the global pandemic, climate change, environmental pollution, and economic flux, the Class of 2022 has achieved a 93% overall employment and graduate education rate. The 365 graduates from 34 countries can now be found all around the world, with 78% choosing to work or study in places other than their home countries.\n62% of our graduates have enrolled in graduate programs at top universities around the globe. Among them, 15 are pursuing PhDs or JDs, while 175 are studying for master's degrees. 30% have joined the workforce in Asia, North America, South America, Middle East, Europe.\nThe global epidemic has inspired graduates to think deeply about the value of life and the fate of human society, with the number of graduates choosing medicine and health-related fields increasing significantly. The top six employment fields include: Hardware/Internet/IT/Software, Accounting/Banking/Finance, Management Consulting, Entertainment/Consumer Goods/Hospitality, Advertising/Communication/Marketing/Public Relations, and Education/Research. Some graduates have chosen to follow paths of public service by promoting educational innovation in rural areas.\nFive graduates were selected for globally competitive scholarship programs, including the Schwarzman Scholars Program at Tsinghua University, the Yenching Scholars Program at Peking University, and the Erasmus Mundus Scholars Program. 7 international graduates chose to pursue further studies or work in China.\nStatistics are rounded to the nearest whole number. Therefore, totals do not always equal 100%.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Life Beyond Century Avenue: Class of 2022"
+    },
+    {
+      "type": "p",
+      "text": "Despite the unforeseen challenges brought on by the global pandemic, climate change, environmental pollution, and economic flux, the Class of 2022 has achieved a 93% overall employment and graduate education rate. The 365 graduates from 34 countries can now be found all around the world, with 78% choosing to work or study in places other than their home countries."
+    },
+    {
+      "type": "p",
+      "text": "62% of our graduates have enrolled in graduate programs at top universities around the globe. Among them, 15 are pursuing PhDs or JDs, while 175 are studying for master's degrees. 30% have joined the workforce in Asia, North America, South America, Middle East, Europe."
+    },
+    {
+      "type": "p",
+      "text": "The global epidemic has inspired graduates to think deeply about the value of life and the fate of human society, with the number of graduates choosing medicine and health-related fields increasing significantly. The top six employment fields include: Hardware/Internet/IT/Software, Accounting/Banking/Finance, Management Consulting, Entertainment/Consumer Goods/Hospitality, Advertising/Communication/Marketing/Public Relations, and Education/Research. Some graduates have chosen to follow paths of public service by promoting educational innovation in rural areas."
+    },
+    {
+      "type": "p",
+      "text": "Five graduates were selected for globally competitive scholarship programs, including the Schwarzman Scholars Program at Tsinghua University, the Yenching Scholars Program at Peking University, and the Erasmus Mundus Scholars Program. 7 international graduates chose to pursue further studies or work in China."
+    },
+    {
+      "type": "p",
+      "text": "Statistics are rounded to the nearest whole number. Therefore, totals do not always equal 100%."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/1_24.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2022",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/1_24.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/2_17.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2022-2",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/3_22.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2022",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/3_22.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/4_21.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2022",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/4_21.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/5_11.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2021",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/5_11-857e8c45e35c.jpg",
+      "download_status": "downloaded",
+      "bytes": 998861,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/co2022-fd-website.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2022",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/7_7.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2022",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/7_7-d0ea3d7e45a9.jpg",
+      "download_status": "downloaded",
+      "bytes": 661596,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/8_5.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2022",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/8_5-08964a8ad8ca.jpg",
+      "download_status": "downloaded",
+      "bytes": 603104,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/9_3.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2022",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 245,
+  "crawled_at": "2026-06-09T04:30:12+00:00",
+  "sequence": 286
+}

@@ -1,0 +1,60 @@
+{
+  "id": "about__policies-and-procedures-4b751f9e72",
+  "url": "https://www.dukekunshan.edu.cn/about/policies-and-procedures",
+  "canonical_url": "https://www.dukekunshan.edu.cn/about/policies-and-procedures/",
+  "page_type": "about",
+  "title": "Policies and Procedures - DKU",
+  "description": "Duke kunshan policies and procedures.",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2025-08-29T08:23:40+00:00",
+  "sitemap_lastmod": "2025-08-29T08:23:40+00:00",
+  "text": "Policies and Procedures\nDKU Academic Organizational Structure*Policy on Faculty Absence*DKU Policy on Mentorship of Faculty*DKU Policy on Pre-Tenure Sabbatical Leaves*Policy on Consensual Romantic or Sexual Relationships Between Faculty and Students*Grade Dispute Policy*Undergraduate Student Academic Complaints Policy*Guidelines on Appointment of Research Faculty*Policy for Faculty Resignation*Proposal for Descriptions of Faculty Ranks*Faculty Funds Guidelines*Faculty Charter*Duke Kunshan University Faculty Code of Conduct*Bylaws of University Faculty*Academic Policies*Research PolicesFaculty Annual Report*Academic Tenure and Faculty Appointment, Promotion and Tenure*Policy on Faculty Professionalism*DKU Academic Salary Buyouts Policy*Guidelines for Withdrawal of Summer Salary*DKU Course Buy Out Policy*DKU Postdoctoral Positions Guideline*DKU Rule for Accessing Course Evaluation Information*DKU Administrative Regulations are available on the Duke Kunshan University Regulations page.\n*needs netID to log in (after log in, please refresh this page)",
+  "text_blocks": [
+    {
+      "type": "h2",
+      "text": "Policies and Procedures"
+    },
+    {
+      "type": "p",
+      "text": "DKU Academic Organizational Structure*Policy on Faculty Absence*DKU Policy on Mentorship of Faculty*DKU Policy on Pre-Tenure Sabbatical Leaves*Policy on Consensual Romantic or Sexual Relationships Between Faculty and Students*Grade Dispute Policy*Undergraduate Student Academic Complaints Policy*Guidelines on Appointment of Research Faculty*Policy for Faculty Resignation*Proposal for Descriptions of Faculty Ranks*Faculty Funds Guidelines*Faculty Charter*Duke Kunshan University Faculty Code of Conduct*Bylaws of University Faculty*Academic Policies*Research PolicesFaculty Annual Report*Academic Tenure and Faculty Appointment, Promotion and Tenure*Policy on Faculty Professionalism*DKU Academic Salary Buyouts Policy*Guidelines for Withdrawal of Summer Salary*DKU Course Buy Out Policy*DKU Postdoctoral Positions Guideline*DKU Rule for Accessing Course Evaluation Information*DKU Administrative Regulations are available on the Duke Kunshan University Regulations page."
+    },
+    {
+      "type": "p",
+      "text": "*needs netID to log in (after log in, please refresh this page)"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [
+    {
+      "url": "https://dukekunshan.edu.cn/research/research-support-office/policies",
+      "text": "Research Polices",
+      "internal": true
+    },
+    {
+      "url": "https://hub.dukekunshan.edu.cn/regulationnew",
+      "text": "Duke Kunshan University Regulations page",
+      "internal": false
+    },
+    {
+      "url": "https://dukekunshan.edu.cn/user",
+      "text": "log in",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 144,
+  "crawled_at": "2026-06-03T13:54:47+00:00",
+  "sequence": 563
+}

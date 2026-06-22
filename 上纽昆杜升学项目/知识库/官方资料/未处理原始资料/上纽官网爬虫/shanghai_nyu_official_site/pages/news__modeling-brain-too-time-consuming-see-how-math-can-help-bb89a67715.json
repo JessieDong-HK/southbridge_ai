@@ -1,0 +1,104 @@
+{
+  "id": "news__modeling-brain-too-time-consuming-see-how-math-can-help-bb89a67715",
+  "url": "https://shanghai.nyu.edu/news/modeling-brain-too-time-consuming-see-how-math-can-help",
+  "canonical_url": "https://shanghai.nyu.edu/news/modeling-brain-too-time-consuming-see-how-math-can-help",
+  "page_type": "news",
+  "title": "Is Modeling the Brain Too Time-Consuming? See How Math Can Help",
+  "description": "Professor Zhuo-Cheng Xiao's study proposed a delicate new approach to brain modeling.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Is Modeling the Brain Too Time-Consuming? See How Math Can Help\nTwitter\nFacebook\nWeibo\nThe human brain is the most complex biological system, and scientists have long been trying to figure out its mechanisms through modeling. However, with billions of neurons involved, brain modeling can be extremely complicated. A realistic model would be huge and require a vast amount of time and effort to run. If you prioritize efficiency, the model will sacrifice important biological details.\nIn a recent paper published in PNAS, first-authored by NYU Shanghai Assistant Professor of Mathematics and Neuroscience Zhuo-Cheng Xiao, researchers proposed a delicate approach to brain modeling that provides a balanced solution to the efficiency vs. realism dilemma.\nTraditional models of brain function are often either highly detailed but computationally expensive or overly simplified, which compromises their biological relevance. This new study introduces a multiscale modeling approach, inspired by statistical mechanics, to simulate brain activity in the visual cortex.\n“The brain has a feature—though seen as a whole, it’s extremely complicated, but if ‘dismantled’ into small sections, the structures of each section are similar,” said Xiao. “So in this study, we adopted a divide-and-conquer strategy. Instead of modeling an entire brain area in detail as a whole, we divided the brain into small groups of neurons and started by modeling how each group of neurons behaves on its own. Then, we looked at how these groups interact with one another to show how the larger brain area works.”\nThe study focused on one area of the visual cortex, but the method has the potential to be broadly applied to other brain regions as well. “In brain modeling, there’s always a trade-off between computational cost and biological realism,” said Xiao. “The advantage of our proposed model is that it allows us to speed up the computation while retaining as much biological realism as possible.”\nXiao conducted the study during his postdoctoral studies at NYU Courant, under the guidance of his postdoc advisor, Professor of Mathematics at NYU Courant Lai-Sang Young, and his PhD advisor, Professor of Mathematics at the University of Arizona Kevin Lin. “The research was designed by Professor Young, who has profound insights and extensive experience in modeling the visual cortex, stemming from her long-term collaboration with vision experts,” said Xiao. “Meanwhile, Professor Lin’s expertise in applied math greatly helped me enhance the efficiency and accuracy of the modeling approach mathematically.”\nAfter completing his postdoc at Courant, Xiao joined NYU Shanghai in Spring 2024 as an Assistant Professor of Mathematics and Neuroscience. “I was attracted to NYU Shanghai for several reasons. As part of the NYU global network, I can seamlessly collaborate with NYU scientists and beyond, which I highly value,” said Xiao. “Additionally, since my research spans both mathematics and neuroscience, NYU Shanghai has a strong foundation in both areas with leading faculty, which will also benefit my research.”\nGoing forward, Xiao will continue to expand his modeling of the visual cortex. “There are still vast mysteries in the brain that remain unresolved. We know some details and functioning mechanisms, but we’re still far from understanding how the visual system works,” said Xiao. “We hope to expand this model to other areas of the visual cortex and eventually construct a comprehensive model of the entire visual system, and even the whole brain.” Although it’s in the early stages of research, the modeling could greatly be used in efficient parameter & structure exploration of the cortex, enhancing scientists’ understanding of how the complex physiology and structure of the brain give rise to multiple cognitive questions simultaneously.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Is Modeling the Brain Too Time-Consuming? See How Math Can Help"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "The human brain is the most complex biological system, and scientists have long been trying to figure out its mechanisms through modeling. However, with billions of neurons involved, brain modeling can be extremely complicated. A realistic model would be huge and require a vast amount of time and effort to run. If you prioritize efficiency, the model will sacrifice important biological details."
+    },
+    {
+      "type": "p",
+      "text": "In a recent paper published in PNAS, first-authored by NYU Shanghai Assistant Professor of Mathematics and Neuroscience Zhuo-Cheng Xiao, researchers proposed a delicate approach to brain modeling that provides a balanced solution to the efficiency vs. realism dilemma."
+    },
+    {
+      "type": "p",
+      "text": "Traditional models of brain function are often either highly detailed but computationally expensive or overly simplified, which compromises their biological relevance. This new study introduces a multiscale modeling approach, inspired by statistical mechanics, to simulate brain activity in the visual cortex."
+    },
+    {
+      "type": "p",
+      "text": "“The brain has a feature—though seen as a whole, it’s extremely complicated, but if ‘dismantled’ into small sections, the structures of each section are similar,” said Xiao. “So in this study, we adopted a divide-and-conquer strategy. Instead of modeling an entire brain area in detail as a whole, we divided the brain into small groups of neurons and started by modeling how each group of neurons behaves on its own. Then, we looked at how these groups interact with one another to show how the larger brain area works.”"
+    },
+    {
+      "type": "p",
+      "text": "The study focused on one area of the visual cortex, but the method has the potential to be broadly applied to other brain regions as well. “In brain modeling, there’s always a trade-off between computational cost and biological realism,” said Xiao. “The advantage of our proposed model is that it allows us to speed up the computation while retaining as much biological realism as possible.”"
+    },
+    {
+      "type": "p",
+      "text": "Xiao conducted the study during his postdoctoral studies at NYU Courant, under the guidance of his postdoc advisor, Professor of Mathematics at NYU Courant Lai-Sang Young, and his PhD advisor, Professor of Mathematics at the University of Arizona Kevin Lin. “The research was designed by Professor Young, who has profound insights and extensive experience in modeling the visual cortex, stemming from her long-term collaboration with vision experts,” said Xiao. “Meanwhile, Professor Lin’s expertise in applied math greatly helped me enhance the efficiency and accuracy of the modeling approach mathematically.”"
+    },
+    {
+      "type": "p",
+      "text": "After completing his postdoc at Courant, Xiao joined NYU Shanghai in Spring 2024 as an Assistant Professor of Mathematics and Neuroscience. “I was attracted to NYU Shanghai for several reasons. As part of the NYU global network, I can seamlessly collaborate with NYU scientists and beyond, which I highly value,” said Xiao. “Additionally, since my research spans both mathematics and neuroscience, NYU Shanghai has a strong foundation in both areas with leading faculty, which will also benefit my research.”"
+    },
+    {
+      "type": "p",
+      "text": "Going forward, Xiao will continue to expand his modeling of the visual cortex. “There are still vast mysteries in the brain that remain unresolved. We know some details and functioning mechanisms, but we’re still far from understanding how the visual system works,” said Xiao. “We hope to expand this model to other areas of the visual cortex and eventually construct a comprehensive model of the entire visual system, and even the whole brain.” Although it’s in the early stages of research, the modeling could greatly be used in efficient parameter & structure exploration of the cortex, enhancing scientists’ understanding of how the complex physiology and structure of the brain give rise to multiple cognitive questions simultaneously."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/brain_model.jpg?itok=q-mg8gsa",
+      "alt": "brain model",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Is%20Modeling%20the%20Brain%20Too%20Time-Consuming%3F%20See%20How%20Math%20Can%20Help&url=https%3A//shanghai.nyu.edu/news/modeling-brain-too-time-consuming-see-how-math-can-help&status=Is%20Modeling%20the%20Brain%20Too%20Time-Consuming%3F%20See%20How%20Math%20Can%20Help%20https%3A//shanghai.nyu.edu/news/modeling-brain-too-time-consuming-see-how-math-can-help",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/modeling-brain-too-time-consuming-see-how-math-can-help&title=Is%20Modeling%20the%20Brain%20Too%20Time-Consuming%3F%20See%20How%20Math%20Can%20Help",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/modeling-brain-too-time-consuming-see-how-math-can-help&title=Is%20Modeling%20the%20Brain%20Too%20Time-Consuming%3F%20See%20How%20Math%20Can%20Help",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://www.pnas.org/doi/full/10.1073/pnas.2320454121",
+      "text": "paper",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/zhuo-cheng-xiao",
+      "text": "Zhuo-Cheng Xiao",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 606,
+  "crawled_at": "2026-06-09T04:40:43+00:00",
+  "sequence": 1317
+}

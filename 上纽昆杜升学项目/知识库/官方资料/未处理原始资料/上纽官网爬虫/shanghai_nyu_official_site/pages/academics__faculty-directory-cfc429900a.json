@@ -1,0 +1,677 @@
+{
+  "id": "academics__faculty-directory-cfc429900a",
+  "url": "https://shanghai.nyu.edu/academics/faculty-directory?page=3",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty-directory",
+  "page_type": "academics",
+  "title": "Faculty Directory | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Faculty Directory\nBy Appointment\nAll Ranks\nFull-Time Faculty\nNYU Affiliated Faculty\nVisiting Faculty\nAdjunct Faculty\nContributing Faculty\nAcademic and Research Fellows\nEmeritus/Emerita\nBy Academic Areas\nArts\nBiology\nBusiness\nChemistry\nChinese Language\nComputer Science\nData Science\nEconomics\nEngineering\nEnglish for Academic Purposes\nGlobal China Studies\nGlobal Perspectives on Society\nHumanities\nInteractive Media Arts\nInteractive Media Business\nLaw\nMathematics\nNeural Science\nPhysics\nSocial Sciences\nSocial Work\nTESOL\nWorld Languages\nWriting",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Faculty Directory"
+    },
+    {
+      "type": "p",
+      "text": "By Appointment"
+    },
+    {
+      "type": "li",
+      "text": "All Ranks"
+    },
+    {
+      "type": "li",
+      "text": "Full-Time Faculty"
+    },
+    {
+      "type": "li",
+      "text": "NYU Affiliated Faculty"
+    },
+    {
+      "type": "li",
+      "text": "Visiting Faculty"
+    },
+    {
+      "type": "li",
+      "text": "Adjunct Faculty"
+    },
+    {
+      "type": "li",
+      "text": "Contributing Faculty"
+    },
+    {
+      "type": "li",
+      "text": "Academic and Research Fellows"
+    },
+    {
+      "type": "li",
+      "text": "Emeritus/Emerita"
+    },
+    {
+      "type": "p",
+      "text": "By Academic Areas"
+    },
+    {
+      "type": "li",
+      "text": "Arts"
+    },
+    {
+      "type": "li",
+      "text": "Biology"
+    },
+    {
+      "type": "li",
+      "text": "Business"
+    },
+    {
+      "type": "li",
+      "text": "Chemistry"
+    },
+    {
+      "type": "li",
+      "text": "Chinese Language"
+    },
+    {
+      "type": "li",
+      "text": "Computer Science"
+    },
+    {
+      "type": "li",
+      "text": "Data Science"
+    },
+    {
+      "type": "li",
+      "text": "Economics"
+    },
+    {
+      "type": "li",
+      "text": "Engineering"
+    },
+    {
+      "type": "li",
+      "text": "English for Academic Purposes"
+    },
+    {
+      "type": "li",
+      "text": "Global China Studies"
+    },
+    {
+      "type": "li",
+      "text": "Global Perspectives on Society"
+    },
+    {
+      "type": "li",
+      "text": "Humanities"
+    },
+    {
+      "type": "li",
+      "text": "Interactive Media Arts"
+    },
+    {
+      "type": "li",
+      "text": "Interactive Media Business"
+    },
+    {
+      "type": "li",
+      "text": "Law"
+    },
+    {
+      "type": "li",
+      "text": "Mathematics"
+    },
+    {
+      "type": "li",
+      "text": "Neural Science"
+    },
+    {
+      "type": "li",
+      "text": "Physics"
+    },
+    {
+      "type": "li",
+      "text": "Social Sciences"
+    },
+    {
+      "type": "li",
+      "text": "Social Work"
+    },
+    {
+      "type": "li",
+      "text": "TESOL"
+    },
+    {
+      "type": "li",
+      "text": "World Languages"
+    },
+    {
+      "type": "li",
+      "text": "Writing"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/leon-eckert.jpg?itok=8fYUlzo7",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/egloff-nyusg-office-09-03-23.jpg?itok=8NSomX8-",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/egloff-nyusg-office-09-03-23-723d9dbc4a06.jpg",
+      "download_status": "downloaded",
+      "bytes": 11248,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/ilaf_elard.jpg?itok=QwTf9brV",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ilaf_elard-1326650055fe.jpg",
+      "download_status": "downloaded",
+      "bytes": 10481,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/eric_ossami_endo.jpg?itok=wKiyKPra",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/eric_ossami_endo-4b2b9688fc72.jpg",
+      "download_status": "downloaded",
+      "bytes": 10483,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/screen_shot_2024-06-24_at_10.24.39_am_49.png?itok=Vh7CYRql",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/final-Roberto%20Fernandez-2025%20fall.jpg?itok=zWOcvGLv",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/z_3541-selectedsmall_0.jpg?itok=y3Wcqp0i",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/z_3541-selectedsmall_0-2cbe7921de33.jpg",
+      "download_status": "downloaded",
+      "bytes": 12640,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/andy_garcia.jpg?itok=ZTsCfkOx",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/andy_garcia-77f512e52605.jpg",
+      "download_status": "downloaded",
+      "bytes": 11718,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/alexander_c.t._geppert_0.jpg?itok=0Ht0rm_h",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alexander_c.t._geppert_0-8870d4554777.jpg",
+      "download_status": "downloaded",
+      "bytes": 9426,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/final_2024.3.20niu_yue_da_xue_2428.jpg?itok=VFcFAZW2",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/final_2024.3.20niu_yue_da_xue_2428-8dc4b7db5af1.jpg",
+      "download_status": "downloaded",
+      "bytes": 13383,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/william_james_glover.jpg?itok=6mUjbFAQ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/william_james_glover-fbd4d4ae2b09.jpg",
+      "download_status": "downloaded",
+      "bytes": 11763,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/img_1978.jpg?itok=u0M_7Ra7",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/img_1978.jpg?itok=u0M_7Ra7 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/selected-capture_one_catalog0233_1.jpg?itok=AHMeMbTV",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/selected-capture_one_catalog0233_1-67c74e153a58.jpg",
+      "download_status": "downloaded",
+      "bytes": 14483,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/final-Beilei%20Gu-2025%20fall.jpg?itok=sId6p9td",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/final-Beilei-20Gu-2025-20fall-31213b203839.jpg",
+      "download_status": "downloaded",
+      "bytes": 11919,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/wu_ti_mu_lu_0428_selected_small.jpg?itok=8OhDCJgg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wu_ti_mu_lu_0428_selected_small-9f8ad079434a.jpg",
+      "download_status": "downloaded",
+      "bytes": 11139,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/xiaoya_gu.jpg?itok=ge9xR3EH",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/final-ChengHe%20Guan-2025%20fall.jpg?itok=dlObzN-t",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/retouched%202024.3.1%EF%BC%88%E6%9B%B9%EF%BC%890147.jpg?itok=Xb-n2HSl",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/retouched%202024.3.1%EF%BC%88%E6%9B%B9%EF%BC%890147.jpg?itok=Xb-n2HSl (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/expansion_20240717152407875.jpg?itok=iTkZlvLl",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/melanie_a_hackney.jpg?itok=pNYFGL_K",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/melanie_a_hackney-7eee2a6ebd13.jpg",
+      "download_status": "downloaded",
+      "bytes": 14814,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/gottfriedhaider.jpg?itok=9sL9SNJ6",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/gottfriedhaider-3821cd88f5cd.jpg",
+      "download_status": "downloaded",
+      "bytes": 7294,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/hall_brian_2022.jpeg?itok=U2sz1WmS",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/hall_brian_2022-8a0744509491.jpeg",
+      "download_status": "downloaded",
+      "bytes": 10379,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/selected-capture_one_catalog0299.jpg?itok=ihj1BU9f",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/selected-capture_one_catalog0299.jpg?itok=ihj1BU9f (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violat"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/selected-capture_one_catalog0092.jpg?itok=s1xGSHqi",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/selected-capture_one_catalog0092-c252260cb23a.jpg",
+      "download_status": "downloaded",
+      "bytes": 11987,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/profile_photo_2022_2.jpg?itok=rYV56M55",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/profile_photo_2022_2-17f2568140a4.jpg",
+      "download_status": "downloaded",
+      "bytes": 8261,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/selected-Capture%20One%20Catalog1087-lessen%20the%20shadow%20on%20my%20neck.jpg?itok=ILy5qvPn",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/selected-Capture-20One-20Catalog1087-lessen-20the-20-04e011431307.jpg",
+      "download_status": "downloaded",
+      "bytes": 12637,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/tyler_haupert-01.jpg?itok=zkd5OHGf",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/tyler_haupert-01-3c309e5f155e.jpg",
+      "download_status": "downloaded",
+      "bytes": 10107,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/retouched%202024.3.1%EF%BC%88%E6%9B%B9%EF%BC%890217.jpg?itok=KqtmpD8_",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/retouched-202024.3.1-EF-BC-88-E6-9B-B9-EF-BC-890217-f33e2f1a7dae.jpg",
+      "download_status": "downloaded",
+      "bytes": 15901,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/selected-Capture%20One%20Catalog1110.jpg?itok=323dN4Mx",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/anna_hopper.jpg?itok=d8YdsPt1",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/anna_hopper-a290c022fe7c.jpg",
+      "download_status": "downloaded",
+      "bytes": 17609,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/leon-eckert",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=289",
+      "text": "Interactive Media Arts",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jennifer-egloff",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=719",
+      "text": "Humanities",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=379",
+      "text": "Writing",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/ilaf-elard",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=202",
+      "text": "Economics",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/eric-endo",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=287",
+      "text": "Mathematics",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jana-fedtke",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/roberto-fernandez",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/cori-l-gabbard",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/andy-garcia",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/alexander-ct-geppert",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/katherine-anne-girvin",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=437",
+      "text": "Arts",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/william-glover",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=192",
+      "text": "Chemistry",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/marcela-godoy",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/amy-reed-goldman-emerita",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/beilei-gu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=785",
+      "text": "Chinese Language",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=206",
+      "text": "Computer Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/xiaoya-gu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/chenghe-guan",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=283",
+      "text": "Social Sciences",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/li-guo",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=716",
+      "text": "Data Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/siyao-guo",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/melanie-hackney",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=750",
+      "text": "World Languages",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/gottfried-haider",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/brian-j-hall",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/amir-hampel",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=290",
+      "text": "Global China Studies",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jin-han",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/yoonie-han",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/stephen-harder",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=187",
+      "text": "Law",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/tyler-haupert",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/viola-leqi-he",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/yun-mi-her",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/anna-hopper",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=749",
+      "text": "Interactive Media Business",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 70,
+  "crawled_at": "2026-06-09T04:34:57+00:00",
+  "sequence": 797
+}

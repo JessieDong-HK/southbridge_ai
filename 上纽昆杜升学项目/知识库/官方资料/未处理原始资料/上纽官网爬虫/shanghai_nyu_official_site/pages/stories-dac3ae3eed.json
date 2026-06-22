@@ -1,0 +1,252 @@
+{
+  "id": "stories-dac3ae3eed",
+  "url": "https://shanghai.nyu.edu/stories?page=8",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "stories",
+  "title": "People | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "People\nJessica Seobyn Ryu: Becoming Miss Korea\nProfessor and Students Work Together to Build an Intelligent Parking App\nFrom India to China, Tansen Sen’s Journey between Two Nations\nKatie Chen Mengzhu '18: Connecting Engineering and Empathy\nSetting a Standard: Mark West '17 Builds Equity in the Arts\nLena Scheen: Understanding China Through Its Fiction\nRoommates: Mao Jiayi ’22 and Farheen Foad ’22\nA Life Lived in Dialogue: Chancellor Tong Shijun\nYu Lizhong: A Founding Chancellor for Our Times\nAmy DeCillis '20: Bridging Cultures and Building Shanghai Dreams\nGraduate Student Spotlight: James Yang Zhi, M.A. ’20\nGraduate Student Spotlight: Jiyoung Kim, M.S. ’20",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "People"
+    },
+    {
+      "type": "h4",
+      "text": "Jessica Seobyn Ryu: Becoming Miss Korea"
+    },
+    {
+      "type": "h4",
+      "text": "Professor and Students Work Together to Build an Intelligent Parking App"
+    },
+    {
+      "type": "h4",
+      "text": "From India to China, Tansen Sen’s Journey between Two Nations"
+    },
+    {
+      "type": "h4",
+      "text": "Katie Chen Mengzhu '18: Connecting Engineering and Empathy"
+    },
+    {
+      "type": "h4",
+      "text": "Setting a Standard: Mark West '17 Builds Equity in the Arts"
+    },
+    {
+      "type": "h4",
+      "text": "Lena Scheen: Understanding China Through Its Fiction"
+    },
+    {
+      "type": "h4",
+      "text": "Roommates: Mao Jiayi ’22 and Farheen Foad ’22"
+    },
+    {
+      "type": "h4",
+      "text": "A Life Lived in Dialogue: Chancellor Tong Shijun"
+    },
+    {
+      "type": "h4",
+      "text": "Yu Lizhong: A Founding Chancellor for Our Times"
+    },
+    {
+      "type": "h4",
+      "text": "Amy DeCillis '20: Bridging Cultures and Building Shanghai Dreams"
+    },
+    {
+      "type": "h4",
+      "text": "Graduate Student Spotlight: James Yang Zhi, M.A. ’20"
+    },
+    {
+      "type": "h4",
+      "text": "Graduate Student Spotlight: Jiyoung Kim, M.S. ’20"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/miss_korea_123.jpg?itok=qSnELCVI",
+      "alt": "miss korea seobyn ryu banner2",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/miss_korea_123-f43dffc2eff3.jpg",
+      "download_status": "downloaded",
+      "bytes": 25210,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/11.20-400.jpg?itok=UnLyL0l7",
+      "alt": "he fangqing zhang zheng chen zhibin",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/homepage350.jpg?itok=iu5Mwo1s",
+      "alt": "sen-4",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/homepage350-c19ff0787bc6.jpg",
+      "download_status": "downloaded",
+      "bytes": 30694,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/katie-oblique-450.jpg?itok=VjQQx1pO",
+      "alt": "Chen speaks at podium at NYU Shanghai commencement",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/katie-oblique-450-a7aaab998175.jpg",
+      "download_status": "downloaded",
+      "bytes": 19940,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/cx2a0059.jpg?itok=7y-JdhuQ",
+      "alt": "Mark West looking thoughtful",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/cx2a0059-4344f04d13b2.jpg",
+      "download_status": "downloaded",
+      "bytes": 26210,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/05.11-940.jpg?itok=AUUrUIdx",
+      "alt": "picpic3w89ru83",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/05.11-940-4b711964cb0e.jpg",
+      "download_status": "downloaded",
+      "bytes": 24444,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/roommates_banner_image.jpg?itok=AV6rnCRi",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/2020-06-01_1.png?itok=D9XFVQYo",
+      "alt": "6020101",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2020-06-01_1-474dbfb2a181.png",
+      "download_status": "downloaded",
+      "bytes": 201244,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/2020-06-01.jpg?itok=XPy2dEEd",
+      "alt": "pinpincSHEH",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2020-06-01-5f19b728decb.jpg",
+      "download_status": "downloaded",
+      "bytes": 17206,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/image-4-940.jpg?itok=erMAo4aH",
+      "alt": "In soccer uniform",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/image-4-940-1a2eee1bdc2e.jpg",
+      "download_status": "downloaded",
+      "bytes": 21712,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/jamesnyu.jpg?itok=ZMMPZgo9",
+      "alt": "jameszhi",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/jamesnyu-93be7f6b411a.jpg",
+      "download_status": "downloaded",
+      "bytes": 28362,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/19-0908_110_meitu_1_2.jpg?itok=aQC2vva2",
+      "alt": "Jiyoung Kim 3",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/19-0908_110_meitu_1_2-b94b79cf5a45.jpg",
+      "download_status": "downloaded",
+      "bytes": 22959,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/stories/jessica-seobyn-ryu-becoming-miss-korea",
+      "text": "Jessica Seobyn Ryu: Becoming Miss Korea",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/professor-and-students-work-together-building-intelligent-parking-app",
+      "text": "Professor and Students Work Together to Build an Intelligent Parking App",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/india-china-tansen-sens-journey-between-two-nations",
+      "text": "From India to China, Tansen Sen’s Journey between Two Nations",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/katie-chen-mengzhu-18-connecting-engineering-and-empathy",
+      "text": "Katie Chen Mengzhu '18: Connecting Engineering and Empathy",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/setting-standard-mark-west-17-builds-equity-arts",
+      "text": "Setting a Standard: Mark West '17 Builds Equity in the Arts",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/lena-scheen-understanding-china-through-its-fiction",
+      "text": "Lena Scheen: Understanding China Through Its Fiction",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/roommates-mao-jiayi-22-and-farheen-foad-22",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/life-lived-dialogue-chancellor-tong-shijun",
+      "text": "A Life Lived in Dialogue: Chancellor Tong Shijun",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/yu-lizhong-founding-chancellor-our-times",
+      "text": "Yu Lizhong: A Founding Chancellor for Our Times",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/amy-decillis-20-bridging-cultures-and-building-shanghai-dreams",
+      "text": "Amy DeCillis '20: Bridging Cultures and Building Shanghai Dreams",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/graduate-student-spotlight-james-yang-zhi-ma-20",
+      "text": "Graduate Student Spotlight: James Yang Zhi, M.A. ’20",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/graduate-student-spotlight-jiyoung-kim-ms-20",
+      "text": "Graduate Student Spotlight: Jiyoung Kim, M.S. ’20",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 105,
+  "crawled_at": "2026-06-09T04:33:00+00:00",
+  "sequence": 643
+}

@@ -1,0 +1,512 @@
+{
+  "id": "news__putting-research-focus-fall-2025-undergraduate-research-symposium-95e3ebd69e",
+  "url": "https://shanghai.nyu.edu/news/putting-research-focus-fall-2025-undergraduate-research-symposium",
+  "canonical_url": "https://shanghai.nyu.edu/news/putting-research-focus-fall-2025-undergraduate-research-symposium",
+  "page_type": "news",
+  "title": "Putting Research in Focus: Fall 2025 Undergraduate Research Symposium",
+  "description": "Students presented their research milestones to the community at the Fall 2025 Undergraduate Research Symposium.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Putting Research in Focus: Fall 2025 Undergraduate Research Symposium\nTwitter\nFacebook\nWeibo\nThe Fall 2025 Undergraduate Research Symposium, held on November 21, provided a platform for students to present their research milestones to the NYU Shanghai community while exchanging ideas and feedback with peers and faculty mentors. Divided into three categories – Humanities, Social Science, and STEM, their original and rigorous research was a testament to faculty-student collaboration and mentorship. Vice Provost for Academic Affairs John Robertson, Dean of Arts and Sciences David Atwill, and Area Head of Data Science Professor Guo Li presented awards to student researchers at the ceremony.\nLeft: Chen Rui’an ‘28 discussing her research with judges Prof. Wang Zhaonan and Prof. Zhang Linmin; Right: audience at the symposium\nThis year’s judges said they were impressed with the students’ rigor and dedication to their research. “Research is open-ended, and is about trial and error. As a supplement to the regular curriculum, students need this experience to know what works for them, what doesn't, to be better prepared for their future career,” said one of the judges, Assistant Professor of Urban Studies and Computer Science Wang Zhaonan. Another judge, Assistant Professor of Global Public Health Han Jin, said she was impressed with the students’ understanding of their topic. “It felt as if we were listening to a graduate-level or conference seminar - yet these presenters are undergraduates,” she said.\nLeft: Xi Bingxin discussing her research with the audience; Right: Joanna Guo discussing her research with Chancellor Tong\nBelow are the winners of this semester's symposium. The awards for Best Research Project and Best Presentation of the three categories were selected by our judging panel, while the Most Popular Project was chosen by audience vote.\nHumanities\nBest Research Project\nResearchers: Zhou Jixuan ’28, Huang Jinkun ’28\nFaculty Mentor: Peio Zuazo-Garin\nProject: The Impact of Grading Mechanisms on Student Individual and Collaborative Outcomes\nProject Abstract: This project examines how grading mechanisms influence students’ effort allocation in group work and how they can reduce free-riding. Using a questionnaire-based behavioral simulation, participants allocated effort between individual and group tasks under Equal Grading, Rank-Based Weighting, Weighted Grading, and Repeated Collaboration. The square-root payoff function captured incentive-driven trade-offs. Results show that Equal Grading yields low cooperation, Rank-Based Weighting produces the highest contribution and fairness perception, and Weighted Grading offers moderate stability. Repeated collaboration increases cooperation in short rounds but strong feedback later reduces motivation. These findings provide practical guidance for designing fair, incentive-aligned group assessments.\nWhy did you choose your topic?\nZhou Jixuan: The inspiration for our topic comes from our experience in the first semester of freshman year. Many courses required group assignments and encouraged collaboration with students from different cultural backgrounds. We noticed that instructors used different grading approaches: some gave the same grade to all group members, while others combined group results with individual presentation performance.\nThrough discussions with classmates, we learned that some felt dissatisfied because they contributed much more than others but received the same grade, while others admitted benefiting from free-riding. We believe both situations undermine the purpose of group work. Besides improving communication among students, instructors could consider refining evaluation methods to better motivate fair and meaningful participation.\nWhat were you most surprised to find?\nHuang Jinkun: We were surprised by how closely the results matched our initial predictions. Students really did adjust their effort allocation under different grading mechanisms and tended to put more effort into the group task. And in repeated collaboration, people usually worked harder at the beginning, but later on, once they felt they had built a good reputation, they were more likely to slow down.\nBest Presentation\nResearcher: Mathew Obsequio Ponon ’26\nFaculty Mentor: Gottfried Haider\nProject: Contribution to Open Source Web-based Machine Learning: Enabling Sequential Data Modeling in ml5.js for Educational and Artistic Applications\nProject Abstract: Sequential data modeling remains largely inaccessible to educational and creative coding communities due to implementation complexity. This project addressed this gap by integrating LSTM and CNN architectures into ml5.js, an open-source machine learning library designed for accessibility. The implementation extended ml5.js's existing Neural Network method with additional tasks supporting temporal and spatial data processing. Practical applications were developed to demonstrate functionality, including real-time sign language classification and weather prediction systems. The feature abstracts TensorFlow.js operations into user-friendly APIs consistent with ml5.js design principles. Currently maintained as an experimental branch, the implementation has been adopted by students for course projects, validating its educational utility and demonstrating successful democratization of advanced machine learning techniques for non-technical audiences.‌\n‌What was it like working with your mentor?\nAll of my success in my research I attribute to my mentor. I got this opportunity by accidentally bumping into him in the IT desk. I have never met nor talked to him before but he was glad to have me work with him after a brief talk. He always gave pragmatic solutions when necessary and pointed out things that needed to be more thought of. With our weekly meetings we had discussions and he’d give a lot of advice as he is knowledgeable in many domains which allowed him to see the bigger picture. This big picture thinking was actually helpful especially for my research, since not only did we deal with technical things, we also focused on user-centered design and the future of this project.\nWhat aspect of the research were you most surprised about or impressed you the most?\nAfter working on the research, someone actually used the specific feature that I worked on for their ITP capstone project. They used it for something I did not expect to be used for, which was for machine learning in dance. Seeing someone use something I worked for something I couldn’t really imagine made the purpose of my research much more meaningful.\nSocial Science\nBest Research Project\nResearchers: Cheng Xiaohan ’26, Yuan Zhiteng ’26\nFaculty Mentor: Wu Xiaogang\nProject: Class Differences in Well-being among Chinese College Students: a Chain Mediation Analysis of College Process\nProject Abstract: Previous literature has positioned college as an “equalizer,” with equity mainly framed in terms of equal access to admission and upward social mobility. However, this perspective has left a gap in understanding the inequalities that may arise during the educational process. Using data from the Beijing College Students Panel Survey, this study examines the relationship between family socioeconomic status (SES) and students’ mental well-being, and the mechanisms underlying this relationship. Students from lower-SES backgrounds experience higher mental distress. While students’ academic performance shows no mediation effect, this relationship is fully mediated by students’ study efficacy, and partly mediated by their leadership roles and club participation. Our study strengthens the understanding of contemporary Chinese university students and reflects on the “college as a great equalizer” theory, social reproduction, and social equality in contemporary China.\nWhat was it like working with your faculty mentor?\nBoth: Professor Wu provided us with a very solid and comprehensive dataset and detailed feedback, which made our results significant and gave us the confidence to make stronger arguments. Throughout our research, we also received support from other Social Science faculty members. As beginners in quantitative methods, we benefited greatly from Professor Miao Jia’s supervision of our methodological approach, and Professor Chen Zixi recommended online tutorials that strengthened our STATA skill.\nWhat challenges did you face and how did you overcome them?\nXiaohan: My biggest challenge was actually regular meetings with our faculty mentor. Before each meeting, I would put a lot of pressure on myself, always hoping to present “satisfactory” progress from the past two weeks. When I felt I hadn’t made much progress, I became very anxious. But our mentor was always incredibly supportive to help us navigate the challenges beginners inevitably encounter. I’m also grateful that Zhiteng talked me through my anxiety, which gradually changed the way I viewed my relationship with my mentor.\nZhiteng: Two years ago, we started this project when I was a sophomore. My biggest challenge was that I didn’t know how to use statistical software at that time. I had learned statistical theory before, but I had never applied it. Then suddenly I had to run models and conduct a mediation test, mastering everything within two months. But thanks to the guidance and encouragement from our mentors and Xiaohan, I learned step by step. In the end, I realized that no matter how low your starting point is, you can still overcome challenges.\nBest Presentation\nResearcher: Kayla Brackett ’26\nFaculty Mentor: Chen Zixi\nProject: Constructing the Outsider: Anti-Immigrant and Separatist Discourses on X (Twitter) In the U.S. and U.K.\nProject Abstract: Populist movements in the United States and the United Kingdom increasingly frame immigration as a threat to national identity and social cohesion. Drawing on the work of Franz Fanon, this project applies Epistemic Network Analysis (ENA) to examine how anti-immigrant and separatist narratives circulated on X (formerly Twitter) between 2017 and 2025. A pilot dataset of 100 tweets from verified political and government accounts was manually coded to identify rhetorical frames, including Security Threat, Cultural Incompatibility, and Dehumanizing Language. The analysis reveals that platform dynamics can amplify exclusionary rhetoric, showing how elite-driven discourse reproduces colonial hierarchies of belonging in digital spaces.\nWhy did you choose your topic?\nI chose my topic because of my growing interest in migration politics, history, and digital communication, especially after my study-away in London. There, I took an immigration course and wrote several papers about race, immigration, and politics. I fell in love with the research and began to see parallels between what I was writing and what I was witnessing in London and around the world. I became really curious about how anti-immigrant narratives circulate online and if/how powerful accounts can shape public sentiment. This project allowed me to connect my interests in nationalism, media, and identity while examining an issue that feels urgent and deeply personal.\nWhat challenges did you face and how did you overcome them?\nThis was my first time doing actual quantitative research and using a quantitative tool. I had to manually code each tweet, which was extremely time-consuming but ultimately helped me better understand my data. Learning ENA was another challenge, especially figuring out how to structure my dataset, interpret the visualizations, and troubleshoot errors. I spent much time asking questions, watching tutorials, and learning through trial and error. Because this is a pilot study that will grow into my capstone, working through these hurdles now has helped me build a stronger foundation and feel more prepared for the next stage of the project. I was really impressed by how ENA helped me visualize the patterns behind the separatist discourse. Seeing themes like security threats and dehumanizing language cluster together so clearly made the connections much more tangible, and it showed me how powerful analytical tools can be in revealing dynamics that aren’t always obvious at first glance.\nSTEM\nBest Research Project\nResearcher: Ashley Chen ’26\nFaculty Mentor: Shen Hua\nProject: Acoustic Embedding for Deepfake Detection and Prevention\nProject Abstract: Falsified videos, in particular, deepfakes, have become widely popular and fairly easy to produce in the last couple of years. Deepfakes have the power to exploit the platform of highly influential figures by impersonating them, leading to many instances of financial loss and political disruption. We propose a physical signature framework to create and embed dynamic signatures physically in order to secure videos at their digital creation. Specifically, this project focuses on audio, using echo hiding to encode live transcriptions from speeches in audio playback.\nWhat did you learn from this research experience?\nOne of the most important lessons I have learned from my mentors is to emphasize the motivation of the work. Usually, it will consist of a broader impact that affects the audience, providing a common understanding for why the research is important. In computer science, we can get so caught up in the things we do—such as coding or training a model—that we forget the broader purpose for doing those things in the first place. After a long period of coding, I like to take a step back to just think about what I’m doing and whether it makes sense.\nWhat advice would you give to other undergraduate students who want to engage in research?\nJust get started and ask a lot of questions. Younger students often think that they have to take a certain class on a specific subject or with a specific professor before they can get their hands-on research. Though classroom education is important for building a foundation, research is more about self-learning because you might be the first person ever to utilize an existing technique on a new domain or create a new technique altogether. You might think a question is “trivial” or “stupid” at first, but it could be the very thing that the other researchers have not thought about before.\nBest Presentation\nResearcher: Yolanda Huang ’26\nFaculty Mentor: Adeen Flinker\nProject: Neural Dynamics and Representations of Imagined Speech\nProject Abstract: Current speech neuroprostheses rely heavily on the decoding of neural representations in the motor cortex, which may be impaired in severely paralyzed patients. On the other hand, imagined speech activates non-motor areas but remains understudied. We applied machine learning approaches to analyze electrocorticography (ECoG) data, investigating what brain areas and neural features are active during imagined speech. We identified pre-articulatory and articulatory activity in the inferior frontal gyrus (IFG) and precentral gyrus (PrCG). Encoding models revealed acoustic-specific representation in IFG. Our findings highlight the potential of non-motor cortical signals to advance speech neuroprostheses for individuals with severe paralysis.\nWhy did you choose your topic?\nGrowing up as an oboist, I am interested in how our brain processes sounds, including music and speech. Studying away in New York and motivated by my interest in the neurobiology of speech processing, I joined Flinker Lab at NYU Langone as a Research Assistant. I then started to work on the project of imagined speech for two reasons.\nFirstly, imagining a sound in our head is something we do every day. When preparing for a presentation, I would imagine speaking in my mind, allowing me to speak fluently in the actual presentation. When practicing the oboe, I would imagine what the first note should sound like, making it more likely for me to play it in tune. Taken together, I noticed how the imagery of sounds assists with our production of the sounds, but we don't know what is going on in our brain during such a process. I was thus eager to study the brain mechanisms of imagined speech.\nSecondly, by reading journal articles, I realized that understanding neural mechanisms of imagined speech could potentially help paralytic patients. Speech is so important for our daily life, but some people are suffering from severe paralysis due to neurological disorders like stroke, and have lost the ability to control their muscles to speak.\nWhat did you learn from this research and presentation experience?\nI learned to explain my research to an audience outside my field of study. In my first draft of presentation scripts, I used a great many professional terminologies that people outside neuroscience have never heard of, making my presentation hard to understand. To address this issue, I practiced presenting to my friends of non-science majors, and consulted Flinker Lab members on improving my wording. Gradually I learned to explain my research in a way that everyone could understand.\nMost Popular Project\nResearcher: Gabriel Fernandes Mello Ferreira ’28\nFaculty Mentor: Huang Kangning\nProject: Unequal Heat: Temperature and Vulnerability in Rio’s Favelas\nProject Abstract: Rio de Janeiro’s slums, more known as Favelas, are disproportionately affected by Urban Heat Islands (UHIs) compared to wealthier areas of the city. Higher temperatures show social and environmental vulnerability in Rio’s communities. This research maps and analyzes UHIs in Rio’s informal settlements using satellite data to obtain Land surface temperature (LST) and temperature reductions (ΔT) for Green and Cool Roofs obtained from literature. By identifying the hottest neighborhoods and modeling temperature, it evaluates the effectiveness of potential mitigation strategies such as Cool Roofs and Green Roofs. Results are presented in an interactive map, making the analysis accessible to policymakers and communities to guide heat risk reduction.‌\nWhy did you choose your topic?\nBorn and raised in a low-income area of Rio, I grew up in a place without green spaces and with frequent heat waves. In the spring semester of 2025, my family back in Brazil were complaining about the heat. A couple of days later, I saw many people on social media saying how the South Zone of Rio (the wealthy area of the city) was colder compared to the North Zone (where most low-income neighborhoods are), mentioning how they felt relieved when they went to the South Zone. After that, I decided to discuss this topic for my Writing as Inquiry class assignment. I discovered that this phenomenon has a name: Urban Heat Island. So, I decided to continue this research and wrote a proposal for the First-Year Fellowship about how green roofs and cool roofs could help mitigate urban heat islands in Rio. This semester, I decided to continue that research and chose to simulate the use of these solutions in Rio.\nWhat advice would you give to other undergraduate students who want to engage in research?\nDon’t worry about the relationship between your research and your major; do research in what you like. I’m majoring in Electrical Engineering, and my project is on Environmental Studies. I’m passionate about the topic I chose, and I think that’s the most important thing.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Putting Research in Focus: Fall 2025 Undergraduate Research Symposium"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "The Fall 2025 Undergraduate Research Symposium, held on November 21, provided a platform for students to present their research milestones to the NYU Shanghai community while exchanging ideas and feedback with peers and faculty mentors. Divided into three categories – Humanities, Social Science, and STEM, their original and rigorous research was a testament to faculty-student collaboration and mentorship. Vice Provost for Academic Affairs John Robertson, Dean of Arts and Sciences David Atwill, and Area Head of Data Science Professor Guo Li presented awards to student researchers at the ceremony."
+    },
+    {
+      "type": "figcaption",
+      "text": "Left: Chen Rui’an ‘28 discussing her research with judges Prof. Wang Zhaonan and Prof. Zhang Linmin; Right: audience at the symposium"
+    },
+    {
+      "type": "p",
+      "text": "This year’s judges said they were impressed with the students’ rigor and dedication to their research. “Research is open-ended, and is about trial and error. As a supplement to the regular curriculum, students need this experience to know what works for them, what doesn't, to be better prepared for their future career,” said one of the judges, Assistant Professor of Urban Studies and Computer Science Wang Zhaonan. Another judge, Assistant Professor of Global Public Health Han Jin, said she was impressed with the students’ understanding of their topic. “It felt as if we were listening to a graduate-level or conference seminar - yet these presenters are undergraduates,” she said."
+    },
+    {
+      "type": "figcaption",
+      "text": "Left: Xi Bingxin discussing her research with the audience; Right: Joanna Guo discussing her research with Chancellor Tong"
+    },
+    {
+      "type": "p",
+      "text": "Below are the winners of this semester's symposium. The awards for Best Research Project and Best Presentation of the three categories were selected by our judging panel, while the Most Popular Project was chosen by audience vote."
+    },
+    {
+      "type": "p",
+      "text": "Humanities"
+    },
+    {
+      "type": "li",
+      "text": "Best Research Project"
+    },
+    {
+      "type": "p",
+      "text": "Researchers: Zhou Jixuan ’28, Huang Jinkun ’28"
+    },
+    {
+      "type": "p",
+      "text": "Faculty Mentor: Peio Zuazo-Garin"
+    },
+    {
+      "type": "p",
+      "text": "Project: The Impact of Grading Mechanisms on Student Individual and Collaborative Outcomes"
+    },
+    {
+      "type": "p",
+      "text": "Project Abstract: This project examines how grading mechanisms influence students’ effort allocation in group work and how they can reduce free-riding. Using a questionnaire-based behavioral simulation, participants allocated effort between individual and group tasks under Equal Grading, Rank-Based Weighting, Weighted Grading, and Repeated Collaboration. The square-root payoff function captured incentive-driven trade-offs. Results show that Equal Grading yields low cooperation, Rank-Based Weighting produces the highest contribution and fairness perception, and Weighted Grading offers moderate stability. Repeated collaboration increases cooperation in short rounds but strong feedback later reduces motivation. These findings provide practical guidance for designing fair, incentive-aligned group assessments."
+    },
+    {
+      "type": "p",
+      "text": "Why did you choose your topic?"
+    },
+    {
+      "type": "p",
+      "text": "Zhou Jixuan: The inspiration for our topic comes from our experience in the first semester of freshman year. Many courses required group assignments and encouraged collaboration with students from different cultural backgrounds. We noticed that instructors used different grading approaches: some gave the same grade to all group members, while others combined group results with individual presentation performance."
+    },
+    {
+      "type": "p",
+      "text": "Through discussions with classmates, we learned that some felt dissatisfied because they contributed much more than others but received the same grade, while others admitted benefiting from free-riding. We believe both situations undermine the purpose of group work. Besides improving communication among students, instructors could consider refining evaluation methods to better motivate fair and meaningful participation."
+    },
+    {
+      "type": "p",
+      "text": "What were you most surprised to find?"
+    },
+    {
+      "type": "p",
+      "text": "Huang Jinkun: We were surprised by how closely the results matched our initial predictions. Students really did adjust their effort allocation under different grading mechanisms and tended to put more effort into the group task. And in repeated collaboration, people usually worked harder at the beginning, but later on, once they felt they had built a good reputation, they were more likely to slow down."
+    },
+    {
+      "type": "li",
+      "text": "Best Presentation"
+    },
+    {
+      "type": "p",
+      "text": "Researcher: Mathew Obsequio Ponon ’26"
+    },
+    {
+      "type": "p",
+      "text": "Faculty Mentor: Gottfried Haider"
+    },
+    {
+      "type": "p",
+      "text": "Project: Contribution to Open Source Web-based Machine Learning: Enabling Sequential Data Modeling in ml5.js for Educational and Artistic Applications"
+    },
+    {
+      "type": "p",
+      "text": "Project Abstract: Sequential data modeling remains largely inaccessible to educational and creative coding communities due to implementation complexity. This project addressed this gap by integrating LSTM and CNN architectures into ml5.js, an open-source machine learning library designed for accessibility. The implementation extended ml5.js's existing Neural Network method with additional tasks supporting temporal and spatial data processing. Practical applications were developed to demonstrate functionality, including real-time sign language classification and weather prediction systems. The feature abstracts TensorFlow.js operations into user-friendly APIs consistent with ml5.js design principles. Currently maintained as an experimental branch, the implementation has been adopted by students for course projects, validating its educational utility and demonstrating successful democratization of advanced machine learning techniques for non-technical audiences.‌"
+    },
+    {
+      "type": "p",
+      "text": "‌What was it like working with your mentor?"
+    },
+    {
+      "type": "p",
+      "text": "All of my success in my research I attribute to my mentor. I got this opportunity by accidentally bumping into him in the IT desk. I have never met nor talked to him before but he was glad to have me work with him after a brief talk. He always gave pragmatic solutions when necessary and pointed out things that needed to be more thought of. With our weekly meetings we had discussions and he’d give a lot of advice as he is knowledgeable in many domains which allowed him to see the bigger picture. This big picture thinking was actually helpful especially for my research, since not only did we deal with technical things, we also focused on user-centered design and the future of this project."
+    },
+    {
+      "type": "p",
+      "text": "What aspect of the research were you most surprised about or impressed you the most?"
+    },
+    {
+      "type": "p",
+      "text": "After working on the research, someone actually used the specific feature that I worked on for their ITP capstone project. They used it for something I did not expect to be used for, which was for machine learning in dance. Seeing someone use something I worked for something I couldn’t really imagine made the purpose of my research much more meaningful."
+    },
+    {
+      "type": "p",
+      "text": "Social Science"
+    },
+    {
+      "type": "li",
+      "text": "Best Research Project"
+    },
+    {
+      "type": "p",
+      "text": "Researchers: Cheng Xiaohan ’26, Yuan Zhiteng ’26"
+    },
+    {
+      "type": "p",
+      "text": "Faculty Mentor: Wu Xiaogang"
+    },
+    {
+      "type": "p",
+      "text": "Project: Class Differences in Well-being among Chinese College Students: a Chain Mediation Analysis of College Process"
+    },
+    {
+      "type": "p",
+      "text": "Project Abstract: Previous literature has positioned college as an “equalizer,” with equity mainly framed in terms of equal access to admission and upward social mobility. However, this perspective has left a gap in understanding the inequalities that may arise during the educational process. Using data from the Beijing College Students Panel Survey, this study examines the relationship between family socioeconomic status (SES) and students’ mental well-being, and the mechanisms underlying this relationship. Students from lower-SES backgrounds experience higher mental distress. While students’ academic performance shows no mediation effect, this relationship is fully mediated by students’ study efficacy, and partly mediated by their leadership roles and club participation. Our study strengthens the understanding of contemporary Chinese university students and reflects on the “college as a great equalizer” theory, social reproduction, and social equality in contemporary China."
+    },
+    {
+      "type": "p",
+      "text": "What was it like working with your faculty mentor?"
+    },
+    {
+      "type": "p",
+      "text": "Both: Professor Wu provided us with a very solid and comprehensive dataset and detailed feedback, which made our results significant and gave us the confidence to make stronger arguments. Throughout our research, we also received support from other Social Science faculty members. As beginners in quantitative methods, we benefited greatly from Professor Miao Jia’s supervision of our methodological approach, and Professor Chen Zixi recommended online tutorials that strengthened our STATA skill."
+    },
+    {
+      "type": "p",
+      "text": "What challenges did you face and how did you overcome them?"
+    },
+    {
+      "type": "p",
+      "text": "Xiaohan: My biggest challenge was actually regular meetings with our faculty mentor. Before each meeting, I would put a lot of pressure on myself, always hoping to present “satisfactory” progress from the past two weeks. When I felt I hadn’t made much progress, I became very anxious. But our mentor was always incredibly supportive to help us navigate the challenges beginners inevitably encounter. I’m also grateful that Zhiteng talked me through my anxiety, which gradually changed the way I viewed my relationship with my mentor."
+    },
+    {
+      "type": "p",
+      "text": "Zhiteng: Two years ago, we started this project when I was a sophomore. My biggest challenge was that I didn’t know how to use statistical software at that time. I had learned statistical theory before, but I had never applied it. Then suddenly I had to run models and conduct a mediation test, mastering everything within two months. But thanks to the guidance and encouragement from our mentors and Xiaohan, I learned step by step. In the end, I realized that no matter how low your starting point is, you can still overcome challenges."
+    },
+    {
+      "type": "li",
+      "text": "Best Presentation"
+    },
+    {
+      "type": "p",
+      "text": "Researcher: Kayla Brackett ’26"
+    },
+    {
+      "type": "p",
+      "text": "Faculty Mentor: Chen Zixi"
+    },
+    {
+      "type": "p",
+      "text": "Project: Constructing the Outsider: Anti-Immigrant and Separatist Discourses on X (Twitter) In the U.S. and U.K."
+    },
+    {
+      "type": "p",
+      "text": "Project Abstract: Populist movements in the United States and the United Kingdom increasingly frame immigration as a threat to national identity and social cohesion. Drawing on the work of Franz Fanon, this project applies Epistemic Network Analysis (ENA) to examine how anti-immigrant and separatist narratives circulated on X (formerly Twitter) between 2017 and 2025. A pilot dataset of 100 tweets from verified political and government accounts was manually coded to identify rhetorical frames, including Security Threat, Cultural Incompatibility, and Dehumanizing Language. The analysis reveals that platform dynamics can amplify exclusionary rhetoric, showing how elite-driven discourse reproduces colonial hierarchies of belonging in digital spaces."
+    },
+    {
+      "type": "p",
+      "text": "Why did you choose your topic?"
+    },
+    {
+      "type": "p",
+      "text": "I chose my topic because of my growing interest in migration politics, history, and digital communication, especially after my study-away in London. There, I took an immigration course and wrote several papers about race, immigration, and politics. I fell in love with the research and began to see parallels between what I was writing and what I was witnessing in London and around the world. I became really curious about how anti-immigrant narratives circulate online and if/how powerful accounts can shape public sentiment. This project allowed me to connect my interests in nationalism, media, and identity while examining an issue that feels urgent and deeply personal."
+    },
+    {
+      "type": "p",
+      "text": "What challenges did you face and how did you overcome them?"
+    },
+    {
+      "type": "p",
+      "text": "This was my first time doing actual quantitative research and using a quantitative tool. I had to manually code each tweet, which was extremely time-consuming but ultimately helped me better understand my data. Learning ENA was another challenge, especially figuring out how to structure my dataset, interpret the visualizations, and troubleshoot errors. I spent much time asking questions, watching tutorials, and learning through trial and error. Because this is a pilot study that will grow into my capstone, working through these hurdles now has helped me build a stronger foundation and feel more prepared for the next stage of the project. I was really impressed by how ENA helped me visualize the patterns behind the separatist discourse. Seeing themes like security threats and dehumanizing language cluster together so clearly made the connections much more tangible, and it showed me how powerful analytical tools can be in revealing dynamics that aren’t always obvious at first glance."
+    },
+    {
+      "type": "p",
+      "text": "STEM"
+    },
+    {
+      "type": "li",
+      "text": "Best Research Project"
+    },
+    {
+      "type": "p",
+      "text": "Researcher: Ashley Chen ’26"
+    },
+    {
+      "type": "p",
+      "text": "Faculty Mentor: Shen Hua"
+    },
+    {
+      "type": "p",
+      "text": "Project: Acoustic Embedding for Deepfake Detection and Prevention"
+    },
+    {
+      "type": "p",
+      "text": "Project Abstract: Falsified videos, in particular, deepfakes, have become widely popular and fairly easy to produce in the last couple of years. Deepfakes have the power to exploit the platform of highly influential figures by impersonating them, leading to many instances of financial loss and political disruption. We propose a physical signature framework to create and embed dynamic signatures physically in order to secure videos at their digital creation. Specifically, this project focuses on audio, using echo hiding to encode live transcriptions from speeches in audio playback."
+    },
+    {
+      "type": "p",
+      "text": "What did you learn from this research experience?"
+    },
+    {
+      "type": "p",
+      "text": "One of the most important lessons I have learned from my mentors is to emphasize the motivation of the work. Usually, it will consist of a broader impact that affects the audience, providing a common understanding for why the research is important. In computer science, we can get so caught up in the things we do—such as coding or training a model—that we forget the broader purpose for doing those things in the first place. After a long period of coding, I like to take a step back to just think about what I’m doing and whether it makes sense."
+    },
+    {
+      "type": "p",
+      "text": "What advice would you give to other undergraduate students who want to engage in research?"
+    },
+    {
+      "type": "p",
+      "text": "Just get started and ask a lot of questions. Younger students often think that they have to take a certain class on a specific subject or with a specific professor before they can get their hands-on research. Though classroom education is important for building a foundation, research is more about self-learning because you might be the first person ever to utilize an existing technique on a new domain or create a new technique altogether. You might think a question is “trivial” or “stupid” at first, but it could be the very thing that the other researchers have not thought about before."
+    },
+    {
+      "type": "li",
+      "text": "Best Presentation"
+    },
+    {
+      "type": "p",
+      "text": "Researcher: Yolanda Huang ’26"
+    },
+    {
+      "type": "p",
+      "text": "Faculty Mentor: Adeen Flinker"
+    },
+    {
+      "type": "p",
+      "text": "Project: Neural Dynamics and Representations of Imagined Speech"
+    },
+    {
+      "type": "p",
+      "text": "Project Abstract: Current speech neuroprostheses rely heavily on the decoding of neural representations in the motor cortex, which may be impaired in severely paralyzed patients. On the other hand, imagined speech activates non-motor areas but remains understudied. We applied machine learning approaches to analyze electrocorticography (ECoG) data, investigating what brain areas and neural features are active during imagined speech. We identified pre-articulatory and articulatory activity in the inferior frontal gyrus (IFG) and precentral gyrus (PrCG). Encoding models revealed acoustic-specific representation in IFG. Our findings highlight the potential of non-motor cortical signals to advance speech neuroprostheses for individuals with severe paralysis."
+    },
+    {
+      "type": "p",
+      "text": "Why did you choose your topic?"
+    },
+    {
+      "type": "p",
+      "text": "Growing up as an oboist, I am interested in how our brain processes sounds, including music and speech. Studying away in New York and motivated by my interest in the neurobiology of speech processing, I joined Flinker Lab at NYU Langone as a Research Assistant. I then started to work on the project of imagined speech for two reasons."
+    },
+    {
+      "type": "p",
+      "text": "Firstly, imagining a sound in our head is something we do every day. When preparing for a presentation, I would imagine speaking in my mind, allowing me to speak fluently in the actual presentation. When practicing the oboe, I would imagine what the first note should sound like, making it more likely for me to play it in tune. Taken together, I noticed how the imagery of sounds assists with our production of the sounds, but we don't know what is going on in our brain during such a process. I was thus eager to study the brain mechanisms of imagined speech."
+    },
+    {
+      "type": "p",
+      "text": "Secondly, by reading journal articles, I realized that understanding neural mechanisms of imagined speech could potentially help paralytic patients. Speech is so important for our daily life, but some people are suffering from severe paralysis due to neurological disorders like stroke, and have lost the ability to control their muscles to speak."
+    },
+    {
+      "type": "p",
+      "text": "What did you learn from this research and presentation experience?"
+    },
+    {
+      "type": "p",
+      "text": "I learned to explain my research to an audience outside my field of study. In my first draft of presentation scripts, I used a great many professional terminologies that people outside neuroscience have never heard of, making my presentation hard to understand. To address this issue, I practiced presenting to my friends of non-science majors, and consulted Flinker Lab members on improving my wording. Gradually I learned to explain my research in a way that everyone could understand."
+    },
+    {
+      "type": "p",
+      "text": "Most Popular Project"
+    },
+    {
+      "type": "p",
+      "text": "Researcher: Gabriel Fernandes Mello Ferreira ’28"
+    },
+    {
+      "type": "p",
+      "text": "Faculty Mentor: Huang Kangning"
+    },
+    {
+      "type": "p",
+      "text": "Project: Unequal Heat: Temperature and Vulnerability in Rio’s Favelas"
+    },
+    {
+      "type": "p",
+      "text": "Project Abstract: Rio de Janeiro’s slums, more known as Favelas, are disproportionately affected by Urban Heat Islands (UHIs) compared to wealthier areas of the city. Higher temperatures show social and environmental vulnerability in Rio’s communities. This research maps and analyzes UHIs in Rio’s informal settlements using satellite data to obtain Land surface temperature (LST) and temperature reductions (ΔT) for Green and Cool Roofs obtained from literature. By identifying the hottest neighborhoods and modeling temperature, it evaluates the effectiveness of potential mitigation strategies such as Cool Roofs and Green Roofs. Results are presented in an interactive map, making the analysis accessible to policymakers and communities to guide heat risk reduction.‌"
+    },
+    {
+      "type": "p",
+      "text": "Why did you choose your topic?"
+    },
+    {
+      "type": "p",
+      "text": "Born and raised in a low-income area of Rio, I grew up in a place without green spaces and with frequent heat waves. In the spring semester of 2025, my family back in Brazil were complaining about the heat. A couple of days later, I saw many people on social media saying how the South Zone of Rio (the wealthy area of the city) was colder compared to the North Zone (where most low-income neighborhoods are), mentioning how they felt relieved when they went to the South Zone. After that, I decided to discuss this topic for my Writing as Inquiry class assignment. I discovered that this phenomenon has a name: Urban Heat Island. So, I decided to continue this research and wrote a proposal for the First-Year Fellowship about how green roofs and cool roofs could help mitigate urban heat islands in Rio. This semester, I decided to continue that research and chose to simulate the use of these solutions in Rio."
+    },
+    {
+      "type": "p",
+      "text": "What advice would you give to other undergraduate students who want to engage in research?"
+    },
+    {
+      "type": "p",
+      "text": "Don’t worry about the relationship between your research and your major; do research in what you like. I’m majoring in Electrical Engineering, and my project is on Environmental Studies. I’m passionate about the topic I chose, and I think that’s the most important thing."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/fall_2025_undergraduate_research_symposium-01.jpg?itok=qA8XLRyP",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/fall_2025_undergraduate_research_symposium-01-9f6ba8883913.jpg",
+      "download_status": "downloaded",
+      "bytes": 85107,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Fall%202025%20Undergraduate%20Research%20Symposium-10.jpg",
+      "alt": "1",
+      "caption": "Left: Chen Rui’an ‘28 discussing her research with judges Prof. Wang Zhaonan and Prof. Zhang Linmin; Right: audience at the symposium",
+      "source": "img",
+      "local_path": "_shared/Fall-202025-20Undergraduate-20Research-20Symposium-1-40c299f6ae8f.jpg",
+      "download_status": "downloaded",
+      "bytes": 752556,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Fall%202025%20Undergraduate%20Research%20Symposium-02.jpg",
+      "alt": "1",
+      "caption": "Left: Xi Bingxin discussing her research with the audience; Right: Joanna Guo discussing her research with Chancellor Tong",
+      "source": "img",
+      "local_path": "_shared/Fall-202025-20Undergraduate-20Research-20Symposium-0-012689276927.jpg",
+      "download_status": "downloaded",
+      "bytes": 477219,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Fall%202025%20Undergraduate%20Research%20Symposium-08.jpg",
+      "alt": "1",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Fall-202025-20Undergraduate-20Research-20Symposium-0-e56360ec283a.jpg",
+      "download_status": "downloaded",
+      "bytes": 587565,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Fall%202025%20Undergraduate%20Research%20Symposium-09.jpg",
+      "alt": "3",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Fall-202025-20Undergraduate-20Research-20Symposium-0-2b59a92ffa7a.jpg",
+      "download_status": "downloaded",
+      "bytes": 604508,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Fall%202025%20Undergraduate%20Research%20Symposium-05.jpg",
+      "alt": "4",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Fall-202025-20Undergraduate-20Research-20Symposium-0-4ea0cb0feb57.jpg",
+      "download_status": "downloaded",
+      "bytes": 652150,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Fall%202025%20Undergraduate%20Research%20Symposium-06.jpg",
+      "alt": "5",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Fall-202025-20Undergraduate-20Research-20Symposium-0-82ff7e24c4fa.jpg",
+      "download_status": "downloaded",
+      "bytes": 606103,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Fall%202025%20Undergraduate%20Research%20Symposium-03.jpg",
+      "alt": "6",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Fall-202025-20Undergraduate-20Research-20Symposium-0-e7b208680d99.jpg",
+      "download_status": "downloaded",
+      "bytes": 572296,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Fall%202025%20Undergraduate%20Research%20Symposium-04.jpg",
+      "alt": "7",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Fall-202025-20Undergraduate-20Research-20Symposium-0-1dfb9843ba32.jpg",
+      "download_status": "downloaded",
+      "bytes": 600488,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Fall%202025%20Undergraduate%20Research%20Symposium-07.jpg",
+      "alt": "8",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Putting%20Research%20in%20Focus%3A%20Fall%202025%20Undergraduate%20Research%20Symposium&url=https%3A//shanghai.nyu.edu/news/putting-research-focus-fall-2025-undergraduate-research-symposium&status=Putting%20Research%20in%20Focus%3A%20Fall%202025%20Undergraduate%20Research%20Symposium%20https%3A//shanghai.nyu.edu/news/putting-research-focus-fall-2025-undergraduate-research-symposium",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/putting-research-focus-fall-2025-undergraduate-research-symposium&title=Putting%20Research%20in%20Focus%3A%20Fall%202025%20Undergraduate%20Research%20Symposium",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/putting-research-focus-fall-2025-undergraduate-research-symposium&title=Putting%20Research%20in%20Focus%3A%20Fall%202025%20Undergraduate%20Research%20Symposium",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/david-g-atwill",
+      "text": "David Atwill",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/li-guo",
+      "text": "Guo Li",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/zhaonan-wang",
+      "text": "Wang Zhaonan",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jin-han",
+      "text": "Han Jin",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/peio-zuazo-garin",
+      "text": "Peio Zuazo-Garin",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/gottfried-haider",
+      "text": "Gottfried Haider",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/xiaogang-wu",
+      "text": "Wu Xiaogang",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jia-miao",
+      "text": "Miao Jia’",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/zixi-chen",
+      "text": "Chen Zixi",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/hua-shen",
+      "text": "Shen Hua",
+      "internal": true
+    },
+    {
+      "url": "https://engineering.nyu.edu/faculty/adeen-flinker",
+      "text": "Adeen Flinker",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/kangning-ken-huang",
+      "text": "Huang Kangning",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 2988,
+  "crawled_at": "2026-06-09T04:33:10+00:00",
+  "sequence": 657
+}

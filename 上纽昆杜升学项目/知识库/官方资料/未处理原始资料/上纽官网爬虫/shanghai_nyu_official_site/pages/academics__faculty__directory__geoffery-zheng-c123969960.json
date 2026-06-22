@@ -1,0 +1,93 @@
+{
+  "id": "academics__faculty__directory__geoffery-zheng-c123969960",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/geoffery-zheng",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/geoffery-zheng",
+  "page_type": "academics",
+  "title": "Geoffery",
+  "description": "Professor Geoffery Zheng is an Assistant Professor of Finance at NYU Shanghai. Professor Zheng earned his Ph.D. at UCLA, along with a Bachelor of Science in Mathematics, a Bachelor of Arts in Economics, and a Bachelor of Arts in Physics from the University of Chicago. Prior to his doctoral studies,",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Geoffery Zheng\nSelect Publications\nSebastian Gryglewicz, Barney Hartman-Glaser, Geoffery Zheng (2019) Growth Options, Incentives, and Pay for Performance: Theory and Evidence. Management Science 66(3):1248-1277.\nPellegrino, Bruno, and Geoffery Zheng. “Quantifying the Impact of Red Tape on Investment: A Survey Data Approach.” Journal of Financial Economics., vol. 152, 2024, https://doi.org/10.1016/j.jfineco.2023.103763.\nEducation\nPhD, FinanceUCLA Anderson School of Management\nBS, MathematicsUniversity of Chicago\nBA, EconomicsUniversity of Chicago\nBA, PhysicsUniversity of Chicago\nFinancial Markets\nInvestor Heterogeneity\nMacroeconomics\nExecutive Compensation",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Geoffery Zheng"
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Sebastian Gryglewicz, Barney Hartman-Glaser, Geoffery Zheng (2019) Growth Options, Incentives, and Pay for Performance: Theory and Evidence. Management Science 66(3):1248-1277."
+    },
+    {
+      "type": "li",
+      "text": "Pellegrino, Bruno, and Geoffery Zheng. “Quantifying the Impact of Red Tape on Investment: A Survey Data Approach.” Journal of Financial Economics., vol. 152, 2024, https://doi.org/10.1016/j.jfineco.2023.103763."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, FinanceUCLA Anderson School of Management"
+    },
+    {
+      "type": "li",
+      "text": "BS, MathematicsUniversity of Chicago"
+    },
+    {
+      "type": "li",
+      "text": "BA, EconomicsUniversity of Chicago"
+    },
+    {
+      "type": "li",
+      "text": "BA, PhysicsUniversity of Chicago"
+    },
+    {
+      "type": "li",
+      "text": "Financial Markets"
+    },
+    {
+      "type": "li",
+      "text": "Investor Heterogeneity"
+    },
+    {
+      "type": "li",
+      "text": "Macroeconomics"
+    },
+    {
+      "type": "li",
+      "text": "Executive Compensation"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/geoffery_xin_zheng_.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://www.geoff-zheng.com",
+      "text": "http://www.geoff-zheng.com",
+      "internal": false
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jfineco.2023.103763",
+      "text": "https://doi.org/10.1016/j.jfineco.2023.103763",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 87,
+  "crawled_at": "2026-06-09T04:54:58+00:00",
+  "sequence": 2466
+}

@@ -1,0 +1,79 @@
+{
+  "id": "cn__campus-life__involvement__clubs-e93d9580f6",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/involvement/clubs",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/involvement/clubs",
+  "page_type": "cn",
+  "title": "学生社团与组织",
+  "description": "上海纽约大学设有Student Government、团总支、模联社团、戏剧社等多个学生社团和组织，满足学生多样的爱好需求，培养学生的领导才能，构建团结友好的上纽大社区。学校力争与学生组织合作，为学生提供互动交流、探索兴趣爱好以及结交志同道合伙伴的机会与平台。浏览学生社团目录，联系你感兴趣的学生组织；或访问“创办新社团”页面，了解如何建立新的学生组织。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "学生社团与组织\n上海纽约大学设有Student Government、团总支、模联社团、戏剧社等多个学生社团和组织，满足学生多样的爱好需求，培养学生的领导才能，构建团结友好的上纽大社区。学校力争与学生组织合作，为学生提供互动交流、探索兴趣爱好以及结交志同道合伙伴的机会与平台。\n浏览学生社团目录，联系你感兴趣的学生组织；或访问“创办新社团”页面，了解如何建立新的学生组织。\n学生社团目录\n创办新社团",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "学生社团与组织"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学设有Student Government、团总支、模联社团、戏剧社等多个学生社团和组织，满足学生多样的爱好需求，培养学生的领导才能，构建团结友好的上纽大社区。学校力争与学生组织合作，为学生提供互动交流、探索兴趣爱好以及结交志同道合伙伴的机会与平台。"
+    },
+    {
+      "type": "p",
+      "text": "浏览学生社团目录，联系你感兴趣的学生组织；或访问“创办新社团”页面，了解如何建立新的学生组织。"
+    },
+    {
+      "type": "h4",
+      "text": "学生社团目录"
+    },
+    {
+      "type": "h4",
+      "text": "创办新社团"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/activities-newpic-06.jpg",
+      "alt": "NYU Shanghai Health",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/activities-newpic-06.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/activities-newpic-07.jpg",
+      "alt": "Club Directory",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/activities-newpic-07.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/activities-newpic-08.jpg",
+      "alt": "Starting a New Club",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/activities-newpic-08.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/involvement/clubs/directory",
+      "text": "学生社团目录",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/involvement/clubs/starting",
+      "text": "创办新社团",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 20,
+  "crawled_at": "2026-06-09T04:36:48+00:00",
+  "sequence": 954
+}

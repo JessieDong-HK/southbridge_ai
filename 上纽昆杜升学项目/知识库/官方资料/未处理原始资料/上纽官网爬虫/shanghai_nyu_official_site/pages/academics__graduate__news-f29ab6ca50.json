@@ -1,0 +1,245 @@
+{
+  "id": "academics__graduate__news-f29ab6ca50",
+  "url": "https://shanghai.nyu.edu/academics/graduate/news?page=3",
+  "canonical_url": "https://shanghai.nyu.edu/academics/graduate/news",
+  "page_type": "academics",
+  "title": "Graduate News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Graduate News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Graduate News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/310_-_amiel_paz-01_0.jpg?itok=FgT0vpPC",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/qianxie_thumbnail_.png?itok=vNlZc9FP",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/berlin-17_thumbnail.jpg?itok=qBOwF9hv",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/wei_biao_ti_-1.png?itok=lfOQOMOi",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/wei_biao_ti_-1.png?itok=lfOQOMOi (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protoc"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/wechatimg26.png?itok=AJ6kElDs",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg26-03158057065e.png",
+      "download_status": "downloaded",
+      "bytes": 219147,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/msqf_students_in_the_nasdaq_studio_where_the_opening_bell_ceremony_was_held.jpeg?itok=liuu-u8S",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/msqf_students_in_the_nasdaq_studio_where_the_opening-6ebc3e76eb0a.jpeg",
+      "download_status": "downloaded",
+      "bytes": 25414,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/824_-_tesol_ma23_cao_rui-02.jpg?itok=keBv516G",
+      "alt": "cao rui tesol",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/824_-_tesol_ma23_cao_rui-02-fb5989ec9c79.jpg",
+      "download_status": "downloaded",
+      "bytes": 20088,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/untitled_mailing_label_2.63_x_1_in_2.png?itok=MWwxEfwg",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/untitled_mailing_label_2.63_x_1_in_2-2674abea44ae.png",
+      "download_status": "downloaded",
+      "bytes": 214404,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/copy_of_untitled_mailing_label_2.63_x_1_in_1.png?itok=ZGf1XvPF",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/copy_of_untitled_mailing_label_2.63_x_1_in_1-63e6bdf8e801.png",
+      "download_status": "downloaded",
+      "bytes": 244920,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/0_4.png?itok=_mrj2A6I",
+      "alt": "image",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/unnamed.png?itok=5eRZhGp5",
+      "alt": "image",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/unnamed-93a0ec2261fa.png",
+      "download_status": "downloaded",
+      "bytes": 132883,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/wechatimg506.jpeg?itok=F4P_s_MH",
+      "alt": "image",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg506-d75d88a25ca9.jpeg",
+      "download_status": "downloaded",
+      "bytes": 22323,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/untitled_mailing_label_2.63_x_1_in.png?itok=jvh4RYra",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/untitled_mailing_label_2.63_x_1_in-0a59049cc38c.png",
+      "download_status": "downloaded",
+      "bytes": 218918,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/web.jpg?itok=lHDMPDmt",
+      "alt": "OGAE Convocation",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/story/wechatimg63.jpeg?itok=Ee6cAJsM",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg63-1cf1e7083920.jpeg",
+      "download_status": "downloaded",
+      "bytes": 21857,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-awards-first-phd-chemistry-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/professor-qian-xie",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/ima-low-res-group-show-berlin",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/jessica-nestell-ma-tesol-23",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/yanqiu-wu-phd22",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-nyu-stern-programs-summer-2022-company-visit-recap",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/cao-rui-ma-tesol-23-turning-interest-profession",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/forrest-feng-ma-tesol-22-lawyer-who-loves-teaching-english",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/amanda-jiang-and-jesse-yu-ima-22",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/letian-kong-22",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/mingqi-pu-22",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/john-anderson-ma-tesol-20",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/professor-robin-harvey-teacher-teacher-maker",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-celebrates-122-graduates-2022-graduate-convocation-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/harry-hua-ma-tesol-22-teacher-students-shoes",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:42:52+00:00",
+  "sequence": 1509
+}

@@ -1,0 +1,36 @@
+{
+  "id": "zh-hans__news__-e6-ac-a2-e8-bf-8e-e6-96-b0-e6-95-99-e5-b8-88-e5-8a-a0-e5-85-a5-e6-98-86-e5-478dd3f9eb",
+  "url": "https://www.dukekunshan.edu.cn/zh-hans/news/%e6%ac%a2%e8%bf%8e%e6%96%b0%e6%95%99%e5%b8%88%e5%8a%a0%e5%85%a5%e6%98%86%e5%b1%b1%e6%9d%9c%e5%85%8b%e5%a4%a7%e5%ad%a6",
+  "canonical_url": "https://www.dukekunshan.edu.cn/zh-hans/news/欢迎新教师加入昆山杜克大学/",
+  "page_type": "zh-hans",
+  "title": "欢迎新教师加入昆山杜克大学",
+  "description": "",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "2024-09-29T03:34:01+00:00",
+  "sitemap_lastmod": "2024-09-29T03:34:01+00:00",
+  "text": "欢迎新教师加入昆山杜克大学",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "欢迎新教师加入昆山杜克大学"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-03T13:53:41+00:00",
+  "sequence": 443
+}

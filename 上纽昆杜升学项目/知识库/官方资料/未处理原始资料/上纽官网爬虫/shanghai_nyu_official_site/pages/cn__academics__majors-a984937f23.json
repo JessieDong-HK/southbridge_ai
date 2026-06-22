@@ -1,0 +1,340 @@
+{
+  "id": "cn__academics__majors-a984937f23",
+  "url": "https://shanghai.nyu.edu/cn/academics/majors",
+  "canonical_url": "https://shanghai.nyu.edu/cn/academics/majors",
+  "page_type": "cn",
+  "title": "上海纽约大学专业",
+  "description": "",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "上海纽约大学专业\n上海纽约大学实行通识教育核心课程的培养，设有19个本科专业及方向，提供多个跨学科的辅修专业课程。\n上海纽约大学专业\n宣传册",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "上海纽约大学专业"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学实行通识教育核心课程的培养，设有19个本科专业及方向，提供多个跨学科的辅修专业课程。"
+    },
+    {
+      "type": "h2",
+      "text": "上海纽约大学专业"
+    },
+    {
+      "type": "h2",
+      "text": "宣传册"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/ic-cs.png",
+      "alt": "Computer Science",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/ic-cs.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/ic-ds.png",
+      "alt": "数据科学",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/ic-ds.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/ic-econmics.png",
+      "alt": "经济学",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/ic-econmics.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/ic-gcs.png",
+      "alt": "全球中国学",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/ic-math.png",
+      "alt": "数学",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/images-29.png",
+      "alt": "分子科学",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/images-29.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/images-30.png",
+      "alt": "神经科学",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/images-30.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/images-31.png",
+      "alt": "物理学",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/images-31.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/biology",
+      "text": "Biology",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/biology",
+      "text": "生物科学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/chemistry",
+      "text": "Chemistry",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/chemistry",
+      "text": "化学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/economics",
+      "text": "Economics",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/economics",
+      "text": "经济学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/global-china-studies",
+      "text": "Global China Studies",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/global-china-studies",
+      "text": "世界史（全球中国学）",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/humanities",
+      "text": "Humanities",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/humanities",
+      "text": "世界史（综合人文)",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/honors-mathematics",
+      "text": "Honors Mathematics",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/honors-mathematics",
+      "text": "数学与应用数学（荣誉数学）",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/interactive-media-arts",
+      "text": "Interactive Media Arts",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/interactive-media-arts",
+      "text": "数字媒体技术（交互媒体艺术",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/interactive-media-and-business",
+      "text": "Interactive Media and Business",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/interactive-media-and-business",
+      "text": "数字媒体技术（交互媒体与商学）",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/mathematics",
+      "text": "Mathematics",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/mathematics",
+      "text": "数学与应用数学（数学）",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/neural-science",
+      "text": "Neural Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/neural-science",
+      "text": "神经科学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/physics",
+      "text": "Physics",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/physics",
+      "text": "物理学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/social-science",
+      "text": "Social Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/social-science",
+      "text": "世界史（社会科学）",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/self-designed-honors-major",
+      "text": "Self Designed Honors",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/self-designed-honors-major",
+      "text": "自主设计荣誉专业",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/business-and-finance",
+      "text": "Business and Finance",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/business-and-finance",
+      "text": "金融学（商学与金融）",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/business-and-marketing",
+      "text": "Business and Marketing",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/business-and-marketing",
+      "text": "金融学（商学与市场营销）",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/computer-science",
+      "text": "Computer Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/computer-science",
+      "text": "计算机科学与技术（计算机科学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/computer-systems-engineering",
+      "text": "Computer Systems Engineering",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/computer-systems-engineering",
+      "text": "计算机科学与技术（计算机工程）",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/data-science",
+      "text": "Data Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/data-science",
+      "text": "数据科学与大数据技术（数据科学）",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/electrical-and-systems-engineering",
+      "text": "Electrical and Systems Engineering",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/majors/electrical-and-systems-engineering",
+      "text": "电子信息工程 (电子工程)",
+      "internal": true
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/ComputerScienceDemo2023.pdf",
+      "text": "计算机科学",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/DataScienceDemo2023.pdf",
+      "text": "数据科学",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/nyush_economics_program_booklet.pdf",
+      "text": "经济学",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/GCSDemo2023.pdf",
+      "text": "全球中国学",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/nyush_mathematics_program_booklet.pdf",
+      "text": "数学",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/Molecular%20Science%20booklet%20Demo-11.12.pdf",
+      "text": "分子科学",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/Neuro%20booklet%20Demo_Oct.2022.pdf",
+      "text": "神经科学",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/nyush_physics_program_booklet.pdf",
+      "text": "物理学",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 6,
+  "crawled_at": "2026-06-09T04:36:28+00:00",
+  "sequence": 916
+}

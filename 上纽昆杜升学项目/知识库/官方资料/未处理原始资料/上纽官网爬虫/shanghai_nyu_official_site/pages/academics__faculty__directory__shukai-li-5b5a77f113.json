@@ -1,0 +1,87 @@
+{
+  "id": "academics__faculty__directory__shukai-li-5b5a77f113",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/shukai-li",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/shukai-li",
+  "page_type": "academics",
+  "title": "Shukai",
+  "description": "Shukai Li is an Assistant Professor of Operations and Business Analytics at New York University Shanghai. His research spans machine learning and AI, with a focus on both theoretical foundations and practical applications. His interests include the responsible use of AI and learning algorithms, risk",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Shukai Li\nSelect Publications\nLi, Shukai, and Sanjay Mehrotra. \"Numerical methods for integral equations of the second kind with nonsmooth solutions of bounded variation.\" SIAM Journal on Numerical Analysis 60.5 (2022): 2751-2780.\nLi, Shukai, and Sanjay Mehrotra. \"A new finite approximation method for evaluating steady-state performance of a continuous-state Markov chain with an application to queues with customer abandonment.\" Mathematics of Operations Research (2025).\nLi, Shukai, et al. \"Online learning for constrained assortment optimization under markov chain choice model.\" Operations research 73.1 (2025): 109-138.\nEducation\nPhD, Industrial Engineering & Management SciencesNorthwestern University\nBS, BAPeking University\nArtificial Intelligence\nStochastic System\nReinforcement Learning\nMachine Learning\nRevenue Management\nOperations Management",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Shukai Li"
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Li, Shukai, and Sanjay Mehrotra. \"Numerical methods for integral equations of the second kind with nonsmooth solutions of bounded variation.\" SIAM Journal on Numerical Analysis 60.5 (2022): 2751-2780."
+    },
+    {
+      "type": "li",
+      "text": "Li, Shukai, and Sanjay Mehrotra. \"A new finite approximation method for evaluating steady-state performance of a continuous-state Markov chain with an application to queues with customer abandonment.\" Mathematics of Operations Research (2025)."
+    },
+    {
+      "type": "li",
+      "text": "Li, Shukai, et al. \"Online learning for constrained assortment optimization under markov chain choice model.\" Operations research 73.1 (2025): 109-138."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Industrial Engineering & Management SciencesNorthwestern University"
+    },
+    {
+      "type": "li",
+      "text": "BS, BAPeking University"
+    },
+    {
+      "type": "li",
+      "text": "Artificial Intelligence"
+    },
+    {
+      "type": "li",
+      "text": "Stochastic System"
+    },
+    {
+      "type": "li",
+      "text": "Reinforcement Learning"
+    },
+    {
+      "type": "li",
+      "text": "Machine Learning"
+    },
+    {
+      "type": "li",
+      "text": "Revenue Management"
+    },
+    {
+      "type": "li",
+      "text": "Operations Management"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/IMG_0336.JPG",
+      "alt": "Shukai Li",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/IMG_0336-5bab6ca46d2b.jpg",
+      "download_status": "downloaded",
+      "bytes": 1361523,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 112,
+  "crawled_at": "2026-06-09T04:34:37+00:00",
+  "sequence": 777
+}

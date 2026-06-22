@@ -1,0 +1,181 @@
+{
+  "id": "stories__faculty-spotlight-guo-siyao-ae03af55d5",
+  "url": "https://shanghai.nyu.edu/stories/faculty-spotlight-guo-siyao",
+  "canonical_url": "https://shanghai.nyu.edu/stories/faculty-spotlight-guo-siyao",
+  "page_type": "stories",
+  "title": "Faculty Spotlight: Guo Siyao",
+  "description": "“To me, research is like walking in the dark. At some point, you will encounter a totally new understanding, like a sudden beam of light in the darkness. Everything becomes illuminated in one exquisite moment!”—Guo Siyao",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Faculty Spotlight: Guo Siyao\nTwitter\nFacebook\nWeibo\n“To me, research is like walking in the dark. At some point, you will encounter a totally new understanding, like a sudden beam of light in the darkness. Everything becomes illuminated in one exquisite moment!”\n—Guo Siyao\nGuo Siyao, a native of Hunan province, joined NYU Shanghai in 2019 from the Cybersecurity and Privacy Institute at Northeastern University in Boston, MA. An expert in theoretical computing, Guo’s research is essential to improving the security and privacy of telecommunications and the Internet. For Guo, little is more exciting than making a key breakthrough: “To me research is like walking in the dark. At some point, you will encounter a totally new understanding, like a sudden beam of light in the darkness. Everything becomes illuminated in one exquisite moment!”\nBesides teaching and research, Guo loves softball and plays on a women’s baseball team in Shanghai. “You need total focus in softball, but I also enjoy that feeling of letting go completely.” We joined Guo on the field at Shanghai Community Sports Club to discuss her research, life in academia, and softball.\nQ: What first drew you to computer science, and what made you decide to pursue a career as a researcher?\nA: I’ve loved math since I was a child. When I was filling in my preferred majors on my university applications, all of my answers were math related -- mathematics, computer science, physics, etc. I was later assigned to the computer science department at Beijing Normal University. I had planned to find a way to transfer to the mathematics department in my sophomore year, but after learning how to code and apply algorithms in my first year, and joining some programming competitions, I developed a strong interest in computers. So I stayed. You get a great feeling of accomplishment from realizing your ideas in code.\nQ: Your research interests include cryptography, computational complexity, and pseudorandomness. Can you explain these in layman's terms?\nA: These are all subdomains within the field of theoretical computer science, which involves using mathematics to build models of computers, and researching the computing power of computers. Computational complexity studies the computing resources needed to solve problems, such as time, storage space, etc. Cryptography started as a way to conduct private communication in open environments, including the Internet. Now the field has expanded to include electronic currency and blockchain.\nThere are not enough totally random numbers to meet the encryption needs of long messages, which is why we have the field of pseudorandomness. You can produce a massive amount of pseudo-random numbers based on a small number of totally random numbers, and apply the massive amount of pseudo-random numbers for purposes such as encryption.\nQ: What brought you to Shanghai? And why did you choose NYU Shanghai?\nA: I had been studying overseas for a while, and I really wanted to come back to China. I wanted to spend more time with my family. Shanghai is one of the most international cities in China, and NYU Shanghai’s open and relaxed international atmosphere have really won me over. Besides the academic environment here, I also really agree with the school’s approach to education. My colleagues really value teaching, and I love the small class sizes. The students are bright and lively. It’s really enjoyable to teach here. This school has a lot of energy.\nBefore I arrived here, I didn’t believe there was a school out there that would fit me so well, but after being here a semester, I couldn’t be happier.\nQ:Why do you love softball?\nA: Softball has been a big part of my life. It taught me how to have an optimistic and enduring mindset, strive for excellence and fight for my dreams. It also taught me to work with others.\nI first fell in love with softball when I watched the Japanese anime Touch as a child. I was drawn to the teamwork, passion, and leadership I saw in the series. It made me want to create my own softball story.\nIn college, I joined the women's softball team. My captain was my role model. She spent 5 hours every day training herself to be a pitcher. We had morning training at 6:30 am and practiced about 4-5 hours per day. I kept notes of what I learned and still remember how eager I was to improve.\nI continued playing in grad school at the Chinese University of Hong Kong. As team captain and catcher, I even led my team to the China University Baseball and Softball League Finals. After you go through something like that, you’re in it for life.\nQ: Do you have any advice for women who want to study computer science?\nA: I’ve been very pleased to see quite a few women in my classes here in Shanghai. I hope I will have been a positive influence, if they eventually choose careers in computer science. I try to give them support when they need it.\nI’d tell women who want to learn computer science -- don’t be afraid, don’t set limits for yourself. Get as much information about the situation as possible, and persist in your goal one step at a time. Do what you’re you are able to do to the best of your ability, and you’ll be able to do far more than you imagined.\nSee more faculty spotlights on Professor Maria E. Montoya, Professor Pierre Tarrès, Professor Teng Lu, and Professor Zhao Lu.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Faculty Spotlight: Guo Siyao"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "“To me, research is like walking in the dark. At some point, you will encounter a totally new understanding, like a sudden beam of light in the darkness. Everything becomes illuminated in one exquisite moment!”"
+    },
+    {
+      "type": "p",
+      "text": "—Guo Siyao"
+    },
+    {
+      "type": "p",
+      "text": "Guo Siyao, a native of Hunan province, joined NYU Shanghai in 2019 from the Cybersecurity and Privacy Institute at Northeastern University in Boston, MA. An expert in theoretical computing, Guo’s research is essential to improving the security and privacy of telecommunications and the Internet. For Guo, little is more exciting than making a key breakthrough: “To me research is like walking in the dark. At some point, you will encounter a totally new understanding, like a sudden beam of light in the darkness. Everything becomes illuminated in one exquisite moment!”"
+    },
+    {
+      "type": "p",
+      "text": "Besides teaching and research, Guo loves softball and plays on a women’s baseball team in Shanghai. “You need total focus in softball, but I also enjoy that feeling of letting go completely.” We joined Guo on the field at Shanghai Community Sports Club to discuss her research, life in academia, and softball."
+    },
+    {
+      "type": "p",
+      "text": "Q: What first drew you to computer science, and what made you decide to pursue a career as a researcher?"
+    },
+    {
+      "type": "p",
+      "text": "A: I’ve loved math since I was a child. When I was filling in my preferred majors on my university applications, all of my answers were math related -- mathematics, computer science, physics, etc. I was later assigned to the computer science department at Beijing Normal University. I had planned to find a way to transfer to the mathematics department in my sophomore year, but after learning how to code and apply algorithms in my first year, and joining some programming competitions, I developed a strong interest in computers. So I stayed. You get a great feeling of accomplishment from realizing your ideas in code."
+    },
+    {
+      "type": "p",
+      "text": "Q: Your research interests include cryptography, computational complexity, and pseudorandomness. Can you explain these in layman's terms?"
+    },
+    {
+      "type": "p",
+      "text": "A: These are all subdomains within the field of theoretical computer science, which involves using mathematics to build models of computers, and researching the computing power of computers. Computational complexity studies the computing resources needed to solve problems, such as time, storage space, etc. Cryptography started as a way to conduct private communication in open environments, including the Internet. Now the field has expanded to include electronic currency and blockchain."
+    },
+    {
+      "type": "p",
+      "text": "There are not enough totally random numbers to meet the encryption needs of long messages, which is why we have the field of pseudorandomness. You can produce a massive amount of pseudo-random numbers based on a small number of totally random numbers, and apply the massive amount of pseudo-random numbers for purposes such as encryption."
+    },
+    {
+      "type": "p",
+      "text": "Q: What brought you to Shanghai? And why did you choose NYU Shanghai?"
+    },
+    {
+      "type": "p",
+      "text": "A: I had been studying overseas for a while, and I really wanted to come back to China. I wanted to spend more time with my family. Shanghai is one of the most international cities in China, and NYU Shanghai’s open and relaxed international atmosphere have really won me over. Besides the academic environment here, I also really agree with the school’s approach to education. My colleagues really value teaching, and I love the small class sizes. The students are bright and lively. It’s really enjoyable to teach here. This school has a lot of energy."
+    },
+    {
+      "type": "p",
+      "text": "Before I arrived here, I didn’t believe there was a school out there that would fit me so well, but after being here a semester, I couldn’t be happier."
+    },
+    {
+      "type": "p",
+      "text": "Q:Why do you love softball?"
+    },
+    {
+      "type": "p",
+      "text": "A: Softball has been a big part of my life. It taught me how to have an optimistic and enduring mindset, strive for excellence and fight for my dreams. It also taught me to work with others."
+    },
+    {
+      "type": "p",
+      "text": "I first fell in love with softball when I watched the Japanese anime Touch as a child. I was drawn to the teamwork, passion, and leadership I saw in the series. It made me want to create my own softball story."
+    },
+    {
+      "type": "p",
+      "text": "In college, I joined the women's softball team. My captain was my role model. She spent 5 hours every day training herself to be a pitcher. We had morning training at 6:30 am and practiced about 4-5 hours per day. I kept notes of what I learned and still remember how eager I was to improve."
+    },
+    {
+      "type": "p",
+      "text": "I continued playing in grad school at the Chinese University of Hong Kong. As team captain and catcher, I even led my team to the China University Baseball and Softball League Finals. After you go through something like that, you’re in it for life."
+    },
+    {
+      "type": "p",
+      "text": "Q: Do you have any advice for women who want to study computer science?"
+    },
+    {
+      "type": "p",
+      "text": "A: I’ve been very pleased to see quite a few women in my classes here in Shanghai. I hope I will have been a positive influence, if they eventually choose careers in computer science. I try to give them support when they need it."
+    },
+    {
+      "type": "p",
+      "text": "I’d tell women who want to learn computer science -- don’t be afraid, don’t set limits for yourself. Get as much information about the situation as possible, and persist in your goal one step at a time. Do what you’re you are able to do to the best of your ability, and you’ll be able to do far more than you imagined."
+    },
+    {
+      "type": "p",
+      "text": "See more faculty spotlights on Professor Maria E. Montoya, Professor Pierre Tarrès, Professor Teng Lu, and Professor Zhao Lu."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/story",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/story/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/story/wechatimg413_0.jpeg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg413_0-6af097e20f0d.jpeg",
+      "download_status": "downloaded",
+      "bytes": 206826,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Faculty%20Spotlight%3A%20Guo%20Siyao&url=https%3A//shanghai.nyu.edu/stories/faculty-spotlight-guo-siyao&status=Faculty%20Spotlight%3A%20Guo%20Siyao%20https%3A//shanghai.nyu.edu/stories/faculty-spotlight-guo-siyao",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/stories/faculty-spotlight-guo-siyao&title=Faculty%20Spotlight%3A%20Guo%20Siyao",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/stories/faculty-spotlight-guo-siyao&title=Faculty%20Spotlight%3A%20Guo%20Siyao",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/siyao-guo",
+      "text": "Guo Siyao",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/faculty-spotlight-maria-e-montoya",
+      "text": "Maria E. Montoya",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/faculty-spotlight-pierre-tarres",
+      "text": "Pierre Tarrès",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/is/faculty-spotlight-teng-lu",
+      "text": "Teng Lu",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/is/faculty-spotlight-zhao-lu",
+      "text": "Zhao Lu",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 933,
+  "crawled_at": "2026-06-09T04:40:39+00:00",
+  "sequence": 1305
+}

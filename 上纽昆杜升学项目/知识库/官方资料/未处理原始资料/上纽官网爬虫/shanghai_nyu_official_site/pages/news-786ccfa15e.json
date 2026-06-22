@@ -1,0 +1,242 @@
+{
+  "id": "news-786ccfa15e",
+  "url": "https://shanghai.nyu.edu/news?page=77",
+  "canonical_url": "https://shanghai.nyu.edu/news",
+  "page_type": "news",
+  "title": "News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_4139_conew2__cover.jpg?itok=dzLavkAD",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_4139_conew2__cover-00facc1c541b.jpg",
+      "download_status": "downloaded",
+      "bytes": 29213,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/cover_photo_web_news.jpg?itok=ov84LpOQ",
+      "alt": "the 14th Kavli Futures Symposium on Neuroeconomics",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/cover_photo_web_news-be068d41f3dd.jpg",
+      "download_status": "downloaded",
+      "bytes": 28946,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/dsc01194_conew1__cover.jpg?itok=dpqAjkzL",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/dsc01194_conew1__cover-12dd356d5be0.jpg",
+      "download_status": "downloaded",
+      "bytes": 33625,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/royale__cover.jpg?itok=6qnX1cBT",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/royale__cover-ed5125ecb7a5.jpg",
+      "download_status": "downloaded",
+      "bytes": 16658,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_3527_conew1__cover.jpg?itok=PVzEibba",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_3527_conew1__cover-9f2b8698d2a1.jpg",
+      "download_status": "downloaded",
+      "bytes": 18283,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_1242_conew1__cover.jpg?itok=kpnlhnKQ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/img_1242_conew1__cover.jpg?itok=kpnlhnKQ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation o"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_1556_conew2__cover.jpg?itok=ea3gp3tA",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/img_1556_conew2__cover.jpg?itok=ea3gp3tA (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation o"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/student_gov_photo_conew1__cover.jpg?itok=4kAHK26R",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/photo_%281%29_conew1__cover.jpg?itok=APyTssuo",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/photo_%281%29_conew1__cover.jpg?itok=APyTssuo (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violat"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/service_fair_4_conew1__cover.jpg?itok=A2kUTjrH",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/service_fair_4_conew1__cover.jpg?itok=A2kUTjrH (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in viola"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_0002_conew1__cover.jpg?itok=yD5picYt",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_9796__cover.jpg?itok=12ZkNB9T",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/dscn1000__cover.jpg?itok=5evGgrhQ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/dscn1000__cover.jpg?itok=5evGgrhQ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of proto"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_9435_conew1__cover.jpg?itok=G2NCyYGQ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_9435_conew1__cover-4826fbe69f67.jpg",
+      "download_status": "downloaded",
+      "bytes": 32474,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/dsc_0101_copy__cover.jpg?itok=4FXX0dPg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-networking-night",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-hosts-14th-kavli-futures-symposium-neuroeconomics",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-career-fashion-show-student-models-hit-runway",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-student-cited-us-first-lady-michelle-obama-china-speech",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/new-zealand-educational-delegation-visit",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-faculty-visit-jingan-sculpture-park",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-holds-candidate-weekend-chinese-students",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/students-hold-inaugural-student-government-summit",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-club-fest",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-service-fair",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/new-semester-begins",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/j-term-students-build-skills-innovation-and-creativity",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/chancellor-yu-receives-2013-shanghai-education-notable-person-year-award",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-leadership-visits-lujiazui-campus",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/week-thanks",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:40:06+00:00",
+  "sequence": 1274
+}

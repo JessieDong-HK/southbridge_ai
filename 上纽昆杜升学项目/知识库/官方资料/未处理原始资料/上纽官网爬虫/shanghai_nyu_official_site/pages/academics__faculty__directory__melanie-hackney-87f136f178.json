@@ -1,0 +1,86 @@
+{
+  "id": "academics__faculty__directory__melanie-hackney-87f136f178",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/melanie-hackney",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/melanie-hackney",
+  "page_type": "academics",
+  "title": "Melanie",
+  "description": "Melanie Hackney is the Assistant Dean for Curriculum and a Clinical Associate Professor of French at NYU Shanghai. Prior to this appointment, she was a Lecturer in the Department of French Literature, Thought, and Culture at NYU, where she also served as the Assistant Director of Undergraduate",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Melanie Hackney\nMelanie Hackney is the Assistant Dean for Curriculum and a Clinical Associate Professor of French at NYU Shanghai. Prior to this appointment, she was a Lecturer in the Department of French Literature, Thought, and Culture at NYU, where she also served as the Assistant Director of Undergraduate Studies and Intermediate Coordinator for French language.\nSelect Publications\nHackney, Melanie. “Privy to the Game: Three Generations of Troubadour Micropoetry.” Tenso 31, (Spring 2016)\nAnderson, Bruce, Rachel Anderson, Annabelle Dolidon, Peter Golato, Melanie Hackney, Lori McMann, Kimberley Swanson. En avant Workbook and Lab Manual. McGraw-Hill Publishing Co., 2012\nEducation\nPhD, French StudiesLouisiana State University\nMA, FrenchUniversity of South Florida\nMedieval French Literatures and Languages\nFilm Cinema\nLanguage Pedagogy\nDigital Humanities\nPenning the Self(ie): Orality, Literacy, Digitality, and the Literary Subject\nTopics in Humanities",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Melanie Hackney"
+    },
+    {
+      "type": "p",
+      "text": "Melanie Hackney is the Assistant Dean for Curriculum and a Clinical Associate Professor of French at NYU Shanghai. Prior to this appointment, she was a Lecturer in the Department of French Literature, Thought, and Culture at NYU, where she also served as the Assistant Director of Undergraduate Studies and Intermediate Coordinator for French language."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Hackney, Melanie. “Privy to the Game: Three Generations of Troubadour Micropoetry.” Tenso 31, (Spring 2016)"
+    },
+    {
+      "type": "li",
+      "text": "Anderson, Bruce, Rachel Anderson, Annabelle Dolidon, Peter Golato, Melanie Hackney, Lori McMann, Kimberley Swanson. En avant Workbook and Lab Manual. McGraw-Hill Publishing Co., 2012"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, French StudiesLouisiana State University"
+    },
+    {
+      "type": "li",
+      "text": "MA, FrenchUniversity of South Florida"
+    },
+    {
+      "type": "li",
+      "text": "Medieval French Literatures and Languages"
+    },
+    {
+      "type": "li",
+      "text": "Film Cinema"
+    },
+    {
+      "type": "li",
+      "text": "Language Pedagogy"
+    },
+    {
+      "type": "li",
+      "text": "Digital Humanities"
+    },
+    {
+      "type": "li",
+      "text": "Penning the Self(ie): Orality, Literacy, Digitality, and the Literary Subject"
+    },
+    {
+      "type": "li",
+      "text": "Topics in Humanities"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/melanie_a_hackney.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 134,
+  "crawled_at": "2026-06-09T04:32:54+00:00",
+  "sequence": 630
+}

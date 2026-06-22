@@ -1,0 +1,49 @@
+{
+  "id": "about__institutional-research-483abd5f18",
+  "url": "https://shanghai.nyu.edu/about/institutional-research",
+  "canonical_url": "https://shanghai.nyu.edu/about/institutional-research",
+  "page_type": "about",
+  "title": "Institutional Research",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Institutional Research\nNYU Shanghai Institutional Research (IR) is an administrative function in response to internal and external needs of university data, such as data reporting, governmental assessments, accreditation, modeling, decision support, etc. IR works with various academic and administrative departments (AKA Data Owners) to collect, assemble, clean, and standardize existing operational data to create consistent cross-department datasets and store them in a data warehouse.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Institutional Research"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai Institutional Research (IR) is an administrative function in response to internal and external needs of university data, such as data reporting, governmental assessments, accreditation, modeling, decision support, etc. IR works with various academic and administrative departments (AKA Data Owners) to collect, assemble, clean, and standardize existing operational data to create consistent cross-department datasets and store them in a data warehouse."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/collaborate.png",
+      "alt": "Institutional Research",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/about/institutional-research/nyu-shanghai-at-a-glance",
+      "text": "View Historical Data(login required)",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/about/institutional-research/request-a-report",
+      "text": "Request a Report(login required)",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 65,
+  "crawled_at": "2026-06-09T04:28:34+00:00",
+  "sequence": 93
+}

@@ -1,0 +1,116 @@
+{
+  "id": "page__computer-systems-engineering-9b57efefdb",
+  "url": "https://shanghai.nyu.edu/page/computer-systems-engineering",
+  "canonical_url": "https://shanghai.nyu.edu/page/computer-systems-engineering",
+  "page_type": "page",
+  "title": "Computer Systems Engineering",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Computer Systems Engineering\nEngineering challenges of the 21st century are varied, complex, and cross-disciplinary. Ranging from the nano-scale to mega-projects, they are characterized by sustainability concerns, environmental and energy constraints, global sourcing, and humanitarian goals. In the face of global competition, dwindling natural resources and the complexity of societal needs, the leaders of technological enterprises will be those who can innovate, are inventive and entrepreneurial, and understand how technology is integrated within society.\nMinor Requirements:\nCSCI-SHU 11 Introduction to Programming OR\nCSCI-SHU 101 Introduction to Computer and Data Science\nChoose One:\nCENG-SHU 202 Computer Architecture\nCSCI-SHU 350 Embedded Computer Systems\nChoose One:\nCENG-SHU 202 Computer Architecture\nCSCI-SHU 350 Embedded Computer Systems\nCSCI-SHU 308 Computer Networking\nCSCI-SHU 360 Machine Learning\nFaculty Mentors\nFaculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory.\nArea Head of Engineering, Assistant Professor of Engineering, NYU Shanghai",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Computer Systems Engineering"
+    },
+    {
+      "type": "p",
+      "text": "Engineering challenges of the 21st century are varied, complex, and cross-disciplinary. Ranging from the nano-scale to mega-projects, they are characterized by sustainability concerns, environmental and energy constraints, global sourcing, and humanitarian goals. In the face of global competition, dwindling natural resources and the complexity of societal needs, the leaders of technological enterprises will be those who can innovate, are inventive and entrepreneurial, and understand how technology is integrated within society."
+    },
+    {
+      "type": "h3",
+      "text": "Minor Requirements:"
+    },
+    {
+      "type": "p",
+      "text": "CSCI-SHU 11 Introduction to Programming OR"
+    },
+    {
+      "type": "p",
+      "text": "CSCI-SHU 101 Introduction to Computer and Data Science"
+    },
+    {
+      "type": "p",
+      "text": "Choose One:"
+    },
+    {
+      "type": "p",
+      "text": "CENG-SHU 202 Computer Architecture"
+    },
+    {
+      "type": "p",
+      "text": "CSCI-SHU 350 Embedded Computer Systems"
+    },
+    {
+      "type": "p",
+      "text": "Choose One:"
+    },
+    {
+      "type": "p",
+      "text": "CENG-SHU 202 Computer Architecture"
+    },
+    {
+      "type": "p",
+      "text": "CSCI-SHU 350 Embedded Computer Systems"
+    },
+    {
+      "type": "p",
+      "text": "CSCI-SHU 308 Computer Networking"
+    },
+    {
+      "type": "p",
+      "text": "CSCI-SHU 360 Machine Learning"
+    },
+    {
+      "type": "h3",
+      "text": "Faculty Mentors"
+    },
+    {
+      "type": "p",
+      "text": "Faculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory."
+    },
+    {
+      "type": "p",
+      "text": "Area Head of Engineering, Assistant Professor of Engineering, NYU Shanghai"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/zhi_ye_zhao_2_1_0.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/zhi_ye_zhao_2_1_0-6cb3d0cd5d6f.jpg",
+      "download_status": "downloaded",
+      "bytes": 1529806,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/posting-minor",
+      "text": "Post a Minor",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory",
+      "text": "faculty directory",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/zhibin-chen",
+      "text": "Zhibin Chen",
+      "internal": true
+    },
+    {
+      "url": "https://docs.google.com/document/d/1n9NmDTvs92ERvuqkGhw5tvOweDaRxMjg_kgfC5caT0U/edit?usp=sharing",
+      "text": "Information for Advisor",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 197,
+  "crawled_at": "2026-06-09T04:41:26+00:00",
+  "sequence": 1382
+}

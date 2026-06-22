@@ -1,0 +1,78 @@
+{
+  "id": "cn__shizi__eric-parren-c1ffc00942",
+  "url": "https://shanghai.nyu.edu/cn/shizi/eric-parren",
+  "canonical_url": "https://shanghai.nyu.edu/cn/shizi/eric-parren",
+  "page_type": "cn",
+  "title": "Eric",
+  "description": "Eric Parren现任上海纽约大学交互媒体学艺术副教授。加入上海纽约大学前，他曾任美国设计艺术中心学院平面设计与交互设计讲师、加州大学洛杉矶分校媒体艺术设计讲师。Parren曾在包括林茨电子艺术节，ZKM | 艺术与媒体中心，Gray Area，探索博物馆，木街艺术中心画廊，银川当代美术馆，及盒子美术馆等地参展或演出。 教育背景加州大学洛杉矶分校 媒体艺术设计艺术硕士",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Eric Parren\nEric Parren现任上海纽约大学交互媒体学艺术副教授。加入上海纽约大学前，他曾任美国设计艺术中心学院平面设计与交互设计讲师、加州大学洛杉矶分校媒体艺术设计讲师。Parren曾在包括林茨电子艺术节，ZKM | 艺术与媒体中心，Gray Area，探索博物馆，木街艺术中心画廊，银川当代美术馆，及盒子美术馆等地参展或演出。\n教育背景\n加州大学洛杉矶分校 媒体艺术设计艺术硕士\n视觉音乐\n生成视听系统\n动态艺术\n人工智能\n声音艺术\nInteraction Lab\nRealtime Audiovisual Performance Systems\nTopics in Electronics & Physical Computing",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Eric Parren"
+    },
+    {
+      "type": "p",
+      "text": "Eric Parren现任上海纽约大学交互媒体学艺术副教授。加入上海纽约大学前，他曾任美国设计艺术中心学院平面设计与交互设计讲师、加州大学洛杉矶分校媒体艺术设计讲师。Parren曾在包括林茨电子艺术节，ZKM | 艺术与媒体中心，Gray Area，探索博物馆，木街艺术中心画廊，银川当代美术馆，及盒子美术馆等地参展或演出。"
+    },
+    {
+      "type": "h3",
+      "text": "教育背景"
+    },
+    {
+      "type": "li",
+      "text": "加州大学洛杉矶分校 媒体艺术设计艺术硕士"
+    },
+    {
+      "type": "li",
+      "text": "视觉音乐"
+    },
+    {
+      "type": "li",
+      "text": "生成视听系统"
+    },
+    {
+      "type": "li",
+      "text": "动态艺术"
+    },
+    {
+      "type": "li",
+      "text": "人工智能"
+    },
+    {
+      "type": "li",
+      "text": "声音艺术"
+    },
+    {
+      "type": "li",
+      "text": "Interaction Lab"
+    },
+    {
+      "type": "li",
+      "text": "Realtime Audiovisual Performance Systems"
+    },
+    {
+      "type": "li",
+      "text": "Topics in Electronics & Physical Computing"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/eric_parren_0.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 35,
+  "crawled_at": "2026-06-09T04:38:02+00:00",
+  "sequence": 1098
+}

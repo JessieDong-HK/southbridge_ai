@@ -1,0 +1,86 @@
+{
+  "id": "academics__faculty__directory__chen-zhao-1c162af7b0",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/chen-zhao",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/chen-zhao",
+  "page_type": "academics",
+  "title": "Chen",
+  "description": "I am an assistant professor at the Department of Computer Science, NYU Shanghai (Starting in Fall 2023).",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Chen Zhao\nSelect Publications\nDiffusion vs. autoregressive language models: A text embedding perspectiveSiyue Zhang, Yilun Zhao, Liyuan Geng, Arman Cohan, Anh Tuan Luu, Chen ZhaoEMNLP 2025\nRPDR: A Round-trip Prediction-Based Data Augmentation Framework for Long-Tail Question AnsweringYiming Zhang, Siyue Zhang, Junbo Zhao, Chen ZhaoEMNLP 2025\nInter-Passage Verification for Multi-evidence Multi-answer QABingsen Chen, Shengjie Wang, Xi Ye, Chen ZhaoFindings of ACL 2025\nTAPERA: Enhancing Faithfulness and Interpretability in Long-Form Table QA by Content Planning and Execution-based ReasoningYilun Zhao, Lyuhao Chen, Arman Cohan, Chen ZhaoACL 2024\nEducation\nPhD, Computer ScienceUniversity of Maryland, College Park\nBEng, Computer ScienceZhejiang University\nNatural language processing",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Chen Zhao"
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Diffusion vs. autoregressive language models: A text embedding perspectiveSiyue Zhang, Yilun Zhao, Liyuan Geng, Arman Cohan, Anh Tuan Luu, Chen ZhaoEMNLP 2025"
+    },
+    {
+      "type": "li",
+      "text": "RPDR: A Round-trip Prediction-Based Data Augmentation Framework for Long-Tail Question AnsweringYiming Zhang, Siyue Zhang, Junbo Zhao, Chen ZhaoEMNLP 2025"
+    },
+    {
+      "type": "li",
+      "text": "Inter-Passage Verification for Multi-evidence Multi-answer QABingsen Chen, Shengjie Wang, Xi Ye, Chen ZhaoFindings of ACL 2025"
+    },
+    {
+      "type": "li",
+      "text": "TAPERA: Enhancing Faithfulness and Interpretability in Long-Form Table QA by Content Planning and Execution-based ReasoningYilun Zhao, Lyuhao Chen, Arman Cohan, Chen ZhaoACL 2024"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Computer ScienceUniversity of Maryland, College Park"
+    },
+    {
+      "type": "li",
+      "text": "BEng, Computer ScienceZhejiang University"
+    },
+    {
+      "type": "li",
+      "text": "Natural language processing"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Chen%20Zhao%20Bio%20Photo.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/Chen%20Zhao%20Bio%20Photo.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://henryzhao5852.github.io",
+      "text": "https://henryzhao5852.github.io",
+      "internal": false
+    },
+    {
+      "url": "https://cs.shanghai.nyu.edu/home",
+      "text": "the Department of Computer Science, NYU Shanghai",
+      "internal": false
+    },
+    {
+      "url": "https://cds.nyu.edu/",
+      "text": "Center for Data Science, New York University",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 107,
+  "crawled_at": "2026-06-09T04:40:37+00:00",
+  "sequence": 1299
+}

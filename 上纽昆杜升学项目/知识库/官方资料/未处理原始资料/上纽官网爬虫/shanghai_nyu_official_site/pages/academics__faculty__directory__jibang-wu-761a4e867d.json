@@ -1,0 +1,86 @@
+{
+  "id": "academics__faculty__directory__jibang-wu-761a4e867d",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/jibang-wu",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/jibang-wu",
+  "page_type": "academics",
+  "title": "Jibang",
+  "description": "Jibang Wu is Assistant Professor of Information Technology, NYU Shanghai. His research lies at the interface between game theory, learning theory, and optimization, with a focus on modeling and solving multi-agent decision-making problems under complex, uncertain environments. His interests include",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Jibang Wu\nJibang Wu is Assistant Professor of Information Technology, NYU Shanghai. His research lies at the interface between game theory, learning theory, and optimization, with a focus on modeling and solving multi-agent decision-making problems under complex, uncertain environments. His interests include developing practical techniques to build incentive-aware AI agents with strategic intelligence and rationalizable behaviors, and designing mechanisms that align the economic incentives of users, model developers, and data providers to support more sustainable AI ecosystems.\nSelect Publications\n“A Truth Serum for Eliciting Self-Evaluations in Scientific Reviews” with Haifeng Xu, Yifan Guo, Weijie Su. Working Paper.\n“Contractual Reinforcement Learning: Pulling Arms with Invisible Hands.” with Siyu Chen, Mengdi Wang, Huazheng Wang, Haifeng Xu. Working Paper.\n\"Robust Stackelberg Equilibria.\" with Jiarui Gan, Minbiao Han, Haifeng Xu. EC 2023\n\"Sequential information design: Markov persuasion process and its efficient reinforcement learning.\" with Zixuan Zhang, Zhe Feng, Zhaoran Wang, Zhuoran Yang, Michael I Jordan, Haifeng Xu. EC 2022\n“Multi-Agent Learning for Iterative Dominance Elimination: Formal Barriers and New Algorithms.” with Haifeng Xu, Fan Yao. COLT, 2022.\nEducation\nPhD, Computer ScienceUniversity of Chicago\nAlgorithmic Economics\nAI Safety and Alignment\nMachine Learning\nMulti-Agent System",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Jibang Wu"
+    },
+    {
+      "type": "p",
+      "text": "Jibang Wu is Assistant Professor of Information Technology, NYU Shanghai. His research lies at the interface between game theory, learning theory, and optimization, with a focus on modeling and solving multi-agent decision-making problems under complex, uncertain environments. His interests include developing practical techniques to build incentive-aware AI agents with strategic intelligence and rationalizable behaviors, and designing mechanisms that align the economic incentives of users, model developers, and data providers to support more sustainable AI ecosystems."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "“A Truth Serum for Eliciting Self-Evaluations in Scientific Reviews” with Haifeng Xu, Yifan Guo, Weijie Su. Working Paper."
+    },
+    {
+      "type": "li",
+      "text": "“Contractual Reinforcement Learning: Pulling Arms with Invisible Hands.” with Siyu Chen, Mengdi Wang, Huazheng Wang, Haifeng Xu. Working Paper."
+    },
+    {
+      "type": "li",
+      "text": "\"Robust Stackelberg Equilibria.\" with Jiarui Gan, Minbiao Han, Haifeng Xu. EC 2023"
+    },
+    {
+      "type": "li",
+      "text": "\"Sequential information design: Markov persuasion process and its efficient reinforcement learning.\" with Zixuan Zhang, Zhe Feng, Zhaoran Wang, Zhuoran Yang, Michael I Jordan, Haifeng Xu. EC 2022"
+    },
+    {
+      "type": "li",
+      "text": "“Multi-Agent Learning for Iterative Dominance Elimination: Formal Barriers and New Algorithms.” with Haifeng Xu, Fan Yao. COLT, 2022."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Computer ScienceUniversity of Chicago"
+    },
+    {
+      "type": "li",
+      "text": "Algorithmic Economics"
+    },
+    {
+      "type": "li",
+      "text": "AI Safety and Alignment"
+    },
+    {
+      "type": "li",
+      "text": "Machine Learning"
+    },
+    {
+      "type": "li",
+      "text": "Multi-Agent System"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Shanghai%20Mascot_2.jpeg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/Shanghai%20Mascot_2.jpeg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 195,
+  "crawled_at": "2026-06-09T04:53:33+00:00",
+  "sequence": 2376
+}

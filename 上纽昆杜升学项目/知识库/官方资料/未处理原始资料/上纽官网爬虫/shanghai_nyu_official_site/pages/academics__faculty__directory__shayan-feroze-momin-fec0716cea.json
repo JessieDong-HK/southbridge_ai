@@ -1,0 +1,35 @@
+{
+  "id": "academics__faculty__directory__shayan-feroze-momin-fec0716cea",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/shayan-feroze-momin",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/shayan-feroze-momin",
+  "page_type": "academics",
+  "title": "Shayan Feroze",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Shayan Feroze Momin",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Shayan Feroze Momin"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Shanghai%20Mascot_10.jpeg",
+      "alt": "Shanghai Mascot",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Shanghai-20Mascot_10-86e2571a12a8.jpeg",
+      "download_status": "downloaded",
+      "bytes": 103793,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 3,
+  "crawled_at": "2026-06-09T04:34:51+00:00",
+  "sequence": 792
+}

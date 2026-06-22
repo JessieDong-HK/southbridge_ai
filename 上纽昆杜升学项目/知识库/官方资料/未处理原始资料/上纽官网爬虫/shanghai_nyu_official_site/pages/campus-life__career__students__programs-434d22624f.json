@@ -1,0 +1,87 @@
+{
+  "id": "campus-life__career__students__programs-434d22624f",
+  "url": "https://shanghai.nyu.edu/campus-life/career/students/programs",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/career/students/programs",
+  "page_type": "campus-life",
+  "title": "Graduate School Resources",
+  "description": "Read through our guides if you are considering graduate or professional programs.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Graduate School Resources\nRead through our guides if you are considering graduate or professional programs.\nRecommendation letters and essays are essential components of a graduate school application. Read through the guides below to prepare.\nThe NYU Shanghai Library also has test preparation and application essay writing resources on loan.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Graduate School Resources"
+    },
+    {
+      "type": "p",
+      "text": "Read through our guides if you are considering graduate or professional programs."
+    },
+    {
+      "type": "p",
+      "text": "Recommendation letters and essays are essential components of a graduate school application. Read through the guides below to prepare."
+    },
+    {
+      "type": "p",
+      "text": "The NYU Shanghai Library also has test preparation and application essay writing resources on loan."
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Graduate%20School%20Guide_0.pdf",
+      "text": "Graduate School Guide",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Business%20School%20Guide_0.pdf",
+      "text": "Business School Guide",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/law_school_guide.pdf",
+      "text": "Law School Guide",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/medical_school_guide_pdf_0.pdf",
+      "text": "Medical School Guide",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Recommendation%20Letter%20Guide.pdf",
+      "text": "Recommendation Letter Guide",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/0BwcUaMuh9eCUZEdIZ2VBVTZQOTQ/view?ts=6440e8fd&resourcekey=0-lcrQEtNRTimTZzu1YjAKaA",
+      "text": "Application Essay Guide",
+      "internal": false
+    },
+    {
+      "url": "http://guides.nyu.edu/c.php?g=277131&p=4038189",
+      "text": "NYU Shanghai Library",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising",
+      "text": "Academic Advising",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/support/advising/preprof/prehealth",
+      "text": "Pre-health Advising",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/support/advising/preprof/prelaw",
+      "text": "Pre-law Advising",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 49,
+  "crawled_at": "2026-06-09T04:32:13+00:00",
+  "sequence": 537
+}

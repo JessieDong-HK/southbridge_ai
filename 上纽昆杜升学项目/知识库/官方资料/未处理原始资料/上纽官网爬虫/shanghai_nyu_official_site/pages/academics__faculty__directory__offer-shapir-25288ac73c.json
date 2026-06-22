@@ -1,0 +1,102 @@
+{
+  "id": "academics__faculty__directory__offer-shapir-25288ac73c",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/offer-shapir",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/offer-shapir",
+  "page_type": "academics",
+  "title": "Offer",
+  "description": "Scholar of empirical finance, credit risk, and behavioral finance. Previously taught at Ben-Gurion University. Teaches Calculus Workshop at NYU Shanghai.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Offer Shapir\nOffer Shapir serves as the Undergraduate Coordinator for Business and Finance and is a Professor of Practice in Finance at NYU Shanghai. He earned his PhD in Economics from Ben Gurion University, Israel. He was awarded the NYU Shanghai Teaching Excellence Award (2023–2024) in recognition of his innovative, inclusive, and highly engaging teaching. Shapir’s research interests include empirical finance, credit risk, and capital markets. His work has been published in journals such as Journal of Banking & Finance, Journal of Corporate Finance, Journal of Economic Behavior & Organization, and Economics Letters.\nSelect Publications\nCountry financial development and the extension of trade credit by firms with market power. With Galil Koresh and Rodrigo Zeidan, Journal of Banking & Finance (2025), 107516.\nTesting the effect of serve order in tennis tiebreak. With Alex Krumer, Danny Cohen-Zada. Journal of Economic Behavior & Organization, (2018) 146, 106-115.\nChoking under pressure and gender: Evidence from professional tennis. With Alex Krumer, Danny Cohen-Zadaand Mosi Rosenboim. Journal of Economic Psychology, (2017) 61, 176-190.\nCash conversion cycle and value-enhancing operations: Theory and evidence for a free lunch. With Rodrigo Zeidan. Journal of Corporate Finance, (2017) 45, 203-219.\nThe determinants of CDS spreads, with Koresh Galil, Dan Amiram and Uri Ben‐Zion, Journal of Banking and Finance 41(2014), 271‐282.\nEducation\nPhD, EconomicsBen Gurion University\nMA, EconomicsBen Gurion University\nBusiness Independent Study\nCalculus Workshop for Business and Economics\nEconomics of Global Business\nFoundations of Finance\nIntermediate Macro Economics\nMicroeconomics\nPrinciples of Finance for Non-majors",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Offer Shapir"
+    },
+    {
+      "type": "p",
+      "text": "Offer Shapir serves as the Undergraduate Coordinator for Business and Finance and is a Professor of Practice in Finance at NYU Shanghai. He earned his PhD in Economics from Ben Gurion University, Israel. He was awarded the NYU Shanghai Teaching Excellence Award (2023–2024) in recognition of his innovative, inclusive, and highly engaging teaching. Shapir’s research interests include empirical finance, credit risk, and capital markets. His work has been published in journals such as Journal of Banking & Finance, Journal of Corporate Finance, Journal of Economic Behavior & Organization, and Economics Letters."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Country financial development and the extension of trade credit by firms with market power. With Galil Koresh and Rodrigo Zeidan, Journal of Banking & Finance (2025), 107516."
+    },
+    {
+      "type": "li",
+      "text": "Testing the effect of serve order in tennis tiebreak. With Alex Krumer, Danny Cohen-Zada. Journal of Economic Behavior & Organization, (2018) 146, 106-115."
+    },
+    {
+      "type": "li",
+      "text": "Choking under pressure and gender: Evidence from professional tennis. With Alex Krumer, Danny Cohen-Zadaand Mosi Rosenboim. Journal of Economic Psychology, (2017) 61, 176-190."
+    },
+    {
+      "type": "li",
+      "text": "Cash conversion cycle and value-enhancing operations: Theory and evidence for a free lunch. With Rodrigo Zeidan. Journal of Corporate Finance, (2017) 45, 203-219."
+    },
+    {
+      "type": "li",
+      "text": "The determinants of CDS spreads, with Koresh Galil, Dan Amiram and Uri Ben‐Zion, Journal of Banking and Finance 41(2014), 271‐282."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, EconomicsBen Gurion University"
+    },
+    {
+      "type": "li",
+      "text": "MA, EconomicsBen Gurion University"
+    },
+    {
+      "type": "li",
+      "text": "Business Independent Study"
+    },
+    {
+      "type": "li",
+      "text": "Calculus Workshop for Business and Economics"
+    },
+    {
+      "type": "li",
+      "text": "Economics of Global Business"
+    },
+    {
+      "type": "li",
+      "text": "Foundations of Finance"
+    },
+    {
+      "type": "li",
+      "text": "Intermediate Macro Economics"
+    },
+    {
+      "type": "li",
+      "text": "Microeconomics"
+    },
+    {
+      "type": "li",
+      "text": "Principles of Finance for Non-majors"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/offer_moshe_shapir.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/offer_moshe_shapir.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 253,
+  "crawled_at": "2026-06-09T04:35:40+00:00",
+  "sequence": 856
+}

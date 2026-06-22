@@ -1,0 +1,40 @@
+{
+  "id": "jet-popup__classic-92056a736b",
+  "url": "https://www.dukekunshan.edu.cn/jet-popup/classic",
+  "canonical_url": "https://www.dukekunshan.edu.cn/jet-popup/classic/",
+  "page_type": "jet-popup",
+  "title": "Classic",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2023-12-12T02:39:54+00:00",
+  "sitemap_lastmod": "2023-12-12T02:39:54+00:00",
+  "text": "Classic\nClassic",
+  "text_blocks": [
+    {
+      "type": "h2",
+      "text": "Classic"
+    },
+    {
+      "type": "h2",
+      "text": "Classic"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-03T13:49:35+00:00",
+  "sequence": 76
+}

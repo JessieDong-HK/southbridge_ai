@@ -1,0 +1,97 @@
+{
+  "id": "academics__non-degree__certificate-programs-c28319434e",
+  "url": "https://shanghai.nyu.edu/academics/non-degree/certificate-programs",
+  "canonical_url": "https://shanghai.nyu.edu/academics/non-degree/certificate-programs",
+  "page_type": "academics",
+  "title": "Certificate Programs",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Certificate Programs\nAs part of its non-degree portfolio, NYU Shanghai is developing high-impact certificate programs tailored toward enhanced knowledge and skills-building in various fields aligned with workforce needs. Certificate programs may consist of sequences of courses, teams of faculty, interdisciplinary curricula, and / or leverage clusters of university academic strength. Students can expect smaller-cohort learning that is highly relevant and practical to advancing in a given profession or one's industry.\nIf you are interested in certificate programs, we are eager to connect and hear from you.\nUpcoming Courses\nFrom Boardroom to Classroom: Foundations of University Teaching - Spring 2026\nSelected Program Features\nNYU Shanghai Hosts 2024 REITs Advanced Certificate Program\nStrengthening Palliative and End-of-Life Care in Shanghai",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Certificate Programs"
+    },
+    {
+      "type": "p",
+      "text": "As part of its non-degree portfolio, NYU Shanghai is developing high-impact certificate programs tailored toward enhanced knowledge and skills-building in various fields aligned with workforce needs. Certificate programs may consist of sequences of courses, teams of faculty, interdisciplinary curricula, and / or leverage clusters of university academic strength. Students can expect smaller-cohort learning that is highly relevant and practical to advancing in a given profession or one's industry."
+    },
+    {
+      "type": "p",
+      "text": "If you are interested in certificate programs, we are eager to connect and hear from you."
+    },
+    {
+      "type": "h3",
+      "text": "Upcoming Courses"
+    },
+    {
+      "type": "h4",
+      "text": "From Boardroom to Classroom: Foundations of University Teaching - Spring 2026"
+    },
+    {
+      "type": "h3",
+      "text": "Selected Program Features"
+    },
+    {
+      "type": "h4",
+      "text": "NYU Shanghai Hosts 2024 REITs Advanced Certificate Program"
+    },
+    {
+      "type": "h4",
+      "text": "Strengthening Palliative and End-of-Life Care in Shanghai"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/program.jpg",
+      "alt": "From Boardroom to Classroom: Foundations of University Teaching - Spring 2026",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Non-Degree-4-2.jpg",
+      "alt": "NYU Shanghai Hosts 2024 REITs Advanced Certificate Program",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Non-Degree-4-2-dd7c315791a1.jpg",
+      "download_status": "downloaded",
+      "bytes": 92438,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Non-Degree-4-3.jpg",
+      "alt": "Strengthening Palliative and End-of-Life Care in Shanghai",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/academics/non-degree/certificate-programs/spring2026",
+      "text": "From Boardroom to Classroom: Foundations of University Teaching - Spring 2026",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-hosts-2024-reits-advanced-certificate-program",
+      "text": "NYU Shanghai Hosts 2024 REITs Advanced Certificate Program",
+      "internal": true
+    },
+    {
+      "url": "https://socialwork.nyu.edu/news/2024/stengthening-shanghai-palliative-care.html",
+      "text": "Strengthening Palliative and End-of-Life Care in Shanghai",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 122,
+  "crawled_at": "2026-06-09T04:30:53+00:00",
+  "sequence": 383
+}

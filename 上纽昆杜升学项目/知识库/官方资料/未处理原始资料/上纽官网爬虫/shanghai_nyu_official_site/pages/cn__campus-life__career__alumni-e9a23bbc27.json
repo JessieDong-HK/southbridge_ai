@@ -1,0 +1,157 @@
+{
+  "id": "cn__campus-life__career__alumni-e9a23bbc27",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/career/alumni",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/career/alumni",
+  "page_type": "cn",
+  "title": "校友",
+  "description": "纽约大学拥有超过60万人的强大校友网络。职业发展中心欢迎来自纽约大学三大门户校园的所有校友参加上海纽约大学的校友活动，并成为我们蓬勃发展的国际社区的一份子。我们鼓励应届毕业生充分利用职业发展中心所提供的资源助力职业发展。校友们可通过参加社交活动、小组讨论、分享职场经历等方式，与在校学生互动。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "校友\n纽约大学拥有超过60万人的强大校友网络。职业发展中心欢迎来自纽约大学三大门户校园的所有校友参加上海纽约大学的校友活动，并成为我们蓬勃发展的国际社区的一份子。我们鼓励应届毕业生充分利用职业发展中心所提供的资源助力职业发展。校友们可通过参加社交活动、小组讨论、分享职场经历等方式，与在校学生互动。\n应届毕业生服务\n职业咨询与指导\n(毕业一年内)\n工作机会探索\n校友活动\n校友导师项目\n六人晚餐计划\n杰出校友分享会\n联系我们\n邮箱：shanghai.careerdevelopment@nyu.edu\n地区校友会联系邮箱\n上海: nyushalumni.shanghai@nyu.edu\n北京: nyushalumni.beijing@nyu.edu\n纽约: nyushalumni.newyork@nyu.edu",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "校友"
+    },
+    {
+      "type": "p",
+      "text": "纽约大学拥有超过60万人的强大校友网络。职业发展中心欢迎来自纽约大学三大门户校园的所有校友参加上海纽约大学的校友活动，并成为我们蓬勃发展的国际社区的一份子。我们鼓励应届毕业生充分利用职业发展中心所提供的资源助力职业发展。校友们可通过参加社交活动、小组讨论、分享职场经历等方式，与在校学生互动。"
+    },
+    {
+      "type": "h2",
+      "text": "应届毕业生服务"
+    },
+    {
+      "type": "h3",
+      "text": "职业咨询与指导"
+    },
+    {
+      "type": "h3",
+      "text": "(毕业一年内)"
+    },
+    {
+      "type": "h3",
+      "text": "工作机会探索"
+    },
+    {
+      "type": "h2",
+      "text": "校友活动"
+    },
+    {
+      "type": "h4",
+      "text": "校友导师项目"
+    },
+    {
+      "type": "h4",
+      "text": "六人晚餐计划"
+    },
+    {
+      "type": "h4",
+      "text": "杰出校友分享会"
+    },
+    {
+      "type": "p",
+      "text": "联系我们"
+    },
+    {
+      "type": "p",
+      "text": "邮箱：shanghai.careerdevelopment@nyu.edu"
+    },
+    {
+      "type": "p",
+      "text": "地区校友会联系邮箱"
+    },
+    {
+      "type": "p",
+      "text": "上海: nyushalumni.shanghai@nyu.edu"
+    },
+    {
+      "type": "p",
+      "text": "北京: nyushalumni.beijing@nyu.edu"
+    },
+    {
+      "type": "p",
+      "text": "纽约: nyushalumni.newyork@nyu.edu"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-7-01-11.jpg",
+      "alt": "NYU Executive Alumni Mentor Program",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-7-01-21.jpg",
+      "alt": "Dinner with Six",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-7-01-21.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-7-01-31.jpg",
+      "alt": "Distinguished Alumni Speaker Series",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-cdc-7-01-31-628b3da19f1b.jpg",
+      "download_status": "downloaded",
+      "bytes": 90290,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-7-01-3.jpg",
+      "alt": "Shanghai",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-cdc-7-01-3-02cc87cb4b26.jpg",
+      "download_status": "downloaded",
+      "bytes": 3334,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-7-01-4.jpg",
+      "alt": "Beijing",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-7-01-5.jpg",
+      "alt": "New York",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/mentor",
+      "text": "校友导师项目",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/alumni/dinner",
+      "text": "六人晚餐计划",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/alumni/speaker",
+      "text": "杰出校友分享会",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 39,
+  "crawled_at": "2026-06-09T04:36:59+00:00",
+  "sequence": 995
+}

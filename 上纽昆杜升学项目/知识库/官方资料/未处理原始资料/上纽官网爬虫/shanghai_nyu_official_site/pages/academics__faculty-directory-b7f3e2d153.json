@@ -1,0 +1,680 @@
+{
+  "id": "academics__faculty-directory-b7f3e2d153",
+  "url": "https://shanghai.nyu.edu/academics/faculty-directory?page=5",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty-directory",
+  "page_type": "academics",
+  "title": "Faculty Directory | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Faculty Directory\nBy Appointment\nAll Ranks\nFull-Time Faculty\nNYU Affiliated Faculty\nVisiting Faculty\nAdjunct Faculty\nContributing Faculty\nAcademic and Research Fellows\nEmeritus/Emerita\nBy Academic Areas\nArts\nBiology\nBusiness\nChemistry\nChinese Language\nComputer Science\nData Science\nEconomics\nEngineering\nEnglish for Academic Purposes\nGlobal China Studies\nGlobal Perspectives on Society\nHumanities\nInteractive Media Arts\nInteractive Media Business\nLaw\nMathematics\nNeural Science\nPhysics\nSocial Sciences\nSocial Work\nTESOL\nWorld Languages\nWriting",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Faculty Directory"
+    },
+    {
+      "type": "p",
+      "text": "By Appointment"
+    },
+    {
+      "type": "li",
+      "text": "All Ranks"
+    },
+    {
+      "type": "li",
+      "text": "Full-Time Faculty"
+    },
+    {
+      "type": "li",
+      "text": "NYU Affiliated Faculty"
+    },
+    {
+      "type": "li",
+      "text": "Visiting Faculty"
+    },
+    {
+      "type": "li",
+      "text": "Adjunct Faculty"
+    },
+    {
+      "type": "li",
+      "text": "Contributing Faculty"
+    },
+    {
+      "type": "li",
+      "text": "Academic and Research Fellows"
+    },
+    {
+      "type": "li",
+      "text": "Emeritus/Emerita"
+    },
+    {
+      "type": "p",
+      "text": "By Academic Areas"
+    },
+    {
+      "type": "li",
+      "text": "Arts"
+    },
+    {
+      "type": "li",
+      "text": "Biology"
+    },
+    {
+      "type": "li",
+      "text": "Business"
+    },
+    {
+      "type": "li",
+      "text": "Chemistry"
+    },
+    {
+      "type": "li",
+      "text": "Chinese Language"
+    },
+    {
+      "type": "li",
+      "text": "Computer Science"
+    },
+    {
+      "type": "li",
+      "text": "Data Science"
+    },
+    {
+      "type": "li",
+      "text": "Economics"
+    },
+    {
+      "type": "li",
+      "text": "Engineering"
+    },
+    {
+      "type": "li",
+      "text": "English for Academic Purposes"
+    },
+    {
+      "type": "li",
+      "text": "Global China Studies"
+    },
+    {
+      "type": "li",
+      "text": "Global Perspectives on Society"
+    },
+    {
+      "type": "li",
+      "text": "Humanities"
+    },
+    {
+      "type": "li",
+      "text": "Interactive Media Arts"
+    },
+    {
+      "type": "li",
+      "text": "Interactive Media Business"
+    },
+    {
+      "type": "li",
+      "text": "Law"
+    },
+    {
+      "type": "li",
+      "text": "Mathematics"
+    },
+    {
+      "type": "li",
+      "text": "Neural Science"
+    },
+    {
+      "type": "li",
+      "text": "Physics"
+    },
+    {
+      "type": "li",
+      "text": "Social Sciences"
+    },
+    {
+      "type": "li",
+      "text": "Social Work"
+    },
+    {
+      "type": "li",
+      "text": "TESOL"
+    },
+    {
+      "type": "li",
+      "text": "World Languages"
+    },
+    {
+      "type": "li",
+      "text": "Writing"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/lauriere_mathieu_2022.jpeg?itok=5A1wpB4w",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/lauriere_mathieu_2022-88476bb4731f.jpeg",
+      "download_status": "downloaded",
+      "bytes": 11774,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/lee_inmi_inwoo_2022.jpeg?itok=h8gAYjWY",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/lee_inmi_inwoo_2022-3781577b42a1.jpeg",
+      "download_status": "downloaded",
+      "bytes": 14346,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/profile_picture-sukjoon_lee.jpg?itok=KD3Qn96w",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/jeffrey_s_lehman.jpg?itok=HT3gkReZ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/jeffrey_s_lehman-f2af15129cee.jpg",
+      "download_status": "downloaded",
+      "bytes": 14115,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/img_1449.jpg?itok=dpP7IHkp",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_1449-c3f506fbf6d0.jpg",
+      "download_status": "downloaded",
+      "bytes": 9700,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/li_angran_2022.jpeg?itok=oibAYkjz",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/li_angran_2022-4ea394ea24a9.jpeg",
+      "download_status": "downloaded",
+      "bytes": 12046,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/li_chen_2022.jpeg?itok=ho4AT5TA",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/li_chen_2022-f3caf9c9521b.jpeg",
+      "download_status": "downloaded",
+      "bytes": 13885,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/gu_li.jpg?itok=4f_wFK-i",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/gu_li-60988384dcd7.jpg",
+      "download_status": "downloaded",
+      "bytes": 13169,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/xiaotao_li_0.jpg?itok=7y7Ou48g",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/xiaotao_li_0-e5e743d14b19.jpg",
+      "download_status": "downloaded",
+      "bytes": 11669,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/lili0.jpg?itok=77BZvSm7",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/lili0-24e6a97f1ebb.jpg",
+      "download_status": "downloaded",
+      "bytes": 10877,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/qing_li.jpg?itok=tGoVvnGh",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/qing_li-df60d1be7b8b.jpg",
+      "download_status": "downloaded",
+      "bytes": 16409,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/wenshu_li.jpg?itok=8-OPgXoo",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/li_profile_pic.JPG?itok=UaVFH5kJ",
+      "alt": "Yifei Li",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/li_profile_pic-5de45630046f.jpg",
+      "download_status": "downloaded",
+      "bytes": 11817,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/screen_shot_2024-06-24_at_10.24.39_am_57_0.png?itok=RMatJX_2",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/screen_shot_2024-06-24_at_10.24.39_am_57_0.png?itok=RMatJX_2 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/lian_jiani_2022.jpeg?itok=BwoefaNw",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/lian_jiani_2022-f9a4a78a3938.jpeg",
+      "download_status": "downloaded",
+      "bytes": 11683,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/retouched%202024.3.1%EF%BC%88%E6%9B%B9%EF%BC%890153.jpg?itok=SqlYCLnU",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/selected-capture_one_catalog0051.jpg?itok=DJhwRDYt",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/selected-capture_one_catalog0051-ec8593a07000.jpg",
+      "download_status": "downloaded",
+      "bytes": 10823,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/simg_0048_selected.jpg?itok=uDulIUyL",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/han_shen_lin.jpg?itok=X0tcGrFm",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/han_shen_lin-ce26061e5fed.jpg",
+      "download_status": "downloaded",
+      "bytes": 10192,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/lin_long_nian_-2017_0.jpeg?itok=SZNFfdJb",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/screen_shot_2022-11-18_at_3.51.20_pm.png?itok=wMSosIFe",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2022-11-18_at_3.51.20_pm-4fcd5cc08c9f.png",
+      "download_status": "downloaded",
+      "bytes": 157848,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/shuyang_ling.jpg?itok=5Yaitkgl",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/shuyang_ling-c0bd6f3d92e7.jpg",
+      "download_status": "downloaded",
+      "bytes": 11843,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/photo-2by2.jpeg?itok=bJBAH_5w",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/photo-2by2-1c9c253f6626.jpeg",
+      "download_status": "downloaded",
+      "bytes": 11057,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/selected-Capture%20One%20Catalog1035.jpg?itok=jOcI-KfC",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/selected-Capture-20One-20Catalog1035-c1445ab22020.jpg",
+      "download_status": "downloaded",
+      "bytes": 13992,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/qian_liu.jpg?itok=3A_JjQ-n",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/qian_liu-0e66f615360b.jpg",
+      "download_status": "downloaded",
+      "bytes": 14430,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/retouched%202024.3.1%EF%BC%88%E6%9B%B9%EF%BC%890241.jpg?itok=AbN35FVX",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/yuning_liu_.jpg?itok=ilrAFw7I",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/yuning_liu-0b3a2fc84baf.jpg",
+      "download_status": "downloaded",
+      "bytes": 12453,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/ye_lu.jpg?itok=mnxzN9fj",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ye_lu-1761f9489c52.jpg",
+      "download_status": "downloaded",
+      "bytes": 13246,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/yiqinglu280.jpg?itok=YucfnY8R",
+      "alt": "Assistant Professor of Finance, NYU Shanghai; Global Network Assistant Professor, NYU",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/yiqinglu280-9da75053e3c1.jpg",
+      "download_status": "downloaded",
+      "bytes": 12658,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/zhong-lin_lu_.jpg?itok=ntKSwUvi",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/zhong-lin_lu-b0ba3540999f.jpg",
+      "download_status": "downloaded",
+      "bytes": 13373,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/mathieu-lauriere",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=716",
+      "text": "Data Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=287",
+      "text": "Mathematics",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/inmi-lee",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=289",
+      "text": "Interactive Media Arts",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/sukjoon-lee",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=202",
+      "text": "Economics",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jeffrey-lehman",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=187",
+      "text": "Law",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/ying-lei",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=436",
+      "text": "Business",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/angran-li",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=283",
+      "text": "Social Sciences",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/chen-li",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/gu-li",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/henry-james-xiaotao-li",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=194",
+      "text": "Biology",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=192",
+      "text": "Chemistry",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/li-li",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=288",
+      "text": "Neural Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/qing-li",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=785",
+      "text": "Chinese Language",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/wenshu-li",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/yifei-li",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/ying-li",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jiani-lian",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jiansong-liang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=726",
+      "text": "TESOL",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jiayong-liang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/sukbin-lim",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/han-shen-lin",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/longnian-lin",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/monika-lin",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=437",
+      "text": "Arts",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=719",
+      "text": "Humanities",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/shuyang-ling",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/dong-liu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/feifei-liu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/qian-liu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/xiang-liu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory?discipline=206",
+      "text": "Computer Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/yuning-liu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/ye-lu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/yiqing-lu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/zhong-lin-lu",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 70,
+  "crawled_at": "2026-06-09T04:54:44+00:00",
+  "sequence": 2450
+}

@@ -1,0 +1,120 @@
+{
+  "id": "cn__page__xue-shu-shou-ce-b7fe87846d",
+  "url": "https://shanghai.nyu.edu/cn/page/xue-shu-shou-ce",
+  "canonical_url": "https://shanghai.nyu.edu/cn/page/xue-shu-shou-ce",
+  "page_type": "cn",
+  "title": "学术手册",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "学术手册\n为满足上海纽约大学的毕业条件，学生须修满128个学分。所修课程须包括核心课程、专业课程及选修课程。上海纽约大学均用英语授课，且包括国际生在内的所有学生在毕业时均须熟练掌握汉语。\n通常学生将于前两个学年完成核心课程，后两个学年完成专业课程。\n学生需前往纽约大学全球教育体系中的纽约、阿布扎比校园或13个海外学习中心之一进行一个学期的海外学习，也可参加经批准的国际交换项目（International Exchange Programs）。\n学术手册\n学生需查阅入学学年的学术手册。\n当前学年学术手册",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "学术手册"
+    },
+    {
+      "type": "p",
+      "text": "为满足上海纽约大学的毕业条件，学生须修满128个学分。所修课程须包括核心课程、专业课程及选修课程。上海纽约大学均用英语授课，且包括国际生在内的所有学生在毕业时均须熟练掌握汉语。"
+    },
+    {
+      "type": "p",
+      "text": "通常学生将于前两个学年完成核心课程，后两个学年完成专业课程。"
+    },
+    {
+      "type": "p",
+      "text": "学生需前往纽约大学全球教育体系中的纽约、阿布扎比校园或13个海外学习中心之一进行一个学期的海外学习，也可参加经批准的国际交换项目（International Exchange Programs）。"
+    },
+    {
+      "type": "h3",
+      "text": "学术手册"
+    },
+    {
+      "type": "p",
+      "text": "学生需查阅入学学年的学术手册。"
+    },
+    {
+      "type": "p",
+      "text": "当前学年学术手册"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/curriculum-03-1.jpg",
+      "alt": "Academic Handbook",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/curriculum-03-1-10f9a1e3905f.jpg",
+      "download_status": "downloaded",
+      "bytes": 49226,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/shanghai",
+      "text": "当前学年学术手册",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/1DnMkfT_Yptk6SCXE3G41snhP58Bd3G0Z/view?usp=drive_link",
+      "text": "2024-2025",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/18GszcV5va7RypSSDJc6TmF-giwL34UJy/view",
+      "text": "2023-2024",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/1A-2kKE9XfqJx4Ym9VFE8qQ7W0a4LPEYi/view?usp=sharing",
+      "text": "2022-2023",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/1ijJhDl5zD_sXTU_A6AEh4SZChlDp0UZh/view?usp=sharing",
+      "text": "2021-2022",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/1QBvvHRRoMBHhXvqvzxuE437gTLsjuafE/view?usp=sharing",
+      "text": "2020-2021",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/1KX0g_tGyxkHnBVSUq7YS5o3-d698fwkE/view?usp=sharing",
+      "text": "2019-2020",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/academic_bulletin_2018-2019.pdf",
+      "text": "2018-2019",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/academic_bulletin_17-18__0.pdf",
+      "text": "2017-2018",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/undergraduate-bulletin-2016-2017-v080816_0.pdf",
+      "text": "2016-2017",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/undergraduate_bulletin_2015-2016_v110916_0.pdf",
+      "text": "2015-2016",
+      "internal": true
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/NYU%20Shanghai%20Undergraduate%20Academic%20Bulletin%202014%202015.pdf",
+      "text": "2014-2015",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 18,
+  "crawled_at": "2026-06-09T04:37:09+00:00",
+  "sequence": 1016
+}

@@ -1,0 +1,88 @@
+{
+  "id": "academics__minors__business-d01c81f2fc",
+  "url": "https://shanghai.nyu.edu/academics/minors/business",
+  "canonical_url": "https://shanghai.nyu.edu/academics/minors/business",
+  "page_type": "academics",
+  "title": "Business",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Business\nThe business program at NYU Shanghai is designed to provide students with comprehensive preparation for the modern globalized business world. It builds upon the liberal education designed into the NYU Shanghai core curriculum. Before entering the major, students will have developed an essential set of skills in mathematics, critical thinking, and oral and written communication. They will also have acquired a familiarity with the general cultural and scientific contexts in which businesses operate.\nRequirements for the Minor\nChoose One Elective Course (Please note that the business minor elective list below is complete, no courses outside of the list will be approved.)\nBUSF-SHU 142 Information Technology in Business and SocietyBUSF-SHU 202 Foundations of FinanceBUSF-SHU 210 Business AnalyticsBUSF-SHU 303 Corporate FinanceBUSF-SHU 351 Competitive Advantage from OperationsMGMT-SHU 301 Management and OrganizationsMKTG-SHU 1 Introduction to Marketing\nChoose Two Courses (Economics majorsmust complete two of the additional courses listed below to complete the minor within the double counting limits)\nBUSF-SHU 142 Information Technology in Business and SocietyBUSF-SHU 202 Foundations of FinanceBUSF-SHU 210 Business AnalyticsBUSF-SHU 351 Competitive Advantage from OperationsMGMT-SHU 301 Management and OrganizationsMKTG-SHU 1 Introduction to Marketing\nFaculty Mentors\nFaculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Business"
+    },
+    {
+      "type": "p",
+      "text": "The business program at NYU Shanghai is designed to provide students with comprehensive preparation for the modern globalized business world. It builds upon the liberal education designed into the NYU Shanghai core curriculum. Before entering the major, students will have developed an essential set of skills in mathematics, critical thinking, and oral and written communication. They will also have acquired a familiarity with the general cultural and scientific contexts in which businesses operate."
+    },
+    {
+      "type": "h3",
+      "text": "Requirements for the Minor"
+    },
+    {
+      "type": "p",
+      "text": "Choose One Elective Course (Please note that the business minor elective list below is complete, no courses outside of the list will be approved.)"
+    },
+    {
+      "type": "p",
+      "text": "BUSF-SHU 142 Information Technology in Business and SocietyBUSF-SHU 202 Foundations of FinanceBUSF-SHU 210 Business AnalyticsBUSF-SHU 303 Corporate FinanceBUSF-SHU 351 Competitive Advantage from OperationsMGMT-SHU 301 Management and OrganizationsMKTG-SHU 1 Introduction to Marketing"
+    },
+    {
+      "type": "p",
+      "text": "Choose Two Courses (Economics majorsmust complete two of the additional courses listed below to complete the minor within the double counting limits)"
+    },
+    {
+      "type": "p",
+      "text": "BUSF-SHU 142 Information Technology in Business and SocietyBUSF-SHU 202 Foundations of FinanceBUSF-SHU 210 Business AnalyticsBUSF-SHU 351 Competitive Advantage from OperationsMGMT-SHU 301 Management and OrganizationsMKTG-SHU 1 Introduction to Marketing"
+    },
+    {
+      "type": "h3",
+      "text": "Faculty Mentors"
+    },
+    {
+      "type": "p",
+      "text": "Faculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/raymond_ro_0.jpg",
+      "alt": "Raymond Ro",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/raymond_ro_0-b9c46ed2bb66.jpg",
+      "download_status": "downloaded",
+      "bytes": 97920,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/advising/academic-procedures/posting-a-minor",
+      "text": "Post a Minor",
+      "internal": true
+    },
+    {
+      "url": "https://docs.google.com/a/nyu.edu/forms/d/e/1FAIpQLSdbKGJgXa14fPTFV-2OQK8aSM8nwV29Cch5q8CZkq6jVm0T1A/viewform?c=0&w=1",
+      "text": "Posting a Minor",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory",
+      "text": "faculty directory",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/raymond-ro",
+      "text": "Raymond Ro",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 253,
+  "crawled_at": "2026-06-09T04:41:25+00:00",
+  "sequence": 1378
+}

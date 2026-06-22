@@ -1,0 +1,121 @@
+{
+  "id": "page__humanities-17e9410cdd",
+  "url": "https://shanghai.nyu.edu/page/humanities",
+  "canonical_url": "https://shanghai.nyu.edu/page/humanities",
+  "page_type": "page",
+  "title": "Humanities",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Humanities\nHuman beings have always used their knowledge, imagination, physical and mental skills, and their understanding of the world around them to create things – things that could be as simple as a hammer, as complex as a computer and as abstract as society itself and the relations among people within society. The Humanities major offers students an opportunity to study the historical, cultural, social, and intellectual contexts and impacts of the many different types of things that human beings have created across different cultures and societies, including perhaps the most profound creation of all — the multitude of ideas defining what it means to be human. Students majoring in the Humanities will have a chance to explore art, literature, religion, philosophy, history, and culture, and to enrich this exploration with some of the most important recent theories stemming from the fields like gender and sexuality studies, urban studies, and science and technology studies.\nRequirements for the Minor\nPhilosophy Minor\nFour classes from the required and elective list of Humanities major Philosophy courses.\nLiterature Minor\nFour classes from the required and elective list of Humanities major Literature courses.\nHistory Minor\nFour classes from the required and elective list of Humanities major History courses.\nHumanities Minor\nFour classes from the required and elective list of Humanities major courses.\nFaculty Mentors\nFaculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory.\nHumanities Area Head\nHumanities Associate Area Head",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Humanities"
+    },
+    {
+      "type": "p",
+      "text": "Human beings have always used their knowledge, imagination, physical and mental skills, and their understanding of the world around them to create things – things that could be as simple as a hammer, as complex as a computer and as abstract as society itself and the relations among people within society. The Humanities major offers students an opportunity to study the historical, cultural, social, and intellectual contexts and impacts of the many different types of things that human beings have created across different cultures and societies, including perhaps the most profound creation of all — the multitude of ideas defining what it means to be human. Students majoring in the Humanities will have a chance to explore art, literature, religion, philosophy, history, and culture, and to enrich this exploration with some of the most important recent theories stemming from the fields like gender and sexuality studies, urban studies, and science and technology studies."
+    },
+    {
+      "type": "h3",
+      "text": "Requirements for the Minor"
+    },
+    {
+      "type": "p",
+      "text": "Philosophy Minor"
+    },
+    {
+      "type": "p",
+      "text": "Four classes from the required and elective list of Humanities major Philosophy courses."
+    },
+    {
+      "type": "p",
+      "text": "Literature Minor"
+    },
+    {
+      "type": "p",
+      "text": "Four classes from the required and elective list of Humanities major Literature courses."
+    },
+    {
+      "type": "p",
+      "text": "History Minor"
+    },
+    {
+      "type": "p",
+      "text": "Four classes from the required and elective list of Humanities major History courses."
+    },
+    {
+      "type": "p",
+      "text": "Humanities Minor"
+    },
+    {
+      "type": "p",
+      "text": "Four classes from the required and elective list of Humanities major courses."
+    },
+    {
+      "type": "h3",
+      "text": "Faculty Mentors"
+    },
+    {
+      "type": "p",
+      "text": "Faculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory."
+    },
+    {
+      "type": "p",
+      "text": "Humanities Area Head"
+    },
+    {
+      "type": "p",
+      "text": "Humanities Associate Area Head"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/brad_weslake_.jpeg",
+      "alt": "Brad Weslake",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/brad_weslake-ba68f1cfe7ae.jpeg",
+      "download_status": "downloaded",
+      "bytes": 75525,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/erica_lynn_mukherjee_1.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/posting-minor",
+      "text": "Post a Minor",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory",
+      "text": "faculty directory",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/brad-weslake",
+      "text": "Brad Weslake",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/erica-lynn-mukherjee",
+      "text": "Erica Lynn Mukherjee",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 279,
+  "crawled_at": "2026-06-09T04:41:30+00:00",
+  "sequence": 1389
+}

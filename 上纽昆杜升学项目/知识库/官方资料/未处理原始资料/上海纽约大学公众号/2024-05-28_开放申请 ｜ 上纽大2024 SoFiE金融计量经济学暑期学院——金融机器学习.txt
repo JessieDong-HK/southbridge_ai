@@ -1,0 +1,81 @@
+开放申请 ｜ 上纽大2024 SoFiE金融计量经济学暑期学院——金融机器学习
+
+Scroll down forEnglish
+SoFiE金融计量经济学暑期学院
+金融机器学习
+?? 时间：2024年8月19日—8月23日
+?? 地点：上海市浦东新区杨思西路567号上海纽约大学前滩校园
+报名截至2024年6月14日
+今年的课程将以线上线下混合教学形式开展。我们诚挚邀请参与者亲临上海纽约大学参加线下授课。
+暑期学院简介
+金融计量经济学会（Society for Financial Econometrics，简称SoFiE）金融计量经济学院是为博士生和金融计量经济学领域的新教师所开设的每年为期一周的研究型课程。
+最初两年，暑期学院在牛津大学的Oxford-Man学院举行，2014年迁移到哈佛大学。2015和2016年，暑期学院在布鲁塞尔举行。自2017年起，暑期学院在北美、亚洲和欧洲举办。
+在过去六年中，亚洲暑期学院一直在上海纽约大学金融波动研究所（Volatility Institute at NYU Shanghai，简称VINS）举办。即将到来的2024年暑期学院也将在同一地点线下举行。这不仅为参与者提供了宝贵的学习机会，也进一步巩固了SoFiE金融计量经济学学院作为国际学术交流重要平台的地位。
+年度课程编辑委员会由以下教授组成：
+Torben G. Andersen（西北大学）
+Francis X. Diebold（宾夕法尼亚大学，SoFiE前任会长）
+Eric Ghysels（北卡罗来纳大学，SoFiE秘书和创始联席会长）
+Ravi Jagannathan（西北大学，SoFiE前任会长）
+Per Mykland（芝加哥大学，SoFiE前任会长）
+Eric Renault（华威大学，SoFiE前任会长）
+Neil Shephard（哈佛大学）
+Viktor Todorov（西北大学）
+课程简介
+暑期课程为统计学、计量经济学和金融学的博士生和研究人员开设。其内容涵盖机器学习与人工智能方法及其在资产定价研究中的应用，将探讨机器学习/人工智能在提升我们对金融和经济学理解方面所起的关键作用，以及未来几年内机器学习/人工智能将发挥关键作用的各种研究增长领域。课程也将涵盖高维模型的理论和实证，包括“复杂性的优点”“双下降”和“良性过拟合”。
+课程将利用收益预测问题来介绍从惩罚回归到深度神经网络等建模工具，随后讨论将机器学习/人工智能整合到风险—回报权衡模型中的应用，包括因子定价、随机贴现因子和高效投资组合。最后，课程将讨论金融应用中的自然语言处理，包括传统模型（例如主题模型/LDA）和最先进的大语言模型。
+欢迎所有学生和研究人员申请暑期课程。部分学员将有机会向导师和其他学员展示他们的当前研究，并获得反馈意见。有意向进行课堂展示的同学（完全自愿）需在申请课程时说明，并提交计划展示的文章。最终被选定进行展示的同学，将在收到课程录取通知时被告知。
+课程讲师
+Bryan Kelly（线上教学）
+Bryan Kelly现任耶鲁大学管理学院金融学教授、国际金融中心副主任，美国国家经济研究局研究员，AQR资本管理公司机器学习主管。
+Kelly教授的主要研究领域是资产定价、机器学习和金融计量经济学。他的研究兴趣包括金融市场的预期收益、波动性、尾部风险和相关性建模，金融行业的系统性风险，金融中介和金融网络等。
+他曾担任Journal of Finance和Journal of Financial Economics的副编辑。在加入耶鲁大学之前，Kelly教授是芝加哥大学布斯商学院金融学终身教授。
+他拥有芝加哥大学经济学学士学位、加州大学圣地亚哥分校经济学硕士学位，以及纽约大学斯特恩商学院金融学博士和硕士学位。在获得博士学位前，他曾在摩根士丹利从事投资银行业务。
+修大成（线下教学）
+修大成现任芝加哥大学布斯商学院计量经济学和统计学教授，其研究聚焦于为实证金融领域的大数据问题开发机器学习解决方案。
+修教授的研究成果发表在Journal of Finance、Review of Financial Studies、Econometrica、Journal of Political Economy、Journal of the American Statistical Association和Annals of Statistics等刊物上。他也曾担任Journal of Financial Econometrics联合编辑，以及Review of Financial Studies、Journal of the American Statistical Association、Journal of Econometrics和Management Science等著名期刊的编委会副编辑。
+他的研究屡获认可，包括当选SoFiE Fellow及Fellow ofJournal of Econometrics，以及获得AQR Insight Award、EFA Best Paper Prize和Swiss Finance Institute Outstanding Paper Award。他还入选了Poets & Quants评选的“2023年40位40岁以下最佳商学院教授”。
+修教授在普林斯顿大学获得应用数学博士和硕士学位。
+Semyon Malamud（线上教学）
+Semyon Malamud现任瑞士洛桑联邦理工学院金融学副教授、金融工程方向主任。他在瑞士金融学院担任高级主席，是欧洲中央银行的Lamfalussy研究员，也是经济政策研究中心（CEPR）和国际清算银行的研究员。
+Malamud教授的研究成果发表于顶级经济学和金融学刊物，包括Econometrica、American Economic Review、Journal of Finance、Review of Financial Studies和Journal of Financial Economics。
+他的研究曾获多个奖项，包括joint INQUIRE Europe-INQUIRE UK Prize、Dauphine-Amundi Chair in Asset Management Award、Europlace Institute of Finance Award和ETF Academy Award。
+演讲嘉宾
+敬请期待
+课程日程
+将于8月最终确定，暂定课程：
+Introduction: The Case for Financial Machine Learning
+The Virtues of Complex Models
+ML/AI Return Prediction Models
+ML/AI Factor Pricing Models
+ML/AI SDFs and Optimal Portfolios
+Financial NLP
+申请信息
+1
+扫描二维码或复制网址至浏览器，前往课程官网注册并提交材料：
+https://research.shanghai.nyu.edu/vins/sofie_summer_school_registration
+2
+申请者需提供PDF格式材料：
+简历（CV）
+半页长度的动机信（Motivation Letter），阐述参与课程将如何帮助到申请者的研究工作
+3
+申请截至2024年6月14日，录取结果将于2024年7月1日通过邮件通知
+ 
+研究展示
+课程鼓励申请者展示自己的研究。有意向展示者请在申请时附上研究论文。若论文尚未完成，可提交扩展摘要（Extended Abstract）。论文题目无需与课程内容紧密关联，但需是金融计量经济学领域内的问题。论文将由组委会按质量挑选。
+学费与开支
+学术人员：400美元
+非学术人员：800美元
+被录取的申请者需按时缴费，方可确认录取。更多细节请参考录取邮件。
+所有申请者在被确认参与课程前，需已成为或申请成为金融计量经济学会（SoFiE）成员。参考学会网站，了解如何入会：http://sofie.stern.nyu.edu/membership。
+参会费用涵盖课程中的午餐及茶歇；不涵盖差旅、住宿及晚餐费用。
+联系方式
+邮箱：vins@nyu.edu
+电话：+86 021 2059 5745
+地址：上海市浦东新区杨思西路567号上海纽约大学前滩校园南楼728室（邮编：200126）
+VINS公众号：
+▼
+推 / 荐 / 阅 / 读
+活动预告 | 上海纽约大学“气候变化与商业创新”论坛报名开启！
+诺贝尔奖得主Robert Engle上纽分享：在当下选择中对冲未来风险
+Click "Read More" (阅读原文) belowfor the English version
+阅读原文

@@ -1,0 +1,251 @@
+{
+  "id": "cn__stories-6f7b72b474",
+  "url": "https://shanghai.nyu.edu/cn/stories?page=9",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "cn",
+  "title": "人物 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "人物\nAlexander Bogdanowicz '20：我的人生不设限\n2020届毕业生 | Audrey Samuel：投我以桃，报之以李\n2020届毕业生 | Amy DeCillis：我的上海梦\n2020届毕业生 | 武光宇：从世纪大道到联合国——心系教育，志存高远\n2020届硕士毕业生：戴维多（计量金融项目）\n聚焦紫罗兰——姐弟篇\n2020届毕业生｜宋逸伦：奔跑在科研的快车道上\n师生研究聚焦：奔跑吧，机器人\n追寻太空时代名人足迹\n对话数据科学助理教授凌舒扬\n2019届毕业生 | Victoria Rusu\n2018届毕业生 | 朱华：勇于探索，有的放矢",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "人物"
+    },
+    {
+      "type": "h4",
+      "text": "Alexander Bogdanowicz '20：我的人生不设限"
+    },
+    {
+      "type": "h4",
+      "text": "2020届毕业生 | Audrey Samuel：投我以桃，报之以李"
+    },
+    {
+      "type": "h4",
+      "text": "2020届毕业生 | Amy DeCillis：我的上海梦"
+    },
+    {
+      "type": "h4",
+      "text": "2020届毕业生 | 武光宇：从世纪大道到联合国——心系教育，志存高远"
+    },
+    {
+      "type": "h4",
+      "text": "2020届硕士毕业生：戴维多（计量金融项目）"
+    },
+    {
+      "type": "h4",
+      "text": "聚焦紫罗兰——姐弟篇"
+    },
+    {
+      "type": "h4",
+      "text": "2020届毕业生｜宋逸伦：奔跑在科研的快车道上"
+    },
+    {
+      "type": "h4",
+      "text": "师生研究聚焦：奔跑吧，机器人"
+    },
+    {
+      "type": "h4",
+      "text": "追寻太空时代名人足迹"
+    },
+    {
+      "type": "h4",
+      "text": "对话数据科学助理教授凌舒扬"
+    },
+    {
+      "type": "h4",
+      "text": "2019届毕业生 | Victoria Rusu"
+    },
+    {
+      "type": "h4",
+      "text": "2018届毕业生 | 朱华：勇于探索，有的放矢"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alex_square.jpg?itok=xQyPMpEj",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alex_square-b75c5b84eac4.jpg",
+      "download_status": "downloaded",
+      "bytes": 18786,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/1971366975-800.jpg?itok=2S-gaz6L",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/1971366975-800-2eed554bc015.jpg",
+      "download_status": "downloaded",
+      "bytes": 26023,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/image-4-940.jpg?itok=erMAo4aH",
+      "alt": "In soccer uniform",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/image-4-940-1a2eee1bdc2e.jpg",
+      "download_status": "downloaded",
+      "bytes": 21712,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/screen_shot_2020-05-08_at_4.25.03_pm.png?itok=MRX-Vgl9",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2020-05-08_at_4.25.03_pm-a993782350c7.png",
+      "download_status": "downloaded",
+      "bytes": 259163,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/19-0908_135_meitu_1.jpg?itok=5EBjRHqv",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/zainab_ali_2.jpeg?itok=YUWSazRM",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/zainab_ali_2-19dd16f81345.jpeg",
+      "download_status": "downloaded",
+      "bytes": 33360,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/img_20190226_480.jpg?itok=Nl0DVRfE",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_20190226_480-b232a309f5a9.jpg",
+      "download_status": "downloaded",
+      "bytes": 24933,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/keith_ross-400.jpg?itok=3PdBSu5f",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/keith_ross-400-9961c3a2fdbf.jpg",
+      "download_status": "downloaded",
+      "bytes": 26238,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/img_0271-1_copy.jpg?itok=uC43HFFE",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_0271-1_copy-e5bb631c1da6.jpg",
+      "download_status": "downloaded",
+      "bytes": 34701,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/ling_shuyang_feng_mian_xiao_tu_.jpg?itok=ZpijcWoB",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ling_shuyang_feng_mian_xiao_tu-eb6ff5bd18f8.jpg",
+      "download_status": "downloaded",
+      "bytes": 17393,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/victoria_rusu-940.jpg?itok=o-fodVTw",
+      "alt": "Victoria Rusu",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/nyu-pic1.jpg?itok=jKt2ZFzj",
+      "alt": "Square zhu hua",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/alexander-bogdanowicz-20-wo-de-ren-sheng-bu-she-xian",
+      "text": "Alexander Bogdanowicz '20：我的人生不设限",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2020-jie-bi-ye-sheng-audrey-samuel-tou-wo-yi-tao-bao-zhi-yi-li",
+      "text": "2020届毕业生 | Audrey Samuel：投我以桃，报之以李",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2020-jie-bi-ye-sheng-amy-decillis-wo-de-shang-hai-meng",
+      "text": "2020届毕业生 | Amy DeCillis：我的上海梦",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2020-jie-bi-ye-sheng-wu-guang-yu-cong-shi-ji-da-dao-dao-lian-he-guo-xin-xi-jiao-yu-zhi-cun",
+      "text": "2020届毕业生 | 武光宇：从世纪大道到联合国——心系教育，志存高远",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2020-jie-shuo-shi-bi-ye-sheng-dai-wei-duo-ji-liang-jin-rong-xiang-mu",
+      "text": "2020届硕士毕业生：戴维多（计量金融项目）",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/violet-spotlight-sibling-edition",
+      "text": "聚焦紫罗兰——姐弟篇",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2020-jie-bi-ye-sheng-song-yi-lun-ben-pao-zai-ke-yan-de-kuai-che-dao-shang",
+      "text": "2020届毕业生｜宋逸伦：奔跑在科研的快车道上",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/faculty-student-research-teaching-robots-run",
+      "text": "师生研究聚焦：奔跑吧，机器人",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/zhui-xun-tai-kong-shi-dai-ming-ren-zu-ji",
+      "text": "追寻太空时代名人足迹",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/qa-data-science-professor-ling-shuyang",
+      "text": "对话数据科学助理教授凌舒扬",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2019-jie-bi-ye-sheng-victoria-rusu",
+      "text": "2019届毕业生 | Victoria Rusu",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/alumni-profile-jack-zhu-18",
+      "text": "2018届毕业生 | 朱华：勇于探索，有的放矢",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 39,
+  "crawled_at": "2026-06-09T04:48:30+00:00",
+  "sequence": 1954
+}

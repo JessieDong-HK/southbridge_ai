@@ -1,0 +1,101 @@
+{
+  "id": "cn__academics__non-degree__certificate-programs-b9acab1190",
+  "url": "https://shanghai.nyu.edu/cn/academics/non-degree/certificate-programs",
+  "canonical_url": "https://shanghai.nyu.edu/cn/academics/non-degree/certificate-programs",
+  "page_type": "cn",
+  "title": "证书类项目",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "证书类项目\n作为非学位教育体系的重要组成部分，上海纽约大学正在筹建一系列高质量、高影响力的证书项目，旨在帮助学习者在不同专业领域中提升知识与技能，契合快速变化的职场需求。\n这些证书项目通常由多门课程组成，配备专门的教师团队，融合跨学科课程体系，并依托学校在多个学术领域的优势资源。学员将以小班形式学习，课程内容紧贴行业趋势与实践场景，注重知识应用与职业发展的实际成效，助力学习者在各自行业或专业领域实现能力提升与职业进阶。\n如您对证书项目感兴趣，我们非常期待与您联系沟通，来了解您的需求。\n近期项目\n《治企有方，教学有章：大学教学核心理论与技巧》\n项目示例\n上海纽约大学举办2024年REITs高级证书项目\n加强上海的安宁疗护与临终关怀服务",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "证书类项目"
+    },
+    {
+      "type": "p",
+      "text": "作为非学位教育体系的重要组成部分，上海纽约大学正在筹建一系列高质量、高影响力的证书项目，旨在帮助学习者在不同专业领域中提升知识与技能，契合快速变化的职场需求。"
+    },
+    {
+      "type": "p",
+      "text": "这些证书项目通常由多门课程组成，配备专门的教师团队，融合跨学科课程体系，并依托学校在多个学术领域的优势资源。学员将以小班形式学习，课程内容紧贴行业趋势与实践场景，注重知识应用与职业发展的实际成效，助力学习者在各自行业或专业领域实现能力提升与职业进阶。"
+    },
+    {
+      "type": "p",
+      "text": "如您对证书项目感兴趣，我们非常期待与您联系沟通，来了解您的需求。"
+    },
+    {
+      "type": "h3",
+      "text": "近期项目"
+    },
+    {
+      "type": "h4",
+      "text": "《治企有方，教学有章：大学教学核心理论与技巧》"
+    },
+    {
+      "type": "h3",
+      "text": "项目示例"
+    },
+    {
+      "type": "h4",
+      "text": "上海纽约大学举办2024年REITs高级证书项目"
+    },
+    {
+      "type": "h4",
+      "text": "加强上海的安宁疗护与临终关怀服务"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/program.jpg",
+      "alt": "《治企有方，教学有章：大学教学核心理论与技巧》",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Non-Degree-4-2.jpg",
+      "alt": "上海纽约大学举办2024年REITs高级证书项目",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Non-Degree-4-2-dd7c315791a1.jpg",
+      "download_status": "downloaded",
+      "bytes": 92438,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Non-Degree-4-3.jpg",
+      "alt": "加强上海的安宁疗护与临终关怀服务",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/academics/non-degree/certificate-programs/spring2026",
+      "text": "《治企有方，教学有章：大学教学核心理论与技巧》",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-hosts-2024-reits-advanced-certificate-program",
+      "text": "上海纽约大学举办2024年REITs高级证书项目",
+      "internal": true
+    },
+    {
+      "url": "https://socialwork.nyu.edu/news/2024/stengthening-shanghai-palliative-care.html",
+      "text": "加强上海的安宁疗护与临终关怀服务",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 24,
+  "crawled_at": "2026-06-09T04:37:17+00:00",
+  "sequence": 1040
+}

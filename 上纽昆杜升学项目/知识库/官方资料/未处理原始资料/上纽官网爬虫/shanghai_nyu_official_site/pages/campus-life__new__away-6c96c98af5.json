@@ -1,0 +1,128 @@
+{
+  "id": "campus-life__new__away-6c96c98af5",
+  "url": "https://shanghai.nyu.edu/campus-life/new/away",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/new/away",
+  "page_type": "campus-life",
+  "title": "Study Away in Shanghai Students",
+  "description": "You've decided to study away in Shanghai for a winter, summer, semester, or school year, so now what? There is plenty to keep you busy while you’re here, and the city offers endless discoveries and opportunities. Use the resources below to help you take full advantage of your time here, or learn",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Study Away in Shanghai Students\nYou've decided to study away in Shanghai for a winter, summer, semester, or school year, so now what? There is plenty to keep you busy while you’re here, and the city offers endless discoveries and opportunities. Use the resources below to help you take full advantage of your time here, or learn more about studying away in Shanghai.\nBefore You Arrive\nMove In\nOrientation\nStudy Away Programing\nStudy Away in Shanghai FAQ",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Study Away in Shanghai Students"
+    },
+    {
+      "type": "p",
+      "text": "You've decided to study away in Shanghai for a winter, summer, semester, or school year, so now what? There is plenty to keep you busy while you’re here, and the city offers endless discoveries and opportunities. Use the resources below to help you take full advantage of your time here, or learn more about studying away in Shanghai."
+    },
+    {
+      "type": "h4",
+      "text": "Before You Arrive"
+    },
+    {
+      "type": "h4",
+      "text": "Move In"
+    },
+    {
+      "type": "h4",
+      "text": "Orientation"
+    },
+    {
+      "type": "h4",
+      "text": "Study Away Programing"
+    },
+    {
+      "type": "h4",
+      "text": "Study Away in Shanghai FAQ"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-study-away-1-2.jpg",
+      "alt": "Before You Arrive",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-study-away-1-2-38a7248c8c84.jpg",
+      "download_status": "downloaded",
+      "bytes": 28857,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-study-away-1-3.jpg",
+      "alt": "Move In",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-study-away-1-3-bbcaada3153a.jpg",
+      "download_status": "downloaded",
+      "bytes": 32485,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-study-away-1-4.jpg",
+      "alt": "Orientation",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-study-away-1-5.jpg",
+      "alt": "Study Away Programing",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-study-away-1-5.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-study-away-1-6.jpg",
+      "alt": "Study Away in Shanghai FAQ",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-study-away-1-6-2b34b468bf2c.jpg",
+      "download_status": "downloaded",
+      "bytes": 33025,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/academics/study-away/in",
+      "text": "studying away in Shanghai",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/new/away/prearrival",
+      "text": "Before You Arrive",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/new/away/moving",
+      "text": "Move In",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/new/away/orientation",
+      "text": "Orientation",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/new/away/programming",
+      "text": "Study Away Programing",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/new/away/faq",
+      "text": "Study Away in Shanghai FAQ",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 79,
+  "crawled_at": "2026-06-09T04:31:05+00:00",
+  "sequence": 419
+}

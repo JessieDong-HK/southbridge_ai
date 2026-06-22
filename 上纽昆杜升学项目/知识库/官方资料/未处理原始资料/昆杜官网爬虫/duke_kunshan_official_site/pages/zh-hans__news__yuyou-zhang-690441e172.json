@@ -1,0 +1,36 @@
+{
+  "id": "zh-hans__news__yuyou-zhang-690441e172",
+  "url": "https://www.dukekunshan.edu.cn/zh-hans/news/yuyou-zhang",
+  "canonical_url": "https://www.dukekunshan.edu.cn/zh-hans/news/yuyou-zhang/",
+  "page_type": "zh-hans",
+  "title": "张宇佑：每个人都可以做不一样的自己",
+  "description": "",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "2024-05-07T03:40:19+00:00",
+  "sitemap_lastmod": "2024-05-07T03:40:19+00:00",
+  "text": "张宇佑：每个人都可以做不一样的自己",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "张宇佑：每个人都可以做不一样的自己"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-03T13:52:53+00:00",
+  "sequence": 362
+}

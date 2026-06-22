@@ -1,0 +1,85 @@
+{
+  "id": "academics__faculty__directory__mingyuan-wang-37726055f7",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/mingyuan-wang",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/mingyuan-wang",
+  "page_type": "academics",
+  "title": "Mingyuan",
+  "description": "Mingyuan Wang is an Assistant Professor of Computer Science at NYU Shanghai. Previously, he was a Postdoctoral Researcher at UC Berkeley, hosted by Sanjam Garg. He received his PhD from Purdue University, advised by Hemanta K. Maji. He is interested in cryptography and its interplay with theoretical",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Mingyuan Wang\nMingyuan Wang is an Assistant Professor of Computer Science at NYU Shanghai. Previously, he was a Postdoctoral Researcher at UC Berkeley, hosted by Sanjam Garg. He received his PhD from Purdue University, advised by Hemanta K. Maji. He is interested in cryptography and its interplay with theoretical computer science and security. His research covers a wide range of topics including threshold cryptography, secure multiparty computation, leakage-resilient cryptography, and cryptographic applications in machine learning. His works have been published at top venues such as CRYPTO, EUROCRYPT, S&P, CCS, Neurips, TCC, ISIT, etc.\nSelect Publications\nScalable Multiparty Computation from Non-linear Secret Sharing. Sanjam Garg, Abhishek Jain, Pratyay Mukherjee, and Mingyuan Wang. CRYPTO 2024\nHow to Prove Statements Obliviously? Sanjam Garg, Aarushi Goel, and Mingyuan Wang. CRYPTO 2024\nThreshold Encryption with Silent Setup. Sanjam Garg, Dimitris Kolonelos, Guru-Vamsi Policharla, and Mingyuan Wang. CRYPTO 2024\nhinTS: Threshold Signatures with Silent Setup. Sanjam Garg, Abhishek Jain, Pratyay Mukherjee, Rohit Sinha, Mingyuan Wang, and Yinuo Zhang. IEEE S&P 2024\nEducation\nBS, MathematicsZhejiang University\nPhD, CryptographyPurdue University\nResearch Interests\nCryptography",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Mingyuan Wang"
+    },
+    {
+      "type": "p",
+      "text": "Mingyuan Wang is an Assistant Professor of Computer Science at NYU Shanghai. Previously, he was a Postdoctoral Researcher at UC Berkeley, hosted by Sanjam Garg. He received his PhD from Purdue University, advised by Hemanta K. Maji. He is interested in cryptography and its interplay with theoretical computer science and security. His research covers a wide range of topics including threshold cryptography, secure multiparty computation, leakage-resilient cryptography, and cryptographic applications in machine learning. His works have been published at top venues such as CRYPTO, EUROCRYPT, S&P, CCS, Neurips, TCC, ISIT, etc."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Scalable Multiparty Computation from Non-linear Secret Sharing. Sanjam Garg, Abhishek Jain, Pratyay Mukherjee, and Mingyuan Wang. CRYPTO 2024"
+    },
+    {
+      "type": "li",
+      "text": "How to Prove Statements Obliviously? Sanjam Garg, Aarushi Goel, and Mingyuan Wang. CRYPTO 2024"
+    },
+    {
+      "type": "li",
+      "text": "Threshold Encryption with Silent Setup. Sanjam Garg, Dimitris Kolonelos, Guru-Vamsi Policharla, and Mingyuan Wang. CRYPTO 2024"
+    },
+    {
+      "type": "li",
+      "text": "hinTS: Threshold Signatures with Silent Setup. Sanjam Garg, Abhishek Jain, Pratyay Mukherjee, Rohit Sinha, Mingyuan Wang, and Yinuo Zhang. IEEE S&P 2024"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "BS, MathematicsZhejiang University"
+    },
+    {
+      "type": "li",
+      "text": "PhD, CryptographyPurdue University"
+    },
+    {
+      "type": "h3",
+      "text": "Research Interests"
+    },
+    {
+      "type": "li",
+      "text": "Cryptography"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/retouched%202024.3.1%EF%BC%88%E6%9B%B9%EF%BC%890043.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/retouched-202024.3.1-EF-BC-88-E6-9B-B9-EF-BC-890043-75fccec5f961.jpg",
+      "download_status": "downloaded",
+      "bytes": 912988,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cs.shanghai.nyu.edu/faculty/mingyuan-wang-wangmingyuan",
+      "text": "https://cs.shanghai.nyu.edu/faculty/mingyuan-wang-wangmingyuan",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 180,
+  "crawled_at": "2026-06-09T04:35:52+00:00",
+  "sequence": 868
+}

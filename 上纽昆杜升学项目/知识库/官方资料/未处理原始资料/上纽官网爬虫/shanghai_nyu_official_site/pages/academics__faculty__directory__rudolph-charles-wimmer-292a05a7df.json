@@ -1,0 +1,34 @@
+{
+  "id": "academics__faculty__directory__rudolph-charles-wimmer-292a05a7df",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/rudolph-charles-wimmer",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/rudolph-charles-wimmer",
+  "page_type": "academics",
+  "title": "Rudolph Charles",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Rudolph Charles Wimmer",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Rudolph Charles Wimmer"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Shanghai%20Mascot_24.jpeg",
+      "alt": "NYU Shanghai mascot",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 3,
+  "crawled_at": "2026-06-09T04:53:49+00:00",
+  "sequence": 2391
+}

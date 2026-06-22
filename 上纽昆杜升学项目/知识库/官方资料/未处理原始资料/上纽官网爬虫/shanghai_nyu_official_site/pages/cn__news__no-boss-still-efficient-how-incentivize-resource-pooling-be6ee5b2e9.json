@@ -1,0 +1,168 @@
+{
+  "id": "cn__news__no-boss-still-efficient-how-incentivize-resource-pooling-be6ee5b2e9",
+  "url": "https://shanghai.nyu.edu/cn/news/no-boss-still-efficient-how-incentivize-resource-pooling",
+  "canonical_url": "https://shanghai.nyu.edu/cn/news/no-boss-still-efficient-how-incentivize-resource-pooling",
+  "page_type": "cn",
+  "title": "没有“老板”，系统还能高效运转吗？上纽大学者给出难题新解法",
+  "description": "上海纽约大学运营与商业分析助理教授陈琛关注的，正是这样一个问题。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "没有“老板”，系统还能高效运转吗？上纽大学者给出难题新解法\nTwitter\nFacebook\nWeibo\n假设你是一家超市的经理。眼前有两种常见场景：一种是每个收银员只负责自己的收银台——哪怕这边的柜台空着，旁边却已经排起长队，也没人会主动去帮忙；另一种则是所有收银员像一个团队那样协作——谁先忙完手头这一队，就立刻去支援最拥堵的柜台。\n两种方式看上去只是排队逻辑不同，带来的结果却可能天差地别。后一种模式不仅让现场更有秩序，也能大幅缩短顾客等待时间。\n在运营管理中，这种通过协作提升整体效率的现象有一个专门的名字——资源池化（resource pooling）。在近期发表于国际知名期刊Management Science的论文“Incentivizing Resource Pooling”（“激励资源池化”）中，上海纽约大学运营与商业分析助理教授陈琛关注的，正是这样一个问题：当合作无法自然发生时，系统该如何依然实现资源池化带来的效率提升？\n“收银台这个例子，其实对应着很多现实场景，”陈琛说，“比如在医疗系统里，不同科室之间可以共享设备、病床，甚至医护人员；在计算系统中，一台空闲的机器，也可以替负载过高的机器分担任务。”\n陈琛教授\n既然资源池化听起来如此顺理成章，为什么它不会自动发生？\n陈琛教授解释说，原因在于，许多现代系统并不存在一个能统筹全局、随时调配资源的“老板”，而参与者本身也未必愿意承担帮助别人的成本。“一种做法是建立集中式系统，由一个管理者统一调度，”他说，“如果你手头空下来了，负责人可以直接让你去支援别人。”\n但他更感兴趣的，是一种更贴近现实的情境：系统中的参与者彼此独立、各自为利，决策时往往也无法掌握他人的真实状态。“你看不到别人到底有多少工作量，”他说，“在信息不充分的情况下，也很难直接约束那些只想获益、不愿付出的‘搭便车者’。”\n这正是许多去中心化应用面临的处境。以基于区块链的云计算市场为例，有人出租自己闲置的算力，也有人在需要处理高负载任务时向外借用这些资源。陈琛教授指出，这类市场实际上已经出现，但它们能否真正高效运转，关键取决于规则设计——如何奖励那些愿意贡献资源的人，同时防止“搭便车”现象蔓延。\n为了解决这一难题，陈琛教授与两位合作者——香港中文大学（深圳）的陈逸伦以及波士顿大学的钱鹏宇——提出了一套基于代币的机制设计，让合作不再依赖“道德自觉”，而成为一种对个体而言更划算的选择。这套机制有点像积分或信用体系：如果你想获得别人的帮助，就需要支付代币；如果你愿意帮助别人，就有机会获得代币奖励。\n陈琛教授表示：“在我们的机制中，请求帮助需要消耗代币，而帮助别人则有机会赚取代币，”陈琛说。所有请求都会进入一个共享池，由系统按照先来先服务的原则统一处理。研究团队还指出，这样的规则可以通过智能合约来执行。\n这项研究的目标其实很直接：让“对整个系统最有利的行为”，同时也成为“对个人最理性的行为”。当机制设计得当时，参与者就会形成清晰的激励逻辑：忙的时候优先处理自己的任务，空闲的时候贡献资源，而在确实需要帮助、且手里有足够代币时，再去请求他人的支援。\n“我们最重要的发现是，即便没有一个统一发号施令的‘老板’，我们依然可以通过机制设计，让人们出于自身利益考虑，愿意相互帮助，而且最终效果可以和有集中管理者的系统一样好。”陈琛教授说。\n当然，想让这套机制真正有效，关键不只是“有没有代币”，而是代币流通规则如何设定。如果代币太容易获得，系统里代币就会变得过于充裕，人们继续帮助别人的动力反而会减弱；但如果代币太难获得，代币又会变得稀缺，参与者甚至可能无力支付请求帮助的成本。\n论文表明，在大型系统中，这种代币发放规则存在一个合适的“平衡点”。只要参数设置得当，参与者就会被激励去实现更充分的资源共享，从而让整个系统的运行效率逼近集中式管理下的理想状态。\n在陈琛教授看来，这套机制并不只适用于云计算市场，在医疗等领域同样具有启发意义。医院之间、科室之间，原本就可能通过共享床位、设备或医护力量来提升整体效率；但如果没有合适的制度安排，这种合作未必会自发发生。\n左：该论文获2024年国际运筹学与管理学研究协会（INFORMS）青年教师组（JFIG）论文大赛一等奖右：该论文在2024年华人学者管理科学与工程国际年会（CSAMSE）上获最佳论文奖\n该论文也已获得学界的广泛认可，先后斩获2024年国际运筹学与管理学研究协会（INFORMS）青年教师组（JFIG）论文大赛一等奖，以及2024年华人学者管理科学与工程国际年会（CSAMSE）最佳论文奖。\n展望未来，陈琛教授将这种“代币式激励设计”视作一套具有延展性的工具。随着越来越多基础设施转向去中心化运行模式，“没有老板，系统还能否保持高效”这个问题，或许只会变得越来越重要。",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "没有“老板”，系统还能高效运转吗？上纽大学者给出难题新解法"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "假设你是一家超市的经理。眼前有两种常见场景：一种是每个收银员只负责自己的收银台——哪怕这边的柜台空着，旁边却已经排起长队，也没人会主动去帮忙；另一种则是所有收银员像一个团队那样协作——谁先忙完手头这一队，就立刻去支援最拥堵的柜台。"
+    },
+    {
+      "type": "p",
+      "text": "两种方式看上去只是排队逻辑不同，带来的结果却可能天差地别。后一种模式不仅让现场更有秩序，也能大幅缩短顾客等待时间。"
+    },
+    {
+      "type": "p",
+      "text": "在运营管理中，这种通过协作提升整体效率的现象有一个专门的名字——资源池化（resource pooling）。在近期发表于国际知名期刊Management Science的论文“Incentivizing Resource Pooling”（“激励资源池化”）中，上海纽约大学运营与商业分析助理教授陈琛关注的，正是这样一个问题：当合作无法自然发生时，系统该如何依然实现资源池化带来的效率提升？"
+    },
+    {
+      "type": "p",
+      "text": "“收银台这个例子，其实对应着很多现实场景，”陈琛说，“比如在医疗系统里，不同科室之间可以共享设备、病床，甚至医护人员；在计算系统中，一台空闲的机器，也可以替负载过高的机器分担任务。”"
+    },
+    {
+      "type": "figcaption",
+      "text": "陈琛教授"
+    },
+    {
+      "type": "p",
+      "text": "既然资源池化听起来如此顺理成章，为什么它不会自动发生？"
+    },
+    {
+      "type": "p",
+      "text": "陈琛教授解释说，原因在于，许多现代系统并不存在一个能统筹全局、随时调配资源的“老板”，而参与者本身也未必愿意承担帮助别人的成本。“一种做法是建立集中式系统，由一个管理者统一调度，”他说，“如果你手头空下来了，负责人可以直接让你去支援别人。”"
+    },
+    {
+      "type": "p",
+      "text": "但他更感兴趣的，是一种更贴近现实的情境：系统中的参与者彼此独立、各自为利，决策时往往也无法掌握他人的真实状态。“你看不到别人到底有多少工作量，”他说，“在信息不充分的情况下，也很难直接约束那些只想获益、不愿付出的‘搭便车者’。”"
+    },
+    {
+      "type": "p",
+      "text": "这正是许多去中心化应用面临的处境。以基于区块链的云计算市场为例，有人出租自己闲置的算力，也有人在需要处理高负载任务时向外借用这些资源。陈琛教授指出，这类市场实际上已经出现，但它们能否真正高效运转，关键取决于规则设计——如何奖励那些愿意贡献资源的人，同时防止“搭便车”现象蔓延。"
+    },
+    {
+      "type": "p",
+      "text": "为了解决这一难题，陈琛教授与两位合作者——香港中文大学（深圳）的陈逸伦以及波士顿大学的钱鹏宇——提出了一套基于代币的机制设计，让合作不再依赖“道德自觉”，而成为一种对个体而言更划算的选择。这套机制有点像积分或信用体系：如果你想获得别人的帮助，就需要支付代币；如果你愿意帮助别人，就有机会获得代币奖励。"
+    },
+    {
+      "type": "p",
+      "text": "陈琛教授表示：“在我们的机制中，请求帮助需要消耗代币，而帮助别人则有机会赚取代币，”陈琛说。所有请求都会进入一个共享池，由系统按照先来先服务的原则统一处理。研究团队还指出，这样的规则可以通过智能合约来执行。"
+    },
+    {
+      "type": "p",
+      "text": "这项研究的目标其实很直接：让“对整个系统最有利的行为”，同时也成为“对个人最理性的行为”。当机制设计得当时，参与者就会形成清晰的激励逻辑：忙的时候优先处理自己的任务，空闲的时候贡献资源，而在确实需要帮助、且手里有足够代币时，再去请求他人的支援。"
+    },
+    {
+      "type": "p",
+      "text": "“我们最重要的发现是，即便没有一个统一发号施令的‘老板’，我们依然可以通过机制设计，让人们出于自身利益考虑，愿意相互帮助，而且最终效果可以和有集中管理者的系统一样好。”陈琛教授说。"
+    },
+    {
+      "type": "p",
+      "text": "当然，想让这套机制真正有效，关键不只是“有没有代币”，而是代币流通规则如何设定。如果代币太容易获得，系统里代币就会变得过于充裕，人们继续帮助别人的动力反而会减弱；但如果代币太难获得，代币又会变得稀缺，参与者甚至可能无力支付请求帮助的成本。"
+    },
+    {
+      "type": "p",
+      "text": "论文表明，在大型系统中，这种代币发放规则存在一个合适的“平衡点”。只要参数设置得当，参与者就会被激励去实现更充分的资源共享，从而让整个系统的运行效率逼近集中式管理下的理想状态。"
+    },
+    {
+      "type": "p",
+      "text": "在陈琛教授看来，这套机制并不只适用于云计算市场，在医疗等领域同样具有启发意义。医院之间、科室之间，原本就可能通过共享床位、设备或医护力量来提升整体效率；但如果没有合适的制度安排，这种合作未必会自发发生。"
+    },
+    {
+      "type": "figcaption",
+      "text": "左：该论文获2024年国际运筹学与管理学研究协会（INFORMS）青年教师组（JFIG）论文大赛一等奖右：该论文在2024年华人学者管理科学与工程国际年会（CSAMSE）上获最佳论文奖"
+    },
+    {
+      "type": "p",
+      "text": "该论文也已获得学界的广泛认可，先后斩获2024年国际运筹学与管理学研究协会（INFORMS）青年教师组（JFIG）论文大赛一等奖，以及2024年华人学者管理科学与工程国际年会（CSAMSE）最佳论文奖。"
+    },
+    {
+      "type": "p",
+      "text": "展望未来，陈琛教授将这种“代币式激励设计”视作一套具有延展性的工具。随着越来越多基础设施转向去中心化运行模式，“没有老板，系统还能否保持高效”这个问题，或许只会变得越来越重要。"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/resource_pooling_banner_940x350mm_300dpi_0.jpg?itok=dhwzyhhC",
+      "alt": "resource_pooling",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/resource_pooling_banner_940x350mm_300dpi_0-d088a1fffcd4.jpg",
+      "download_status": "downloaded",
+      "bytes": 71282,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/No%20Boss%2C%20Still%20Efficient%20How%20to%20Incentivize%20Resource%20Pooling-01.jpg",
+      "alt": "chen chen",
+      "caption": "陈琛教授",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/No%20Boss%2C%20Still%20Efficient%20How%20to%20Incentivize%20Resource%20Pooling-02.jpg",
+      "alt": "The paper won the First Place in the 2024 INFORMS Junior Faculty Interest Group (JFIG) Paper Competition (left) and the 2024 CSAMSE Best Paper Award (right)",
+      "caption": "左：该论文获2024年国际运筹学与管理学研究协会（INFORMS）青年教师组（JFIG）论文大赛一等奖右：该论文在2024年华人学者管理科学与工程国际年会（CSAMSE）上获最佳论文奖",
+      "source": "img",
+      "local_path": "_shared/No-20Boss-2C-20Still-20Efficient-20How-20to-20Incent-551c966f7f33.jpg",
+      "download_status": "downloaded",
+      "bytes": 367312,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=%E6%B2%A1%E6%9C%89%E2%80%9C%E8%80%81%E6%9D%BF%E2%80%9D%EF%BC%8C%E7%B3%BB%E7%BB%9F%E8%BF%98%E8%83%BD%E9%AB%98%E6%95%88%E8%BF%90%E8%BD%AC%E5%90%97%EF%BC%9F%E4%B8%8A%E7%BA%BD%E5%A4%A7%E5%AD%A6%E8%80%85%E7%BB%99%E5%87%BA%E9%9A%BE%E9%A2%98%E6%96%B0%E8%A7%A3%E6%B3%95&url=https%3A//shanghai.nyu.edu/cn/news/no-boss-still-efficient-how-incentivize-resource-pooling&status=%E6%B2%A1%E6%9C%89%E2%80%9C%E8%80%81%E6%9D%BF%E2%80%9D%EF%BC%8C%E7%B3%BB%E7%BB%9F%E8%BF%98%E8%83%BD%E9%AB%98%E6%95%88%E8%BF%90%E8%BD%AC%E5%90%97%EF%BC%9F%E4%B8%8A%E7%BA%BD%E5%A4%A7%E5%AD%A6%E8%80%85%E7%BB%99%E5%87%BA%E9%9A%BE%E9%A2%98%E6%96%B0%E8%A7%A3%E6%B3%95%20https%3A//shanghai.nyu.edu/cn/news/no-boss-still-efficient-how-incentivize-resource-pooling",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/cn/news/no-boss-still-efficient-how-incentivize-resource-pooling&title=%E6%B2%A1%E6%9C%89%E2%80%9C%E8%80%81%E6%9D%BF%E2%80%9D%EF%BC%8C%E7%B3%BB%E7%BB%9F%E8%BF%98%E8%83%BD%E9%AB%98%E6%95%88%E8%BF%90%E8%BD%AC%E5%90%97%EF%BC%9F%E4%B8%8A%E7%BA%BD%E5%A4%A7%E5%AD%A6%E8%80%85%E7%BB%99%E5%87%BA%E9%9A%BE%E9%A2%98%E6%96%B0%E8%A7%A3%E6%B3%95",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/cn/news/no-boss-still-efficient-how-incentivize-resource-pooling&title=%E6%B2%A1%E6%9C%89%E2%80%9C%E8%80%81%E6%9D%BF%E2%80%9D%EF%BC%8C%E7%B3%BB%E7%BB%9F%E8%BF%98%E8%83%BD%E9%AB%98%E6%95%88%E8%BF%90%E8%BD%AC%E5%90%97%EF%BC%9F%E4%B8%8A%E7%BA%BD%E5%A4%A7%E5%AD%A6%E8%80%85%E7%BB%99%E5%87%BA%E9%9A%BE%E9%A2%98%E6%96%B0%E8%A7%A3%E6%B3%95",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.03550?journalCode=mnsc",
+      "text": "Incentivizing Resource Pooling",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/chen-chen-chen-chen",
+      "text": "陈琛",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 180,
+  "crawled_at": "2026-06-09T04:45:54+00:00",
+  "sequence": 1719
+}

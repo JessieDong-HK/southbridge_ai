@@ -1,0 +1,50 @@
+{
+  "id": "page__financial-clearance-af855fd037",
+  "url": "https://shanghai.nyu.edu/page/financial-clearance",
+  "canonical_url": "https://shanghai.nyu.edu/page/financial-clearance",
+  "page_type": "page",
+  "title": "Financial Clearance",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Financial Clearance\nStudents must be financially cleared in order to be officially registered and start classes. Financial clearance means you have either paid your outstanding balance or made appropriate arrangements to pay the semester charges by the payment due date.\nStudents who are not financially cleared by the payment due date risk being dropped from classes and dropped from any wait list. Students who subsequently pay the balance due will have to re-register.\nStudents can verify their financial clearance by accessing the Albert Student Center through NYUHome.\nHow to Verify if You Are Financially Cleared\nYou can check your financial clearance by logging on to Albert Student Center. You will be asked to enter your NYU Net ID and password.Log into AlbertClick the STUDENT CENTER linkOnce in the Albert Student Center, review the Holds section. If you are not financially cleared, there will be a message \"Not Financially Cleared\" displayed.Note: After making your payment, please allow one business day for the “Not Financially Cleared” hold to be removed from your Holds section.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Financial Clearance"
+    },
+    {
+      "type": "p",
+      "text": "Students must be financially cleared in order to be officially registered and start classes. Financial clearance means you have either paid your outstanding balance or made appropriate arrangements to pay the semester charges by the payment due date."
+    },
+    {
+      "type": "p",
+      "text": "Students who are not financially cleared by the payment due date risk being dropped from classes and dropped from any wait list. Students who subsequently pay the balance due will have to re-register."
+    },
+    {
+      "type": "p",
+      "text": "Students can verify their financial clearance by accessing the Albert Student Center through NYUHome."
+    },
+    {
+      "type": "h3",
+      "text": "How to Verify if You Are Financially Cleared"
+    },
+    {
+      "type": "p",
+      "text": "You can check your financial clearance by logging on to Albert Student Center. You will be asked to enter your NYU Net ID and password.Log into AlbertClick the STUDENT CENTER linkOnce in the Albert Student Center, review the Holds section. If you are not financially cleared, there will be a message \"Not Financially Cleared\" displayed.Note: After making your payment, please allow one business day for the “Not Financially Cleared” hold to be removed from your Holds section."
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "http://albert.nyu.edu/albert_index.html?tab",
+      "text": "Albert Student Center",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 175,
+  "crawled_at": "2026-06-09T04:31:03+00:00",
+  "sequence": 412
+}

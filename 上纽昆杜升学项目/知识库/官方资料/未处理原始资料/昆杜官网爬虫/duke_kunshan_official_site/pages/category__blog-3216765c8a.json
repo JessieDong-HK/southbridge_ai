@@ -1,0 +1,36 @@
+{
+  "id": "category__blog-3216765c8a",
+  "url": "https://www.dukekunshan.edu.cn/category/blog",
+  "canonical_url": "https://www.dukekunshan.edu.cn/category/blog/",
+  "page_type": "category",
+  "title": "Blog Archives",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": "2022-03-01T07:49:35+00:00",
+  "text": "Category: Blog",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Category: Blog"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-03T13:56:08+00:00",
+  "sequence": 673
+}

@@ -1,0 +1,34 @@
+{
+  "id": "cn__page__shang-hai-niu-yue-da-xue-xiao-li-85ba26d16d",
+  "url": "https://shanghai.nyu.edu/cn/page/shang-hai-niu-yue-da-xue-xiao-li",
+  "canonical_url": "https://shanghai.nyu.edu/cn/page/shang-hai-niu-yue-da-xue-xiao-li",
+  "page_type": "cn",
+  "title": "上海纽约大学校历",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "上海纽约大学校历\n请查看Academic Calendar页面",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "上海纽约大学校历"
+    },
+    {
+      "type": "p",
+      "text": "请查看Academic Calendar页面"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/page/academic-calendar",
+      "text": "Academic Calendar页面",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 3,
+  "crawled_at": "2026-06-09T04:37:17+00:00",
+  "sequence": 1042
+}

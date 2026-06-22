@@ -1,0 +1,83 @@
+{
+  "id": "cn__campus-life__career__employers__about-our-students-325627f663",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/career/employers/about-our-students",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/career/employers/about-our-students",
+  "page_type": "cn",
+  "title": "生源速览",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "生源速览\n上海纽约大学致力于通过创新的教学方式、世界一流的学术研究和对公共服务的担当，培养具有全球意识的毕业生。本科生的学习课程将为学生夯实广泛坚实的知识基础，长远助力他们成为创新思想家和积极学习者。\n上海纽约大学目前有约2000名本科生和研究生，其中一半来自中国，另一半来自美国和其他约80个国家和地区。我们的教师团队由来自世界一流研究型大学的著名学者、创新者、领域专家和教育家组成。\n阅读《上海纽约大学毕业生就业质量报告》了解上纽大学生的毕业去向。\n通过360度实景漫游功能，虚拟游览上海纽约大学校园\n上纽大学生概况",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "生源速览"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学致力于通过创新的教学方式、世界一流的学术研究和对公共服务的担当，培养具有全球意识的毕业生。本科生的学习课程将为学生夯实广泛坚实的知识基础，长远助力他们成为创新思想家和积极学习者。"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学目前有约2000名本科生和研究生，其中一半来自中国，另一半来自美国和其他约80个国家和地区。我们的教师团队由来自世界一流研究型大学的著名学者、创新者、领域专家和教育家组成。"
+    },
+    {
+      "type": "p",
+      "text": "阅读《上海纽约大学毕业生就业质量报告》了解上纽大学生的毕业去向。"
+    },
+    {
+      "type": "h4",
+      "text": "通过360度实景漫游功能，虚拟游览上海纽约大学校园"
+    },
+    {
+      "type": "h2",
+      "text": "上纽大学生概况"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-6-03-01.jpg",
+      "alt": "About Our Students",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-6-03-01.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/bundcampus_0.jpg",
+      "alt": "通过360度实景漫游功能，虚拟游览上海纽约大学校园",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/bundcampus_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-6-03-03.jpg",
+      "alt": "About Our Students",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-6-03-03.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/about/graduate-destinations",
+      "text": "《上海纽约大学毕业生就业质量报告》",
+      "internal": true
+    },
+    {
+      "url": "https://360.shanghai.nyu.edu/cn",
+      "text": "通过360度实景漫游功能，虚拟游览上海纽约大学校园",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 18,
+  "crawled_at": "2026-06-09T04:36:59+00:00",
+  "sequence": 992
+}

@@ -1,0 +1,175 @@
+{
+  "id": "news__nyu-shanghai-chief-scientist-builds-first-mathematical-model-how-we-see-world-57b3377bc2",
+  "url": "https://shanghai.nyu.edu/news/nyu-shanghai-chief-scientist-builds-first-mathematical-model-how-we-see-world",
+  "canonical_url": "https://shanghai.nyu.edu/news/nyu-shanghai-chief-scientist-builds-first-mathematical-model-how-we-see-world",
+  "page_type": "news",
+  "title": "NYU Shanghai Chief Scientist Builds First Mathematical Model for How We ‘See’ the World",
+  "description": "Lu Zhong-Lin and fellow researchers mapped image distortions between the eye and the brain.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "NYU Shanghai Chief Scientist Builds First Mathematical Model for How We ‘See’ the World\nTwitter\nFacebook\nWeibo\nHumans perceive or “see” the world as it physically is, and what we “see” remains almost the same for everyone. For example, a Rubik's Cube is “seen” as a cube, not a ball, nor a pyramid. But “seeing” is the result of a complex visual process, which involves passing many image projections from our retina to the brain’s visual cortex. Moreover, functional MRI (“fMRI”) images tell us that visual inputs projected onto the brain are distorted. So how do those distorted projections in the brain ultimately transform into the act of seeing a non-distorted world?\nAfter 10 years of research, which was partially funded by the U.S. National Science Foundation, U.S. National Institute on Aging, and U. S. National Eye Institute, NYU Shanghai Chief Scientist and Professor of Neuroscience Zhong-Lin Lu, and his collaborators – Yalin Wang, Duyan Ta and Yanshuai Tu of Arizona State University – have developed the first complete mathematical model to describe the distortions that take place in the “retinotopic mapping” process between the eye and the visual cortex, giving us a first glimpse into how our vision gets made.\n“The math in this study is complicated. But the questions we’ve tried to answer are simple,” Lu said. “We wanted to figure out the exact process of how we ‘see’ the world. What happens when images are passed from the retina to the brain? And why does the world appear to be largely the same to all of us, despite different brain structures?” The first two papers in their study were published in top medical image processing and computational biology journals, Medical Image Analysis (Vol.75) and PLoS Computational Biology (Vol.17). Two patents have been filed on quantification methods for brain mapping in the visual cortex and other sensory areas.\nClockwise from top left: Zhong-Lin Lu, Yalin Wang,Yanshuai Tu, and Duyan Ta\nHow Does Vision Work?Imagine our eyes as cameras. The images captured by our eyes are reflected onto the retina, a thin layer of tissue in the back of the eye, and then projected to the visual cortex, the section in our brain that processes visual information. For each “pixel” on our retina, there’s a corresponding point on the visual cortex, forming a “topological” relation. Neuroscientists use functional magnetic resonance imaging (fMRI) to record and visualize this point-to-point projection in what is called a retinotopic map.\nCredit: Rhonda Hitchcock-Mast/Arizona State University\nThe visual cortex can be divided into multiple areas, known as V1, V2, V3, etc. (There can be over 10 visual areas depending on how you categorize them.) Existing retinotopic maps show that when visual inputs are passed from the retina to V1, V2, … to Vn, geometric distortions take place in each step. But the precise way in which visual inputs are distorted in each step has remained a mystery.\nLu and his team knew that if each specific transformation could be precisely quantified, then they could solve this fundamental question of how vision works.\nHurdles Along the WayIt took the team ten years to achieve a breakthrough. As an interdisciplinary study across vision science, fMRI and differential geometry, it was crucial for all team members to understand each other’s work. Lu said the team met almost every week over the past ten years. Lu, a vision and fMRI expert, worked hard to understand the math, while Wang and his students Ta and Tu had to develop expertise in vision science. Most importantly, they had to work together to come up with the right questions and solve them.\nAnother hurdle was the lack of usable data. For several years, the quality of fMRI images was too low, failing to preserve the topological detail Lu’s team needed for their analysis. With data from ultra high strength 7-Tesla MRI systems collected by the Human Connectome Project​, the researchers were finally able to generate usable retinotopic maps.\n[image: 7-Tesla fMRI machine + Retinotopic Map Sample from Human Connectome Project Database]\n“We figured out the ‘f’.” To quantify the transformations of retinotopic maps, Lu and his collaborators created a mathematical framework by applying the principles of computational conformal geometry and quasiconformal Teichmüller theory. Their framework translates the pictorial representation of the retinotopic map into a complete mathematical description, making it possible to apply data analysis tools to characterize retinotopic maps at both individual and population levels.\n“If we compare this to a mathematical function, y=f(x),” Lu said, “‘x’ would be visual inputs and ‘y’ would be the corresponding projections on the visual cortex. From the existing ‘x’s and ‘y’s, we figured out the ‘f’. Now given any image (x), using the framework, we can know its exact projection (y) on the visual cortex. We can also reverse the process, that is, given any visual cortical recordings (y), we can infer what the person was seeing (x). ”\nLu and his fellow researchers first determined whether the distortions in retinotopic mapping between the retina and V1 are conformal or quasiconformal, quantifying the precise amount and direction of visual input distortion in each local region of the cortical surface using the Beltrami coefficient (BC), a differential geometry concept that measures angle distortions in quasiconformal maps. The researchers then combined the collection of BCs to form a Beltrami coefficient map (BCM) describing the precise distortion at every point on the retinotopic map.\nThe new framework was then applied to V1 retinotopic maps from the Human Connectome Project, the largest state-of-the-art retinotopy dataset currently available. The results showed that the transformation from the retina to V1 is quasiconformal, meaning that the shapes of visual inputs are distorted but not torn.\nLooking into the FutureTeam members are already building on their research. Since the published study focuses solely on the mapping between the retina to V1, mappings between V2, V3, V4, etc… are waiting to be quantified as well. The team is also applying the method in different populations to see if individual differences in brain and neuron structures create differences in individual visual perception. The team’s quantification framework can also be applied to topological mappings in other sensory systems of the brain, which could revolutionize our understanding of brain function.\nThe quantification technique also holds promise for the development of new treatments for eye diseases such as glaucoma and cortical blindness, since it can enable researchers to precisely identify which specific steps in the vision process go wrong in people suffering from these disorders.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "NYU Shanghai Chief Scientist Builds First Mathematical Model for How We ‘See’ the World"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Humans perceive or “see” the world as it physically is, and what we “see” remains almost the same for everyone. For example, a Rubik's Cube is “seen” as a cube, not a ball, nor a pyramid. But “seeing” is the result of a complex visual process, which involves passing many image projections from our retina to the brain’s visual cortex. Moreover, functional MRI (“fMRI”) images tell us that visual inputs projected onto the brain are distorted. So how do those distorted projections in the brain ultimately transform into the act of seeing a non-distorted world?"
+    },
+    {
+      "type": "p",
+      "text": "After 10 years of research, which was partially funded by the U.S. National Science Foundation, U.S. National Institute on Aging, and U. S. National Eye Institute, NYU Shanghai Chief Scientist and Professor of Neuroscience Zhong-Lin Lu, and his collaborators – Yalin Wang, Duyan Ta and Yanshuai Tu of Arizona State University – have developed the first complete mathematical model to describe the distortions that take place in the “retinotopic mapping” process between the eye and the visual cortex, giving us a first glimpse into how our vision gets made."
+    },
+    {
+      "type": "p",
+      "text": "“The math in this study is complicated. But the questions we’ve tried to answer are simple,” Lu said. “We wanted to figure out the exact process of how we ‘see’ the world. What happens when images are passed from the retina to the brain? And why does the world appear to be largely the same to all of us, despite different brain structures?” The first two papers in their study were published in top medical image processing and computational biology journals, Medical Image Analysis (Vol.75) and PLoS Computational Biology (Vol.17). Two patents have been filed on quantification methods for brain mapping in the visual cortex and other sensory areas."
+    },
+    {
+      "type": "p",
+      "text": "Clockwise from top left: Zhong-Lin Lu, Yalin Wang,Yanshuai Tu, and Duyan Ta"
+    },
+    {
+      "type": "p",
+      "text": "How Does Vision Work?Imagine our eyes as cameras. The images captured by our eyes are reflected onto the retina, a thin layer of tissue in the back of the eye, and then projected to the visual cortex, the section in our brain that processes visual information. For each “pixel” on our retina, there’s a corresponding point on the visual cortex, forming a “topological” relation. Neuroscientists use functional magnetic resonance imaging (fMRI) to record and visualize this point-to-point projection in what is called a retinotopic map."
+    },
+    {
+      "type": "p",
+      "text": "Credit: Rhonda Hitchcock-Mast/Arizona State University"
+    },
+    {
+      "type": "p",
+      "text": "The visual cortex can be divided into multiple areas, known as V1, V2, V3, etc. (There can be over 10 visual areas depending on how you categorize them.) Existing retinotopic maps show that when visual inputs are passed from the retina to V1, V2, … to Vn, geometric distortions take place in each step. But the precise way in which visual inputs are distorted in each step has remained a mystery."
+    },
+    {
+      "type": "p",
+      "text": "Lu and his team knew that if each specific transformation could be precisely quantified, then they could solve this fundamental question of how vision works."
+    },
+    {
+      "type": "p",
+      "text": "Hurdles Along the WayIt took the team ten years to achieve a breakthrough. As an interdisciplinary study across vision science, fMRI and differential geometry, it was crucial for all team members to understand each other’s work. Lu said the team met almost every week over the past ten years. Lu, a vision and fMRI expert, worked hard to understand the math, while Wang and his students Ta and Tu had to develop expertise in vision science. Most importantly, they had to work together to come up with the right questions and solve them."
+    },
+    {
+      "type": "p",
+      "text": "Another hurdle was the lack of usable data. For several years, the quality of fMRI images was too low, failing to preserve the topological detail Lu’s team needed for their analysis. With data from ultra high strength 7-Tesla MRI systems collected by the Human Connectome Project​, the researchers were finally able to generate usable retinotopic maps."
+    },
+    {
+      "type": "p",
+      "text": "[image: 7-Tesla fMRI machine + Retinotopic Map Sample from Human Connectome Project Database]"
+    },
+    {
+      "type": "p",
+      "text": "“We figured out the ‘f’.” To quantify the transformations of retinotopic maps, Lu and his collaborators created a mathematical framework by applying the principles of computational conformal geometry and quasiconformal Teichmüller theory. Their framework translates the pictorial representation of the retinotopic map into a complete mathematical description, making it possible to apply data analysis tools to characterize retinotopic maps at both individual and population levels."
+    },
+    {
+      "type": "p",
+      "text": "“If we compare this to a mathematical function, y=f(x),” Lu said, “‘x’ would be visual inputs and ‘y’ would be the corresponding projections on the visual cortex. From the existing ‘x’s and ‘y’s, we figured out the ‘f’. Now given any image (x), using the framework, we can know its exact projection (y) on the visual cortex. We can also reverse the process, that is, given any visual cortical recordings (y), we can infer what the person was seeing (x). ”"
+    },
+    {
+      "type": "p",
+      "text": "Lu and his fellow researchers first determined whether the distortions in retinotopic mapping between the retina and V1 are conformal or quasiconformal, quantifying the precise amount and direction of visual input distortion in each local region of the cortical surface using the Beltrami coefficient (BC), a differential geometry concept that measures angle distortions in quasiconformal maps. The researchers then combined the collection of BCs to form a Beltrami coefficient map (BCM) describing the precise distortion at every point on the retinotopic map."
+    },
+    {
+      "type": "p",
+      "text": "The new framework was then applied to V1 retinotopic maps from the Human Connectome Project, the largest state-of-the-art retinotopy dataset currently available. The results showed that the transformation from the retina to V1 is quasiconformal, meaning that the shapes of visual inputs are distorted but not torn."
+    },
+    {
+      "type": "p",
+      "text": "Looking into the FutureTeam members are already building on their research. Since the published study focuses solely on the mapping between the retina to V1, mappings between V2, V3, V4, etc… are waiting to be quantified as well. The team is also applying the method in different populations to see if individual differences in brain and neuron structures create differences in individual visual perception. The team’s quantification framework can also be applied to topological mappings in other sensory systems of the brain, which could revolutionize our understanding of brain function."
+    },
+    {
+      "type": "p",
+      "text": "The quantification technique also holds promise for the development of new treatments for eye diseases such as glaucoma and cortical blindness, since it can enable researchers to precisely identify which specific steps in the vision process go wrong in people suffering from these disorders."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/1119-380-3.jpg?itok=5F9M4AWQ",
+      "alt": "NYU Shanghai Chief Scientist Builds First Mathematical Model for How We ‘See’ the World",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/1119-380-3-6ecb32851eb4.jpg",
+      "download_status": "downloaded",
+      "bytes": 50585,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/1119-730-1.jpg",
+      "alt": "NYU Shanghai Chief Scientist Builds First Mathematical Model for How We ‘See’ the World",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/1119-730-1-814e404b3b08.jpg",
+      "download_status": "downloaded",
+      "bytes": 250802,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/1119-730-2.jpg",
+      "alt": "Students Learning Through Community Engaged Trip to Qingpu in Shanghai",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/1119-730-2-75ccc427b3c9.jpg",
+      "download_status": "downloaded",
+      "bytes": 222559,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/1119-730-3.jpg",
+      "alt": "Students Learning Through Community Engaged Trip to Qingpu in Shanghai",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/1119-730-3-fe4effb63af8.jpg",
+      "download_status": "downloaded",
+      "bytes": 130403,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/1119-730-4.jpg",
+      "alt": "Students Learning Through Community Engaged Trip to Qingpu in Shanghai",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=NYU%20Shanghai%20Chief%20Scientist%20Builds%20First%20Mathematical%20Model%20for%20How%20We%20%E2%80%98See%E2%80%99%20the%20World&url=https%3A//shanghai.nyu.edu/news/nyu-shanghai-chief-scientist-builds-first-mathematical-model-how-we-see-world&status=NYU%20Shanghai%20Chief%20Scientist%20Builds%20First%20Mathematical%20Model%20for%20How%20We%20%E2%80%98See%E2%80%99%20the%20World%20https%3A//shanghai.nyu.edu/news/nyu-shanghai-chief-scientist-builds-first-mathematical-model-how-we-see-world",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/nyu-shanghai-chief-scientist-builds-first-mathematical-model-how-we-see-world&title=NYU%20Shanghai%20Chief%20Scientist%20Builds%20First%20Mathematical%20Model%20for%20How%20We%20%E2%80%98See%E2%80%99%20the%20World",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/nyu-shanghai-chief-scientist-builds-first-mathematical-model-how-we-see-world&title=NYU%20Shanghai%20Chief%20Scientist%20Builds%20First%20Mathematical%20Model%20for%20How%20We%20%E2%80%98See%E2%80%99%20the%20World",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/zhong-lin-lu",
+      "text": "Zhong-Lin Lu",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1103,
+  "crawled_at": "2026-06-09T04:40:53+00:00",
+  "sequence": 1335
+}

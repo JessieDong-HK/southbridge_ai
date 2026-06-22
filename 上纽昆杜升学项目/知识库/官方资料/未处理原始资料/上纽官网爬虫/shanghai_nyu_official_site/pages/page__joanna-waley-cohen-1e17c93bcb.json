@@ -1,0 +1,46 @@
+{
+  "id": "page__joanna-waley-cohen-1e17c93bcb",
+  "url": "https://shanghai.nyu.edu/page/joanna-waley-cohen",
+  "canonical_url": "https://shanghai.nyu.edu/page/joanna-waley-cohen",
+  "page_type": "page",
+  "title": "Joanna Waley-Cohen",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Joanna Waley-Cohen\nJoanna Waley-Cohen served as Provost of NYU Shanghai from 2014 to 2025, following her role as the university’s inaugural Dean of Arts and Sciences at 2012-2014.\nProfessor Waley-Cohen is currently the Affiliated Professor of History at NYU Shanghai, and also the Julius Silver Professor of History at New York University, where she has taught Chinese history since 1992. She received her B.A. (1974), and her M.A. (1977) in Chinese Studies from Cambridge University, where she was a member of Girton College, and her Ph.D. (1987) in History from Yale University. Her research interests include early modern Chinese history; China and the West; and Chinese imperial culture, especially in the Qianlong era.\nProfessor Waley-Cohen has received many honors, including Honorary Professor of East China Normal University, archival and postdoctoral fellowships from the American Council of Learned Societies; Goddard and Presidential Fellowships from NYU; and an Olin Fellowship in Military and Strategic History from Yale. Her books include The Culture of War in China: Empire and the Military under the Qing Dynasty (I.B. Tauris, 2006); The Sextants of Beijing: Global Currents in Chinese History (W.W. Norton, 1999); and Exile in Mid-Qing China: Banishment to Xinjiang, 1758-1820 (Yale University Press, 1991). Her current scholarly projects include an ongoing analysis of the place of gastronomy in Chinese culture and a new study of the historical interrelationship of domestic and foreign affairs in Britain, China, and North America.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Joanna Waley-Cohen"
+    },
+    {
+      "type": "p",
+      "text": "Joanna Waley-Cohen served as Provost of NYU Shanghai from 2014 to 2025, following her role as the university’s inaugural Dean of Arts and Sciences at 2012-2014."
+    },
+    {
+      "type": "p",
+      "text": "Professor Waley-Cohen is currently the Affiliated Professor of History at NYU Shanghai, and also the Julius Silver Professor of History at New York University, where she has taught Chinese history since 1992. She received her B.A. (1974), and her M.A. (1977) in Chinese Studies from Cambridge University, where she was a member of Girton College, and her Ph.D. (1987) in History from Yale University. Her research interests include early modern Chinese history; China and the West; and Chinese imperial culture, especially in the Qianlong era."
+    },
+    {
+      "type": "p",
+      "text": "Professor Waley-Cohen has received many honors, including Honorary Professor of East China Normal University, archival and postdoctoral fellowships from the American Council of Learned Societies; Goddard and Presidential Fellowships from NYU; and an Olin Fellowship in Military and Strategic History from Yale. Her books include The Culture of War in China: Empire and the Military under the Qing Dynasty (I.B. Tauris, 2006); The Sextants of Beijing: Global Currents in Chinese History (W.W. Norton, 1999); and Exile in Mid-Qing China: Banishment to Xinjiang, 1758-1820 (Yale University Press, 1991). Her current scholarly projects include an ongoing analysis of the place of gastronomy in Chinese culture and a new study of the historical interrelationship of domestic and foreign affairs in Britain, China, and North America."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/joana_1.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 248,
+  "crawled_at": "2026-06-09T04:28:34+00:00",
+  "sequence": 95
+}

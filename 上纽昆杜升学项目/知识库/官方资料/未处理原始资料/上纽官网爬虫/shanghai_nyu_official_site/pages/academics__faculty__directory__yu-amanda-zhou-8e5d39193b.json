@@ -1,0 +1,94 @@
+{
+  "id": "academics__faculty__directory__yu-amanda-zhou-8e5d39193b",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/yu-amanda-zhou",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/yu-amanda-zhou",
+  "page_type": "academics",
+  "title": "Yu (Amanda)",
+  "description": "Yu (Amanda) Zhou is an Associate Professor of Practice in Economics at NYU Shanghai. She holds a PhD in Economics from the University of Michigan, Ann Arbor and a BA and a MA from Peking University. Zhou's research interests include industrial organization, econometrics, and applied econometrics.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Yu (Amanda) Zhou\nYu (Amanda) Zhou is an Associate Professor of Practice in Economics at NYU Shanghai. She holds a PhD in Economics from the University of Michigan, Ann Arbor and a BA and a MA from Peking University.\nZhou's research interests include industrial organization, econometrics, and applied econometrics. Her current works focus on consumer behaviors on the online platform, household finance and household economics. Prior to joining NYU Shanghai, Zhou was an Assistant Professor of Economics at the School of Economics at Fudan University.\nSelect Publications\n“Identification and Estimation of Multinomial Models Under Symmetry of Unobservables ” (with J. Yan and A. Lewbel). Under Review at Quantitative Economics\n“Identification and Estimation of Entry Games Under Symmetry of Unobservables” Revise and Resubmit at Econometrics Journal\nEducation\nPhD, EconomicsUniversity of Michigan, Ann Arbor\nMA, StatisticsUniversity of Michigan, Ann Arbor\nMA, EconomicsUniversity of Michigan, Ann Arbor\nMA, EconomicsPeking University\nBA, Architectural History and EconomicsPeking University\nIndustrial Organization\nEconometrics\nApplied Econometric\nLabor Economics",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Yu (Amanda) Zhou"
+    },
+    {
+      "type": "p",
+      "text": "Yu (Amanda) Zhou is an Associate Professor of Practice in Economics at NYU Shanghai. She holds a PhD in Economics from the University of Michigan, Ann Arbor and a BA and a MA from Peking University."
+    },
+    {
+      "type": "p",
+      "text": "Zhou's research interests include industrial organization, econometrics, and applied econometrics. Her current works focus on consumer behaviors on the online platform, household finance and household economics. Prior to joining NYU Shanghai, Zhou was an Assistant Professor of Economics at the School of Economics at Fudan University."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "“Identification and Estimation of Multinomial Models Under Symmetry of Unobservables ” (with J. Yan and A. Lewbel). Under Review at Quantitative Economics"
+    },
+    {
+      "type": "li",
+      "text": "“Identification and Estimation of Entry Games Under Symmetry of Unobservables” Revise and Resubmit at Econometrics Journal"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, EconomicsUniversity of Michigan, Ann Arbor"
+    },
+    {
+      "type": "li",
+      "text": "MA, StatisticsUniversity of Michigan, Ann Arbor"
+    },
+    {
+      "type": "li",
+      "text": "MA, EconomicsUniversity of Michigan, Ann Arbor"
+    },
+    {
+      "type": "li",
+      "text": "MA, EconomicsPeking University"
+    },
+    {
+      "type": "li",
+      "text": "BA, Architectural History and EconomicsPeking University"
+    },
+    {
+      "type": "li",
+      "text": "Industrial Organization"
+    },
+    {
+      "type": "li",
+      "text": "Econometrics"
+    },
+    {
+      "type": "li",
+      "text": "Applied Econometric"
+    },
+    {
+      "type": "li",
+      "text": "Labor Economics"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/yu_.jpeg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 160,
+  "crawled_at": "2026-06-09T04:55:00+00:00",
+  "sequence": 2468
+}

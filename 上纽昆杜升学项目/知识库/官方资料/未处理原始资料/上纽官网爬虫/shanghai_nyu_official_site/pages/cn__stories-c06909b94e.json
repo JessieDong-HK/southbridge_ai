@@ -1,0 +1,227 @@
+{
+  "id": "cn__stories-c06909b94e",
+  "url": "https://shanghai.nyu.edu/cn/stories?page=13",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "cn",
+  "title": "人物 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "人物\n马腾在阿布扎比\nBo Donners在柏林\n胡爽：读上纽大，做全球公民\nLizzy LeClaire, '18 - 全球中国研究专业\nKalkidan Fekadu Eteffa，2018届，计算机科学专业\n许心怡 Susan Xu，'19届，神经科学专业\nLathika Chandra Mouli，2017届，电气工程学专业\n吴艳秋（Autumn Wu），2017届，计算机科学专业\nEmma Quong，媒体、文化与传播专业，海外学习地点：上海\nJustin Scholar，电影/电视专业，海外学习地点：上海\nAlexis Zerafa，数字媒体集成专业，海外学习地点：上海",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "人物"
+    },
+    {
+      "type": "h4",
+      "text": "马腾在阿布扎比"
+    },
+    {
+      "type": "h4",
+      "text": "Bo Donners在柏林"
+    },
+    {
+      "type": "h4",
+      "text": "胡爽：读上纽大，做全球公民"
+    },
+    {
+      "type": "h4",
+      "text": "Lizzy LeClaire, '18 - 全球中国研究专业"
+    },
+    {
+      "type": "h4",
+      "text": "Kalkidan Fekadu Eteffa，2018届，计算机科学专业"
+    },
+    {
+      "type": "h4",
+      "text": "许心怡 Susan Xu，'19届，神经科学专业"
+    },
+    {
+      "type": "h4",
+      "text": "Lathika Chandra Mouli，2017届，电气工程学专业"
+    },
+    {
+      "type": "h4",
+      "text": "吴艳秋（Autumn Wu），2017届，计算机科学专业"
+    },
+    {
+      "type": "h4",
+      "text": "Emma Quong，媒体、文化与传播专业，海外学习地点：上海"
+    },
+    {
+      "type": "h4",
+      "text": "Justin Scholar，电影/电视专业，海外学习地点：上海"
+    },
+    {
+      "type": "h4",
+      "text": "Alexis Zerafa，数字媒体集成专业，海外学习地点：上海"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/shanghaigame-940.jpg?itok=OuDpy1Oa",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/3m9a8288_1.jpg?itok=H-E-mkf3",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/3m9a8288_1-43e5a16a38db.jpg",
+      "download_status": "downloaded",
+      "bytes": 32180,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/untitled-940_1.jpg?itok=R-E5YC1L",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/lizzyleclaire.jpeg?itok=oyVYoYSq",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/dsc05585-940_0.jpg?itok=-ILFJ8LB",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/stories__400x423_/public/field/story/dsc05585-940_0.jpg?itok=-ILFJ8LB (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol ("
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/susan_credit-to-940_0.jpg?itok=aTbVC2zi",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/stories__400x423_/public/field/story/susan_credit-to-940_0.jpg?itok=aTbVC2zi (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of pro"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/img_6397-940_0.jpg?itok=-bmGHI1r",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/autumn-940_0.jpg?itok=KF_FmfeF",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/emma_quong_by_nicole_chan-940.jpg?itok=6nDai59p",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/screen-shot-2017-02-09-940-1.jpg?itok=B98qBovu",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen-shot-2017-02-09-940-1-dc4bcc4c1f78.jpg",
+      "download_status": "downloaded",
+      "bytes": 17515,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/screen-shot-2017-02-09-940.jpg?itok=nJUffe7f",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen-shot-2017-02-09-940-6cebf4dd876c.jpg",
+      "download_status": "downloaded",
+      "bytes": 15496,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/ma-teng-zai-bu-zha-bi",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/bo-donners-zai-bai-lin",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/hu-shuang-17-becoming-global-citizen",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/lizzy-leclaire-18-global-china-studies",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/kalkidan-fekadu-eteffa-2018-jie-ji-suan-ji-ke-xue-zhuan-ye",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/xu-xin-yi-susan-xu-19-jie-shen-jing-ke-xue-zhuan-ye",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/lathika-chandra-mouli-2017-jie-dian-qi-gong-cheng-xue-zhuan-ye",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/wu-yan-qiu-autumn-wu-2017-jie-ji-suan-ji-ke-xue-zhuan-ye",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/emma-quong-19-media-culture-and-communication-major",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/justin-scholar-dian-ying-dian-shi-zhuan-ye-hai-wai-xue-xi-de-dian-shang-hai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/alexis-zerafa-integrated-digital-media-major-study-away-site-shanghai",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 48,
+  "crawled_at": "2026-06-09T04:33:09+00:00",
+  "sequence": 656
+}

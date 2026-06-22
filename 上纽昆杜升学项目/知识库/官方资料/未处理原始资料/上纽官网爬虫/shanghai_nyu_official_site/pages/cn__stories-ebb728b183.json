@@ -1,0 +1,249 @@
+{
+  "id": "cn__stories-ebb728b183",
+  "url": "https://shanghai.nyu.edu/cn/stories?page=12",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "cn",
+  "title": "人物 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "人物\n叶霖：履行社会责任 让世界更加美好\nLouis Demetroulakos——一块瓷片带来的中国情缘\n向家乔——海上学府 心之所向\n在上海追逐创意未来\n赵雪涵：我想成为连接中日与世界的桥梁\n好室友 好朋友——孙娜与Leidy Tapasco\n保持优雅的平衡\n身体力行应对气候变化 – Danielle Sanger的波恩之行\n“我想理解世界的复杂性”\n金桁宇 2020届 – 给高中母校的 – 封信\n缅甸的社会使命\n在美国财政部的暑期实习",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "人物"
+    },
+    {
+      "type": "h4",
+      "text": "叶霖：履行社会责任 让世界更加美好"
+    },
+    {
+      "type": "h4",
+      "text": "Louis Demetroulakos——一块瓷片带来的中国情缘"
+    },
+    {
+      "type": "h4",
+      "text": "向家乔——海上学府 心之所向"
+    },
+    {
+      "type": "h4",
+      "text": "在上海追逐创意未来"
+    },
+    {
+      "type": "h4",
+      "text": "赵雪涵：我想成为连接中日与世界的桥梁"
+    },
+    {
+      "type": "h4",
+      "text": "好室友 好朋友——孙娜与Leidy Tapasco"
+    },
+    {
+      "type": "h4",
+      "text": "保持优雅的平衡"
+    },
+    {
+      "type": "h4",
+      "text": "身体力行应对气候变化 – Danielle Sanger的波恩之行"
+    },
+    {
+      "type": "h4",
+      "text": "“我想理解世界的复杂性”"
+    },
+    {
+      "type": "h4",
+      "text": "金桁宇 2020届 – 给高中母校的 – 封信"
+    },
+    {
+      "type": "h4",
+      "text": "缅甸的社会使命"
+    },
+    {
+      "type": "h4",
+      "text": "在美国财政部的暑期实习"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/ping_mu_kuai_zhao_2018-04-23_shang_wu_9.17.48.png?itok=ieBJJ0rS",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ping_mu_kuai_zhao_2018-04-23_shang_wu_9.17.48-e7e657e11a9e.png",
+      "download_status": "downloaded",
+      "bytes": 250901,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/img_0819-940.jpg?itok=P7EaSgzp",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_0819-940-4b6359c9f6da.jpg",
+      "download_status": "downloaded",
+      "bytes": 28040,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/frank-940_0.jpg?itok=2TFpG3z9",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/frank-940_0-c3a408f99b1d.jpg",
+      "download_status": "downloaded",
+      "bytes": 24139,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/nicole-chan-1-3.jpg?itok=McyrDmxS",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/shirley-zhao-940.jpg?itok=QlB5Vf9w",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/shirley-zhao-940-6c601a54ad34.jpg",
+      "download_status": "downloaded",
+      "bytes": 28097,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/_dsf7469-ff-cc-940.jpg?itok=fOONuk-p",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/18359246_480-2.jpg?itok=Iw7JDjeC",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/18359246_480-2-1fdc79baf922.jpg",
+      "download_status": "downloaded",
+      "bytes": 25548,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/p1290764-940.jpg?itok=V7AiVPVq",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/chen.ziqing-940.jpg?itok=R8UMIWjv",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/chen.ziqing-940-c399d7d735dd.jpg",
+      "download_status": "downloaded",
+      "bytes": 19456,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/petra-940_0.jpg?itok=SvyvHo6h",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/21014621_940.jpg?itok=sJMf78m8",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/21014621_940-3d3c92c140a6.jpg",
+      "download_status": "downloaded",
+      "bytes": 24074,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/img_7767-940-c.jpg?itok=Ppkt8nvh",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/xie-lin",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/louis-demetroulakos",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/gap-year-sea",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/zai-shang-hai-zhui-zhu-chuang-yi-wei-lai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/zhao-xue-han-wo-xiang-cheng-wei-lian-jie-zhong-ri-yu-shi-jie-de-qiao-liang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/roommates",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/yixu-lin-17-business-and-finance-major",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/shen-ti-li-xing-ying-dui-qi-hou-bian-hua-danielle-sanger-de-bo-en-zhi-xing",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/roman-chen-17-self-designed-honors-major",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/jin-heng-yu-2020-jie-gei-gao-zhong-mu-xiao-de-feng-xin",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/social-mission-myanmar",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/zai-mei-guo-cai-zheng-bu-de-shu-qi-shi-xi",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 28,
+  "crawled_at": "2026-06-09T04:48:54+00:00",
+  "sequence": 1991
+}

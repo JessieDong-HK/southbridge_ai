@@ -1,0 +1,89 @@
+{
+  "id": "academics__minors__mathematics-e90b3d2324",
+  "url": "https://shanghai.nyu.edu/academics/minors/mathematics",
+  "canonical_url": "https://shanghai.nyu.edu/academics/minors/mathematics",
+  "page_type": "academics",
+  "title": "Mathematics",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Mathematics\nMathematics forms the cornerstone of the sciences, playing a powerful dual role as both a pure science and a tool for solving problems and modeling phenomena in other disciplines. For example, mathematics allows us to build efficient algorithms in computing, investigate rare events in financial markets, model the physical universe, develop predictions for climate science, map and study the human genome, and analyze the structure of the human brain. Mathematics draws vitality from questions arising in the natural world, as well as applications to industry and technology, and yet it is grounded in rigor and abstraction.\nRequirements for the Minor\nAny four Math major courses can be counted towards the Math minor.\nNote: The following courses can not fulfill the Math minor requirement: MATH-SHU 9 Precalculus; MATH-SHU 10 Quantitative Reasoning: Great Ideas in Mathematics; MATH-SHU 265 Linear Algebra and Differential Equation\nFaculty Mentors\nFaculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Mathematics"
+    },
+    {
+      "type": "p",
+      "text": "Mathematics forms the cornerstone of the sciences, playing a powerful dual role as both a pure science and a tool for solving problems and modeling phenomena in other disciplines. For example, mathematics allows us to build efficient algorithms in computing, investigate rare events in financial markets, model the physical universe, develop predictions for climate science, map and study the human genome, and analyze the structure of the human brain. Mathematics draws vitality from questions arising in the natural world, as well as applications to industry and technology, and yet it is grounded in rigor and abstraction."
+    },
+    {
+      "type": "h3",
+      "text": "Requirements for the Minor"
+    },
+    {
+      "type": "p",
+      "text": "Any four Math major courses can be counted towards the Math minor."
+    },
+    {
+      "type": "p",
+      "text": "Note: The following courses can not fulfill the Math minor requirement: MATH-SHU 9 Precalculus; MATH-SHU 10 Quantitative Reasoning: Great Ideas in Mathematics; MATH-SHU 265 Linear Algebra and Differential Equation"
+    },
+    {
+      "type": "h3",
+      "text": "Faculty Mentors"
+    },
+    {
+      "type": "p",
+      "text": "Faculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/shengkui_ye.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/shengkui_ye-6e523d73653d.jpg",
+      "download_status": "downloaded",
+      "bytes": 1839573,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/styles/people_thumb_2/public/people/image/alejandro-ramirez-photo.jpg?itok=c0PzZrv_",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='research.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/people_thumb_2/public/people/image/alejandro-ramirez-photo.jpg?itok=c0PzZrv_ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation o"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/posting-minor",
+      "text": "Post a Minor",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory",
+      "text": "faculty directory",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/shengkui-ye",
+      "text": "Shengkui Ye",
+      "internal": true
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/centers-and-institutes/math/people/alejandro-ram%C3%ADrez",
+      "text": "Alejandro Ramírez",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 202,
+  "crawled_at": "2026-06-09T04:41:33+00:00",
+  "sequence": 1392
+}

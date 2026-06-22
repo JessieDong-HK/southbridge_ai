@@ -1,0 +1,75 @@
+{
+  "id": "stories__marianne-petit-director-interactive-media-arts-a6a8491bd2",
+  "url": "https://shanghai.nyu.edu/stories/marianne-petit-director-interactive-media-arts",
+  "canonical_url": "https://shanghai.nyu.edu/stories/marianne-petit-director-interactive-media-arts",
+  "page_type": "stories",
+  "title": "Marianne Petit, Director of Interactive Media Arts",
+  "description": "May 14, 2015 - “I am not a competitive person, but the students I teach are under a lot of pressure. I just want to help them be themselves. It's hard but important.” - Marianne Petit, Director of Interactive Media Arts (by Jane Xu)",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Marianne Petit, Director of Interactive Media Arts\nTwitter\nFacebook\nWeibo\nMay 14, 2015 - “I am not a competitive person, but the students I teach are under a lot of pressure. I just want to help them be themselves. It's hard but important.” - Marianne Petit, Director of Interactive Media Arts (by Jane Xu)",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Marianne Petit, Director of Interactive Media Arts"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "May 14, 2015 - “I am not a competitive person, but the students I teach are under a lot of pressure. I just want to help them be themselves. It's hard but important.” - Marianne Petit, Director of Interactive Media Arts (by Jane Xu)"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/story",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/story/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/story/marianne.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Marianne%20Petit%2C%20Director%20of%20Interactive%20Media%20Arts&url=https%3A//shanghai.nyu.edu/stories/marianne-petit-director-interactive-media-arts&status=Marianne%20Petit%2C%20Director%20of%20Interactive%20Media%20Arts%20https%3A//shanghai.nyu.edu/stories/marianne-petit-director-interactive-media-arts",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/stories/marianne-petit-director-interactive-media-arts&title=Marianne%20Petit%2C%20Director%20of%20Interactive%20Media%20Arts",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/stories/marianne-petit-director-interactive-media-arts&title=Marianne%20Petit%2C%20Director%20of%20Interactive%20Media%20Arts",
+      "text": "Weibo",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 53,
+  "crawled_at": "2026-06-09T04:47:42+00:00",
+  "sequence": 1880
+}

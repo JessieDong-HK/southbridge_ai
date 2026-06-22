@@ -1,0 +1,175 @@
+{
+  "id": "is__course-spotlight-network-analytics-289399afe4",
+  "url": "https://shanghai.nyu.edu/is/course-spotlight-network-analytics",
+  "canonical_url": "https://shanghai.nyu.edu/is/course-spotlight-network-analytics",
+  "page_type": "is",
+  "title": "Course Spotlight: Network Analytics",
+  "description": "Applying network analytics to solve business problems.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Course Spotlight: Network Analytics\nTwitter\nFacebook\nWeibo\nThe world we live in is built upon a myriad of networks: Human society is defined by our interpersonal relationships. Organizations are structured around interconnecting roles and lines of authority between workers, colleagues, and bosses. Global information is conveyed across a world-wide web of linked content. As we have witnessed recently, epidemics spread over a social network of contacts, in the same way in which we buy products as we are influenced by our peers. In networks, local interactions among members of small communities can often propagate and further affect the outcomes of an entire system.\nAssistant Professor of Information Systems and Business Analytics Bruno Abrahao studies the power of networks and their effect on business and society. A computer scientist by training, Abrahao spent years using the tools of data science for networks in his own research and in collaborations with companies, such as Airbnb and Microsoft, to find solutions to problems rooted in network abstractions. For Airbnb, he mapped out the network of trust among users – determining which factors influenced hosts’ decisions on who to accept as tenants, and guest decisions on who to select as their potential hosts. For Microsoft Research AI, he studied corporate email networks to understand fundamental questions about human relationships and to find ways to make organizations more efficient.\nIn his graduate-level Network Analytics course, he brings his work and academic experience to the classroom, teaching the students of the Data Analytics & Business Computing masters program every fall semester how to tackle business problems using the tools of computer science, economics, and social science to analyze networks. Professor Abrahao also teaches an undergraduate version of this course, called \"Data Science for Social and Information Networks\".\nAbrahao with the class\nLast Fall, twenty-seven students joined Abrahao in learning the interdisciplinary nature of the subject, as well as the tools of network analysis - network modeling and algorithms, Python's NetworkX library, machine learning, and natural language processing - and then in applying them to pressing problems in our society.\nFor their final assignment, students brought all their new skills and knowledge to group projects that addressed big questions in business or in society in general, modelling them mathematically to make them precise, and running algorithms that analyze networks to illuminate them.\n\"What I like the most about teaching this course is the process of creating the means for a group of students from diverse backgrounds, and with different technical perspectives and worldviews, to get together and to employ problem solving strategies that transcend disciplinary boundaries,\" Abrahao says. The outcomes of their projects are just mind-blowing!\"\nFor instance, Phionna Teo applied network analytics to the social phenomenon of cyberbullying. “Social media platforms are still a bit slow in using automated systems to identify abusive content. They still rely on user-generated judgements and reporting,” said Teo. “We wanted to identify the types of people who are more susceptible to cyberbullying, so that detection can be automated more efficiently.”\nTeo’s team started with a set of 30 thousand tweets from 2013, and trained an AI classifier to identify “bullying” relationships. This was done by learning from comments pulled from another publicly available Wikipedia dataset, annotated with the goal of identifying behaviors that were labeled “bullying.” After applying the trained classifier to the data set of 30 thousand tweets, the team ended up with three thousand “bullying incidents” directed at other users.\nFollowing the pre-processing of the tweets, they correlated the network structure around a user, i.e., account information and follower/following relationships, with the labels they previously produced to investigate what kinds of local social networks around a user make them susceptible to cyberbullying. They also used natural language processing to analyze word usage, and found correlations between the most commonly used words in bullying comments and the next most common words that follow. The result of such analyses could potentially be used by social media platforms to automatically detect misbehavior and to identify individuals susceptible to bullying. Their method has the potential to immediately improve how platforms like Twitter handle online harassment.\nYao Guanhua and Xu Zhixing wanted to see how the topics of songs and their lyrics have changed over time, and how much creativity and innovation are introduced in the music industry each year. They used web scraping to download lyrics from 140,000 English songs on Billboards from 1970 to 2000. They linked the songs, thereby forming a network, where two songs are connected if they exhibit similarity between their topics, which were previously extracted using natural language processing. Then they plotted the evolving structure of the networks divided by year and along 15 different topics to show changing trends over time. As the networks they built reveal where the industry lacks diversity, their work could offer ways for music producers to identify where creativity is needed.\nYao and Xu’s project tracked changing music trends over four decades.\nOther student projects included a creative analysis of e-commerce recommendation systems, and building the Bespoke Travel Recommendation app.\nAbrahao and the class also made the most of being in Shanghai - visiting innovative local companies and meeting exciting researchers and entrepreneurs.\nChen Yang, a professor of computer science at Fudan University, showed students how he and his research team used machine learning applied to social networks to detect fraudulent accounts on Dianping and Momo -- China’s Yelp and OkCupid.\nStudents visited the new Amazon Joint Innovation Center in Shanghai’s Jing’an District, and the Shanghai Data Exchange Center -- a central hub that integrates and analyzes big data from Yangtze River Delta Region and the entire country for the purposes of business, transportation, security, and urban planning.\nThe class at Amazon Joint Innovation Center\nThe class at the Shanghai Data Exchange Center\n“We were so excited to learn how real companies are using new technology,” said Yao Guanhua. “At Amazon, we learned how they used cloud computing and big data to build intelligent systems in China. And at the Data Center, they showed us how they stored, maintained, and used massive amounts of data for marketing, entrepreneurship, and innovation.”",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Course Spotlight: Network Analytics"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "The world we live in is built upon a myriad of networks: Human society is defined by our interpersonal relationships. Organizations are structured around interconnecting roles and lines of authority between workers, colleagues, and bosses. Global information is conveyed across a world-wide web of linked content. As we have witnessed recently, epidemics spread over a social network of contacts, in the same way in which we buy products as we are influenced by our peers. In networks, local interactions among members of small communities can often propagate and further affect the outcomes of an entire system."
+    },
+    {
+      "type": "p",
+      "text": "Assistant Professor of Information Systems and Business Analytics Bruno Abrahao studies the power of networks and their effect on business and society. A computer scientist by training, Abrahao spent years using the tools of data science for networks in his own research and in collaborations with companies, such as Airbnb and Microsoft, to find solutions to problems rooted in network abstractions. For Airbnb, he mapped out the network of trust among users – determining which factors influenced hosts’ decisions on who to accept as tenants, and guest decisions on who to select as their potential hosts. For Microsoft Research AI, he studied corporate email networks to understand fundamental questions about human relationships and to find ways to make organizations more efficient."
+    },
+    {
+      "type": "p",
+      "text": "In his graduate-level Network Analytics course, he brings his work and academic experience to the classroom, teaching the students of the Data Analytics & Business Computing masters program every fall semester how to tackle business problems using the tools of computer science, economics, and social science to analyze networks. Professor Abrahao also teaches an undergraduate version of this course, called \"Data Science for Social and Information Networks\"."
+    },
+    {
+      "type": "p",
+      "text": "Abrahao with the class"
+    },
+    {
+      "type": "p",
+      "text": "Last Fall, twenty-seven students joined Abrahao in learning the interdisciplinary nature of the subject, as well as the tools of network analysis - network modeling and algorithms, Python's NetworkX library, machine learning, and natural language processing - and then in applying them to pressing problems in our society."
+    },
+    {
+      "type": "p",
+      "text": "For their final assignment, students brought all their new skills and knowledge to group projects that addressed big questions in business or in society in general, modelling them mathematically to make them precise, and running algorithms that analyze networks to illuminate them."
+    },
+    {
+      "type": "p",
+      "text": "\"What I like the most about teaching this course is the process of creating the means for a group of students from diverse backgrounds, and with different technical perspectives and worldviews, to get together and to employ problem solving strategies that transcend disciplinary boundaries,\" Abrahao says. The outcomes of their projects are just mind-blowing!\""
+    },
+    {
+      "type": "p",
+      "text": "For instance, Phionna Teo applied network analytics to the social phenomenon of cyberbullying. “Social media platforms are still a bit slow in using automated systems to identify abusive content. They still rely on user-generated judgements and reporting,” said Teo. “We wanted to identify the types of people who are more susceptible to cyberbullying, so that detection can be automated more efficiently.”"
+    },
+    {
+      "type": "p",
+      "text": "Teo’s team started with a set of 30 thousand tweets from 2013, and trained an AI classifier to identify “bullying” relationships. This was done by learning from comments pulled from another publicly available Wikipedia dataset, annotated with the goal of identifying behaviors that were labeled “bullying.” After applying the trained classifier to the data set of 30 thousand tweets, the team ended up with three thousand “bullying incidents” directed at other users."
+    },
+    {
+      "type": "p",
+      "text": "Following the pre-processing of the tweets, they correlated the network structure around a user, i.e., account information and follower/following relationships, with the labels they previously produced to investigate what kinds of local social networks around a user make them susceptible to cyberbullying. They also used natural language processing to analyze word usage, and found correlations between the most commonly used words in bullying comments and the next most common words that follow. The result of such analyses could potentially be used by social media platforms to automatically detect misbehavior and to identify individuals susceptible to bullying. Their method has the potential to immediately improve how platforms like Twitter handle online harassment."
+    },
+    {
+      "type": "p",
+      "text": "Yao Guanhua and Xu Zhixing wanted to see how the topics of songs and their lyrics have changed over time, and how much creativity and innovation are introduced in the music industry each year. They used web scraping to download lyrics from 140,000 English songs on Billboards from 1970 to 2000. They linked the songs, thereby forming a network, where two songs are connected if they exhibit similarity between their topics, which were previously extracted using natural language processing. Then they plotted the evolving structure of the networks divided by year and along 15 different topics to show changing trends over time. As the networks they built reveal where the industry lacks diversity, their work could offer ways for music producers to identify where creativity is needed."
+    },
+    {
+      "type": "p",
+      "text": "Yao and Xu’s project tracked changing music trends over four decades."
+    },
+    {
+      "type": "p",
+      "text": "Other student projects included a creative analysis of e-commerce recommendation systems, and building the Bespoke Travel Recommendation app."
+    },
+    {
+      "type": "p",
+      "text": "Abrahao and the class also made the most of being in Shanghai - visiting innovative local companies and meeting exciting researchers and entrepreneurs."
+    },
+    {
+      "type": "p",
+      "text": "Chen Yang, a professor of computer science at Fudan University, showed students how he and his research team used machine learning applied to social networks to detect fraudulent accounts on Dianping and Momo -- China’s Yelp and OkCupid."
+    },
+    {
+      "type": "p",
+      "text": "Students visited the new Amazon Joint Innovation Center in Shanghai’s Jing’an District, and the Shanghai Data Exchange Center -- a central hub that integrates and analyzes big data from Yangtze River Delta Region and the entire country for the purposes of business, transportation, security, and urban planning."
+    },
+    {
+      "type": "p",
+      "text": "The class at Amazon Joint Innovation Center"
+    },
+    {
+      "type": "p",
+      "text": "The class at the Shanghai Data Exchange Center"
+    },
+    {
+      "type": "p",
+      "text": "“We were so excited to learn how real companies are using new technology,” said Yao Guanhua. “At Amazon, we learned how they used cloud computing and big data to build intelligent systems in China. And at the Data Center, they showed us how they stored, maintained, and used massive amounts of data for marketing, entrepreneurship, and innovation.”"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/focus_image",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/focus_image/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/kmupdsgyegopatu4flc4wdns7xvajt6ukc_tzs9u-ifbz3ptlqz1bdrlfvx1vbuvphnqnwwxgoyfws1imoliz6apov1i5q7ntfvnsqtvlx5t_9wf9vkbqx26xtifw9ilr0bnmmvr.jpg?itok=mjo2W48d",
+      "alt": "bruno abrahao network analytics cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/content_page_slideshow_display/public/kmupdsgyegopatu4flc4wdns7xvajt6ukc_tzs9u-ifbz3ptlqz1bdrlfvx1vbuvphnqnwwxgoyfws1imoliz6apov1i5q7ntfvnsqtvlx5t_9wf9vkbqx26xtifw9ilr0bnmmvr.jpg?it"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/wpqoukzg81mg1nw8zbjou8wtvt_n_oc6l2nlypjocmi-c8oxgreii84vx_k-qeia7qlqfzwstzhmkurscabfc_0zwl2e-csyfe7jrndkojyr_neap6mwtjzzyowwdzykoqzdb2m.jpg",
+      "alt": "bruno abrahao network analytics1",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wpqoukzg81mg1nw8zbjou8wtvt_n_oc6l2nlypjocmi-c8oxgrei-5c96bca2d5c0.jpg",
+      "download_status": "downloaded",
+      "bytes": 249388,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/i_8byywv9m4i92bzfinis4fhd_5svy8muuspwqhaosjailh4k5jt6r3iskbiwojh5ggeinix5ccca80lekgkywbmxqrn9qebvtcia2-w2ff7md1qzpdl7foihmatbmerhl5_0rme.jpg",
+      "alt": "bruno abrahao network analytics amazon",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/i_8byywv9m4i92bzfinis4fhd_5svy8muuspwqhaosjailh4k5jt6r3iskbiwojh5ggeinix5ccca80lekgkywbmxqrn9qebvtcia2-w2ff7md1qzpdl7foihmatbmerhl5_0rme.jpg (Caused by SSLError(SSLEOFError(8, '[SSL:"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/fcucwv_1u5qlk0-r-o6dop4upwzxe5ot1xr5npi0wyhkeclmyo7dqzhwf0yxqheuno9s3q23x5gcr07vntnlzgnmjrzocecahqhyxspiez9zt6h_hk-fl7a-bvns8fntarobwmbe.jpg",
+      "alt": "bruno abrahao network analytics big data center",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Course%20Spotlight%3A%20Network%20Analytics&url=https%3A//shanghai.nyu.edu/is/course-spotlight-network-analytics&status=Course%20Spotlight%3A%20Network%20Analytics%20https%3A//shanghai.nyu.edu/is/course-spotlight-network-analytics",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/is/course-spotlight-network-analytics&title=Course%20Spotlight%3A%20Network%20Analytics",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/is/course-spotlight-network-analytics&title=Course%20Spotlight%3A%20Network%20Analytics",
+      "text": "Weibo",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 1028,
+  "crawled_at": "2026-06-09T04:50:20+00:00",
+  "sequence": 2108
+}

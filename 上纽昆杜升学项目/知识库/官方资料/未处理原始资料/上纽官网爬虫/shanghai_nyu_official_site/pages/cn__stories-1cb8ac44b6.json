@@ -1,0 +1,250 @@
+{
+  "id": "cn__stories-1cb8ac44b6",
+  "url": "https://shanghai.nyu.edu/cn/stories",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "cn",
+  "title": "人物 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "人物\n一位神经科学学生的“宝藏湾” | 上纽大2026届毕业生黄伊悦\n在镜头与世界之间：国家地理制作人x上纽大IMA Low Res 2026届毕业生李思思\n一个青年艺术家的画像｜上纽大2026届毕业生万芷岩\n蹦床·国关·体育政治：2026届毕业生AJ Noble的上纽闭环\n慢慢来，比较快 | 上纽大2026届毕业生Raquel Jimenez\n当“毛头”回到中国：一位商学硕士生的连接哲学\n把自己放进更大的世界｜上纽大2026届毕业生Rudraksha Bhukhanwala\n当“曹神”决定走自己的路｜上纽大2026届毕业生曹亦佳\n上纽大交互媒体与商学艺术副教授蒋昀：把人生作为课本\n上纽大严登峰教授：一位营销学学者的“现场”人生\n上纽大2023届校友Stanley Virgint：把“走出去”装进初创APP\n万里归沪，华裔孙儿陪伴祖母的这一年",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "人物"
+    },
+    {
+      "type": "h4",
+      "text": "一位神经科学学生的“宝藏湾” | 上纽大2026届毕业生黄伊悦"
+    },
+    {
+      "type": "h4",
+      "text": "在镜头与世界之间：国家地理制作人x上纽大IMA Low Res 2026届毕业生李思思"
+    },
+    {
+      "type": "h4",
+      "text": "一个青年艺术家的画像｜上纽大2026届毕业生万芷岩"
+    },
+    {
+      "type": "h4",
+      "text": "蹦床·国关·体育政治：2026届毕业生AJ Noble的上纽闭环"
+    },
+    {
+      "type": "h4",
+      "text": "慢慢来，比较快 | 上纽大2026届毕业生Raquel Jimenez"
+    },
+    {
+      "type": "h4",
+      "text": "当“毛头”回到中国：一位商学硕士生的连接哲学"
+    },
+    {
+      "type": "h4",
+      "text": "把自己放进更大的世界｜上纽大2026届毕业生Rudraksha Bhukhanwala"
+    },
+    {
+      "type": "h4",
+      "text": "当“曹神”决定走自己的路｜上纽大2026届毕业生曹亦佳"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大交互媒体与商学艺术副教授蒋昀：把人生作为课本"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大严登峰教授：一位营销学学者的“现场”人生"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大2023届校友Stanley Virgint：把“走出去”装进初创APP"
+    },
+    {
+      "type": "h4",
+      "text": "万里归沪，华裔孙儿陪伴祖母的这一年"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_yolanda_huang_yiyue-03.jpg?itok=GBRvBs6h",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/senior_spotlight_-_yolanda_huang_yiyue-03-30916d0e827c.jpg",
+      "download_status": "downloaded",
+      "bytes": 25610,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_cecilia_li_sisi-03.jpg?itok=u2oooywx",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_sophia_wan_zhiyan-03.jpg?itok=fb-gf5C8",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/senior_spotlight_-_sophia_wan_zhiyan-03-3cbc5ba57a3a.jpg",
+      "download_status": "downloaded",
+      "bytes": 26731,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_aj_noble-03.jpg?itok=UCSCqCoU",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_raquel_jimenez_26-03.jpg?itok=Vx2cUj8B",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/senior_spotlight_-_raquel_jimenez_26-03-b0da96d57b77.jpg",
+      "download_status": "downloaded",
+      "bytes": 25442,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/graduate_spotlight_-_maotou_zhou_msoms_26-03_0.jpg?itok=sE6POEGi",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/graduate_spotlight_-_maotou_zhou_msoms_26-03_0-f06a77e94579.jpg",
+      "download_status": "downloaded",
+      "bytes": 21170,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_rudraksha_bhukhanwala_26-03.jpg?itok=5tpcvc78",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/senior_spotlight_-_rudraksha_bhukhanwala_26-03-969c38e8f5ba.jpg",
+      "download_status": "downloaded",
+      "bytes": 30565,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/shangniuda2026jiebiyeshengcaoyijiadangcaoshenjuedingzouzijidelu-03.jpg?itok=uyF4jOB5",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/shangniuda2026jiebiyeshengcaoyijiadangcaoshenjueding-d3e37145c346.jpg",
+      "download_status": "downloaded",
+      "bytes": 25483,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/faculty_spotlight_-_emily_tsiang-03.jpg?itok=MZuITzEC",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/faculty_spotlight_-_emily_tsiang-03-d4544d72d038.jpg",
+      "download_status": "downloaded",
+      "bytes": 20414,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/faculty-spotlight-yan-dengfeng-thumbnail.jpg?itok=6Rgj8EyO",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/1-20_-_alumni_voices_-_stanley_virgint_23-02_0.jpg?itok=CI1E5DeR",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/1-20_-_alumni_voices_-_stanley_virgint_23-02_0-ec3048ca4c0c.jpg",
+      "download_status": "downloaded",
+      "bytes": 35963,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/studying_away_to_connect_with_home-02.jpg?itok=1lEatuIz",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/yolanda-huang-yiyue-26-where-music-meets-mind",
+      "text": "一位神经科学学生的“宝藏湾” | 上纽大2026届毕业生黄伊悦",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/cecilia-li-sisi-ima-low-res-26-between-screens-and-world",
+      "text": "在镜头与世界之间：国家地理制作人x上纽大IMA Low Res 2026届毕业生李思思",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/sophia-wan-zhiyan-26-portrait-young-artist",
+      "text": "一个青年艺术家的画像｜上纽大2026届毕业生万芷岩",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/aj-noble-26-jumping-new-heights",
+      "text": "蹦床·国关·体育政治：2026届毕业生AJ Noble的上纽闭环",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/raquel-jimenez-26-choose-harder-path-and-make-it-your-own",
+      "text": "慢慢来，比较快 | 上纽大2026届毕业生Raquel Jimenez",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/maotou-zhou-msoms-26-making-connections-leading-together",
+      "text": "当“毛头”回到中国：一位商学硕士生的连接哲学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/rudraksha-bhukhanwala-26-choosing-purpose-creating-community",
+      "text": "把自己放进更大的世界｜上纽大2026届毕业生Rudraksha Bhukhanwala",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/cao-yijia-26-pursuing-curiosity-over-certainty",
+      "text": "当“曹神”决定走自己的路｜上纽大2026届毕业生曹亦佳",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/emily-tsiang-cities-agency-and-experiential-learning",
+      "text": "上纽大交互媒体与商学艺术副教授蒋昀：把人生作为课本",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/yan-dengfeng-decoding-consumer-behavior",
+      "text": "上纽大严登峰教授：一位营销学学者的“现场”人生",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/stanley-virgint-23-asking-what-you-want",
+      "text": "上纽大2023届校友Stanley Virgint：把“走出去”装进初创APP",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/addison-zhang-nyu-26-studying-away-connect-home",
+      "text": "万里归沪，华裔孙儿陪伴祖母的这一年",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 44,
+  "crawled_at": "2026-06-09T04:28:25+00:00",
+  "sequence": 67
+}

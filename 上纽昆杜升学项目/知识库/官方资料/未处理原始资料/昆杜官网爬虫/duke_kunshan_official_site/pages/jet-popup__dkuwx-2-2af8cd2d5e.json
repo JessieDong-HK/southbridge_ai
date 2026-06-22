@@ -1,0 +1,46 @@
+{
+  "id": "jet-popup__dkuwx-2-2af8cd2d5e",
+  "url": "https://www.dukekunshan.edu.cn/jet-popup/dkuwx-2",
+  "canonical_url": "https://www.dukekunshan.edu.cn/jet-popup/dkuwx-2/",
+  "page_type": "jet-popup",
+  "title": "DkuWx",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": "2023-12-12T02:51:48+00:00",
+  "text": "Add Your Heading Text Here\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "text_blocks": [
+    {
+      "type": "h2",
+      "text": "Add Your Heading Text Here"
+    },
+    {
+      "type": "p",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.dukekunshan.edu.cn/jet-popup/dkuwx-2",
+      "text": "Click here",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 74,
+  "crawled_at": "2026-06-03T13:49:36+00:00",
+  "sequence": 78
+}

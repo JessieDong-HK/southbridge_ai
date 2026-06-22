@@ -1,0 +1,121 @@
+{
+  "id": "about__directions-3954797d98",
+  "url": "https://shanghai.nyu.edu/about/directions",
+  "canonical_url": "https://shanghai.nyu.edu/about/directions",
+  "page_type": "about",
+  "title": "Directions",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Directions\nNew Bund Campus\n567 West Yangsi Road, Pudong New District, Shanghai, China 200124Metro: Oriental Sports Center Station, Metro Lines 6/8/11 (Exit 3)Bus: Bus Lines 82/314/583/973/810/986/873\nTaxi Card\nZhongbei Campus\nECNU Geography Building, 3663 North Zhongshan Road, Shanghai, ChinaMetro: Jinshajiang Road Station, Metro Lines 3/4/13 (Exit 5)Bus: East China Normal University, Bus Lines 67/69/224/309/754/765/829/856/909\nTaxi Card\nView on Google Maps (outside China) or Baidu Maps (inside China)\nResidence Halls\nJingyao Residence Hall (璟耀公寓) Lane 533, Jiming Road, Pudong New Disctrict, Shanghai, China 200126Metro: Houtan Station, Metro Lines 7 (Exit 1)\nTaxi Card",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Directions"
+    },
+    {
+      "type": "p",
+      "text": "New Bund Campus"
+    },
+    {
+      "type": "p",
+      "text": "567 West Yangsi Road, Pudong New District, Shanghai, China 200124Metro: Oriental Sports Center Station, Metro Lines 6/8/11 (Exit 3)Bus: Bus Lines 82/314/583/973/810/986/873"
+    },
+    {
+      "type": "p",
+      "text": "Taxi Card"
+    },
+    {
+      "type": "p",
+      "text": "Zhongbei Campus"
+    },
+    {
+      "type": "p",
+      "text": "ECNU Geography Building, 3663 North Zhongshan Road, Shanghai, ChinaMetro: Jinshajiang Road Station, Metro Lines 3/4/13 (Exit 5)Bus: East China Normal University, Bus Lines 67/69/224/309/754/765/829/856/909"
+    },
+    {
+      "type": "p",
+      "text": "Taxi Card"
+    },
+    {
+      "type": "p",
+      "text": "View on Google Maps (outside China) or Baidu Maps (inside China)"
+    },
+    {
+      "type": "p",
+      "text": "Residence Halls"
+    },
+    {
+      "type": "p",
+      "text": "Jingyao Residence Hall (璟耀公寓) Lane 533, Jiming Road, Pudong New Disctrict, Shanghai, China 200126Metro: Houtan Station, Metro Lines 7 (Exit 1)"
+    },
+    {
+      "type": "p",
+      "text": "Taxi Card"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/qiantan_map.jpeg",
+      "alt": "qiantan_map",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/qiantan_map-a85e849decfa.jpeg",
+      "download_status": "downloaded",
+      "bytes": 966562,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/buildings-2-2.jpg",
+      "alt": "Zhongbei Campus",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/buildings-2-2-df4673c4e483.jpg",
+      "download_status": "downloaded",
+      "bytes": 354020,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/map2023-house-en.jpg",
+      "alt": "NYU Shanghai Jingyao residence hall map EN",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/map2023-house-en-de5beb06d31a.jpg",
+      "download_status": "downloaded",
+      "bytes": 637364,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/campus_address_card.png",
+      "text": "Taxi Card",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/media/Campus-Taxi-Card_zhongbei%20campus_3.pdf",
+      "text": "Taxi Card",
+      "internal": true
+    },
+    {
+      "url": "https://www.google.com/maps/d/viewer?mid=1KWLHD86T4hooqhLKTsBSFxhluk0&ll=31.226882644299646%2C121.40640400000007&z=16",
+      "text": "Google Maps",
+      "internal": false
+    },
+    {
+      "url": "https://j.map.baidu.com/be/wJRu",
+      "text": "Baidu Maps",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/residence_hall_address_card_0.png",
+      "text": "Taxi Card",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 112,
+  "crawled_at": "2026-06-09T04:28:38+00:00",
+  "sequence": 104
+}

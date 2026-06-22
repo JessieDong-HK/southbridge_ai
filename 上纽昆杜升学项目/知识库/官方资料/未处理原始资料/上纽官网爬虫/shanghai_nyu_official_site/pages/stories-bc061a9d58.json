@@ -1,0 +1,249 @@
+{
+  "id": "stories-bc061a9d58",
+  "url": "https://shanghai.nyu.edu/stories?page=15",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "stories",
+  "title": "People | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "People\nMichael James Lukiman, Captain of the NYU Shanghai Hyperloop Team\nRoman Chen, Self Designed Honors Major in Gender Politics. Study Away Site: Paris\nNoel Konagai, Self-Designed Honors Major. Study Away Site: New York\nKevin Pham, IMA Major. Study Away Site: Accra\nLucia Pierce, Director of External and Academic Events\nMarianne Petit, Director of Interactive Media Arts\nClay Shirky, Associate Prof. of Interactive Media Arts\nLeidy Tatiana Tapasco, Freshman, Colombia\nAndrea Jones-Rooy, Asst. Prof. of Global China Studies\nWes Livingstone, Freshman\nOmer Cohen, Freshman, Israel\nWeilun Zhang, Freshman, China",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "People"
+    },
+    {
+      "type": "h4",
+      "text": "Michael James Lukiman, Captain of the NYU Shanghai Hyperloop Team"
+    },
+    {
+      "type": "h4",
+      "text": "Roman Chen, Self Designed Honors Major in Gender Politics. Study Away Site: Paris"
+    },
+    {
+      "type": "h4",
+      "text": "Noel Konagai, Self-Designed Honors Major. Study Away Site: New York"
+    },
+    {
+      "type": "h4",
+      "text": "Kevin Pham, IMA Major. Study Away Site: Accra"
+    },
+    {
+      "type": "h4",
+      "text": "Lucia Pierce, Director of External and Academic Events"
+    },
+    {
+      "type": "h4",
+      "text": "Marianne Petit, Director of Interactive Media Arts"
+    },
+    {
+      "type": "h4",
+      "text": "Clay Shirky, Associate Prof. of Interactive Media Arts"
+    },
+    {
+      "type": "h4",
+      "text": "Leidy Tatiana Tapasco, Freshman, Colombia"
+    },
+    {
+      "type": "h4",
+      "text": "Andrea Jones-Rooy, Asst. Prof. of Global China Studies"
+    },
+    {
+      "type": "h4",
+      "text": "Wes Livingstone, Freshman"
+    },
+    {
+      "type": "h4",
+      "text": "Omer Cohen, Freshman, Israel"
+    },
+    {
+      "type": "h4",
+      "text": "Weilun Zhang, Freshman, China"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/beauty-shot_940.jpg?itok=epwZkoCP",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/beauty-shot_940-4caaa41ef5f1.jpg",
+      "download_status": "downloaded",
+      "bytes": 23498,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/Roman_940-480.jpg?itok=V2hnpbFT",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Roman_940-480-03a4267cf6c5.jpg",
+      "download_status": "downloaded",
+      "bytes": 20215,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/16-0210_0578-480.jpg?itok=uQiA_-L-",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/16-0210_0578-480-44bf8a5b4e09.jpg",
+      "download_status": "downloaded",
+      "bytes": 20481,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/Kevin.jpg?itok=8ZI458yY",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/3Q0A1993.jpg?itok=rgUmwfuR",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/3Q0A1993-af0833386320.jpg",
+      "download_status": "downloaded",
+      "bytes": 22049,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/marianne.jpg?itok=Fk9xv5Va",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/clay.jpg?itok=hAcqUTnM",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/clay-6abee743edb5.jpg",
+      "download_status": "downloaded",
+      "bytes": 29822,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/3M9A5902.jpg?itok=HpoR2jLS",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/3M9A5953_story_0.jpg?itok=dfTUhHPG",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/wes.jpg?itok=MI_elQxj",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/omer.jpg?itok=6HbepkS-",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/omer-06accadf51a3.jpg",
+      "download_status": "downloaded",
+      "bytes": 28944,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/weilun.jpg?itok=qBEV4P-p",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/weilun-854d2a6344dc.jpg",
+      "download_status": "downloaded",
+      "bytes": 27642,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/stories/michael-james-lukiman-captain-nyu-shanghai-hyperloop-team",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/roman-chen",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/noel-konagai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/kevin-pham",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/lucia-pierce-director-external-and-academic-events",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/marianne-petit-director-interactive-media-arts",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/clay-shirky-associate-prof-interactive-media-arts",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/leidy-tatiana-tapasco-freshman-colombia",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/andrea-jones-rooy-asst-prof-global-china-studies",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/wes-livingstone-freshman",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/omer-cohen-freshman-israel",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/weilun-zhang-freshman-china",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 91,
+  "crawled_at": "2026-06-09T04:33:01+00:00",
+  "sequence": 644
+}

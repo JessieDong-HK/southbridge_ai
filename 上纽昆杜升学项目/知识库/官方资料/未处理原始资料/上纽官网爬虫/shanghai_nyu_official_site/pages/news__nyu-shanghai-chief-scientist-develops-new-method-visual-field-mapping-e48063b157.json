@@ -1,0 +1,187 @@
+{
+  "id": "news__nyu-shanghai-chief-scientist-develops-new-method-visual-field-mapping-e48063b157",
+  "url": "https://shanghai.nyu.edu/news/nyu-shanghai-chief-scientist-develops-new-method-visual-field-mapping?utm_source=Gazette+AY+19-20+Fall&utm_campaign=3881a368be-EMAIL_CAMPAIGN_2020_03_13_06_25&utm_medium=email&utm_term=0_9d20950a4c-3881a368be-203814969",
+  "canonical_url": "https://shanghai.nyu.edu/news/nyu-shanghai-chief-scientist-develops-new-method-visual-field-mapping",
+  "page_type": "news",
+  "title": "NYU Shanghai Chief Scientist Develops a New Method for Visual Field Mapping",
+  "description": "The new method improves the accuracy, precision, and efficiency of visual field map assessments.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "NYU Shanghai Chief Scientist Develops a New Method for Visual Field Mapping\nTwitter\nFacebook\nWeibo\nAccording to the World Health Organization, at least 2.2 billion people around the world are impacted by vision impairment or blindness caused by eye diseases, such as glaucoma, cataract, and age-related macular degeneration. Visual-field maps (VFMs) that assess a patient’s central and peripheral vision are used routinely by clinicians to diagnose and manage these eye diseases.\nCurrent technologies for VFM assessments, however, are often inaccurate and imprecise, impeding the diagnosis and treatment of eye diseases. Lu Zhong-Lin, NYU Shanghai’s Chief Scientist and Associate Provost for Sciences, and his collaborators, Xu Pengjing and Yu Deyue from The Ohio State University, and Luis Andres Lesmes from Adaptive Sensory Technology, Inc., have developed a new method, called qVFM, that will enable clinicians to assess VFMs more accurately and precisely while ensuring high efficiency. The study was published in December, 2019 in one of the leading journals in vision science, Journal of Vision.\nCurrently, the gold standard VFM assessment in clinical ophthalmic diagnostics is the standard automated perimetry (SAP), which measures light sensitivity across different retinal locations to provide a light sensitivity VFM. However, the technology’s precision is far from ideal. For example, in one Ocular Hypertension Treatment Study, 85.9% of the abnormal perimetry results were not verified in a repeated test.\nStandard Automated Perimetry (SAP)\n“We can think of each VFM instrument as a ruler,” Lu said. “SAP is like a ruler calibrated down to the decimeter scale, which means there will be a lot of inaccuracies when measuring objects on the millimeter scale. That’s why we need to create a more accurate tool that is calibrated at a finer scale, and able to register smaller changes. Only when we use this more accurate ruler can we measure whether treatment is going in the right direction.”\nThe qVFM method developed by Lu and his team uses a Bayesian active learning algorithm to improve test accuracy and precision while saving time. The algorithm actively learns from the responses of the patient and determines the optimal test stimulus (e.g., its retinal location and light intensity or contrast) in each trial for each individual. It has three modules: a global module for preliminary assessment of the shape of the VFM, a local module for assessing individual areas of the visual-field, and a switch module for determining when to switch from using the global module to using the local module.\nIn the global module, the shape of the VFM is modeled as a tilted elliptic paraboloid function with five parameters (TEPF, shown in the image below). By actively learning the five parameters of the function from the trial-by-trial responses of the patient, the qVFM provides a rough estimate of overall shape of the VFM.\nSimulated visual-field map and tilted elliptic paraboloid function. The left panel shows the visual-field map of a simulated left eye with a blind spot. The right panel shows the corresponding tilted elliptic paraboloid function without the blind spot.\nThe switch module evaluates the rate of information gain on the shape of the VFM in the global module and switches to the local module when further testing no longer improves the precision of the TEPF rapidly.\nThe local module uses the results from the global module to generate the initial estimate of the visual function (e.g., light sensitivity) in each retinal location. It then uses another Bayesian active learning algorithm to further improve the precision of the estimated visual function in each retinal location.\nThe research team validated the method by conducting a series of simulations and a psychophysical experiment. They compared the performance of the full qVFM method with a reduced qVFM procedure that only consisted of the local module in order to illustrate the power of the entire procedure.\nResearchers created simulated “observers” and preset the simulations to have normal vision. The “observers” viewed the computer display with one eye, and were cued to report the presence or absence of the target (a light disc) in one of 100 retinal locations. In the experiment, six human subjects were cued to report the presence or absence of a target stimulus in one of 100 retinal locations, with the light intensity and location of the target adaptively selected by the qVFM method in each trial.\nIn the experiment, subjects were asked to fixate on the center of the display and report whether the light disc presented at the center of the location cue (circle).\nBoth the simulations and the experiment showed that the qVFM method is able to provide accurate and precise visual field mapping of light sensitivity. The full qVFM procedure worked at approximately twice the speed of the reduced procedure with only the local module. This method can be extended to map other visual functions to monitor vision loss, evaluate therapeutic interventions, and develop effective rehabilitation treatment for low vision.\nLu says he does not plan to limit his research to the mapping of light sensitivity. “The ultimate goal of studying visual function is to predict visual performance in daily life ,” says Lu. “Our research should consider real situations in which people rely on their vision, such as reading and driving.”\nTo this end, Lu says the team has already conducted research to explore how accuracy, precision, and efficiency can be improved in the measurement of contrast sensitivity visual-field map, the visual ability to distinguish an object from its background. They are also exploring how the VFMs are related to driving behavior.\nIn addition, the team is conducting a series of studies to explore better practices in visual function measurement, testing the qVFM method on patients with eye disorders, instead of on subjects with healthy vision, to ensure its effectiveness in mapping the visual fields of individuals with damaged vision.\nInstead of asking test subjects to respond to stimuli by pressing buttons, the team has also developed a procedure based on eye tracking in which subjects can indicate the location of the target stimuli by moving their eyes.\nThe qVFM method has been disclosed in a PCT patent application. There are also active discussions on commercializing the technology.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "NYU Shanghai Chief Scientist Develops a New Method for Visual Field Mapping"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "According to the World Health Organization, at least 2.2 billion people around the world are impacted by vision impairment or blindness caused by eye diseases, such as glaucoma, cataract, and age-related macular degeneration. Visual-field maps (VFMs) that assess a patient’s central and peripheral vision are used routinely by clinicians to diagnose and manage these eye diseases."
+    },
+    {
+      "type": "p",
+      "text": "Current technologies for VFM assessments, however, are often inaccurate and imprecise, impeding the diagnosis and treatment of eye diseases. Lu Zhong-Lin, NYU Shanghai’s Chief Scientist and Associate Provost for Sciences, and his collaborators, Xu Pengjing and Yu Deyue from The Ohio State University, and Luis Andres Lesmes from Adaptive Sensory Technology, Inc., have developed a new method, called qVFM, that will enable clinicians to assess VFMs more accurately and precisely while ensuring high efficiency. The study was published in December, 2019 in one of the leading journals in vision science, Journal of Vision."
+    },
+    {
+      "type": "p",
+      "text": "Currently, the gold standard VFM assessment in clinical ophthalmic diagnostics is the standard automated perimetry (SAP), which measures light sensitivity across different retinal locations to provide a light sensitivity VFM. However, the technology’s precision is far from ideal. For example, in one Ocular Hypertension Treatment Study, 85.9% of the abnormal perimetry results were not verified in a repeated test."
+    },
+    {
+      "type": "p",
+      "text": "Standard Automated Perimetry (SAP)"
+    },
+    {
+      "type": "p",
+      "text": "“We can think of each VFM instrument as a ruler,” Lu said. “SAP is like a ruler calibrated down to the decimeter scale, which means there will be a lot of inaccuracies when measuring objects on the millimeter scale. That’s why we need to create a more accurate tool that is calibrated at a finer scale, and able to register smaller changes. Only when we use this more accurate ruler can we measure whether treatment is going in the right direction.”"
+    },
+    {
+      "type": "p",
+      "text": "The qVFM method developed by Lu and his team uses a Bayesian active learning algorithm to improve test accuracy and precision while saving time. The algorithm actively learns from the responses of the patient and determines the optimal test stimulus (e.g., its retinal location and light intensity or contrast) in each trial for each individual. It has three modules: a global module for preliminary assessment of the shape of the VFM, a local module for assessing individual areas of the visual-field, and a switch module for determining when to switch from using the global module to using the local module."
+    },
+    {
+      "type": "p",
+      "text": "In the global module, the shape of the VFM is modeled as a tilted elliptic paraboloid function with five parameters (TEPF, shown in the image below). By actively learning the five parameters of the function from the trial-by-trial responses of the patient, the qVFM provides a rough estimate of overall shape of the VFM."
+    },
+    {
+      "type": "p",
+      "text": "Simulated visual-field map and tilted elliptic paraboloid function. The left panel shows the visual-field map of a simulated left eye with a blind spot. The right panel shows the corresponding tilted elliptic paraboloid function without the blind spot."
+    },
+    {
+      "type": "p",
+      "text": "The switch module evaluates the rate of information gain on the shape of the VFM in the global module and switches to the local module when further testing no longer improves the precision of the TEPF rapidly."
+    },
+    {
+      "type": "p",
+      "text": "The local module uses the results from the global module to generate the initial estimate of the visual function (e.g., light sensitivity) in each retinal location. It then uses another Bayesian active learning algorithm to further improve the precision of the estimated visual function in each retinal location."
+    },
+    {
+      "type": "p",
+      "text": "The research team validated the method by conducting a series of simulations and a psychophysical experiment. They compared the performance of the full qVFM method with a reduced qVFM procedure that only consisted of the local module in order to illustrate the power of the entire procedure."
+    },
+    {
+      "type": "p",
+      "text": "Researchers created simulated “observers” and preset the simulations to have normal vision. The “observers” viewed the computer display with one eye, and were cued to report the presence or absence of the target (a light disc) in one of 100 retinal locations. In the experiment, six human subjects were cued to report the presence or absence of a target stimulus in one of 100 retinal locations, with the light intensity and location of the target adaptively selected by the qVFM method in each trial."
+    },
+    {
+      "type": "p",
+      "text": "In the experiment, subjects were asked to fixate on the center of the display and report whether the light disc presented at the center of the location cue (circle)."
+    },
+    {
+      "type": "p",
+      "text": "Both the simulations and the experiment showed that the qVFM method is able to provide accurate and precise visual field mapping of light sensitivity. The full qVFM procedure worked at approximately twice the speed of the reduced procedure with only the local module. This method can be extended to map other visual functions to monitor vision loss, evaluate therapeutic interventions, and develop effective rehabilitation treatment for low vision."
+    },
+    {
+      "type": "p",
+      "text": "Lu says he does not plan to limit his research to the mapping of light sensitivity. “The ultimate goal of studying visual function is to predict visual performance in daily life ,” says Lu. “Our research should consider real situations in which people rely on their vision, such as reading and driving.”"
+    },
+    {
+      "type": "p",
+      "text": "To this end, Lu says the team has already conducted research to explore how accuracy, precision, and efficiency can be improved in the measurement of contrast sensitivity visual-field map, the visual ability to distinguish an object from its background. They are also exploring how the VFMs are related to driving behavior."
+    },
+    {
+      "type": "p",
+      "text": "In addition, the team is conducting a series of studies to explore better practices in visual function measurement, testing the qVFM method on patients with eye disorders, instead of on subjects with healthy vision, to ensure its effectiveness in mapping the visual fields of individuals with damaged vision."
+    },
+    {
+      "type": "p",
+      "text": "Instead of asking test subjects to respond to stimuli by pressing buttons, the team has also developed a procedure based on eye tracking in which subjects can indicate the location of the target stimuli by moving their eyes."
+    },
+    {
+      "type": "p",
+      "text": "The qVFM method has been disclosed in a PCT patent application. There are also active discussions on commercializing the technology."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/dryhbvd-pn7c34hfdxgt9xlpbpebxhhrjmkgdrvvxygipkqqcwwik88e8mxrstxalwq6bxy7uobwunv_iwipxnvmcn-p3fyv1zkegboqjyhwywcod7hjx6o4rbricl9oqo8bfc-v_0.jpg?itok=NU1MsHfr",
+      "alt": "visual field map6",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/dryhbvd-pn7c34hfdxgt9xlpbpebxhhrjmkgdrvvxygipkqqcwwi-b6a8dfc443dd.jpg",
+      "download_status": "downloaded",
+      "bytes": 25906,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/son8gx65j72or7pnzeizz25p79navhk6igzp-2zsjpfo0ql-qs9ud55xqrtazoz99j9n2nkv6yywucd-azts1m8gkudzxnscms6gwlhfds_gufc57xdn8zuj4lvs26mxtccis1jl.jpg",
+      "alt": "visual field map3",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/wzh8jgfhngsqdkyt0m00ppcgxib1zf4ffoz9wma_m_otwr0z0qw2iznesb4wfnfh61v3djpsiqt3v78td6ieztxmspjq9eskkpf17sxjlffjhx8yn06ukgrj5b0rhc55rsqr1bo8.png",
+      "alt": "visual field map4",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/zb63bn65uzckad2yee3y4djau_4wmyzfanllupk_zve6irsw2zbkphasa01y8jqfo3kyasdkpheepc_uhlm9tut5t21mhkvj_jsmthe4-o9iofrrohf2_p1pyziikuncpnnfp1ks.png",
+      "alt": "visual field map5",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/zb63bn65uzckad2yee3y4djau_4wmyzfanllupk_zve6irsw2zbk-492a2c4aa031.png",
+      "download_status": "downloaded",
+      "bytes": 24554,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=NYU%20Shanghai%20Chief%20Scientist%20Develops%20a%20New%20Method%20for%20Visual%20Field%20Mapping&url=https%3A//shanghai.nyu.edu/news/nyu-shanghai-chief-scientist-develops-new-method-visual-field-mapping&status=NYU%20Shanghai%20Chief%20Scientist%20Develops%20a%20New%20Method%20for%20Visual%20Field%20Mapping%20https%3A//shanghai.nyu.edu/news/nyu-shanghai-chief-scientist-develops-new-method-visual-field-mapping",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/nyu-shanghai-chief-scientist-develops-new-method-visual-field-mapping&title=NYU%20Shanghai%20Chief%20Scientist%20Develops%20a%20New%20Method%20for%20Visual%20Field%20Mapping",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/nyu-shanghai-chief-scientist-develops-new-method-visual-field-mapping&title=NYU%20Shanghai%20Chief%20Scientist%20Develops%20a%20New%20Method%20for%20Visual%20Field%20Mapping",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://www.who.int/en/news-room/fact-sheets/detail/blindness-and-visual-impairment",
+      "text": "the World Health Organization",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership/zhong-lin-lu",
+      "text": "Lu Zhong-Lin",
+      "internal": true
+    },
+    {
+      "url": "https://jov.arvojournals.org/article.aspx?articleid=2757513",
+      "text": "The study",
+      "internal": false
+    },
+    {
+      "url": "https://jamanetwork.com/journals/jamaophthalmology/article-abstract/413586",
+      "text": "Ocular Hypertension Treatment Study",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 1038,
+  "crawled_at": "2026-06-09T04:40:55+00:00",
+  "sequence": 1342
+}

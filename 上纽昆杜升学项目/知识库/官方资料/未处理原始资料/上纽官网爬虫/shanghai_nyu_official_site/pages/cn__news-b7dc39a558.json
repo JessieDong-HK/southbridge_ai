@@ -1,0 +1,243 @@
+{
+  "id": "cn__news-b7dc39a558",
+  "url": "https://shanghai.nyu.edu/cn/news?page=8",
+  "canonical_url": "https://shanghai.nyu.edu/news",
+  "page_type": "cn",
+  "title": "新闻 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "新闻",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "新闻"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/lto_story_banner.jpg?itok=_o7LKq1D",
+      "alt": "LTO",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/lin_fanghua-05.jpg?itok=2cFNlCqC",
+      "alt": "林芳华教授",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/image4_1.jpg?itok=nuUqYOHX",
+      "alt": "Group photo of the Focus Media Global Talent Scholarship Fund launch ceremony",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/tales_of_emergence_-_tedxnyushanghais_8th_annual_conference-01.jpg?itok=t4LroqY_",
+      "alt": "tedxnyushanghai emergence banner image",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/tales_of_emergence_-_tedxnyushanghais_8th_annual_con-04ee7bcbff79.jpg",
+      "download_status": "downloaded",
+      "bytes": 22423,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/earth_day_roundup-01.jpg?itok=Vc9oGR-5",
+      "alt": "beekeeping-earth day banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/earth_day_roundup-01.jpg?itok=Vc9oGR-5 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of "
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/nyu00270.jpg?itok=37Qo-s7v",
+      "alt": "Five female panelists sit in a row facing and smiling at one woman holding up a picture.",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/nyu00270.jpg?itok=37Qo-s7v (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/joanna_waley-cohens_lifetime_engagement_with_china-01_2.jpg?itok=Cxr79dXI",
+      "alt": "joannaexhibition",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/joanna_waley-cohens_lifetime_engagement_with_china-0-b510f22796c5.jpg",
+      "download_status": "downloaded",
+      "bytes": 23606,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/417_-_nyush-pku-westlake_probability_conference-01.jpg?itok=WQ2qEiZl",
+      "alt": "conference",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/msw_10_year_news-01.jpg?itok=nEgvC70R",
+      "alt": "msw_10_year",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/msw_10_year_news-01-690d2df9b73a.jpg",
+      "download_status": "downloaded",
+      "bytes": 40113,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/gangqinjiakongxiangdongjiangchuxishanghainiuyuedaxue2025jiebenkeshengbiyedianlibingzhici-01.jpg?itok=SCN5qxS4",
+      "alt": "kongxiangdong",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/gangqinjiakongxiangdongjiangchuxishanghainiuyuedaxue-0d74b821f45f.jpg",
+      "download_status": "downloaded",
+      "bytes": 17687,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/candidate_weekend_2025-01.jpg?itok=MzIX6e3i",
+      "alt": "Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/teamwork_across_cultures_inaugural_sfuc-01.jpg?itok=FhyI750P",
+      "alt": "SFUC Cheerleading",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/teamwork_across_cultures_inaugural_sfuc-01-1fccd38eb857.jpg",
+      "download_status": "downloaded",
+      "bytes": 29850,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/making_art_on_the_factory_floor-01.jpg?itok=ZHwJ6kPq",
+      "alt": "artistic banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/making_art_on_the_factory_floor-01-c5f9efa5003c.jpg",
+      "download_status": "downloaded",
+      "bytes": 52666,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/exhibition_poster_high-res_zhanlangaoqinghaibao-2.jpg?itok=hna9mU8q",
+      "alt": "Vitalisms poster showing exhibition title and paintings by the exhibited artists",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/ready_for_take_off_-_88_days_until_graduation-01.jpg?itok=QOP3PMoQ",
+      "alt": "class of 2025 grad photos",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ready_for_take_off_-_88_days_until_graduation-01-71bb3bca4d6e.jpg",
+      "download_status": "downloaded",
+      "bytes": 31146,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/fast-deals-smart-plays-understanding-strategy-behind-buy-now-discounts",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/professor-fanghua-lin-elected-member-national-academy-sciences",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/shang-hai-niu-yue-da-xue-ju-xing-fen-zhong-chuan-mei-quan-qiu-ren-cai-jiang-zhu-xue-jin-juan",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/tales-emergence-tedxnyushanghais-8th-annual-conference",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/stay-green-nyu-shanghai-celebrates-earth-month",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/voices-heritage-reflections-chinese-dialects-and-cultural-identity",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/joanna-waley-cohens-lifetime-engagement-china",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/probability-conference-gathers-top-mathematicians",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/msw-program-celebrates-10th-anniversary",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/pianist-kong-xiangdong-speak-nyu-shanghais-9th-undergraduate-commencement",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/prospective-students-visit-campus-candidate-weekend",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/sweat-skill-athletic-integrity-sfuc-recap",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/making-art-factory-floor-cel-trip-beijing",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/new-ica-exhibition-explores-history-and-memory",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/ready-take-88-days-until-graduation",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:46:23+00:00",
+  "sequence": 1769
+}

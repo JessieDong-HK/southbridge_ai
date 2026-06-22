@@ -1,0 +1,104 @@
+{
+  "id": "page__institute-contemporary-arts-1229c69f82",
+  "url": "https://shanghai.nyu.edu/page/institute-contemporary-arts",
+  "canonical_url": "https://shanghai.nyu.edu/page/institute-contemporary-arts",
+  "page_type": "page",
+  "title": "Institute of Contemporary Arts",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Institute of Contemporary Arts\nThe Institute of Contemporary Arts (ICA) at NYU Shanghai is a non-profit kunsthalle and research center committed to the development, presentation, and exchange of diverse ideas through contemporary arts.\nOur commitment aligns with the mission of NYU Shanghai, dedicated to education, research, and public service, and is based on a core belief that engagement with art engenders critical thought, creativity, and openness to complexity, across disciplines and society and in everyday life.\nEvery two years, together with artists and our surrounding communities, the ICA at NYU Shanghai pursues thematic inquiries through public exhibitions, events, and publications that experiment with ways of knowing, being, and relating to ourselves and the world.\nEntrance of the Institute of Contemporary Arts (ICA) at NYU Shanghai.\nDirections\nThe campus entrance to the ICA is located at N101, on the ground floor of H!TIME Hall (north building).\nThe public entrance to the ICA is located on West Gaoqing Road, at the intersection with West Yangsi Road.\nHours\nOur opening hours vary with each season and program. We kindly invite you to check our Visit page for the latest details before planning your visit.\nContact\n567 West Yangsi RoadPudong New AreaShanghai 200124, China\n+86 021 2059 5809shanghai.ica@nyu.edu",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Institute of Contemporary Arts"
+    },
+    {
+      "type": "p",
+      "text": "The Institute of Contemporary Arts (ICA) at NYU Shanghai is a non-profit kunsthalle and research center committed to the development, presentation, and exchange of diverse ideas through contemporary arts."
+    },
+    {
+      "type": "p",
+      "text": "Our commitment aligns with the mission of NYU Shanghai, dedicated to education, research, and public service, and is based on a core belief that engagement with art engenders critical thought, creativity, and openness to complexity, across disciplines and society and in everyday life."
+    },
+    {
+      "type": "p",
+      "text": "Every two years, together with artists and our surrounding communities, the ICA at NYU Shanghai pursues thematic inquiries through public exhibitions, events, and publications that experiment with ways of knowing, being, and relating to ourselves and the world."
+    },
+    {
+      "type": "p",
+      "text": "Entrance of the Institute of Contemporary Arts (ICA) at NYU Shanghai."
+    },
+    {
+      "type": "h3",
+      "text": "Directions"
+    },
+    {
+      "type": "p",
+      "text": "The campus entrance to the ICA is located at N101, on the ground floor of H!TIME Hall (north building)."
+    },
+    {
+      "type": "p",
+      "text": "The public entrance to the ICA is located on West Gaoqing Road, at the intersection with West Yangsi Road."
+    },
+    {
+      "type": "h3",
+      "text": "Hours"
+    },
+    {
+      "type": "p",
+      "text": "Our opening hours vary with each season and program. We kindly invite you to check our Visit page for the latest details before planning your visit."
+    },
+    {
+      "type": "h3",
+      "text": "Contact"
+    },
+    {
+      "type": "p",
+      "text": "567 West Yangsi RoadPudong New AreaShanghai 200124, China"
+    },
+    {
+      "type": "p",
+      "text": "+86 021 2059 5809shanghai.ica@nyu.edu"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-ICA-2.jpg",
+      "alt": "Entrance of the Institute of Contemporary Arts (ICA) at NYU Shanghai.",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-ICA-2-b78d7bd66a50.jpg",
+      "download_status": "downloaded",
+      "bytes": 349794,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-ICA-3.jpg",
+      "alt": "Directions",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-ICA-3-168d31ff35ba.jpg",
+      "download_status": "downloaded",
+      "bytes": 24721,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://ica.shanghai.nyu.edu/visit",
+      "text": "Visit page",
+      "internal": false
+    },
+    {
+      "url": "https://ica.shanghai.nyu.edu/",
+      "text": "Learn More",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 209,
+  "crawled_at": "2026-06-09T04:28:00+00:00",
+  "sequence": 23
+}

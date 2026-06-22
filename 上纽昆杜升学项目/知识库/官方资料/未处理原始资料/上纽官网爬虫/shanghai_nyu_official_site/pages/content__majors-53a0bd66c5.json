@@ -1,0 +1,315 @@
+{
+  "id": "content__majors-53a0bd66c5",
+  "url": "https://shanghai.nyu.edu/content/majors",
+  "canonical_url": "https://shanghai.nyu.edu/content/majors",
+  "page_type": "content",
+  "title": "Majors",
+  "description": "NYU Shanghai currently offers the 19 majors. Students can follow their own course of study, combining majors, pursuing double majors, or designing a unique course of study based on their academic and professional interests.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Majors\nNYU Shanghai currently offers the 19 majors. Students can follow their own course of study, combining majors, pursuing double majors, or designing a unique course of study based on their academic and professional interests.\nNYU Shanghai currently offers the 19 majors listed below.\nArea Booklets\nHear from Our Students\nSeniors and recent graduates talk about their major journeys and academic experiences at NYU Shanghai.\nTaylah Bland '21: Seizing Every Opportunity\nZane Fadul ’21: Rising to the Occasion\nLancelot Zhang Qilin ’21: Language is the Silk that Weaves Community Together",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Majors"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai currently offers the 19 majors. Students can follow their own course of study, combining majors, pursuing double majors, or designing a unique course of study based on their academic and professional interests."
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai currently offers the 19 majors listed below."
+    },
+    {
+      "type": "h3",
+      "text": "Area Booklets"
+    },
+    {
+      "type": "h3",
+      "text": "Hear from Our Students"
+    },
+    {
+      "type": "p",
+      "text": "Seniors and recent graduates talk about their major journeys and academic experiences at NYU Shanghai."
+    },
+    {
+      "type": "h4",
+      "text": "Taylah Bland '21: Seizing Every Opportunity"
+    },
+    {
+      "type": "h4",
+      "text": "Zane Fadul ’21: Rising to the Occasion"
+    },
+    {
+      "type": "h4",
+      "text": "Lancelot Zhang Qilin ’21: Language is the Silk that Weaves Community Together"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/ic-cs.png",
+      "alt": "Computer Science",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/ic-cs.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/ic-ds.png",
+      "alt": "Data Science",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/ic-ds.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/ic-econmics.png",
+      "alt": "Economics",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/ic-econmics.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/ic-gcs.png",
+      "alt": "Global China Studies",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/ic-math.png",
+      "alt": "Mathmatics",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/images-29.png",
+      "alt": "Molecular Science",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/images-29.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/images-30.png",
+      "alt": "Neural Science",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/images-30.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/images-31.png",
+      "alt": "Physics",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/images-31.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-majors1.jpg",
+      "alt": "Taylah Bland '21: Seizing Every Opportunity",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-majors1-5fb7c19eb395.jpg",
+      "download_status": "downloaded",
+      "bytes": 29419,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-majors2.jpg",
+      "alt": "Zane Fadul ’21: Rising to the Occasion",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-majors2-493e27fe0798.jpg",
+      "download_status": "downloaded",
+      "bytes": 29435,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-majors3.jpg",
+      "alt": "Lancelot Zhang Qilin ’21: Language is the Silk that Weaves Community Together",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-majors3-0a83096e06ea.jpg",
+      "download_status": "downloaded",
+      "bytes": 27723,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/declare-or-change-major-posting-minor",
+      "text": "Declare a Major",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/biology",
+      "text": "Biology",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/business-and-finance",
+      "text": "Business and Finance",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/business-and-marketing",
+      "text": "Business and Marketing",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/chemistry",
+      "text": "Chemistry",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/computer-science",
+      "text": "Computer Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/computer-systems-engineering",
+      "text": "Computer Systems Engineering",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/data-science",
+      "text": "Data Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/economics",
+      "text": "Economics",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/electrical-and-systems-engineering",
+      "text": "Electrical and Systems Engineering",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/global-china-studies",
+      "text": "Global China Studies",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/honors-mathematics",
+      "text": "Honors Mathematics",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/humanities",
+      "text": "Humanities",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/interactive-media-arts",
+      "text": "Interactive Media Arts",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/interactive-media-and-business",
+      "text": "Interactive Media and Business",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/mathematics",
+      "text": "Mathematics",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/neural-science",
+      "text": "Neural Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/physics",
+      "text": "Physics",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/social-science",
+      "text": "Social Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors/self-designed-honors-major",
+      "text": "Self-Designed Honors Major (SDHM)",
+      "internal": true
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/ComputerScienceDemo2023.pdf",
+      "text": "Computer Science",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/DataScienceDemo2023.pdf",
+      "text": "Data Science",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/nyush_economics_program_booklet.pdf",
+      "text": "Economics",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/GCSDemo2023.pdf",
+      "text": "Global China Studies",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/nyush_mathematics_program_booklet.pdf",
+      "text": "Mathmatics",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/Molecular%20Science%20booklet%20Demo-11.12.pdf",
+      "text": "Molecular Science",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/Neuro%20booklet%20Demo_Oct.2022.pdf",
+      "text": "Neural Science",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/sites/default/files/nyush_physics_program_booklet.pdf",
+      "text": "Physics",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/taylah-bland-21-seizing-every-opportunity",
+      "text": "Taylah Bland '21: Seizing Every Opportunity",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/zane-fadul-21-rising-occasion",
+      "text": "Zane Fadul ’21: Rising to the Occasion",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/lancelot-zhang-qilin-21-language-silk-weaves-community-together",
+      "text": "Lancelot Zhang Qilin ’21: Language is the Silk that Weaves Community Together",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 90,
+  "crawled_at": "2026-06-09T04:30:23+00:00",
+  "sequence": 302
+}

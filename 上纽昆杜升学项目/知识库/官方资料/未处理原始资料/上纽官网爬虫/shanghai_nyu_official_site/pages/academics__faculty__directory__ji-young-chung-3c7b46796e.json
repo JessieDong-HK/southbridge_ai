@@ -1,0 +1,74 @@
+{
+  "id": "academics__faculty__directory__ji-young-chung-3c7b46796e",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/ji-young-chung",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/ji-young-chung",
+  "page_type": "academics",
+  "title": "Ji Young",
+  "description": "Ji Young Chung is a Language Lecturer of Korean at NYU Shanghai. Her teaching and research interests center on Korean language pedagogy, multilingualism, and cross-cultural exchange in East Asian contexts. She holds a BA in Korean Literature and Linguistics and an MA in Teaching Korean as a Second",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Ji Young Chung\nJi Young Chung is a Language Lecturer of Korean at NYU Shanghai. Her teaching and research interests center on Korean language pedagogy, multilingualism, and cross-cultural exchange in East Asian contexts. She holds a BA in Korean Literature and Linguistics and an MA in Teaching Korean as a Second Language from Yonsei University in Seoul, South Korea. She also earned a second MA in TESOL from the Rossier School of Education at the University of Southern California.\nEducation\nMA, TESOLRossier School of Education, University of Southern California\nMA, Teaching Korean as a Second LanguageYonsei University\nBA, Korean Literature and Korean LinguisticsYonsei University\nKorean language education\nKorean linguistics\nLanguage immersion programs\nBilingual education\nBilingualism",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Ji Young Chung"
+    },
+    {
+      "type": "p",
+      "text": "Ji Young Chung is a Language Lecturer of Korean at NYU Shanghai. Her teaching and research interests center on Korean language pedagogy, multilingualism, and cross-cultural exchange in East Asian contexts. She holds a BA in Korean Literature and Linguistics and an MA in Teaching Korean as a Second Language from Yonsei University in Seoul, South Korea. She also earned a second MA in TESOL from the Rossier School of Education at the University of Southern California."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MA, TESOLRossier School of Education, University of Southern California"
+    },
+    {
+      "type": "li",
+      "text": "MA, Teaching Korean as a Second LanguageYonsei University"
+    },
+    {
+      "type": "li",
+      "text": "BA, Korean Literature and Korean LinguisticsYonsei University"
+    },
+    {
+      "type": "li",
+      "text": "Korean language education"
+    },
+    {
+      "type": "li",
+      "text": "Korean linguistics"
+    },
+    {
+      "type": "li",
+      "text": "Language immersion programs"
+    },
+    {
+      "type": "li",
+      "text": "Bilingual education"
+    },
+    {
+      "type": "li",
+      "text": "Bilingualism"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/selected-Capture%20One%20Catalog1112.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 116,
+  "crawled_at": "2026-06-09T04:54:26+00:00",
+  "sequence": 2431
+}

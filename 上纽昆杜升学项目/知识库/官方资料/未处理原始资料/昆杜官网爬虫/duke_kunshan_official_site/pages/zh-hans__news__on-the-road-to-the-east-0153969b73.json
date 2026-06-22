@@ -1,0 +1,36 @@
+{
+  "id": "zh-hans__news__on-the-road-to-the-east-0153969b73",
+  "url": "https://www.dukekunshan.edu.cn/zh-hans/news/on-the-road-to-the-east",
+  "canonical_url": "https://www.dukekunshan.edu.cn/zh-hans/news/on-the-road-to-the-east/",
+  "page_type": "zh-hans",
+  "title": "美国历史学家的东行漫记",
+  "description": "",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "2024-02-29T11:08:36+00:00",
+  "sitemap_lastmod": "2024-02-29T11:08:36+00:00",
+  "text": "美国历史学家的东行漫记",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "美国历史学家的东行漫记"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-03T13:52:36+00:00",
+  "sequence": 330
+}

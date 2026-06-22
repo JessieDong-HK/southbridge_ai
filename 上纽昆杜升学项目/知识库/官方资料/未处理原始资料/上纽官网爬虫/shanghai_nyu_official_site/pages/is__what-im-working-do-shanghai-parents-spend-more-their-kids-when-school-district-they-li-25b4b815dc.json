@@ -1,0 +1,192 @@
+{
+  "id": "is__what-im-working-do-shanghai-parents-spend-more-their-kids-when-school-district-they-li-25b4b815dc",
+  "url": "https://shanghai.nyu.edu/is/what-im-working-do-shanghai-parents-spend-more-their-kids-when-school-district-they-live",
+  "canonical_url": "https://shanghai.nyu.edu/is/what-im-working-do-shanghai-parents-spend-more-their-kids-when-school-district-they-live",
+  "page_type": "is",
+  "title": "What I’m Working on: Do Shanghai Parents Spend More on Their Kids When the School District They Live in Suddenly Improves?",
+  "description": "Do Shanghai Parents Spend More on Their Kids When the School District They Live in Suddenly Improves?",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "What I’m Working on: Do Shanghai Parents Spend More on Their Kids When the School District They Live in Suddenly Improves?\nTwitter\nFacebook\nWeibo\nIn 2015, the Shanghai Municipal Government merged Zhabei district into its neighboring Jing’an district. Before the merger, though its population was more than three times that of Jing’an, Zhabei had roughly the same number of high-performing schools as in Jing’an. The merger effectively doubled the number of high-performing schools Zhabei students could seek to attend.\nNYU Shanghai Assistant Professor of Finance Lu Yiqing, Executive Director of Volatility Institute Zhou Xin, and Assistant Professor of Economics Gao Pei wondered how this change in educational opportunity would affect the spending habits of Zhabei parents on their children. The trio examined 1.7 million China UnionPay bank card transactions in Zhabei, Jing'an, and Xuhui districts and found that cardholders in the relatively disadvantaged district of Zhabei, especially the lower-income parents, increased their child-related spending and cut adult-exclusive spending after the merger. Professor Lu recently took some time to discuss the team's research and its greater implications for public policy.\n(from left to right: Professors Lu Yiqing, Gao Pei, and Zhou Xin)\nHow did you decide to study the effects of the Zhabei-Jing’an merger on parental investment in children? What made you curious about this issue?\nDistrict or city mergers happen in China quite often. In my opinion, it has at least two economic impacts when it happens: on housing prices and on public resources reallocation. For the former, we did not find any significant impact on total consumption, which led us to wonder that, perhaps, the real impact lies in public resources, in particular, education resource consolidation. Every country values the equal distribution of education resources, and it is one of the major social issues every government is working to improve. I hear friends and relatives talking about their kids’ education all the time. So to me, it is quite natural to dig into a merger's implications on public resource consolidation.\nHow is this research different from other papers on similar topics?\nTo our knowledge, this is the first among the existing literature that uses bankcard transactions to track parents’ financial investment in children. After analyzing all this data, we found that parents in the three districts we studied allocated 11 percent (vs 3 to 9 percent in the U.S. and 4 percent in the U.K.) of their bankcard spending to child-exclusive items -- such as academic tutoring and enrichment activities such as visits to zoos and museums that might also improve academic performance in school. For Zhabei parents, we were able to link a spike in bank card spending on children to the same time period as the merger between Jing’an and Zhabei.\nThe bulk of your 1.7 million bank card transactions came from China UnionPay. Why did you work with them?\nWe decided to work with UnionPay Advisors, a subsidiary of China UnionPay, because not only did their dataset document every bankcard transaction across a wide spectrum of expenditure categories, it also included all intermediate bankcard-based transactions in China. Also, because mobile payments in 2015 weren’t as ubiquitous as they are now, we felt that the bankcard payments would capture most people’s transactions.\nHow were you able to secure this data from China UnionPay while protecting bankcard users’ privacy? And what technique did you use to analyze that amount of data?\nWe used the latest and the fastest edition of an econometric software to analyze the bank transaction data. The software provides extensive multi-core support for computers to do multiprocessing, which can help speed up the estimation.\nThe server is remote and isolated from the internet to ensure data safety. In other words, we do not operate physically in their data lab. It is China UnionPay’s ITs that configure the server in such a way that researchers cannot upload or download data on their own. After Union Pay approves a research proposal, their data scientists helped us extract the data based on the proposal’s data instruction and remove personally identifiable information and store it on the server for researchers' use.\nBeyond the timing of the increase in spending by Zhabei parents, how else did you bolster your theory that increased educational opportunities triggered increases in spending on children?\nWe compared parental investment in children of cardholders in Zhabei to that of cardholders in a third district, Xuhui, that was not directly affected by the merger. Our baseline results show that cardholders in Zhabei increased their spending on children significantly more than those in Xuhui after the announcement of the merger. The merger also led to a mild reduction in Zhabei cardholders’ spending on some items that are consumed exclusively by adults (e.g., coffee, alcohol and cosmetics). It is likely that cardholders cut adult-exclusive consumption to afford the increased investment in their children. Since this district merger only changed educational opportunities for pre-high-school aged children, we constructed a subsample that consisted of cardholders who are identified as having such children. The subsample analysis showed a consistent and more sizeable effect: Zhabei cardholders with young children spent 53.6 RMB more per month on education-related items (36.8 percent of its mean) and 4.3 RMB (86 percent of its mean) more on child enrichment items than those in Xuhui spent after the merger.\nWe also explored the heterogeneous effects of the merger along two dimensions. First, daily commuting time is an important consideration when choosing schools. We conjecture that cardholders in Zhabei who lived closer to the old border between Jing'an and Zhabei would have greater incentives than those who lived farther away to realize the improvement in educational opportunities. Indeed, we find that the effect of the merger on parental investment was larger among those living closer to the old border. Second, we examined whether the effect of the merger differed across income groups. Using total annual spending before the merger as a proxy for cardholders’ income, we showed that the merger’s effect on education-related spending was greater for the poorer, while the effect on enrichment spending was greater for the wealthier.\nWhat are the implications of your findings for education policy in the future?\nOur paper also highlights the importance of expanding educational opportunities. The results imply that parents may perceive higher returns from investing in their children if their children have better access to high-quality education. In contrast with some findings in the literature that disadvantaged parents tend to perceive lower returns from investing in their children, ours show a more promising pattern that lower-income parents increased education-related spending more than wealthier ones when presented with improved educational opportunities.\nThere is already a large body of work focusing on the effect of access to high-performing schools on the admitted students’ performance and parental investment. Our research has potentially found that even the bare possibility of attending a better school can inspire parents to invest more in the education of their children, including those who might not eventually attend a high-performing school.\nEqual access to educational opportunity has been a central plank of many policies aimed at advancing children from less wealthy backgrounds. This paper suggests a less financially burdensome solution that requires no extra budget, only the requirement that the government provide more students opportunities to attend a high-performing school, as the Zhabei/Jing’an merger did.\nMore importantly, our findings suggest that promoting equality in educational opportunities could raise parents’ hopes beyond its direct effect on children, especially among the less affluent, potentially narrowing the socioeconomic disparities in early-stage human capital investment.\nHow did the three of you come to work on this project? What was it like working with the other two NYU Shanghai business professors together on this?\nXin and I were the ones who started exploring UnionPay data. Pei specializes in children and education. And we are also very good friends privately. After I proposed this setting, they both became quite interested and wanted to work on it together.\nIt has been a great pleasure to work with my colleagues who are also good friends of mine. By working on the project together, I feel that I get a chance to know them again. I enjoyed the numerous conversations I had with my co-authors about the paper and research in general. We all believe that we are answering a research question that is not only important to the literature but has policy value. I do not think we have a clear-cut division of work among us, as we checked code and wrote the paper together. They are super smart and fun to work with!",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "What I’m Working on: Do Shanghai Parents Spend More on Their Kids When the School District They Live in Suddenly Improves?"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "In 2015, the Shanghai Municipal Government merged Zhabei district into its neighboring Jing’an district. Before the merger, though its population was more than three times that of Jing’an, Zhabei had roughly the same number of high-performing schools as in Jing’an. The merger effectively doubled the number of high-performing schools Zhabei students could seek to attend."
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai Assistant Professor of Finance Lu Yiqing, Executive Director of Volatility Institute Zhou Xin, and Assistant Professor of Economics Gao Pei wondered how this change in educational opportunity would affect the spending habits of Zhabei parents on their children. The trio examined 1.7 million China UnionPay bank card transactions in Zhabei, Jing'an, and Xuhui districts and found that cardholders in the relatively disadvantaged district of Zhabei, especially the lower-income parents, increased their child-related spending and cut adult-exclusive spending after the merger. Professor Lu recently took some time to discuss the team's research and its greater implications for public policy."
+    },
+    {
+      "type": "p",
+      "text": "(from left to right: Professors Lu Yiqing, Gao Pei, and Zhou Xin)"
+    },
+    {
+      "type": "p",
+      "text": "How did you decide to study the effects of the Zhabei-Jing’an merger on parental investment in children? What made you curious about this issue?"
+    },
+    {
+      "type": "p",
+      "text": "District or city mergers happen in China quite often. In my opinion, it has at least two economic impacts when it happens: on housing prices and on public resources reallocation. For the former, we did not find any significant impact on total consumption, which led us to wonder that, perhaps, the real impact lies in public resources, in particular, education resource consolidation. Every country values the equal distribution of education resources, and it is one of the major social issues every government is working to improve. I hear friends and relatives talking about their kids’ education all the time. So to me, it is quite natural to dig into a merger's implications on public resource consolidation."
+    },
+    {
+      "type": "p",
+      "text": "How is this research different from other papers on similar topics?"
+    },
+    {
+      "type": "p",
+      "text": "To our knowledge, this is the first among the existing literature that uses bankcard transactions to track parents’ financial investment in children. After analyzing all this data, we found that parents in the three districts we studied allocated 11 percent (vs 3 to 9 percent in the U.S. and 4 percent in the U.K.) of their bankcard spending to child-exclusive items -- such as academic tutoring and enrichment activities such as visits to zoos and museums that might also improve academic performance in school. For Zhabei parents, we were able to link a spike in bank card spending on children to the same time period as the merger between Jing’an and Zhabei."
+    },
+    {
+      "type": "p",
+      "text": "The bulk of your 1.7 million bank card transactions came from China UnionPay. Why did you work with them?"
+    },
+    {
+      "type": "p",
+      "text": "We decided to work with UnionPay Advisors, a subsidiary of China UnionPay, because not only did their dataset document every bankcard transaction across a wide spectrum of expenditure categories, it also included all intermediate bankcard-based transactions in China. Also, because mobile payments in 2015 weren’t as ubiquitous as they are now, we felt that the bankcard payments would capture most people’s transactions."
+    },
+    {
+      "type": "p",
+      "text": "How were you able to secure this data from China UnionPay while protecting bankcard users’ privacy? And what technique did you use to analyze that amount of data?"
+    },
+    {
+      "type": "p",
+      "text": "We used the latest and the fastest edition of an econometric software to analyze the bank transaction data. The software provides extensive multi-core support for computers to do multiprocessing, which can help speed up the estimation."
+    },
+    {
+      "type": "p",
+      "text": "The server is remote and isolated from the internet to ensure data safety. In other words, we do not operate physically in their data lab. It is China UnionPay’s ITs that configure the server in such a way that researchers cannot upload or download data on their own. After Union Pay approves a research proposal, their data scientists helped us extract the data based on the proposal’s data instruction and remove personally identifiable information and store it on the server for researchers' use."
+    },
+    {
+      "type": "p",
+      "text": "Beyond the timing of the increase in spending by Zhabei parents, how else did you bolster your theory that increased educational opportunities triggered increases in spending on children?"
+    },
+    {
+      "type": "p",
+      "text": "We compared parental investment in children of cardholders in Zhabei to that of cardholders in a third district, Xuhui, that was not directly affected by the merger. Our baseline results show that cardholders in Zhabei increased their spending on children significantly more than those in Xuhui after the announcement of the merger. The merger also led to a mild reduction in Zhabei cardholders’ spending on some items that are consumed exclusively by adults (e.g., coffee, alcohol and cosmetics). It is likely that cardholders cut adult-exclusive consumption to afford the increased investment in their children. Since this district merger only changed educational opportunities for pre-high-school aged children, we constructed a subsample that consisted of cardholders who are identified as having such children. The subsample analysis showed a consistent and more sizeable effect: Zhabei cardholders with young children spent 53.6 RMB more per month on education-related items (36.8 percent of its mean) and 4.3 RMB (86 percent of its mean) more on child enrichment items than those in Xuhui spent after the merger."
+    },
+    {
+      "type": "p",
+      "text": "We also explored the heterogeneous effects of the merger along two dimensions. First, daily commuting time is an important consideration when choosing schools. We conjecture that cardholders in Zhabei who lived closer to the old border between Jing'an and Zhabei would have greater incentives than those who lived farther away to realize the improvement in educational opportunities. Indeed, we find that the effect of the merger on parental investment was larger among those living closer to the old border. Second, we examined whether the effect of the merger differed across income groups. Using total annual spending before the merger as a proxy for cardholders’ income, we showed that the merger’s effect on education-related spending was greater for the poorer, while the effect on enrichment spending was greater for the wealthier."
+    },
+    {
+      "type": "p",
+      "text": "What are the implications of your findings for education policy in the future?"
+    },
+    {
+      "type": "p",
+      "text": "Our paper also highlights the importance of expanding educational opportunities. The results imply that parents may perceive higher returns from investing in their children if their children have better access to high-quality education. In contrast with some findings in the literature that disadvantaged parents tend to perceive lower returns from investing in their children, ours show a more promising pattern that lower-income parents increased education-related spending more than wealthier ones when presented with improved educational opportunities."
+    },
+    {
+      "type": "p",
+      "text": "There is already a large body of work focusing on the effect of access to high-performing schools on the admitted students’ performance and parental investment. Our research has potentially found that even the bare possibility of attending a better school can inspire parents to invest more in the education of their children, including those who might not eventually attend a high-performing school."
+    },
+    {
+      "type": "p",
+      "text": "Equal access to educational opportunity has been a central plank of many policies aimed at advancing children from less wealthy backgrounds. This paper suggests a less financially burdensome solution that requires no extra budget, only the requirement that the government provide more students opportunities to attend a high-performing school, as the Zhabei/Jing’an merger did."
+    },
+    {
+      "type": "p",
+      "text": "More importantly, our findings suggest that promoting equality in educational opportunities could raise parents’ hopes beyond its direct effect on children, especially among the less affluent, potentially narrowing the socioeconomic disparities in early-stage human capital investment."
+    },
+    {
+      "type": "p",
+      "text": "How did the three of you come to work on this project? What was it like working with the other two NYU Shanghai business professors together on this?"
+    },
+    {
+      "type": "p",
+      "text": "Xin and I were the ones who started exploring UnionPay data. Pei specializes in children and education. And we are also very good friends privately. After I proposed this setting, they both became quite interested and wanted to work on it together."
+    },
+    {
+      "type": "p",
+      "text": "It has been a great pleasure to work with my colleagues who are also good friends of mine. By working on the project together, I feel that I get a chance to know them again. I enjoyed the numerous conversations I had with my co-authors about the paper and research in general. We all believe that we are answering a research question that is not only important to the literature but has policy value. I do not think we have a clear-cut division of work among us, as we checked code and wrote the paper together. They are super smart and fun to work with!"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/focus_image",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/focus_image/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/focus_image/2021.03.21-01-940.jpg?itok=sTXO0XE7",
+      "alt": "father holding a baby",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/2021.03.21-01-730.jpg",
+      "alt": "business profs",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=What%20I%E2%80%99m%20Working%20on%3A%20Do%20Shanghai%20Parents%20Spend%20More%20on%20Their%20Kids%20When%20the%20School%20District%20They%20Live%20in%20Suddenly%20Improves%3F%20%20&url=https%3A//shanghai.nyu.edu/is/what-im-working-do-shanghai-parents-spend-more-their-kids-when-school-district-they-live&status=What%20I%E2%80%99m%20Working%20on%3A%20Do%20Shanghai%20Parents%20Spend%20More%20on%20Their%20Kids%20When%20the%20School%20District%20They%20Live%20in%20Suddenly%20Improves%3F%20%20%20https%3A//shanghai.nyu.edu/is/what-im-working-do-shanghai-parents-spend-more-their-kids-when-school-district-they-live",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/is/what-im-working-do-shanghai-parents-spend-more-their-kids-when-school-district-they-live&title=What%20I%E2%80%99m%20Working%20on%3A%20Do%20Shanghai%20Parents%20Spend%20More%20on%20Their%20Kids%20When%20the%20School%20District%20They%20Live%20in%20Suddenly%20Improves%3F%20%20",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/is/what-im-working-do-shanghai-parents-spend-more-their-kids-when-school-district-they-live&title=What%20I%E2%80%99m%20Working%20on%3A%20Do%20Shanghai%20Parents%20Spend%20More%20on%20Their%20Kids%20When%20the%20School%20District%20They%20Live%20in%20Suddenly%20Improves%3F%20%20",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/yiqing-lu",
+      "text": "Lu Yiqing",
+      "internal": true
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/vins",
+      "text": "Volatility Institute",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/centers-and-institutes/vins/people/zhou-xin",
+      "text": "Zhou Xin",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/pei-gao",
+      "text": "Gao Pei",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1474,
+  "crawled_at": "2026-06-09T04:50:05+00:00",
+  "sequence": 2087
+}

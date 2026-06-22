@@ -1,0 +1,95 @@
+{
+  "id": "cn__page__zhao-sheng-xuan-jiang-0d42496299",
+  "url": "https://shanghai.nyu.edu/cn/page/zhao-sheng-xuan-jiang",
+  "canonical_url": "https://shanghai.nyu.edu/cn/page/zhao-sheng-xuan-jiang",
+  "page_type": "cn",
+  "title": "招生宣讲",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "招生宣讲\n随着每年本科招生简章的公布，上海纽约大学的招生宣讲将同时启动。上海纽约大学本科招生办工作人员将在10月至12月将前往全国各地，进行招生宣讲，与学生及家长面对面交流，以帮助大家更全面、更深入地了解上海纽约大学。除线下宣讲之外，招生办每年也会举办线上宣讲。\n你也可以关注我校本科招生办官方微信公众号“NYUSHZS”或官方微博“上海纽约大学招生办”。招生宣讲安排每周更新，后续宣讲安排一经确定，会在以上渠道更新，请广大学生及家长保持关注。若未能参加招生宣讲，完全不影响学生申请我校。招生宣讲的所有内容基本都可在我校官网及其他官方平台上获取。\n官方微信：上海纽约大学招生办\n官方微博：上海纽约大学本科招生办",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "招生宣讲"
+    },
+    {
+      "type": "p",
+      "text": "随着每年本科招生简章的公布，上海纽约大学的招生宣讲将同时启动。上海纽约大学本科招生办工作人员将在10月至12月将前往全国各地，进行招生宣讲，与学生及家长面对面交流，以帮助大家更全面、更深入地了解上海纽约大学。除线下宣讲之外，招生办每年也会举办线上宣讲。"
+    },
+    {
+      "type": "p",
+      "text": "你也可以关注我校本科招生办官方微信公众号“NYUSHZS”或官方微博“上海纽约大学招生办”。招生宣讲安排每周更新，后续宣讲安排一经确定，会在以上渠道更新，请广大学生及家长保持关注。若未能参加招生宣讲，完全不影响学生申请我校。招生宣讲的所有内容基本都可在我校官网及其他官方平台上获取。"
+    },
+    {
+      "type": "p",
+      "text": "官方微信：上海纽约大学招生办"
+    },
+    {
+      "type": "p",
+      "text": "官方微博：上海纽约大学本科招生办"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Chinese-Admission-12-2.png",
+      "alt": "预约参加线下宣讲活动",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Chinese-Admission-12-3.png",
+      "alt": "预约校园参观",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Chinese-Admission-12-3-f5aa673ee684.png",
+      "download_status": "downloaded",
+      "bytes": 1500,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-admissions-cu-cn-03-4_0.jpg",
+      "alt": "官方微信：上海纽约大学招生办",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-admissions-cu-cn-03-5.jpg",
+      "alt": "官方微博：上海纽约大学本科招生办",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-admissions-cu-cn-03-5-0e2bca93ca64.jpg",
+      "download_status": "downloaded",
+      "bytes": 10351,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/zsb/fangan",
+      "text": "招生简章",
+      "internal": true
+    },
+    {
+      "url": "https://apply.shanghai.nyu.edu/events?type=890200020&category=ae1b4a94-1a5c-ee11-9472-00155d566520",
+      "text": "预约参加线下宣讲活动",
+      "internal": false
+    },
+    {
+      "url": "https://apply.shanghai.nyu.edu/events?campustour=true",
+      "text": "预约校园参观",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 25,
+  "crawled_at": "2026-06-09T04:36:21+00:00",
+  "sequence": 902
+}

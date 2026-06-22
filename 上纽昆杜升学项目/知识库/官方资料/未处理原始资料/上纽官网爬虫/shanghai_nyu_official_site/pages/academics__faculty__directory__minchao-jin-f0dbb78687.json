@@ -1,0 +1,90 @@
+{
+  "id": "academics__faculty__directory__minchao-jin-f0dbb78687",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/minchao-jin",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/minchao-jin",
+  "page_type": "academics",
+  "title": "Minchao",
+  "description": "Jin Minchao is an Affiliated Clinical Associate Professor of Social Work at NYU Shanghai. He received his Bachelor’s degree from Tsinghua University and both his Master’s and PhD in Social Work from Washington University in St. Louis. At NYU Shanghai, he teaches graduate courses including Social",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Minchao Jin\nSelect Publications\nJin, M., Chen, J., & Huang, X. (2025). Game-based intervention to improve child financial literacy: A quasi-experimental study. Research on Social Work Practice.\nJin, M. (2025). Causal Chain: A Practical Guide to Program Analysis and Evaluation. Shanghai, China: East China University of Science and Technology Press. (in Chinese)\nChen, J. & Jin, M. (2023). The effectiveness of an egg-based intervention on improving the nutrition of poor school-age children in China: A quasi-experimental assessment. Nutrition, 109.\nJin, M. & Chen, Z. (2020). Comparing Financial Socialization and Formal Financial Education: Building Financial Capability. Social Indicators Research, 149, 641–656. doi: 10.1007/s11205-019-02248-z\nYang, Y., Chen, J. & Jin, M.* (2019). Who are the asset-poor in China: A comprehensive description and policy implication. Journal of Social Policy, 48(4), 756-787. doi: 10.1017/S0047279418000855\nEducation\nPhD, Social WorkWashington University in St. Louis, Missouri, U.S.A\nPhD, Social WorkWashington University in St. Louis, Missouri, U.S.A\nMaster of Social WorkWashington University in St. Louis, Missouri, U.S.A\nMaster of Social WorkWashington University in St. Louis, Missouri, U.S.A\nBachelor of Science, EngineeringTsinghua University, Beijing, China\nBachelor of Science, EngineeringTsinghua University, Beijing, China\nProfessor Jin’s research interests center on financial social work, child welfare, and social service design and evaluation. For example, in collaboration with co-authors, he showed the effectiveness of an innovative game-based intervention for improving children’s financial literacy and offered corresponding recommendations for financial social work practice. His evaluation of the “One Egg” program provided evidence that daily egg consumption can improve the nutritional status of school-aged children in underdeveloped areas. Most recently, his sole-authored book presents the mechanisms and applications of the Causal Chain toolkit he developed for social service design, analysis, and evaluation.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Minchao Jin"
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Jin, M., Chen, J., & Huang, X. (2025). Game-based intervention to improve child financial literacy: A quasi-experimental study. Research on Social Work Practice."
+    },
+    {
+      "type": "li",
+      "text": "Jin, M. (2025). Causal Chain: A Practical Guide to Program Analysis and Evaluation. Shanghai, China: East China University of Science and Technology Press. (in Chinese)"
+    },
+    {
+      "type": "li",
+      "text": "Chen, J. & Jin, M. (2023). The effectiveness of an egg-based intervention on improving the nutrition of poor school-age children in China: A quasi-experimental assessment. Nutrition, 109."
+    },
+    {
+      "type": "li",
+      "text": "Jin, M. & Chen, Z. (2020). Comparing Financial Socialization and Formal Financial Education: Building Financial Capability. Social Indicators Research, 149, 641–656. doi: 10.1007/s11205-019-02248-z"
+    },
+    {
+      "type": "li",
+      "text": "Yang, Y., Chen, J. & Jin, M.* (2019). Who are the asset-poor in China: A comprehensive description and policy implication. Journal of Social Policy, 48(4), 756-787. doi: 10.1017/S0047279418000855"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Social WorkWashington University in St. Louis, Missouri, U.S.A"
+    },
+    {
+      "type": "p",
+      "text": "PhD, Social WorkWashington University in St. Louis, Missouri, U.S.A"
+    },
+    {
+      "type": "li",
+      "text": "Master of Social WorkWashington University in St. Louis, Missouri, U.S.A"
+    },
+    {
+      "type": "p",
+      "text": "Master of Social WorkWashington University in St. Louis, Missouri, U.S.A"
+    },
+    {
+      "type": "li",
+      "text": "Bachelor of Science, EngineeringTsinghua University, Beijing, China"
+    },
+    {
+      "type": "p",
+      "text": "Bachelor of Science, EngineeringTsinghua University, Beijing, China"
+    },
+    {
+      "type": "p",
+      "text": "Professor Jin’s research interests center on financial social work, child welfare, and social service design and evaluation. For example, in collaboration with co-authors, he showed the effectiveness of an innovative game-based intervention for improving children’s financial literacy and offered corresponding recommendations for financial social work practice. His evaluation of the “One Egg” program provided evidence that daily egg consumption can improve the nutritional status of school-aged children in underdeveloped areas. Most recently, his sole-authored book presents the mechanisms and applications of the Causal Chain toolkit he developed for social service design, analysis, and evaluation."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/minchao_jin_0.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/minchao_jin_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 303,
+  "crawled_at": "2026-06-09T04:42:58+00:00",
+  "sequence": 1518
+}

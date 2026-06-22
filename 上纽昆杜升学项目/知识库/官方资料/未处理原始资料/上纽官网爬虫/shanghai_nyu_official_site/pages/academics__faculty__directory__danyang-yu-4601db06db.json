@@ -1,0 +1,78 @@
+{
+  "id": "academics__faculty__directory__danyang-yu-4601db06db",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/danyang-yu",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/danyang-yu",
+  "page_type": "academics",
+  "title": "Danyang",
+  "description": "Danyang Yu is the Area Head of Natural Sciences and a Professor of Practice in Biology at NYU Shanghai. Professor Yu received her BS at Tsinghua University, Beijing, and her PhD from NYU in 2008, where she also performed postdoctoral work until 2010 in the laboratory of Stephen Small. Since 2010,",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Danyang Yu\nDanyang Yu is the Area Head of Natural Sciences and a Professor of Practice in Biology at NYU Shanghai. Professor Yu received her BS at Tsinghua University, Beijing, and her PhD from NYU in 2008, where she also performed postdoctoral work until 2010 in the laboratory of Stephen Small. Since 2010, she has been an Assistant Professor at Fairleigh Dickinson University in New Jersey. She has published in high-ranking journals such as Cell, Proceedings of the National Academy of Sciences of the USA, and Current Biology.\nSelect Publications\nHongtao Chen, Zhe Xu, Constance Mei, Danyang Yu and Stephen Small. 2012. A System of Repressor Gradients Spatially Organizes the Boundaries of Bicoid-Dependent Target Genes. Cell. 149: 618-629.\nPaolo Struffi, Corado Maria, Kaplan Leah, Danyang Yu, Christine Rushlow and Stephen Small. 2011. Combinatorial activation and concentration-dependent repression of the Drosophila even skipped stripe 3+7 enhancer. Development. 138(19): 4291-4299.\nEducation\nPhD, BiologyNew York University\nDevelopmental Biology\nGenetics\nGenetics Laboratory\nIndependent Study – Biology\nOrganismal Systems",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Danyang Yu"
+    },
+    {
+      "type": "p",
+      "text": "Danyang Yu is the Area Head of Natural Sciences and a Professor of Practice in Biology at NYU Shanghai. Professor Yu received her BS at Tsinghua University, Beijing, and her PhD from NYU in 2008, where she also performed postdoctoral work until 2010 in the laboratory of Stephen Small. Since 2010, she has been an Assistant Professor at Fairleigh Dickinson University in New Jersey. She has published in high-ranking journals such as Cell, Proceedings of the National Academy of Sciences of the USA, and Current Biology."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Hongtao Chen, Zhe Xu, Constance Mei, Danyang Yu and Stephen Small. 2012. A System of Repressor Gradients Spatially Organizes the Boundaries of Bicoid-Dependent Target Genes. Cell. 149: 618-629."
+    },
+    {
+      "type": "li",
+      "text": "Paolo Struffi, Corado Maria, Kaplan Leah, Danyang Yu, Christine Rushlow and Stephen Small. 2011. Combinatorial activation and concentration-dependent repression of the Drosophila even skipped stripe 3+7 enhancer. Development. 138(19): 4291-4299."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, BiologyNew York University"
+    },
+    {
+      "type": "li",
+      "text": "Developmental Biology"
+    },
+    {
+      "type": "li",
+      "text": "Genetics"
+    },
+    {
+      "type": "li",
+      "text": "Genetics Laboratory"
+    },
+    {
+      "type": "li",
+      "text": "Independent Study – Biology"
+    },
+    {
+      "type": "li",
+      "text": "Organismal Systems"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/fianl-Danyang%20Yu-2025%20fall.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 170,
+  "crawled_at": "2026-06-09T04:35:41+00:00",
+  "sequence": 857
+}

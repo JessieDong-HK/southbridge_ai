@@ -1,0 +1,104 @@
+{
+  "id": "news__neural-science-researchers-find-brain-region-and-process-turns-decisions-actions-007eefc684",
+  "url": "https://shanghai.nyu.edu/news/neural-science-researchers-find-brain-region-and-process-turns-decisions-actions",
+  "canonical_url": "https://shanghai.nyu.edu/news/neural-science-researchers-find-brain-region-and-process-turns-decisions-actions",
+  "page_type": "news",
+  "title": "Neural Science Researchers Find Brain Region and Process that Turns Decisions into Actions",
+  "description": "NYU Shanghai Professor Xinying Cai's research will be featured on the cover of the journal, Neuron.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Neural Science Researchers Find Brain Region and Process that Turns Decisions into Actions\nTwitter\nFacebook\nWeibo\nHave you ever felt confident in a decision, certain that you’ve made the right choice, only to struggle to take the steps needed to make your decision a reality? New research by NYU Shanghai Assistant Professor of Neural and Cognitive Sciences Xinying Cai may explain why this kind of experience is not unusual.\nIn a cover article for a forthcoming issue of the journal Neuron (currently available to subscribers online), Cai and former NYU Shanghai postdoctoral researcher Man Yi Yim and Xiao-Jing Wang at New York University describe how they have located the region of the brain where decisions based on preference are translated into actions – the ventral (lower) section of the lateral pre-frontal cortex, or LPFCv. Importantly, Cai and his colleagues were able to determine that our decisions about which option to choose are made in a different region of the brain and are made before an action plan is formulated in the LPFCv.\nCai describes the brain’s decision-to-action process as similar to the process of using a vending machine. “We first decide which snack we would like to purchase, and then we push the right buttons to retrieve the chosen snack,” he says. “So the abstract choice is made first, followed by the physical process of obtaining the chosen good.”\nCai and his team built computational models for the decision-to-action process and then compared them to data from a monkey experiment conducted by Cai and a colleague currently at Washington University School of Medicine in St. Louis.\nThe researchers first created two models of how two parallel networks of integration neurons – which mix information about already formed choices with spatial information – interact with each other. One model assumed little simultaneous exchange between the two networks of neurons, while the other assumed a much higher level of simultaneous exchange.\nData from these two models was then compared to real readings from an experiment in which Cai and his collaborator mapped the neural signals within the brains of monkeys given a choice between types and quantities of different juices. The experiment was designed to leave lag time between steps in the choice presentation and decision-to-action process to let researchers more clearly view the processes within the monkeys’ brains.\nUltimately, neither of the two initial models the researchers devised seemed to match the monkey data. But the team discovered that when they tweaked their models so that the strength of interaction between the two neural networks fluctuated during the decision-to-action process, the model outputs and monkey data seemed to match. The study is the first of its kind to be able to integrate this variability, or “heterogeneity,” into a computational model of the decision-to-action process.\nUnderstanding both the location and the process in which decisions are made and transformed into actions could significantly improve medical professionals’ ability to treat social and behavioral disorders such as addiction, depression, or schizophrenia. There are also countless ways in which this knowledge could be useful for industries that depend on consumers to make fundamental judgments about goods or services.\n“Our study focuses on ‘economic choice,’ which can be defined as choices and subsequent actions based solely on subjective preferences - decisions like choosing what dish to order at a restaurant. Choices that involve more complex reasoning are different and, based on previous research that I contributed to, may be carried out by a different brain region,” Cai explains. “More investigation is needed to determine if our current findings reflect how actions are formulated using complex reasoning.”",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Neural Science Researchers Find Brain Region and Process that Turns Decisions into Actions"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Have you ever felt confident in a decision, certain that you’ve made the right choice, only to struggle to take the steps needed to make your decision a reality? New research by NYU Shanghai Assistant Professor of Neural and Cognitive Sciences Xinying Cai may explain why this kind of experience is not unusual."
+    },
+    {
+      "type": "p",
+      "text": "In a cover article for a forthcoming issue of the journal Neuron (currently available to subscribers online), Cai and former NYU Shanghai postdoctoral researcher Man Yi Yim and Xiao-Jing Wang at New York University describe how they have located the region of the brain where decisions based on preference are translated into actions – the ventral (lower) section of the lateral pre-frontal cortex, or LPFCv. Importantly, Cai and his colleagues were able to determine that our decisions about which option to choose are made in a different region of the brain and are made before an action plan is formulated in the LPFCv."
+    },
+    {
+      "type": "p",
+      "text": "Cai describes the brain’s decision-to-action process as similar to the process of using a vending machine. “We first decide which snack we would like to purchase, and then we push the right buttons to retrieve the chosen snack,” he says. “So the abstract choice is made first, followed by the physical process of obtaining the chosen good.”"
+    },
+    {
+      "type": "p",
+      "text": "Cai and his team built computational models for the decision-to-action process and then compared them to data from a monkey experiment conducted by Cai and a colleague currently at Washington University School of Medicine in St. Louis."
+    },
+    {
+      "type": "p",
+      "text": "The researchers first created two models of how two parallel networks of integration neurons – which mix information about already formed choices with spatial information – interact with each other. One model assumed little simultaneous exchange between the two networks of neurons, while the other assumed a much higher level of simultaneous exchange."
+    },
+    {
+      "type": "p",
+      "text": "Data from these two models was then compared to real readings from an experiment in which Cai and his collaborator mapped the neural signals within the brains of monkeys given a choice between types and quantities of different juices. The experiment was designed to leave lag time between steps in the choice presentation and decision-to-action process to let researchers more clearly view the processes within the monkeys’ brains."
+    },
+    {
+      "type": "p",
+      "text": "Ultimately, neither of the two initial models the researchers devised seemed to match the monkey data. But the team discovered that when they tweaked their models so that the strength of interaction between the two neural networks fluctuated during the decision-to-action process, the model outputs and monkey data seemed to match. The study is the first of its kind to be able to integrate this variability, or “heterogeneity,” into a computational model of the decision-to-action process."
+    },
+    {
+      "type": "p",
+      "text": "Understanding both the location and the process in which decisions are made and transformed into actions could significantly improve medical professionals’ ability to treat social and behavioral disorders such as addiction, depression, or schizophrenia. There are also countless ways in which this knowledge could be useful for industries that depend on consumers to make fundamental judgments about goods or services."
+    },
+    {
+      "type": "p",
+      "text": "“Our study focuses on ‘economic choice,’ which can be defined as choices and subsequent actions based solely on subjective preferences - decisions like choosing what dish to order at a restaurant. Choices that involve more complex reasoning are different and, based on previous research that I contributed to, may be carried out by a different brain region,” Cai explains. “More investigation is needed to determine if our current findings reflect how actions are formulated using complex reasoning.”"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/professor-cais-news-940.jpg?itok=lpxTiyv_",
+      "alt": "professor-cai",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/professor-cais-news-940-e937e122116a.jpg",
+      "download_status": "downloaded",
+      "bytes": 43587,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Neural%20Science%20Researchers%20Find%20Brain%20Region%20and%20Process%20that%20Turns%20Decisions%20into%20Actions&url=https%3A//shanghai.nyu.edu/news/neural-science-researchers-find-brain-region-and-process-turns-decisions-actions&status=Neural%20Science%20Researchers%20Find%20Brain%20Region%20and%20Process%20that%20Turns%20Decisions%20into%20Actions%20https%3A//shanghai.nyu.edu/news/neural-science-researchers-find-brain-region-and-process-turns-decisions-actions",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/neural-science-researchers-find-brain-region-and-process-turns-decisions-actions&title=Neural%20Science%20Researchers%20Find%20Brain%20Region%20and%20Process%20that%20Turns%20Decisions%20into%20Actions",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/neural-science-researchers-find-brain-region-and-process-turns-decisions-actions&title=Neural%20Science%20Researchers%20Find%20Brain%20Region%20and%20Process%20that%20Turns%20Decisions%20into%20Actions",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/xinying-cai",
+      "text": "Xinying Cai",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 610,
+  "crawled_at": "2026-06-09T04:40:57+00:00",
+  "sequence": 1347
+}

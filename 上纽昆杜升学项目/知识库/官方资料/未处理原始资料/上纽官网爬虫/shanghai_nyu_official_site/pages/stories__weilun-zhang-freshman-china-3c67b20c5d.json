@@ -1,0 +1,76 @@
+{
+  "id": "stories__weilun-zhang-freshman-china-3c67b20c5d",
+  "url": "https://shanghai.nyu.edu/stories/weilun-zhang-freshman-china",
+  "canonical_url": "https://shanghai.nyu.edu/stories/weilun-zhang-freshman-china",
+  "page_type": "stories",
+  "title": "Weilun Zhang, Freshman, China",
+  "description": "December 19, 2014 - “Since college began, I have been devoting myself to trying new things. I don’t want to just choose a normal path and be an ordinary person. I want to try something different. I like the feeling of exploration. Everyday when I wake up, I feel like I have the passion to do",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Weilun Zhang, Freshman, China\nTwitter\nFacebook\nWeibo\nDecember 19, 2014 - “Since college began, I have been devoting myself to trying new things. I don’t want to just choose a normal path and be an ordinary person. I want to try something different. I like the feeling of exploration. Everyday when I wake up, I feel like I have the passion to do anything that I want; when I go to bed, I can say that I have no regrets for the day.\" - Weilun Zhang, Freshman, China",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Weilun Zhang, Freshman, China"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "December 19, 2014 - “Since college began, I have been devoting myself to trying new things. I don’t want to just choose a normal path and be an ordinary person. I want to try something different. I like the feeling of exploration. Everyday when I wake up, I feel like I have the passion to do anything that I want; when I go to bed, I can say that I have no regrets for the day.\" - Weilun Zhang, Freshman, China"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/story",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/story/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/story/weilun.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/weilun-f9b01262d575.jpg",
+      "download_status": "downloaded",
+      "bytes": 96009,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Weilun%20Zhang%2C%20Freshman%2C%20China&url=https%3A//shanghai.nyu.edu/stories/weilun-zhang-freshman-china&status=Weilun%20Zhang%2C%20Freshman%2C%20China%20https%3A//shanghai.nyu.edu/stories/weilun-zhang-freshman-china",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/stories/weilun-zhang-freshman-china&title=Weilun%20Zhang%2C%20Freshman%2C%20China",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/stories/weilun-zhang-freshman-china&title=Weilun%20Zhang%2C%20Freshman%2C%20China",
+      "text": "Weibo",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 87,
+  "crawled_at": "2026-06-09T04:47:48+00:00",
+  "sequence": 1886
+}

@@ -1,0 +1,250 @@
+{
+  "id": "stories-9e29b67102",
+  "url": "https://shanghai.nyu.edu/stories?page=10",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "stories",
+  "title": "People | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "People\nFaculty Spotlight: Ling Shuyang\nSenior Spotlight: Victoria Rusu\nAlumni Profile: Jack Zhu ’18\nFaculty Spotlight: Guo Siyao\nRoommates: Frank Zhou '21 and Justin Zotos '21\nSenior Spotlight: Muddassar Sharif\nSenior Spotlight: Shirley Zhao\nSenior Spotlight: Savannah Billman\nSenior Spotlight: Huang Qi\nSenior Spotlight: Honey Lera\nSenior Spotlight: Yang Xiaohan\nSenior Spotlight: Anthony Comeau",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "People"
+    },
+    {
+      "type": "h4",
+      "text": "Faculty Spotlight: Ling Shuyang"
+    },
+    {
+      "type": "h4",
+      "text": "Senior Spotlight: Victoria Rusu"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Profile: Jack Zhu ’18"
+    },
+    {
+      "type": "h4",
+      "text": "Faculty Spotlight: Guo Siyao"
+    },
+    {
+      "type": "h4",
+      "text": "Roommates: Frank Zhou '21 and Justin Zotos '21"
+    },
+    {
+      "type": "h4",
+      "text": "Senior Spotlight: Muddassar Sharif"
+    },
+    {
+      "type": "h4",
+      "text": "Senior Spotlight: Shirley Zhao"
+    },
+    {
+      "type": "h4",
+      "text": "Senior Spotlight: Savannah Billman"
+    },
+    {
+      "type": "h4",
+      "text": "Senior Spotlight: Huang Qi"
+    },
+    {
+      "type": "h4",
+      "text": "Senior Spotlight: Honey Lera"
+    },
+    {
+      "type": "h4",
+      "text": "Senior Spotlight: Yang Xiaohan"
+    },
+    {
+      "type": "h4",
+      "text": "Senior Spotlight: Anthony Comeau"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/ling_shuyang_feng_mian_xiao_tu_.jpg?itok=ZpijcWoB",
+      "alt": "Ling Shuyang Q&A cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ling_shuyang_feng_mian_xiao_tu-eb6ff5bd18f8.jpg",
+      "download_status": "downloaded",
+      "bytes": 17393,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/victoria_rusu-940.jpg?itok=o-fodVTw",
+      "alt": "Victoria Rusu",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/nyu-pic1.jpg?itok=jKt2ZFzj",
+      "alt": "Square zhu hua",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/wechatimg413.jpg?itok=oMVhvL5c",
+      "alt": "guosiyao",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg413-ff7fadbb6b25.jpg",
+      "download_status": "downloaded",
+      "bytes": 21799,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/dsc08253-450.jpg?itok=B2WAx3ej",
+      "alt": "roommate",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/dsc08253-450-31c3b8d3567f.jpg",
+      "download_status": "downloaded",
+      "bytes": 26552,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/screen_shot_2019-06-06_at_5.54.09_pm.png?itok=8BK41Ky2",
+      "alt": "new faculty 2019",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2019-06-06_at_5.54.09_pm-1571d57fc7f1.png",
+      "download_status": "downloaded",
+      "bytes": 264822,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/screen_shot_2019-05-31_at_1.51.52_pm.png?itok=08jIAZUm",
+      "alt": "zhao",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2019-05-31_at_1.51.52_pm-be0f55b3b5f2.png",
+      "download_status": "downloaded",
+      "bytes": 283362,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/savannah_cover_940.jpg?itok=JePfgDGF",
+      "alt": "billman",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/ping_940.jpg?itok=bKwqJOes",
+      "alt": "huangqi",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ping_940-dcc686ccaa55.jpg",
+      "download_status": "downloaded",
+      "bytes": 16350,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/2019-05-09_1.jpg?itok=Yqa5M6O0",
+      "alt": "Honey Lera",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/wechatimg544.jpg?itok=uEC8SwhB",
+      "alt": "Yang Xiaohan",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg544-ea965c3bfd4c.jpg",
+      "download_status": "downloaded",
+      "bytes": 20326,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/anthony-comeau-940.jpg?itok=5gnjFGPd",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/anthony-comeau-940-423350985351.jpg",
+      "download_status": "downloaded",
+      "bytes": 27464,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/stories/qa-data-science-professor-ling-shuyang",
+      "text": "Faculty Spotlight: Ling Shuyang",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/senior-spotlight-victoria-rusu",
+      "text": "Senior Spotlight: Victoria Rusu",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-profile-jack-zhu-18",
+      "text": "Alumni Profile: Jack Zhu ’18",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/faculty-spotlight-guo-siyao",
+      "text": "Faculty Spotlight: Guo Siyao",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/roommates-frank-zhou-21-and-justin-zotos-21",
+      "text": "Roommates: Frank Zhou '21 and Justin Zotos '21",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/senior-spotlight-muddassar-sharif",
+      "text": "Senior Spotlight: Muddassar Sharif",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/senior-spotlight-shirley-zhao",
+      "text": "Senior Spotlight: Shirley Zhao",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/senior-spotlight-savannah-billman",
+      "text": "Senior Spotlight: Savannah Billman",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/senior-spotlight-huang-qi",
+      "text": "Senior Spotlight: Huang Qi",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/senior-spotlight-honey-lera",
+      "text": "Senior Spotlight: Honey Lera",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/senior-spotlight-yang-xiaohan",
+      "text": "Senior Spotlight: Yang Xiaohan",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/senior-spotlight-anthony-comeau",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 54,
+  "crawled_at": "2026-06-09T04:47:24+00:00",
+  "sequence": 1852
+}

@@ -1,0 +1,659 @@
+{
+  "id": "photo-gallery-adc51da76b",
+  "url": "https://www.dukekunshan.edu.cn/photo-gallery",
+  "canonical_url": "https://www.dukekunshan.edu.cn/photo-gallery/",
+  "page_type": "photo-gallery",
+  "title": "Photo Gallery",
+  "description": "Selected Photos of Duke Kunshan University campus.",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2026-01-28T01:24:06+00:00",
+  "sitemap_lastmod": "2026-01-28T01:24:06+00:00",
+  "text": "Photo Gallery\nAcademic Building\nConference Center\nInnovation Building\nWater Pavilion\nLibrary\nWHU-Duke Research Institute\nCommunity Center\nSports Complex & Soccer Field\nStudents Residence\nAdministrative Building & Visitor Center\nAcademic Avenue\nObservatory\nClassrooms & Labs",
+  "text_blocks": [
+    {
+      "type": "h2",
+      "text": "Photo Gallery"
+    },
+    {
+      "type": "h2",
+      "text": "Academic Building"
+    },
+    {
+      "type": "h2",
+      "text": "Conference Center"
+    },
+    {
+      "type": "h2",
+      "text": "Innovation Building"
+    },
+    {
+      "type": "h2",
+      "text": "Water Pavilion"
+    },
+    {
+      "type": "h2",
+      "text": "Library"
+    },
+    {
+      "type": "h2",
+      "text": "WHU-Duke Research Institute"
+    },
+    {
+      "type": "h2",
+      "text": "Community Center"
+    },
+    {
+      "type": "h2",
+      "text": "Sports Complex & Soccer Field"
+    },
+    {
+      "type": "h2",
+      "text": "Students Residence"
+    },
+    {
+      "type": "h2",
+      "text": "Administrative Building & Visitor Center"
+    },
+    {
+      "type": "h2",
+      "text": "Academic Avenue"
+    },
+    {
+      "type": "h2",
+      "text": "Observatory"
+    },
+    {
+      "type": "h2",
+      "text": "Classrooms & Labs"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160742/ab-1.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160741/ab-2.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160741/ab-3.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2026/01/27165453/M79A7858-scaled.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160741/ab-4.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160741/ab-5.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160741/ab-7-1.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160740/ab-7-2.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160740/ab-8.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160738/cc-1.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160738/cc-2.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160738/cc-3.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160739/ib-3.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160740/ib-1.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160740/ib-2.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160739/ib-4-scaled.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160739/ib-5.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160739/ib-6.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160737/pavilion-3.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2026/01/27164332/M79A7929-scaled.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160738/pavilion-2.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2026/01/27164346/Photo49-scaled.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160737/pavilion-4.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160737/pavilion-5.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160734/lib-16.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160735/lib-12.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160735/lib-11.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160733/lib-1.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160735/lib-9.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160733/lib-19.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160734/lib-17.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160734/lib-14.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160735/lib-13.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160735/lib-10.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160736/lib-8.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160736/lib-7.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160736/lib-6.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160734/lib-18.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160736/lib-5.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160736/lib-4.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160737/lib-2.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2026/01/27165132/DJI_0836-scaled.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2026/01/27165139/Photo29-scaled.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2026/01/27165146/Photo30-scaled.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2026/01/27165200/Photo50-scaled.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160733/whu-duke-2.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160733/whu-duke-1.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160733/whu-duke-3.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160732/cct-9.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160732/cct-1.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160732/cct-2.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160732/cct-3.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160732/cct-4.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160731/cct-5.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160731/cct-6.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160731/cct-7.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160730/sports-complex-1.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160730/sports-complex-2.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160731/sports-complex-14.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160730/sports-complex-3.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160730/sports-complex-4.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160730/sports-complex-5.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160729/sports-complex-6.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160729/sports-complex-7.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160729/sports-complex-8.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160729/sports-complex-9.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160729/sports-complex-10.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160728/sports-complex-11.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160728/sports-complex-12.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160728/sports-complex-13.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160728/Soccer-Field-5.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160728/Soccer-Field-1.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160727/Soccer-Field-2.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160727/Soccer-Field-3.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160727/Soccer-Field-4.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2026/01/27165318/%E9%97%AB%E6%99%93%E7%8E%B2%E3%80%8A%E7%BA%AA%E5%BD%95%E9%9D%92%E6%98%A518906269929%E3%80%8B-scaled.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160727/Residence-8.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160727/Residence-9.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160726/Residence-10.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160726/Residence-11.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160726/Residence-12.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160726/Residence-13.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160726/Residence-14.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160725/Residence-15.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160725/Residence-1.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160725/Residence-2.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160725/Residence-3.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160725/Residence-4.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160724/Residence-5.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160724/Residence-6.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160724/Residence-7.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160724/ADBVC-4.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160724/ADBVC-1.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160723/ADBVC-2.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2026/01/27165347/Photo8-scaled.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160723/Axis-4.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160723/Axis-1.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160723/Axis-2.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160721/Axis-3.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2026/01/27172332/IMG_4304-2-scaled.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2026/01/27172344/Photo24-scaled.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2026/01/27172355/Photo45-scaled.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160719/classroomslab-11.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160719/classroomslab-10.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160719/classroomslab-9.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160720/classroomslab-8.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160720/classroomslab-7.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160720/classroomslab-6.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160720/classroomslab-5.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160720/classroomslab-4.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160721/classroomslab-3.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160721/classroomslab-2.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160721/classroomslab-1.jpg",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2024/01/25160721/classroomslab-12.jpg",
+      "text": "",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 32,
+  "crawled_at": "2026-06-03T13:48:42+00:00",
+  "sequence": 9
+}

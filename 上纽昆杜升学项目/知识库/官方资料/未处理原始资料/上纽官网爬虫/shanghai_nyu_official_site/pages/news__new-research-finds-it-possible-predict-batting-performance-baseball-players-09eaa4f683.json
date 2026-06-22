@@ -1,0 +1,100 @@
+{
+  "id": "news__new-research-finds-it-possible-predict-batting-performance-baseball-players-09eaa4f683",
+  "url": "https://shanghai.nyu.edu/news/new-research-finds-it-possible-predict-batting-performance-baseball-players",
+  "canonical_url": "https://shanghai.nyu.edu/news/new-research-finds-it-possible-predict-batting-performance-baseball-players",
+  "page_type": "news",
+  "title": "New Research Finds It Possible to Predict Batting Performance in Baseball Players",
+  "description": "The findings indicate that eye movement metrics can be used to predict the potentials of players.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "New Research Finds It Possible to Predict Batting Performance in Baseball Players\nTwitter\nFacebook\nWeibo\nFor professional athletes, hitting a baseball thrown by a major league pitcher is one of the hardest skills to pull off in sports. To hit a pitch thrown at nearly 100 mph, often along a curved trajectory, a batter has less than 500 milliseconds to plan and execute their swing. What skills do players need to accomplish this feat and are there any predictors that scientists can examine to determine just how good these players’ batting averages will be? A team of researchers led by NYU Shanghai Professor of Neural Science and Psychology Li Li has found the answers to these questions.\nBy studying a set of fundamental visuomotor skills in a group of Hong Kong National League baseball players, the research team discovered that professional players have better ocular tracking and manual control performance compared with nonathletes and that the ocular-tracking capabilities can be highly predictive of batting accuracy. This research study has been published in a recent issue of the Journal of Vision.\n“Our study provides the first evidence of an effective visuomotor predictor of batting performance within the baseball player population, and our eye movement metrics can be used to decide which junior baseball players will end up better players with training and experience. Nothing like this has been reported in the current literature,” said Li, who is also a member of the NYU-ECNU Institute of Brain and Cognitive Science at NYU Shanghai, and the corresponding author of the research.\nTo closely study hand-eye coordination, researchers tested baseball players with varying years of experience and training as well as demographically matched nonathletes in two tasks, an ocular-tracking task, and a manual-control task. The two tasks bore minimal resemblance to real batting and instead focused on measuring basic visuomotor capabilities. Baseball players also completed a real batting test. Researchers then compared the performance results of these two participant groups.\nThe results showed that compared with nonathletes, baseball players showed superior performance in both ocular tracking and manual control. Interestingly, their performance on both tasks did not depend on the number of years of training and experience, suggesting that baseball players outperformed nonathletes on these two tasks almost innately.\nHowever, for baseball players, the correlation between either ocular-tracking or manual-control performance and batting accuracy increased with level of experience. Most importantly, ocular-tracking abilities were highly predictive of batting accuracy, accounting for more than 70% of the variance in batting performance for players with 10+ years of experience.\n“The key results of our study can be explained by a linear noise cascade model with shared rate-limiting noise in visual processing and unshared mutable noise in the motor system. Compared with nonathletes, professional athletes may naturally have less noise in their motor system due to selection. Training and experience reduce the amount of unshared mutable noise in the motor system but have no effect on the shared rate-limiting noise in visual processing. Our proposed model offers new perspectives for future research that aims to understand the nature of sports training and the acquisition of sports expertise,” Li said.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "New Research Finds It Possible to Predict Batting Performance in Baseball Players"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "For professional athletes, hitting a baseball thrown by a major league pitcher is one of the hardest skills to pull off in sports. To hit a pitch thrown at nearly 100 mph, often along a curved trajectory, a batter has less than 500 milliseconds to plan and execute their swing. What skills do players need to accomplish this feat and are there any predictors that scientists can examine to determine just how good these players’ batting averages will be? A team of researchers led by NYU Shanghai Professor of Neural Science and Psychology Li Li has found the answers to these questions."
+    },
+    {
+      "type": "p",
+      "text": "By studying a set of fundamental visuomotor skills in a group of Hong Kong National League baseball players, the research team discovered that professional players have better ocular tracking and manual control performance compared with nonathletes and that the ocular-tracking capabilities can be highly predictive of batting accuracy. This research study has been published in a recent issue of the Journal of Vision."
+    },
+    {
+      "type": "p",
+      "text": "“Our study provides the first evidence of an effective visuomotor predictor of batting performance within the baseball player population, and our eye movement metrics can be used to decide which junior baseball players will end up better players with training and experience. Nothing like this has been reported in the current literature,” said Li, who is also a member of the NYU-ECNU Institute of Brain and Cognitive Science at NYU Shanghai, and the corresponding author of the research."
+    },
+    {
+      "type": "p",
+      "text": "To closely study hand-eye coordination, researchers tested baseball players with varying years of experience and training as well as demographically matched nonathletes in two tasks, an ocular-tracking task, and a manual-control task. The two tasks bore minimal resemblance to real batting and instead focused on measuring basic visuomotor capabilities. Baseball players also completed a real batting test. Researchers then compared the performance results of these two participant groups."
+    },
+    {
+      "type": "p",
+      "text": "The results showed that compared with nonathletes, baseball players showed superior performance in both ocular tracking and manual control. Interestingly, their performance on both tasks did not depend on the number of years of training and experience, suggesting that baseball players outperformed nonathletes on these two tasks almost innately."
+    },
+    {
+      "type": "p",
+      "text": "However, for baseball players, the correlation between either ocular-tracking or manual-control performance and batting accuracy increased with level of experience. Most importantly, ocular-tracking abilities were highly predictive of batting accuracy, accounting for more than 70% of the variance in batting performance for players with 10+ years of experience."
+    },
+    {
+      "type": "p",
+      "text": "“The key results of our study can be explained by a linear noise cascade model with shared rate-limiting noise in visual processing and unshared mutable noise in the motor system. Compared with nonathletes, professional athletes may naturally have less noise in their motor system due to selection. Training and experience reduce the amount of unshared mutable noise in the motor system but have no effect on the shared rate-limiting noise in visual processing. Our proposed model offers new perspectives for future research that aims to understand the nature of sports training and the acquisition of sports expertise,” Li said."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/baseball_batting_-_web_banner-01_0.jpg?itok=6jJ3HsyN",
+      "alt": "Li Li baseball research",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=New%20Research%20Finds%20It%20Possible%20to%20Predict%20Batting%20Performance%20in%20Baseball%20Players&url=https%3A//shanghai.nyu.edu/news/new-research-finds-it-possible-predict-batting-performance-baseball-players&status=New%20Research%20Finds%20It%20Possible%20to%20Predict%20Batting%20Performance%20in%20Baseball%20Players%20https%3A//shanghai.nyu.edu/news/new-research-finds-it-possible-predict-batting-performance-baseball-players",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/new-research-finds-it-possible-predict-batting-performance-baseball-players&title=New%20Research%20Finds%20It%20Possible%20to%20Predict%20Batting%20Performance%20in%20Baseball%20Players",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/new-research-finds-it-possible-predict-batting-performance-baseball-players&title=New%20Research%20Finds%20It%20Possible%20to%20Predict%20Batting%20Performance%20in%20Baseball%20Players",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/li-li",
+      "text": "Li Li",
+      "internal": true
+    },
+    {
+      "url": "https://bcs.shanghai.nyu.edu/en",
+      "text": "NYU-ECNU Institute of Brain and Cognitive Science at NYU Shanghai",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 532,
+  "crawled_at": "2026-06-09T04:40:53+00:00",
+  "sequence": 1337
+}

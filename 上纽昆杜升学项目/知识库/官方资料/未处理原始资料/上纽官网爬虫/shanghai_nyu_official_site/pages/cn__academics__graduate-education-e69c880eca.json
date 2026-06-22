@@ -1,0 +1,204 @@
+{
+  "id": "cn__academics__graduate-education-e69c880eca",
+  "url": "https://shanghai.nyu.edu/cn/academics/graduate-education",
+  "canonical_url": "https://shanghai.nyu.edu/cn/academics/graduate-education",
+  "page_type": "cn",
+  "title": "研究生项目",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "研究生项目\n视野\n上海纽约大学提供硕士和博士项目，方向涵盖各类具有影响力的学术和专业领域。学校致力于为学生提供世界一流的教育，培养学生成为在各个领域推动世界发展的未来领袖。\n为何选择上海纽约大学？\n每年，上海纽约大学会迎来数百名新入学研究生。在多元文化交织的活跃校园氛围中，学生们虽来自五湖四海，却拥有着同样的求知欲与全球化视野。研究生项目横跨各类学科领域，在以下方面独具竞争力:\n由上海纽约大学和纽约大学各相关院系及学术部门联合培养\n集结上海校园、纽约校园及纽约大学全球教育体系内其它中心的优质师资，提供赴全球不同城市学习的机会\n提供沉浸式的前沿科研环境\n完备的学生支持服务体系打造一流的学生生活体验\n共享纽约大学超70万毕业生组成的强大全球校友资源网\n毕业授予纽约大学研究生学位\n硕士研究生教育\n博士研究生教育\n纽约大学研究奖学金计划\n纽约大学研究生上海学习项目\n研究生项目新闻\n研究生校友\n研究生毕业典礼",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "研究生项目"
+    },
+    {
+      "type": "h3",
+      "text": "视野"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学提供硕士和博士项目，方向涵盖各类具有影响力的学术和专业领域。学校致力于为学生提供世界一流的教育，培养学生成为在各个领域推动世界发展的未来领袖。"
+    },
+    {
+      "type": "h3",
+      "text": "为何选择上海纽约大学？"
+    },
+    {
+      "type": "p",
+      "text": "每年，上海纽约大学会迎来数百名新入学研究生。在多元文化交织的活跃校园氛围中，学生们虽来自五湖四海，却拥有着同样的求知欲与全球化视野。研究生项目横跨各类学科领域，在以下方面独具竞争力:"
+    },
+    {
+      "type": "li",
+      "text": "由上海纽约大学和纽约大学各相关院系及学术部门联合培养"
+    },
+    {
+      "type": "li",
+      "text": "集结上海校园、纽约校园及纽约大学全球教育体系内其它中心的优质师资，提供赴全球不同城市学习的机会"
+    },
+    {
+      "type": "li",
+      "text": "提供沉浸式的前沿科研环境"
+    },
+    {
+      "type": "li",
+      "text": "完备的学生支持服务体系打造一流的学生生活体验"
+    },
+    {
+      "type": "li",
+      "text": "共享纽约大学超70万毕业生组成的强大全球校友资源网"
+    },
+    {
+      "type": "li",
+      "text": "毕业授予纽约大学研究生学位"
+    },
+    {
+      "type": "h4",
+      "text": "硕士研究生教育"
+    },
+    {
+      "type": "h4",
+      "text": "博士研究生教育"
+    },
+    {
+      "type": "h4",
+      "text": "纽约大学研究奖学金计划"
+    },
+    {
+      "type": "h4",
+      "text": "纽约大学研究生上海学习项目"
+    },
+    {
+      "type": "h4",
+      "text": "研究生项目新闻"
+    },
+    {
+      "type": "h4",
+      "text": "研究生校友"
+    },
+    {
+      "type": "h4",
+      "text": "研究生毕业典礼"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-01-2-2.jpg",
+      "alt": "about OGAE",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-graduate-01-2-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Master%27s-Programs-6_0.jpg",
+      "alt": "硕士研究生教育",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/p-Master%27s-Programs-6_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-01-4.jpg",
+      "alt": "PhD Programs",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-graduate-01-4-02e3dc5848d8.jpg",
+      "download_status": "downloaded",
+      "bytes": 103674,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-01-5.jpg",
+      "alt": "纽约大学研究奖学金计划",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-graduate-01-5-a3227a4dc659.jpg",
+      "download_status": "downloaded",
+      "bytes": 71657,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-01-6.jpg",
+      "alt": "纽约大学研究生上海学习项目",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-01-7.jpg",
+      "alt": "Graduate News",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-graduate-01-7-799c6dde79f1.jpg",
+      "download_status": "downloaded",
+      "bytes": 102961,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-ogae-1_0.jpg",
+      "alt": "研究生校友",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/kv_picture_for_website_0_3.jpg",
+      "alt": "研究生毕业典礼",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/kv_picture_for_website_0_3.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/graduate/masters-programs",
+      "text": "硕士研究生教育",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/graduate/bo-shi-yan-jiu-sheng-jiao-yu",
+      "text": "博士研究生教育",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/graduate/research-fellowship-programs",
+      "text": "纽约大学研究奖学金计划",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/graduate/nyu-study-away-in-shanghai",
+      "text": "纽约大学研究生上海学习项目",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/graduate/news",
+      "text": "研究生项目新闻",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/graduate/graduate-alumni-community",
+      "text": "研究生校友",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/convocation",
+      "text": "研究生毕业典礼",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 29,
+  "crawled_at": "2026-06-09T04:36:29+00:00",
+  "sequence": 918
+}

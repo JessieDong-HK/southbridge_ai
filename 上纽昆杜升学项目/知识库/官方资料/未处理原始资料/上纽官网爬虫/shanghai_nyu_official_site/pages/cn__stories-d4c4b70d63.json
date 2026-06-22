@@ -1,0 +1,252 @@
+{
+  "id": "cn__stories-d4c4b70d63",
+  "url": "https://shanghai.nyu.edu/cn/stories?page=3",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "cn",
+  "title": "人物 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "人物\n上纽大经济学教授Adam Brandenburger：创新，是本能\n从银行到高校，上纽金融教授林汉昇的经纬人生\n谷歌搞科研，纽约做音乐，上纽创校校友Samantha Shi的环球斜杠人生\n从上纽学生领袖到国际气候使者：2021届校友Taylah Bland的蜕变之旅\n数学家林芳华：从纽大到上纽大，一个赤子的四十年\n上纽大校友苏汉：MIT硕士毕业后，我的科技创业征程\n上纽大2019届校友Ho Bin Kim：成为作家是一场冒险\n上纽大2020届校友Masaki Kagesawa：从校园到职场的工作生活平衡术\n上纽大毕业生游怡婷：和“卷”对抗\n上纽大毕业生Shreesh Tripathi：一位尼泊尔学生对经济学的跨国求索\n从兴趣到卓越：上纽大毕业生李泓舟、门秋彤的科研达人炼成记\n上纽大2018届校友Xavier Ante：来自菲律宾的我，在美国芝加哥研究中国林业",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "人物"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大经济学教授Adam Brandenburger：创新，是本能"
+    },
+    {
+      "type": "h4",
+      "text": "从银行到高校，上纽金融教授林汉昇的经纬人生"
+    },
+    {
+      "type": "h4",
+      "text": "谷歌搞科研，纽约做音乐，上纽创校校友Samantha Shi的环球斜杠人生"
+    },
+    {
+      "type": "h4",
+      "text": "从上纽学生领袖到国际气候使者：2021届校友Taylah Bland的蜕变之旅"
+    },
+    {
+      "type": "h4",
+      "text": "数学家林芳华：从纽大到上纽大，一个赤子的四十年"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大校友苏汉：MIT硕士毕业后，我的科技创业征程"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大2019届校友Ho Bin Kim：成为作家是一场冒险"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大2020届校友Masaki Kagesawa：从校园到职场的工作生活平衡术"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大毕业生游怡婷：和“卷”对抗"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大毕业生Shreesh Tripathi：一位尼泊尔学生对经济学的跨国求索"
+    },
+    {
+      "type": "h4",
+      "text": "从兴趣到卓越：上纽大毕业生李泓舟、门秋彤的科研达人炼成记"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大2018届校友Xavier Ante：来自菲律宾的我，在美国芝加哥研究中国林业"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/faculty_spotlight_-_adam_brandenburger-03.jpg?itok=Md3qXULz",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/faculty_spotlight_-_adam_brandenburger-03-37e58a1571f3.jpg",
+      "download_status": "downloaded",
+      "bytes": 16992,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/han_shen_lin_-_from_the_banking_world_to_the_classroom-03_1.jpg?itok=gPY9gE-e",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/han_shen_lin_-_from_the_banking_world_to_the_classro-693cd4988604.jpg",
+      "download_status": "downloaded",
+      "bytes": 15891,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/samanta_liza_headshot_medium.jpg?itok=VmcEsjdf",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/samanta_liza_headshot_medium-ba254d44a614.jpg",
+      "download_status": "downloaded",
+      "bytes": 15768,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_taylah_lorraine_bland-02.jpg?itok=Ow7JSkGs",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/lin_fanghua.jpg?itok=-S7Qa5Hl",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/lin_fanghua-ec02118830a2.jpg",
+      "download_status": "downloaded",
+      "bytes": 19002,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_su_han-02.jpg?itok=G3eh3qQq",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_-_su_han-02-24b832c8d0cc.jpg",
+      "download_status": "downloaded",
+      "bytes": 20177,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_ho_bin_kim-02_2_1.jpg?itok=QiwdrDGd",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_masaki_kagesawa-02.jpg?itok=onO3PnkP",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_-_masaki_kagesawa-02-5c5c3137d16c.jpg",
+      "download_status": "downloaded",
+      "bytes": 17041,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/homepage_thumbnail_-_senior_spotlight_-_celestine_you_yiting-02.jpg?itok=0obWejZI",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/homepage_thumbnail_-_senior_spotlight_-_celestine_yo-dcfceaf0ef29.jpg",
+      "download_status": "downloaded",
+      "bytes": 25894,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_shreesh_tripathi_-02.jpg?itok=KgKogMkF",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/senior_spotlight_shreesh_tripathi_-02-4717c9ffebb3.jpg",
+      "download_status": "downloaded",
+      "bytes": 27446,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/li_hongzhou_24_and_men_qiutong_24-09.jpg?itok=cml2g63T",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/li_hongzhou_24_and_men_qiutong_24-09-d5144e06ce4d.jpg",
+      "download_status": "downloaded",
+      "bytes": 24626,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_xavier_ante_18-02_0.jpg?itok=wNZ-VxPf",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_xavier_ante_18-02_0-26812fa43762.jpg",
+      "download_status": "downloaded",
+      "bytes": 24054,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/shang-niu-da-jing-ji-xue-jiao-shouadam-brandenburger-chuang-xin-shi-ben-neng",
+      "text": "上纽大经济学教授Adam Brandenburger：创新，是本能",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/han-shen-lin-around-world-and-classroom",
+      "text": "从银行到高校，上纽金融教授林汉昇的经纬人生",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/gu-ge-gao-ke-yan-niu-yue-zuo-yin-le-shang-niu-chuang-xiao-xiao-yousamantha-shi-de-huan-qiu",
+      "text": "谷歌搞科研，纽约做音乐，上纽创校校友Samantha Shi的环球斜杠人生",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/alum-voices-taylah-bland-21",
+      "text": "从上纽学生领袖到国际气候使者：2021届校友Taylah Bland的蜕变之旅",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/shu-xue-jia-lin-fang-hua-cong-niu-da-dao-shang-niu-da-yi-ge-chi-zi-de-si-shi-nian",
+      "text": "数学家林芳华：从纽大到上纽大，一个赤子的四十年",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/shang-niu-da-xiao-you-su-han-mit-shuo-shi-bi-ye-hou-wo-de-ke-ji-chuang-ye-zheng-cheng",
+      "text": "上纽大校友苏汉：MIT硕士毕业后，我的科技创业征程",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/shang-niu-da2019-jie-xiao-youho-bin-kim-cheng-wei-zuo-jia-shi-yi-chang-mao-xian",
+      "text": "上纽大2019届校友Ho Bin Kim：成为作家是一场冒险",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/alumni-voices-masaki-kagesawa-20",
+      "text": "上纽大2020届校友Masaki Kagesawa：从校园到职场的工作生活平衡术",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/you-yiting-24-i-dont-want-run-rat-race",
+      "text": "上纽大毕业生游怡婷：和“卷”对抗",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/shang-niu-da-bi-ye-shengshreesh-tripathi-yi-wei-ni-po-er-xue-sheng-dui-jing-ji-xue-de-kua",
+      "text": "上纽大毕业生Shreesh Tripathi：一位尼泊尔学生对经济学的跨国求索",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/cong-xing-qu-dao-zhuo-yue-shang-niu-da-bi-ye-sheng-li-hong-zhou-men-qiu-tong-de-ke-yan-da",
+      "text": "从兴趣到卓越：上纽大毕业生李泓舟、门秋彤的科研达人炼成记",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/alumni-voices-xavier-ante-18",
+      "text": "上纽大2018届校友Xavier Ante：来自菲律宾的我，在美国芝加哥研究中国林业",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 41,
+  "crawled_at": "2026-06-09T04:33:05+00:00",
+  "sequence": 650
+}

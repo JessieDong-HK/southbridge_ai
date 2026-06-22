@@ -1,0 +1,250 @@
+{
+  "id": "stories-56b7338247",
+  "url": "https://shanghai.nyu.edu/stories?page=3",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "stories",
+  "title": "People | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "People\nAlumni Voices: Mia Fan Jiayin ’23\nAlumni Voices: Brandon Shi '23\nAdam Brandenburger: A Lifelong Pursuit of Curiosity and Creativity\nHan Shen Lin: Around the World and Into the Classroom\nAlum Voices: Samanta Shi ’19\nAlum Voices: Taylah Bland ’21\nAlumni Voices: Su Han ’18\nAlumni Voices: Ho Bin Kim '19\nAlumni Voices: Masaki Kagesawa ’20\nYou Yiting ’24: I Don’t Want to Run the Rat Race\nShreesh Tripathi '24: From Nepal to China, Economics is at The Center\nGustave Li Hongzhou ’24: Pursuing Research, from Interest to Excellence",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "People"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Voices: Mia Fan Jiayin ’23"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Voices: Brandon Shi '23"
+    },
+    {
+      "type": "h4",
+      "text": "Adam Brandenburger: A Lifelong Pursuit of Curiosity and Creativity"
+    },
+    {
+      "type": "h4",
+      "text": "Han Shen Lin: Around the World and Into the Classroom"
+    },
+    {
+      "type": "h4",
+      "text": "Alum Voices: Samanta Shi ’19"
+    },
+    {
+      "type": "h4",
+      "text": "Alum Voices: Taylah Bland ’21"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Voices: Su Han ’18"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Voices: Ho Bin Kim '19"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Voices: Masaki Kagesawa ’20"
+    },
+    {
+      "type": "h4",
+      "text": "You Yiting ’24: I Don’t Want to Run the Rat Race"
+    },
+    {
+      "type": "h4",
+      "text": "Shreesh Tripathi '24: From Nepal to China, Economics is at The Center"
+    },
+    {
+      "type": "h4",
+      "text": "Gustave Li Hongzhou ’24: Pursuing Research, from Interest to Excellence"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/image2_0.jpg?itok=IWi-JugR",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/image2_0-0558727cfe16.jpg",
+      "download_status": "downloaded",
+      "bytes": 21171,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_brandon_shi-02.jpg?itok=u1tTgnHE",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/faculty_spotlight_-_adam_brandenburger-03.jpg?itok=Md3qXULz",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/faculty_spotlight_-_adam_brandenburger-03-37e58a1571f3.jpg",
+      "download_status": "downloaded",
+      "bytes": 16992,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/han_shen_lin_-_from_the_banking_world_to_the_classroom-03_1.jpg?itok=gPY9gE-e",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/han_shen_lin_-_from_the_banking_world_to_the_classro-693cd4988604.jpg",
+      "download_status": "downloaded",
+      "bytes": 15891,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/samanta_liza_headshot_medium.jpg?itok=VmcEsjdf",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/samanta_liza_headshot_medium-ba254d44a614.jpg",
+      "download_status": "downloaded",
+      "bytes": 15768,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_taylah_lorraine_bland-02.jpg?itok=Ow7JSkGs",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_su_han-02.jpg?itok=G3eh3qQq",
+      "alt": "suhan",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_-_su_han-02-24b832c8d0cc.jpg",
+      "download_status": "downloaded",
+      "bytes": 20177,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_ho_bin_kim-02_2_1.jpg?itok=QiwdrDGd",
+      "alt": "ho bin kim alumnus",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_voices_-_masaki_kagesawa-02.jpg?itok=onO3PnkP",
+      "alt": "masaki kagesawa homepage image",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_-_masaki_kagesawa-02-5c5c3137d16c.jpg",
+      "download_status": "downloaded",
+      "bytes": 17041,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/homepage_thumbnail_-_senior_spotlight_-_celestine_you_yiting-02.jpg?itok=0obWejZI",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/homepage_thumbnail_-_senior_spotlight_-_celestine_yo-dcfceaf0ef29.jpg",
+      "download_status": "downloaded",
+      "bytes": 25894,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_shreesh_tripathi_-02.jpg?itok=KgKogMkF",
+      "alt": "homepage image shreesh",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/senior_spotlight_shreesh_tripathi_-02-4717c9ffebb3.jpg",
+      "download_status": "downloaded",
+      "bytes": 27446,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/homepage_thumbnail_-_li_hongzhou_24_and_men_qiutong_24-02.jpg?itok=_ojkSNb6",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/stories/alum-voices-mia-fan-jiayin-23",
+      "text": "Alumni Voices: Mia Fan Jiayin ’23",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-brandon-shi-23",
+      "text": "Alumni Voices: Brandon Shi '23",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/adam-brandenburger-lifelong-pursuit-curiosity-and-creativity",
+      "text": "Adam Brandenburger: A Lifelong Pursuit of Curiosity and Creativity",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/han-shen-lin-around-world-and-classroom",
+      "text": "Han Shen Lin: Around the World and Into the Classroom",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alum-voices-samanta-shi-19",
+      "text": "Alum Voices: Samanta Shi ’19",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alum-voices-taylah-bland-21",
+      "text": "Alum Voices: Taylah Bland ’21",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-su-han-18",
+      "text": "Alumni Voices: Su Han ’18",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-ho-bin-kim-19",
+      "text": "Alumni Voices: Ho Bin Kim '19",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-masaki-kagesawa-20",
+      "text": "Alumni Voices: Masaki Kagesawa ’20",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/you-yiting-24-i-dont-want-run-rat-race",
+      "text": "You Yiting ’24: I Don’t Want to Run the Rat Race",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/shreesh-tripathi-24-nepal-china-economics-center",
+      "text": "Shreesh Tripathi '24: From Nepal to China, Economics is at The Center",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/gustave-li-hongzhou-24-pursuing-research-interest-excellence",
+      "text": "Gustave Li Hongzhou ’24: Pursuing Research, from Interest to Excellence",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 91,
+  "crawled_at": "2026-06-09T04:32:58+00:00",
+  "sequence": 638
+}

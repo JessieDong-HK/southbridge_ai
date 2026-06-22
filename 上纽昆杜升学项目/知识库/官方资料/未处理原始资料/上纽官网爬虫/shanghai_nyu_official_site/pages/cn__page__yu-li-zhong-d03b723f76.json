@@ -1,0 +1,62 @@
+{
+  "id": "cn__page__yu-li-zhong-d03b723f76",
+  "url": "https://shanghai.nyu.edu/cn/page/yu-li-zhong",
+  "canonical_url": "https://shanghai.nyu.edu/cn/page/yu-li-zhong",
+  "page_type": "cn",
+  "title": "俞立中",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "俞立中\n俞立中是上海纽约大学首位荣誉校长，于2012年至2020年担任上海纽约大学校长、法人代表兼理事会主席。2006年至2012年曾任华东师范大学校长。此前，还曾担任上海师范大学校长。\n在俞立中校长的领导下，上海纽约大学从华东师范大学的纽约大学上海中心萌芽，成长为第一所中美合办的国际化研究型大学，如今拥有近2000名本科生和研究生。他积极探索中美合作办学机制，加强了中美之间沟通和合作，为来自各国的师生所认同。他经历和见证了这所高校的很多第一次——从2011年校园奠基、2014年世纪大道教学楼启用，到首届本科生毕业典礼，以及前滩新校区的破土动工仪式，并领导学校度过了新冠肺炎疫情期间的重重挑战。\n俞立中校长在华东师大地理系获学士学位，英国利物浦大学地理系获博士学位，并曾先后获得美国蒙特克莱州立大学、法国人文高师、英国拉夫堡大学和英国利物浦大学荣誉博士学位，2013年获法国荣誉军团骑士勋章。\n可阅读校长专访了解更多俞立中校长和上纽大的故事，或通过图集回顾他在任时的精彩瞬间。",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "俞立中"
+    },
+    {
+      "type": "p",
+      "text": "俞立中是上海纽约大学首位荣誉校长，于2012年至2020年担任上海纽约大学校长、法人代表兼理事会主席。2006年至2012年曾任华东师范大学校长。此前，还曾担任上海师范大学校长。"
+    },
+    {
+      "type": "p",
+      "text": "在俞立中校长的领导下，上海纽约大学从华东师范大学的纽约大学上海中心萌芽，成长为第一所中美合办的国际化研究型大学，如今拥有近2000名本科生和研究生。他积极探索中美合作办学机制，加强了中美之间沟通和合作，为来自各国的师生所认同。他经历和见证了这所高校的很多第一次——从2011年校园奠基、2014年世纪大道教学楼启用，到首届本科生毕业典礼，以及前滩新校区的破土动工仪式，并领导学校度过了新冠肺炎疫情期间的重重挑战。"
+    },
+    {
+      "type": "p",
+      "text": "俞立中校长在华东师大地理系获学士学位，英国利物浦大学地理系获博士学位，并曾先后获得美国蒙特克莱州立大学、法国人文高师、英国拉夫堡大学和英国利物浦大学荣誉博士学位，2013年获法国荣誉军团骑士勋章。"
+    },
+    {
+      "type": "p",
+      "text": "可阅读校长专访了解更多俞立中校长和上纽大的故事，或通过图集回顾他在任时的精彩瞬间。"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/chandler_yu_1_0.jpg?itok=HvUb3g5C",
+      "alt": "俞立中",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/chandler_yu_1_0-8cab5f45bac5.jpg",
+      "download_status": "downloaded",
+      "bytes": 26233,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/stories/yu-lizhong-founding-chancellor-our-times",
+      "text": "校长专访",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/thank-you-chancellor-yu",
+      "text": "图集",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 28,
+  "crawled_at": "2026-06-09T04:32:37+00:00",
+  "sequence": 599
+}

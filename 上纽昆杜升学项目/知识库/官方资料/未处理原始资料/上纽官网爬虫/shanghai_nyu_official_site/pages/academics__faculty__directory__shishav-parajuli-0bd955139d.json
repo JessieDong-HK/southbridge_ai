@@ -1,0 +1,35 @@
+{
+  "id": "academics__faculty__directory__shishav-parajuli-0bd955139d",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/shishav-parajuli",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/shishav-parajuli",
+  "page_type": "academics",
+  "title": "Shishav",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Shishav Parajuli",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Shishav Parajuli"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/211105_Shishav_Parajuli-13%20%282%29.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/211105_Shishav_Parajuli-13-20-282-29-5bef107f3791.jpg",
+      "download_status": "downloaded",
+      "bytes": 1249555,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:43:44+00:00",
+  "sequence": 1567
+}

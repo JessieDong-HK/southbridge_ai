@@ -1,0 +1,92 @@
+{
+  "id": "cn__academics__faculty__directory__hongyi-wen-47d2cae321",
+  "url": "https://shanghai.nyu.edu/cn/academics/faculty/directory/hongyi-wen",
+  "canonical_url": "https://shanghai.nyu.edu/cn/academics/faculty/directory/hongyi-wen",
+  "page_type": "cn",
+  "title": "文弘毅 (Hongyi",
+  "description": "文弘毅现任上海纽约大学计算机科学助理教授。文教授于2016年在清华大学获得计算机科学与技术工学学士学位，在康奈尔大学获得信息科学博士学位，师从Deborah Estrin教授。他的研究致力于开发人机协同的机器学习系统，以提高个性化推荐的长期价值。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "文弘毅 (Hongyi Wen)\n文弘毅现任上海纽约大学计算机科学助理教授。文教授于2016年在清华大学获得计算机科学与技术工学学士学位，在康奈尔大学获得信息科学博士学位，师从Deborah Estrin教授。他的研究致力于开发人机协同的机器学习系统，以提高个性化推荐的长期价值。\n代表性论著\nYuanhe Guo, Haoming Liu, and Hongyi Wen. \"Towards Personalized Prompt-Model Retrieval for Generative Recommendation.\" arXiv preprint arXiv:2308.02205 (2023).\nHongyi Wen, Xinyang Yi, Tiansheng Yao, Jiaxi Tang, Lichan Hong, Ed H. Chi. 2022. Distributionally-robust Recommendations for Improving Worst-case User Experience. In Proceedings of the ACM Web Conference 2022 (WWW ’22).\nHongyi Wen, Michael Sobolev, Rachel Vitale, James Kizer, JP Pollak, Frederick Muench, Deborah Estrin. “mPulse Mobile Sensing Model for Passive Detection of Impulsive Behavior: Exploratory Prediction Study”. JMIR Mental Health, 2021.\nHongyi Wen, Longqi Yang, Deborah Estrin. “Leveraging post-click feedback for content recommendations”. Proceedings of the 13th ACM Conference on Recommender Systems (RecSys), 2019.\nHongyi Wen, Julian Ramos Rojas, and Anind K. Dey. \"Serendipity: Finger gesture recognition using an off-the-shelf smartwatch.\" Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI), 2016.\n教育背景\n康奈尔大学 信息科学博士学位\n清华大学 计算机科学与技术学士学位\n推荐系统\n教育和健康领域中的个性化（算法）\n人机交互",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "文弘毅 (Hongyi Wen)"
+    },
+    {
+      "type": "p",
+      "text": "文弘毅现任上海纽约大学计算机科学助理教授。文教授于2016年在清华大学获得计算机科学与技术工学学士学位，在康奈尔大学获得信息科学博士学位，师从Deborah Estrin教授。他的研究致力于开发人机协同的机器学习系统，以提高个性化推荐的长期价值。"
+    },
+    {
+      "type": "h3",
+      "text": "代表性论著"
+    },
+    {
+      "type": "li",
+      "text": "Yuanhe Guo, Haoming Liu, and Hongyi Wen. \"Towards Personalized Prompt-Model Retrieval for Generative Recommendation.\" arXiv preprint arXiv:2308.02205 (2023)."
+    },
+    {
+      "type": "li",
+      "text": "Hongyi Wen, Xinyang Yi, Tiansheng Yao, Jiaxi Tang, Lichan Hong, Ed H. Chi. 2022. Distributionally-robust Recommendations for Improving Worst-case User Experience. In Proceedings of the ACM Web Conference 2022 (WWW ’22)."
+    },
+    {
+      "type": "li",
+      "text": "Hongyi Wen, Michael Sobolev, Rachel Vitale, James Kizer, JP Pollak, Frederick Muench, Deborah Estrin. “mPulse Mobile Sensing Model for Passive Detection of Impulsive Behavior: Exploratory Prediction Study”. JMIR Mental Health, 2021."
+    },
+    {
+      "type": "li",
+      "text": "Hongyi Wen, Longqi Yang, Deborah Estrin. “Leveraging post-click feedback for content recommendations”. Proceedings of the 13th ACM Conference on Recommender Systems (RecSys), 2019."
+    },
+    {
+      "type": "li",
+      "text": "Hongyi Wen, Julian Ramos Rojas, and Anind K. Dey. \"Serendipity: Finger gesture recognition using an off-the-shelf smartwatch.\" Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI), 2016."
+    },
+    {
+      "type": "h3",
+      "text": "教育背景"
+    },
+    {
+      "type": "li",
+      "text": "康奈尔大学 信息科学博士学位"
+    },
+    {
+      "type": "li",
+      "text": "清华大学 计算机科学与技术学士学位"
+    },
+    {
+      "type": "li",
+      "text": "推荐系统"
+    },
+    {
+      "type": "li",
+      "text": "教育和健康领域中的个性化（算法）"
+    },
+    {
+      "type": "li",
+      "text": "人机交互"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/selected-capture_one_catalog0136.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://whongyi.github.io/",
+      "text": "https://whongyi.github.io/",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 162,
+  "crawled_at": "2026-06-09T04:37:45+00:00",
+  "sequence": 1072
+}

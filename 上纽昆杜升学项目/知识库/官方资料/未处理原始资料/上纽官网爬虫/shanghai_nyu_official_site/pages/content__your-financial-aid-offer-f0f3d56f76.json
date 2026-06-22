@@ -1,0 +1,141 @@
+{
+  "id": "content__your-financial-aid-offer-f0f3d56f76",
+  "url": "https://shanghai.nyu.edu/content/your-financial-aid-offer",
+  "canonical_url": "https://shanghai.nyu.edu/content/your-financial-aid-offer",
+  "page_type": "content",
+  "title": "Your Financial Aid Offer",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Your Financial Aid Offer\nView Your Financial Aid Offer\nThe 2026-2027 estimated cost of attendance and financial aid offer (if you applied for financial aid by all stated deadlines) is available for students in the NYU Albert Student Center. Click on the \"Finances\" tab under the appropriate academic year.\nFor more information about available financial aid programs, please visit NYU’s Types of Aid page and click on the Shanghai section.\nU.S. Federal Loans (U.S. Citizens and Permanent Residents)\nIf you have been offered U.S. federal loans, you (the student) must accept/decline all or a portion of your loans in NYU Albert under the Accept/Decline Awards link.\nIf you plan to use U.S. federal aid, you must:\nMeet Satisfactory Academic Progress standards\nMeet Satisfactory Academic Progress standards\nFile the FAFSA annually\nFile the FAFSA annually\nFor detailed information about federal loans, please visit NYU’s Federal Direct Loans page.\nRenewal of NYU Shanghai Scholarships/Grants\nNYU Shanghai scholarship and grant aid is renewed annually at the same amount, provided you maintain full-time enrollment (12 credits or more per semester).\nMore detailed information about renewability and academic progress standards is available on the Returning Students webpage.\nOutside Scholarships or External Funding\nAll students who expect to receive financial support from outside their family, such as government grants, community scholarships, or other sources, must notify the Office of Financial Aid at shanghai.financial.support@nyu.edu. External funding will be considered when determining your final aid eligibility.\nQuestions About Your Financial Aid Offer?\nContact the NYU Shanghai Office of Financial Aid:\nPhone: +1 212-998-2838Email: shanghai.financial.support@nyu.eduOffice Hours: Monday–Friday, 10:00 am–4:00 pm Eastern Time",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Your Financial Aid Offer"
+    },
+    {
+      "type": "h4",
+      "text": "View Your Financial Aid Offer"
+    },
+    {
+      "type": "p",
+      "text": "The 2026-2027 estimated cost of attendance and financial aid offer (if you applied for financial aid by all stated deadlines) is available for students in the NYU Albert Student Center. Click on the \"Finances\" tab under the appropriate academic year."
+    },
+    {
+      "type": "p",
+      "text": "For more information about available financial aid programs, please visit NYU’s Types of Aid page and click on the Shanghai section."
+    },
+    {
+      "type": "h4",
+      "text": "U.S. Federal Loans (U.S. Citizens and Permanent Residents)"
+    },
+    {
+      "type": "p",
+      "text": "If you have been offered U.S. federal loans, you (the student) must accept/decline all or a portion of your loans in NYU Albert under the Accept/Decline Awards link."
+    },
+    {
+      "type": "p",
+      "text": "If you plan to use U.S. federal aid, you must:"
+    },
+    {
+      "type": "li",
+      "text": "Meet Satisfactory Academic Progress standards"
+    },
+    {
+      "type": "p",
+      "text": "Meet Satisfactory Academic Progress standards"
+    },
+    {
+      "type": "li",
+      "text": "File the FAFSA annually"
+    },
+    {
+      "type": "p",
+      "text": "File the FAFSA annually"
+    },
+    {
+      "type": "p",
+      "text": "For detailed information about federal loans, please visit NYU’s Federal Direct Loans page."
+    },
+    {
+      "type": "h4",
+      "text": "Renewal of NYU Shanghai Scholarships/Grants"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai scholarship and grant aid is renewed annually at the same amount, provided you maintain full-time enrollment (12 credits or more per semester)."
+    },
+    {
+      "type": "p",
+      "text": "More detailed information about renewability and academic progress standards is available on the Returning Students webpage."
+    },
+    {
+      "type": "h4",
+      "text": "Outside Scholarships or External Funding"
+    },
+    {
+      "type": "p",
+      "text": "All students who expect to receive financial support from outside their family, such as government grants, community scholarships, or other sources, must notify the Office of Financial Aid at shanghai.financial.support@nyu.edu. External funding will be considered when determining your final aid eligibility."
+    },
+    {
+      "type": "h4",
+      "text": "Questions About Your Financial Aid Offer?"
+    },
+    {
+      "type": "p",
+      "text": "Contact the NYU Shanghai Office of Financial Aid:"
+    },
+    {
+      "type": "p",
+      "text": "Phone: +1 212-998-2838Email: shanghai.financial.support@nyu.eduOffice Hours: Monday–Friday, 10:00 am–4:00 pm Eastern Time"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/preparing1.png?itok=-dtMbk4B",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://albert.nyu.edu/",
+      "text": "NYU Albert Student Center",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/admissions/financial-aid-and-scholarships/types-of-aid.html",
+      "text": "Types of Aid page",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/eligibility-for-financial-aid.html",
+      "text": "Satisfactory Academic Progress",
+      "internal": false
+    },
+    {
+      "url": "https://studentaid.gov/h/apply-for-aid",
+      "text": "FAFSA",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/admissions/financial-aid-and-scholarships/types-of-aid/federal-loans.html",
+      "text": "Federal Direct Loans page.",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/page/returning-students",
+      "text": "Returning Students",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 288,
+  "crawled_at": "2026-06-09T04:28:50+00:00",
+  "sequence": 135
+}

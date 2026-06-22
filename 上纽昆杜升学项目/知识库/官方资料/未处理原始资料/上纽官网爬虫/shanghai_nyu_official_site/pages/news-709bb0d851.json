@@ -1,0 +1,246 @@
+{
+  "id": "news-709bb0d851",
+  "url": "https://shanghai.nyu.edu/news?page=2",
+  "canonical_url": "https://shanghai.nyu.edu/news",
+  "page_type": "news",
+  "title": "News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/cber_forum_explores_how_ai_is_reshaping_business_education-01.jpg?itok=ARUsAkHB",
+      "alt": "cber forum",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/cber_forum_explores_how_ai_is_reshaping_business_edu-41013f3c307b.jpg",
+      "download_status": "downloaded",
+      "bytes": 33903,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/celebrating_the_final_stretch_class_of_2026_counts_down_to_graduation-01.jpg?itok=Jkl_61o2",
+      "alt": "graduates in their caps and gowns on the quad",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/celebrating_the_final_stretch_class_of_2026_counts_d-38be634faefe.jpg",
+      "download_status": "downloaded",
+      "bytes": 29933,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/candidate_weekend_2026-01.jpg?itok=aPPZIuLZ",
+      "alt": "Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/candidate_weekend_2026-01-72c99de70741.jpg",
+      "download_status": "downloaded",
+      "bytes": 39208,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/speaking_as_a_window_into_the_brain.jpg?itok=xnX2-osX",
+      "alt": "tian xing study",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/speaking_as_a_window_into_the_brain-d2dcf5687a14.jpg",
+      "download_status": "downloaded",
+      "bytes": 24385,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/why_2026_is_looking_a_lot_like_1914-01.jpg?itok=xtBsV3nj",
+      "alt": "professor westad",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/why_2026_is_looking_a_lot_like_1914-01-b457c936189e.jpg",
+      "download_status": "downloaded",
+      "bytes": 12590,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/mental_health_initiatives-01.jpg?itok=_-dBJyYY",
+      "alt": "mental health",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/spaces_to_know_chill_zones_on_campus-01.jpg?itok=Ip1OzZmF",
+      "alt": "relaxing on the quad",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/resource_pooling_banner_940x350mm_300dpi_0.jpg?itok=mqNTW9O_",
+      "alt": "resource_pooling",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/resource_pooling_banner_940x350mm_300dpi_0-ed6de09231d0.jpg",
+      "download_status": "downloaded",
+      "bytes": 30501,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/voices_vision_and_equity_-_celebrating_women_at_nyu_shanghai.jpg?itok=NEI9lbB6",
+      "alt": "women",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/voices_vision_and_equity_-_celebrating_women_at_nyu-66b6f654f487.jpg",
+      "download_status": "downloaded",
+      "bytes": 26365,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/2026_irl-01.jpg?itok=EYiLxqTh",
+      "alt": "hanging out",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/center_for_data_science_convenes_third_academic_committee_meeting_-01.jpg?itok=c-BSMkg2",
+      "alt": "ai center 2026",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/shangniuicaxinzhanjusandezhihenkaimujiluqinmicuiruoyuxingdong-01.jpg?itok=rcpfiWTA",
+      "alt": "icaexhibtion2026spring",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/across_languages_and_differences-staying_in_conversation-01_1.jpg?itok=0b0Een1A",
+      "alt": "no translation needed",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/across_languages_and_differences-staying_in_conversa-26d8c2536e50.jpg",
+      "download_status": "downloaded",
+      "bytes": 33130,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/faculty_and_staff_honored_at_annual_service_awards-01.jpg?itok=Re0y_8hH",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/faculty_and_staff_honored_at_annual_service_awards-0-a2902e3e1a5d.jpg",
+      "download_status": "downloaded",
+      "bytes": 20778,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/letter_to_the_future-class_preserves_memories_of_sanlin_old_town-01.jpg?itok=LgijcugH",
+      "alt": "banner image",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/letter_to_the_future-class_preserves_memories_of_san-ca89d002d8f7.jpg",
+      "download_status": "downloaded",
+      "bytes": 32121,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/cber-forum-explores-how-ai-reshaping-business-education",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/celebrating-final-stretch-countdown-commencement",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/candidate-weekend-welcomes-prospective-students",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/speaking-window-understanding-developing-and-healing-brain",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/coming-storm-why-2026-looks-lot-1914",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/inhaleexhale-prioritizing-mental-health-campus",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/spaces-know-nyu-shanghai-unplugged",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/no-boss-still-efficient-how-incentivize-resource-pooling",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/voices-vision-and-equity-celebrating-women-nyu-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/rediscovering-real-life-campus",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/center-data-science-convenes-third-academic-committee-meeting",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/disentangling-entanglement-opens-nyu-shanghais-ica",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/across-languages-and-differences-staying-conversation",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/faculty-and-staff-honored-annual-service-awards",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/letter-future-class-preserves-sanlin-old-town-memories",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:29:51+00:00",
+  "sequence": 249
+}

@@ -1,0 +1,76 @@
+{
+  "id": "stories__clay-shirky-associate-prof-interactive-media-arts-c219c4b6fa",
+  "url": "https://shanghai.nyu.edu/stories/clay-shirky-associate-prof-interactive-media-arts",
+  "canonical_url": "https://shanghai.nyu.edu/stories/clay-shirky-associate-prof-interactive-media-arts",
+  "page_type": "stories",
+  "title": "Clay Shirky, Associate Prof. of Interactive Media Arts",
+  "description": "May 4, 2015 - \"It takes a lot to make a New Yorker feel like a country mouse, but this town does it...Shanghai is a huge industrial, post-industrial city, but just the principles on which life here is ordered, a lot of which about China and not just about Shanghai; I think the biggest thing for me",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Clay Shirky, Associate Prof. of Interactive Media Arts\nTwitter\nFacebook\nWeibo\nMay 4, 2015 - \"It takes a lot to make a New Yorker feel like a country mouse, but this town does it...Shanghai is a huge industrial, post-industrial city, but just the principles on which life here is ordered, a lot of which about China and not just about Shanghai; I think the biggest thing for me is that this speed of development gives the fabric of the city a different feel.\" - Clay Shirky, Associate Prof. of Interactive Media Arts (by Kadallah Burrowes)",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Clay Shirky, Associate Prof. of Interactive Media Arts"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "May 4, 2015 - \"It takes a lot to make a New Yorker feel like a country mouse, but this town does it...Shanghai is a huge industrial, post-industrial city, but just the principles on which life here is ordered, a lot of which about China and not just about Shanghai; I think the biggest thing for me is that this speed of development gives the fabric of the city a different feel.\" - Clay Shirky, Associate Prof. of Interactive Media Arts (by Kadallah Burrowes)"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/story",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/story/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/story/clay.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/clay-aa3bd5a6b5b8.jpg",
+      "download_status": "downloaded",
+      "bytes": 110215,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Clay%20Shirky%2C%20Associate%20Prof.%20of%20Interactive%20Media%20Arts&url=https%3A//shanghai.nyu.edu/stories/clay-shirky-associate-prof-interactive-media-arts&status=Clay%20Shirky%2C%20Associate%20Prof.%20of%20Interactive%20Media%20Arts%20https%3A//shanghai.nyu.edu/stories/clay-shirky-associate-prof-interactive-media-arts",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/stories/clay-shirky-associate-prof-interactive-media-arts&title=Clay%20Shirky%2C%20Associate%20Prof.%20of%20Interactive%20Media%20Arts",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/stories/clay-shirky-associate-prof-interactive-media-arts&title=Clay%20Shirky%2C%20Associate%20Prof.%20of%20Interactive%20Media%20Arts",
+      "text": "Weibo",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 95,
+  "crawled_at": "2026-06-09T04:47:44+00:00",
+  "sequence": 1881
+}

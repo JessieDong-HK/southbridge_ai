@@ -1,0 +1,36 @@
+{
+  "id": "news__big-ambitions-that-began-with-duke-kunshan-abe9bdeb7a",
+  "url": "https://www.dukekunshan.edu.cn/news/big-ambitions-that-began-with-duke-kunshan",
+  "canonical_url": "https://www.dukekunshan.edu.cn/news/big-ambitions-that-began-with-duke-kunshan/",
+  "page_type": "news",
+  "title": "Big ambitions that began with Duke Kunshan",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2023-11-07T07:52:01+00:00",
+  "sitemap_lastmod": "2023-11-07T07:52:01+00:00",
+  "text": "Big ambitions that began with Duke Kunshan",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Big ambitions that began with Duke Kunshan"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 7,
+  "crawled_at": "2026-06-03T13:52:00+00:00",
+  "sequence": 277
+}

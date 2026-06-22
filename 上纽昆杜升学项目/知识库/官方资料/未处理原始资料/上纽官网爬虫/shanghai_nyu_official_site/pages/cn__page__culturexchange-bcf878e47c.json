@@ -1,0 +1,38 @@
+{
+  "id": "cn__page__culturexchange-bcf878e47c",
+  "url": "https://shanghai.nyu.edu/cn/page/culturexchange",
+  "canonical_url": "https://shanghai.nyu.edu/cn/page/culturexchange",
+  "page_type": "cn",
+  "title": "CultureXChange",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "CultureXChange\n该项目为上海纽约大学社区提供了一个文化交流平台。每年春季学期，我们鼓励学生成为CultureXChange的文化交流大使，通过了解宣传传统习俗，食物，语言，艺术等方面，组织相关活动交流自己所属的文化，展示文化自信，助力建设多元的文化社区，从而提升他们的领导力、文化倡导力、多元互观品格和批判性思维的立体眼界。同时，我们邀请并鼓励所有社区成员秉承谦逊的理念参与活动，了解不同文化，促进和而不同，美美与共的文化共融。",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "CultureXChange"
+    },
+    {
+      "type": "p",
+      "text": "该项目为上海纽约大学社区提供了一个文化交流平台。每年春季学期，我们鼓励学生成为CultureXChange的文化交流大使，通过了解宣传传统习俗，食物，语言，艺术等方面，组织相关活动交流自己所属的文化，展示文化自信，助力建设多元的文化社区，从而提升他们的领导力、文化倡导力、多元互观品格和批判性思维的立体眼界。同时，我们邀请并鼓励所有社区成员秉承谦逊的理念参与活动，了解不同文化，促进和而不同，美美与共的文化共融。"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/cul-2_2.jpg",
+      "alt": "CultureXChange",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 19,
+  "crawled_at": "2026-06-09T04:36:52+00:00",
+  "sequence": 965
+}

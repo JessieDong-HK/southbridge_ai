@@ -1,0 +1,142 @@
+{
+  "id": "campuslife__employers-3613bac4e5",
+  "url": "https://shanghai.nyu.edu/campuslife/employers",
+  "canonical_url": "https://shanghai.nyu.edu/campuslife/employers",
+  "page_type": "campuslife",
+  "title": "Employers",
+  "description": "NYU Shanghai graduates have joined the labor force with great success, bringing their language skills, diverse backgrounds, and international mindsets to their first jobs. The Center for Car",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Employers\nNYU Shanghai graduates have joined the labor force with great success, bringing their language skills, diverse backgrounds, and international mindsets to their first jobs. The Center for Career Development (CCD) regularly welcomes a diverse array of employers on campus and is eager to facilitate your search for qualified students and recent graduates. Join a career fair, host a one hour information session about your organization, or contact us below to find out how you can hire our students for internships or full-time positions.\nCCD Introduction\nRecruitment and Engagement\nTerms and Conditions\nEmployer FAQs\nContact Us\nPhone: 021-20595300\nEmail: shanghai.employer@nyu.edu",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Employers"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai graduates have joined the labor force with great success, bringing their language skills, diverse backgrounds, and international mindsets to their first jobs. The Center for Career Development (CCD) regularly welcomes a diverse array of employers on campus and is eager to facilitate your search for qualified students and recent graduates. Join a career fair, host a one hour information session about your organization, or contact us below to find out how you can hire our students for internships or full-time positions."
+    },
+    {
+      "type": "h4",
+      "text": "CCD Introduction"
+    },
+    {
+      "type": "h4",
+      "text": "Recruitment and Engagement"
+    },
+    {
+      "type": "h4",
+      "text": "Terms and Conditions"
+    },
+    {
+      "type": "h4",
+      "text": "Employer FAQs"
+    },
+    {
+      "type": "h2",
+      "text": "Contact Us"
+    },
+    {
+      "type": "p",
+      "text": "Phone: 021-20595300"
+    },
+    {
+      "type": "p",
+      "text": "Email: shanghai.employer@nyu.edu"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-6-01-03.jpg",
+      "alt": "Employers",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-6-01-03.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/ccd.jpg",
+      "alt": "ccd",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/ccd.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-6-01-04.jpg",
+      "alt": "Recruitment and Engagement",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-6-01-06_0.jpg",
+      "alt": "Terms and Conditions",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-6-01-06_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-6-01-07.jpg",
+      "alt": "Employer FAQs",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-6-01-07.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-6-01-08.jpg",
+      "alt": "QR Code",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations",
+      "text": "great success",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/students/identify-opportunities/career-fair-ocr-sessions",
+      "text": "career fair",
+      "internal": true
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/CCD_introduction_brochure_2025.pdf",
+      "text": "CCD Introduction",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/employers/careernet",
+      "text": "Recruitment and Engagement",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/employers/terms",
+      "text": "Terms and Conditions",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/employers/faq",
+      "text": "Employer FAQs",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 105,
+  "crawled_at": "2026-06-09T04:32:30+00:00",
+  "sequence": 581
+}

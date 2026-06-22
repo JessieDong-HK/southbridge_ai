@@ -1,0 +1,41 @@
+{
+  "id": "jet-popup__dkuwx-5a12be53e6",
+  "url": "https://www.dukekunshan.edu.cn/jet-popup/dkuwx",
+  "canonical_url": "https://www.dukekunshan.edu.cn/jet-popup/dkuwx/",
+  "page_type": "jet-popup",
+  "title": "DkuWx",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2023-12-12T05:53:36+00:00",
+  "sitemap_lastmod": "2023-12-12T05:53:36+00:00",
+  "text": "",
+  "text_blocks": [],
+  "images": [
+    {
+      "url": "https://www.dukekunshan.edu.cn/wp-content/uploads/2022/03/dkuWx.png",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/dkuWx-a58b964f408e.png",
+      "download_status": "ok",
+      "content_type": "image/png",
+      "bytes": 68379
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2022/03/25160750/dkuWx.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "images/_shared/dkuWx-6f97c1a7e457.png",
+      "download_status": "ok",
+      "bytes": 68379,
+      "cached_from_disk": true,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 0,
+  "crawled_at": "2026-06-03T13:49:35+00:00",
+  "sequence": 77
+}

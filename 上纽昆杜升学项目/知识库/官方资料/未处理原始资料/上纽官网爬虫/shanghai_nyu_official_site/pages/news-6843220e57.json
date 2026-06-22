@@ -1,0 +1,247 @@
+{
+  "id": "news-6843220e57",
+  "url": "https://shanghai.nyu.edu/news?page=74",
+  "canonical_url": "https://shanghai.nyu.edu/news",
+  "page_type": "news",
+  "title": "News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/shdfj.jpg?itok=YDG0JWz-",
+      "alt": "An illustration of human brain",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/shdfj-132fb6672a31.jpg",
+      "download_status": "downloaded",
+      "bytes": 21067,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/01.jpg?itok=VA4fMgoM",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/01-0cd960cd7984.jpg",
+      "download_status": "downloaded",
+      "bytes": 28860,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/album_picture/milktoast.jpg?itok=Gi1KuVLp",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/milktoast-4451e32f43fb.jpg",
+      "download_status": "downloaded",
+      "bytes": 19315,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/1-eastern_forum_of_science_and_technology.jpg?itok=N_J-mFLz",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/1-eastern_forum_of_science_and_technology.jpg?itok=N_J-mFLz (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occu"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/012.jpg?itok=LYaOrCMi",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/012-4b2dc8546c4b.jpg",
+      "download_status": "downloaded",
+      "bytes": 35079,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/news.jpg?itok=qF_XSng7",
+      "alt": "NYU Shanghai Symposium on Data Science and Applications poster",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/news-089c7723cbde.jpg",
+      "download_status": "downloaded",
+      "bytes": 23886,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/img_3522-2.jpg?itok=iAkJKMCP",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_3522-2-12219ecbafba.jpg",
+      "download_status": "downloaded",
+      "bytes": 10752,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_6254-news.jpg?itok=r8da7PoH",
+      "alt": "Four men touching a ball-like structure",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_6254-news-691245b1131b.jpg",
+      "download_status": "downloaded",
+      "bytes": 21809,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/sila-poster2.jpg?itok=RT0RciUi",
+      "alt": "Sila Shanghai poster",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/sila-poster2-994c315aa911.jpg",
+      "download_status": "downloaded",
+      "bytes": 30739,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/DSC01878-for-news_3.jpg?itok=B2bHfUkM",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/SIlver-2_0.jpg?itok=Yi3p7_Mj",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/Ambassador2.jpg?itok=FarYPZIB",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Ambassador2-6b209e346658.jpg",
+      "download_status": "downloaded",
+      "bytes": 18699,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/Cai%2C-Xinying2.jpg?itok=5jsW2g9T",
+      "alt": "Xinying Kai giving a speech",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/hank-china-news_4.jpg?itok=CiGhdi74",
+      "alt": "NYU Shanghai Hosts HackShanghai on Nov. 15-16, 2014",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/hank-china-news_4-b07410ed8ebb.jpg",
+      "download_status": "downloaded",
+      "bytes": 18958,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/IMG_5879.jpg?itok=J_nFOZ3j",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/IMG_5879-d51ccfda5d20.jpg",
+      "download_status": "downloaded",
+      "bytes": 35112,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/neuroscience-faculty-deliver-keynotes-international-conference",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/barbara",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/thespians-24-hour-play",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/eastern-forum-of-science-and-technology",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/basketball",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-symposium-data-science-and-applications",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/elizabeth",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/inauguration-nyu-shanghai-pudong-forum-economics-business-and-finance",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/apply-sila-shanghai-october-31st-2014",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai%E2%80%99s-inaugural-student-government-summit-sgs",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/dr-joanna-waley",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/us-ambassador",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/xinying-cais-paper-published-journal-science",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-hosts-hackshanghai-nov-15-16-2014",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/peer-advising",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:40:02+00:00",
+  "sequence": 1271
+}

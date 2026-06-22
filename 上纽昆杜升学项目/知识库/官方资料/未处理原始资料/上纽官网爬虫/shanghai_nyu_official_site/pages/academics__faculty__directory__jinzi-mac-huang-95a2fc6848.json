@@ -1,0 +1,88 @@
+{
+  "id": "academics__faculty__directory__jinzi-mac-huang-95a2fc6848",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/jinzi-mac-huang",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/jinzi-mac-huang",
+  "page_type": "academics",
+  "title": "Jinzi Mac",
+  "description": "Jinzi Mac Huang is an Assistant Professor of Mathematics at NYU Shanghai. Interested in experimental fluid dynamics and applied mathematics, he collaborates with the Applied Math Lab at the Courant Institute, the Applied Math Lab Shanghai at NYU Shanghai, and the Joint Physics Lab at NYU-ECNU",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Jinzi Mac Huang\nJinzi Mac Huang is an Assistant Professor of Mathematics at NYU Shanghai. Interested in experimental fluid dynamics and applied mathematics, he collaborates with the Applied Math Lab at the Courant Institute, the Applied Math Lab Shanghai at NYU Shanghai, and the Joint Physics Lab at NYU-ECNU Institute of Physics.\nSelect Publications\nJinzi Mac Huang, Joshua Tong, Michael J. Shelley, and Leif Ristroph. \"Ultra-sharp pinnacles sculpted by natural convective dissolution.\" Proceedings of the National Academy of Sciences (accepted, 2020)\nKhunsa Amin, Jinzi Mac Huang, Kevin J. Hu, Jun Zhang, and Leif Ristroph. \"The role of shape-dependent flight stability in the origin of oriented meteorites.\" Proceedings of the National Academy of Sciences 116.33 (2019)\nJinzi Mac Huang, M. Nicholas J. Moore, and Leif Ristroph. \"Shape dynamics and scaling laws for a body dissolving in fluid flow.\" Journal of Fluid Mechanics 765 (2015)\nEducation\nPhD, MathematicsCourant Institute, New York University\nBS, Applied Physics & Applied MathematicsZhiyuan College, Shanghai Jiao Tong University\nApplied Mathematics\nFluid Dynamics\nGeophysics\nSoft Matter Physics",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Jinzi Mac Huang"
+    },
+    {
+      "type": "p",
+      "text": "Jinzi Mac Huang is an Assistant Professor of Mathematics at NYU Shanghai. Interested in experimental fluid dynamics and applied mathematics, he collaborates with the Applied Math Lab at the Courant Institute, the Applied Math Lab Shanghai at NYU Shanghai, and the Joint Physics Lab at NYU-ECNU Institute of Physics."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Jinzi Mac Huang, Joshua Tong, Michael J. Shelley, and Leif Ristroph. \"Ultra-sharp pinnacles sculpted by natural convective dissolution.\" Proceedings of the National Academy of Sciences (accepted, 2020)"
+    },
+    {
+      "type": "li",
+      "text": "Khunsa Amin, Jinzi Mac Huang, Kevin J. Hu, Jun Zhang, and Leif Ristroph. \"The role of shape-dependent flight stability in the origin of oriented meteorites.\" Proceedings of the National Academy of Sciences 116.33 (2019)"
+    },
+    {
+      "type": "li",
+      "text": "Jinzi Mac Huang, M. Nicholas J. Moore, and Leif Ristroph. \"Shape dynamics and scaling laws for a body dissolving in fluid flow.\" Journal of Fluid Mechanics 765 (2015)"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, MathematicsCourant Institute, New York University"
+    },
+    {
+      "type": "li",
+      "text": "BS, Applied Physics & Applied MathematicsZhiyuan College, Shanghai Jiao Tong University"
+    },
+    {
+      "type": "li",
+      "text": "Applied Mathematics"
+    },
+    {
+      "type": "li",
+      "text": "Fluid Dynamics"
+    },
+    {
+      "type": "li",
+      "text": "Geophysics"
+    },
+    {
+      "type": "li",
+      "text": "Soft Matter Physics"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Mac%20Huang%202026s.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/Mac%20Huang%202026s.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://math.nyu.edu/~jinzi",
+      "text": "https://math.nyu.edu/~jinzi/",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 172,
+  "crawled_at": "2026-06-09T04:40:42+00:00",
+  "sequence": 1313
+}

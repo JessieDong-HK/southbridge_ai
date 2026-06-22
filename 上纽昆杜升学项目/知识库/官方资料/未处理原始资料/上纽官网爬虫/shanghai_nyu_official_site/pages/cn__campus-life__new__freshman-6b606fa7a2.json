@@ -1,0 +1,146 @@
+{
+  "id": "cn__campus-life__new__freshman-6b606fa7a2",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/new/freshman",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/new/freshman",
+  "page_type": "cn",
+  "title": "欢迎来到上海纽约大学",
+  "description": "欢迎来到上海纽约大学！上海纽约大学是一所国际化大学。我们的师生员工来自世界各地70多个国家和地区。在这里，你可以勇敢地走出自己的舒适区，“让世界成为你的课堂”。为给初入校园的你提供指导与帮助，协助你迅速融入大学生活，新生指导中心（CNSP）将开设一系列集趣味性和互动性于一体的工作坊和座谈交流等活动。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "欢迎来到上海纽约大学\n欢迎来到上海纽约大学！上海纽约大学是一所国际化大学。我们的师生员工来自世界各地70多个国家和地区。在这里，你可以勇敢地走出自己的舒适区，“让世界成为你的课堂”。\n为给初入校园的你提供指导与帮助，协助你迅速融入大学生活，新生指导中心（CNSP）将开设一系列集趣味性和互动性于一体的工作坊和座谈交流等活动。\n学校安排了高年级学长学姐担任“迎新大使”，分享经验、答疑解惑，帮助大家做好角色转换，迎接即将到来的大学生活。迎新大使会在开学前与你取得联系。\n开学后，你将和其他新生及迎新大使一同参加“迎新周”和“对话大一新生”活动。在“迎新周”活动中，你可以快速熟识同届同学，了解校内各项资源；“对话大一新生”是一系列座谈交流活动，讨论如何处理室友关系、如何应对文化冲突、如何适应多元文化环境等大一新生可能面临的问题。\n希望你借此机会结交新朋友，深入了解各国文化，不断挑战舒适区的极限。再次欢迎你加入我们，成为上海纽约大学全球公民的一员！\n入学准备\n报到日\n迎新周\n对话大一新生\n常见问题",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "欢迎来到上海纽约大学"
+    },
+    {
+      "type": "p",
+      "text": "欢迎来到上海纽约大学！上海纽约大学是一所国际化大学。我们的师生员工来自世界各地70多个国家和地区。在这里，你可以勇敢地走出自己的舒适区，“让世界成为你的课堂”。"
+    },
+    {
+      "type": "p",
+      "text": "为给初入校园的你提供指导与帮助，协助你迅速融入大学生活，新生指导中心（CNSP）将开设一系列集趣味性和互动性于一体的工作坊和座谈交流等活动。"
+    },
+    {
+      "type": "p",
+      "text": "学校安排了高年级学长学姐担任“迎新大使”，分享经验、答疑解惑，帮助大家做好角色转换，迎接即将到来的大学生活。迎新大使会在开学前与你取得联系。"
+    },
+    {
+      "type": "p",
+      "text": "开学后，你将和其他新生及迎新大使一同参加“迎新周”和“对话大一新生”活动。在“迎新周”活动中，你可以快速熟识同届同学，了解校内各项资源；“对话大一新生”是一系列座谈交流活动，讨论如何处理室友关系、如何应对文化冲突、如何适应多元文化环境等大一新生可能面临的问题。"
+    },
+    {
+      "type": "p",
+      "text": "希望你借此机会结交新朋友，深入了解各国文化，不断挑战舒适区的极限。再次欢迎你加入我们，成为上海纽约大学全球公民的一员！"
+    },
+    {
+      "type": "h4",
+      "text": "入学准备"
+    },
+    {
+      "type": "h4",
+      "text": "报到日"
+    },
+    {
+      "type": "h4",
+      "text": "迎新周"
+    },
+    {
+      "type": "h4",
+      "text": "对话大一新生"
+    },
+    {
+      "type": "h4",
+      "text": "常见问题"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-new-student-2-2.jpg",
+      "alt": "大一新生",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-new-student-2-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-new-student-2-3.jpg",
+      "alt": "Before You Arrive",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-new-student-2-3.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-new-student-2-4.jpg",
+      "alt": "Move In",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-new-student-2-4.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-new-student-2-5.jpg",
+      "alt": "Orientation",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-new-student-2-5.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-new-student-2-6.jpg",
+      "alt": "First Year Programing",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-new-student-2-6-75cb428e606e.jpg",
+      "download_status": "downloaded",
+      "bytes": 53737,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-new-student-2-7.jpg",
+      "alt": "Parents FAQ",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-new-student-2-7.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/new/freshman/prearrival",
+      "text": "入学准备",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/new/freshman/moving",
+      "text": "报到日",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/new/freshman/orientation",
+      "text": "迎新周",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/new/freshman/first-year-programing",
+      "text": "对话大一新生",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/new/freshman/faq",
+      "text": "常见问题",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 45,
+  "crawled_at": "2026-06-09T04:29:05+00:00",
+  "sequence": 172
+}

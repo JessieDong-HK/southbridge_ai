@@ -1,0 +1,104 @@
+{
+  "id": "cn__about__directions-dc864db74d",
+  "url": "https://shanghai.nyu.edu/cn/about/directions",
+  "canonical_url": "https://shanghai.nyu.edu/cn/about/directions",
+  "page_type": "cn",
+  "title": "学校地址",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "学校地址\n前滩校园\n地址：上海市浦东新区杨思西路567号邮编：200124公共交通：地铁6/8/11号线东方体育中心站3号口（19号线正在规划中）公交82/314/583/973/810/986/873路\n通过百度地图查看学校位置\n中北校区\n地址：上海市中山北路3663号华东师范大学地理楼公共交通：地铁3/4/13号线金沙江路站5号口公交67/69/224/309/754/765/829/856/909路华东师范大学站\n通过百度地图查看学校位置\n学生宿舍\n璟耀公寓地址：上海市浦东新区济明路533号邮编：200126公共交通：地铁7号线后滩站1号口\n通过百度地图查看学生宿舍位置",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "学校地址"
+    },
+    {
+      "type": "h3",
+      "text": "前滩校园"
+    },
+    {
+      "type": "p",
+      "text": "地址：上海市浦东新区杨思西路567号邮编：200124公共交通：地铁6/8/11号线东方体育中心站3号口（19号线正在规划中）公交82/314/583/973/810/986/873路"
+    },
+    {
+      "type": "p",
+      "text": "通过百度地图查看学校位置"
+    },
+    {
+      "type": "h3",
+      "text": "中北校区"
+    },
+    {
+      "type": "p",
+      "text": "地址：上海市中山北路3663号华东师范大学地理楼公共交通：地铁3/4/13号线金沙江路站5号口公交67/69/224/309/754/765/829/856/909路华东师范大学站"
+    },
+    {
+      "type": "p",
+      "text": "通过百度地图查看学校位置"
+    },
+    {
+      "type": "h3",
+      "text": "学生宿舍"
+    },
+    {
+      "type": "p",
+      "text": "璟耀公寓地址：上海市浦东新区济明路533号邮编：200126公共交通：地铁7号线后滩站1号口"
+    },
+    {
+      "type": "p",
+      "text": "通过百度地图查看学生宿舍位置"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/map2023-building-cn.jpg",
+      "alt": "NYU Shanghai campus map",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/map2023-building-cn.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-c-about-05-02.jpg",
+      "alt": "中北校区",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/map2023-house-cn.jpg",
+      "alt": "NYU Shanghai Jingyao residence hall map",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/map2023-house-cn.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://j.map.baidu.com/5a/Sjpg",
+      "text": "百度地图",
+      "internal": false
+    },
+    {
+      "url": "https://j.map.baidu.com/be/wJRu",
+      "text": "百度地图",
+      "internal": false
+    },
+    {
+      "url": "https://j.map.baidu.com/9c/lEsg",
+      "text": "百度地图",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 38,
+  "crawled_at": "2026-06-09T04:32:40+00:00",
+  "sequence": 606
+}

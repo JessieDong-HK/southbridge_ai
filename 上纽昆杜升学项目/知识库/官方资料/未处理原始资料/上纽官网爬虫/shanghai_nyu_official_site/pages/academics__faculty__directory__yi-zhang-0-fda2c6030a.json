@@ -1,0 +1,35 @@
+{
+  "id": "academics__faculty__directory__yi-zhang-0-fda2c6030a",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/yi-zhang-0",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/yi-zhang-0",
+  "page_type": "academics",
+  "title": "Yi",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Yi Zhang",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Yi Zhang"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/B188025B-E7A0-4AA2-BC4B-6740B30543C4.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/B188025B-E7A0-4AA2-BC4B-6740B30543C4-bd579319089f.jpg",
+      "download_status": "downloaded",
+      "bytes": 319301,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:54:05+00:00",
+  "sequence": 2413
+}

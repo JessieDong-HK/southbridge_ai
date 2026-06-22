@@ -1,0 +1,79 @@
+{
+  "id": "campuslife__orientation-study-away-shanghai-students-0b0582c38c",
+  "url": "https://shanghai.nyu.edu/campuslife/orientation-study-away-shanghai-students",
+  "canonical_url": "https://shanghai.nyu.edu/campuslife/orientation-study-away-shanghai-students",
+  "page_type": "campuslife",
+  "title": "Orientation For Study Away in Shanghai Students",
+  "description": "Before your arrival, please follow guidelines provided by the Office of Global Programs in NYU New York. Make sure you attend the pre-departure orientation and check emails frequently after your admission to the program.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Orientation For Study Away in Shanghai Students\nBefore your arrival, please follow guidelines provided by the Office of Global Programs in NYU New York. Make sure you attend the pre-departure orientation and check emails frequently after your admission to the program. Be aware of the updated announcements and learn useful preparation tips for your stay in Shanghai.\nPre-arrival Orientation\nPre-arrival orientation will be offered to all study away/visiting students prior to departure. The pre-arrival orientation will normally take place four weeks prior to your departure. During the pre-arrival orientation, study away/visiting students will get a chance to directly communicate with staff and student leaders from NYU Shanghai for any questions they may have prior travel to China.\nStudy Away Orientation Ambassador and Study Away Program Assistant Student Leaders Team\nOur amazing student leaders (SAOA&SAPA) will contact you before your departure and assist you throughout your entire stay at NYU Shanghai. While studying away in Shanghai, SAPAs will answer your questions, provide travel guidance and lead exciting cultural programs for study away/visiting students.\nOn-site Orientation\nFall 2026 Study Away/Visiting Students Orientation: Thursday, August 27 to Sunday, August 30\nAll new study away/visiting students to NYU Shanghai will be required to participate in a 3-day in person orientation program. This orientation program will not only prepare study away students for the transition to NYU Shanghai through information sessions from student services departments, but also for the transition to a new living and cultural environment through fun events, cultural activities, and tours led by Study Away Orientation Ambassadors\nDuring and after the orientation, you will have formal opportunities to engage with students at the NYU Shanghai campus. Details of the orientation arrangement will be provided in the welcome letters a few weeks prior school starts.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Orientation For Study Away in Shanghai Students"
+    },
+    {
+      "type": "p",
+      "text": "Before your arrival, please follow guidelines provided by the Office of Global Programs in NYU New York. Make sure you attend the pre-departure orientation and check emails frequently after your admission to the program. Be aware of the updated announcements and learn useful preparation tips for your stay in Shanghai."
+    },
+    {
+      "type": "h2",
+      "text": "Pre-arrival Orientation"
+    },
+    {
+      "type": "p",
+      "text": "Pre-arrival orientation will be offered to all study away/visiting students prior to departure. The pre-arrival orientation will normally take place four weeks prior to your departure. During the pre-arrival orientation, study away/visiting students will get a chance to directly communicate with staff and student leaders from NYU Shanghai for any questions they may have prior travel to China."
+    },
+    {
+      "type": "h2",
+      "text": "Study Away Orientation Ambassador and Study Away Program Assistant Student Leaders Team"
+    },
+    {
+      "type": "p",
+      "text": "Our amazing student leaders (SAOA&SAPA) will contact you before your departure and assist you throughout your entire stay at NYU Shanghai. While studying away in Shanghai, SAPAs will answer your questions, provide travel guidance and lead exciting cultural programs for study away/visiting students."
+    },
+    {
+      "type": "h2",
+      "text": "On-site Orientation"
+    },
+    {
+      "type": "p",
+      "text": "Fall 2026 Study Away/Visiting Students Orientation: Thursday, August 27 to Sunday, August 30"
+    },
+    {
+      "type": "p",
+      "text": "All new study away/visiting students to NYU Shanghai will be required to participate in a 3-day in person orientation program. This orientation program will not only prepare study away students for the transition to NYU Shanghai through information sessions from student services departments, but also for the transition to a new living and cultural environment through fun events, cultural activities, and tours led by Study Away Orientation Ambassadors"
+    },
+    {
+      "type": "p",
+      "text": "During and after the orientation, you will have formal opportunities to engage with students at the NYU Shanghai campus. Details of the orientation arrangement will be provided in the welcome letters a few weeks prior school starts."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-study-away-4-2.jpg",
+      "alt": "Orientation For Study Away in Shanghai Students",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-study-away-4-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-study-away-4-3.jpg",
+      "alt": "Study Away Program Assistant Student Leaders Team",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-study-away-4-3.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 305,
+  "crawled_at": "2026-06-09T04:43:19+00:00",
+  "sequence": 1545
+}

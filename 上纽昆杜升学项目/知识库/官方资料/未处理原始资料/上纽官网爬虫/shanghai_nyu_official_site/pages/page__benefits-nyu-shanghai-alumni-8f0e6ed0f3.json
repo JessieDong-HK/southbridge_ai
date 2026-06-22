@@ -1,0 +1,121 @@
+{
+  "id": "page__benefits-nyu-shanghai-alumni-8f0e6ed0f3",
+  "url": "https://shanghai.nyu.edu/page/benefits-nyu-shanghai-alumni",
+  "canonical_url": "https://shanghai.nyu.edu/page/benefits-nyu-shanghai-alumni",
+  "page_type": "page",
+  "title": "Benefits for NYU Shanghai Alumni",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Benefits for NYU Shanghai Alumni\nWelcome to the world of NYU Shanghai alumni, where your connection to our vibrant community continues to yield numerous benefits, enhancing your ongoing relationship with the university. Enjoy continued access to the exclusive benefits available at NYU Shanghai for all Alumni.\nAlumni Access to the Alumni Lounge\nThe Alumni Lounge, located on the central quad at the heart of campus, is a welcoming space for NYU Shanghai alumni and graduates from all NYU schools to connect and engage with the wider university community. Check out the access policy for the lounge.\nAlumni Access to Library\nAs an alumni, you are welcomed to continue your learning by utilizing the resources of the NYU Shanghai Library. Access will be granted on a first-come, first-served basis and an appointment to visit the Library is required at least 3 business days in advance. Please click here for more information on Alumni Access Policy.\nThe free-accessed Alumni e-Library is available to all our alumni, comprising premium electronic resources such as ProQuest and JSTOR, which can be invaluable for your research and learning needs.\nAlumni Online Resources\nEnjoy online videos on an array of topics from our esteem faculty, as you broaden and enhance your knowledge. Stay tuned for more videos as we refresh these topics.\nExplore other benefits available globally to the NYU Shanghai alumni here.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Benefits for NYU Shanghai Alumni"
+    },
+    {
+      "type": "p",
+      "text": "Welcome to the world of NYU Shanghai alumni, where your connection to our vibrant community continues to yield numerous benefits, enhancing your ongoing relationship with the university. Enjoy continued access to the exclusive benefits available at NYU Shanghai for all Alumni."
+    },
+    {
+      "type": "h3",
+      "text": "Alumni Access to the Alumni Lounge"
+    },
+    {
+      "type": "p",
+      "text": "The Alumni Lounge, located on the central quad at the heart of campus, is a welcoming space for NYU Shanghai alumni and graduates from all NYU schools to connect and engage with the wider university community. Check out the access policy for the lounge."
+    },
+    {
+      "type": "h3",
+      "text": "Alumni Access to Library"
+    },
+    {
+      "type": "p",
+      "text": "As an alumni, you are welcomed to continue your learning by utilizing the resources of the NYU Shanghai Library. Access will be granted on a first-come, first-served basis and an appointment to visit the Library is required at least 3 business days in advance. Please click here for more information on Alumni Access Policy."
+    },
+    {
+      "type": "p",
+      "text": "The free-accessed Alumni e-Library is available to all our alumni, comprising premium electronic resources such as ProQuest and JSTOR, which can be invaluable for your research and learning needs."
+    },
+    {
+      "type": "h3",
+      "text": "Alumni Online Resources"
+    },
+    {
+      "type": "p",
+      "text": "Enjoy online videos on an array of topics from our esteem faculty, as you broaden and enhance your knowledge. Stay tuned for more videos as we refresh these topics."
+    },
+    {
+      "type": "p",
+      "text": "Explore other benefits available globally to the NYU Shanghai alumni here."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Alumni%20Lounge.jpg",
+      "alt": "lounge",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Alumni-20Lounge-e46833ea2ce4.jpg",
+      "download_status": "downloaded",
+      "bytes": 285412,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/nyu_sh_library.jpg",
+      "alt": "nyu_sh_library",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/alumni_online_resource.png",
+      "alt": "alumni_online_resource",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_online_resource-4a49f45390f7.png",
+      "download_status": "downloaded",
+      "bytes": 393899,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/Alumni_Lounge_Access.pdf",
+      "text": "access policy for the lounge",
+      "internal": false
+    },
+    {
+      "url": "https://visitors.shanghai.nyu.edu/alumni/registration",
+      "text": "appointment",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/media/nyushanghailibraryalumniaccesspolicy.pdf",
+      "text": "Alumni Access Policy",
+      "internal": true
+    },
+    {
+      "url": "https://www.nyu.edu/alumni/benefits/alumni-e-library.html",
+      "text": "e-Library",
+      "internal": false
+    },
+    {
+      "url": "https://video.alumni.nyu.edu/category/Events%3EEvents+by+School%3ENYU+Shanghai/256009513",
+      "text": "online videos",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/alumni/benefits.html",
+      "text": "here",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 230,
+  "crawled_at": "2026-06-09T04:28:44+00:00",
+  "sequence": 116
+}

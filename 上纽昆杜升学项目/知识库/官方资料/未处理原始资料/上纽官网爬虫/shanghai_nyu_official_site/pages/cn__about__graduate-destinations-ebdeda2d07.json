@@ -1,0 +1,171 @@
+{
+  "id": "cn__about__graduate-destinations-ebdeda2d07",
+  "url": "https://shanghai.nyu.edu/cn/about/graduate-destinations",
+  "canonical_url": "https://shanghai.nyu.edu/cn/about/graduate-destinations",
+  "page_type": "cn",
+  "title": "毕业生就业去向",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "毕业生就业去向\n2025届毕业生就业数据\n上海纽约大学每年年初发布毕业生就业质量报告，对每届毕业生的就业去向进行汇总。报告包括毕业生基本概况、中国毕业生就业及深造情况、国际毕业生在中国就业及深造情况，以及全体毕业生去向等四个部分。\n就业质量报告的数据基于上海纽约大学职业发展中心对毕业生毕业半年内所进行的在线调查，并通过不同渠道进行验证核实，包括雇主提供的数据，与毕业生本人取得联系，或是通过社交媒体进行确认更新。\n历届毕业生就业质量报告\n2024届毕业生就业质量报告\n2023届毕业生就业质量报告\n2022届毕业生就业质量报告\n历届毕业生就业质量报告完整版",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "毕业生就业去向"
+    },
+    {
+      "type": "p",
+      "text": "2025届毕业生就业数据"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学每年年初发布毕业生就业质量报告，对每届毕业生的就业去向进行汇总。报告包括毕业生基本概况、中国毕业生就业及深造情况、国际毕业生在中国就业及深造情况，以及全体毕业生去向等四个部分。"
+    },
+    {
+      "type": "p",
+      "text": "就业质量报告的数据基于上海纽约大学职业发展中心对毕业生毕业半年内所进行的在线调查，并通过不同渠道进行验证核实，包括雇主提供的数据，与毕业生本人取得联系，或是通过社交媒体进行确认更新。"
+    },
+    {
+      "type": "h4",
+      "text": "历届毕业生就业质量报告"
+    },
+    {
+      "type": "h4",
+      "text": "2024届毕业生就业质量报告"
+    },
+    {
+      "type": "h4",
+      "text": "2023届毕业生就业质量报告"
+    },
+    {
+      "type": "h4",
+      "text": "2022届毕业生就业质量报告"
+    },
+    {
+      "type": "h4",
+      "text": "历届毕业生就业质量报告完整版"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/2024_0.jpg",
+      "alt": "2024届毕业生就业质量报告",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/2024_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/nyu-2023.jpg",
+      "alt": "2023届毕业生就业质量报告",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyu-2023-b978a7a5ed8d.jpg",
+      "download_status": "downloaded",
+      "bytes": 64555,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-destinations2022-01.jpg",
+      "alt": "2022",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-graduate-destinations2022-01.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-destinations-02.jpeg",
+      "alt": "阅读历届毕业生就业质量报告",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-graduate-destinations-02.jpeg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/fdr-2024.jpg",
+      "alt": "2024届毕业生就业质量报告（PDF）",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/fdr-2024.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/dsc05543_0.jpg",
+      "alt": "Life Beyond Century Avenue 2023 (full PDF report)",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/dsc05543_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-destinations2022-02.jpg",
+      "alt": "2022届毕业生就业质量报告（PDF）/2022",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-destinations-04.jpg",
+      "alt": "FDR",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-graduate-destinations-04.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/life-beyond-new-bund-class-2024",
+      "text": "2024届毕业生就业质量报告",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/life-beyond-new-bund-class-2023",
+      "text": "2023届毕业生就业质量报告",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/graduate-destinations2022",
+      "text": "2022届毕业生就业质量报告",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/about/graduate-destinations/view-the-infograhics-archive",
+      "text": "历届毕业生就业质量报告",
+      "internal": true
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/Life_Beyond_the_New_Bund_2024_ZH.pdf",
+      "text": "2024届毕业生就业质量报告（PDF）",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/co2023-fd_chn.pdf",
+      "text": "2023届毕业生就业质量报告（PDF）",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/co2022_fdr_chinese.pdf",
+      "text": "2022届毕业生就业质量报告（PDF）",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/graduate-destinations/view-the-full-reports-archive",
+      "text": "历届毕业生就业质量报告完整版",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 18,
+  "crawled_at": "2026-06-09T04:29:01+00:00",
+  "sequence": 159
+}

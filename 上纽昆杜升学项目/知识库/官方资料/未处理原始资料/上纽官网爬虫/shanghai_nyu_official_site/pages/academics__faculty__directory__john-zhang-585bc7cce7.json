@@ -1,0 +1,83 @@
+{
+  "id": "academics__faculty__directory__john-zhang-585bc7cce7",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/john-zhang",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/john-zhang",
+  "page_type": "academics",
+  "title": "John",
+  "description": "Professor at New York University. Scholar of protein structure. Former NSF Presidential Faculty fellow and former Sloan fellow. 31 published articles. Teaches Math for Foundations of Science at NYU Shanghai.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "John Zhang\nJohn Zhang is a Professor of Chemistry in the Department of Chemistry at NYU. Additionally, he is Director Emeritus of the NYU-ECNU Center for Computational Chemistry and a Global Network Professor at NYU Shanghai. Prior to joining NYU Shanghai, he was a postdoctoral researcher at the University of California, Berkeley. He holds a PhD from the University of Houston and a BS from East China Normal University.\nZhang’s current research focus is the development and application of novel computational methods for accurate and efficient study of biological systems. He develops quantum and classical methods, including new polarized force field to accurately predict protein structure, free energy in protein-drug and protein-protein bindings, and conformational dynamics of membrane proteins, structure, and dynamics of metalloproteins, etc.\nZhang has won many awards and fellowships, including the Camille and Henry Dreyfus New Faculty Award (1990), the National Science Foundation Presidential Faculty Fellowship (1994), the Alfred P. Sloan Foundation Research Fellowship (1995), and the Camille Dreyfus Teacher-Scholar (1995).\nEducation\nPhD, Chemical PhysicsUniversity of Houston\nFoundations of Science Chemistry\nFoundations of Science Physics\nIndependent Study – Chemistry\nMathematics for the Sciences\nPhysical Chemistry: Thermodynamics and Kinetics\nQuantum Mechanics\nStatistical Mechanics and Thermodynamics",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "John Zhang"
+    },
+    {
+      "type": "p",
+      "text": "John Zhang is a Professor of Chemistry in the Department of Chemistry at NYU. Additionally, he is Director Emeritus of the NYU-ECNU Center for Computational Chemistry and a Global Network Professor at NYU Shanghai. Prior to joining NYU Shanghai, he was a postdoctoral researcher at the University of California, Berkeley. He holds a PhD from the University of Houston and a BS from East China Normal University."
+    },
+    {
+      "type": "p",
+      "text": "Zhang’s current research focus is the development and application of novel computational methods for accurate and efficient study of biological systems. He develops quantum and classical methods, including new polarized force field to accurately predict protein structure, free energy in protein-drug and protein-protein bindings, and conformational dynamics of membrane proteins, structure, and dynamics of metalloproteins, etc."
+    },
+    {
+      "type": "p",
+      "text": "Zhang has won many awards and fellowships, including the Camille and Henry Dreyfus New Faculty Award (1990), the National Science Foundation Presidential Faculty Fellowship (1994), the Alfred P. Sloan Foundation Research Fellowship (1995), and the Camille Dreyfus Teacher-Scholar (1995)."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Chemical PhysicsUniversity of Houston"
+    },
+    {
+      "type": "li",
+      "text": "Foundations of Science Chemistry"
+    },
+    {
+      "type": "li",
+      "text": "Foundations of Science Physics"
+    },
+    {
+      "type": "li",
+      "text": "Independent Study – Chemistry"
+    },
+    {
+      "type": "li",
+      "text": "Mathematics for the Sciences"
+    },
+    {
+      "type": "li",
+      "text": "Physical Chemistry: Thermodynamics and Kinetics"
+    },
+    {
+      "type": "li",
+      "text": "Quantum Mechanics"
+    },
+    {
+      "type": "li",
+      "text": "Statistical Mechanics and Thermodynamics"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/simg_0172selected.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/simg_0172selected-27daf4e99fcb.jpg",
+      "download_status": "downloaded",
+      "bytes": 553516,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 201,
+  "crawled_at": "2026-06-09T04:53:31+00:00",
+  "sequence": 2374
+}

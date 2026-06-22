@@ -1,0 +1,54 @@
+{
+  "id": "academics__faculty__directory__david-mclaughlin-99562a54c8",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/david-mclaughlin",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/david-mclaughlin",
+  "page_type": "academics",
+  "title": "David",
+  "description": "Dave McLaughlin is the Silver Professor of Mathematics and Neural Science at the Courant Institute of Mathematical Sciences (CIMS). He is an applied mathematician, whose recent work in visual neural science has focused upon computational models of the primary visual cortex. McLaughlin is a member of",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "David McLaughlin\nDave McLaughlin is the Silver Professor of Mathematics and Neural Science at the Courant Institute of Mathematical Sciences (CIMS). He is an applied mathematician, whose recent work in visual neural science has focused upon computational models of the primary visual cortex. McLaughlin is a member of the National Academy of Sciences, a fellow of the American Academy of Arts and Sciences, the American Association for the Advancement of Science, and the Society for Industrial and Applied Mathematics. From 1994 to 2002, he was Director of NYU's Courant Institute of Mathematical Sciences. From 2002 to 2016, he served as the Provost for New York University.\nEducation\nPhD, PhysicsIndiana University\nMS, PhysicsIndiana University\nNetworks and Dynamics",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "David McLaughlin"
+    },
+    {
+      "type": "p",
+      "text": "Dave McLaughlin is the Silver Professor of Mathematics and Neural Science at the Courant Institute of Mathematical Sciences (CIMS). He is an applied mathematician, whose recent work in visual neural science has focused upon computational models of the primary visual cortex. McLaughlin is a member of the National Academy of Sciences, a fellow of the American Academy of Arts and Sciences, the American Association for the Advancement of Science, and the Society for Industrial and Applied Mathematics. From 1994 to 2002, he was Director of NYU's Courant Institute of Mathematical Sciences. From 2002 to 2016, he served as the Provost for New York University."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, PhysicsIndiana University"
+    },
+    {
+      "type": "li",
+      "text": "MS, PhysicsIndiana University"
+    },
+    {
+      "type": "li",
+      "text": "Networks and Dynamics"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/DaveMcLaughlin.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/DaveMcLaughlin.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 117,
+  "crawled_at": "2026-06-09T04:53:27+00:00",
+  "sequence": 2369
+}

@@ -1,0 +1,91 @@
+{
+  "id": "cn__campus-life__career__students__programs-9b03f5c923",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/programs",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/career/students/programs",
+  "page_type": "cn",
+  "title": "升学深造资源",
+  "description": "若你考虑升学深造，请仔细阅读我们提供的相关指南。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "升学深造资源\n若你考虑升学深造，请仔细阅读我们提供的相关指南。\n推荐信和文书是申请硕博项必不可少的环节。请阅读以下指南，为你的申请助力。\n上海纽约大学图书馆还提供诸多备考和文书写作资源，供同学们借阅使用。\n欢迎对升学深造感兴趣的学生联系上海纽约大学学业，获取申请研究生院专业指导。若你对在医学和法律方面发展感兴趣，请仔细阅读“医学深造预备指南和“法学深造预备指南”。",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "升学深造资源"
+    },
+    {
+      "type": "p",
+      "text": "若你考虑升学深造，请仔细阅读我们提供的相关指南。"
+    },
+    {
+      "type": "p",
+      "text": "推荐信和文书是申请硕博项必不可少的环节。请阅读以下指南，为你的申请助力。"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学图书馆还提供诸多备考和文书写作资源，供同学们借阅使用。"
+    },
+    {
+      "type": "p",
+      "text": "欢迎对升学深造感兴趣的学生联系上海纽约大学学业，获取申请研究生院专业指导。若你对在医学和法律方面发展感兴趣，请仔细阅读“医学深造预备指南和“法学深造预备指南”。"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Graduate%20School%20Guide_0.pdf",
+      "text": "研究生申请指南",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Business%20School%20Guide_0.pdf",
+      "text": "商学院申请指南",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/law_school_guide.pdf",
+      "text": "法学院申请指南",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/medical_school_guide_pdf_0.pdf",
+      "text": "医学院申请指南",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Recommendation%20Letter%20Guide.pdf",
+      "text": "推荐信指南",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Application%20Essay%20Guide.pdf",
+      "text": "申请文书指南",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/Application Essay Guide by Professional School",
+      "text": "专业院校申请文书指南",
+      "internal": true
+    },
+    {
+      "url": "https://guides.nyu.edu/c.php?g=277131&p=4038189",
+      "text": "上海纽约大学图书馆",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/support/advising/preprof/prehealth",
+      "text": "医学深造预备指南",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/support/advising/preprof/prelaw",
+      "text": "法学深造预备指南",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 14,
+  "crawled_at": "2026-06-09T04:36:55+00:00",
+  "sequence": 978
+}

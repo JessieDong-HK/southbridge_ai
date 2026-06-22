@@ -1,0 +1,101 @@
+{
+  "id": "page__chemical-management-da77fc5702",
+  "url": "https://shanghai.nyu.edu/page/chemical-management",
+  "canonical_url": "https://shanghai.nyu.edu/page/chemical-management",
+  "page_type": "page",
+  "title": "Chemical Management",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Chemical Management\nOnline Chemical Management System\nThe Laboratory Management Department implements Chemlife for purchasing, receiving, tracking, sorting, and disposing of chemicals within the laboratories. Chemicals are classified and stored according to their different Chemical Properties.\nInventory is updated periodically, and a QRcode has been used to manage each specific chemical bottle.\nWaste Management\nBiological Materials\nRemove biological material from the equipment and clean the equipment using warm, soapy water and scrub as needed. Sanitize with a 10% bleach solution for 10 minutes of contact time. Then rinse metal surfaces to prevent corrosion from the bleach. When cleaning incubators due to bacterial or fungal contamination, transfer flasks and culture plates to a biological safety cabinet. Remove shelves and wipe them down with a 10% bleach solution, followed by a thorough wipe with disposable towels soaked in 70% ethanol to prevent corrosion.\nChemical MaterialsAcidBaseOrganicSolid\nAcid\nBase\nOrganic\nSolid\nBroken glass\nSharps",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Chemical Management"
+    },
+    {
+      "type": "h3",
+      "text": "Online Chemical Management System"
+    },
+    {
+      "type": "p",
+      "text": "The Laboratory Management Department implements Chemlife for purchasing, receiving, tracking, sorting, and disposing of chemicals within the laboratories. Chemicals are classified and stored according to their different Chemical Properties."
+    },
+    {
+      "type": "p",
+      "text": "Inventory is updated periodically, and a QRcode has been used to manage each specific chemical bottle."
+    },
+    {
+      "type": "h3",
+      "text": "Waste Management"
+    },
+    {
+      "type": "li",
+      "text": "Biological Materials"
+    },
+    {
+      "type": "p",
+      "text": "Remove biological material from the equipment and clean the equipment using warm, soapy water and scrub as needed. Sanitize with a 10% bleach solution for 10 minutes of contact time. Then rinse metal surfaces to prevent corrosion from the bleach. When cleaning incubators due to bacterial or fungal contamination, transfer flasks and culture plates to a biological safety cabinet. Remove shelves and wipe them down with a 10% bleach solution, followed by a thorough wipe with disposable towels soaked in 70% ethanol to prevent corrosion."
+    },
+    {
+      "type": "li",
+      "text": "Chemical MaterialsAcidBaseOrganicSolid"
+    },
+    {
+      "type": "li",
+      "text": "Acid"
+    },
+    {
+      "type": "li",
+      "text": "Base"
+    },
+    {
+      "type": "li",
+      "text": "Organic"
+    },
+    {
+      "type": "li",
+      "text": "Solid"
+    },
+    {
+      "type": "li",
+      "text": "Broken glass"
+    },
+    {
+      "type": "li",
+      "text": "Sharps"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/p-Laboratories-5-2.jpg",
+      "alt": "Online Chemical Management System",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/p-Laboratories-5-3.jpg",
+      "alt": "Chemical Materials",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://safe.shanghai.nyu.edu/ChemLife",
+      "text": "Chemlife",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 149,
+  "crawled_at": "2026-06-09T04:30:08+00:00",
+  "sequence": 277
+}

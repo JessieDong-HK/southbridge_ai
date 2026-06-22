@@ -1,0 +1,112 @@
+{
+  "id": "campus-life__career__graduate-destinations__view-the-full-reports-archive-90e1b21ef8",
+  "url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations/view-the-full-reports-archive",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations/view-the-full-reports-archive",
+  "page_type": "campus-life",
+  "title": "View the Full Reports Archive",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "View the Full Reports Archive",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "View the Full Reports Archive"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-destinations2022-02.jpg",
+      "alt": "Life Beyond Century Avenue 2022 (full PDF report)/2022",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-destinations-03_0.jpg",
+      "alt": "FDR",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/chinese_first_destination_2020-1-3-05_1.jpg",
+      "alt": "Life Beyond Century Avenue 2020 (full PDF report)",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/chinese_first_destination_2020-1-3-05_1-27c04bf56b44.jpg",
+      "download_status": "downloaded",
+      "bytes": 43124,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/chinese_first_destination_2020-1-3-06_1.jpg",
+      "alt": "Life Beyond Century Avenue 2019 (full PDF report)",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/chinese_first_destination_2020-1-3-06_1-94d6c63b462b.jpg",
+      "download_status": "downloaded",
+      "bytes": 59274,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/chinese_first_destination_2020-1-3-07_1_0.jpg",
+      "alt": "FDR",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/chinese_first_destination_2020-1-3-07_1_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/chinese_first_destination_2020-1-3-08_1_0.jpg",
+      "alt": "FDR",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/chinese_first_destination_2020-1-3-08_1_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/classof2022_lifebeyondcenturyavenue_eng.pdf",
+      "text": "Life Beyond Century Avenue 2022 (full PDF report)",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/fdr_en_singe_page.pdf",
+      "text": "Life Beyond Century Avenue 2021 (full PDF report)",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/nyu2020_page_en_0316.pdf",
+      "text": "Life Beyond Century Avenue 2020 (full PDF report)",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/class_of_2019_first_destination_report.pdf",
+      "text": "Life Beyond Century Avenue 2019 (full PDF report)",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/class_of_2018_first_destination_report.pdf",
+      "text": "Life Beyond Century Avenue 2018 (full PDF report)",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/1Jcy7A8X3j4ga_iLp1vERRzx6D8qBVCmf/view?usp=sharing",
+      "text": "Life Beyond Century Avenue 2017 (full PDF report)",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 5,
+  "crawled_at": "2026-06-09T04:32:22+00:00",
+  "sequence": 563
+}

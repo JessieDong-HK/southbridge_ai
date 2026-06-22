@@ -1,0 +1,75 @@
+{
+  "id": "stories__omer-cohen-freshman-israel-b841cf3163",
+  "url": "https://shanghai.nyu.edu/stories/omer-cohen-freshman-israel",
+  "canonical_url": "https://shanghai.nyu.edu/stories/omer-cohen-freshman-israel",
+  "page_type": "stories",
+  "title": "Omer Cohen, Freshman, Israel",
+  "description": "December 19, 2014 - “Since I am 23, all of my friends already graduated when I went to college. I served in the army of Israel for three years. I never imagined that I would study in China. During the admitted students weekend, I realized that I need to challenge myself—this is the smartest choice I",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Omer Cohen, Freshman, Israel\nTwitter\nFacebook\nWeibo\nDecember 19, 2014 - “Since I am 23, all of my friends already graduated when I went to college. I served in the army of Israel for three years. I never imagined that I would study in China. During the admitted students weekend, I realized that I need to challenge myself—this is the smartest choice I have ever made in my entire life. Now I have friends from all over the world. I grew up in Honduras, but I go to an American university in China, which is the most unbelievable thing.” - Omer Cohen, Freshman, Israel (by Sunyi Wang)",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Omer Cohen, Freshman, Israel"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "December 19, 2014 - “Since I am 23, all of my friends already graduated when I went to college. I served in the army of Israel for three years. I never imagined that I would study in China. During the admitted students weekend, I realized that I need to challenge myself—this is the smartest choice I have ever made in my entire life. Now I have friends from all over the world. I grew up in Honduras, but I go to an American university in China, which is the most unbelievable thing.” - Omer Cohen, Freshman, Israel (by Sunyi Wang)"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/story",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/story/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/story/omer.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Omer%20Cohen%2C%20Freshman%2C%20Israel&url=https%3A//shanghai.nyu.edu/stories/omer-cohen-freshman-israel&status=Omer%20Cohen%2C%20Freshman%2C%20Israel%20https%3A//shanghai.nyu.edu/stories/omer-cohen-freshman-israel",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/stories/omer-cohen-freshman-israel&title=Omer%20Cohen%2C%20Freshman%2C%20Israel",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/stories/omer-cohen-freshman-israel&title=Omer%20Cohen%2C%20Freshman%2C%20Israel",
+      "text": "Weibo",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 106,
+  "crawled_at": "2026-06-09T04:47:47+00:00",
+  "sequence": 1885
+}

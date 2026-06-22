@@ -1,0 +1,35 @@
+{
+  "id": "academics__faculty__directory__wei-dai-46d559e705",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/wei-dai",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/wei-dai",
+  "page_type": "academics",
+  "title": "Wei",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Wei Dai",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Wei Dai"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/screen_shot_2024-06-24_at_10.24.39_am_1.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2024-06-24_at_10.24.39_am_1-8b480deff21c.png",
+      "download_status": "downloaded",
+      "bytes": 197556,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:54:29+00:00",
+  "sequence": 2434
+}

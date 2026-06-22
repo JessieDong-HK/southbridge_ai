@@ -1,0 +1,245 @@
+{
+  "id": "global-awards-936e7c4890",
+  "url": "https://shanghai.nyu.edu/global-awards",
+  "canonical_url": "https://shanghai.nyu.edu/global-awards",
+  "page_type": "global-awards",
+  "title": "Global Awards | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Global Awards",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Global Awards"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/millennium_fellowship-01_1.jpg?itok=hxgSRwVW",
+      "alt": "banner millennium fellows 2025",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/clara_princeton_in_asia-01.jpg?itok=NVxS3z2r",
+      "alt": "Clara Akhlaghi ’25",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/clara_princeton_in_asia-01-39ad7f0d0309.jpg",
+      "download_status": "downloaded",
+      "bytes": 59831,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/caitlin_mcmahon_25_awarded_a_fulbright_eta-01.jpg?itok=eUJ-Yoig",
+      "alt": "caitlin banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/caitlin_mcmahon_25_awarded_a_fulbright_eta-01-9c8193b70052.jpg",
+      "download_status": "downloaded",
+      "bytes": 65854,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/mateo_rengifo_orozco_25_awarded_princeton_in_asia_scholarship-01.jpg?itok=ZL99TqHF",
+      "alt": "Mateo Rengifo Orozco ’25 has been named a 2025 Princeton in Asia Fellow.",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/mateo_rengifo_orozco_25_awarded_princeton_in_asia_sc-2416ddf8ed9e.jpg",
+      "download_status": "downloaded",
+      "bytes": 26268,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/doris_zhang_25-01.jpg?itok=M22Z8n1T",
+      "alt": "Doris Yuxuan Zhang ’25 has won a full-tuition Erasmus Mundus Scholarship, and will pursue graduate studies at three different universities in Europe.",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/addie_dung_nguyen_27_named_amgen_scholar_-01.jpg?itok=9DKkTaBV",
+      "alt": "Addie Dung Nguyen ’27 Named Amgen Scholar",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/addie_dung_nguyen_27_named_amgen_scholar_-01-29942c410572.jpg",
+      "download_status": "downloaded",
+      "bytes": 104275,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/nyu_shanghai_celebrates_record_number_of_yenching_scholars_in_2025_-01.jpg?itok=x7BDy7S5",
+      "alt": "2025yenchingscholars",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/fulbright_austria_article-01.jpg?itok=nNDGKwaG",
+      "alt": "Ruby Rich '24",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/fulbright_austria_article-01-82dd6b1f76d3.jpg",
+      "download_status": "downloaded",
+      "bytes": 37674,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/millennium_fellowship-01.jpg?itok=-oJPFeZp",
+      "alt": "millennium fellows 2024",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/stephanie_anderson_23_wins_fulbright_english_teaching_assistantship-01.jpg?itok=qf5OMfil",
+      "alt": "Stephanie Anderson wins Fulbright ETA banner image",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/stephanie_anderson_23_wins_fulbright_english_teachin-cea0a9dd1339.jpg",
+      "download_status": "downloaded",
+      "bytes": 33054,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/nyu_student_is_newest_recipient_of_east-west_center_graduate_degree_fellowship-01.jpg?itok=_t9q-irP",
+      "alt": "Anita Catalina Aravena ’24",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyu_student_is_newest_recipient_of_east-west_center-fb8b388b9c71.jpg",
+      "download_status": "downloaded",
+      "bytes": 68001,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/yolanda_huang_yiyue_26_named_amgen_scholar_-01.jpg?itok=-9iUiPiw",
+      "alt": "banner yolanda huang",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/lead_fellowship_deziree_harmon-01_0.jpg?itok=QRLcsKfO",
+      "alt": "deziree",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/alumni_voices_jaime_cantwell_22-01_2.jpg?itok=a9Xbe9XU",
+      "alt": "jaime cantwell, nyu shanghai's first rangel fellowship winner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_voices_jaime_cantwell_22-01_2-3cb2c6c5521d.jpg",
+      "download_status": "downloaded",
+      "bytes": 75515,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/li_peirong_24_awarded_prestigious_schwarzman_scholarship-01.jpg?itok=fvGkEofD",
+      "alt": "li peirong",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/li_peirong_24_awarded_prestigious_schwarzman_scholar-a590c81a2320.jpg",
+      "download_status": "downloaded",
+      "bytes": 38906,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/students-make-change-millennium-fellowship",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/clara-akhlaghi-25-awarded-princeton-asia-scholarship",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/caitlin-mcmahon-25-awarded-fulbright-eta",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/mateo-rengifo-orozco-25-awarded-princeton-asia-scholarship",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/doris-zhang-25-wins-erasmus-mundus-scholarship",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/addie-dung-nguyen-27-named-amgen-scholar",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-celebrates-record-number-yenching-scholars-2025",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/ruby-rich-24-pursues-fulbright-eta-austria",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-students-named-2024-millennium-fellows",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/stephanie-anderson-23-wins-fulbright-english-teaching-assistantship",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/anita-catalina-aravena-24-awarded-east-west-center-graduate-degree-fellowship",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/yolanda-huang-yiyue-26-named-amgen-scholar",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/deziree-harmon-25-awarded-leadnext-fellowship",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/jaime-cantwell-22-awarded-nyu-shanghais-first-rangel-fellowship",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/li-peirong-24-awarded-prestigious-schwarzman-scholarship",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:30:35+00:00",
+  "sequence": 319
+}

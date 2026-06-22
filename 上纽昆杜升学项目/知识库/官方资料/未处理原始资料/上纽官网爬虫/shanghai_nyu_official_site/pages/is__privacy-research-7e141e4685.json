@@ -1,0 +1,148 @@
+{
+  "id": "is__privacy-research-7e141e4685",
+  "url": "https://shanghai.nyu.edu/is/privacy-research",
+  "canonical_url": "https://shanghai.nyu.edu/is/privacy-research",
+  "page_type": "is",
+  "title": "Keith Ross on Data Driven Privacy Research",
+  "description": "So how easy is it to collect and put together a profile of someone using existing data online?",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Keith Ross on Data Driven Privacy Research\nTwitter\nFacebook\nWeibo\nSo how easy is it to collect and put together a profile of someone using existing data online?\nToday, data brokerage is a multi-billion industry that is all about creating profiles of people and selling them to marketers, banks (for making loans), development offices in universities, people profile search companies and so on. Traditionally, they collected information from offline public records and other sources. More recently, they started to mine information from social media. With the explosion of data online, data brokers, like Google, Facebook, Tencent and Baidu are now turning to powerful statistical analysis techniques to infer more detailed information about individuals, even when it is not publicly available. As a result, the industry is coming under growing scrutiny by the Federal Trade Commission, the U.S. Congress, and the European Union.\nWhat is your most recent research paper about?\nOur research on children’s online privacy started two years ago with a US$ 500,000 grant from NSF. Our most recent research shows that even though babies do not have Facebook accounts, data brokers, predators and other third parties can readily infer and create profiles that include a child’s name, home address, gender, birth day and year, photos, and information about the child’s parents, such as political affiliation, religion, employment, and so on.\nIn my recent FLSS talk, I described how these profiles could be created for hundreds of thousands of babies in an automated fashion. This “profiling attack” is the result of a perfect storm of five readily available ingredients coming together: small public profiles of parents on Facebook; public records, such as voter registration records; friendlists on Facebook, enabling anyone to match Facebook users with people on voter lists with a high degree of certainty; new tools that predict automatically the age of subjects in profiles; and finally, parental habit of posting photos of children along with comments like “Susie is celebrating her second birthday today.”\nIn today’s world, can there be a reasonable expectation of privacy?\nActually, recent technological advances and the pervasive presence of social media in our lives are leading some people to contemplate the possibility of a society where there is absolutely no privacy whatsoever and where anyone can know anything about anyone else. Some argue that in a transparent society, it would be difficult to commit crimes including white-collar crimes. Terrorism would be difficult. Lying in general would become diffcult.\nWhat is Facebook and others doing about this?\nFacebook actively limits third party profiling of minors. In the case of minors, for instance, they will only make available a profile picture and full name to non-friends.\nGovernments are taking actions to maintain current levels of privacy in our society. For instance, the Childhood Online Privacy Protection Act (COPPA), enacted in 2000 in the United States, and Europe’s more recent Right to Be Forgotten Laws are shaping the growing debate about regulating the data brokerage industry. However, in an earlier paper, we showed that the Children’s Online Privacy Protection Act (COPPA) indirectly encourages minors to lie about their ages, which in turn exposes high-school students, who lie and don’t lie about their ages, to extensive profiling.\nAre you doing other privacy-related research?\nWe have been evaluating the effectiveness of the European “Right to Be Forgotten” law, and also studying how third parties track the locations of people. For instance, we showed how they can track the location of any skype user, or a wechat user using the `people nearby service’, or the yak provenance in the anonymity app YiK Yak.\nDo undergraduates participate in your research?\nI really enjoy working with undergraduates at NYU Shanghai. By working with them, the students not only get to see if they are interested in research, but they also can make significant contributions to my own research agenda. One undergraduate researcher co-authored the children’s privacy paper I referred to earlier. A recent short paper about location privacy in Yik-Yak was co-authored with three NYU Shanghai undergraduates. I am currently working with two others on data mining, and yet two more undergraduates on the “humans” project. I love giving them opportunities to explore research and entrepreneurship.\nHow did you get interested in social networks and privacy?\nI have been fascinated about the Internet for my entire research career. My early work centered on mathematical models of the Internet. But I have also looked at Internet measurement, Internet security, video streaming, peer-to-peer applications, and piracy in the Internet.\nAbout four years ago my research began to focus on social networks and privacy. It is an exciting research area because, on one hand, it is a topic that many people can relate with today, and, on the other, it involves many challenging data-driven problems.\nHow did you originally get interested in data?\nI grew up in Cherry Hill NJ. Only a 10-minute bike ride from my high school, there used to be a famous racetrack, called the Garden State Racetrack. After school, my friend and I would often go to the racetrack and catch the last three or four races. We would often meet my father there. In the morning, we would purchase the “Racing Form,” which contains extensive data about each horse running in the races for that particular day. During lunch breaks and recess at school, my friend and I would scrutinize the data carefully and develop heurisitcs for choosing horses based on past performance and current odds. When the last class was over, we would bike over to the track and place our bets for the last few races. So the racetrack was my first foray into data science.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Keith Ross on Data Driven Privacy Research"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "So how easy is it to collect and put together a profile of someone using existing data online?"
+    },
+    {
+      "type": "p",
+      "text": "Today, data brokerage is a multi-billion industry that is all about creating profiles of people and selling them to marketers, banks (for making loans), development offices in universities, people profile search companies and so on. Traditionally, they collected information from offline public records and other sources. More recently, they started to mine information from social media. With the explosion of data online, data brokers, like Google, Facebook, Tencent and Baidu are now turning to powerful statistical analysis techniques to infer more detailed information about individuals, even when it is not publicly available. As a result, the industry is coming under growing scrutiny by the Federal Trade Commission, the U.S. Congress, and the European Union."
+    },
+    {
+      "type": "p",
+      "text": "What is your most recent research paper about?"
+    },
+    {
+      "type": "p",
+      "text": "Our research on children’s online privacy started two years ago with a US$ 500,000 grant from NSF. Our most recent research shows that even though babies do not have Facebook accounts, data brokers, predators and other third parties can readily infer and create profiles that include a child’s name, home address, gender, birth day and year, photos, and information about the child’s parents, such as political affiliation, religion, employment, and so on."
+    },
+    {
+      "type": "p",
+      "text": "In my recent FLSS talk, I described how these profiles could be created for hundreds of thousands of babies in an automated fashion. This “profiling attack” is the result of a perfect storm of five readily available ingredients coming together: small public profiles of parents on Facebook; public records, such as voter registration records; friendlists on Facebook, enabling anyone to match Facebook users with people on voter lists with a high degree of certainty; new tools that predict automatically the age of subjects in profiles; and finally, parental habit of posting photos of children along with comments like “Susie is celebrating her second birthday today.”"
+    },
+    {
+      "type": "p",
+      "text": "In today’s world, can there be a reasonable expectation of privacy?"
+    },
+    {
+      "type": "p",
+      "text": "Actually, recent technological advances and the pervasive presence of social media in our lives are leading some people to contemplate the possibility of a society where there is absolutely no privacy whatsoever and where anyone can know anything about anyone else. Some argue that in a transparent society, it would be difficult to commit crimes including white-collar crimes. Terrorism would be difficult. Lying in general would become diffcult."
+    },
+    {
+      "type": "p",
+      "text": "What is Facebook and others doing about this?"
+    },
+    {
+      "type": "p",
+      "text": "Facebook actively limits third party profiling of minors. In the case of minors, for instance, they will only make available a profile picture and full name to non-friends."
+    },
+    {
+      "type": "p",
+      "text": "Governments are taking actions to maintain current levels of privacy in our society. For instance, the Childhood Online Privacy Protection Act (COPPA), enacted in 2000 in the United States, and Europe’s more recent Right to Be Forgotten Laws are shaping the growing debate about regulating the data brokerage industry. However, in an earlier paper, we showed that the Children’s Online Privacy Protection Act (COPPA) indirectly encourages minors to lie about their ages, which in turn exposes high-school students, who lie and don’t lie about their ages, to extensive profiling."
+    },
+    {
+      "type": "p",
+      "text": "Are you doing other privacy-related research?"
+    },
+    {
+      "type": "p",
+      "text": "We have been evaluating the effectiveness of the European “Right to Be Forgotten” law, and also studying how third parties track the locations of people. For instance, we showed how they can track the location of any skype user, or a wechat user using the `people nearby service’, or the yak provenance in the anonymity app YiK Yak."
+    },
+    {
+      "type": "p",
+      "text": "Do undergraduates participate in your research?"
+    },
+    {
+      "type": "p",
+      "text": "I really enjoy working with undergraduates at NYU Shanghai. By working with them, the students not only get to see if they are interested in research, but they also can make significant contributions to my own research agenda. One undergraduate researcher co-authored the children’s privacy paper I referred to earlier. A recent short paper about location privacy in Yik-Yak was co-authored with three NYU Shanghai undergraduates. I am currently working with two others on data mining, and yet two more undergraduates on the “humans” project. I love giving them opportunities to explore research and entrepreneurship."
+    },
+    {
+      "type": "p",
+      "text": "How did you get interested in social networks and privacy?"
+    },
+    {
+      "type": "p",
+      "text": "I have been fascinated about the Internet for my entire research career. My early work centered on mathematical models of the Internet. But I have also looked at Internet measurement, Internet security, video streaming, peer-to-peer applications, and piracy in the Internet."
+    },
+    {
+      "type": "p",
+      "text": "About four years ago my research began to focus on social networks and privacy. It is an exciting research area because, on one hand, it is a topic that many people can relate with today, and, on the other, it involves many challenging data-driven problems."
+    },
+    {
+      "type": "p",
+      "text": "How did you originally get interested in data?"
+    },
+    {
+      "type": "p",
+      "text": "I grew up in Cherry Hill NJ. Only a 10-minute bike ride from my high school, there used to be a famous racetrack, called the Garden State Racetrack. After school, my friend and I would often go to the racetrack and catch the last three or four races. We would often meet my father there. In the morning, we would purchase the “Racing Form,” which contains extensive data about each horse running in the races for that particular day. During lunch breaks and recess at school, my friend and I would scrutinize the data carefully and develop heurisitcs for choosing horses based on past performance and current odds. When the last class was over, we would bike over to the track and place our bets for the last few races. So the racetrack was my first foray into data science."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/focus_image",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/focus_image/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/focus_image/Baby-share940-350_0.jpg?itok=RlzKlgMy",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Baby-share940-350_0-e6d3b4fb4063.jpg",
+      "download_status": "downloaded",
+      "bytes": 44825,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Keith%20Ross%20on%20Data%20Driven%20Privacy%20Research&url=https%3A//shanghai.nyu.edu/is/privacy-research&status=Keith%20Ross%20on%20Data%20Driven%20Privacy%20Research%20https%3A//shanghai.nyu.edu/is/privacy-research",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/is/privacy-research&title=Keith%20Ross%20on%20Data%20Driven%20Privacy%20Research",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/is/privacy-research&title=Keith%20Ross%20on%20Data%20Driven%20Privacy%20Research",
+      "text": "Weibo",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 962,
+  "crawled_at": "2026-06-09T04:50:42+00:00",
+  "sequence": 2132
+}

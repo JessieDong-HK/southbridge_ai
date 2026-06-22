@@ -1,0 +1,167 @@
+{
+  "id": "page__connect-us-514d2d1a1c",
+  "url": "https://shanghai.nyu.edu/page/connect-us",
+  "canonical_url": "https://shanghai.nyu.edu/page/connect-us",
+  "page_type": "page",
+  "title": "Connect with Us",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Connect with Us\nThere are so many ways to get in touch with us and learn about NYU Shanghai. No matter which way you choose to connect with us, we will show you what makes NYU Shanghai a school like no other.\nVisit Our Campus\nVisit us in-person, or immerse yourself in our campus through the 360 degree tour.\nJoin an Info Session\nIn these sessions, admissions counselors and current students share information about NYU Shanghai and answer your questions.\nAdmissions Events\nWant to join an NYU Shanghai event from the comfort of home? Looking for an in-person event near you? Click here to learn more.\nConnect with Us\nHave questions about the admissions process and your application? Reach out to our admissions team.\nAsk a Student\nCurious about what it’s like to be a student at NYU Shanghai? Our students are here to share their first-hand experiences.\nJoin Our Mailing List\nJoin our mailing list to receive invitations to special events and to stay informed about our admissions and financial aid processes.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Connect with Us"
+    },
+    {
+      "type": "p",
+      "text": "There are so many ways to get in touch with us and learn about NYU Shanghai. No matter which way you choose to connect with us, we will show you what makes NYU Shanghai a school like no other."
+    },
+    {
+      "type": "h4",
+      "text": "Visit Our Campus"
+    },
+    {
+      "type": "p",
+      "text": "Visit us in-person, or immerse yourself in our campus through the 360 degree tour."
+    },
+    {
+      "type": "h4",
+      "text": "Join an Info Session"
+    },
+    {
+      "type": "p",
+      "text": "In these sessions, admissions counselors and current students share information about NYU Shanghai and answer your questions."
+    },
+    {
+      "type": "h4",
+      "text": "Admissions Events"
+    },
+    {
+      "type": "p",
+      "text": "Want to join an NYU Shanghai event from the comfort of home? Looking for an in-person event near you? Click here to learn more."
+    },
+    {
+      "type": "h4",
+      "text": "Connect with Us"
+    },
+    {
+      "type": "p",
+      "text": "Have questions about the admissions process and your application? Reach out to our admissions team."
+    },
+    {
+      "type": "h4",
+      "text": "Ask a Student"
+    },
+    {
+      "type": "p",
+      "text": "Curious about what it’s like to be a student at NYU Shanghai? Our students are here to share their first-hand experiences."
+    },
+    {
+      "type": "h4",
+      "text": "Join Our Mailing List"
+    },
+    {
+      "type": "p",
+      "text": "Join our mailing list to receive invitations to special events and to stay informed about our admissions and financial aid processes."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Connect-with-Us-1.jpg",
+      "alt": "Visit Our Campus",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Connect-with-Us-1-b0a7d2acad4f.jpg",
+      "download_status": "downloaded",
+      "bytes": 79703,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Connect-with-Us-2.jpg",
+      "alt": "Join an Info Session",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Connect-with-Us-3.jpg",
+      "alt": "Admissions Events",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Connect-with-Us-3-5155a26cd66f.jpg",
+      "download_status": "downloaded",
+      "bytes": 155277,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Connect-with-Us-4.jpg",
+      "alt": "Meet the Team",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Connect-with-Us-4-f3163020a191.jpg",
+      "download_status": "downloaded",
+      "bytes": 52200,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Connect-with-Us-5.jpg",
+      "alt": "Ask a Student",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Connect-with-Us-5-d5db6331b66c.jpg",
+      "download_status": "downloaded",
+      "bytes": 49739,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Connect-with-Us-6.jpg",
+      "alt": "Join Our Mailing List",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Connect-with-Us-6-1ace4a1b8d59.jpg",
+      "download_status": "downloaded",
+      "bytes": 70703,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/undergraduate-admissions/connect-with-us/visit-our-campus",
+      "text": "Visit Our Campus",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/undergraduate-admissions/connect-with-us/join-an-info-session",
+      "text": "Join an Info Session",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/undergraduate-admissions/connect-with-us/admissions-events",
+      "text": "Admissions Events",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/undergraduate-admissions/connect-with-us/meet-the-team",
+      "text": "Connect with Us",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/undergraduate-admissions/connect-with-us/ask-a-student",
+      "text": "Ask a Student",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/undergraduate-admissions/connect-with-us/join-our-mailing-list",
+      "text": "Join Our Mailing List",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 177,
+  "crawled_at": "2026-06-09T04:28:46+00:00",
+  "sequence": 120
+}

@@ -1,0 +1,197 @@
+{
+  "id": "cn__news__nyu-shanghai-faculty-publications-selected-prestigious-stoc-conference-edd72ca08b",
+  "url": "https://shanghai.nyu.edu/cn/news/nyu-shanghai-faculty-publications-selected-prestigious-stoc-conference",
+  "canonical_url": "https://shanghai.nyu.edu/cn/news/nyu-shanghai-faculty-publications-selected-prestigious-stoc-conference",
+  "page_type": "cn",
+  "title": "上纽大教授三篇论文入选2025年国际顶级会议STOC",
+  "description": "薛杰教授的研究聚焦于几何问题与图论中的高效算法设计，不仅提出了更快速的算法方案，同时也推动了相关领域的理论发展。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "上纽大教授三篇论文入选2025年国际顶级会议STOC\nTwitter\nFacebook\nWeibo\n今年六月于捷克布拉格举行的计算理论研讨会（STOC）上，上海纽约大学计算机科学助理教授薛杰的三篇论文成功入选。\n自1969年创办以来，STOC一直是理论计算机科学领域最具声望的国际会议之一，大会议题涵盖算法、计算复杂性理论及相关领域的前沿进展。\n“STOC是备受学术界认可的一大会议，薛教授在同一年有三篇论文入选，充分体现了他的科研实力，我们对此深感自豪。这也展现了上纽大在追求科研卓越方面的不懈努力。” 上海纽约大学计算机科学、数据科学与工程学部主任Nasir Memon表示。\n薛杰教授的研究聚焦于几何问题与图论中的高效算法设计，不仅提出了更快速的算法方案，同时也推动了相关领域的理论发展。\n研究一：最小距离下的高效匹配\n该论文探讨了几何多重匹配问题（Geometric Multimatching Problem）— 如何在欧几里得空间中为两组点进行匹配，并使连接路径的总距离尽可能短。\n薛教授解释道：“可以把它想象成地图上的住户与商店。每个住户需要连接到至少一家商店，同时每家商店需要连接到至少一家住户，而我们的目标就是在满足需求的同时，让整体出行距离最小化。”\n论文提出了两种高效的近似算法来解决这一问题。这些算法不仅适用于欧几里得空间，也能推广至更一般的度量空间中。\n最小距离下的高效匹配\n阅读原文 – Approximation Algorithms for the Geometric Multimatching Problem\n研究二：稀疏图中复杂模式的快速检测\n该论文致力于解决如何在大规模稀疏图中高效查找或计数某种特定模式的问题。论文中所考虑的模式为图中的一些满足彼此之间距离约束的结点。想象在一个巨大的网络中（比如社交关系图谱或城市交通网络），你想要快速找到满足某些条件的结点组合，例如：组内结点之间的距离必须都至少为3，同时又至多为10。这类问题在数据处理中较为常见。\n“在论文中，我们提出了一系列高效算法，用以在稀疏图中查找或计数此种模式。这些算法显著提升了现有方法的运行效率。” 薛教授解释说，“在设计算法时，我们还发展出了一套解决此类问题的通用理论工具。这些工具有望应用于其他相关问题。”\n稀疏图中复杂模式的快速检测\n阅读原文 – Efficiently Finding and Counting Patterns with Distance Constraints in Sparse Graphs\n研究三：图中“问题子结构”的消除\n该论文研究的是算法图论中的一类基础性问题：如何在一个给定的图中删除尽可能少的节点，以消除所有不希望出现的子图。这一类问题被称为“子图命中”（Subgraph Hitting），是图优化研究中许多重要问题的一个推广。\n论文证明了：只要输入的图中存在小规模的“分隔集”（即一种删除后可将图分为若干规模相当的子图的结构），子图命中问题便能在亚指数时间内得以解决。这一结果不仅显著拓展了以往的研究工作，也深化了学界对相关问题的理解。\n图中“问题子结构”的消除\n阅读原文 – Subexponential Parameterized Algorithms for Hitting Subgraphs",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "上纽大教授三篇论文入选2025年国际顶级会议STOC"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "今年六月于捷克布拉格举行的计算理论研讨会（STOC）上，上海纽约大学计算机科学助理教授薛杰的三篇论文成功入选。"
+    },
+    {
+      "type": "p",
+      "text": "自1969年创办以来，STOC一直是理论计算机科学领域最具声望的国际会议之一，大会议题涵盖算法、计算复杂性理论及相关领域的前沿进展。"
+    },
+    {
+      "type": "p",
+      "text": "“STOC是备受学术界认可的一大会议，薛教授在同一年有三篇论文入选，充分体现了他的科研实力，我们对此深感自豪。这也展现了上纽大在追求科研卓越方面的不懈努力。” 上海纽约大学计算机科学、数据科学与工程学部主任Nasir Memon表示。"
+    },
+    {
+      "type": "p",
+      "text": "薛杰教授的研究聚焦于几何问题与图论中的高效算法设计，不仅提出了更快速的算法方案，同时也推动了相关领域的理论发展。"
+    },
+    {
+      "type": "h3",
+      "text": "研究一：最小距离下的高效匹配"
+    },
+    {
+      "type": "p",
+      "text": "该论文探讨了几何多重匹配问题（Geometric Multimatching Problem）— 如何在欧几里得空间中为两组点进行匹配，并使连接路径的总距离尽可能短。"
+    },
+    {
+      "type": "p",
+      "text": "薛教授解释道：“可以把它想象成地图上的住户与商店。每个住户需要连接到至少一家商店，同时每家商店需要连接到至少一家住户，而我们的目标就是在满足需求的同时，让整体出行距离最小化。”"
+    },
+    {
+      "type": "p",
+      "text": "论文提出了两种高效的近似算法来解决这一问题。这些算法不仅适用于欧几里得空间，也能推广至更一般的度量空间中。"
+    },
+    {
+      "type": "figcaption",
+      "text": "最小距离下的高效匹配"
+    },
+    {
+      "type": "p",
+      "text": "阅读原文 – Approximation Algorithms for the Geometric Multimatching Problem"
+    },
+    {
+      "type": "h3",
+      "text": "研究二：稀疏图中复杂模式的快速检测"
+    },
+    {
+      "type": "p",
+      "text": "该论文致力于解决如何在大规模稀疏图中高效查找或计数某种特定模式的问题。论文中所考虑的模式为图中的一些满足彼此之间距离约束的结点。想象在一个巨大的网络中（比如社交关系图谱或城市交通网络），你想要快速找到满足某些条件的结点组合，例如：组内结点之间的距离必须都至少为3，同时又至多为10。这类问题在数据处理中较为常见。"
+    },
+    {
+      "type": "p",
+      "text": "“在论文中，我们提出了一系列高效算法，用以在稀疏图中查找或计数此种模式。这些算法显著提升了现有方法的运行效率。” 薛教授解释说，“在设计算法时，我们还发展出了一套解决此类问题的通用理论工具。这些工具有望应用于其他相关问题。”"
+    },
+    {
+      "type": "figcaption",
+      "text": "稀疏图中复杂模式的快速检测"
+    },
+    {
+      "type": "p",
+      "text": "阅读原文 – Efficiently Finding and Counting Patterns with Distance Constraints in Sparse Graphs"
+    },
+    {
+      "type": "h3",
+      "text": "研究三：图中“问题子结构”的消除"
+    },
+    {
+      "type": "p",
+      "text": "该论文研究的是算法图论中的一类基础性问题：如何在一个给定的图中删除尽可能少的节点，以消除所有不希望出现的子图。这一类问题被称为“子图命中”（Subgraph Hitting），是图优化研究中许多重要问题的一个推广。"
+    },
+    {
+      "type": "p",
+      "text": "论文证明了：只要输入的图中存在小规模的“分隔集”（即一种删除后可将图分为若干规模相当的子图的结构），子图命中问题便能在亚指数时间内得以解决。这一结果不仅显著拓展了以往的研究工作，也深化了学界对相关问题的理解。"
+    },
+    {
+      "type": "figcaption",
+      "text": "图中“问题子结构”的消除"
+    },
+    {
+      "type": "p",
+      "text": "阅读原文 – Subexponential Parameterized Algorithms for Hitting Subgraphs"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/nyu_shanghai_faculty_publications_selected_for_prestigious_stoc_conference-04_1.jpg?itok=ZmOm0pgp",
+      "alt": "graph theory",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyu_shanghai_faculty_publications_selected_for_prest-fe79993ba38c.jpg",
+      "download_status": "downloaded",
+      "bytes": 33811,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/NYU%20Shanghai%20Faculty%20Publications%20Selected%20for%20Prestigious%20STOC%20Conference-03%20%281%29_0.jpg",
+      "alt": "Efficient Matching with Minimum Distance",
+      "caption": "最小距离下的高效匹配",
+      "source": "img",
+      "local_path": "_shared/NYU-20Shanghai-20Faculty-20Publications-20Selected-2-067903598726.jpg",
+      "download_status": "downloaded",
+      "bytes": 367381,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/NYU%20Shanghai%20Faculty%20Publications%20Selected%20for%20Prestigious%20STOC%20Conference-01%20%281%29_0.jpg",
+      "alt": "Fast Detection of Complex Patterns in Sparse Graphs",
+      "caption": "稀疏图中复杂模式的快速检测",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/NYU%20Shanghai%20Faculty%20Publications%20Selected%20for%20Prestigious%20STOC%20Conference-02%20%281%29_10.jpg",
+      "alt": "Eliminating Problematic Substructures in Graphs",
+      "caption": "图中“问题子结构”的消除",
+      "source": "img",
+      "local_path": "_shared/NYU-20Shanghai-20Faculty-20Publications-20Selected-2-fa7aa1cfe28d.jpg",
+      "download_status": "downloaded",
+      "bytes": 350431,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=%E4%B8%8A%E7%BA%BD%E5%A4%A7%E6%95%99%E6%8E%88%E4%B8%89%E7%AF%87%E8%AE%BA%E6%96%87%E5%85%A5%E9%80%892025%E5%B9%B4%E5%9B%BD%E9%99%85%E9%A1%B6%E7%BA%A7%E4%BC%9A%E8%AE%AESTOC&url=https%3A//shanghai.nyu.edu/cn/news/nyu-shanghai-faculty-publications-selected-prestigious-stoc-conference&status=%E4%B8%8A%E7%BA%BD%E5%A4%A7%E6%95%99%E6%8E%88%E4%B8%89%E7%AF%87%E8%AE%BA%E6%96%87%E5%85%A5%E9%80%892025%E5%B9%B4%E5%9B%BD%E9%99%85%E9%A1%B6%E7%BA%A7%E4%BC%9A%E8%AE%AESTOC%20https%3A//shanghai.nyu.edu/cn/news/nyu-shanghai-faculty-publications-selected-prestigious-stoc-conference",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/cn/news/nyu-shanghai-faculty-publications-selected-prestigious-stoc-conference&title=%E4%B8%8A%E7%BA%BD%E5%A4%A7%E6%95%99%E6%8E%88%E4%B8%89%E7%AF%87%E8%AE%BA%E6%96%87%E5%85%A5%E9%80%892025%E5%B9%B4%E5%9B%BD%E9%99%85%E9%A1%B6%E7%BA%A7%E4%BC%9A%E8%AE%AESTOC",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/cn/news/nyu-shanghai-faculty-publications-selected-prestigious-stoc-conference&title=%E4%B8%8A%E7%BA%BD%E5%A4%A7%E6%95%99%E6%8E%88%E4%B8%89%E7%AF%87%E8%AE%BA%E6%96%87%E5%85%A5%E9%80%892025%E5%B9%B4%E5%9B%BD%E9%99%85%E9%A1%B6%E7%BA%A7%E4%BC%9A%E8%AE%AESTOC",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty/directory/jie-xue",
+      "text": "薛杰",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership/nasir-memon",
+      "text": "Nasir Memon",
+      "internal": true
+    },
+    {
+      "url": "https://dl.acm.org/doi/10.1145/3717823.3718147",
+      "text": "Approximation Algorithms for the Geometric Multimatching Problem",
+      "internal": false
+    },
+    {
+      "url": "https://dl.acm.org/doi/10.1145/3717823.3718251",
+      "text": "Efficiently Finding and Counting Patterns with Distance Constraints in Sparse Graphs",
+      "internal": false
+    },
+    {
+      "url": "https://dl.acm.org/doi/10.1145/3717823.3718192",
+      "text": "Subexponential Parameterized Algorithms for Hitting Subgraphs",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 110,
+  "crawled_at": "2026-06-09T04:46:16+00:00",
+  "sequence": 1757
+}

@@ -1,0 +1,66 @@
+{
+  "id": "academics__faculty__directory__nan-xu-5d2947a44c",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/nan-xu",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/nan-xu",
+  "page_type": "academics",
+  "title": "Nan",
+  "description": "Nan Xu is an Associate Professor of Practice in Economics at NYU Shanghai. She received her Ph.D. in Economics from the University of Colorado Boulder and her B.A. in Economics from Nankai University. Her research focuses on international trade and development economics, with particular interest in",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Nan Xu\nNan Xu is an Associate Professor of Practice in Economics at NYU Shanghai. She received her Ph.D. in Economics from the University of Colorado Boulder and her B.A. in Economics from Nankai University. Her research focuses on international trade and development economics, with particular interest in how trade policy and global value chains shape economic outcomes.\nEducation\nPhD, EconomicsUniversity of Colorado Boulder\nInternational Trade\nEconomic Growth\nIntermediate Macroeconomics\nInternational Trade and the Chinese Economy\nChina's Economic Transition",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Nan Xu"
+    },
+    {
+      "type": "p",
+      "text": "Nan Xu is an Associate Professor of Practice in Economics at NYU Shanghai. She received her Ph.D. in Economics from the University of Colorado Boulder and her B.A. in Economics from Nankai University. Her research focuses on international trade and development economics, with particular interest in how trade policy and global value chains shape economic outcomes."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, EconomicsUniversity of Colorado Boulder"
+    },
+    {
+      "type": "li",
+      "text": "International Trade"
+    },
+    {
+      "type": "li",
+      "text": "Economic Growth"
+    },
+    {
+      "type": "li",
+      "text": "Intermediate Macroeconomics"
+    },
+    {
+      "type": "li",
+      "text": "International Trade and the Chinese Economy"
+    },
+    {
+      "type": "li",
+      "text": "China's Economic Transition"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/selected-Capture%20One%20Catalog1030.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 82,
+  "crawled_at": "2026-06-09T04:43:15+00:00",
+  "sequence": 1540
+}

@@ -1,0 +1,78 @@
+{
+  "id": "academics__faculty__directory__xin-jin-435081ac61",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/xin-jin",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/xin-jin",
+  "page_type": "academics",
+  "title": "Xin",
+  "description": "Xin Jin is the Interim Director of the NYU-ECNU Institute of Brain and Cognitive Science, a Senior Faculty Mentor for Program Advancement, and an Adjunct Professor of Neuroscience at NYU Shanghai. He is also a Professor and Director of the Center for Motor Control and Disease at East China Normal",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Xin Jin\nXin Jin is the Interim Director of the NYU-ECNU Institute of Brain and Cognitive Science, a Senior Faculty Mentor for Program Advancement, and an Adjunct Professor of Neuroscience at NYU Shanghai. He is also a Professor and Director of the Center for Motor Control and Disease at East China Normal University, and a New Cornerstone Investigator. His research focuses on the fundamental principles of how the brain learns and controls movements to probe cognition and develop treatments for a wide range of related neurological and psychiatric diseases. Dr. Xin Jin's work has been recognized by many international awards including the Portuguese Society for Neuroscience Featured Article Award, the NIH Benedict J. Latteri Memorial Award, the Society for Neuroscience Gruber International Research Award, and the Mcknight Memory and Cognitive Disorders Award.\nSelect Publications\nCook JR, Li H, Nguyen B, Huang HH, Mahdavian P, Kirchgessner MA, Strassmann P, Engelhardt M, Callaway EM, Jin X. (2022) Secondary auditory cortex mediates a sensorimotor mechanism for action timing. Nature Neuroscience 25(3): 330-344.\nGeddes CE, Li H, Jin X. (2018) Optogenetic editing reveals the hierarchical organization of learned action sequences. Cell 174(1): 32-43.\nHoward CD, Li H, Geddes CE, Jin X. (2017) Dynamic nigrostriatal dopamine biases action selection. Neuron 93(6): 1436-1450.\nSmith JB, Klug JR, Ross DL, Howard CD, Hollon NG, Ko VI, Hoffman H, Callaway EM, Gerfen CR, Jin X. (2016) Genetic-based dissection unveils the inputs and outputs of striatal patch and matrix compartments. Neuron 91(5): 1069-1084.\nJin X, Costa RM. (2010) Start/stop signals emerge in nigrostriatal circuits during sequence learning. Nature 466(7305): 457-462.\nEducation\nPhD, Biomedical EngineeringShanghai Jiao Tong University, China\nBS, Applied PhysicsChina Agricultural University, China\nWe interact with the world by acting. Adaptive control of movement is probably the most critical function of the brain through millions of years of evolution. Our team charts the fundamental principles of how the brain learns and controls movements to probe cognition and develop treatments for a wide range of related neurological and psychiatric diseases. Specifically, we focus on a series of subcortical nuclei called basal ganglia, and try to unveil the basic computations of how different cell types and subcircuits mediate the organization of movements into proper order and timing, by a combination of cutting-edge neuro-techniques with multiple levels of analysis.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Xin Jin"
+    },
+    {
+      "type": "p",
+      "text": "Xin Jin is the Interim Director of the NYU-ECNU Institute of Brain and Cognitive Science, a Senior Faculty Mentor for Program Advancement, and an Adjunct Professor of Neuroscience at NYU Shanghai. He is also a Professor and Director of the Center for Motor Control and Disease at East China Normal University, and a New Cornerstone Investigator. His research focuses on the fundamental principles of how the brain learns and controls movements to probe cognition and develop treatments for a wide range of related neurological and psychiatric diseases. Dr. Xin Jin's work has been recognized by many international awards including the Portuguese Society for Neuroscience Featured Article Award, the NIH Benedict J. Latteri Memorial Award, the Society for Neuroscience Gruber International Research Award, and the Mcknight Memory and Cognitive Disorders Award."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Cook JR, Li H, Nguyen B, Huang HH, Mahdavian P, Kirchgessner MA, Strassmann P, Engelhardt M, Callaway EM, Jin X. (2022) Secondary auditory cortex mediates a sensorimotor mechanism for action timing. Nature Neuroscience 25(3): 330-344."
+    },
+    {
+      "type": "li",
+      "text": "Geddes CE, Li H, Jin X. (2018) Optogenetic editing reveals the hierarchical organization of learned action sequences. Cell 174(1): 32-43."
+    },
+    {
+      "type": "li",
+      "text": "Howard CD, Li H, Geddes CE, Jin X. (2017) Dynamic nigrostriatal dopamine biases action selection. Neuron 93(6): 1436-1450."
+    },
+    {
+      "type": "li",
+      "text": "Smith JB, Klug JR, Ross DL, Howard CD, Hollon NG, Ko VI, Hoffman H, Callaway EM, Gerfen CR, Jin X. (2016) Genetic-based dissection unveils the inputs and outputs of striatal patch and matrix compartments. Neuron 91(5): 1069-1084."
+    },
+    {
+      "type": "li",
+      "text": "Jin X, Costa RM. (2010) Start/stop signals emerge in nigrostriatal circuits during sequence learning. Nature 466(7305): 457-462."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Biomedical EngineeringShanghai Jiao Tong University, China"
+    },
+    {
+      "type": "li",
+      "text": "BS, Applied PhysicsChina Agricultural University, China"
+    },
+    {
+      "type": "p",
+      "text": "We interact with the world by acting. Adaptive control of movement is probably the most critical function of the brain through millions of years of evolution. Our team charts the fundamental principles of how the brain learns and controls movements to probe cognition and develop treatments for a wide range of related neurological and psychiatric diseases. Specifically, we focus on a series of subcortical nuclei called basal ganglia, and try to unveil the basic computations of how different cell types and subcircuits mediate the organization of movements into proper order and timing, by a combination of cutting-edge neuro-techniques with multiple levels of analysis."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/headshot.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 394,
+  "crawled_at": "2026-06-09T04:53:59+00:00",
+  "sequence": 2404
+}

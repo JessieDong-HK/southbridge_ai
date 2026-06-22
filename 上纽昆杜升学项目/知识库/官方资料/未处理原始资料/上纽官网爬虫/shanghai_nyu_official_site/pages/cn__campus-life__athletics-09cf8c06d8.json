@@ -1,0 +1,129 @@
+{
+  "id": "cn__campus-life__athletics-09cf8c06d8",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/athletics",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/athletics",
+  "page_type": "cn",
+  "title": "体育运动与健身",
+  "description": "无论是加入校内运动队，做冥想瑜伽放松身心，还是通过舞蹈表达自我，一定程度的体育锻炼，有助于学生保持健康与平衡的生活。上海纽约大学目前拥有足球、排球、篮球等多支校队，并在校际间比赛中斩获佳绩。学校提供丰富多彩的运动健身以及休闲活动，帮助学生保持健康活力。联系上海纽约大学体育运动与健身办公室，请发送邮件至 shanghai.athletics@nyu.edu.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "体育运动与健身\n无论是加入校内运动队，做冥想瑜伽放松身心，还是通过舞蹈表达自我，一定程度的体育锻炼，有助于学生保持健康与平衡的生活。上海纽约大学目前拥有足球、排球、篮球等多支校队，并在校际间比赛中斩获佳绩。学校提供丰富多彩的运动健身以及休闲活动，帮助学生保持健康活力。\n联系上海纽约大学体育运动与健身办公室，请发送邮件至 shanghai.athletics@nyu.edu.\n上纽大体育运动与健身中心重磅回归 校园再添生机活力！\n上纽大前滩校园的体育运动与健身中心正式投入使用，丰富多彩的体育活动即将重返校园！\n上纽运动队疫后重启 校际赛事大盘点\n上纽大女足再夺联盟杯赛冠军！\n校际体育运动\n健身与休闲体育",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "体育运动与健身"
+    },
+    {
+      "type": "p",
+      "text": "无论是加入校内运动队，做冥想瑜伽放松身心，还是通过舞蹈表达自我，一定程度的体育锻炼，有助于学生保持健康与平衡的生活。上海纽约大学目前拥有足球、排球、篮球等多支校队，并在校际间比赛中斩获佳绩。学校提供丰富多彩的运动健身以及休闲活动，帮助学生保持健康活力。"
+    },
+    {
+      "type": "p",
+      "text": "联系上海纽约大学体育运动与健身办公室，请发送邮件至 shanghai.athletics@nyu.edu."
+    },
+    {
+      "type": "h4",
+      "text": "上纽大体育运动与健身中心重磅回归 校园再添生机活力！"
+    },
+    {
+      "type": "p",
+      "text": "上纽大前滩校园的体育运动与健身中心正式投入使用，丰富多彩的体育活动即将重返校园！"
+    },
+    {
+      "type": "h4",
+      "text": "上纽运动队疫后重启 校际赛事大盘点"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大女足再夺联盟杯赛冠军！"
+    },
+    {
+      "type": "h4",
+      "text": "校际体育运动"
+    },
+    {
+      "type": "h4",
+      "text": "健身与休闲体育"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/athletics-04.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/athletics-04.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/sports-teams-athletics-recreation_0.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/sports-teams-athletics-recreation_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/athletics-2.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/athletics-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-athletics-1-2.jpg",
+      "alt": "校际体育运动",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-athletics-1-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-athletics-1-3.jpg",
+      "alt": "健身与休闲体育",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-athletics-1-3-cc08f454ea22.jpg",
+      "download_status": "downloaded",
+      "bytes": 47888,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/campus-just-got-lot-more-active-sports-are-back",
+      "text": "上纽大体育运动与健身中心重磅回归 校园再添生机活力！",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/nyu-shanghai-sports-teams-return-action",
+      "text": "上纽运动队疫后重启 校际赛事大盘点",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/womens-soccer-team-become-champions-shanghai-again",
+      "text": "上纽大女足再夺联盟杯赛冠军！",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/athletics/intercollegiate-sports",
+      "text": "校际体育运动",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/athletics/fitness",
+      "text": "健身与休闲体育",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 27,
+  "crawled_at": "2026-06-09T04:29:05+00:00",
+  "sequence": 174
+}

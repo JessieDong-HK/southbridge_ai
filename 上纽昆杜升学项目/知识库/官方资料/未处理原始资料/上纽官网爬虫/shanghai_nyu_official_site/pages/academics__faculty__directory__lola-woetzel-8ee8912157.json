@@ -1,0 +1,35 @@
+{
+  "id": "academics__faculty__directory__lola-woetzel-8ee8912157",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/lola-woetzel",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/lola-woetzel",
+  "page_type": "academics",
+  "title": "Lola",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Lola Woetzel",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Lola Woetzel"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/final-Lola%20Woetzel-2025%20fall.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/final-Lola-20Woetzel-2025-20fall-dae1e2fb2dd8.jpg",
+      "download_status": "downloaded",
+      "bytes": 281174,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:33:17+00:00",
+  "sequence": 666
+}

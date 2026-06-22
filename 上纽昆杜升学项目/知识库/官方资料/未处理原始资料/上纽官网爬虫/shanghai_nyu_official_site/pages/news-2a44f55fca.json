@@ -1,0 +1,245 @@
+{
+  "id": "news-2a44f55fca",
+  "url": "https://shanghai.nyu.edu/news?page=7",
+  "canonical_url": "https://shanghai.nyu.edu/news",
+  "page_type": "news",
+  "title": "News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/nyu_shanghai_celebrates_the_class_of_2025s_graduation-01.jpg?itok=G_Ky9W-q",
+      "alt": "banner25commencement",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/speecehes-01.jpg?itok=kr-bATbN",
+      "alt": "chancellor tong at nyush graduation",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/speecehes-01-2f58da0b4b05.jpg",
+      "download_status": "downloaded",
+      "bytes": 17981,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/speecehes-04.jpg?itok=9ag3BlY2",
+      "alt": "Vice Chancellor Jeffrey Lehman at commencement",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/speecehes-04-0fcac65930ce.jpg",
+      "download_status": "downloaded",
+      "bytes": 18243,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/speecehes-02_0.jpg?itok=q7nMHcH0",
+      "alt": "joanna",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/speecehes-06.jpg?itok=8UCgeAw9",
+      "alt": "kong xiangdong at nyush graduation",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/speecehes-03.jpg?itok=lDYN8Hjp",
+      "alt": "student speakers at graduation",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/speecehes-03-9cbb381e4478.jpg",
+      "download_status": "downloaded",
+      "bytes": 20949,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/speecehes-05.jpg?itok=3wmUYX4S",
+      "alt": "deziree harmon at nyu ceremony",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/speecehes-05-912864c02326.jpg",
+      "download_status": "downloaded",
+      "bytes": 22857,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/graduate_convocation-01.jpg?itok=GoMWGPLO",
+      "alt": "graduate_convocation",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/senior_awards-01.jpg?itok=SJ2XowW2",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/senior_awards-01-8a92f6942f05.jpg",
+      "download_status": "downloaded",
+      "bytes": 34972,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/accounting_conference_news-01.jpg?itok=WzWrNh7q",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/accounting_conference_news-01-bb67cebbc9a0.jpg",
+      "download_status": "downloaded",
+      "bytes": 29028,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/why_do_fireflies_blink_in_sync_-01.jpg?itok=1kAmkAyw",
+      "alt": "ling study",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/student-led_tours_bring_shanghais_stories_to_life-01.jpg?itok=Ah9_54lT",
+      "alt": "a group of students dressed in violet NYU Shanghai apparel walking on a tour of the Bund, with the Shanghai skyline in the background.",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/student-led_tours_bring_shanghais_stories_to_life-01-3a81a04244e9.jpg",
+      "download_status": "downloaded",
+      "bytes": 25980,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/nyu_shanghai_2024-2025_teaching_excellence_award_recipients_revealed-01.jpg?itok=AtafgHC3",
+      "alt": "2024-2025TEA",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyu_shanghai_2024-2025_teaching_excellence_award_rec-b14aa2fa2b5a.jpg",
+      "download_status": "downloaded",
+      "bytes": 22755,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/addie_dung_nguyen_27_named_amgen_scholar_-01.jpg?itok=W2dUratY",
+      "alt": "Addie Dung Nguyen ’27 Named Amgen Scholar",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/rank_length_banner-01.jpg?itok=pIhCQq95",
+      "alt": "rank",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/rank_length_banner-01-c61aeab3281e.jpg",
+      "download_status": "downloaded",
+      "bytes": 36976,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-celebrates-class-2025-commencement",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/chancellor-tong-shijun-commencement-2025",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/vice-chancellor-jeffrey-lehman-commencement-2025",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/provost-joanna-waley-cohen-commencement-2025",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/kong-xiangdong-commencement-2025",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/sam-kominowski-25-and-shao-yanrui-25-commencement-2025",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/deziree-joy-harmon-25-nyu-all-campus-commencement-ceremony",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-celebrates-2025-graduate-convocation",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/senior-awards-ceremony-celebrates-class-2025-achievements",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-and-nyu-stern-host-inaugural-accounting-research-conference",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/why-do-fireflies-glow-sync-understanding-synchronization-patterns",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/student-led-tours-bring-shanghais-stories-life",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/honoring-2024-2025-teaching-excellence-award-recipients",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/addie-dung-nguyen-27-named-amgen-scholar",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/beyond-rankings-impact-rank-list-length",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:39:39+00:00",
+  "sequence": 1240
+}

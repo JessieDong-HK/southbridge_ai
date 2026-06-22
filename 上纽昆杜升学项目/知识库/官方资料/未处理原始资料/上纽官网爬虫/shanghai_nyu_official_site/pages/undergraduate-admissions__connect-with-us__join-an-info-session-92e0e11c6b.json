@@ -1,0 +1,66 @@
+{
+  "id": "undergraduate-admissions__connect-with-us__join-an-info-session-92e0e11c6b",
+  "url": "https://shanghai.nyu.edu/undergraduate-admissions/connect-with-us/join-an-info-session",
+  "canonical_url": "https://shanghai.nyu.edu/undergraduate-admissions/connect-with-us/join-an-info-session",
+  "page_type": "undergraduate-admissions",
+  "title": "Join an Information Session",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Join an Information Session\nRegister for a Virtual Information Session\nLearn more about NYU Shanghai by attending one of our virtual information sessions. Our admissions counselors and current students will cover academics, research, internship and job opportunities, residential life, global experiences and more!\nClick here to find available dates and register for a virtual information session.\nPre-recorded Info Session\nNYU Shanghai on your time. Click \"play\" to be guided through the application process, financial aid, student life, and academic resources on demand.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Join an Information Session"
+    },
+    {
+      "type": "h2",
+      "text": "Register for a Virtual Information Session"
+    },
+    {
+      "type": "p",
+      "text": "Learn more about NYU Shanghai by attending one of our virtual information sessions. Our admissions counselors and current students will cover academics, research, internship and job opportunities, residential life, global experiences and more!"
+    },
+    {
+      "type": "p",
+      "text": "Click here to find available dates and register for a virtual information session."
+    },
+    {
+      "type": "h2",
+      "text": "Pre-recorded Info Session"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai on your time. Click \"play\" to be guided through the application process, financial aid, student life, and academic resources on demand."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/pster.jpg",
+      "alt": "Pre-recorded Info Session",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/pster-0669d4be3c8f.jpg",
+      "download_status": "downloaded",
+      "bytes": 32200,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://connect.nyu.edu/portal/shanghai_virtual_info",
+      "text": "Click here to find available dates and register for a virtual information session.",
+      "internal": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ba-sYsSeog4",
+      "text": "",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 83,
+  "crawled_at": "2026-06-09T04:28:46+00:00",
+  "sequence": 121
+}

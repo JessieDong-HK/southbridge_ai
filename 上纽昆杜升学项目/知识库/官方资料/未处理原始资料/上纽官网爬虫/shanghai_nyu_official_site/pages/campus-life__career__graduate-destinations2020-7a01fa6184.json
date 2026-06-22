@@ -1,0 +1,87 @@
+{
+  "id": "campus-life__career__graduate-destinations2020-7a01fa6184",
+  "url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations2020",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations2020",
+  "page_type": "campus-life",
+  "title": "Life Beyond Century Avenue: Class of 2020",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Life Beyond Century Avenue: Class of 2020\nThis year, as the COVID-19 pandemic upended the plans of new graduates all over the world, the Class of 2020 appear to be navigating these unforeseen challenges with typical resilience and grace, making the most of the unique cross-cultural education they gained at NYU Shanghai.\nDespite a challenging year, the overall employment and graduate education rate reached 94% for the Class of 2020. More than half of our graduates have decided to continue their studies at prestigious universities around the globe, while some 40 percent have joined the workforce. Over 60 percent are studying, working, or starting their own businesses outside their home countries.\nThe following report includes NYU Shanghai graduates from January 1, 2020 through December 31, 2020. Figures in this report are based on the 84% of graduates for whom the university has verifiable information about their post-graduation activities, including information gathered from survey responses as well as other research from external sources.\nStatistics are rounded to the nearest whole number. Therefore, totals do not always equal 100%.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Life Beyond Century Avenue: Class of 2020"
+    },
+    {
+      "type": "p",
+      "text": "This year, as the COVID-19 pandemic upended the plans of new graduates all over the world, the Class of 2020 appear to be navigating these unforeseen challenges with typical resilience and grace, making the most of the unique cross-cultural education they gained at NYU Shanghai."
+    },
+    {
+      "type": "p",
+      "text": "Despite a challenging year, the overall employment and graduate education rate reached 94% for the Class of 2020. More than half of our graduates have decided to continue their studies at prestigious universities around the globe, while some 40 percent have joined the workforce. Over 60 percent are studying, working, or starting their own businesses outside their home countries."
+    },
+    {
+      "type": "p",
+      "text": "The following report includes NYU Shanghai graduates from January 1, 2020 through December 31, 2020. Figures in this report are based on the 84% of graduates for whom the university has verifiable information about their post-graduation activities, including information gathered from survey responses as well as other research from external sources."
+    },
+    {
+      "type": "p",
+      "text": "Statistics are rounded to the nearest whole number. Therefore, totals do not always equal 100%."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/1_11.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2020",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/1_11.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/2_8.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2020",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/3_10.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2020",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/4_13.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2020",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/4_13-846636dba6f4.jpg",
+      "download_status": "downloaded",
+      "bytes": 1335330,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/5_5.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2020",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 180,
+  "crawled_at": "2026-06-09T04:34:12+00:00",
+  "sequence": 751
+}

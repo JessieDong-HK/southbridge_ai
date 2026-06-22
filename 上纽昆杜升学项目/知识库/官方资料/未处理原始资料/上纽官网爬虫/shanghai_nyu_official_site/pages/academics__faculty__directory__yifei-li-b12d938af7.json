@@ -1,0 +1,82 @@
+{
+  "id": "academics__faculty__directory__yifei-li-b12d938af7",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/yifei-li",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/yifei-li",
+  "page_type": "academics",
+  "title": "Yifei",
+  "description": "Yifei Li is Assistant Professor of Environmental Studies at NYU Shanghai. His research concerns various groups of people under China’s brand of state-led environmentalism. He has received research support from the United States National Science Foundation, Henry Luce Foundation/American Council of",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Yifei Li\nYifei Li is Assistant Professor of Environmental Studies at NYU Shanghai. His research concerns various groups of people under China’s brand of state-led environmentalism. He has received research support from the United States National Science Foundation, Henry Luce Foundation/American Council of Learned Societies, Rachel Carson Center, and many other extramural sources. He is the lead author (with Judith Shapiro) of China Goes Green: Coercive Environmentalism for a Troubled Planet (Polity, 2020). His recent work appears in Current Sociology, Qualitative Sociology, Sociology of Development, International Journal of Urban and Regional Research, Environmental Sociology, Journal of Environmental Management, and other scholarly outlets. His scholarly work has been featured on NPR, in The Economist, Foreign Affairs, Le Monde, and other media.\nEducation\nPhD, SociologyUniversity of Wisconsin-Madison\nMS, SociologyUniversity of Wisconsin-Madison\nLL.B., SociologyFudan University\nEnvironment and Society\nGlobal China Studies Independent Study\nGlobal Environmental Politics\nNature in Social Thought\nSocial Science Capstone Seminar\nSocial Science Honors Independent Study\nUrban Sociology",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Yifei Li"
+    },
+    {
+      "type": "p",
+      "text": "Yifei Li is Assistant Professor of Environmental Studies at NYU Shanghai. His research concerns various groups of people under China’s brand of state-led environmentalism. He has received research support from the United States National Science Foundation, Henry Luce Foundation/American Council of Learned Societies, Rachel Carson Center, and many other extramural sources. He is the lead author (with Judith Shapiro) of China Goes Green: Coercive Environmentalism for a Troubled Planet (Polity, 2020). His recent work appears in Current Sociology, Qualitative Sociology, Sociology of Development, International Journal of Urban and Regional Research, Environmental Sociology, Journal of Environmental Management, and other scholarly outlets. His scholarly work has been featured on NPR, in The Economist, Foreign Affairs, Le Monde, and other media."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, SociologyUniversity of Wisconsin-Madison"
+    },
+    {
+      "type": "li",
+      "text": "MS, SociologyUniversity of Wisconsin-Madison"
+    },
+    {
+      "type": "li",
+      "text": "LL.B., SociologyFudan University"
+    },
+    {
+      "type": "li",
+      "text": "Environment and Society"
+    },
+    {
+      "type": "li",
+      "text": "Global China Studies Independent Study"
+    },
+    {
+      "type": "li",
+      "text": "Global Environmental Politics"
+    },
+    {
+      "type": "li",
+      "text": "Nature in Social Thought"
+    },
+    {
+      "type": "li",
+      "text": "Social Science Capstone Seminar"
+    },
+    {
+      "type": "li",
+      "text": "Social Science Honors Independent Study"
+    },
+    {
+      "type": "li",
+      "text": "Urban Sociology"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/li_profile_pic.JPG",
+      "alt": "Yifei Li",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 164,
+  "crawled_at": "2026-06-09T04:53:14+00:00",
+  "sequence": 2353
+}

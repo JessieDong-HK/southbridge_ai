@@ -1,0 +1,42 @@
+{
+  "id": "leadership__rime-sun-fe87d7bc05",
+  "url": "https://shanghai.nyu.edu/leadership/rime-sun",
+  "canonical_url": "https://shanghai.nyu.edu/leadership/rime-sun",
+  "page_type": "leadership",
+  "title": "Rime Sun",
+  "description": "Rime Sun is the Assistant Vice Chancellor and Chief Development Officer at NYU Shanghai. She is the principal executive responsible for the creation and execution of the university’s development strategies. Her efforts serve the various stakeholders of the greater NYU Shanghai community,",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Rime Sun\nRime Sun is the Assistant Vice Chancellor and Chief Development Officer at NYU Shanghai. She is the principal executive responsible for the creation and execution of the university’s development strategies. Her efforts serve the various stakeholders of the greater NYU Shanghai community, particularly the students, parents, and friends of the university. Additionally she cultivates on-going relationships with NYU alumni in the Asia-pacific region and beyond by engaging with them, and inviting them to contribute to the long-term vision of the university through gifts of time, talent, or funding.\nPrior to joining NYU, Rime worked at New York Mutual Trading Company and the American Planning Association. She has a rich background in public relations, branding, and strategic planning with special expertise in multicultural organizations for nonprofit and corporate sectors. Born and raised in Shanghai, Rime attended Middlebury College in the United States, graduating with a BA in Economics and Japanese Literature. She went on to receive her MA in East Asian Studies from Columbia University. She is fluent in Chinese, English, and Japanese.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Rime Sun"
+    },
+    {
+      "type": "p",
+      "text": "Rime Sun is the Assistant Vice Chancellor and Chief Development Officer at NYU Shanghai. She is the principal executive responsible for the creation and execution of the university’s development strategies. Her efforts serve the various stakeholders of the greater NYU Shanghai community, particularly the students, parents, and friends of the university. Additionally she cultivates on-going relationships with NYU alumni in the Asia-pacific region and beyond by engaging with them, and inviting them to contribute to the long-term vision of the university through gifts of time, talent, or funding."
+    },
+    {
+      "type": "p",
+      "text": "Prior to joining NYU, Rime worked at New York Mutual Trading Company and the American Planning Association. She has a rich background in public relations, branding, and strategic planning with special expertise in multicultural organizations for nonprofit and corporate sectors. Born and raised in Shanghai, Rime attended Middlebury College in the United States, graduating with a BA in Economics and Japanese Literature. She went on to receive her MA in East Asian Studies from Columbia University. She is fluent in Chinese, English, and Japanese."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/profile/Rime-SUN-1.jpg?itok=Ors8C-6t",
+      "alt": "Rime Sun",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 178,
+  "crawled_at": "2026-06-09T04:29:39+00:00",
+  "sequence": 234
+}

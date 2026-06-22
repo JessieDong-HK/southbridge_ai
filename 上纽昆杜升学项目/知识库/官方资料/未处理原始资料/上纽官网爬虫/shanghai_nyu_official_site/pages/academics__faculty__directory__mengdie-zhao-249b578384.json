@@ -1,0 +1,78 @@
+{
+  "id": "academics__faculty__directory__mengdie-zhao-249b578384",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/mengdie-zhao",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/mengdie-zhao",
+  "page_type": "academics",
+  "title": "Mengdie",
+  "description": "Mengdie Zhao is an Assistant Professor of Global China Studies at NYU Shanghai. She is a scholar of Chinese literature with interests in legal history and gender studies. She received her PhD in Chinese literature from Harvard University in 2022. Before joining NYU Shanghai, she was a Postdoctoral",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Mengdie Zhao\nSelect Publications\nZhao, Mengdie. “‘Killing the Adulterer’: Masculine Revenge Fantasies in Seventeenth-Century China.” Late Imperial China 43.2 (December 2022): 1-42.\nEducation\nPhD, East Asian Languages and CivilizationsHarvard University\nMA, ChineseStanford University\nBA, EnglishBeijing Foreign Studies University\nResearch Interests\nChinese Literature\nDrama and Performance\nGender Studies\nLegal History",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Mengdie Zhao"
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Zhao, Mengdie. “‘Killing the Adulterer’: Masculine Revenge Fantasies in Seventeenth-Century China.” Late Imperial China 43.2 (December 2022): 1-42."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, East Asian Languages and CivilizationsHarvard University"
+    },
+    {
+      "type": "li",
+      "text": "MA, ChineseStanford University"
+    },
+    {
+      "type": "li",
+      "text": "BA, EnglishBeijing Foreign Studies University"
+    },
+    {
+      "type": "h3",
+      "text": "Research Interests"
+    },
+    {
+      "type": "li",
+      "text": "Chinese Literature"
+    },
+    {
+      "type": "li",
+      "text": "Drama and Performance"
+    },
+    {
+      "type": "li",
+      "text": "Gender Studies"
+    },
+    {
+      "type": "li",
+      "text": "Legal History"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/profile_pic_1.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/profile_pic_1.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 52,
+  "crawled_at": "2026-06-09T04:54:55+00:00",
+  "sequence": 2463
+}

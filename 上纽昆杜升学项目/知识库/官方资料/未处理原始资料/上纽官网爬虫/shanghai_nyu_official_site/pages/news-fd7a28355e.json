@@ -1,0 +1,247 @@
+{
+  "id": "news-fd7a28355e",
+  "url": "https://shanghai.nyu.edu/news?page=78",
+  "canonical_url": "https://shanghai.nyu.edu/news",
+  "page_type": "news",
+  "title": "News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_8694__cover_0.jpg?itok=YnWIgEbR",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_8694__cover_0-6c38a895404a.jpg",
+      "download_status": "downloaded",
+      "bytes": 24281,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_8108_conew1__cover.jpg?itok=J8P7rwIw",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_8108_conew1__cover-ce3784bbebe8.jpg",
+      "download_status": "downloaded",
+      "bytes": 25964,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_7797_conew1__cover.jpg?itok=dn5tN_WY",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_7797_conew1__cover-e7744e62dc85.jpg",
+      "download_status": "downloaded",
+      "bytes": 18534,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/_mg_8889_conew2__cover.jpg?itok=pORY1WBl",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/mg_8889_conew2__cover-67b82def5222.jpg",
+      "download_status": "downloaded",
+      "bytes": 24631,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_4928_conew1__cover.jpg?itok=s9yteUW9",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_7667__cover.jpg?itok=1B_vqCYR",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_7667__cover-854effc90085.jpg",
+      "download_status": "downloaded",
+      "bytes": 23431,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/talent-show__cover.jpeg?itok=ewZJYlGX",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/talent-show__cover-e08563e99bca.jpeg",
+      "download_status": "downloaded",
+      "bytes": 30538,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/_c1_5271__cover.jpg?itok=P4s82teQ",
+      "alt": "fashmob",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/dsc_8749_conew1__cover.jpg?itok=InylQkus",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/dsc_8749_conew1__cover-431bcf0de59d.jpg",
+      "download_status": "downloaded",
+      "bytes": 40821,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/4j9a9432__cover.jpg?itok=j28nR_tW",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/4j9a9432__cover-d7b199b25c04.jpg",
+      "download_status": "downloaded",
+      "bytes": 36558,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/_dsc9641__cover.jpg?itok=CKs67bDS",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/dsc9641__cover-80e0194cef86.jpg",
+      "download_status": "downloaded",
+      "bytes": 33266,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/mao_posters__cover.jpg?itok=pIKV-kOX",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/brush__cover.jpg?itok=vD30No6-",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/brush__cover-9d7181359227.jpg",
+      "download_status": "downloaded",
+      "bytes": 9945,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/shanghai-subway1__cover.jpg?itok=spa-nOCJ",
+      "alt": "sh",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/shanghai-subway1__cover-8e26d9c960b2.jpg",
+      "download_status": "downloaded",
+      "bytes": 33619,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/iphone__cover.jpg?itok=gYEN1g7R",
+      "alt": "mobile",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/inaugural-conversation-vice-chancellor",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyush-freshmen-elect-first-ever-student-government",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/3d-printing-workshop",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-celebrates-first-mid-autumn-festival",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/shanghai-honors-vice-chancellor-lehman-magnolia-award",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/former-uk-prime-minister-gordon-brown-addresses-nyu-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-students-perform-first-annual-nyu-shanghai-student-talent-show",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/new-york-style-flash-mob-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghais-first-fire-drill",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/great-journey-starts-single-step",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-welcomes-its-first-class",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/old-dongtai-antique-road",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/calligraphy-and-brush-painting-classes-provide-creative-release-students-abroad",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/exploring-city-shanghais-subway-system",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/mobile-phones-shanghai",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:40:01+00:00",
+  "sequence": 1270
+}

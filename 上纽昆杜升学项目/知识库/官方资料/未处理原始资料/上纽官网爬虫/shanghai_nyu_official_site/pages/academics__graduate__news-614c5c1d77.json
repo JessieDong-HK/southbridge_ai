@@ -1,0 +1,245 @@
+{
+  "id": "academics__graduate__news-614c5c1d77",
+  "url": "https://shanghai.nyu.edu/academics/graduate/news",
+  "canonical_url": "https://shanghai.nyu.edu/academics/graduate/news",
+  "page_type": "academics",
+  "title": "Graduate News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Graduate News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Graduate News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/grad_news_banner_-_1280480_px_11.png?itok=uu25lOZ3",
+      "alt": "Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/grad_news_banner_-_1280480_px_11.png?itok=uu25lOZ3 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in v"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/graduate_convocation-01_banner.jpg?itok=lFdbtUGT",
+      "alt": "Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/graduate_convocation-01_banner-be6aa3aea8a0.jpg",
+      "download_status": "downloaded",
+      "bytes": 42157,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/grad_news_banner_-_1280480_px_10.png?itok=CX6SbnSz",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/grad_news_banner_-_1280480_px_1_1.png?itok=_sMQQZCd",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/msw_10_year_news-01_0.jpg?itok=gRyiBRxT",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/msw_10_year_news-01_0-bcf8e7cad38d.jpg",
+      "download_status": "downloaded",
+      "bytes": 37725,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/grad_news_banner_-_1280480_px_8.png?itok=-sb17Of5",
+      "alt": "Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/grad_news_banner_-_1280480_px_9.png?itok=pUqrnfNv",
+      "alt": "Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/grad_news_banner_-_1280480_px_7.png?itok=dfzTC_0p",
+      "alt": "Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/grad_news_banner_-_1280480_px_7-de9316318740.png",
+      "download_status": "downloaded",
+      "bytes": 310344,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/grad_news_banner_-_1280480_px_6.png?itok=Xuo3sOzh",
+      "alt": "Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/grad_news_banner_-_1280480_px_6-2c916be019b3.png",
+      "download_status": "downloaded",
+      "bytes": 155193,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/grad_news_banner_-_1280480_px_4.png?itok=u705smZZ",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/grad_news_banner_-_1280480_px_4-416e03d4128c.png",
+      "download_status": "downloaded",
+      "bytes": 242137,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/grad_news_banner_-_1280480_px_1_0.png?itok=2PBphFWm",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/grad_news_banner_-_1280480_px_1_0-17496d344785.png",
+      "download_status": "downloaded",
+      "bytes": 229293,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/banner_0.png?itok=iSdJc9gg",
+      "alt": "Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/grad_news_banner_-_1280480_px_2.png?itok=JPQbiZul",
+      "alt": "Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/grad_news_banner_-_1280480_px_2-b9c3ad77e1aa.png",
+      "download_status": "downloaded",
+      "bytes": 305034,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/adam_magnolia_award-01_0.jpg?itok=6THTT8Ly",
+      "alt": "Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/adam_magnolia_award-01_0-e710605b34fc.jpg",
+      "download_status": "downloaded",
+      "bytes": 15523,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/prof_jin_grad_news_banner_-_1280480_px.png?itok=LmtzhOZS",
+      "alt": "Prof Jin Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/prof_jin_grad_news_banner_-_1280480_px-ada7a6529567.png",
+      "download_status": "downloaded",
+      "bytes": 197576,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/carson-ramsdell-impact-compassion-understanding",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-celebrates-2025-graduate-convocation-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/celebrating-young-scholars-research-action-3rd-postdoctoral-and-doctoral-research-assembly",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/navigating-school-work-transition-shanghai-stern-ms-programs-alumni-panel-networking-mixer",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/msw-program-celebrates-10th-anniversary-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/anney-norton-ima-23-entrepreneurial-journey-baking-joy-and-brewing-creativity",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/shanghai-new-york-msw-experience-qa-carly-siuta-msw-19",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/jason-snell-ima-23-driven-impossibility-rooted-community",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/professor-gabrielle-chous-generative-ai-course-transforming-data-business-workflow",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/student-stories-fall-2024-semester-study-programs-global-journeys-personal-growth",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/shanghai-stern-ms-programs-fall-2024-company-visits-bridging-classroom-and-practice",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/winnie-teng-tesol-24-show-goes",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/jiang-hao-ima-24-conversation-myself-after-blossoms-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/shanghai-stern-ms-programs-director-honored-magnolia-silver-award",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/professor-minchao-jin-goodness-humanity-i-trust",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:30:53+00:00",
+  "sequence": 380
+}

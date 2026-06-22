@@ -1,0 +1,202 @@
+{
+  "id": "page__publications-99f9dd6f48",
+  "url": "https://shanghai.nyu.edu/page/publications",
+  "canonical_url": "https://shanghai.nyu.edu/page/publications",
+  "page_type": "page",
+  "title": "Publications",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Publications\nThe NYU Shanghai Magazine tells the evolving story of the first Sino-US research university in the world. It captures the lives of our faculty, students, alumni, and administrators. By chronicling what it takes to build a distinctive institution with a global student body and vision, we celebrate groundbreaking achievements, mark important moments in time, and take a glimpse into the future.\nHave Your Say\nGot a story idea or comment about this issue? Send your suggestions to shanghai.magazine@nyu.edu.\nGet Your Copy\nStep Inside NYU Shanghai\n10th Anniversary Edition\nSpring 2022, ISSUE 6\nSpring 2021, ISSUE 5\nSpring 2020, ISSUE 4\nSpring 2019, ISSUE 3\nSpring 2018, ISSUE 2\nSpring 2017, ISSUE 1",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Publications"
+    },
+    {
+      "type": "p",
+      "text": "The NYU Shanghai Magazine tells the evolving story of the first Sino-US research university in the world. It captures the lives of our faculty, students, alumni, and administrators. By chronicling what it takes to build a distinctive institution with a global student body and vision, we celebrate groundbreaking achievements, mark important moments in time, and take a glimpse into the future."
+    },
+    {
+      "type": "h4",
+      "text": "Have Your Say"
+    },
+    {
+      "type": "p",
+      "text": "Got a story idea or comment about this issue? Send your suggestions to shanghai.magazine@nyu.edu."
+    },
+    {
+      "type": "h4",
+      "text": "Get Your Copy"
+    },
+    {
+      "type": "p",
+      "text": "Step Inside NYU Shanghai"
+    },
+    {
+      "type": "p",
+      "text": "10th Anniversary Edition"
+    },
+    {
+      "type": "p",
+      "text": "Spring 2022, ISSUE 6"
+    },
+    {
+      "type": "p",
+      "text": "Spring 2021, ISSUE 5"
+    },
+    {
+      "type": "p",
+      "text": "Spring 2020, ISSUE 4"
+    },
+    {
+      "type": "p",
+      "text": "Spring 2019, ISSUE 3"
+    },
+    {
+      "type": "p",
+      "text": "Spring 2018, ISSUE 2"
+    },
+    {
+      "type": "p",
+      "text": "Spring 2017, ISSUE 1"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-magazine2022-1.jpg",
+      "alt": "nyu-shanghai-magazine",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/poster-pdf%282%29.png",
+      "alt": "Magzine poster",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/poster-pdf-282-29-f1bf0608af9b.png",
+      "download_status": "downloaded",
+      "bytes": 548917,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/magazine2023-en.jpg",
+      "alt": "FDR",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/magazine2023-en-b8a191c61e44.jpg",
+      "download_status": "downloaded",
+      "bytes": 92944,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/magazine_en.jpg",
+      "alt": "FDR",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/magazine_en-ef1476131a39.jpg",
+      "download_status": "downloaded",
+      "bytes": 505512,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/new-bilingual-en-lead1.jpg",
+      "alt": "Spring 2021, ISSUE 5",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/new-bilingual-en-lead1-eeb17aa5e567.jpg",
+      "download_status": "downloaded",
+      "bytes": 53058,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/magazine2020-2.jpg",
+      "alt": "Spring 2020, Issue4",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/magazine-1-4.jpg",
+      "alt": "Spring 2019, Issue3",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/magazine-1-4-786e5b73d625.jpg",
+      "download_status": "downloaded",
+      "bytes": 67074,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/magazine-1-2.jpg",
+      "alt": "Spring 2018, Issue2",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/magazine-1-2-0ef553254db5.jpg",
+      "download_status": "downloaded",
+      "bytes": 61699,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/magazine-1-3.jpg",
+      "alt": "Spring 2017, Issue1",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/magazine-1-3-1013b3c79e31.jpg",
+      "download_status": "downloaded",
+      "bytes": 75209,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/NYU-shanghai-Brochure-2024-en.pdf",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/10_year_shi_zhou_nian_shuang_yu_dan_ye_bilingual_single_page_0221-compressed.pdf",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/nyush_magazine_2021_en-cn.pdf",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/new-bilingual-en-lead.pdf",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/accessible_nyush_magazine_2020_en.pdf",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/accessible_nyush_w19_english.pdf",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/accessible_nyush_spring2018_english.pdf",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/magazine-1-e-c-double_0.pdf",
+      "text": "",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 117,
+  "crawled_at": "2026-06-09T04:28:37+00:00",
+  "sequence": 102
+}

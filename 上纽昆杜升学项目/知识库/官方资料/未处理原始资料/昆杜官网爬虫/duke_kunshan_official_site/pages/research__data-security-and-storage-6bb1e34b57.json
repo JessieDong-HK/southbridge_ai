@@ -1,0 +1,64 @@
+{
+  "id": "research__data-security-and-storage-6bb1e34b57",
+  "url": "https://www.dukekunshan.edu.cn/research/data-security-and-storage",
+  "canonical_url": "https://research.dukekunshan.edu.cn/rso/data-security-and-storage/",
+  "page_type": "research",
+  "title": "Data Security and Storage – Research | Duke Kunshan University",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": "2022-01-23T12:07:35+00:00",
+  "text": "Data Security and Storage\nEach user is responsible for knowing Duke Kunshan University’s research data classification standard and the associated risks in order to understand how to properly classify, secure, and store research data.\nProperly protecting research data is a fundamental obligation that is grounded in the values of stewardship, integrity, and commitment to the providers and sources of the data.\nTo protect research data appropriately and effectively, the University’s researchers, Data Stewards, Data Managers, the Research Policy Committee, and Information Technology Director must understand and carry out their responsibilities related to data security and storage.\nStorage options and proper storage requirements are given on each level’s webpage.\nThe following security levels reflect the basic principle that as the risk associated with the research data increases more exacting security and storage requirements must be implemented:\nLevel 1 – Non-confidential research data: Research data that can be accessed by the general public.\nLevel 2 – Benign information to be held confidentially: Research data that Duke Kunshan University has chosen to keep confidential but the disclosure of which would not harm the institution.\nLevel 3 – Sensitive, or confidential information: Research data that if disclosed could cause risk of material harm or legal liability to individuals or Duke Kunshan University.\nLevel 4 –Very sensitive information: Research data that would likely cause serious harm to individuals or Duke Kunshan University if disclosed.\nLevel 5 – Extremely sensitive information: Research data that would cause severe harm to individuals or the University if disclosed.",
+  "text_blocks": [
+    {
+      "type": "h2",
+      "text": "Data Security and Storage"
+    },
+    {
+      "type": "p",
+      "text": "Each user is responsible for knowing Duke Kunshan University’s research data classification standard and the associated risks in order to understand how to properly classify, secure, and store research data."
+    },
+    {
+      "type": "p",
+      "text": "Properly protecting research data is a fundamental obligation that is grounded in the values of stewardship, integrity, and commitment to the providers and sources of the data."
+    },
+    {
+      "type": "p",
+      "text": "To protect research data appropriately and effectively, the University’s researchers, Data Stewards, Data Managers, the Research Policy Committee, and Information Technology Director must understand and carry out their responsibilities related to data security and storage."
+    },
+    {
+      "type": "p",
+      "text": "Storage options and proper storage requirements are given on each level’s webpage."
+    },
+    {
+      "type": "p",
+      "text": "The following security levels reflect the basic principle that as the risk associated with the research data increases more exacting security and storage requirements must be implemented:"
+    },
+    {
+      "type": "p",
+      "text": "Level 1 – Non-confidential research data: Research data that can be accessed by the general public."
+    },
+    {
+      "type": "p",
+      "text": "Level 2 – Benign information to be held confidentially: Research data that Duke Kunshan University has chosen to keep confidential but the disclosure of which would not harm the institution."
+    },
+    {
+      "type": "p",
+      "text": "Level 3 – Sensitive, or confidential information: Research data that if disclosed could cause risk of material harm or legal liability to individuals or Duke Kunshan University."
+    },
+    {
+      "type": "p",
+      "text": "Level 4 –Very sensitive information: Research data that would likely cause serious harm to individuals or Duke Kunshan University if disclosed."
+    },
+    {
+      "type": "p",
+      "text": "Level 5 – Extremely sensitive information: Research data that would cause severe harm to individuals or the University if disclosed."
+    }
+  ],
+  "images": [],
+  "links": [],
+  "word_count_estimate": 249,
+  "crawled_at": "2026-06-03T13:49:38+00:00",
+  "sequence": 81
+}

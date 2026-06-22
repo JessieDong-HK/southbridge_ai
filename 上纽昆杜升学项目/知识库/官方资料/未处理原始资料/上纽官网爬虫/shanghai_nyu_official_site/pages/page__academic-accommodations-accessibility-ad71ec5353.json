@@ -1,0 +1,68 @@
+{
+  "id": "page__academic-accommodations-accessibility-ad71ec5353",
+  "url": "https://shanghai.nyu.edu/page/academic-accommodations-accessibility",
+  "canonical_url": "https://shanghai.nyu.edu/page/academic-accommodations-accessibility",
+  "page_type": "page",
+  "title": "Academic Accommodations & Accessibility",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Academic Accommodations & Accessibility\nNYU Shanghai is committed to providing equal educational opportunity and participation for students with disabilities. The NYU Shanghai Academic Accommodations Team works with students through collaboration with the NYU Moses Center for Accessibility and Inclusive Culture to implement appropriate and reasonable accommodations that support equal access to a world-class education.\nStudent Resources\nFaculty Resources",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Academic Accommodations & Accessibility"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai is committed to providing equal educational opportunity and participation for students with disabilities. The NYU Shanghai Academic Accommodations Team works with students through collaboration with the NYU Moses Center for Accessibility and Inclusive Culture to implement appropriate and reasonable accommodations that support equal access to a world-class education."
+    },
+    {
+      "type": "h4",
+      "text": "Student Resources"
+    },
+    {
+      "type": "h4",
+      "text": "Faculty Resources"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/resources-for-students.jpg",
+      "alt": "Resources-for-Students",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/resources-for-students-574c0fdb1f63.jpg",
+      "download_status": "downloaded",
+      "bytes": 197734,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/resources-for-faculty.jpg",
+      "alt": "Resources-for-Faculty",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/resources-for-faculty-265bdf12146b.jpg",
+      "download_status": "downloaded",
+      "bytes": 155695,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/csd/student-resources",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/csd/faculty-resources",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 58,
+  "crawled_at": "2026-06-09T04:31:31+00:00",
+  "sequence": 462
+}

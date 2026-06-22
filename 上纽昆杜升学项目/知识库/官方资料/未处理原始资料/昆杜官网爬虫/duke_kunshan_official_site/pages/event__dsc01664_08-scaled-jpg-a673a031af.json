@@ -1,0 +1,64 @@
+{
+  "id": "event__dsc01664_08-scaled-jpg-a673a031af",
+  "url": "https://www.dukekunshan.edu.cn/event/dsc01664_08-scaled-jpg",
+  "canonical_url": "https://www.dukekunshan.edu.cn/event/dsc01664_08-scaled-jpg/",
+  "page_type": "event",
+  "title": "Tenting @ DKU",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2024-09-05T02:14:48+00:00",
+  "sitemap_lastmod": "2024-09-05T02:38:04+00:00",
+  "text": "Tenting @ DKU\nDescription\nHost\nRegistration Link",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Tenting @ DKU"
+    },
+    {
+      "type": "h4",
+      "text": "Description"
+    },
+    {
+      "type": "h4",
+      "text": "Host"
+    },
+    {
+      "type": "h4",
+      "text": "Registration Link"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2024/06/06090837/640.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "images/_shared/640-53b9bb51e5db.png",
+      "download_status": "ok",
+      "bytes": 214653,
+      "cached_from_disk": true
+    }
+  ],
+  "links": [
+    {
+      "url": "https://dukekunshan.dserec.com/online/intramurals",
+      "text": "https://dukekunshan.dserec.com/online/intramurals",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 6,
+  "crawled_at": "2026-06-03T13:51:15+00:00",
+  "sequence": 210
+}

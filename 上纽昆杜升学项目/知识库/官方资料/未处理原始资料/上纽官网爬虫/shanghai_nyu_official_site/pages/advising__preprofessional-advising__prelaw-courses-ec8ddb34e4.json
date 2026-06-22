@@ -1,0 +1,73 @@
+{
+  "id": "advising__preprofessional-advising__prelaw-courses-ec8ddb34e4",
+  "url": "https://shanghai.nyu.edu/advising/preprofessional-advising/prelaw-courses",
+  "canonical_url": "https://shanghai.nyu.edu/advising/preprofessional-advising/prelaw-courses",
+  "page_type": "advising",
+  "title": "Recommended Courses",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Recommended Courses\nProspective law students are free to choose from the wide variety of courses offered at NYU Shanghai. As stated in the NYU Shanghai Undergraduate Bulletin, NYU endorses the position of the Association of American Law Schools (AALS) that a single \"best\" preparation for law school cannot be recommended, which is why NYU Shanghai does not prescribe a prelaw curriculum or prelaw major.\nHowever, students who intend to pursue a career in law are advised to take courses that require extensive reading, research, and writing. The Core Curriculum is an excellent starting point for prelaw students because it offers a rigorous and multidisciplinary foundation for advanced study in the humanities, social sciences, and natural sciences. The honors programs offered by some majors also provide opportunities to do extensive written work during the junior and senior years. No matter what one majors in, law schools value a well-rounded liberal arts education, so students should choose their electives accordingly.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Recommended Courses"
+    },
+    {
+      "type": "p",
+      "text": "Prospective law students are free to choose from the wide variety of courses offered at NYU Shanghai. As stated in the NYU Shanghai Undergraduate Bulletin, NYU endorses the position of the Association of American Law Schools (AALS) that a single \"best\" preparation for law school cannot be recommended, which is why NYU Shanghai does not prescribe a prelaw curriculum or prelaw major."
+    },
+    {
+      "type": "p",
+      "text": "However, students who intend to pursue a career in law are advised to take courses that require extensive reading, research, and writing. The Core Curriculum is an excellent starting point for prelaw students because it offers a rigorous and multidisciplinary foundation for advanced study in the humanities, social sciences, and natural sciences. The honors programs offered by some majors also provide opportunities to do extensive written work during the junior and senior years. No matter what one majors in, law schools value a well-rounded liberal arts education, so students should choose their electives accordingly."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Preprofessional-Advising-2-1.jpg",
+      "alt": "Recommended Courses",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Preprofessional-Advising-2-1-c2f3cda2cffe.jpg",
+      "download_status": "downloaded",
+      "bytes": 173867,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Preprofessional-Advising-2-2.png",
+      "alt": "Recommend Course List for Pre-Law Students",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Preprofessional-Advising-2-2-1c1bc2b1b58d.png",
+      "download_status": "downloaded",
+      "bytes": 2322,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Preprofessional-Advising-2-3.png",
+      "alt": "NYU College of Arts and Science’s Prelaw Curriculum",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/p-Preprofessional-Advising-2-3.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1RBwNrjBKdlRq2JC_eEK13m9E3oiUQQ3n9rBBI6wUFDg/edit?usp=sharing",
+      "text": "Recommend Course List for Pre-Law Students",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1gX6dFQ0qPFILi2Ak9knEz6j7K4cfS7kjorZAUBz_f1w/edit?usp=sharing",
+      "text": "NYU College of Arts and Science’s Prelaw Curriculum",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 159,
+  "crawled_at": "2026-06-09T04:42:11+00:00",
+  "sequence": 1450
+}

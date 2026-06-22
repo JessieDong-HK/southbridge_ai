@@ -1,0 +1,119 @@
+{
+  "id": "page__ip-telephone-e6e5f6502a",
+  "url": "https://shanghai.nyu.edu/page/ip-telephone",
+  "canonical_url": "https://shanghai.nyu.edu/page/ip-telephone",
+  "page_type": "page",
+  "title": "IP Telephone",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "IP Telephone\nEach office desk phone comes equipped with services such as Google calendar, conference room availability, the NYU Shanghai Directory, and even the weather forecast. Learn how to make your phone a hub for connection with IPT.\nWho is this service available to?\nNYU faculty and staff\nHow much does it cost?\nThe phone and calls to domestic and US toll-free numbers are free of charge. International calls are covered by your department.\nHow can users access this service?\nPlease see the Knowledge Base on Support.nyu.edu\nNeed help?\nSubmit a request on support.nyu.edu\nSend a request through WeChat\nEmail to shanghai.it.help@nyu.edu\nVisit the IT Service Center: Room N525 @ New Bund Campus\nFAQs and more\nManaging your Voicemail\nSet up Cisco Jabber on your devices\nPlacing an international or long distance call",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "IP Telephone"
+    },
+    {
+      "type": "p",
+      "text": "Each office desk phone comes equipped with services such as Google calendar, conference room availability, the NYU Shanghai Directory, and even the weather forecast. Learn how to make your phone a hub for connection with IPT."
+    },
+    {
+      "type": "h2",
+      "text": "Who is this service available to?"
+    },
+    {
+      "type": "p",
+      "text": "NYU faculty and staff"
+    },
+    {
+      "type": "h2",
+      "text": "How much does it cost?"
+    },
+    {
+      "type": "p",
+      "text": "The phone and calls to domestic and US toll-free numbers are free of charge. International calls are covered by your department."
+    },
+    {
+      "type": "h2",
+      "text": "How can users access this service?"
+    },
+    {
+      "type": "p",
+      "text": "Please see the Knowledge Base on Support.nyu.edu"
+    },
+    {
+      "type": "h2",
+      "text": "Need help?"
+    },
+    {
+      "type": "li",
+      "text": "Submit a request on support.nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Send a request through WeChat"
+    },
+    {
+      "type": "li",
+      "text": "Email to shanghai.it.help@nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Visit the IT Service Center: Room N525 @ New Bund Campus"
+    },
+    {
+      "type": "h2",
+      "text": "FAQs and more"
+    },
+    {
+      "type": "li",
+      "text": "Managing your Voicemail"
+    },
+    {
+      "type": "li",
+      "text": "Set up Cisco Jabber on your devices"
+    },
+    {
+      "type": "li",
+      "text": "Placing an international or long distance call"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011963",
+      "text": "Knowledge Base on Support.nyu.edu",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=sc_cat_item&sys_id=5110048e1bd85a103f31a9b6624bcb5d",
+      "text": "Submit a request on support.nyu.edu",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011955",
+      "text": "Send a request through WeChat",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011961",
+      "text": "Managing your Voicemail",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011854",
+      "text": "Set up Cisco Jabber on your devices",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0010670",
+      "text": "Placing an international or long distance call",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 141,
+  "crawled_at": "2026-06-09T04:31:48+00:00",
+  "sequence": 484
+}

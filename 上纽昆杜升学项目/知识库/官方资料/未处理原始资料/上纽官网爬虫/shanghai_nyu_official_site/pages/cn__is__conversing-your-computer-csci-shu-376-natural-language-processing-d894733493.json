@@ -1,0 +1,172 @@
+{
+  "id": "cn__is__conversing-your-computer-csci-shu-376-natural-language-processing-d894733493",
+  "url": "https://shanghai.nyu.edu/cn/is/conversing-your-computer-csci-shu-376-natural-language-processing",
+  "canonical_url": "https://shanghai.nyu.edu/cn/is/conversing-your-computer-csci-shu-376-natural-language-processing",
+  "page_type": "cn",
+  "title": "上纽大自然语言处理课：让计算机“说话”",
+  "description": "打造机器人“大白”，让AI学会理解与交流。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "上纽大自然语言处理课：让计算机“说话”\nTwitter\nFacebook\nWeibo\n如果看过迪士尼动画电影《超能陆战队》，你肯定会对影片中善解人意的机器人“大白”（Baymax）印象深刻。对于大多数人来说，能拥有像“大白”一样一直保护你、教导你、支持你的机器人伙伴，就如同天方夜谭。但对于上纽大计算机科学实践教授Wilson Tam Yik-Cheung以及他带领的许多本科学生来说，打造一个“大白”，让它来帮助你我，是完全有可能的。实现这一想法的关键，在于实现机器人和人类的交流，即让人工智能（AI）学会理解、回应并输出真正的人类语言——自然语言。在CSCI-SHU 376“自然语言处理”（Natural Language Processing）课堂上，Tam教授和他的学生正朝着这一目标进发。\n自然语言处理（NLP）推动了个人语音助理、智能客服机器人、机器翻译、语音识别、机器阅读乃至音乐创作等各领域的应用开发，让技术更加贴近日常生活。在Tam教授的课堂上，学生运用早前修读课程中学到的机器学习、概率论与统计学知识，应用并强化前沿的AI算法。这些算法目前正应用于基于语言的服务，如谷歌翻译、亚马逊Echo智能音箱、苹果Siri语音助手等。\n在香港科技大学攻读硕士期间，Tam教授开始研究语言技术，特别是语音识别技术。此后，他前往卡内基·梅隆大学计算机科学学院攻读博士学位，专攻计算机语言生成。“我看到人们利用语言技术开发出如此多的应用程序，并广泛用于日常生活中，这令我深深着迷其中，”Tam教授说，“设计一个对话交互界面，实现人机互动，这听起来就像是科幻电影中的场景，如果未来真能实现就太酷了。”\n任职于微软时，Tam教授参与开发了全球首款跨平台智能个人助理小娜（Cortana）。后来他加入腾讯，参与研发了数套AI对话系统，包括基于微信AI团队智能对话系统的语音助手“腾讯小微”，以及借佛法为人答疑解惑的网红“贤二机器僧”。除了授课与指导学生从事NLP研究，Tam教授还专注于开发提供心理健康支持的AI程序。该程序旨在帮助用户度过心理危机，并为遭遇严重精神健康危机的用户联系专业人士。\nTam教授在2019年腾讯全球数字生态大会上介绍智能语言助手“腾讯小微”\n“根据‘贤二机器僧’以及许多类似项目所收集的数据，我们发现大多数人与机器人互动时的提问，都与婚姻、学习、财富、育儿等话题有关，说明人们面对这些问题时不知该如何求助，”Tam教授表示，“需要帮助的人往往像座孤岛，没有太多朋友，而机器人可以耐心聆听倾诉，记录问题，并试着给出可以予以慰藉的答案。”\nTam教授来自香港，精通英语、粤语和普通话。在学术研究与职业发展过程中，他逐渐学习了阿拉伯语、法语等语言的语言结构。不过，Tam教授却说，最先进的NLP研究，并不要求程序员对于AI所使用的语言有广泛、深入的认知。\n“中英文在句法上差异很大。然而，机器学习中，我们将相似的技术应用于这两门语言中，这些技术实际上是通用的。”Tam教授说。这是因为当代NLP技术运用数据驱动的方法，训练AI理解并使用语言，这一过程与人类婴儿学习母语的方法类似。从前，程序员会先设定一系列语法规则，而后给AI输入带有语法标记的真实例子。而如今，程序员选择对NLP的AI程序进行预训练，即输入数十亿条未经标记的自然语言语料，如维基百科文章，甚至是一整本书，而后让AI进行大量的自动填充练习，从而达到学习效果。\n通过谷歌提供的免费GPU运算单元，Tam教授的学生得以从文本、互联网、社交平台和语料库中，获取由真人产出并使用的短语、句子和对话等构成的数以万计的数据点，输入至“神经网络”。神经网络是一种以人脑神经元结构为模型的、由小型计算单元构成的多层网络。它不仅可以在相对短时间内处理大量数据，还可以通过开发大规模计算树，在几毫秒内将单一数据点与其他数千个数据点关联起来，从而筛选出最佳方案，解决较为复杂的问题。在数据库里，当一个单词或者说“标记”（token），平均可以与768个“特征”（feature）——即同义词、后缀、单词和短语等常与该“标记”被一起使用的语言成分互相关联时，神经网络的优势便一览无余了。\n“对于学生来说，这门课最具挑战性的部分便是学习如何运用神经网络，”Tam教授说，“他们必须拥有扎实的概率论基础。同时，由于神经网络具有多层结构，学生需要进行大量的并行处理，即在不同维度上处理数据。”\n神经网络中计算单元交互作用图示（图：维基共享资源BrunelloN）\n在课后作业与期末项目中，学生重新设计了支配神经网络的尖端NLP算法，引导网络重新为与标记相关的特征分配权重，从而针对当前任务进行预测与输出。学生们最终设计的期末项目成果形式多样，有的让计算机变身为中国古代诗人，还有的通过梗图（meme）生成器让计算机学会幽默。有些学生甚至能够跳出机器翻译里“中英”翻译的局限性，利用“法语-英语”翻译来提高“法语-挪威语”翻译的准确性。\n修读数据科学与计算机科学双专业的2022届学生王禹宸说，能将编程技能运用于这一迅速发展的领域中，他感到激动不已。“修这门课之前，我只知道有关NLP技术的一些应用，比如机器翻译和对话系统，对于该理论本身知之甚少。我很喜欢这门课的作业，它能让我们将所学知识真正运用到实践当中。”\n王禹宸在期末项目中，和同届学生黄奕晨搭档，借助非营利AI研究组织OpenAI的CLIP人工神经网络，设计了一个自动生成梗图配字的程序。经过训练，CLIP人工神经网络可以提取含图像与文字的有意义的特征。二人尝试了多种图说生成流程，在不同节点测试生成结果与真实案例的匹配度，调试图说的适配性，从而最大限度地训练AI的能力。\n王禹宸与黄奕晨设计的AI程序成功为两张梗图配字\n“传统的图说往往通过识别图中最突出的物体并描述它们之间的关系而产生。相比之下，梗图配字则基于更为微妙的图像特征，如面部表情和肢体语言，从细微之处激发诙谐之感，”王禹宸说，“设计过程中，我们遇到了一些意想不到的问题，但在Tam教授的帮助下，一切进展顺利。”\n学习之余，王禹宸仍在充分挖掘NLP技术在实际应用中的价值。最近，他参与了由谷歌旗下知名数据科学平台Kaggle举办的比赛，在赛中尝试改进一个基于印度语言的问答系统。“通过比赛，我希望进一步学习如何改进小语种的NLP模型，并将NLP课堂上学到的技能加以运用。”\nTam教授表示，看到学生把对NLP技术的热情带到新领域的学习研究中，他感到十分欣慰。“只要能够在课上自己动手编写计算机程序，学生们就已经具备进入行业领域工作或进入研究院深造的能力，能够在更广阔的天地里探索NLP技术、开发计算机视觉等与之相关的应用。”",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "上纽大自然语言处理课：让计算机“说话”"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "如果看过迪士尼动画电影《超能陆战队》，你肯定会对影片中善解人意的机器人“大白”（Baymax）印象深刻。对于大多数人来说，能拥有像“大白”一样一直保护你、教导你、支持你的机器人伙伴，就如同天方夜谭。但对于上纽大计算机科学实践教授Wilson Tam Yik-Cheung以及他带领的许多本科学生来说，打造一个“大白”，让它来帮助你我，是完全有可能的。实现这一想法的关键，在于实现机器人和人类的交流，即让人工智能（AI）学会理解、回应并输出真正的人类语言——自然语言。在CSCI-SHU 376“自然语言处理”（Natural Language Processing）课堂上，Tam教授和他的学生正朝着这一目标进发。"
+    },
+    {
+      "type": "p",
+      "text": "自然语言处理（NLP）推动了个人语音助理、智能客服机器人、机器翻译、语音识别、机器阅读乃至音乐创作等各领域的应用开发，让技术更加贴近日常生活。在Tam教授的课堂上，学生运用早前修读课程中学到的机器学习、概率论与统计学知识，应用并强化前沿的AI算法。这些算法目前正应用于基于语言的服务，如谷歌翻译、亚马逊Echo智能音箱、苹果Siri语音助手等。"
+    },
+    {
+      "type": "p",
+      "text": "在香港科技大学攻读硕士期间，Tam教授开始研究语言技术，特别是语音识别技术。此后，他前往卡内基·梅隆大学计算机科学学院攻读博士学位，专攻计算机语言生成。“我看到人们利用语言技术开发出如此多的应用程序，并广泛用于日常生活中，这令我深深着迷其中，”Tam教授说，“设计一个对话交互界面，实现人机互动，这听起来就像是科幻电影中的场景，如果未来真能实现就太酷了。”"
+    },
+    {
+      "type": "p",
+      "text": "任职于微软时，Tam教授参与开发了全球首款跨平台智能个人助理小娜（Cortana）。后来他加入腾讯，参与研发了数套AI对话系统，包括基于微信AI团队智能对话系统的语音助手“腾讯小微”，以及借佛法为人答疑解惑的网红“贤二机器僧”。除了授课与指导学生从事NLP研究，Tam教授还专注于开发提供心理健康支持的AI程序。该程序旨在帮助用户度过心理危机，并为遭遇严重精神健康危机的用户联系专业人士。"
+    },
+    {
+      "type": "p",
+      "text": "Tam教授在2019年腾讯全球数字生态大会上介绍智能语言助手“腾讯小微”"
+    },
+    {
+      "type": "p",
+      "text": "“根据‘贤二机器僧’以及许多类似项目所收集的数据，我们发现大多数人与机器人互动时的提问，都与婚姻、学习、财富、育儿等话题有关，说明人们面对这些问题时不知该如何求助，”Tam教授表示，“需要帮助的人往往像座孤岛，没有太多朋友，而机器人可以耐心聆听倾诉，记录问题，并试着给出可以予以慰藉的答案。”"
+    },
+    {
+      "type": "p",
+      "text": "Tam教授来自香港，精通英语、粤语和普通话。在学术研究与职业发展过程中，他逐渐学习了阿拉伯语、法语等语言的语言结构。不过，Tam教授却说，最先进的NLP研究，并不要求程序员对于AI所使用的语言有广泛、深入的认知。"
+    },
+    {
+      "type": "p",
+      "text": "“中英文在句法上差异很大。然而，机器学习中，我们将相似的技术应用于这两门语言中，这些技术实际上是通用的。”Tam教授说。这是因为当代NLP技术运用数据驱动的方法，训练AI理解并使用语言，这一过程与人类婴儿学习母语的方法类似。从前，程序员会先设定一系列语法规则，而后给AI输入带有语法标记的真实例子。而如今，程序员选择对NLP的AI程序进行预训练，即输入数十亿条未经标记的自然语言语料，如维基百科文章，甚至是一整本书，而后让AI进行大量的自动填充练习，从而达到学习效果。"
+    },
+    {
+      "type": "p",
+      "text": "通过谷歌提供的免费GPU运算单元，Tam教授的学生得以从文本、互联网、社交平台和语料库中，获取由真人产出并使用的短语、句子和对话等构成的数以万计的数据点，输入至“神经网络”。神经网络是一种以人脑神经元结构为模型的、由小型计算单元构成的多层网络。它不仅可以在相对短时间内处理大量数据，还可以通过开发大规模计算树，在几毫秒内将单一数据点与其他数千个数据点关联起来，从而筛选出最佳方案，解决较为复杂的问题。在数据库里，当一个单词或者说“标记”（token），平均可以与768个“特征”（feature）——即同义词、后缀、单词和短语等常与该“标记”被一起使用的语言成分互相关联时，神经网络的优势便一览无余了。"
+    },
+    {
+      "type": "p",
+      "text": "“对于学生来说，这门课最具挑战性的部分便是学习如何运用神经网络，”Tam教授说，“他们必须拥有扎实的概率论基础。同时，由于神经网络具有多层结构，学生需要进行大量的并行处理，即在不同维度上处理数据。”"
+    },
+    {
+      "type": "p",
+      "text": "神经网络中计算单元交互作用图示（图：维基共享资源BrunelloN）"
+    },
+    {
+      "type": "p",
+      "text": "在课后作业与期末项目中，学生重新设计了支配神经网络的尖端NLP算法，引导网络重新为与标记相关的特征分配权重，从而针对当前任务进行预测与输出。学生们最终设计的期末项目成果形式多样，有的让计算机变身为中国古代诗人，还有的通过梗图（meme）生成器让计算机学会幽默。有些学生甚至能够跳出机器翻译里“中英”翻译的局限性，利用“法语-英语”翻译来提高“法语-挪威语”翻译的准确性。"
+    },
+    {
+      "type": "p",
+      "text": "修读数据科学与计算机科学双专业的2022届学生王禹宸说，能将编程技能运用于这一迅速发展的领域中，他感到激动不已。“修这门课之前，我只知道有关NLP技术的一些应用，比如机器翻译和对话系统，对于该理论本身知之甚少。我很喜欢这门课的作业，它能让我们将所学知识真正运用到实践当中。”"
+    },
+    {
+      "type": "p",
+      "text": "王禹宸在期末项目中，和同届学生黄奕晨搭档，借助非营利AI研究组织OpenAI的CLIP人工神经网络，设计了一个自动生成梗图配字的程序。经过训练，CLIP人工神经网络可以提取含图像与文字的有意义的特征。二人尝试了多种图说生成流程，在不同节点测试生成结果与真实案例的匹配度，调试图说的适配性，从而最大限度地训练AI的能力。"
+    },
+    {
+      "type": "p",
+      "text": "王禹宸与黄奕晨设计的AI程序成功为两张梗图配字"
+    },
+    {
+      "type": "p",
+      "text": "“传统的图说往往通过识别图中最突出的物体并描述它们之间的关系而产生。相比之下，梗图配字则基于更为微妙的图像特征，如面部表情和肢体语言，从细微之处激发诙谐之感，”王禹宸说，“设计过程中，我们遇到了一些意想不到的问题，但在Tam教授的帮助下，一切进展顺利。”"
+    },
+    {
+      "type": "p",
+      "text": "学习之余，王禹宸仍在充分挖掘NLP技术在实际应用中的价值。最近，他参与了由谷歌旗下知名数据科学平台Kaggle举办的比赛，在赛中尝试改进一个基于印度语言的问答系统。“通过比赛，我希望进一步学习如何改进小语种的NLP模型，并将NLP课堂上学到的技能加以运用。”"
+    },
+    {
+      "type": "p",
+      "text": "Tam教授表示，看到学生把对NLP技术的热情带到新领域的学习研究中，他感到十分欣慰。“只要能够在课上自己动手编写计算机程序，学生们就已经具备进入行业领域工作或进入研究院深造的能力，能够在更广阔的天地里探索NLP技术、开发计算机视觉等与之相关的应用。”"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/focus_image",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/focus_image/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/focus_image/z_6025-banner-and-homgpage.jpg?itok=lblZkCur",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/z_6025-banner-and-homgpage-5d34d994665c.jpg",
+      "download_status": "downloaded",
+      "bytes": 43756,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/wechat_image_20210630142202.jpg",
+      "alt": "Tam delivers talk against Tencent backdrop",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechat_image_20210630142202-5bcf52e18b66.jpg",
+      "download_status": "downloaded",
+      "bytes": 242411,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/neural_network_example.png",
+      "alt": "Diagram showing complex web of interactions between computing units",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/screen_shot_2021-09-29_at_11.31.00_pm.png",
+      "alt": "Image and meme captions",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/screen_shot_2021-09-29_at_11.31.00_pm.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=%E4%B8%8A%E7%BA%BD%E5%A4%A7%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E8%AF%BE%EF%BC%9A%E8%AE%A9%E8%AE%A1%E7%AE%97%E6%9C%BA%E2%80%9C%E8%AF%B4%E8%AF%9D%E2%80%9D&url=https%3A//shanghai.nyu.edu/cn/is/conversing-your-computer-csci-shu-376-natural-language-processing&status=%E4%B8%8A%E7%BA%BD%E5%A4%A7%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E8%AF%BE%EF%BC%9A%E8%AE%A9%E8%AE%A1%E7%AE%97%E6%9C%BA%E2%80%9C%E8%AF%B4%E8%AF%9D%E2%80%9D%20https%3A//shanghai.nyu.edu/cn/is/conversing-your-computer-csci-shu-376-natural-language-processing",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/cn/is/conversing-your-computer-csci-shu-376-natural-language-processing&title=%E4%B8%8A%E7%BA%BD%E5%A4%A7%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E8%AF%BE%EF%BC%9A%E8%AE%A9%E8%AE%A1%E7%AE%97%E6%9C%BA%E2%80%9C%E8%AF%B4%E8%AF%9D%E2%80%9D",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/cn/is/conversing-your-computer-csci-shu-376-natural-language-processing&title=%E4%B8%8A%E7%BA%BD%E5%A4%A7%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E8%AF%BE%EF%BC%9A%E8%AE%A9%E8%AE%A1%E7%AE%97%E6%9C%BA%E2%80%9C%E8%AF%B4%E8%AF%9D%E2%80%9D",
+      "text": "Weibo",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 237,
+  "crawled_at": "2026-06-09T04:51:31+00:00",
+  "sequence": 2215
+}

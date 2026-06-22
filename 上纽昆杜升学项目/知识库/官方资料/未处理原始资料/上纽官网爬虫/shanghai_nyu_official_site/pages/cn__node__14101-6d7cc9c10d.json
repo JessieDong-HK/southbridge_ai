@@ -1,0 +1,130 @@
+{
+  "id": "cn__node__14101-6d7cc9c10d",
+  "url": "https://shanghai.nyu.edu/cn/node/14101",
+  "canonical_url": "https://shanghai.nyu.edu/community/parents",
+  "page_type": "cn",
+  "title": "Parents",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Parents\nSnapshots of NYU Shanghai\nGet a taste of life at NYU Shanghai. Click here for photos from commencement, dance and drama performances, intercollegiate sports, cultural fairs, and other special events.\nNews & Announcements\nGet the latest NYU Shanghai news.\nPeople\nRead stories about NYU Shanghai's students, faculty, alumni and more.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Parents"
+    },
+    {
+      "type": "h4",
+      "text": "Snapshots of NYU Shanghai"
+    },
+    {
+      "type": "p",
+      "text": "Get a taste of life at NYU Shanghai. Click here for photos from commencement, dance and drama performances, intercollegiate sports, cultural fairs, and other special events."
+    },
+    {
+      "type": "h4",
+      "text": "News & Announcements"
+    },
+    {
+      "type": "p",
+      "text": "Get the latest NYU Shanghai news."
+    },
+    {
+      "type": "h4",
+      "text": "People"
+    },
+    {
+      "type": "p",
+      "text": "Read stories about NYU Shanghai's students, faculty, alumni and more."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/parents-01-3.jpg",
+      "alt": "student",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/parents-01-3-e8764f5f5ebd.jpg",
+      "download_status": "downloaded",
+      "bytes": 347398,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/19_2.jpg",
+      "alt": "parents News & Announcements",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/19_2-1e823e12ce66.jpg",
+      "download_status": "downloaded",
+      "bytes": 63288,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/parents-03-2.jpg",
+      "alt": "student",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/parents-03-2-3693eff96b81.jpg",
+      "download_status": "downloaded",
+      "bytes": 51005,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/gallery",
+      "text": "Snapshots of NYU Shanghai",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news",
+      "text": "News & Announcements",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories",
+      "text": "People",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/content/2024-new-student-faq",
+      "text": "FAQs",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/undergraduate-admissions/cost-and-financial-aid/how-to-apply-for-financial-aid",
+      "text": "Financial Support",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/about/our-campus",
+      "text": "Our Campus",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/calendar",
+      "text": "Academic Calendar",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academic-affairs",
+      "text": "Academics",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/admissions/us-visit",
+      "text": "Visit Us",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/gazette?field_mailchimplist_value=parent%20newsletter",
+      "text": "Parents Newsletter",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 51,
+  "crawled_at": "2026-06-09T04:32:41+00:00",
+  "sequence": 610
+}

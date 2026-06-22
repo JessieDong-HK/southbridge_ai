@@ -1,0 +1,44 @@
+{
+  "id": "zh-hans__event__-e5-9c-a8-e6-9d-9c-e5-85-8b-e5-a4-a7-e5-ad-a6-e9-9c-b2-e8-90-a5-09d332ab5e",
+  "url": "https://www.dukekunshan.edu.cn/zh-hans/event/%e5%9c%a8%e6%9d%9c%e5%85%8b%e5%a4%a7%e5%ad%a6%e9%9c%b2%e8%90%a5",
+  "canonical_url": "https://www.dukekunshan.edu.cn/zh-hans/event/在杜克大学露营/",
+  "page_type": "zh-hans",
+  "title": "在杜克大学露营",
+  "description": "",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "2024-09-05T01:25:30+00:00",
+  "sitemap_lastmod": "2024-09-05T01:25:30+00:00",
+  "text": "在杜克大学露营\nDescription\nHost",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "在杜克大学露营"
+    },
+    {
+      "type": "h4",
+      "text": "Description"
+    },
+    {
+      "type": "h4",
+      "text": "Host"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 3,
+  "crawled_at": "2026-06-03T13:51:15+00:00",
+  "sequence": 209
+}

@@ -1,0 +1,35 @@
+{
+  "id": "academics__faculty__directory__timothy-byron-klatte-a6d808163a",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/timothy-byron-klatte",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/timothy-byron-klatte",
+  "page_type": "academics",
+  "title": "Timothy Byron",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Timothy Byron Klatte",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Timothy Byron Klatte"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Shanghai%20Mascot_27.jpeg",
+      "alt": "Shanghai Mascot",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Shanghai-20Mascot_27-c01cdfaf7437.jpeg",
+      "download_status": "downloaded",
+      "bytes": 103793,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 3,
+  "crawled_at": "2026-06-09T04:34:36+00:00",
+  "sequence": 775
+}

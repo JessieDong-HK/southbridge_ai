@@ -1,0 +1,213 @@
+{
+  "id": "news__using-ai-teach-ai-nyu-shanghai-7e625a40ef",
+  "url": "https://shanghai.nyu.edu/news/using-ai-teach-ai-nyu-shanghai",
+  "canonical_url": "https://shanghai.nyu.edu/news/using-ai-teach-ai-nyu-shanghai",
+  "page_type": "news",
+  "title": "Using AI to Teach AI at NYU Shanghai",
+  "description": "Kiwi, an AI learning companion built by students and faculty for the NYU community, uses AI to teach AI.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Using AI to Teach AI at NYU Shanghai\nTwitter\nFacebook\nWeibo\nTalk about AI in education, and you may picture algorithms grading essays, generating exercises, or tutoring students on demand. But at NYU Shanghai, a different experiment is quietly reshaping that conversation.\nKiwi, an AI learning companion built by students and faculty for the NYU community, uses AI to teach AI. Through conversational interactions embedded in real coursework, Kiwi is helping students learn how AI works, and even how to build their own applications.\nSince its conception in Fall 2023, Kiwi has evolved quickly. The project was launched in an introductory programming class in Spring 2024 and later expanded to core courses offered by the Division of Computer Science, Data Science, and Engineering. Now it has been made available to all NYU Shanghai undergraduates. A survey of student users shows that more than 90% found Kiwi improved their learning efficiency.\nKiwi’s user interface\nRethinking “AI for AI Education”\nAssistant Professor of Computer Science Wen Hongyi, who leads the project, wanted to move beyond the typical “AI-powered classroom” narrative. “Many people are exploring how AI can teach writing, art, or language,” he explains. “For us, the first step is to help everyone understand AI itself: its logic, its capabilities, and its limitations. Once students grasp that foundation, AI can empower learning in every field. To achieve this goal, leveraging AI to scale up and personalize the ways of learning and teaching is very necessary.”\nKiwi’s design reflects that philosophy. Instead of letting students ask generic questions to a language model and get equally generic answers, Kiwi integrates detailed learning context: what slide a student is viewing, what code they’ve written, and at what point they got stuck.\nThis contextualization allows Kiwi to deliver specific, pedagogically sound responses. If a student struggles with a certain function or algorithm, Kiwi can pinpoint the issue and guide them directly, rather than serving up coarse-level results. “Our goal isn’t to create another teaching chatbot,” Wen says. “It’s to build a teaching agent, one that can reason and evolve together with the learner.”\nProfessor Wen presenting Kiwi at the Pudong Library in June\nTeachers, too, benefit from this system, he adds. Kiwi’s instructor dashboard visualizes student questions and learning progress, allowing faculty to identify which concepts cause confusion and where to adjust pacing. “These insights may not be easily acquired in traditional classrooms,” says Wen. “AI integration into the learning process can make teaching more data-informed.”\nStudents as Co-Designers\nUnlike many ed-tech platforms that are driven by developers, Kiwi was largely inspired by its users, the students and faculty. A team of students handle the student and instructor interfaces design, coordinate developments and implementations, and conduct research projects on the platform. Instructors of courses that integrate Kiwi engage closely with the development team to discuss ideas for improving their teaching workflow.\nJiang Yicheng ’26, a data science major, joined the project as a sophomore. “Back then, it was an AI-assisted search tool that recommended education videos,” he recalls. “As later large language models advanced, we realized we could make it interactive, capable of supporting back-and-forth interactions in real-world learning scenarios.”\nYicheng (middle) coaching students on how to use Kiwi during the AI Summer School\nFor Jiang, seeing his work immediately impact real classrooms has been transformative. “Most research projects stop at prototypes,” he says. “Here, what we build one month gets used by students the next. It’s motivating to see your code changing how people learn.”\nSu Wenhao ’27, a computer science student, first was a Kiwi user before joining as a developer through the university’s DIC Innovation Challenge in 2025. “I used to find some interactions confusing,” he admits. “Now, as a developer, I can actually fix them.” Working on Kiwi was his first experience with a large-scale, collaborative coding project. “I learned how an idea becomes a functioning product,” he says. “It’s not just about programming. It’s about understanding the whole software lifecycle.”\nWenhao (left) mentoring students during the AI Summer School\nFirst-year PhD student Zhao Sihang brings a research perspective to the team. “My role is to connect the design and the research – to make sure what we build can support real-world educational studies.” His work focuses on streamlining the workflow and preparing Kiwi for future scaling. “The goal isn’t just structure,” he explains. “It’s connecting everyone’s work so that development feels cohesive and efficient.”\nThe collaboration has also redirected Sihang’s own research. “Through Kiwi, I’ve shifted more of my research focus toward AI for education, which is a field that’s becoming more significant every year,” he says. “It’s exciting to work on something that’s both research-driven and immediately applicable.”\nToward Seamless Educational AI\nLooking ahead, Wen envisions Kiwi evolving into something more “seamless and invisible.” “Ideally, Kiwi becomes a non-intrusive companion – an assistant that helps without interrupting,” he says. “The best AI is one you barely notice, but seamlessly shapes your learning progress.”\nIn a landscape of flashy AI teaching tools, Kiwi doesn’t aim to replace teachers or to automate learning, he says. Instead, he sees it as a bridge between human curiosity and machine intelligence, between theory and real use.\n“Kiwi isn’t about making education more mechanical,” Wen says. “It’s about making learning both smarter and more human, in a personalized manner. When the day comes that students forget Kiwi is even there – that’s when it will have truly succeeded.”\nWant to use Kiwi? Explore the Kiwi Guide.\nSupport email: shanghai.kiwi.support@nyu.edu",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Using AI to Teach AI at NYU Shanghai"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Talk about AI in education, and you may picture algorithms grading essays, generating exercises, or tutoring students on demand. But at NYU Shanghai, a different experiment is quietly reshaping that conversation."
+    },
+    {
+      "type": "p",
+      "text": "Kiwi, an AI learning companion built by students and faculty for the NYU community, uses AI to teach AI. Through conversational interactions embedded in real coursework, Kiwi is helping students learn how AI works, and even how to build their own applications."
+    },
+    {
+      "type": "p",
+      "text": "Since its conception in Fall 2023, Kiwi has evolved quickly. The project was launched in an introductory programming class in Spring 2024 and later expanded to core courses offered by the Division of Computer Science, Data Science, and Engineering. Now it has been made available to all NYU Shanghai undergraduates. A survey of student users shows that more than 90% found Kiwi improved their learning efficiency."
+    },
+    {
+      "type": "figcaption",
+      "text": "Kiwi’s user interface"
+    },
+    {
+      "type": "h3",
+      "text": "Rethinking “AI for AI Education”"
+    },
+    {
+      "type": "p",
+      "text": "Assistant Professor of Computer Science Wen Hongyi, who leads the project, wanted to move beyond the typical “AI-powered classroom” narrative. “Many people are exploring how AI can teach writing, art, or language,” he explains. “For us, the first step is to help everyone understand AI itself: its logic, its capabilities, and its limitations. Once students grasp that foundation, AI can empower learning in every field. To achieve this goal, leveraging AI to scale up and personalize the ways of learning and teaching is very necessary.”"
+    },
+    {
+      "type": "p",
+      "text": "Kiwi’s design reflects that philosophy. Instead of letting students ask generic questions to a language model and get equally generic answers, Kiwi integrates detailed learning context: what slide a student is viewing, what code they’ve written, and at what point they got stuck."
+    },
+    {
+      "type": "p",
+      "text": "This contextualization allows Kiwi to deliver specific, pedagogically sound responses. If a student struggles with a certain function or algorithm, Kiwi can pinpoint the issue and guide them directly, rather than serving up coarse-level results. “Our goal isn’t to create another teaching chatbot,” Wen says. “It’s to build a teaching agent, one that can reason and evolve together with the learner.”"
+    },
+    {
+      "type": "figcaption",
+      "text": "Professor Wen presenting Kiwi at the Pudong Library in June"
+    },
+    {
+      "type": "p",
+      "text": "Teachers, too, benefit from this system, he adds. Kiwi’s instructor dashboard visualizes student questions and learning progress, allowing faculty to identify which concepts cause confusion and where to adjust pacing. “These insights may not be easily acquired in traditional classrooms,” says Wen. “AI integration into the learning process can make teaching more data-informed.”"
+    },
+    {
+      "type": "h3",
+      "text": "Students as Co-Designers"
+    },
+    {
+      "type": "p",
+      "text": "Unlike many ed-tech platforms that are driven by developers, Kiwi was largely inspired by its users, the students and faculty. A team of students handle the student and instructor interfaces design, coordinate developments and implementations, and conduct research projects on the platform. Instructors of courses that integrate Kiwi engage closely with the development team to discuss ideas for improving their teaching workflow."
+    },
+    {
+      "type": "p",
+      "text": "Jiang Yicheng ’26, a data science major, joined the project as a sophomore. “Back then, it was an AI-assisted search tool that recommended education videos,” he recalls. “As later large language models advanced, we realized we could make it interactive, capable of supporting back-and-forth interactions in real-world learning scenarios.”"
+    },
+    {
+      "type": "figcaption",
+      "text": "Yicheng (middle) coaching students on how to use Kiwi during the AI Summer School"
+    },
+    {
+      "type": "p",
+      "text": "For Jiang, seeing his work immediately impact real classrooms has been transformative. “Most research projects stop at prototypes,” he says. “Here, what we build one month gets used by students the next. It’s motivating to see your code changing how people learn.”"
+    },
+    {
+      "type": "p",
+      "text": "Su Wenhao ’27, a computer science student, first was a Kiwi user before joining as a developer through the university’s DIC Innovation Challenge in 2025. “I used to find some interactions confusing,” he admits. “Now, as a developer, I can actually fix them.” Working on Kiwi was his first experience with a large-scale, collaborative coding project. “I learned how an idea becomes a functioning product,” he says. “It’s not just about programming. It’s about understanding the whole software lifecycle.”"
+    },
+    {
+      "type": "figcaption",
+      "text": "Wenhao (left) mentoring students during the AI Summer School"
+    },
+    {
+      "type": "p",
+      "text": "First-year PhD student Zhao Sihang brings a research perspective to the team. “My role is to connect the design and the research – to make sure what we build can support real-world educational studies.” His work focuses on streamlining the workflow and preparing Kiwi for future scaling. “The goal isn’t just structure,” he explains. “It’s connecting everyone’s work so that development feels cohesive and efficient.”"
+    },
+    {
+      "type": "p",
+      "text": "The collaboration has also redirected Sihang’s own research. “Through Kiwi, I’ve shifted more of my research focus toward AI for education, which is a field that’s becoming more significant every year,” he says. “It’s exciting to work on something that’s both research-driven and immediately applicable.”"
+    },
+    {
+      "type": "h3",
+      "text": "Toward Seamless Educational AI"
+    },
+    {
+      "type": "p",
+      "text": "Looking ahead, Wen envisions Kiwi evolving into something more “seamless and invisible.” “Ideally, Kiwi becomes a non-intrusive companion – an assistant that helps without interrupting,” he says. “The best AI is one you barely notice, but seamlessly shapes your learning progress.”"
+    },
+    {
+      "type": "p",
+      "text": "In a landscape of flashy AI teaching tools, Kiwi doesn’t aim to replace teachers or to automate learning, he says. Instead, he sees it as a bridge between human curiosity and machine intelligence, between theory and real use."
+    },
+    {
+      "type": "p",
+      "text": "“Kiwi isn’t about making education more mechanical,” Wen says. “It’s about making learning both smarter and more human, in a personalized manner. When the day comes that students forget Kiwi is even there – that’s when it will have truly succeeded.”"
+    },
+    {
+      "type": "p",
+      "text": "Want to use Kiwi? Explore the Kiwi Guide."
+    },
+    {
+      "type": "p",
+      "text": "Support email: shanghai.kiwi.support@nyu.edu"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/1017_-_jiang_yichen_jason-01_1.jpg?itok=krGKM0xM",
+      "alt": "kiwi",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/1017_-_jiang_yichen_jason-01_1-d54f55a4d30f.jpg",
+      "download_status": "downloaded",
+      "bytes": 40189,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/1017%20-%20Jiang%20Yichen_Jason-04%20%281%29.jpg",
+      "alt": "Kiwi’s user interface",
+      "caption": "Kiwi’s user interface",
+      "source": "img",
+      "local_path": "_shared/1017-20-20Jiang-20Yichen_Jason-04-20-281-29-e7d6c866bf7f.jpg",
+      "download_status": "downloaded",
+      "bytes": 850658,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/why.png",
+      "alt": "Professor Wen presenting Kiwi at the Pudong Library in June",
+      "caption": "Professor Wen presenting Kiwi at the Pudong Library in June",
+      "source": "img",
+      "local_path": "_shared/why-1d1e225bdeba.png",
+      "download_status": "downloaded",
+      "bytes": 1633319,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/1017%20-%20Jiang%20Yichen_Jason-02%20%281%29.jpg",
+      "alt": "Yicheng (middle) coaching students on how to use Kiwi during the AI Summer School",
+      "caption": "Yicheng (middle) coaching students on how to use Kiwi during the AI Summer School",
+      "source": "img",
+      "local_path": "_shared/1017-20-20Jiang-20Yichen_Jason-02-20-281-29-3bd3959f31c8.jpg",
+      "download_status": "downloaded",
+      "bytes": 660000,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/1017%20-%20Jiang%20Yichen_Jason-03%20%281%29.jpg",
+      "alt": "Wenhao (left) mentoring students during the AI Summer School",
+      "caption": "Wenhao (left) mentoring students during the AI Summer School",
+      "source": "img",
+      "local_path": "_shared/1017-20-20Jiang-20Yichen_Jason-03-20-281-29-59304f0a70cb.jpg",
+      "download_status": "downloaded",
+      "bytes": 1018731,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Using%20AI%20to%20Teach%20AI%20at%20NYU%20Shanghai&url=https%3A//shanghai.nyu.edu/news/using-ai-teach-ai-nyu-shanghai&status=Using%20AI%20to%20Teach%20AI%20at%20NYU%20Shanghai%20https%3A//shanghai.nyu.edu/news/using-ai-teach-ai-nyu-shanghai",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/using-ai-teach-ai-nyu-shanghai&title=Using%20AI%20to%20Teach%20AI%20at%20NYU%20Shanghai",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/using-ai-teach-ai-nyu-shanghai&title=Using%20AI%20to%20Teach%20AI%20at%20NYU%20Shanghai",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/hongyi-wen",
+      "text": "Wen Hongyi",
+      "internal": true
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1dyVC1uw3qoMR2AZpaHOit1NRAvFWKO84fuW3P32HlKk/edit?usp=sharing",
+      "text": "Guide",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 950,
+  "crawled_at": "2026-06-09T04:39:38+00:00",
+  "sequence": 1239
+}

@@ -1,0 +1,55 @@
+{
+  "id": "academics__faculty__directory__alejandro-ramirez-f84affb205",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/alejandro-ramirez",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/alejandro-ramirez",
+  "page_type": "academics",
+  "title": "Alejandro",
+  "description": "Alejandro Ramírez is the Area Head of Mathematics and a Professor of Mathematics at NYU Shanghai. He is also an Associated Professor at the Courant Institute of Mathematical Sciences at NYU. Prior to joining NYU Shanghai, Ramírez held an appointment as Professor at the Universidad Católica de Chile.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Alejandro Ramirez\nAlejandro Ramírez is the Area Head of Mathematics and a Professor of Mathematics at NYU Shanghai. He is also an Associated Professor at the Courant Institute of Mathematical Sciences at NYU. Prior to joining NYU Shanghai, Ramírez held an appointment as Professor at the Universidad Católica de Chile. At the beginning of his career, he held positions at École Polytechnique, Palaiseau, and École Polytechnique Fédérale de Lausanne. His research is centered in topics within probability theory. In particular, random walks, interacting particle systems and KPZ universality.\nEducation\nPhD, MathematicsNew York University, 1996\nProbability theory\nProbability theory",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Alejandro Ramirez"
+    },
+    {
+      "type": "p",
+      "text": "Alejandro Ramírez is the Area Head of Mathematics and a Professor of Mathematics at NYU Shanghai. He is also an Associated Professor at the Courant Institute of Mathematical Sciences at NYU. Prior to joining NYU Shanghai, Ramírez held an appointment as Professor at the Universidad Católica de Chile. At the beginning of his career, he held positions at École Polytechnique, Palaiseau, and École Polytechnique Fédérale de Lausanne. His research is centered in topics within probability theory. In particular, random walks, interacting particle systems and KPZ universality."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, MathematicsNew York University, 1996"
+    },
+    {
+      "type": "li",
+      "text": "Probability theory"
+    },
+    {
+      "type": "p",
+      "text": "Probability theory"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/professor_alejandro_ramirez_portrait-01.jpg",
+      "alt": "Alejandro Ramirez",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/professor_alejandro_ramirez_portrait-01-6f88ce28f7cf.jpg",
+      "download_status": "downloaded",
+      "bytes": 138067,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 98,
+  "crawled_at": "2026-06-09T04:32:35+00:00",
+  "sequence": 596
+}

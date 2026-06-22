@@ -1,0 +1,609 @@
+{
+  "id": "cn__stories__ye-jinran-25-when-design-becomes-interactive-08e490bd0b",
+  "url": "https://shanghai.nyu.edu/cn/stories/ye-jinran-25-when-design-becomes-interactive",
+  "canonical_url": "https://shanghai.nyu.edu/cn/stories/ye-jinran-25-when-design-becomes-interactive",
+  "page_type": "cn",
+  "title": "上纽大2025届毕业生叶进然：让AI落笔，把日常化作创意",
+  "description": "只要热爱在场，每一步，都算向前。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "上纽大2025届毕业生叶进然：让AI落笔，把日常化作创意\nTwitter\nFacebook\nWeibo\n4月中旬，前滩校园的图书馆、IMA Studio（交互媒体艺术工作室）和欢迎中心，正上演一场平行的相遇。\n走进展厅，一面投影墙映入眼帘。镜头捕捉到你的瞬间，墙上自动浮现两幅影像——上方，是AI生成的“你”；下方，是此刻真实的你。\n墙面“身处”上海，却连着另外两座城市——纽约和阿布扎比。当你注视屏幕时，也能看到正站在远方镜头前的陌生人。他们能看见你，也能看见“自己”。\n“Live Diffusion”在上纽图书馆展出 | 屏幕从左至右展示：上纽欢迎中心、纽约大学博斯特图书馆、上纽图书馆、上纽IMA Studio和纽约大学阿布扎比校园图书馆\n这个名为“Live Diffusion”（实时感绘）的沉浸式AI互动装置，由上海纽约大学大四学生叶进然和吴宸萱共同设计。\n作为“纽约大学人工智能学生作品全球联展”的开幕展项，它还是联展启动的契机，曾获纽大2024至2025年度“Goddard Impact Awards”（编者注：戈达德社会影响力奖）。\n一周后，装置亮相哈佛XR年度大会。\n左上：叶进然（左）和吴宸萱在“Live Diffusion”装置前合影；右上：“Live Diffusion”在IMA Studio展出；下图：二人参加联展开幕式，并向观众介绍“Live Diffusion”\n4月19日，叶进然在哈佛XR年度大会，展示“Live Diffusion”\n叶进然主修交互媒体艺术（IMA）、辅修计算机科学。把两个领域揉进一部作品，让想象被看见，是他一贯的表达方式。\n2025年夏，叶进然将从上纽本科毕业。之后，他会回到家乡武汉，入职小米，作为软件工程师投身网页前端开发。\n“纸上得来终觉浅”，比起继续深造，他更想进入职场，扎根真实的产品环境，打磨技能。\n对人生的第一份全职工作，他有期待。“​​现在，我们电脑上看到的大多数信息，其实都来自网页，连办公也越来越‘在线化’。我想，网页可能会成为一种未来趋势——简单、直接，还能被更多人触达。”\n“科技不该是冰冷的”，它应像春风，自然而然地吹进生活里。\n1. “我想看见科技的温度”\n2024年秋，“Live Diffusion”问世那天，叶进然迎来了人生中第一场“产品发布会”。兴奋地讲了一小时后，他邀请观众上台试用。\n2024年9月24日，叶进然向观众讲解“Live Diffusion”的运作原理，并演示如何使用\n一个个prompt（指令）输入系统，“赛博朋克”“宫崎骏”“乐高”……还有人给出“技术”“联结”等抽象词汇，看AI如何应对。\n名为《爱》的画作就此生成。AI无法复刻无形的情感，就省去具象细节，以撞色、几何图案拼出镜头捕捉的画面。那一刻，他觉得，“如果爱有形状，就该长那样。”\n脑洞，常常在使用中打开。\n大三暑假，正值中国建筑科技馆和西班牙高迪研究院联合办展，叶进然以志愿者身份参与筹备。曾在中建三局实习的他，提出开发一款AI装置，把观众上传的照片转为“高迪”画风，提升互动性。方案被采纳，“高迪视界”（Gaudí-Vision）随之诞生。\n2024年夏，叶进然在科技馆的“高迪视界”装置前\n这是他第一次面向公众制作交互作品。他常常跑进展厅，悄悄观察大家的反应。“我们本来建议上传建筑的照片，但大家更爱上传自拍，看自己变成‘高迪风’的房子，觉得特别好玩。”\n这个人人都能上手的装置，获评年度“最佳公益合作项目”。\n“有机会接触科技前沿，就该让它更易被理解和使用。要是我有这个能力，为什么不去做呢？”\n这个念头，萌芽于“创意编程实验室”（Creative Coding Lab）。叶进然不会画画，就写下一串代码，让电脑“画”出自己的想法。交互媒体艺术学艺术助理教授Leon Eckert说他是“第一个用电脑画画比手绘还好看的学生”。\n他想把这份乐趣传递给更多不会画画的人，便用网页语言搭建了“Beyond Ink-wash”（水墨之外）程序——鼠标划过之处，水墨氤氲，轻轻一点，便生成一幅独一无二的画。\n“Beyond Ink-wash”界面截图\n“人有惯性思维，会觉得事情就该如何如何，但科技没有。这反过来刺激我们去想，还有没有别的可能。”\n一年后，他又创作了“AI-Beaker”（实时融合器）。手机化身“烧杯”，扫描身边的物件，随意摇晃，图像便被融合、生成新物体。多名玩家还能联机，把图像“倒入”对方的“烧杯”，实现二次创作。\n当“合理性”被打碎，不合常理的惊喜也开始浮现。\n设计过程中，他有意将“人”置于技术之先——人是使用者，也是出发点。这不是临时起意，而是他早就养成的习惯。\n大二那年，叶进然参与了交互媒体艺术学艺术助理教授Rodolfo Cossovich的项目，探究如何用硬件编程（physical computing）帮助视听障碍者自行组装机器人。\n“很多机器人都默认使用者是身心健全的，这无形中把一些人排除在外了。”同窗恰巧读到一篇关于自闭症群体的文章，两人一拍即合，研究此类用户的社交需求和感知偏好，最终设计出一款毛茸茸的陪伴式机器人。\n左：陪伴式机器人的外观、手稿和内部构造；右：叶进然（左）与Rodolfo Cossovich教授\n“机器人是机器，也是‘人’。”科技，可以温柔一些，带点“人味”。\n2. 温和地坚持\n技术与人文的结合，能通向更广阔的未来。但前行的路上，总有太多声音——社会的、父母的、老师的、朋友的，也有自己的。\n儿时听过的《小马过河》，在成长中不断回响。“别人说合不合适，终究只是参考。真正的答案，得自己走一趟才知道。”武汉话里的“不信邪”，慢慢浸入性格，成为底色。\n初中时，父亲买了一台相机，燃起叶进然对摄影的兴趣，也让他好奇机器运作的原理；到了高中，看着舍友用树莓派（Raspberry Pi）做出的迷你主机，他直呼“太酷了”。\n科技不仅服务现实，还能创造新奇。他下定决心，自己无论如何都要在科技相关的领域闯一闯。\n高二那年，叶进然和同学组队参加“第19届中国青少年机器人竞赛”，拿下二等奖。其间，他一头扎进机器人的世界，用图形化编程与之“对话”。“代码是一种语言，也是一种表达方式。”\n左上：2019年8月，在颁奖典礼上，叶进然（右）与队友李承祥（左）和指导老师李吴松合影；右上：叶进然（右）与队友李承祥一起训练；下图：二人设计的机器人及其主要部件展示\n彼时，他刷到学长学姐分享的上纽生活，第一次感受中美教育的融合。“人生的乐趣，在于找到自己喜欢做的事。”不囿于标准答案、聆听内心声音的探索方式，是他向往的。\n父母工作繁忙，叶进然从小学起就住校。每天三小时的晚自习，他学着安排时间。买电脑、择校……人生中的大小抉择，父母多半会提供信息、抛出选项，引导他去思考和选择。\n上纽，是他第一次在择校上主动出击。上网疯狂查资料，向父母介绍这所大学——对他而言，家人的意见很重要，他也相信，只要有理有据，父母就会支持。\n左：2019年7月，正在读高中的叶进然赴美游学期间，随手拍下纽约大学；右：2023年9月，叶进然在纽约交流学习期间，以相同视角按下快门。曾经镜头里的画面，如今成为现实的起点\n一次次说服与被说服中，他学会了“以理服人”。这种沟通方式，延续至今。\n做AI交互装置时，叶进然提出，在键盘输入之外，加入旋钮和传感器调参。连指导老师Leon Eckert教授一开始也不解：“什么使用场景，非它不可？”\n实用之外，是他对科技的畅想。“重点不在于用什么输入，而是打破‘只能这样’的思维惯性。”输入方式不应该只是鼠标和键盘，还可以是旋钮、麦克风、温度传感器，或感知外界的任何介质。“增设旋钮，不是为了‘更方便’，而是让人看到‘原来还能这样’。”\n——“旋钮出现在这个装置上，本身就具有意义。”\n“Live Diffusion”的旋钮和传感器\n“我无法呈现所有可能，但能打开一个角度。若有人因此看见，并愿意往前走一步，那就足够了。”\n这种坚持，源自热爱，他甘愿“把夜熬穿”。比起走在“对”的路上，他更在意这条路自己是否喜欢。\n大四上学期，叶进然结合专业知识与网络教程，亲手焊接、组装、编程，给家里做了一台机顶盒。那是一次安静的callback，回应高中寝室里那个看着迷你主机、满眼惊叹的自己——他最终成为“当时羡慕的样子”。\n“人生不是只奔着结果去的，它更像微积分——每一刻的感受，好的坏的，慢慢累积，才能拼出完整的轨迹。”\n他不想过那种“一眼望到头”的生活。若此刻就能预见五十年后的模样，人生也就“少了许多可能”。\n“我无法预知未来，也不想这么做。我只知道，无论身在何处，我都会做着自己喜欢的事。”而在那之前，他想多留一点时间，给父母。\n四年走走停停，他又回到了家门口。下一程，就从这里出发。\n3. 在日常中，看见“非常”\n毕业设计的构思阶段，叶进然迎来了另一个callback。\n他偶然发现，好友们刷到的社媒内容天差地别。那背后，是算法无声的干预。\n这让他想起获取信息还需依赖父母的小时候——那时他以为自己在选择，如今回看，那种“选择”并不属于自己。\n他决定设计一个交互平台，模拟算法的“视角”，可视化信息筛选的过程，希望提醒社媒用户：你看到的，不等于全部。\n“当你不断被推送类似的内容、看到相似的评论，就容易认为，世界就是这个样子，大家都和你想得一样。慢慢地，就会生出偏见。这种偏见，可能不是你选的，是算法替你选的。”\n对信息系统、社会结构和文化脉络，他一向敏感。\n在艺术史副教授左拉拉和交互媒体艺术学教学助理教授张星晨共同执教的“混合现实与文化遗产”（Mixed Reality and Cultural Heritage），叶进然和小组成员用增强现实（AR）技术，还原已消失的上海划船俱乐部旧址。\n他们翻阅大量史料，不仅“重建”建筑，还串联起划船运动在中国的演变轨迹，呼应上海的城市记忆。\n时间轴上的场景切换，更像是往地图里藏入过去——观众滑动屏幕，历史就顺着指尖流淌出来。\n今年4月，该项目在上纽“数字时代文化遗产”研讨会上展出，为历史叙事提供新的技术语言。\n研讨会上，叶进然带来项目展示\n与左拉拉教授的交流，也促成一桩技术的“相遇”。教授正探索用文生图工具Stable Diffusion辅助考古绘图，路径与叶进然的“Live Diffusion”装置重合。他接受教授抛出的橄榄枝，加入上纽文化遗产数字化实验室，负责技术实现，同时对接数据科学实践副教授郭丽，获取跨领域支持。\n技术之外，他还解决了“怎么让彼此听懂”的问题——快速理解学术需求，转译成工程语言，再用对方熟悉的方式讲清楚。\n这种能力，在“Live Diffusion”时期便已显现。项目指导老师、交互媒体艺术学艺术助理教授Jung Hyun Moon的office hour（答疑时间）常常开到零点，偶尔会碰见还在教学楼埋头用功的叶进然。聊起进展，他总是从容有序、言简意赅，仿佛随时准备好为团队梳理方向。\n左：2024年11月，在上纽秋季本科生科研专题研讨会上，叶进然（左）、吴宸萱（右）和Jung Hyun Moon教授合影；右：2023年5月，“Beyond Ink-wash”项目演示后，叶进然（左）与Jung Hyun Moon教授合影\n那份清晰，也渗入项目细节，使每一次迭代更有章法。\nMoon教授力荐，叶进然和吴宸萱悉心打磨——5月中旬，“Live Diffusion”将在上海教育博览会的上纽展位，迎来新一波观众。\n与此同时，他还将和三位同学一起，代表上纽，出征“迪士尼幻想工程上海挑战赛”决赛。\n作为上纽首支闯入终轮的队伍，四人将借AR之手，为地铁通勤注入奇思妙想——哪怕只是匆匆一站，也能趣味盎然。\n叶进然（右二）和他的队友们\n对每一次出行的关注，始于童年。福建老家的房子，沿着铁路，火车一过，他便会跑出去看看。\n六七岁时，他模仿汽车设计师，拆结构、辨车型，幻想中控是一块集万象的大屏。\n后来，他拥有一本“飞行日志”，每次搭乘航班，都会请机长留言，并回赠飞机模型书签——有人画下航司标志，有人用母语写祝福，也有人邀请他参观驾驶舱。\n左上：“飞行日志”内页；右上：收藏登机牌；左下：驾驶舱内，叶进然（中）与机长合影；右下：在专业飞行教练的指导下，叶进然体验了飞机驾驶操作\n儿时的“中控大屏”，现已走向量产；而他，也在专业指导下，手握操纵杆，轻触飞行的梦。\n“进然”二字，出自曾祖父，意为“进步的样子”。他说他很喜欢这个名字——\n只要热爱在场，每一步，都算向前。",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "上纽大2025届毕业生叶进然：让AI落笔，把日常化作创意"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "4月中旬，前滩校园的图书馆、IMA Studio（交互媒体艺术工作室）和欢迎中心，正上演一场平行的相遇。"
+    },
+    {
+      "type": "p",
+      "text": "走进展厅，一面投影墙映入眼帘。镜头捕捉到你的瞬间，墙上自动浮现两幅影像——上方，是AI生成的“你”；下方，是此刻真实的你。"
+    },
+    {
+      "type": "p",
+      "text": "墙面“身处”上海，却连着另外两座城市——纽约和阿布扎比。当你注视屏幕时，也能看到正站在远方镜头前的陌生人。他们能看见你，也能看见“自己”。"
+    },
+    {
+      "type": "figcaption",
+      "text": "“Live Diffusion”在上纽图书馆展出 | 屏幕从左至右展示：上纽欢迎中心、纽约大学博斯特图书馆、上纽图书馆、上纽IMA Studio和纽约大学阿布扎比校园图书馆"
+    },
+    {
+      "type": "p",
+      "text": "这个名为“Live Diffusion”（实时感绘）的沉浸式AI互动装置，由上海纽约大学大四学生叶进然和吴宸萱共同设计。"
+    },
+    {
+      "type": "p",
+      "text": "作为“纽约大学人工智能学生作品全球联展”的开幕展项，它还是联展启动的契机，曾获纽大2024至2025年度“Goddard Impact Awards”（编者注：戈达德社会影响力奖）。"
+    },
+    {
+      "type": "p",
+      "text": "一周后，装置亮相哈佛XR年度大会。"
+    },
+    {
+      "type": "figcaption",
+      "text": "左上：叶进然（左）和吴宸萱在“Live Diffusion”装置前合影；右上：“Live Diffusion”在IMA Studio展出；下图：二人参加联展开幕式，并向观众介绍“Live Diffusion”"
+    },
+    {
+      "type": "figcaption",
+      "text": "4月19日，叶进然在哈佛XR年度大会，展示“Live Diffusion”"
+    },
+    {
+      "type": "p",
+      "text": "叶进然主修交互媒体艺术（IMA）、辅修计算机科学。把两个领域揉进一部作品，让想象被看见，是他一贯的表达方式。"
+    },
+    {
+      "type": "p",
+      "text": "2025年夏，叶进然将从上纽本科毕业。之后，他会回到家乡武汉，入职小米，作为软件工程师投身网页前端开发。"
+    },
+    {
+      "type": "p",
+      "text": "“纸上得来终觉浅”，比起继续深造，他更想进入职场，扎根真实的产品环境，打磨技能。"
+    },
+    {
+      "type": "p",
+      "text": "对人生的第一份全职工作，他有期待。“​​现在，我们电脑上看到的大多数信息，其实都来自网页，连办公也越来越‘在线化’。我想，网页可能会成为一种未来趋势——简单、直接，还能被更多人触达。”"
+    },
+    {
+      "type": "p",
+      "text": "“科技不该是冰冷的”，它应像春风，自然而然地吹进生活里。"
+    },
+    {
+      "type": "h4",
+      "text": "1. “我想看见科技的温度”"
+    },
+    {
+      "type": "p",
+      "text": "2024年秋，“Live Diffusion”问世那天，叶进然迎来了人生中第一场“产品发布会”。兴奋地讲了一小时后，他邀请观众上台试用。"
+    },
+    {
+      "type": "figcaption",
+      "text": "2024年9月24日，叶进然向观众讲解“Live Diffusion”的运作原理，并演示如何使用"
+    },
+    {
+      "type": "p",
+      "text": "一个个prompt（指令）输入系统，“赛博朋克”“宫崎骏”“乐高”……还有人给出“技术”“联结”等抽象词汇，看AI如何应对。"
+    },
+    {
+      "type": "p",
+      "text": "名为《爱》的画作就此生成。AI无法复刻无形的情感，就省去具象细节，以撞色、几何图案拼出镜头捕捉的画面。那一刻，他觉得，“如果爱有形状，就该长那样。”"
+    },
+    {
+      "type": "p",
+      "text": "脑洞，常常在使用中打开。"
+    },
+    {
+      "type": "p",
+      "text": "大三暑假，正值中国建筑科技馆和西班牙高迪研究院联合办展，叶进然以志愿者身份参与筹备。曾在中建三局实习的他，提出开发一款AI装置，把观众上传的照片转为“高迪”画风，提升互动性。方案被采纳，“高迪视界”（Gaudí-Vision）随之诞生。"
+    },
+    {
+      "type": "figcaption",
+      "text": "2024年夏，叶进然在科技馆的“高迪视界”装置前"
+    },
+    {
+      "type": "p",
+      "text": "这是他第一次面向公众制作交互作品。他常常跑进展厅，悄悄观察大家的反应。“我们本来建议上传建筑的照片，但大家更爱上传自拍，看自己变成‘高迪风’的房子，觉得特别好玩。”"
+    },
+    {
+      "type": "p",
+      "text": "这个人人都能上手的装置，获评年度“最佳公益合作项目”。"
+    },
+    {
+      "type": "p",
+      "text": "“有机会接触科技前沿，就该让它更易被理解和使用。要是我有这个能力，为什么不去做呢？”"
+    },
+    {
+      "type": "p",
+      "text": "这个念头，萌芽于“创意编程实验室”（Creative Coding Lab）。叶进然不会画画，就写下一串代码，让电脑“画”出自己的想法。交互媒体艺术学艺术助理教授Leon Eckert说他是“第一个用电脑画画比手绘还好看的学生”。"
+    },
+    {
+      "type": "p",
+      "text": "他想把这份乐趣传递给更多不会画画的人，便用网页语言搭建了“Beyond Ink-wash”（水墨之外）程序——鼠标划过之处，水墨氤氲，轻轻一点，便生成一幅独一无二的画。"
+    },
+    {
+      "type": "figcaption",
+      "text": "“Beyond Ink-wash”界面截图"
+    },
+    {
+      "type": "p",
+      "text": "“人有惯性思维，会觉得事情就该如何如何，但科技没有。这反过来刺激我们去想，还有没有别的可能。”"
+    },
+    {
+      "type": "p",
+      "text": "一年后，他又创作了“AI-Beaker”（实时融合器）。手机化身“烧杯”，扫描身边的物件，随意摇晃，图像便被融合、生成新物体。多名玩家还能联机，把图像“倒入”对方的“烧杯”，实现二次创作。"
+    },
+    {
+      "type": "p",
+      "text": "当“合理性”被打碎，不合常理的惊喜也开始浮现。"
+    },
+    {
+      "type": "p",
+      "text": "设计过程中，他有意将“人”置于技术之先——人是使用者，也是出发点。这不是临时起意，而是他早就养成的习惯。"
+    },
+    {
+      "type": "p",
+      "text": "大二那年，叶进然参与了交互媒体艺术学艺术助理教授Rodolfo Cossovich的项目，探究如何用硬件编程（physical computing）帮助视听障碍者自行组装机器人。"
+    },
+    {
+      "type": "p",
+      "text": "“很多机器人都默认使用者是身心健全的，这无形中把一些人排除在外了。”同窗恰巧读到一篇关于自闭症群体的文章，两人一拍即合，研究此类用户的社交需求和感知偏好，最终设计出一款毛茸茸的陪伴式机器人。"
+    },
+    {
+      "type": "figcaption",
+      "text": "左：陪伴式机器人的外观、手稿和内部构造；右：叶进然（左）与Rodolfo Cossovich教授"
+    },
+    {
+      "type": "p",
+      "text": "“机器人是机器，也是‘人’。”科技，可以温柔一些，带点“人味”。"
+    },
+    {
+      "type": "h4",
+      "text": "2. 温和地坚持"
+    },
+    {
+      "type": "p",
+      "text": "技术与人文的结合，能通向更广阔的未来。但前行的路上，总有太多声音——社会的、父母的、老师的、朋友的，也有自己的。"
+    },
+    {
+      "type": "p",
+      "text": "儿时听过的《小马过河》，在成长中不断回响。“别人说合不合适，终究只是参考。真正的答案，得自己走一趟才知道。”武汉话里的“不信邪”，慢慢浸入性格，成为底色。"
+    },
+    {
+      "type": "p",
+      "text": "初中时，父亲买了一台相机，燃起叶进然对摄影的兴趣，也让他好奇机器运作的原理；到了高中，看着舍友用树莓派（Raspberry Pi）做出的迷你主机，他直呼“太酷了”。"
+    },
+    {
+      "type": "p",
+      "text": "科技不仅服务现实，还能创造新奇。他下定决心，自己无论如何都要在科技相关的领域闯一闯。"
+    },
+    {
+      "type": "p",
+      "text": "高二那年，叶进然和同学组队参加“第19届中国青少年机器人竞赛”，拿下二等奖。其间，他一头扎进机器人的世界，用图形化编程与之“对话”。“代码是一种语言，也是一种表达方式。”"
+    },
+    {
+      "type": "figcaption",
+      "text": "左上：2019年8月，在颁奖典礼上，叶进然（右）与队友李承祥（左）和指导老师李吴松合影；右上：叶进然（右）与队友李承祥一起训练；下图：二人设计的机器人及其主要部件展示"
+    },
+    {
+      "type": "p",
+      "text": "彼时，他刷到学长学姐分享的上纽生活，第一次感受中美教育的融合。“人生的乐趣，在于找到自己喜欢做的事。”不囿于标准答案、聆听内心声音的探索方式，是他向往的。"
+    },
+    {
+      "type": "p",
+      "text": "父母工作繁忙，叶进然从小学起就住校。每天三小时的晚自习，他学着安排时间。买电脑、择校……人生中的大小抉择，父母多半会提供信息、抛出选项，引导他去思考和选择。"
+    },
+    {
+      "type": "p",
+      "text": "上纽，是他第一次在择校上主动出击。上网疯狂查资料，向父母介绍这所大学——对他而言，家人的意见很重要，他也相信，只要有理有据，父母就会支持。"
+    },
+    {
+      "type": "figcaption",
+      "text": "左：2019年7月，正在读高中的叶进然赴美游学期间，随手拍下纽约大学；右：2023年9月，叶进然在纽约交流学习期间，以相同视角按下快门。曾经镜头里的画面，如今成为现实的起点"
+    },
+    {
+      "type": "p",
+      "text": "一次次说服与被说服中，他学会了“以理服人”。这种沟通方式，延续至今。"
+    },
+    {
+      "type": "p",
+      "text": "做AI交互装置时，叶进然提出，在键盘输入之外，加入旋钮和传感器调参。连指导老师Leon Eckert教授一开始也不解：“什么使用场景，非它不可？”"
+    },
+    {
+      "type": "p",
+      "text": "实用之外，是他对科技的畅想。“重点不在于用什么输入，而是打破‘只能这样’的思维惯性。”输入方式不应该只是鼠标和键盘，还可以是旋钮、麦克风、温度传感器，或感知外界的任何介质。“增设旋钮，不是为了‘更方便’，而是让人看到‘原来还能这样’。”"
+    },
+    {
+      "type": "p",
+      "text": "——“旋钮出现在这个装置上，本身就具有意义。”"
+    },
+    {
+      "type": "figcaption",
+      "text": "“Live Diffusion”的旋钮和传感器"
+    },
+    {
+      "type": "p",
+      "text": "“我无法呈现所有可能，但能打开一个角度。若有人因此看见，并愿意往前走一步，那就足够了。”"
+    },
+    {
+      "type": "p",
+      "text": "这种坚持，源自热爱，他甘愿“把夜熬穿”。比起走在“对”的路上，他更在意这条路自己是否喜欢。"
+    },
+    {
+      "type": "p",
+      "text": "大四上学期，叶进然结合专业知识与网络教程，亲手焊接、组装、编程，给家里做了一台机顶盒。那是一次安静的callback，回应高中寝室里那个看着迷你主机、满眼惊叹的自己——他最终成为“当时羡慕的样子”。"
+    },
+    {
+      "type": "p",
+      "text": "“人生不是只奔着结果去的，它更像微积分——每一刻的感受，好的坏的，慢慢累积，才能拼出完整的轨迹。”"
+    },
+    {
+      "type": "p",
+      "text": "他不想过那种“一眼望到头”的生活。若此刻就能预见五十年后的模样，人生也就“少了许多可能”。"
+    },
+    {
+      "type": "p",
+      "text": "“我无法预知未来，也不想这么做。我只知道，无论身在何处，我都会做着自己喜欢的事。”而在那之前，他想多留一点时间，给父母。"
+    },
+    {
+      "type": "p",
+      "text": "四年走走停停，他又回到了家门口。下一程，就从这里出发。"
+    },
+    {
+      "type": "h4",
+      "text": "3. 在日常中，看见“非常”"
+    },
+    {
+      "type": "p",
+      "text": "毕业设计的构思阶段，叶进然迎来了另一个callback。"
+    },
+    {
+      "type": "p",
+      "text": "他偶然发现，好友们刷到的社媒内容天差地别。那背后，是算法无声的干预。"
+    },
+    {
+      "type": "p",
+      "text": "这让他想起获取信息还需依赖父母的小时候——那时他以为自己在选择，如今回看，那种“选择”并不属于自己。"
+    },
+    {
+      "type": "p",
+      "text": "他决定设计一个交互平台，模拟算法的“视角”，可视化信息筛选的过程，希望提醒社媒用户：你看到的，不等于全部。"
+    },
+    {
+      "type": "p",
+      "text": "“当你不断被推送类似的内容、看到相似的评论，就容易认为，世界就是这个样子，大家都和你想得一样。慢慢地，就会生出偏见。这种偏见，可能不是你选的，是算法替你选的。”"
+    },
+    {
+      "type": "p",
+      "text": "对信息系统、社会结构和文化脉络，他一向敏感。"
+    },
+    {
+      "type": "p",
+      "text": "在艺术史副教授左拉拉和交互媒体艺术学教学助理教授张星晨共同执教的“混合现实与文化遗产”（Mixed Reality and Cultural Heritage），叶进然和小组成员用增强现实（AR）技术，还原已消失的上海划船俱乐部旧址。"
+    },
+    {
+      "type": "p",
+      "text": "他们翻阅大量史料，不仅“重建”建筑，还串联起划船运动在中国的演变轨迹，呼应上海的城市记忆。"
+    },
+    {
+      "type": "p",
+      "text": "时间轴上的场景切换，更像是往地图里藏入过去——观众滑动屏幕，历史就顺着指尖流淌出来。"
+    },
+    {
+      "type": "p",
+      "text": "今年4月，该项目在上纽“数字时代文化遗产”研讨会上展出，为历史叙事提供新的技术语言。"
+    },
+    {
+      "type": "figcaption",
+      "text": "研讨会上，叶进然带来项目展示"
+    },
+    {
+      "type": "p",
+      "text": "与左拉拉教授的交流，也促成一桩技术的“相遇”。教授正探索用文生图工具Stable Diffusion辅助考古绘图，路径与叶进然的“Live Diffusion”装置重合。他接受教授抛出的橄榄枝，加入上纽文化遗产数字化实验室，负责技术实现，同时对接数据科学实践副教授郭丽，获取跨领域支持。"
+    },
+    {
+      "type": "p",
+      "text": "技术之外，他还解决了“怎么让彼此听懂”的问题——快速理解学术需求，转译成工程语言，再用对方熟悉的方式讲清楚。"
+    },
+    {
+      "type": "p",
+      "text": "这种能力，在“Live Diffusion”时期便已显现。项目指导老师、交互媒体艺术学艺术助理教授Jung Hyun Moon的office hour（答疑时间）常常开到零点，偶尔会碰见还在教学楼埋头用功的叶进然。聊起进展，他总是从容有序、言简意赅，仿佛随时准备好为团队梳理方向。"
+    },
+    {
+      "type": "figcaption",
+      "text": "左：2024年11月，在上纽秋季本科生科研专题研讨会上，叶进然（左）、吴宸萱（右）和Jung Hyun Moon教授合影；右：2023年5月，“Beyond Ink-wash”项目演示后，叶进然（左）与Jung Hyun Moon教授合影"
+    },
+    {
+      "type": "p",
+      "text": "那份清晰，也渗入项目细节，使每一次迭代更有章法。"
+    },
+    {
+      "type": "p",
+      "text": "Moon教授力荐，叶进然和吴宸萱悉心打磨——5月中旬，“Live Diffusion”将在上海教育博览会的上纽展位，迎来新一波观众。"
+    },
+    {
+      "type": "p",
+      "text": "与此同时，他还将和三位同学一起，代表上纽，出征“迪士尼幻想工程上海挑战赛”决赛。"
+    },
+    {
+      "type": "p",
+      "text": "作为上纽首支闯入终轮的队伍，四人将借AR之手，为地铁通勤注入奇思妙想——哪怕只是匆匆一站，也能趣味盎然。"
+    },
+    {
+      "type": "figcaption",
+      "text": "叶进然（右二）和他的队友们"
+    },
+    {
+      "type": "p",
+      "text": "对每一次出行的关注，始于童年。福建老家的房子，沿着铁路，火车一过，他便会跑出去看看。"
+    },
+    {
+      "type": "p",
+      "text": "六七岁时，他模仿汽车设计师，拆结构、辨车型，幻想中控是一块集万象的大屏。"
+    },
+    {
+      "type": "p",
+      "text": "后来，他拥有一本“飞行日志”，每次搭乘航班，都会请机长留言，并回赠飞机模型书签——有人画下航司标志，有人用母语写祝福，也有人邀请他参观驾驶舱。"
+    },
+    {
+      "type": "figcaption",
+      "text": "左上：“飞行日志”内页；右上：收藏登机牌；左下：驾驶舱内，叶进然（中）与机长合影；右下：在专业飞行教练的指导下，叶进然体验了飞机驾驶操作"
+    },
+    {
+      "type": "p",
+      "text": "儿时的“中控大屏”，现已走向量产；而他，也在专业指导下，手握操纵杆，轻触飞行的梦。"
+    },
+    {
+      "type": "p",
+      "text": "“进然”二字，出自曾祖父，意为“进步的样子”。他说他很喜欢这个名字——"
+    },
+    {
+      "type": "p",
+      "text": "只要热爱在场，每一步，都算向前。"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/story",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/story/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/story/Senior%20Spotlight%20-%20Ye%20Jinran%20%E2%80%9925-01.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Senior-20Spotlight-20-20Ye-20Jinran-20-E2-80-9925-01-33875bbcf380.jpg",
+      "download_status": "downloaded",
+      "bytes": 736297,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Andy_Live.jpg",
+      "alt": "1",
+      "caption": "“Live Diffusion”在上纽图书馆展出 | 屏幕从左至右展示：上纽欢迎中心、纽约大学博斯特图书馆、上纽图书馆、上纽IMA Studio和纽约大学阿布扎比校园图书馆",
+      "source": "img",
+      "local_path": "_shared/Andy_Live-ef491eb652ce.jpg",
+      "download_status": "downloaded",
+      "bytes": 1367079,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Senior%20Spotlight%20-%20Ye%20Jinran%20%E2%80%9925-08_1.jpg",
+      "alt": "2",
+      "caption": "左上：叶进然（左）和吴宸萱在“Live Diffusion”装置前合影；右上：“Live Diffusion”在IMA Studio展出；下图：二人参加联展开幕式，并向观众介绍“Live Diffusion”",
+      "source": "img",
+      "local_path": "_shared/Senior-20Spotlight-20-20Ye-20Jinran-20-E2-80-9925-08-b9a52d529b4d.jpg",
+      "download_status": "downloaded",
+      "bytes": 936093,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Andy_Harvad.jpg",
+      "alt": "3",
+      "caption": "4月19日，叶进然在哈佛XR年度大会，展示“Live Diffusion”",
+      "source": "img",
+      "local_path": "_shared/Andy_Harvad-abd04658b115.jpg",
+      "download_status": "downloaded",
+      "bytes": 1429074,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/WechatIMG1070.jpeg",
+      "alt": "4",
+      "caption": "2024年9月24日，叶进然向观众讲解“Live Diffusion”的运作原理，并演示如何使用",
+      "source": "img",
+      "local_path": "_shared/WechatIMG1070-e1ba540a5c65.jpeg",
+      "download_status": "downloaded",
+      "bytes": 51704,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Senior%20Spotlight%20-%20Ye%20Jinran%20%E2%80%9925-13_0.jpg",
+      "alt": "5",
+      "caption": "2024年夏，叶进然在科技馆的“高迪视界”装置前",
+      "source": "img",
+      "local_path": "_shared/Senior-20Spotlight-20-20Ye-20Jinran-20-E2-80-9925-13-5407aba98738.jpg",
+      "download_status": "downloaded",
+      "bytes": 906246,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/image.png",
+      "alt": "6",
+      "caption": "“Beyond Ink-wash”界面截图",
+      "source": "img",
+      "local_path": "_shared/image-e83550b55371.png",
+      "download_status": "downloaded",
+      "bytes": 169157,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/WechatIMG1074.jpeg",
+      "alt": "7",
+      "caption": "左：陪伴式机器人的外观、手稿和内部构造；右：叶进然（左）与Rodolfo Cossovich教授",
+      "source": "img",
+      "local_path": "_shared/WechatIMG1074-f3471837918e.jpeg",
+      "download_status": "downloaded",
+      "bytes": 42339,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Senior%20Spotlight%20-%20Ye%20Jinran%20%E2%80%9925-04_0.jpg",
+      "alt": "1",
+      "caption": "左上：2019年8月，在颁奖典礼上，叶进然（右）与队友李承祥（左）和指导老师李吴松合影；右上：叶进然（右）与队友李承祥一起训练；下图：二人设计的机器人及其主要部件展示",
+      "source": "img",
+      "local_path": "_shared/Senior-20Spotlight-20-20Ye-20Jinran-20-E2-80-9925-04-dde2dcbb25c4.jpg",
+      "download_status": "downloaded",
+      "bytes": 1152957,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/WechatIMG1071.jpeg",
+      "alt": "8",
+      "caption": "左：2019年7月，正在读高中的叶进然赴美游学期间，随手拍下纽约大学；右：2023年9月，叶进然在纽约交流学习期间，以相同视角按下快门。曾经镜头里的画面，如今成为现实的起点",
+      "source": "img",
+      "local_path": "_shared/WechatIMG1071-cb3d73f84ced.jpeg",
+      "download_status": "downloaded",
+      "bytes": 64484,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/controller.jpg",
+      "alt": "7",
+      "caption": "“Live Diffusion”的旋钮和传感器",
+      "source": "img",
+      "local_path": "",
+      "download_status": "skipped_too_large",
+      "bytes": 4169103,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/image%20%281%29.png",
+      "alt": "8",
+      "caption": "研讨会上，叶进然带来项目展示",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/image%20%281%29.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/WechatIMG1072.jpeg",
+      "alt": "9",
+      "caption": "左：2024年11月，在上纽秋季本科生科研专题研讨会上，叶进然（左）、吴宸萱（右）和Jung Hyun Moon教授合影；右：2023年5月，“Beyond Ink-wash”项目演示后，叶进然（左）与Jung Hyun Moon教授合影",
+      "source": "img",
+      "local_path": "_shared/WechatIMG1072-955eecfd03ae.jpeg",
+      "download_status": "downloaded",
+      "bytes": 46038,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Senior%20Spotlight%20-%20Ye%20Jinran%20%E2%80%9925-11.jpg",
+      "alt": "7",
+      "caption": "叶进然（右二）和他的队友们",
+      "source": "img",
+      "local_path": "_shared/Senior-20Spotlight-20-20Ye-20Jinran-20-E2-80-9925-11-256233c0701e.jpg",
+      "download_status": "downloaded",
+      "bytes": 832714,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/WechatIMG1073.jpeg",
+      "alt": "10",
+      "caption": "左上：“飞行日志”内页；右上：收藏登机牌；左下：驾驶舱内，叶进然（中）与机长合影；右下：在专业飞行教练的指导下，叶进然体验了飞机驾驶操作",
+      "source": "img",
+      "local_path": "_shared/WechatIMG1073-c8307ca9c43e.jpeg",
+      "download_status": "downloaded",
+      "bytes": 118232,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=%E4%B8%8A%E7%BA%BD%E5%A4%A72025%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E5%8F%B6%E8%BF%9B%E7%84%B6%EF%BC%9A%E8%AE%A9AI%E8%90%BD%E7%AC%94%EF%BC%8C%E6%8A%8A%E6%97%A5%E5%B8%B8%E5%8C%96%E4%BD%9C%E5%88%9B%E6%84%8F&url=https%3A//shanghai.nyu.edu/cn/stories/ye-jinran-25-when-design-becomes-interactive&status=%E4%B8%8A%E7%BA%BD%E5%A4%A72025%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E5%8F%B6%E8%BF%9B%E7%84%B6%EF%BC%9A%E8%AE%A9AI%E8%90%BD%E7%AC%94%EF%BC%8C%E6%8A%8A%E6%97%A5%E5%B8%B8%E5%8C%96%E4%BD%9C%E5%88%9B%E6%84%8F%20https%3A//shanghai.nyu.edu/cn/stories/ye-jinran-25-when-design-becomes-interactive",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/cn/stories/ye-jinran-25-when-design-becomes-interactive&title=%E4%B8%8A%E7%BA%BD%E5%A4%A72025%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E5%8F%B6%E8%BF%9B%E7%84%B6%EF%BC%9A%E8%AE%A9AI%E8%90%BD%E7%AC%94%EF%BC%8C%E6%8A%8A%E6%97%A5%E5%B8%B8%E5%8C%96%E4%BD%9C%E5%88%9B%E6%84%8F",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/cn/stories/ye-jinran-25-when-design-becomes-interactive&title=%E4%B8%8A%E7%BA%BD%E5%A4%A72025%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E5%8F%B6%E8%BF%9B%E7%84%B6%EF%BC%9A%E8%AE%A9AI%E8%90%BD%E7%AC%94%EF%BC%8C%E6%8A%8A%E6%97%A5%E5%B8%B8%E5%8C%96%E4%BD%9C%E5%88%9B%E6%84%8F",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://nyuglobal.show/homepage/index.html",
+      "text": "纽约大学人工智能学生作品全球联展",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/cross-cutting-initiatives/goddard-impact-awards.html",
+      "text": "Goddard Impact Awards",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/leon-eckert",
+      "text": "Leon Eckert",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/rodolfo-cossovich",
+      "text": "Rodolfo Cossovich",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/zuo-la-la-lala-zuo",
+      "text": "左拉拉",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/zhang-xing-chen-xingchen-zhang",
+      "text": "张星晨",
+      "internal": true
+    },
+    {
+      "url": "https://www.dhl.shanghai.nyu.edu/symposium-on-heritage-in-the-digital-age",
+      "text": "数字时代文化遗产",
+      "internal": false
+    },
+    {
+      "url": "https://www.dhl.shanghai.nyu.edu/",
+      "text": "文化遗产数字化实验室",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/guo-li-li-guo",
+      "text": "郭丽",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/jung-hyun-moon",
+      "text": "Jung Hyun Moon",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 654,
+  "crawled_at": "2026-06-09T04:48:00+00:00",
+  "sequence": 1908
+}

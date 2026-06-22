@@ -1,0 +1,110 @@
+{
+  "id": "academics__minors__social-science-73e2bf2c9e",
+  "url": "https://shanghai.nyu.edu/academics/minors/social-science",
+  "canonical_url": "https://shanghai.nyu.edu/academics/minors/social-science",
+  "page_type": "academics",
+  "title": "Social Science",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Social Science\nSocial scientists study human interactions among individuals, families, communities, and nations. Using a range of analytical, interpretive, and experimental tools from anthropology, economics, sociology, political science, and psychology, social scientists seek to understand conflict and cooperation, epidemics of disease and poverty, social organization and social change, kinship and belonging, human development, systems of exchange, and other enduring questions at the center of our shared humanity.\nRequirements for the Minor\nChoose Any Three Courses from the Following Categories:\nSocial Science Foundational Course\nSocial Science Core Course\nSocial Science Focus Course\n(e.g. You can choose three focus courses or any type of combination of these three categories).\nFaculty Mentors\nFaculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory.\nSocial Science Area Head, Visiting Associate Professor of Psychology\nSocial Science Undergraduate Coordinator, Associate Professor of Practice in Political Science",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Social Science"
+    },
+    {
+      "type": "p",
+      "text": "Social scientists study human interactions among individuals, families, communities, and nations. Using a range of analytical, interpretive, and experimental tools from anthropology, economics, sociology, political science, and psychology, social scientists seek to understand conflict and cooperation, epidemics of disease and poverty, social organization and social change, kinship and belonging, human development, systems of exchange, and other enduring questions at the center of our shared humanity."
+    },
+    {
+      "type": "h3",
+      "text": "Requirements for the Minor"
+    },
+    {
+      "type": "p",
+      "text": "Choose Any Three Courses from the Following Categories:"
+    },
+    {
+      "type": "li",
+      "text": "Social Science Foundational Course"
+    },
+    {
+      "type": "li",
+      "text": "Social Science Core Course"
+    },
+    {
+      "type": "li",
+      "text": "Social Science Focus Course"
+    },
+    {
+      "type": "p",
+      "text": "(e.g. You can choose three focus courses or any type of combination of these three categories)."
+    },
+    {
+      "type": "h3",
+      "text": "Faculty Mentors"
+    },
+    {
+      "type": "p",
+      "text": "Faculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory."
+    },
+    {
+      "type": "p",
+      "text": "Social Science Area Head, Visiting Associate Professor of Psychology"
+    },
+    {
+      "type": "p",
+      "text": "Social Science Undergraduate Coordinator, Associate Professor of Practice in Political Science"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/katie_aafjes-van_doorn_.jpg",
+      "alt": "Katie Aafjes-van Doorn",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/katie_aafjes-van_doorn-04b4332686c2.jpg",
+      "download_status": "downloaded",
+      "bytes": 156254,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/ivan_rasmussen.jpeg",
+      "alt": "Ivan Willis Rasmussen",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ivan_rasmussen-fc7c4654976c.jpeg",
+      "download_status": "downloaded",
+      "bytes": 63555,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/posting-minor",
+      "text": "Post a Minor",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory",
+      "text": "faculty directory",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/katie-aafjes-van-doorn",
+      "text": "Katie Aafjes-van Doorn",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/ivan-rasmussen",
+      "text": "Ivan Willis Rasmussen",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 185,
+  "crawled_at": "2026-06-09T04:41:35+00:00",
+  "sequence": 1395
+}

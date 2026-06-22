@@ -1,0 +1,672 @@
+{
+  "id": "cn__academics__faculty-directory-d130c6a5a9",
+  "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty-directory",
+  "page_type": "cn",
+  "title": "教师目录 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "教师目录\n按职务类别\nAll Ranks\n全职师资\n纽约大学联聘教授\n访问教授\n兼职教授\n荣誉职务\n科研教辅人员\n荣休教授\n按学术领域\n艺术学\n生物学\n商学\n化学\n中文\n计算机科学\n数据科学\n经济学\n工程学\n学术英语\n全球中国学\n全球视野下的社会\n综合人文\n交互媒体艺术\n交互媒体与商学\n法学\n数学\n神经科学\n物理学\n社会科学\n社会工作\n英语教育\n世界语言\n写作",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "教师目录"
+    },
+    {
+      "type": "p",
+      "text": "按职务类别"
+    },
+    {
+      "type": "li",
+      "text": "All Ranks"
+    },
+    {
+      "type": "li",
+      "text": "全职师资"
+    },
+    {
+      "type": "li",
+      "text": "纽约大学联聘教授"
+    },
+    {
+      "type": "li",
+      "text": "访问教授"
+    },
+    {
+      "type": "li",
+      "text": "兼职教授"
+    },
+    {
+      "type": "li",
+      "text": "荣誉职务"
+    },
+    {
+      "type": "li",
+      "text": "科研教辅人员"
+    },
+    {
+      "type": "li",
+      "text": "荣休教授"
+    },
+    {
+      "type": "p",
+      "text": "按学术领域"
+    },
+    {
+      "type": "li",
+      "text": "艺术学"
+    },
+    {
+      "type": "li",
+      "text": "生物学"
+    },
+    {
+      "type": "li",
+      "text": "商学"
+    },
+    {
+      "type": "li",
+      "text": "化学"
+    },
+    {
+      "type": "li",
+      "text": "中文"
+    },
+    {
+      "type": "li",
+      "text": "计算机科学"
+    },
+    {
+      "type": "li",
+      "text": "数据科学"
+    },
+    {
+      "type": "li",
+      "text": "经济学"
+    },
+    {
+      "type": "li",
+      "text": "工程学"
+    },
+    {
+      "type": "li",
+      "text": "学术英语"
+    },
+    {
+      "type": "li",
+      "text": "全球中国学"
+    },
+    {
+      "type": "li",
+      "text": "全球视野下的社会"
+    },
+    {
+      "type": "li",
+      "text": "综合人文"
+    },
+    {
+      "type": "li",
+      "text": "交互媒体艺术"
+    },
+    {
+      "type": "li",
+      "text": "交互媒体与商学"
+    },
+    {
+      "type": "li",
+      "text": "法学"
+    },
+    {
+      "type": "li",
+      "text": "数学"
+    },
+    {
+      "type": "li",
+      "text": "神经科学"
+    },
+    {
+      "type": "li",
+      "text": "物理学"
+    },
+    {
+      "type": "li",
+      "text": "社会科学"
+    },
+    {
+      "type": "li",
+      "text": "社会工作"
+    },
+    {
+      "type": "li",
+      "text": "英语教育"
+    },
+    {
+      "type": "li",
+      "text": "世界语言"
+    },
+    {
+      "type": "li",
+      "text": "写作"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/Katie%20Aafjes-van%20Doorn%202026s_0.jpg?itok=73sz-gfR",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/Katie%20Aafjes-van%20Doorn%202026s_0.jpg?itok=73sz-gfR (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in vi"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/JM_photo.jpg?itok=oDgSCX7T",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/JM_photo-4bf7019dc0fb.jpg",
+      "download_status": "downloaded",
+      "bytes": 14163,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/final-Hong-Bin%20Chen-2025%20fall_0.jpg?itok=QZn5FI-O",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/final-Hong-Bin%20Chen-2025%20fall_0.jpg?itok=QZn5FI-O (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in vio"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/selected-Capture%20One%20Catalog1007.jpg?itok=zubsU6-a",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/selected-Capture-20One-20Catalog1007-e4e814c3fb34.jpg",
+      "download_status": "downloaded",
+      "bytes": 12013,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/final-Lucas%20Drouhot-2025%20fall_0.jpg?itok=3HoenJjs",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/final-Lucas-20Drouhot-2025-20fall_0-593adcd8be57.jpg",
+      "download_status": "downloaded",
+      "bytes": 13336,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/Screen%20Shot%202024-11-20%20at%209.52.56%20AM.png?itok=RbiwotUj",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Screen-20Shot-202024-11-20-20at-209.52.56-20AM-388d603f12a2.png",
+      "download_status": "downloaded",
+      "bytes": 149252,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/Shanghai%20Mascot_27.jpeg?itok=6-K5nWUO",
+      "alt": "Shanghai Mascot",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Shanghai-20Mascot_27-ed666273612d.jpeg",
+      "download_status": "downloaded",
+      "bytes": 16348,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/final-Jun%20Ho%20Lee-2025%20fall_0.jpg?itok=YRBuWI8L",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/final-Jun%20Ho%20Lee-2025%20fall_0.jpg?itok=YRBuWI8L (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in viol"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/IMG_0336.JPG?itok=MXGb7_eO",
+      "alt": "Shukai Li",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/IMG_0336-25b62b481d66.jpg",
+      "download_status": "downloaded",
+      "bytes": 12308,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/Shanghai%20Mascot_31.jpeg?itok=P8kCpbQv",
+      "alt": "Shanghai Mascot",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/Shanghai%20Mascot_31.jpeg?itok=P8kCpbQv (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of prot"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/NYU_6277.jpg?itok=BOFpd6PF",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/NYU_6277-335033376d57.jpg",
+      "download_status": "downloaded",
+      "bytes": 9845,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/Zhikun%20Lu%202026s_0.jpg?itok=BjurItWH",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/Zhikun%20Lu%202026s_0.jpg?itok=BjurItWH (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of prot"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/front.jpg?itok=byiyvxu2",
+      "alt": "Yucheng Lu",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/front-a51587a2362d.jpg",
+      "download_status": "downloaded",
+      "bytes": 8158,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/Shanghai%20Mascot_3.jpeg?itok=Fo20oJIn",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Shanghai-20Mascot_3-b29a597f179c.jpeg",
+      "download_status": "downloaded",
+      "bytes": 16348,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/Shanghai%20Mascot_25.jpeg?itok=k0cFI-Pu",
+      "alt": "Shanghai Mascot",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/Shanghai%20Mascot_29.jpeg?itok=lBFnCA59",
+      "alt": "Shanghai Mascot",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Shanghai-20Mascot_29-89ec9581eeb1.jpeg",
+      "download_status": "downloaded",
+      "bytes": 16348,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/profile_square_smaller.jpeg?itok=6K2al9s7",
+      "alt": "Hua Shen",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/profile_square_smaller-6b6405831871.jpeg",
+      "download_status": "downloaded",
+      "bytes": 9620,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/Screen%20Shot%202024-10-04%20at%2011.02.22%20AM.png?itok=1086vnq8",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Screen-20Shot-202024-10-04-20at-2011.02.22-20AM-80f796b7798b.png",
+      "download_status": "downloaded",
+      "bytes": 124669,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/Shanghai%20Mascot_24.jpeg?itok=rEnXzl2O",
+      "alt": "NYU Shanghai mascot",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/final%20vertical-Bei%20Wu-2025%20fall_0.jpg?itok=21K9qpxR",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/final%20vertical-Bei%20Wu-2025%20fall_0.jpg?itok=21K9qpxR (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/%E6%88%AA%E5%B1%8F2025-07-15%2013.46.31.png?itok=wsSYopf2",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/%E6%88%AA%E5%B1%8F2025-07-15%2013.46.31.png?itok=wsSYopf2 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/bruno_abrahao_cai_jian_dao_xiong_qian_ling_dai_bu_qi_.jpg?itok=8uiqhb-H",
+      "alt": "Bruno Abrahao",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/bruno_abrahao_cai_jian_dao_xiong_qian_ling_dai_bu_qi_.jpg?itok=8uiqhb-H (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] E"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/nyu00073.jpg?itok=Zz5kGMF4",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyu00073-9f42f902e6f7.jpg",
+      "download_status": "downloaded",
+      "bytes": 12885,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/final_2024.3.20niu_yue_da_xue_2509_0.jpg?itok=A14uSW72",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/final_2024.3.20niu_yue_da_xue_2509_0.jpg?itok=A14uSW72 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in vi"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/jinghong_bi.jpg?itok=SiDSFqmU",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/jinghong_bi-506eebe21740.jpg",
+      "download_status": "downloaded",
+      "bytes": 16379,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/selected-capture_one_catalog0473_0.jpg?itok=89d2h6od",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/selected-capture_one_catalog0473_0.jpg?itok=89d2h6od (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in viol"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/adam-brandenburger-photo-12-25-23_0.jpg?itok=2-dSyPu9",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/adam-brandenburger-photo-12-25-23_0.jpg?itok=2-dSyPu9 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in vio"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/screen_shot_2024-06-24_at_10.24.39_am_5.png?itok=knpz4DgA",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/screen_shot_2024-06-24_at_10.24.39_am_5.png?itok=knpz4DgA (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/tim-byrne-300s.jpg?itok=TIRMIgOa",
+      "alt": "Tim Byrnes",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/faculty_search/public/field/profile/tim-byrne-300s.jpg?itok=TIRMIgOa (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_search/public/field/profile/brumley-headshot-bw.png?itok=3MdZ5EjZ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/brumley-headshot-bw-01e8b58e2022.png",
+      "download_status": "downloaded",
+      "bytes": 71448,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/katie-aafjes-van-doorn",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory?discipline=283",
+      "text": "社会科学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/chai-qing-yuan-qingyuan-chai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory?discipline=202",
+      "text": "经济学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/chen-hong-bin-hong-bin-chen",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory?discipline=287",
+      "text": "数学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/vivian-chiu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory?discipline=192",
+      "text": "化学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/lucas-drouhot",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/michele-geraci-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory?discipline=436",
+      "text": "商学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/timothy-byron-klatte",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/jun-ho-lee",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/li-shu-kai-shukai-li",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/wan-jun-wendy-lim",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/lin-fang-hua-fang-hua-lin",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/lu-zhi-kun-zhikun-lu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/lu-yu-cheng-yucheng-lu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory?discipline=206",
+      "text": "计算机科学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/xiaoai-lyu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory?discipline=194",
+      "text": "生物学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/lan-ma",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/jonathan-kruger-newton",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/shen-hua-hua-shen",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/wen-jiang-tao-gene-wen",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory?discipline=728",
+      "text": "工程学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/rudolph-charles-wimmer",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory?discipline=749",
+      "text": "交互媒体与商学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/wu-bei-bei-wu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/xie-yuan-mo-yuanmo-xie",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/bruno-abrahao",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory?discipline=716",
+      "text": "数据科学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty/directory/david-g-atwill",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty/directory/sangeeta-banerji",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory?discipline=719",
+      "text": "综合人文",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/bi-jing-hong-jinghong-bi",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory?discipline=785",
+      "text": "中文",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/daniel-jin-blum",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/adam-brandenburger",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/mark-brantner",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory?discipline=379",
+      "text": "写作",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/tim-byrnes",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory?discipline=205",
+      "text": "物理学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/shizi/john-brumley",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory?discipline=289",
+      "text": "交互媒体艺术",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 36,
+  "crawled_at": "2026-06-09T04:36:19+00:00",
+  "sequence": 892
+}

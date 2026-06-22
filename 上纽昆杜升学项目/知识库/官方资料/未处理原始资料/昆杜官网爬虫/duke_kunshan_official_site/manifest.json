@@ -1,0 +1,35 @@
+{
+  "started_at": "2026-06-03T13:48:37+00:00",
+  "start": "https://www.dukekunshan.edu.cn/sitemap_index.xml",
+  "allowed_hosts": [
+    "dukekunshan.edu.cn",
+    "www.dukekunshan.edu.cn"
+  ],
+  "mode": "sitemap",
+  "sitemaps": [
+    "https://www.dukekunshan.edu.cn/sitemap_index.xml",
+    "https://www.dukekunshan.edu.cn/page-sitemap.xml",
+    "https://www.dukekunshan.edu.cn/jet-menu-sitemap.xml",
+    "https://www.dukekunshan.edu.cn/jet-popup-sitemap.xml",
+    "https://www.dukekunshan.edu.cn/research-sitemap.xml",
+    "https://www.dukekunshan.edu.cn/ctl-sitemap.xml",
+    "https://www.dukekunshan.edu.cn/career_service-sitemap.xml",
+    "https://www.dukekunshan.edu.cn/event-sitemap.xml",
+    "https://www.dukekunshan.edu.cn/news-sitemap.xml",
+    "https://www.dukekunshan.edu.cn/eh_s-sitemap.xml",
+    "https://www.dukekunshan.edu.cn/about_duke_kunshan-sitemap.xml",
+    "https://www.dukekunshan.edu.cn/faculty-affairs-sitemap.xml",
+    "https://www.dukekunshan.edu.cn/advisory_board_team-sitemap.xml",
+    "https://www.dukekunshan.edu.cn/leadership-team-sitemap.xml",
+    "https://www.dukekunshan.edu.cn/category-sitemap.xml",
+    "https://www.dukekunshan.edu.cn/post_tag-sitemap.xml"
+  ],
+  "pages_discovered": 680,
+  "pages_ok": 680,
+  "pages_error": 0,
+  "images_ok": 2548,
+  "images_error": 2,
+  "errors": [],
+  "finished_at": "2026-06-03T13:56:13+00:00",
+  "unique_image_urls_seen": 843
+}

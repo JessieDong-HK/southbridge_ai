@@ -1,0 +1,70 @@
+{
+  "id": "campus-life__career__employers__faq-d4a159d9a4",
+  "url": "https://shanghai.nyu.edu/campus-life/career/employers/faq",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/career/employers/faq",
+  "page_type": "campus-life",
+  "title": "Employer FAQs",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Employer FAQs\nNYU Shanghai is the first Sino-U.S. joint research university in China and the third degree-granting campus of NYU. For a detailed description, see our University Description.\nThe estimated cost of attendance is shown on our Cost of Attendance page.\nNYU Shanghai utilizes a rigorous admissions process to select top students from around the world. To learn more about our application process, see our Admissions page.\nNYU Shanghai offers a variety of undergraduate majors in a liberal arts style curriculum, as well as several graduate-level programs. For a full list of academic specializations, see our list of Majors and Minors.\nWe offer many services to support employers in engaging with our student body. For more information, see our Recruitment & Engagement page.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Employer FAQs"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai is the first Sino-U.S. joint research university in China and the third degree-granting campus of NYU. For a detailed description, see our University Description."
+    },
+    {
+      "type": "p",
+      "text": "The estimated cost of attendance is shown on our Cost of Attendance page."
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai utilizes a rigorous admissions process to select top students from around the world. To learn more about our application process, see our Admissions page."
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai offers a variety of undergraduate majors in a liberal arts style curriculum, as well as several graduate-level programs. For a full list of academic specializations, see our list of Majors and Minors."
+    },
+    {
+      "type": "p",
+      "text": "We offer many services to support employers in engaging with our student body. For more information, see our Recruitment & Engagement page."
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/about",
+      "text": "University Description",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/admissions/cost",
+      "text": "Cost of Attendance",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/admissions",
+      "text": "Admissions",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/majors",
+      "text": "Majors and Minors",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/employers/handshake",
+      "text": "Recruitment & Engagement page",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 126,
+  "crawled_at": "2026-06-09T04:32:19+00:00",
+  "sequence": 556
+}

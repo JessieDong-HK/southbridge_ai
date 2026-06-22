@@ -1,0 +1,38 @@
+{
+  "id": "content__academic-integrity-a7f58fea5f",
+  "url": "https://shanghai.nyu.edu/content/academic-integrity",
+  "canonical_url": "https://shanghai.nyu.edu/content/academic-integrity",
+  "page_type": "content",
+  "title": "Academic Integrity",
+  "description": "At NYU Shanghai, a commitment to excellence, fairness, honesty, and respect within and outside the classroom is essential to maintaining the integrity of our community. By accepting membership in this community, students take responsibility for demonstrating these values in their own conduct and for",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Academic Integrity\nAt NYU Shanghai, a commitment to excellence, fairness, honesty, and respect within and outside the classroom is essential to maintaining the integrity of our community. By accepting membership in this community, students take responsibility for demonstrating these values in their own conduct and for recognizing and supporting these values in others. In turn, these values will create a campus climate that encourages the free exchange of ideas, promotes scholarly excellence through active and creative thought, and allows community members to achieve and be recognized for achieving their highest potential.\nSee the Academic Bulletin for our full academic integrity statement.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Academic Integrity"
+    },
+    {
+      "type": "p",
+      "text": "At NYU Shanghai, a commitment to excellence, fairness, honesty, and respect within and outside the classroom is essential to maintaining the integrity of our community. By accepting membership in this community, students take responsibility for demonstrating these values in their own conduct and for recognizing and supporting these values in others. In turn, these values will create a campus climate that encourages the free exchange of ideas, promotes scholarly excellence through active and creative thought, and allows community members to achieve and be recognized for achieving their highest potential."
+    },
+    {
+      "type": "p",
+      "text": "See the Academic Bulletin for our full academic integrity statement."
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/academics/curriculum/bulletin",
+      "text": "Academic Bulletin",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 101,
+  "crawled_at": "2026-06-09T04:31:15+00:00",
+  "sequence": 433
+}

@@ -1,0 +1,217 @@
+{
+  "id": "ehs__ehs-training-7e6d4d5a52",
+  "url": "https://shanghai.nyu.edu/ehs/ehs-training",
+  "canonical_url": "https://shanghai.nyu.edu/ehs/ehs-training",
+  "page_type": "ehs",
+  "title": "EHS Training",
+  "description": "Training PlanEHS training program is designed to enhance awareness, build competencies, and ensure compliance among all stakeholders involved in laboratory and operational safety. The program focuses on developing a shared responsibility matrix, delivering targeted training courses, and fostering a",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "EHS Training\nTraining Plan\nEHS training program is designed to enhance awareness, build competencies, and ensure compliance among all stakeholders involved in laboratory and operational safety. The program focuses on developing a shared responsibility matrix, delivering targeted training courses, and fostering a proactive safety culture.\nEHS has established the training matrix as below.\nTraining Courses\nLab Safety Rules\nGeneral Awareness of Lab Safety Rules\nEmergency Shower and Eye Wash\nHow to Use Emergency Shower and Eye Wash\nPersonal Protection Equipment\nDress Code and PPE Requirement in Labs\nWastes Disposal in Lab\nProper Disposal of Various Wastes in Lab\nSoliding\nSafe Usage, Electrical Safety, Fire Safety and First Aid of Soldering\nEthylene Oxide Concerns\nSafety Usage of Ethylene Oxide Concerns\nCampus Safety\nService Line (24/7): + 86 21 2059 5500 Email: shanghai.safety@nyu.edu Address: E118, 1F East Hall, the New Bund Campus, 567 Yangsi W Rd.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "EHS Training"
+    },
+    {
+      "type": "h3",
+      "text": "Training Plan"
+    },
+    {
+      "type": "p",
+      "text": "EHS training program is designed to enhance awareness, build competencies, and ensure compliance among all stakeholders involved in laboratory and operational safety. The program focuses on developing a shared responsibility matrix, delivering targeted training courses, and fostering a proactive safety culture."
+    },
+    {
+      "type": "p",
+      "text": "EHS has established the training matrix as below."
+    },
+    {
+      "type": "h3",
+      "text": "Training Courses"
+    },
+    {
+      "type": "h4",
+      "text": "Lab Safety Rules"
+    },
+    {
+      "type": "p",
+      "text": "General Awareness of Lab Safety Rules"
+    },
+    {
+      "type": "h4",
+      "text": "Emergency Shower and Eye Wash"
+    },
+    {
+      "type": "p",
+      "text": "How to Use Emergency Shower and Eye Wash"
+    },
+    {
+      "type": "h4",
+      "text": "Personal Protection Equipment"
+    },
+    {
+      "type": "p",
+      "text": "Dress Code and PPE Requirement in Labs"
+    },
+    {
+      "type": "h4",
+      "text": "Wastes Disposal in Lab"
+    },
+    {
+      "type": "p",
+      "text": "Proper Disposal of Various Wastes in Lab"
+    },
+    {
+      "type": "h4",
+      "text": "Soliding"
+    },
+    {
+      "type": "p",
+      "text": "Safe Usage, Electrical Safety, Fire Safety and First Aid of Soldering"
+    },
+    {
+      "type": "h4",
+      "text": "Ethylene Oxide Concerns"
+    },
+    {
+      "type": "p",
+      "text": "Safety Usage of Ethylene Oxide Concerns"
+    },
+    {
+      "type": "h2",
+      "text": "Campus Safety"
+    },
+    {
+      "type": "p",
+      "text": "Service Line (24/7): + 86 21 2059 5500 Email: shanghai.safety@nyu.edu Address: E118, 1F East Hall, the New Bund Campus, 567 Yangsi W Rd."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/campus-life/labglassware.jpg",
+      "alt": "EHS Training",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/labglassware-b6996c98fedc.jpg",
+      "download_status": "downloaded",
+      "bytes": 245679,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/ehs_training_lab_safety.jpg",
+      "alt": "Lab Safety Rules",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ehs_training_lab_safety-a8e08aa24e8a.jpg",
+      "download_status": "downloaded",
+      "bytes": 88750,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/ehs_training_emergency_shower.jpg",
+      "alt": "Emergency Shower",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/ehs_training_ppe.jpg",
+      "alt": "PPE",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ehs_training_ppe-4324fb64720a.jpg",
+      "download_status": "downloaded",
+      "bytes": 63495,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/ehs_training_wastes_disposal.jpg",
+      "alt": "Wastes Disposal",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ehs_training_wastes_disposal-0790bf810557.jpg",
+      "download_status": "downloaded",
+      "bytes": 89724,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/ehs_training_soldering.jpg",
+      "alt": "Soliding",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ehs_training_soldering-3294590d08f5.jpg",
+      "download_status": "downloaded",
+      "bytes": 118646,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/ehs_training_ethylene_oxide.jpg",
+      "alt": "Ethylene Oxide",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ehs_training_ethylene_oxide-9156f81df027.jpg",
+      "download_status": "downloaded",
+      "bytes": 67954,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/bu_men_ming_pian_.png",
+      "alt": "Campus Safety Contact Card",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/bu_men_ming_pian-1b38bf1bcffe.png",
+      "download_status": "downloaded",
+      "bytes": 29843,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://safe.shanghai.nyu.edu/oa/Training",
+      "text": "Online Training System",
+      "internal": false
+    },
+    {
+      "url": "https://safe.shanghai.nyu.edu/oa/enclosure/sop/NYUSH-EHS-009.01_EHS_Training_Matrix.pdf",
+      "text": "EHS Training Matrix",
+      "internal": false
+    },
+    {
+      "url": "https://safe.shanghai.nyu.edu/oa/Training/View_TaskDetail/18?code=a091df35-d0e3-429f-b3c2-e17a3e618b08",
+      "text": "Lab Safety Rules",
+      "internal": false
+    },
+    {
+      "url": "https://safe.shanghai.nyu.edu/oa/Training/View_TaskDetail/39?code=0b73bcf9-a830-4bd6-8805-3efbb2204d0e",
+      "text": "Emergency Shower and Eye Wash",
+      "internal": false
+    },
+    {
+      "url": "https://safe.shanghai.nyu.edu/oa/Training/View_TaskDetail/13?code=98cfb532-5f7e-419b-84e3-da2d3fbca388",
+      "text": "Personal Protection Equipment",
+      "internal": false
+    },
+    {
+      "url": "https://safe.shanghai.nyu.edu/oa/Training/View_TaskDetail/15?code=774704dd-fa93-461e-8a44-fe95561a5039",
+      "text": "Wastes Disposal in Lab",
+      "internal": false
+    },
+    {
+      "url": "https://safe.shanghai.nyu.edu/oa/Training/View_TaskDetail/16?code=0b4fcdd2-c893-43f4-adc7-1b17c4eebcb3",
+      "text": "Soliding",
+      "internal": false
+    },
+    {
+      "url": "https://safe.shanghai.nyu.edu/oa/Training/View_TaskDetail/40?code=5c72be6d-ad8c-4048-b9f4-c00553d5ddcf",
+      "text": "Ethylene Oxide Concerns",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 147,
+  "crawled_at": "2026-06-09T04:30:07+00:00",
+  "sequence": 275
+}

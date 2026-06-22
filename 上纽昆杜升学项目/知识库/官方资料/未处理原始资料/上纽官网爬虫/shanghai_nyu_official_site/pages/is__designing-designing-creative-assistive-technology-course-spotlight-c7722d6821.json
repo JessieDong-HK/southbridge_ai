@@ -1,0 +1,238 @@
+{
+  "id": "is__designing-designing-creative-assistive-technology-course-spotlight-c7722d6821",
+  "url": "https://shanghai.nyu.edu/is/designing-designing-creative-assistive-technology-course-spotlight",
+  "canonical_url": "https://shanghai.nyu.edu/is/designing-designing-creative-assistive-technology-course-spotlight",
+  "page_type": "is",
+  "title": "From Designing For to Designing With: Creating Assistive Technology Course Spotlight",
+  "description": "The class is not only about making technology, but about understanding users and designing with them. “Innovation through collaboration with users is a goldmine.”",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "From Designing For to Designing With: Creating Assistive Technology Course Spotlight\nTwitter\nFacebook\nWeibo\nDesigning with, not for, is the foundation of an NYU Shanghai Interactive Media Arts course where students collaborate with co-creators living with disabilities to develop assistive solutions—from no-tech tools to web-based technologies.\nTaught by Assistant Arts Professor of IMA Rudi Cossovich, an Argentinian designer with a background in consumer electronics, Creating Assistive Technology is an interdisciplinary, project-based course that teaches students how to design assistive no-tech and low-tech solutions, as well as software and web-based technologies, to improve quality of life for people with disabilities. Throughout the semester students build and test their prototypes alongside their co-creators.\nThe course includes readings on disability studies and integrates technology and fieldwork. Cossovich deliberately pushes students out of the classroom and into Shanghai, where disability is not an “issue” but a lived, social reality for people with disabilities.\n“It’s insufficient to go and look at academic research without actually talking to people with disabilities just around the corner,” Cossovich explains.\nStudents visit coffee shops staffed by baristas who are visually impaired, art exhibitions by disabled artists, and spaces shaped by access and disability culture. They meet with accessibility policy experts and companies that work with technology to solve real-life problems for those in need.\nThat’s how, on a windy November afternoon, the students found themselves navigating the edges of campus blindfolded, in wheelchairs, or with noise canceling headphones on. Guided by deaf, visually impaired, and wheelchair-using facilitators, the students carefully made their way around a now unfamiliar and daunting landscape, where curbs, doorways, signage, and ambient noise presented a series of obstacles.\nStudents learning how to navigate on wheelchair during an empathy walk activity.\nThat activity was led in collaboration with Community Engaged Learning and MustardTek, an inclusive design studio that partners with people with disabilities to co-design accessible products, inclusive environments, and more equitable experiences. Founder and managing director Minki Chang visited the class as a guest speaker and introduced the empathy walk as a way for students to better understand their co-designers’ lived experiences.\n“At the heart of NYU Shanghai’s Creating Assistive Technology course is connection -- with real people and diverse lived experiences,” Chang said. “It gives students agency, helps them become better designers, and enables solutions that benefit more people, while continually asking what it means to be human.”\nMeanwhile Gong Jinghua (known as Maomao), one of the facilitators who is visually impaired, said the empathy walk was a two-way exchange. While the students learned real needs from him and others with disabilities, he gained insight into what people his age are interested in -- and a chance for him to take part.\nThe experience was disorienting for students. “Every three steps, I felt like I was about to crash into something,” said senior Wang Deyi, a student in the class. Without public infrastructure designed to support disabled mobility, he realized, many people simply can’t or won’t dare to leave home. The experience convinced him that accessibility needs to be part of public education, not just niche design practice.Wang Deyi enrolled in the course to see a different side of design. Wang hopes to do a master’s degree in human-computer interaction, where disability and inclusive interactive design are foundational, and yet he had rarely had an opportunity to interact with people with disabilities.\n“Technology moves fast, but it often prioritizes the interests of the majority,” Wang said. “If no one intentionally redirects existing technologies toward overlooked users, even the most advanced innovations won’t generate much real value.”\nTaking the course has expanded his perspective. He realized that many everyday accessibility problems don’t really require technological breakthroughs -- just attention. “Everyone should have equal access to a product’s functions,” Wang said. “A lot of accessibility barriers aren’t caused by technical bottlenecks. Many improvements aren’t expensive—it’s that designers overlook the need to do them.”\nIn class, he and other students discussed disability not as a deficit, but rather as a “spectrum” of human capability. Disability, he learned, is often situational. The issue, then, is less about an individual’s body and more about a mismatch between what products assume users can do and what people can actually do in specific environments.\nWang said the course helps him and his classmates begin to see the people who have too often been invisible. “A healthy, civilized society needs to expand its attention from convenience for the majority to sustained care for the vulnerable,” he added.\nOnce the students had a basic understanding of disability and accessible design, Cossovich introduced the students to the co-designers they would collaborate with over the next six weeks to create a functional prototype.\nFrom left to right: Xu Na, Rudi Cossovich, co-designer Li Siyi, Liu Ruiqi Liu, and Wang Deyi working on the prototype together.\n25-year-old Li Siyi visited the class, accompanied by her mother and primary caretaker Xu Na. They learned that Siyi has had cerebral palsy since birth, which affected her cerebellar development. While her cognition is intact, speech and motor coordination are challenging for her. Everyday she does four to five hours of rehabilitation exercises—mostly at home or downstairs, occasionally at hospitals. As her mother gets older, carrying Siyi’s wheelchair up and down stairs in their apartment building without elevators has become increasingly difficult.\nThe students talked with Siyi to get to know her and her needs. And when they learned she loves dogs but cannot have a pet because of her condition, they were inspired to create a rehabilitation game with a puppy theme. They turned two of Siyi’s core exercises -- single-leg balance and grip training -- into a responsive, sensor-based system that could provide immediate feedback.\nThe logic is simple but deliberate: action becomes control, feedback becomes a cue, rewards become motivation, and rehabilitation is gamified. Siyi steps onto a small stool to work on her balance training; a dog appears on screen riding a unicycle. Because Siyi tends to lean backward when she loses stability, the system detects when the pressure lightens and her center of gravity shifts; the on-screen dog tilts backward in sync, offering a clear visual sign for her to “stand back into” balance.\nThen Siyi works on her grip. As Siyi holds the handle, the on-screen dog runs, chases food, and eats. When her grip loosens, the dog stops. Siyi earns points as the dog “eats.” With real-time feedback and a simple scoring loop, Siyi’s repetitive rehab motions are transformed into a tangible, engaging game.\nEach member of the student team took on a part of the design. Wang Deyi worked on coding and debugging. He used JavaScript to implement the interaction logic and relied on Gemini AI for rapid iteration -- testing repeatedly and refining prompts to troubleshoot.\nWang said the challenge wasn’t mastering complex engineering but rather understanding who the project was for by continuing to communicate with the “user,” Siyi, to refine the design to meet her real needs.\nLi Siyi and her mother Xu Na testing the project prototype\nMeanwhile another student, Yang Ting '26 led the hardware build: a sensor-enabled grip handle and a stable stool for balance training. Having taken physical computing and fabrication courses, she was comfortable with soldering and wiring. The process required a lot of trial and error but after repeated adjustments, including sawing and resizing, the team eventually produced a stool that was both sturdy and safe.\nAs the semester came to a close, Siyi and her mother returned to NYU Shanghai to test the prototype for the first time and provide necessary feedback for the students. The students made final tweaks to the design based on her user experience.\n“This game is great,” Siyi said. “My rehab training won’t be boring anymore.”\nStudents experience the prototype at IMA's End-of-Semester Show.\nIn late December, the students presented the rehabilitation game to the NYU Shanghai community at IMA’s end-of-semester show. They plan to deliver and install it in Siyi’s home later. The course’s arc—from empathy to co-creation—came to life in the final prototype built with Siyi.For Professor Cossovich, the class is not only about making technology, but about understanding users and designing with them. “Innovation through collaboration with users is a goldmine,” he said.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "From Designing For to Designing With: Creating Assistive Technology Course Spotlight"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Designing with, not for, is the foundation of an NYU Shanghai Interactive Media Arts course where students collaborate with co-creators living with disabilities to develop assistive solutions—from no-tech tools to web-based technologies."
+    },
+    {
+      "type": "p",
+      "text": "Taught by Assistant Arts Professor of IMA Rudi Cossovich, an Argentinian designer with a background in consumer electronics, Creating Assistive Technology is an interdisciplinary, project-based course that teaches students how to design assistive no-tech and low-tech solutions, as well as software and web-based technologies, to improve quality of life for people with disabilities. Throughout the semester students build and test their prototypes alongside their co-creators."
+    },
+    {
+      "type": "p",
+      "text": "The course includes readings on disability studies and integrates technology and fieldwork. Cossovich deliberately pushes students out of the classroom and into Shanghai, where disability is not an “issue” but a lived, social reality for people with disabilities."
+    },
+    {
+      "type": "p",
+      "text": "“It’s insufficient to go and look at academic research without actually talking to people with disabilities just around the corner,” Cossovich explains."
+    },
+    {
+      "type": "p",
+      "text": "Students visit coffee shops staffed by baristas who are visually impaired, art exhibitions by disabled artists, and spaces shaped by access and disability culture. They meet with accessibility policy experts and companies that work with technology to solve real-life problems for those in need."
+    },
+    {
+      "type": "p",
+      "text": "That’s how, on a windy November afternoon, the students found themselves navigating the edges of campus blindfolded, in wheelchairs, or with noise canceling headphones on. Guided by deaf, visually impaired, and wheelchair-using facilitators, the students carefully made their way around a now unfamiliar and daunting landscape, where curbs, doorways, signage, and ambient noise presented a series of obstacles."
+    },
+    {
+      "type": "figcaption",
+      "text": "Students learning how to navigate on wheelchair during an empathy walk activity."
+    },
+    {
+      "type": "p",
+      "text": "That activity was led in collaboration with Community Engaged Learning and MustardTek, an inclusive design studio that partners with people with disabilities to co-design accessible products, inclusive environments, and more equitable experiences. Founder and managing director Minki Chang visited the class as a guest speaker and introduced the empathy walk as a way for students to better understand their co-designers’ lived experiences."
+    },
+    {
+      "type": "p",
+      "text": "“At the heart of NYU Shanghai’s Creating Assistive Technology course is connection -- with real people and diverse lived experiences,” Chang said. “It gives students agency, helps them become better designers, and enables solutions that benefit more people, while continually asking what it means to be human.”"
+    },
+    {
+      "type": "p",
+      "text": "Meanwhile Gong Jinghua (known as Maomao), one of the facilitators who is visually impaired, said the empathy walk was a two-way exchange. While the students learned real needs from him and others with disabilities, he gained insight into what people his age are interested in -- and a chance for him to take part."
+    },
+    {
+      "type": "p",
+      "text": "The experience was disorienting for students. “Every three steps, I felt like I was about to crash into something,” said senior Wang Deyi, a student in the class. Without public infrastructure designed to support disabled mobility, he realized, many people simply can’t or won’t dare to leave home. The experience convinced him that accessibility needs to be part of public education, not just niche design practice.Wang Deyi enrolled in the course to see a different side of design. Wang hopes to do a master’s degree in human-computer interaction, where disability and inclusive interactive design are foundational, and yet he had rarely had an opportunity to interact with people with disabilities."
+    },
+    {
+      "type": "p",
+      "text": "“Technology moves fast, but it often prioritizes the interests of the majority,” Wang said. “If no one intentionally redirects existing technologies toward overlooked users, even the most advanced innovations won’t generate much real value.”"
+    },
+    {
+      "type": "p",
+      "text": "Taking the course has expanded his perspective. He realized that many everyday accessibility problems don’t really require technological breakthroughs -- just attention. “Everyone should have equal access to a product’s functions,” Wang said. “A lot of accessibility barriers aren’t caused by technical bottlenecks. Many improvements aren’t expensive—it’s that designers overlook the need to do them.”"
+    },
+    {
+      "type": "p",
+      "text": "In class, he and other students discussed disability not as a deficit, but rather as a “spectrum” of human capability. Disability, he learned, is often situational. The issue, then, is less about an individual’s body and more about a mismatch between what products assume users can do and what people can actually do in specific environments."
+    },
+    {
+      "type": "p",
+      "text": "Wang said the course helps him and his classmates begin to see the people who have too often been invisible. “A healthy, civilized society needs to expand its attention from convenience for the majority to sustained care for the vulnerable,” he added."
+    },
+    {
+      "type": "p",
+      "text": "Once the students had a basic understanding of disability and accessible design, Cossovich introduced the students to the co-designers they would collaborate with over the next six weeks to create a functional prototype."
+    },
+    {
+      "type": "figcaption",
+      "text": "From left to right: Xu Na, Rudi Cossovich, co-designer Li Siyi, Liu Ruiqi Liu, and Wang Deyi working on the prototype together."
+    },
+    {
+      "type": "p",
+      "text": "25-year-old Li Siyi visited the class, accompanied by her mother and primary caretaker Xu Na. They learned that Siyi has had cerebral palsy since birth, which affected her cerebellar development. While her cognition is intact, speech and motor coordination are challenging for her. Everyday she does four to five hours of rehabilitation exercises—mostly at home or downstairs, occasionally at hospitals. As her mother gets older, carrying Siyi’s wheelchair up and down stairs in their apartment building without elevators has become increasingly difficult."
+    },
+    {
+      "type": "p",
+      "text": "The students talked with Siyi to get to know her and her needs. And when they learned she loves dogs but cannot have a pet because of her condition, they were inspired to create a rehabilitation game with a puppy theme. They turned two of Siyi’s core exercises -- single-leg balance and grip training -- into a responsive, sensor-based system that could provide immediate feedback."
+    },
+    {
+      "type": "p",
+      "text": "The logic is simple but deliberate: action becomes control, feedback becomes a cue, rewards become motivation, and rehabilitation is gamified. Siyi steps onto a small stool to work on her balance training; a dog appears on screen riding a unicycle. Because Siyi tends to lean backward when she loses stability, the system detects when the pressure lightens and her center of gravity shifts; the on-screen dog tilts backward in sync, offering a clear visual sign for her to “stand back into” balance."
+    },
+    {
+      "type": "p",
+      "text": "Then Siyi works on her grip. As Siyi holds the handle, the on-screen dog runs, chases food, and eats. When her grip loosens, the dog stops. Siyi earns points as the dog “eats.” With real-time feedback and a simple scoring loop, Siyi’s repetitive rehab motions are transformed into a tangible, engaging game."
+    },
+    {
+      "type": "p",
+      "text": "Each member of the student team took on a part of the design. Wang Deyi worked on coding and debugging. He used JavaScript to implement the interaction logic and relied on Gemini AI for rapid iteration -- testing repeatedly and refining prompts to troubleshoot."
+    },
+    {
+      "type": "p",
+      "text": "Wang said the challenge wasn’t mastering complex engineering but rather understanding who the project was for by continuing to communicate with the “user,” Siyi, to refine the design to meet her real needs."
+    },
+    {
+      "type": "figcaption",
+      "text": "Li Siyi and her mother Xu Na testing the project prototype"
+    },
+    {
+      "type": "p",
+      "text": "Meanwhile another student, Yang Ting '26 led the hardware build: a sensor-enabled grip handle and a stable stool for balance training. Having taken physical computing and fabrication courses, she was comfortable with soldering and wiring. The process required a lot of trial and error but after repeated adjustments, including sawing and resizing, the team eventually produced a stool that was both sturdy and safe."
+    },
+    {
+      "type": "p",
+      "text": "As the semester came to a close, Siyi and her mother returned to NYU Shanghai to test the prototype for the first time and provide necessary feedback for the students. The students made final tweaks to the design based on her user experience."
+    },
+    {
+      "type": "p",
+      "text": "“This game is great,” Siyi said. “My rehab training won’t be boring anymore.”"
+    },
+    {
+      "type": "figcaption",
+      "text": "Students experience the prototype at IMA's End-of-Semester Show."
+    },
+    {
+      "type": "p",
+      "text": "In late December, the students presented the rehabilitation game to the NYU Shanghai community at IMA’s end-of-semester show. They plan to deliver and install it in Siyi’s home later. The course’s arc—from empathy to co-creation—came to life in the final prototype built with Siyi.For Professor Cossovich, the class is not only about making technology, but about understanding users and designing with them. “Innovation through collaboration with users is a goldmine,” he said."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/focus_image",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/focus_image/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/focus_image/creative_assistive_technology_course_spotlight-01.jpg?itok=WZaEsG04",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/content_page_slideshow_display/public/field/focus_image/creative_assistive_technology_course_spotlight-01.jpg?itok=WZaEsG04 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Creative%20Assistive%20Technology%20Course%20Spotlight-02.jpg",
+      "alt": "empathy walk",
+      "caption": "Students learning how to navigate on wheelchair during an empathy walk activity.",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/Creative%20Assistive%20Technology%20Course%20Spotlight-02.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Creative%20Assistive%20Technology%20Course%20Spotlight-03.jpg",
+      "alt": "creating assistive tech course",
+      "caption": "From left to right: Xu Na, Rudi Cossovich, co-designer Li Siyi, Liu Ruiqi Liu, and Wang Deyi working on the prototype together.",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/Creative%20Assistive%20Technology%20Course%20Spotlight-03.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Creative%20Assistive%20Technology%20Course%20Spotlight-05.jpg",
+      "alt": "creating assistive tech course",
+      "caption": "Li Siyi and her mother Xu Na testing the project prototype",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/Creative%20Assistive%20Technology%20Course%20Spotlight-05.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Creative%20Assistive%20Technology%20Course%20Spotlight-04.jpg",
+      "alt": "creating assistive tech course",
+      "caption": "Students experience the prototype at IMA's End-of-Semester Show.",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/Creative%20Assistive%20Technology%20Course%20Spotlight-04.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=From%20Designing%20For%20to%20Designing%20With%3A%20Creating%20Assistive%20Technology%20Course%20Spotlight%20&url=https%3A//shanghai.nyu.edu/is/designing-designing-creative-assistive-technology-course-spotlight&status=From%20Designing%20For%20to%20Designing%20With%3A%20Creating%20Assistive%20Technology%20Course%20Spotlight%20%20https%3A//shanghai.nyu.edu/is/designing-designing-creative-assistive-technology-course-spotlight",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/is/designing-designing-creative-assistive-technology-course-spotlight&title=From%20Designing%20For%20to%20Designing%20With%3A%20Creating%20Assistive%20Technology%20Course%20Spotlight%20",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/is/designing-designing-creative-assistive-technology-course-spotlight&title=From%20Designing%20For%20to%20Designing%20With%3A%20Creating%20Assistive%20Technology%20Course%20Spotlight%20",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/rodolfo-cossovich",
+      "text": "Rudi Cossovich,",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/undergraduate/community-engaged-learning",
+      "text": "Community Engaged Learning",
+      "internal": true
+    },
+    {
+      "url": "https://mustardtek.com/",
+      "text": "MustardTek",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 1421,
+  "crawled_at": "2026-06-09T04:33:20+00:00",
+  "sequence": 672
+}

@@ -1,0 +1,517 @@
+{
+  "id": "content__computer-science-7b3caa0b51",
+  "url": "https://shanghai.nyu.edu/content/computer-science",
+  "canonical_url": "https://shanghai.nyu.edu/content/computer-science",
+  "page_type": "content",
+  "title": "Computer Science",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Computer Science\nComputer Science at NYU Shanghai is designed to create technological leaders with a global perspective, a broad education, and the capacity to think creatively. Computer science focuses on how to design, build, and effectively use the computers and systems that we interact with every day — from the iPhones in our hands to the complex databases in our banks and hospitals and to the self-driving cars of the future. For co-curricular activities and research-related resources in computer science, please refer to the website of the Computer Science, Data Science, and Engineering department.\nRequirements for the Major\nStudents can choose to follow the academic bulletin from the year that they were admitted or a more recent academic bulletin. For example, if you were admitted to NYU Shanghai in Fall 2019, you can choose to follow the academic bulletin 2019-2020, 2020-2021, and 2021-2022.\nPlanning the Major\nTo declare the Computer Science major, students must have a final grade of C, or be currently enrolled in the following courses in MATH-SHU 131 Calculus (or pass the \"Place out of Calculus\" exam) and CSCI-SHU 11 Introduction to Computer Programming (or CSCI-SHU 101 Introduction to Computer Science or pass the \"Place Into Introduction to Computer and Data Science” Exam ).\nFaculty Mentors\nFaculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory.\nProfessor of Practice in Computer Science\nWhat knowledge and skills will students acquire by majoring in Computer Science?\nThe Bachelor of Science in Computer Science is a rigorous program that not only covers fundamental computer science subjects - such as object-oriented programming, computer architecture, and operating systems – but provides a wide variety of elective courses, spanning artificial intelligence, game programming, natural language processing, information visualization, security and privacy, computer networking, machine learning, and smartphone application development.\nWhat are post-graduation and career opportunities for Computer Science students?\nComputer science graduates have a myriad of career paths, including: creating information technology products of the future at large and dynamic companies such as Google, Microsoft, Amazon, Apple or within exciting high-tech startups throughout the world. Entrepreneurship skills combined with computer science prowess can help in creating your own high-tech startup, pursuing careers in business or finance that leverage computer science expertise, or going on to do cutting-edge research in a PhD program. Household names such as Bill Gates, Mark Zuckerberg, Larry Page, Melisa Myers, Robin Li, and Kai-Fu Lee all began in computer science.\"\nSome NYU Shanghai Computer Science courses – such as Introduction to Computer Programming— integrate Kiwi (see instructions), an AI-driven learning platform developed by a research group at NYU Shanghai. NYU Shanghai students enrolled in these courses can review lecture slides and interact with AI for a personalized learning experience. To access Kiwi, please complete the request form.\nStudents need to complete more than half of the courses required for the primary and secondary majors to declare their secondary major. No more than two courses may be double-counted between the majors.\nComputer Science and Data Science Double Major Policies:\nStudents matriculating in Fall 2022 or later will NOT be able to double major in Computer Science and Data Science.\nStudents matriculating in Fall 2021 or prior will be able to double major in Computer Science and Data Science. Please note that each major must have at least 7 singly-counted courses and more than two courses may be double-counted between the majors. Please speak with your academic advisor for course planning.\nhttps://shanghai.nyu.edu/advising/programs-and-events/major-exploration\nCenter for Data Science and Analytics\nDeans' Undergraduate Research Fund (DURF)\nCS, DS, and Engineering Research Night (2021 recordings & presentation slides; 2022 presentation slides)\nBring your programming skills to professors’ ongoing research projects!\nStudents majoring in Computer Science are permitted to work on an individual basis under the supervision of a full-time faculty member in the relevant discipline if they have maintained an overall GPA of 3.0 and a GPA of 3.5 in Computer Science and have a study proposal that is approved by a Computer Science faculty. Students can then apply for independent study, which will be reviewed by the faculty member, Computer Science Area Head, Dean, and Academic Affairs. A 4-credit CS Independent Study class can be used to satisfy one CS major elective requirement.\nStudy Away Considerations:\nCourses:Before studying abroad, students are recommended to complete Introduction to Computer Science and Data Science, Data Structures, Probability and Statistics, Computer Architecture, and Algorithms. Some advanced-level CS major elective courses may require Probability and Statistics, Linear Algebra, or Machine Learning as course prerequisites.Students are expected to at least complete Data Structures (and ideally, Computer Architecture) before their study away semesters.Students should NOT plan to study away during the senior fallas the CS Senior Capstone class is ONLY offered every Fall semester in person.\nBefore studying abroad, students are recommended to complete Introduction to Computer Science and Data Science, Data Structures, Probability and Statistics, Computer Architecture, and Algorithms. Some advanced-level CS major elective courses may require Probability and Statistics, Linear Algebra, or Machine Learning as course prerequisites.\nStudents are expected to at least complete Data Structures (and ideally, Computer Architecture) before their study away semesters.\nStudents should NOT plan to study away during the senior fallas the CS Senior Capstone class is ONLY offered every Fall semester in person.\nLocation: Students planning to study away for two semesters are encouraged to spend the first semester in a location other than New York. Applicants who spend the first semester away in another location will receive priority consideration for New York in their second semester away. Students who elect to spend the spring of their junior year in New York (versus the fall of the junior year) will have more earned credit points, thus will enable them to have an earlier registration time and a better chance of enrolling in high-demand course in spring.\nStudy Away Course Registration\nPlease refer to the Study Away portal- Academics sections for specific location-based registration guidelines. Please note that students must follow the prerequisites of the school hosting the course. For example, if Shanghai does not require a course for Class X, but New York does, then you will need to have that required course.\nPython vs. Java\nIn Shanghai, there are three course sequences: ICP, ICDS, and Data Structures (all taught in Python). At NYU CAS, there is the same three-course sequence but teaching ICDS and Data Structures in Java (Fall 2025 update: CAS Data Structure class requires a course taken in Java; NYUSH students taking ICDS in Shanghai cannot enroll in CAS's Data Structures class). At NYU Tandon, their three-course sequence is ICP, Data Structure, and Object-Oriented Programming. ICP and Data Structures are taught in Python, and OOP in Java.\nIn order to comply with accreditation requirements, NYU Shanghai requires all students to complete either a capstone requirement in the form of a senior thesis and/or a required capstone course in the primary major.\nStudents who are declaring Computer Science as their primary major must complete the capstone requirement by taking CSCI-SHU 420 Computer Science Senior Project (4 credits). This course is only offered in the Fall and must be taken in person in Shanghai, meaning students must be in Shanghai during that semester.\nStudents who plan to declare Computer Science as a secondary major are no longer required to enroll in CSCI-SHU 420 Computer Science Senior Project (4 credits). Instead, they will be required to take a CS capstone equivalent course to substitute for the CS secondary major 4-credit capstone course requirement (courses from study away sites that have been approved as course equivalents to the listed Shanghai electives may also be used as substitutes for the capstone).\n1. What is the structure of the Computer Science Senior Capstone course?\nThe goal of this class is to complete a concrete CS project from start to finish. You can either solve a research problem or try to tackle a real-world problem. You need to design a valid method/approach to solve the problem, build a solution using your method, and assess the quality of your solution. You may either work alone or form a team of at most 3 students. Check out the CS/DS senior projects from the previous classes!\nProject Setup Guidelines\nSpring 2024 Info Session Recording\nSpring 2024 Presentation Slides\nSpring 2024 Faculty-proposed Topics\nCourse Instructors, Supervisors, and Mentors\n2. What are the requirements of the capstone project?\nAt the end of the project, you must prepare a written technical report and a presentation. The final project report must be structured as a typical technical paper and will include four main sections:\nMotivation, problem definition\nRelated literature and existing approaches\nProposed solution and details of implementation\nResults, conclusion, and directions for improvement\n3. What should students prepare in advance to get ready for the capstone?\nAttend the (virtual) CS/DS/Engineering capstone info session in spring (hosted by the CS, DS, & Engineering Major faculty)\nChoose a research topic that NYU faculty have submitted or come up with a valuable topic of your own.\nContact a faculty supervisor whose area of expertise matches the field of your topic, and start preparing as early as possible.\nLibrary Resources：\nNYU Shanghai Library\nNYU Libraries Research Guides\nWriting and Stylistic Guides\nComputer Science Capstone Guide\nQuick Links：\nAcademic Resource Center\nResearch and Conference\nDean’s Undergraduate Research Fund\nGlobal Awards and Fellowships\nInformation for Advisors [Log-in Required]",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Computer Science"
+    },
+    {
+      "type": "p",
+      "text": "Computer Science at NYU Shanghai is designed to create technological leaders with a global perspective, a broad education, and the capacity to think creatively. Computer science focuses on how to design, build, and effectively use the computers and systems that we interact with every day — from the iPhones in our hands to the complex databases in our banks and hospitals and to the self-driving cars of the future. For co-curricular activities and research-related resources in computer science, please refer to the website of the Computer Science, Data Science, and Engineering department."
+    },
+    {
+      "type": "h3",
+      "text": "Requirements for the Major"
+    },
+    {
+      "type": "p",
+      "text": "Students can choose to follow the academic bulletin from the year that they were admitted or a more recent academic bulletin. For example, if you were admitted to NYU Shanghai in Fall 2019, you can choose to follow the academic bulletin 2019-2020, 2020-2021, and 2021-2022."
+    },
+    {
+      "type": "h3",
+      "text": "Planning the Major"
+    },
+    {
+      "type": "p",
+      "text": "To declare the Computer Science major, students must have a final grade of C, or be currently enrolled in the following courses in MATH-SHU 131 Calculus (or pass the \"Place out of Calculus\" exam) and CSCI-SHU 11 Introduction to Computer Programming (or CSCI-SHU 101 Introduction to Computer Science or pass the \"Place Into Introduction to Computer and Data Science” Exam )."
+    },
+    {
+      "type": "h3",
+      "text": "Faculty Mentors"
+    },
+    {
+      "type": "p",
+      "text": "Faculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory."
+    },
+    {
+      "type": "p",
+      "text": "Professor of Practice in Computer Science"
+    },
+    {
+      "type": "p",
+      "text": "What knowledge and skills will students acquire by majoring in Computer Science?"
+    },
+    {
+      "type": "p",
+      "text": "The Bachelor of Science in Computer Science is a rigorous program that not only covers fundamental computer science subjects - such as object-oriented programming, computer architecture, and operating systems – but provides a wide variety of elective courses, spanning artificial intelligence, game programming, natural language processing, information visualization, security and privacy, computer networking, machine learning, and smartphone application development."
+    },
+    {
+      "type": "p",
+      "text": "What are post-graduation and career opportunities for Computer Science students?"
+    },
+    {
+      "type": "p",
+      "text": "Computer science graduates have a myriad of career paths, including: creating information technology products of the future at large and dynamic companies such as Google, Microsoft, Amazon, Apple or within exciting high-tech startups throughout the world. Entrepreneurship skills combined with computer science prowess can help in creating your own high-tech startup, pursuing careers in business or finance that leverage computer science expertise, or going on to do cutting-edge research in a PhD program. Household names such as Bill Gates, Mark Zuckerberg, Larry Page, Melisa Myers, Robin Li, and Kai-Fu Lee all began in computer science.\""
+    },
+    {
+      "type": "p",
+      "text": "Some NYU Shanghai Computer Science courses – such as Introduction to Computer Programming— integrate Kiwi (see instructions), an AI-driven learning platform developed by a research group at NYU Shanghai. NYU Shanghai students enrolled in these courses can review lecture slides and interact with AI for a personalized learning experience. To access Kiwi, please complete the request form."
+    },
+    {
+      "type": "p",
+      "text": "Students need to complete more than half of the courses required for the primary and secondary majors to declare their secondary major. No more than two courses may be double-counted between the majors."
+    },
+    {
+      "type": "p",
+      "text": "Computer Science and Data Science Double Major Policies:"
+    },
+    {
+      "type": "li",
+      "text": "Students matriculating in Fall 2022 or later will NOT be able to double major in Computer Science and Data Science."
+    },
+    {
+      "type": "li",
+      "text": "Students matriculating in Fall 2021 or prior will be able to double major in Computer Science and Data Science. Please note that each major must have at least 7 singly-counted courses and more than two courses may be double-counted between the majors. Please speak with your academic advisor for course planning."
+    },
+    {
+      "type": "p",
+      "text": "https://shanghai.nyu.edu/advising/programs-and-events/major-exploration"
+    },
+    {
+      "type": "p",
+      "text": "Center for Data Science and Analytics"
+    },
+    {
+      "type": "p",
+      "text": "Deans' Undergraduate Research Fund (DURF)"
+    },
+    {
+      "type": "p",
+      "text": "CS, DS, and Engineering Research Night (2021 recordings & presentation slides; 2022 presentation slides)"
+    },
+    {
+      "type": "p",
+      "text": "Bring your programming skills to professors’ ongoing research projects!"
+    },
+    {
+      "type": "p",
+      "text": "Students majoring in Computer Science are permitted to work on an individual basis under the supervision of a full-time faculty member in the relevant discipline if they have maintained an overall GPA of 3.0 and a GPA of 3.5 in Computer Science and have a study proposal that is approved by a Computer Science faculty. Students can then apply for independent study, which will be reviewed by the faculty member, Computer Science Area Head, Dean, and Academic Affairs. A 4-credit CS Independent Study class can be used to satisfy one CS major elective requirement."
+    },
+    {
+      "type": "p",
+      "text": "Study Away Considerations:"
+    },
+    {
+      "type": "li",
+      "text": "Courses:Before studying abroad, students are recommended to complete Introduction to Computer Science and Data Science, Data Structures, Probability and Statistics, Computer Architecture, and Algorithms. Some advanced-level CS major elective courses may require Probability and Statistics, Linear Algebra, or Machine Learning as course prerequisites.Students are expected to at least complete Data Structures (and ideally, Computer Architecture) before their study away semesters.Students should NOT plan to study away during the senior fallas the CS Senior Capstone class is ONLY offered every Fall semester in person."
+    },
+    {
+      "type": "li",
+      "text": "Before studying abroad, students are recommended to complete Introduction to Computer Science and Data Science, Data Structures, Probability and Statistics, Computer Architecture, and Algorithms. Some advanced-level CS major elective courses may require Probability and Statistics, Linear Algebra, or Machine Learning as course prerequisites."
+    },
+    {
+      "type": "li",
+      "text": "Students are expected to at least complete Data Structures (and ideally, Computer Architecture) before their study away semesters."
+    },
+    {
+      "type": "li",
+      "text": "Students should NOT plan to study away during the senior fallas the CS Senior Capstone class is ONLY offered every Fall semester in person."
+    },
+    {
+      "type": "li",
+      "text": "Location: Students planning to study away for two semesters are encouraged to spend the first semester in a location other than New York. Applicants who spend the first semester away in another location will receive priority consideration for New York in their second semester away. Students who elect to spend the spring of their junior year in New York (versus the fall of the junior year) will have more earned credit points, thus will enable them to have an earlier registration time and a better chance of enrolling in high-demand course in spring."
+    },
+    {
+      "type": "p",
+      "text": "Study Away Course Registration"
+    },
+    {
+      "type": "p",
+      "text": "Please refer to the Study Away portal- Academics sections for specific location-based registration guidelines. Please note that students must follow the prerequisites of the school hosting the course. For example, if Shanghai does not require a course for Class X, but New York does, then you will need to have that required course."
+    },
+    {
+      "type": "p",
+      "text": "Python vs. Java"
+    },
+    {
+      "type": "p",
+      "text": "In Shanghai, there are three course sequences: ICP, ICDS, and Data Structures (all taught in Python). At NYU CAS, there is the same three-course sequence but teaching ICDS and Data Structures in Java (Fall 2025 update: CAS Data Structure class requires a course taken in Java; NYUSH students taking ICDS in Shanghai cannot enroll in CAS's Data Structures class). At NYU Tandon, their three-course sequence is ICP, Data Structure, and Object-Oriented Programming. ICP and Data Structures are taught in Python, and OOP in Java."
+    },
+    {
+      "type": "p",
+      "text": "In order to comply with accreditation requirements, NYU Shanghai requires all students to complete either a capstone requirement in the form of a senior thesis and/or a required capstone course in the primary major."
+    },
+    {
+      "type": "p",
+      "text": "Students who are declaring Computer Science as their primary major must complete the capstone requirement by taking CSCI-SHU 420 Computer Science Senior Project (4 credits). This course is only offered in the Fall and must be taken in person in Shanghai, meaning students must be in Shanghai during that semester."
+    },
+    {
+      "type": "p",
+      "text": "Students who plan to declare Computer Science as a secondary major are no longer required to enroll in CSCI-SHU 420 Computer Science Senior Project (4 credits). Instead, they will be required to take a CS capstone equivalent course to substitute for the CS secondary major 4-credit capstone course requirement (courses from study away sites that have been approved as course equivalents to the listed Shanghai electives may also be used as substitutes for the capstone)."
+    },
+    {
+      "type": "p",
+      "text": "1. What is the structure of the Computer Science Senior Capstone course?"
+    },
+    {
+      "type": "p",
+      "text": "The goal of this class is to complete a concrete CS project from start to finish. You can either solve a research problem or try to tackle a real-world problem. You need to design a valid method/approach to solve the problem, build a solution using your method, and assess the quality of your solution. You may either work alone or form a team of at most 3 students. Check out the CS/DS senior projects from the previous classes!"
+    },
+    {
+      "type": "li",
+      "text": "Project Setup Guidelines"
+    },
+    {
+      "type": "li",
+      "text": "Spring 2024 Info Session Recording"
+    },
+    {
+      "type": "li",
+      "text": "Spring 2024 Presentation Slides"
+    },
+    {
+      "type": "li",
+      "text": "Spring 2024 Faculty-proposed Topics"
+    },
+    {
+      "type": "li",
+      "text": "Course Instructors, Supervisors, and Mentors"
+    },
+    {
+      "type": "p",
+      "text": "2. What are the requirements of the capstone project?"
+    },
+    {
+      "type": "p",
+      "text": "At the end of the project, you must prepare a written technical report and a presentation. The final project report must be structured as a typical technical paper and will include four main sections:"
+    },
+    {
+      "type": "li",
+      "text": "Motivation, problem definition"
+    },
+    {
+      "type": "li",
+      "text": "Related literature and existing approaches"
+    },
+    {
+      "type": "li",
+      "text": "Proposed solution and details of implementation"
+    },
+    {
+      "type": "li",
+      "text": "Results, conclusion, and directions for improvement"
+    },
+    {
+      "type": "p",
+      "text": "3. What should students prepare in advance to get ready for the capstone?"
+    },
+    {
+      "type": "li",
+      "text": "Attend the (virtual) CS/DS/Engineering capstone info session in spring (hosted by the CS, DS, & Engineering Major faculty)"
+    },
+    {
+      "type": "li",
+      "text": "Choose a research topic that NYU faculty have submitted or come up with a valuable topic of your own."
+    },
+    {
+      "type": "li",
+      "text": "Contact a faculty supervisor whose area of expertise matches the field of your topic, and start preparing as early as possible."
+    },
+    {
+      "type": "p",
+      "text": "Library Resources："
+    },
+    {
+      "type": "li",
+      "text": "NYU Shanghai Library"
+    },
+    {
+      "type": "li",
+      "text": "NYU Libraries Research Guides"
+    },
+    {
+      "type": "li",
+      "text": "Writing and Stylistic Guides"
+    },
+    {
+      "type": "li",
+      "text": "Computer Science Capstone Guide"
+    },
+    {
+      "type": "p",
+      "text": "Quick Links："
+    },
+    {
+      "type": "li",
+      "text": "Academic Resource Center"
+    },
+    {
+      "type": "li",
+      "text": "Research and Conference"
+    },
+    {
+      "type": "li",
+      "text": "Dean’s Undergraduate Research Fund"
+    },
+    {
+      "type": "li",
+      "text": "Global Awards and Fellowships"
+    },
+    {
+      "type": "p",
+      "text": "Information for Advisors [Log-in Required]"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/courseschedule.png",
+      "alt": "Course Schedule",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/courseschedule-70a543ed0ea3.png",
+      "download_status": "downloaded",
+      "bytes": 777,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/curriculumworksheet.png",
+      "alt": "Curriculum Worksheet",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/curriculumworksheet-9ba0738e5d96.png",
+      "download_status": "downloaded",
+      "bytes": 513,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/studyawaypathways.png",
+      "alt": "Study Away Pathways",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/studyawaypathways-542a74228749.png",
+      "download_status": "downloaded",
+      "bytes": 704,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/image1.jpeg",
+      "alt": "Libhua Xu",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/image1-4b29903e7bd5.jpeg",
+      "download_status": "downloaded",
+      "bytes": 60234,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cs.shanghai.nyu.edu/",
+      "text": "the Computer Science, Data Science, and Engineering department",
+      "internal": false
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/shanghai/programs/computer-science-bs",
+      "text": "2025-2026",
+      "internal": false
+    },
+    {
+      "url": "https://bulletins.nyu.edu/archive/2024-2025/undergraduate/shanghai/programs/computer-science-bs",
+      "text": "2024-2025",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/16dt1bEt9goNN-Wuypsr0lm9dMYivDuga/view?usp=sharing",
+      "text": "2023-2024",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/1gSY-517F9kXHGXRI59jzjsw4LslIUwwe/view",
+      "text": "2022-2023",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/1AC3lYtY17G7kWfx51UfC1MHjyTBvtVTo/view?usp=sharing",
+      "text": "2021-2022",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/1peKEf6zA1Xz3UATmUVLPJhxhWdTSxpNn/view?usp=sharing",
+      "text": "2020-2021",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/1WfnUZhI4HUkRgTB3SSRSfzaY1XoqRkLL/view?usp=sharing",
+      "text": "2019-2020",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/1-rsyqe8qnYq1fo4gazEOCsJ4RevyLV8l/view?usp=sharing",
+      "text": "2018-2019",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/declare-or-change-major-posting-minor",
+      "text": "declare the Computer Science major",
+      "internal": true
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1GOM44_9d-gYGScXac9MtxOLZTfflaPbwR0A07tOUygc/edit?usp=sharing",
+      "text": "Course Schedule",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1P3ihMbQvdke0fey_hGWgr2y_3m50W-KwwJ2jnds9IRU/edit?usp=sharing",
+      "text": "Curriculum Worksheet",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1qHAiOhrvr7eW17Kz9jflOhAGVLl1Piy8sl0lgW299CI/edit?usp=sharing",
+      "text": "Study Away Pathways",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory",
+      "text": "faculty directory",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/lihua-xu",
+      "text": "Lihua Xu",
+      "internal": true
+    },
+    {
+      "url": "http://nyush.kiwiai.org/",
+      "text": "Kiwi",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1dyVC1uw3qoMR2AZpaHOit1NRAvFWKO84fuW3P32HlKk/edit?usp=sharing",
+      "text": "see instructions",
+      "internal": false
+    },
+    {
+      "url": "https://whongyi.github.io/MAPS-research",
+      "text": "research group",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLScwqTvWPEa7voztWyu3kAAZXlc6G8Tm7gcOm_J9SEsh_4KrFQ/viewform",
+      "text": "request form",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/programs-and-events/major-exploration",
+      "text": "https://shanghai.nyu.edu/advising/programs-and-events/major-exploration",
+      "internal": true
+    },
+    {
+      "url": "https://drive.google.com/drive/folders/1IKyIwfL0ksEng-7TUu1pKn51gyGNpt0j",
+      "text": "2021 recordings & presentation slides",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/drive/folders/1CKNIODsAaOKPPqdqT4oDC-xcqCFaWqDp?usp=sharing",
+      "text": "2022 presentation slides",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/academic-procedures/independent-study",
+      "text": "apply for independent study",
+      "internal": true
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1cgi8_gf2DVY_CkHC-lIxJwisi9HiDYhIl6Cs7aegcew/edit?usp=sharing",
+      "text": "a CS capstone equivalent course",
+      "internal": false
+    },
+    {
+      "url": "https://sites.google.com/nyu.edu/nyush-cscs/home",
+      "text": "CS/DS senior projects from the previous classes",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1jxRamnl7fZMfdxrLGAreYrcLINqY7TNXBZ5Pg_14GRA/edit?usp=sharing",
+      "text": "Project Setup Guidelines",
+      "internal": false
+    },
+    {
+      "url": "https://nyu.zoom.us/rec/share/KPcrXrlWcOl8uKaAdiUFk2z1haMm3t-htLlrXx3GnDNyh8TY0PVEgeSE0nl3prQD.YBpAwk9OJ1eIteIt",
+      "text": "Spring 2024 Info Session Recording",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1NlGuG7BaAjYZYP5CXjogx1yJ1_ZJt4qWWE_bwC-0Nwo/edit",
+      "text": "Spring 2024 Presentation Slides",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1MstO-X_oZO_W37LfUY-JgOMbEqOtZH6kXDZGadZPU3k/edit",
+      "text": "Spring 2024 Faculty-proposed Topics",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/11lU5oMdf-5iu5ceDik7xubNnygv9qIIS42-Kj8QdS9s/edit",
+      "text": "Course Instructors, Supervisors, and Mentors",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/library",
+      "text": "NYU Shanghai Library",
+      "internal": true
+    },
+    {
+      "url": "https://guides.nyu.edu/",
+      "text": "NYU Libraries Research Guides",
+      "internal": false
+    },
+    {
+      "url": "https://guides.nyu.edu/writingguides",
+      "text": "Writing and Stylistic Guides",
+      "internal": false
+    },
+    {
+      "url": "https://guides.nyu.edu/nyushcscapstone",
+      "text": "Computer Science Capstone Guide",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/arc",
+      "text": "Academic Resource Center",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/page/research-and-conferences",
+      "text": "Research and Conference",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/undergraduate-research",
+      "text": "Dean’s Undergraduate Research Fund",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/globalawards",
+      "text": "Global Awards and Fellowships",
+      "internal": true
+    },
+    {
+      "url": "https://docs.google.com/document/d/1ijKG8clAWYR1LQn9_jXtkO12zE2cvaYmufbRBM2tnpE/edit",
+      "text": "Information for Advisors",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 1642,
+  "crawled_at": "2026-06-09T04:38:37+00:00",
+  "sequence": 1144
+}

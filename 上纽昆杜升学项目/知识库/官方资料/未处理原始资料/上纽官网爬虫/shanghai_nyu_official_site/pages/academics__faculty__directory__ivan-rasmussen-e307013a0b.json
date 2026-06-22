@@ -1,0 +1,114 @@
+{
+  "id": "academics__faculty__directory__ivan-rasmussen-e307013a0b",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/ivan-rasmussen",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/ivan-rasmussen",
+  "page_type": "academics",
+  "title": "Ivan",
+  "description": "Ivan Willis Rasmussen is an Associate Professor of Practice in Political Science at NYU Shanghai. Prior to joining NYU Shanghai, he was a Visiting Assistant Professor of Government at Hamilton College and a Research Fellow with the International Security Program at Harvard Kennedy School’s Belfer",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Ivan Rasmussen\nIvan Willis Rasmussen is an Associate Professor of Practice in Political Science at NYU Shanghai. Prior to joining NYU Shanghai, he was a Visiting Assistant Professor of Government at Hamilton College and a Research Fellow with the International Security Program at Harvard Kennedy School’s Belfer Center. His research has appeared in the Asian Journal of Public Affairs and the Chinese Yearbook of International Law and Affairs with a co-authored book, At the Dawn of Belt and Road: China in the Developing World (RAND Report). Dr. Rasmussen has taught and researched at a variety of institutions including Hamilton College, Tufts University, Harvard Kennedy School, Boston College, and Renmin Daxue (People’s University in Beijing). He previously worked for the US Department of State, Duke University/Gates Foundation, and the RAND Corporation. Dr. Rasmussen is a member of the American Political Science Association, International Studies Association, and Association of Asian Studies along with acting as a reviewer for various journals. More recently, Dr. Rasmussen was named to the third cohort of Mansfield-Luce Asia Scholars Network and received the Teaching Excellence Award at NYU Shanghai.\nEducation\nPhD, International RelationsTufts University, the Fletcher School\nMA, Law and Diplomacy, International RelationsTufts University, the Fletcher School\nAB, The Woodrow Wilson School of Public and International AffairsPrinceton University\nInternational Relations\nComparative Politics\nChinese Foreign Affairs\nCapstone Seminar: Politics, Political Economy, and International Relations\nChina - U.S. Dialogue: Joining the Conversation on Global Affairs\nComparative Revolutions\nIndependent Study\nIntroduction to Comparative Politics\nPolitics in China\nSocial Science Capstone Seminar\nUS-China Relations",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Ivan Rasmussen"
+    },
+    {
+      "type": "p",
+      "text": "Ivan Willis Rasmussen is an Associate Professor of Practice in Political Science at NYU Shanghai. Prior to joining NYU Shanghai, he was a Visiting Assistant Professor of Government at Hamilton College and a Research Fellow with the International Security Program at Harvard Kennedy School’s Belfer Center. His research has appeared in the Asian Journal of Public Affairs and the Chinese Yearbook of International Law and Affairs with a co-authored book, At the Dawn of Belt and Road: China in the Developing World (RAND Report). Dr. Rasmussen has taught and researched at a variety of institutions including Hamilton College, Tufts University, Harvard Kennedy School, Boston College, and Renmin Daxue (People’s University in Beijing). He previously worked for the US Department of State, Duke University/Gates Foundation, and the RAND Corporation. Dr. Rasmussen is a member of the American Political Science Association, International Studies Association, and Association of Asian Studies along with acting as a reviewer for various journals. More recently, Dr. Rasmussen was named to the third cohort of Mansfield-Luce Asia Scholars Network and received the Teaching Excellence Award at NYU Shanghai."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, International RelationsTufts University, the Fletcher School"
+    },
+    {
+      "type": "li",
+      "text": "MA, Law and Diplomacy, International RelationsTufts University, the Fletcher School"
+    },
+    {
+      "type": "li",
+      "text": "AB, The Woodrow Wilson School of Public and International AffairsPrinceton University"
+    },
+    {
+      "type": "li",
+      "text": "International Relations"
+    },
+    {
+      "type": "li",
+      "text": "Comparative Politics"
+    },
+    {
+      "type": "li",
+      "text": "Chinese Foreign Affairs"
+    },
+    {
+      "type": "li",
+      "text": "Capstone Seminar: Politics, Political Economy, and International Relations"
+    },
+    {
+      "type": "li",
+      "text": "China - U.S. Dialogue: Joining the Conversation on Global Affairs"
+    },
+    {
+      "type": "li",
+      "text": "Comparative Revolutions"
+    },
+    {
+      "type": "li",
+      "text": "Independent Study"
+    },
+    {
+      "type": "li",
+      "text": "Introduction to Comparative Politics"
+    },
+    {
+      "type": "li",
+      "text": "Politics in China"
+    },
+    {
+      "type": "li",
+      "text": "Social Science Capstone Seminar"
+    },
+    {
+      "type": "li",
+      "text": "US-China Relations"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/rasmusseni280.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.rand.org/pubs/research_reports/RR2273.html",
+      "text": "At the Dawn of Belt and Road: China in the Developing World",
+      "internal": false
+    },
+    {
+      "url": "https://mansfieldfdn.org/blog/mansfield-luce-asia-scholars",
+      "text": "Mansfield-Luce Asia Scholars Network",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/tea",
+      "text": "Teaching Excellence Award",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 259,
+  "crawled_at": "2026-06-09T04:33:13+00:00",
+  "sequence": 662
+}

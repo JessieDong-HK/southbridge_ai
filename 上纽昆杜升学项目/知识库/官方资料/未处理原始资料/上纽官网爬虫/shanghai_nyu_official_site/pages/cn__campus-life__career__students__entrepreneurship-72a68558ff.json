@@ -1,0 +1,104 @@
+{
+  "id": "cn__campus-life__career__students__entrepreneurship-72a68558ff",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/entrepreneurship",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/career/students/entrepreneurship",
+  "page_type": "cn",
+  "title": "创业支持",
+  "description": "上海纽约大学创造力与创新研究项目（PCI）同职业发展中心为所有胸怀抱负的上纽创业者在创业的每个阶段提供支持。PCI手册 (PDF)PC从心理、规划和方法三个层面支持学生们的创业兴趣。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "创业支持\n上海纽约大学创造力与创新研究项目（PCI）同职业发展中心为所有胸怀抱负的上纽创业者在创业的每个阶段提供支持。\nPCI手册 (PDF)\nPC从心理、规划和方法三个层面支持学生们的创业兴趣。\n创业大赛\n上海纽约大学鼓励并支持有兴趣参加海内外创业大赛的学生们。查看以下创业大赛列表，可通过邮件creativity.innovation@nyu.edu联系PCI，获得指导和帮助。\n创业大赛列表",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "创业支持"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学创造力与创新研究项目（PCI）同职业发展中心为所有胸怀抱负的上纽创业者在创业的每个阶段提供支持。"
+    },
+    {
+      "type": "h3",
+      "text": "PCI手册 (PDF)"
+    },
+    {
+      "type": "p",
+      "text": "PC从心理、规划和方法三个层面支持学生们的创业兴趣。"
+    },
+    {
+      "type": "h3",
+      "text": "创业大赛"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学鼓励并支持有兴趣参加海内外创业大赛的学生们。查看以下创业大赛列表，可通过邮件creativity.innovation@nyu.edu联系PCI，获得指导和帮助。"
+    },
+    {
+      "type": "h2",
+      "text": "创业大赛列表"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-3-05-11-2.jpg",
+      "alt": "cdc",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-3-05-11-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://creativityandinnovation.shanghai.nyu.edu/entrepreneurship",
+      "text": "创造力与创新研究项目（PCI）",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/pci_brochure_for_cdc_website_update_in_fall_2019.pdf",
+      "text": "PCI手册 (PDF)",
+      "internal": false
+    },
+    {
+      "url": "http://gjcxcy.bjtu.edu.cn/Index.aspx",
+      "text": "国家级大学生创新创业训练计划平台",
+      "internal": false
+    },
+    {
+      "url": "http://shcxcy.usst.edu.cn/Index",
+      "text": "上海市大学生创新创业训练计划平台",
+      "internal": false
+    },
+    {
+      "url": "https://cy.ncss.org.cn/en",
+      "text": "全国大学生创业服务网",
+      "internal": false
+    },
+    {
+      "url": "https://chinaccelerator.com/",
+      "text": "中国创投加速圈",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/www.itcsz.cn",
+      "text": "中国深圳创新创业大赛",
+      "internal": true
+    },
+    {
+      "url": "http://www.eweekchina.org/gcc/index.php",
+      "text": "全球创业周",
+      "internal": false
+    },
+    {
+      "url": "http://www.stefg.org/en/study/culture.aspx",
+      "text": "上海市大学生科技创业基金会项目",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 17,
+  "crawled_at": "2026-06-09T04:36:55+00:00",
+  "sequence": 977
+}

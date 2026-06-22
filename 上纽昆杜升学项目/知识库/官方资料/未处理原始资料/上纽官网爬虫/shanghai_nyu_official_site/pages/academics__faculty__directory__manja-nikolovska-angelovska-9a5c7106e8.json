@@ -1,0 +1,35 @@
+{
+  "id": "academics__faculty__directory__manja-nikolovska-angelovska-9a5c7106e8",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/manja-nikolovska-angelovska",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/manja-nikolovska-angelovska",
+  "page_type": "academics",
+  "title": "Manja",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Manja Nikolovska Angelovska",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Manja Nikolovska Angelovska"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/final-Manja%20Nikolovska-2025%20fall.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/final-Manja-20Nikolovska-2025-20fall-f48b566142e4.jpg",
+      "download_status": "downloaded",
+      "bytes": 324810,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 3,
+  "crawled_at": "2026-06-09T04:53:09+00:00",
+  "sequence": 2343
+}

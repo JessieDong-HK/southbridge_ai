@@ -1,0 +1,221 @@
+{
+  "id": "academics__registration-f7568c6fe8",
+  "url": "https://shanghai.nyu.edu/academics/registration",
+  "canonical_url": "https://shanghai.nyu.edu/academics/registration",
+  "page_type": "academics",
+  "title": "Office of the Registrar",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Office of the Registrar\nThe Registrar's Office supports teaching and learning at NYU Shanghai by maintaining the integrity of academic policies and the student information system. It is the steward of NYU Shanghai's student records from application to degree conferral in perpetuity.\nThe Office of the Registrar provides NYU Shanghai students with the following services:\nTranscripts\nVerification Documents\nAlbert\nDegree and Graduation\nAcademic Calendar\nRegistration Guidelines\nGrading Information\nPrivacy of Student Records\nStudent Forms\nContact Us\nLocation: Suite N928, North Hall, 567 Yangsi West Road, Pudong Shanghai, China 200124\nRegistrar: Winnie Wilson\nEmail:shanghai.registrar@nyu.edu\nPhone: 021-2059-5750",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Office of the Registrar"
+    },
+    {
+      "type": "p",
+      "text": "The Registrar's Office supports teaching and learning at NYU Shanghai by maintaining the integrity of academic policies and the student information system. It is the steward of NYU Shanghai's student records from application to degree conferral in perpetuity."
+    },
+    {
+      "type": "p",
+      "text": "The Office of the Registrar provides NYU Shanghai students with the following services:"
+    },
+    {
+      "type": "h4",
+      "text": "Transcripts"
+    },
+    {
+      "type": "h4",
+      "text": "Verification Documents"
+    },
+    {
+      "type": "h4",
+      "text": "Albert"
+    },
+    {
+      "type": "h4",
+      "text": "Degree and Graduation"
+    },
+    {
+      "type": "h4",
+      "text": "Academic Calendar"
+    },
+    {
+      "type": "h4",
+      "text": "Registration Guidelines"
+    },
+    {
+      "type": "h4",
+      "text": "Grading Information"
+    },
+    {
+      "type": "h4",
+      "text": "Privacy of Student Records"
+    },
+    {
+      "type": "h4",
+      "text": "Student Forms"
+    },
+    {
+      "type": "h3",
+      "text": "Contact Us"
+    },
+    {
+      "type": "p",
+      "text": "Location: Suite N928, North Hall, 567 Yangsi West Road, Pudong Shanghai, China 200124"
+    },
+    {
+      "type": "p",
+      "text": "Registrar: Winnie Wilson"
+    },
+    {
+      "type": "p",
+      "text": "Email:shanghai.registrar@nyu.edu"
+    },
+    {
+      "type": "p",
+      "text": "Phone: 021-2059-5750"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/p-Registrar-1-02.jpg",
+      "alt": "Transcripts",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Registrar-1-02-4cc8e953c013.jpg",
+      "download_status": "downloaded",
+      "bytes": 49014,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/p-Registrar-1-03.jpg",
+      "alt": "Verification Documents",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Registrar-1-03-214f15f36d3f.jpg",
+      "download_status": "downloaded",
+      "bytes": 35835,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/p-Registrar-1-04.jpg",
+      "alt": "Albert",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/p-Registrar-1-05.jpg",
+      "alt": "Degree and Graduation",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Registrar-1-05-4d6d298701af.jpg",
+      "download_status": "downloaded",
+      "bytes": 88298,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/p-Registrar-1-06.jpg",
+      "alt": "Academic Calendar",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Registrar-1-06-3fab5236295b.jpg",
+      "download_status": "downloaded",
+      "bytes": 47222,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/p-Registrar-1-07.jpg",
+      "alt": "Course Guidelines",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/p-Registrar-1-08.jpg",
+      "alt": "Grading Information",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/p-Registrar-1-09.jpg",
+      "alt": "Privacy of Student Records",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Registrar-1-09-b0128c371de2.jpg",
+      "download_status": "downloaded",
+      "bytes": 40311,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/p-Registrar-1-10.jpg",
+      "alt": "Student Forms",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/p-Registrar-1-10.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/academics/registration/transcripts",
+      "text": "Transcripts",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/registration/ev",
+      "text": "Verification Documents",
+      "internal": true
+    },
+    {
+      "url": "https://albert.nyu.edu/albert_index.html",
+      "text": "Albert",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/registration/graduation",
+      "text": "Degree and Graduation",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/page/academic-calendar",
+      "text": "Academic Calendar",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/registration/guidelines",
+      "text": "Registration Guidelines",
+      "internal": true
+    },
+    {
+      "url": "https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/transcripts-certifications-grades/grades.html",
+      "text": "Grading Information",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/registration/records",
+      "text": "Privacy of Student Records",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/registration/student-forms",
+      "text": "Student Forms",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 103,
+  "crawled_at": "2026-06-09T04:28:03+00:00",
+  "sequence": 35
+}

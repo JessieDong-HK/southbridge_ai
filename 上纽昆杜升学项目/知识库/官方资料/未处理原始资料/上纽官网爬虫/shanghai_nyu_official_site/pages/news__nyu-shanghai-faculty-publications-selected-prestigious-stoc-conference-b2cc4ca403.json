@@ -1,0 +1,185 @@
+{
+  "id": "news__nyu-shanghai-faculty-publications-selected-prestigious-stoc-conference-b2cc4ca403",
+  "url": "https://shanghai.nyu.edu/news/nyu-shanghai-faculty-publications-selected-prestigious-stoc-conference",
+  "canonical_url": "https://shanghai.nyu.edu/news/nyu-shanghai-faculty-publications-selected-prestigious-stoc-conference",
+  "page_type": "news",
+  "title": "NYU Shanghai Faculty Publications Selected for Prestigious STOC Conference",
+  "description": "This year’s STOC accepted three papers by Professor Xue Jie.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "NYU Shanghai Faculty Publications Selected for Prestigious STOC Conference\nTwitter\nFacebook\nWeibo\nThis year’s Symposium on Theory of Computing (STOC), held in June in Prague, Czech Republic, accepted three papers by NYU Shanghai Assistant Professor of Computer Science Xue Jie. Since 1969, STOC has been one of the most prestigious conferences in theoretical computer science in the world, covering fundamental advances in algorithms, complexity theory, and theoretical computer science at large.\n“We’re incredibly proud to see Professor Xue’s work receive such strong recognition, with three papers accepted in a single year,” said Interim Dean of Computer Science, Data Science, and Engineering Nasir Memon. “This demonstrates the research excellence we strive for at NYU Shanghai.”\nProfessor Xue’s work spans efficient algorithm design for geometric problems and graphs, introducing both faster algorithms and deeper theoretical understanding.\nStudy 1: Efficient Matching with Minimum Distance\nThis paper tackles the Geometric Multimatching Problem – how to pair up two sets of points in a Euclidean space while minimizing total connection distance. “Imagine you have houses and stores on a map,” Xue explains. “Each house needs to connect to one or more stores (and vice versa), and you want to do this while keeping the total travel distance as small as possible.”\nThis paper finds two smart and very fast algorithms to solve that matching problem, both of which aim to compute nearly optimal solutions. The algorithms not only work for the Euclidean setting, but also solve the matching problem in more general metric spaces.\nEfficient Matching with Minimum Distance\nRead the paper – Approximation Algorithms for the Geometric Multimatching Problem\nStudy 2: Fast Detection of Complex Patterns in Sparse Graphs\nThis paper addresses how to quickly find or count specific patterns in large and sparse graphs, where the patterns of interest are defined via distance constraints between nodes. Think of a huge network (like a social graph or a web of cities). You want to find specific patterns, such as groups of nodes where the pairwise distance is at least 3 and at most 10. This kind of problem is common in data processing.\nXue explains: “This paper proposed efficient algorithms to search for or count such patterns in structurally sparse graphs, which significantly improve the computational time of the previous algorithms. In order to design these algorithms, we developed general tools for pattern searching in sparse graphs, which can find applications in other problems as well.”\nFast Detection of Complex Patterns in Sparse Graphs\nRead the paper – Efficiently Finding and Counting Patterns with Distance Constraints in Sparse Graphs\nStudy 3: Eliminating Problematic Substructures in Graphs\nThis paper focuses on a class of fundamental problems in algorithmic graph theory: how to remove the fewest number of nodes in a given graph to eliminate all unwanted subgraphs. These problems are called Subgraph Hitting, and subsume many well-studied graph optimization problems in the literature. The paper essentially proved that Subgraph Hitting can be solved in sub-exponential time as long as the input graph admits small “separators”, a structure whose removal breaks the graph into pieces of balanced sizes. This result significantly generalizes the previous work and deepens the understanding of subgraph-hitting problems.\nEliminating Problematic Substructures in Graphs\nRead the paper – Subexponential Parameterized Algorithms for Hitting Subgraphs",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "NYU Shanghai Faculty Publications Selected for Prestigious STOC Conference"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "This year’s Symposium on Theory of Computing (STOC), held in June in Prague, Czech Republic, accepted three papers by NYU Shanghai Assistant Professor of Computer Science Xue Jie. Since 1969, STOC has been one of the most prestigious conferences in theoretical computer science in the world, covering fundamental advances in algorithms, complexity theory, and theoretical computer science at large."
+    },
+    {
+      "type": "p",
+      "text": "“We’re incredibly proud to see Professor Xue’s work receive such strong recognition, with three papers accepted in a single year,” said Interim Dean of Computer Science, Data Science, and Engineering Nasir Memon. “This demonstrates the research excellence we strive for at NYU Shanghai.”"
+    },
+    {
+      "type": "p",
+      "text": "Professor Xue’s work spans efficient algorithm design for geometric problems and graphs, introducing both faster algorithms and deeper theoretical understanding."
+    },
+    {
+      "type": "h3",
+      "text": "Study 1: Efficient Matching with Minimum Distance"
+    },
+    {
+      "type": "p",
+      "text": "This paper tackles the Geometric Multimatching Problem – how to pair up two sets of points in a Euclidean space while minimizing total connection distance. “Imagine you have houses and stores on a map,” Xue explains. “Each house needs to connect to one or more stores (and vice versa), and you want to do this while keeping the total travel distance as small as possible.”"
+    },
+    {
+      "type": "p",
+      "text": "This paper finds two smart and very fast algorithms to solve that matching problem, both of which aim to compute nearly optimal solutions. The algorithms not only work for the Euclidean setting, but also solve the matching problem in more general metric spaces."
+    },
+    {
+      "type": "figcaption",
+      "text": "Efficient Matching with Minimum Distance"
+    },
+    {
+      "type": "p",
+      "text": "Read the paper – Approximation Algorithms for the Geometric Multimatching Problem"
+    },
+    {
+      "type": "h3",
+      "text": "Study 2: Fast Detection of Complex Patterns in Sparse Graphs"
+    },
+    {
+      "type": "p",
+      "text": "This paper addresses how to quickly find or count specific patterns in large and sparse graphs, where the patterns of interest are defined via distance constraints between nodes. Think of a huge network (like a social graph or a web of cities). You want to find specific patterns, such as groups of nodes where the pairwise distance is at least 3 and at most 10. This kind of problem is common in data processing."
+    },
+    {
+      "type": "p",
+      "text": "Xue explains: “This paper proposed efficient algorithms to search for or count such patterns in structurally sparse graphs, which significantly improve the computational time of the previous algorithms. In order to design these algorithms, we developed general tools for pattern searching in sparse graphs, which can find applications in other problems as well.”"
+    },
+    {
+      "type": "figcaption",
+      "text": "Fast Detection of Complex Patterns in Sparse Graphs"
+    },
+    {
+      "type": "p",
+      "text": "Read the paper – Efficiently Finding and Counting Patterns with Distance Constraints in Sparse Graphs"
+    },
+    {
+      "type": "h3",
+      "text": "Study 3: Eliminating Problematic Substructures in Graphs"
+    },
+    {
+      "type": "p",
+      "text": "This paper focuses on a class of fundamental problems in algorithmic graph theory: how to remove the fewest number of nodes in a given graph to eliminate all unwanted subgraphs. These problems are called Subgraph Hitting, and subsume many well-studied graph optimization problems in the literature. The paper essentially proved that Subgraph Hitting can be solved in sub-exponential time as long as the input graph admits small “separators”, a structure whose removal breaks the graph into pieces of balanced sizes. This result significantly generalizes the previous work and deepens the understanding of subgraph-hitting problems."
+    },
+    {
+      "type": "figcaption",
+      "text": "Eliminating Problematic Substructures in Graphs"
+    },
+    {
+      "type": "p",
+      "text": "Read the paper – Subexponential Parameterized Algorithms for Hitting Subgraphs"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/nyu_shanghai_faculty_publications_selected_for_prestigious_stoc_conference-04_1.jpg?itok=ZmOm0pgp",
+      "alt": "graph theory",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyu_shanghai_faculty_publications_selected_for_prest-fe79993ba38c.jpg",
+      "download_status": "downloaded",
+      "bytes": 33811,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/NYU%20Shanghai%20Faculty%20Publications%20Selected%20for%20Prestigious%20STOC%20Conference-03%20%281%29_0.jpg",
+      "alt": "Efficient Matching with Minimum Distance",
+      "caption": "Efficient Matching with Minimum Distance",
+      "source": "img",
+      "local_path": "_shared/NYU-20Shanghai-20Faculty-20Publications-20Selected-2-067903598726.jpg",
+      "download_status": "downloaded",
+      "bytes": 367381,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/NYU%20Shanghai%20Faculty%20Publications%20Selected%20for%20Prestigious%20STOC%20Conference-01%20%281%29_0.jpg",
+      "alt": "Fast Detection of Complex Patterns in Sparse Graphs",
+      "caption": "Fast Detection of Complex Patterns in Sparse Graphs",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/NYU%20Shanghai%20Faculty%20Publications%20Selected%20for%20Prestigious%20STOC%20Conference-02%20%281%29_10.jpg",
+      "alt": "Eliminating Problematic Substructures in Graphs",
+      "caption": "Eliminating Problematic Substructures in Graphs",
+      "source": "img",
+      "local_path": "_shared/NYU-20Shanghai-20Faculty-20Publications-20Selected-2-fa7aa1cfe28d.jpg",
+      "download_status": "downloaded",
+      "bytes": 350431,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=NYU%20Shanghai%20Faculty%20Publications%20Selected%20for%20Prestigious%20STOC%20Conference&url=https%3A//shanghai.nyu.edu/news/nyu-shanghai-faculty-publications-selected-prestigious-stoc-conference&status=NYU%20Shanghai%20Faculty%20Publications%20Selected%20for%20Prestigious%20STOC%20Conference%20https%3A//shanghai.nyu.edu/news/nyu-shanghai-faculty-publications-selected-prestigious-stoc-conference",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/nyu-shanghai-faculty-publications-selected-prestigious-stoc-conference&title=NYU%20Shanghai%20Faculty%20Publications%20Selected%20for%20Prestigious%20STOC%20Conference",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/nyu-shanghai-faculty-publications-selected-prestigious-stoc-conference&title=NYU%20Shanghai%20Faculty%20Publications%20Selected%20for%20Prestigious%20STOC%20Conference",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jie-xue",
+      "text": "Xue Jie",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership/nasir-memon",
+      "text": "Nasir Memon",
+      "internal": true
+    },
+    {
+      "url": "https://dl.acm.org/doi/10.1145/3717823.3718147",
+      "text": "Approximation Algorithms for the Geometric Multimatching Problem",
+      "internal": false
+    },
+    {
+      "url": "https://dl.acm.org/doi/10.1145/3717823.3718251",
+      "text": "Efficiently Finding and Counting Patterns with Distance Constraints in Sparse Graphs",
+      "internal": false
+    },
+    {
+      "url": "https://dl.acm.org/doi/10.1145/3717823.3718192",
+      "text": "Subexponential Parameterized Algorithms for Hitting Subgraphs",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 544,
+  "crawled_at": "2026-06-09T04:39:44+00:00",
+  "sequence": 1251
+}

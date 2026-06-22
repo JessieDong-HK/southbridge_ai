@@ -1,0 +1,195 @@
+{
+  "id": "cn__is__course-spotlight-network-analytics-3Futm_source-3DGazette-2BAY-2B19-20-2BFall-26ut-c3b5a17bfd",
+  "url": "https://shanghai.nyu.edu/cn/is/course-spotlight-network-analytics%3Futm_source%3DGazette%2BAY%2B19-20%2BFall%26utm_campaign%3D4ad05f05a0-EMAIL_CAMPAIGN_2020_04_10_01_08%26utm_medium%3Demail%26utm_term%3D0_9d20950a4c-4ad05f05a0-20",
+  "canonical_url": "https://shanghai.nyu.edu/cn/is/course-spotlight-network-analytics%3Futm_source%3DGazette%2BAY%2B19-20%2BFall%26utm_campaign%3D4ad05f05a0-EMAIL_CAMPAIGN_2020_04_10_01_08%26utm_medium%3Demail%26utm_term%3D0_9d20950a4c-4ad05f05a0-20",
+  "page_type": "cn",
+  "title": "课程聚焦：网络分析学",
+  "description": "运用网络分析学解决商业问题",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "课程聚焦：网络分析学\nTwitter\nFacebook\nWeibo\n网络是社会发展的基石：人际关系网决定了人类社会形态，同事、员工和上司之间相互交织的角色和职权网络塑造了公司的组织架构，内容互联的万维网构成了全球信息的传播路径。最近暴发的新冠肺炎疫情也让我们看到，流行病在熟人社交网的传播，就和同龄人意见对我们购物选择的影响如出一辙。在网络中，子系统内的互动常常会传播扩散，进一步影响整个系统的运转结果。\n上海纽约大学信息系统与商业分析助理教授Bruno Abrahao主要研究网络对商业和社会的影响。作为一名经验丰富的计算机科学家，Abrahao教授多年来在自己的研究以及与爱彼迎、微软等公司的合作中，利用网络数据科学工具探索根植于网络中的商业问题的解决方法。在与爱彼迎合作期间，他绘制了用户间的信任网络图——确定哪些因素会影响房主与租客之间的相互选择。在微软人工智能研究院，他通过分析公司的电子邮件网络了解人际关系中的根本问题，寻找提高公司运营效率的方法。\n在由他执教的秋季学期研究生课程“网络分析学”中，Abrahao教授把自己丰富的工作和学术经验融入了课堂教学，指导数据分析和商业计算硕士研究生项目的学生如何用计算机科学、经济学和社会科学的工具与方法论分析网络，解决商业问题。他还负责教授与之内容相似的另一门本科生课程“社会与信息网络中的数据科学”。\nAbrahao教授与课上同学\n去年秋季学期，“网络分析学”课上的27名学生在Abrahao教授的带领下学习了数据科学的跨学科本质，以及网络分析工具，如第三方库 networkX、机器学习、自然语言处理等。Abrahao还指导大家运用这些工具解决当今社会中的问题。\n课程期末作业中，学生们充分运用课上所学的新技能、新知识，在小组项目中探索企业或社会重大问题的解决方案，通过数学建模使方案更加精确，并运行网络分析算法阐明原理。\n“教这门课时，我最享受的是能为一群来自不同背景、具备不同专业视角和世界观的学生创造方法和途径，让他们相互合作，突破学科界限，灵活设计问题解决方案，”Abrahao教授说道，“他们的项目成果常常让我眼前一亮！”\n2020届学生Phionna Teo和Yujung Huang运用网络分析学研究网络欺凌这一社会现象。“在用自动化系统识别欺侮性内容方面，各大社交媒体平台还是有些滞后。目前，这些平台还是主要依赖用户端的判断和举报处理网络欺凌现象，”Teo说道，“我们想确定容易遭受网络欺凌的人群类型，从而提高自动检测的运行效率。”\n二人先是研究了发布于2013年的三万条推文，并训练人工智能分类器识别“欺凌”关系。训练过程中，分类器学习了从另一份公开的维基百科数据集中提取的评论，这些评论被标上了注解，以有效识别带“欺凌”标签的行为。训练完成后，研究团队将分类器用于处理三万条推文的数据集，最终从中找出了三千起针对其他用户的“欺凌事件”。\n在对推文进行预处理之后，团队将用户的关系网络结构（如账户信息及关注/被关注关系）与先前制作的标签相关联，探究何种社交网络关系会导致用户更易遭受网络欺凌。二人还采用自然语言处理来分析推文用词，找出了欺侮性评论中最常用词汇和第二常用词汇之间的关联。分析结果对于社交媒体平台自动检测不良行为、识别易被欺凌的用户具有潜在价值。此外，Teo团队的分析方法对于像推特这样的社交媒体平台应对网络骚扰也有可能起到立竿见影的效果。\n2020届学生姚冠华和徐知行想在期末项目中探索歌曲主题和歌词内容随着时间推移发生了怎样的变化，以及音乐行业每年会涌入多少创意创新力量。二人运用网页抓取技术下载了140,000首美国公告牌音乐排行榜上1970至2000年间发行的英文歌曲的歌词。他们用自然语言处理技术提取歌曲主题，并将主题相似的歌曲联系起来，构建成歌曲网络。接着，他们将歌曲按照年份和15个主题进行划分，绘制歌曲网络结构演变图，展示音乐随时间而变化的趋势。这些歌曲网络揭示了音乐行业在哪些领域缺乏多样性，可以助力音乐制作人找到行业中的创意需求点。\n姚冠华和徐知行的项目追踪了音乐行业在过去40年的发展趋势\n其他学生的期末项目还包括对电商推荐系统的创新分析、开发定制旅行推荐应用软件等。可点击此处观看更多学生项目的视频。\nAbrahao教授和班上同学也充分利用了上海得天独厚的资源与优势，参观当地创新企业，与研究人员和创业者沟通交流。\n例如，学生们曾有机会与复旦大学计算机科学技术学院副教授陈阳交流，了解其研究团队如何在社交网络中运用机器学习检测大众点评和陌陌上的虚假账号。\n学生们还参观了位于上海静安区的亚马逊AWS联合创新中心和上海数据交易中心。上海数据交易中心是长三角地区乃至全国大数据集成和分析的中央枢纽，为商业、交通、安全及城市规划提供数据服务。\n学生们在亚马逊AWS联合创新中心合影\n学生们在上海数据交易中心合影\n“我们很高兴能有机会了解实体公司如何使用新兴技术，”2020届学生姚冠华说，“在亚马逊，我们学习了如何用云计算和大数据在中国建立智能系统。数据交易中心的工作人员则向我们展示了他们如何存储、维护数量庞大的数据，并将它们应用于市场营销、创业和创新领域。”",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "课程聚焦：网络分析学"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "网络是社会发展的基石：人际关系网决定了人类社会形态，同事、员工和上司之间相互交织的角色和职权网络塑造了公司的组织架构，内容互联的万维网构成了全球信息的传播路径。最近暴发的新冠肺炎疫情也让我们看到，流行病在熟人社交网的传播，就和同龄人意见对我们购物选择的影响如出一辙。在网络中，子系统内的互动常常会传播扩散，进一步影响整个系统的运转结果。"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学信息系统与商业分析助理教授Bruno Abrahao主要研究网络对商业和社会的影响。作为一名经验丰富的计算机科学家，Abrahao教授多年来在自己的研究以及与爱彼迎、微软等公司的合作中，利用网络数据科学工具探索根植于网络中的商业问题的解决方法。在与爱彼迎合作期间，他绘制了用户间的信任网络图——确定哪些因素会影响房主与租客之间的相互选择。在微软人工智能研究院，他通过分析公司的电子邮件网络了解人际关系中的根本问题，寻找提高公司运营效率的方法。"
+    },
+    {
+      "type": "p",
+      "text": "在由他执教的秋季学期研究生课程“网络分析学”中，Abrahao教授把自己丰富的工作和学术经验融入了课堂教学，指导数据分析和商业计算硕士研究生项目的学生如何用计算机科学、经济学和社会科学的工具与方法论分析网络，解决商业问题。他还负责教授与之内容相似的另一门本科生课程“社会与信息网络中的数据科学”。"
+    },
+    {
+      "type": "p",
+      "text": "Abrahao教授与课上同学"
+    },
+    {
+      "type": "p",
+      "text": "去年秋季学期，“网络分析学”课上的27名学生在Abrahao教授的带领下学习了数据科学的跨学科本质，以及网络分析工具，如第三方库 networkX、机器学习、自然语言处理等。Abrahao还指导大家运用这些工具解决当今社会中的问题。"
+    },
+    {
+      "type": "p",
+      "text": "课程期末作业中，学生们充分运用课上所学的新技能、新知识，在小组项目中探索企业或社会重大问题的解决方案，通过数学建模使方案更加精确，并运行网络分析算法阐明原理。"
+    },
+    {
+      "type": "p",
+      "text": "“教这门课时，我最享受的是能为一群来自不同背景、具备不同专业视角和世界观的学生创造方法和途径，让他们相互合作，突破学科界限，灵活设计问题解决方案，”Abrahao教授说道，“他们的项目成果常常让我眼前一亮！”"
+    },
+    {
+      "type": "p",
+      "text": "2020届学生Phionna Teo和Yujung Huang运用网络分析学研究网络欺凌这一社会现象。“在用自动化系统识别欺侮性内容方面，各大社交媒体平台还是有些滞后。目前，这些平台还是主要依赖用户端的判断和举报处理网络欺凌现象，”Teo说道，“我们想确定容易遭受网络欺凌的人群类型，从而提高自动检测的运行效率。”"
+    },
+    {
+      "type": "p",
+      "text": "二人先是研究了发布于2013年的三万条推文，并训练人工智能分类器识别“欺凌”关系。训练过程中，分类器学习了从另一份公开的维基百科数据集中提取的评论，这些评论被标上了注解，以有效识别带“欺凌”标签的行为。训练完成后，研究团队将分类器用于处理三万条推文的数据集，最终从中找出了三千起针对其他用户的“欺凌事件”。"
+    },
+    {
+      "type": "p",
+      "text": "在对推文进行预处理之后，团队将用户的关系网络结构（如账户信息及关注/被关注关系）与先前制作的标签相关联，探究何种社交网络关系会导致用户更易遭受网络欺凌。二人还采用自然语言处理来分析推文用词，找出了欺侮性评论中最常用词汇和第二常用词汇之间的关联。分析结果对于社交媒体平台自动检测不良行为、识别易被欺凌的用户具有潜在价值。此外，Teo团队的分析方法对于像推特这样的社交媒体平台应对网络骚扰也有可能起到立竿见影的效果。"
+    },
+    {
+      "type": "p",
+      "text": "2020届学生姚冠华和徐知行想在期末项目中探索歌曲主题和歌词内容随着时间推移发生了怎样的变化，以及音乐行业每年会涌入多少创意创新力量。二人运用网页抓取技术下载了140,000首美国公告牌音乐排行榜上1970至2000年间发行的英文歌曲的歌词。他们用自然语言处理技术提取歌曲主题，并将主题相似的歌曲联系起来，构建成歌曲网络。接着，他们将歌曲按照年份和15个主题进行划分，绘制歌曲网络结构演变图，展示音乐随时间而变化的趋势。这些歌曲网络揭示了音乐行业在哪些领域缺乏多样性，可以助力音乐制作人找到行业中的创意需求点。"
+    },
+    {
+      "type": "p",
+      "text": "姚冠华和徐知行的项目追踪了音乐行业在过去40年的发展趋势"
+    },
+    {
+      "type": "p",
+      "text": "其他学生的期末项目还包括对电商推荐系统的创新分析、开发定制旅行推荐应用软件等。可点击此处观看更多学生项目的视频。"
+    },
+    {
+      "type": "p",
+      "text": "Abrahao教授和班上同学也充分利用了上海得天独厚的资源与优势，参观当地创新企业，与研究人员和创业者沟通交流。"
+    },
+    {
+      "type": "p",
+      "text": "例如，学生们曾有机会与复旦大学计算机科学技术学院副教授陈阳交流，了解其研究团队如何在社交网络中运用机器学习检测大众点评和陌陌上的虚假账号。"
+    },
+    {
+      "type": "p",
+      "text": "学生们还参观了位于上海静安区的亚马逊AWS联合创新中心和上海数据交易中心。上海数据交易中心是长三角地区乃至全国大数据集成和分析的中央枢纽，为商业、交通、安全及城市规划提供数据服务。"
+    },
+    {
+      "type": "p",
+      "text": "学生们在亚马逊AWS联合创新中心合影"
+    },
+    {
+      "type": "p",
+      "text": "学生们在上海数据交易中心合影"
+    },
+    {
+      "type": "p",
+      "text": "“我们很高兴能有机会了解实体公司如何使用新兴技术，”2020届学生姚冠华说，“在亚马逊，我们学习了如何用云计算和大数据在中国建立智能系统。数据交易中心的工作人员则向我们展示了他们如何存储、维护数量庞大的数据，并将它们应用于市场营销、创业和创新领域。”"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/focus_image",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/focus_image/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/kmupdsgyegopatu4flc4wdns7xvajt6ukc_tzs9u-ifbz3ptlqz1bdrlfvx1vbuvphnqnwwxgoyfws1imoliz6apov1i5q7ntfvnsqtvlx5t_9wf9vkbqx26xtifw9ilr0bnmmvr.jpg?itok=mjo2W48d",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/content_page_slideshow_display/public/kmupdsgyegopatu4flc4wdns7xvajt6ukc_tzs9u-ifbz3ptlqz1bdrlfvx1vbuvphnqnwwxgoyfws1imoliz6apov1i5q7ntfvnsqtvlx5t_9wf9vkbqx26xtifw9ilr0bnmmvr.jpg?it"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/wpqoukzg81mg1nw8zbjou8wtvt_n_oc6l2nlypjocmi-c8oxgreii84vx_k-qeia7qlqfzwstzhmkurscabfc_0zwl2e-csyfe7jrndkojyr_neap6mwtjzzyowwdzykoqzdb2m.jpg",
+      "alt": "bruno abrahao network analytics1",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wpqoukzg81mg1nw8zbjou8wtvt_n_oc6l2nlypjocmi-c8oxgrei-5c96bca2d5c0.jpg",
+      "download_status": "downloaded",
+      "bytes": 249388,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/i_8byywv9m4i92bzfinis4fhd_5svy8muuspwqhaosjailh4k5jt6r3iskbiwojh5ggeinix5ccca80lekgkywbmxqrn9qebvtcia2-w2ff7md1qzpdl7foihmatbmerhl5_0rme.jpg",
+      "alt": "bruno abrahao network analytics amazon",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/i_8byywv9m4i92bzfinis4fhd_5svy8muuspwqhaosjailh4k5jt6r3iskbiwojh5ggeinix5ccca80lekgkywbmxqrn9qebvtcia2-w2ff7md1qzpdl7foihmatbmerhl5_0rme.jpg (Caused by SSLError(SSLEOFError(8, '[SSL:"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/fcucwv_1u5qlk0-r-o6dop4upwzxe5ot1xr5npi0wyhkeclmyo7dqzhwf0yxqheuno9s3q23x5gcr07vntnlzgnmjrzocecahqhyxspiez9zt6h_hk-fl7a-bvns8fntarobwmbe.jpg",
+      "alt": "bruno abrahao network analytics big data center",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=%E8%AF%BE%E7%A8%8B%E8%81%9A%E7%84%A6%EF%BC%9A%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90%E5%AD%A6&url=https%3A//shanghai.nyu.edu/cn/is/course-spotlight-network-analytics%3Futm_source%3DGazette%2BAY%2B19-20%2BFall%26utm_campaign%3D4ad05f05a0-EMAIL_CAMPAIGN_2020_04_10_01_08%26utm_medium%3Demail%26utm_term%3D0_9d20950a4c-4ad05f05a0-20&status=%E8%AF%BE%E7%A8%8B%E8%81%9A%E7%84%A6%EF%BC%9A%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90%E5%AD%A6%20https%3A//shanghai.nyu.edu/cn/is/course-spotlight-network-analytics%3Futm_source%3DGazette%2BAY%2B19-20%2BFall%26utm_campaign%3D4ad05f05a0-EMAIL_CAMPAIGN_2020_04_10_01_08%26utm_medium%3Demail%26utm_term%3D0_9d20950a4c-4ad05f05a0-20",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/cn/is/course-spotlight-network-analytics%3Futm_source%3DGazette%2BAY%2B19-20%2BFall%26utm_campaign%3D4ad05f05a0-EMAIL_CAMPAIGN_2020_04_10_01_08%26utm_medium%3Demail%26utm_term%3D0_9d20950a4c-4ad05f05a0-20&title=%E8%AF%BE%E7%A8%8B%E8%81%9A%E7%84%A6%EF%BC%9A%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90%E5%AD%A6",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/cn/is/course-spotlight-network-analytics%3Futm_source%3DGazette%2BAY%2B19-20%2BFall%26utm_campaign%3D4ad05f05a0-EMAIL_CAMPAIGN_2020_04_10_01_08%26utm_medium%3Demail%26utm_term%3D0_9d20950a4c-4ad05f05a0-20&title=%E8%AF%BE%E7%A8%8B%E8%81%9A%E7%84%A6%EF%BC%9A%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90%E5%AD%A6",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://stern.hosting.nyu.edu/abrahao",
+      "text": "Bruno Abrahao",
+      "internal": false
+    },
+    {
+      "url": "https://stern.hosting.nyu.edu/msnetworks19fa",
+      "text": "网络分析学",
+      "internal": false
+    },
+    {
+      "url": "https://stern.shanghai.nyu.edu/en/programs/ms-in-data-analytics-business-computing",
+      "text": "数据分析和商业计算硕士研究生项目",
+      "internal": false
+    },
+    {
+      "url": "https://i.youku.com/i/UNjE1NDEzMjk0NA==?spm=a2hzp.8253876.0.0",
+      "text": "此处",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 135,
+  "crawled_at": "2026-06-09T04:51:48+00:00",
+  "sequence": 2241
+}

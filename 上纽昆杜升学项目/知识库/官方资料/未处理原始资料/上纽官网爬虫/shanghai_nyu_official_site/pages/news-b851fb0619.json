@@ -1,0 +1,244 @@
+{
+  "id": "news-b851fb0619",
+  "url": "https://shanghai.nyu.edu/news?page=79",
+  "canonical_url": "https://shanghai.nyu.edu/news",
+  "page_type": "news",
+  "title": "News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/roy_lichtenstein__cover.jpg?itok=QtKryKky",
+      "alt": "img",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/interview__cover.jpg?itok=5Lil02wz",
+      "alt": "img",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/fruits__cover.jpg?itok=gLjj94vz",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/fruits__cover.jpg?itok=gLjj94vz (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protoco"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/coffee__cover.jpg?itok=D3C-R5Gz",
+      "alt": "img",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/coffee__cover-a86cb1d7cd14.jpg",
+      "download_status": "downloaded",
+      "bytes": 19844,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/carrefour__cover.jpg?itok=tFV40jOw",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/carrefour__cover-17b7b5ffe734.jpg",
+      "download_status": "downloaded",
+      "bytes": 22122,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/taxi__cover.jpg?itok=zDvzrl6e",
+      "alt": "img",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/taxi__cover-30a3b09db61f.jpg",
+      "download_status": "downloaded",
+      "bytes": 29682,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/dumplings__cover.jpg?itok=whl100D_",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/dumplings__cover-76cb603a2f97.jpg",
+      "download_status": "downloaded",
+      "bytes": 15511,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/logo_on_glass__cover.jpg?itok=jcHqUUGq",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/logo_on_glass__cover_1.jpg?itok=0n9QJGJQ",
+      "alt": "img",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/logo_on_glass__cover_1-5ba902c6310d.jpg",
+      "download_status": "downloaded",
+      "bytes": 8402,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/logo_on_glass__cover_2.jpg?itok=WtcIEuZt",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/logo_on_glass__cover_2-caafffad2e5a.jpg",
+      "download_status": "downloaded",
+      "bytes": 8402,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/logo_on_glass__cover_3.jpg?itok=bvUGgNUW",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/logo_on_glass__cover_3-f72c309cdc10.jpg",
+      "download_status": "downloaded",
+      "bytes": 8402,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/logo_on_glass__cover_4.jpg?itok=leY-kyts",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/groupwork__cover.jpg?itok=KNulvvsE",
+      "alt": "week",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/logo_on_glass__cover_0.jpg?itok=9g6cF59V",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/jeff-xi-handshaking-sm__cover.jpg?itok=SHOiWAGp",
+      "alt": "jeff",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/jeff-xi-handshaking-sm__cover-b6503df7bc15.jpg",
+      "download_status": "downloaded",
+      "bytes": 15454,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/first-world-problems",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/finding-internships",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/beginners-guide-bargaining",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/french-bistro-and-cafe-visit-some-coffee-peace-and-quiet-during-midterm-week",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/groceries-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/cabs-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/chopstick-challenge",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/announcing-appointment-dr-yuxin-chen",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/communications-enrolled-students",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/announcing-updated-diploma-information",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/new-strain-flu-virus",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/updated-cost-attendance",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/2013-nyu-shanghais-candidate-weekend",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-view-american-university-admission-philosophy-and-its-influence-nyu-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/vice-chancellor-lehman-meets-general-secretary-xi-jinping",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:29:55+00:00",
+  "sequence": 253
+}

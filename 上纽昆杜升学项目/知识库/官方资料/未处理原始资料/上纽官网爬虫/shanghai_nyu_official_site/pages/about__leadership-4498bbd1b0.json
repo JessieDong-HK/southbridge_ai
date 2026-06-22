@@ -1,0 +1,289 @@
+{
+  "id": "about__leadership-4498bbd1b0",
+  "url": "https://shanghai.nyu.edu/about/leadership",
+  "canonical_url": "https://shanghai.nyu.edu/about/leadership",
+  "page_type": "about",
+  "title": "Leadership | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Leadership",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Leadership"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/tong-shijun_1.jpg?itok=MKW3I93o",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/tong-shijun_1-9aac7e97c014.jpg",
+      "download_status": "downloaded",
+      "bytes": 10462,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/jeffrey_s_lehman_1_0.jpg?itok=EFuetLfP",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/jeffrey_s_lehman_1_0-a26a046fa140.jpg",
+      "download_status": "downloaded",
+      "bytes": 10840,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/final-Bei%20Wu-2025%20fall_1.jpg?itok=TbM_6Afl",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/final-Bei-20Wu-2025-20fall_1-8935783c86cb.jpg",
+      "download_status": "downloaded",
+      "bytes": 12842,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/eitan-zemel.jpg?itok=IbhWf3uC",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/eitan-zemel-9bfb6345eddd.jpg",
+      "download_status": "downloaded",
+      "bytes": 11030,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/shuzhe-ding.jpg?itok=Ge1iy9yP",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/shuzhe-ding-8b3b2cf356d4.jpg",
+      "download_status": "downloaded",
+      "bytes": 9923,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/davidpe.jpg?itok=XDWgEWrG",
+      "alt": "David Pe",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/davidpe-9fbffea16ae5.jpg",
+      "download_status": "downloaded",
+      "bytes": 10668,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/pierre-tarres-edited.jpg?itok=hggLwFVT",
+      "alt": "Pierre Tarrès",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/pierre-tarres-edited-e1a6538ff452.jpg",
+      "download_status": "downloaded",
+      "bytes": 10458,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/David-Atwill.jpg?itok=MJgBYZF_",
+      "alt": "David Atwill",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/yuxin_chen_3.jpg?itok=E3yHJYxF",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/yuxin_chen_3-c8887940f949.jpg",
+      "download_status": "downloaded",
+      "bytes": 11091,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/nasir-memon-edited.jpg?itok=1fFfXLed",
+      "alt": "Nasir Memon",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nasir-memon-edited-d2532d1c2fbe.jpg",
+      "download_status": "downloaded",
+      "bytes": 10933,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/Helen-HU-1.jpg?itok=CNh8AgX8",
+      "alt": "Helen Hu",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/jiang-hua-nyu_0.jpg?itok=e0U4ATXm",
+      "alt": "Hua Jiang",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/jiang-hua-nyu_0-97d81b17482d.jpg",
+      "download_status": "downloaded",
+      "bytes": 11472,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/Rime-SUN-1.jpg?itok=Dali7XEu",
+      "alt": "Rime Sun",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Rime-SUN-1-e707e09fe67e.jpg",
+      "download_status": "downloaded",
+      "bytes": 10660,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/leadership/tong-shijun",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/25719",
+      "text": "Tong Shijun",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership/jeffrey-s-lehman",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/348",
+      "text": "Jeffrey S. Lehman",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership/bei-wu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/351",
+      "text": "Bei Wu",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership/eitan-zemel",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/352",
+      "text": "Eitan Zemel",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership/shuzhe-ding",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/9763",
+      "text": "Shuzhe Ding",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership/david-pe",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/354",
+      "text": "David Pe",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership/pierre-tarres",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/14099",
+      "text": "Pierre Tarrès",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership/david-g-atwill",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/8836",
+      "text": "David G. Atwill",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership/yuxin-chen",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/1482",
+      "text": "Yuxin Chen",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership/nasir-memon",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/353",
+      "text": "Nasir Memon",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership/helen-hu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/42964",
+      "text": "Helen Hu",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership/hua-jiang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/10290",
+      "text": "Hua Jiang",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership/rime-sun",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/42965",
+      "text": "Rime Sun",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/about/viod(0)",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:27:55+00:00",
+  "sequence": 13
+}

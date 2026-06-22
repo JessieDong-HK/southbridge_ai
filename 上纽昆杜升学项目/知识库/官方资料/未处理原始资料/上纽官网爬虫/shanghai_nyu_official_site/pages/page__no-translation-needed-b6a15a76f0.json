@@ -1,0 +1,79 @@
+{
+  "id": "page__no-translation-needed-b6a15a76f0",
+  "url": "https://shanghai.nyu.edu/page/no-translation-needed",
+  "canonical_url": "https://shanghai.nyu.edu/page/no-translation-needed",
+  "page_type": "page",
+  "title": "No Translation Needed",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "No Translation Needed\nEach academic year, NYU Shanghai presents No Translation Needed, a series of conversations and shared experiences designed to foster listening, understanding, and connection across differences without filtering or simplifying people’s experiences.\nNo Translation Needed takes place throughout the academic year and evolves in response to current global and local contexts. Through dialogue-based sessions, creative expression, storytelling, and experiential activities, participants are invited to engage in storytelling that centers on real lives, everyday experiences, and diverse perspectives.\nEach year, No Translation Needed recruits Curators from the LEAD program members, collaborates with student leaders, campus partners, and community members who are committed to thoughtful dialogue and mutual understanding. Student facilitators and contributors play an active role in shaping and leading sessions, helping to cultivate a campus culture grounded in listening, respect, and shared learning.\n2025 Fall No Translation Needed Season One: Community and Self-explore\nProgram\nVideo\nArticle",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "No Translation Needed"
+    },
+    {
+      "type": "p",
+      "text": "Each academic year, NYU Shanghai presents No Translation Needed, a series of conversations and shared experiences designed to foster listening, understanding, and connection across differences without filtering or simplifying people’s experiences."
+    },
+    {
+      "type": "p",
+      "text": "No Translation Needed takes place throughout the academic year and evolves in response to current global and local contexts. Through dialogue-based sessions, creative expression, storytelling, and experiential activities, participants are invited to engage in storytelling that centers on real lives, everyday experiences, and diverse perspectives."
+    },
+    {
+      "type": "p",
+      "text": "Each year, No Translation Needed recruits Curators from the LEAD program members, collaborates with student leaders, campus partners, and community members who are committed to thoughtful dialogue and mutual understanding. Student facilitators and contributors play an active role in shaping and leading sessions, helping to cultivate a campus culture grounded in listening, respect, and shared learning."
+    },
+    {
+      "type": "h4",
+      "text": "2025 Fall No Translation Needed Season One: Community and Self-explore"
+    },
+    {
+      "type": "li",
+      "text": "Program"
+    },
+    {
+      "type": "li",
+      "text": "Video"
+    },
+    {
+      "type": "li",
+      "text": "Article"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/th.jpg",
+      "alt": "025 Fall No Translation Needed",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/th-0eacda3ee867.jpg",
+      "download_status": "downloaded",
+      "bytes": 186009,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/lead-program",
+      "text": "LEAD program",
+      "internal": true
+    },
+    {
+      "url": "https://docs.google.com/document/d/1kiV7w5cW35_O0vFUthhBRRdf_b2pFsW-i2inmhhRumI/edit?tab=t.0",
+      "text": "Program",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/1hPb8DwRPspoCp609RnUwOE07MJzQQ7yJ/view?usp=sharing",
+      "text": "Video",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 151,
+  "crawled_at": "2026-06-09T04:32:06+00:00",
+  "sequence": 518
+}

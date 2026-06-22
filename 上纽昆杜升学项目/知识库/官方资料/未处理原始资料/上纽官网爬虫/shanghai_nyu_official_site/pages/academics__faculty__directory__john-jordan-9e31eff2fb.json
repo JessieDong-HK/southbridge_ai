@@ -1,0 +1,78 @@
+{
+  "id": "academics__faculty__directory__john-jordan-9e31eff2fb",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/john-jordan",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/john-jordan",
+  "page_type": "academics",
+  "title": "John",
+  "description": "John teaches theme-based EAP courses on money/finance and online video. His Money Stuff students explore the ontological nature of different forms of money, the illusional alchemy of banking, and the implications of the rise of finance in the world, both in controlled ways building academic skills",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "John Jordan\nJohn teaches theme-based EAP courses on money/finance and online video. His Money Stuff students explore the ontological nature of different forms of money, the illusional alchemy of banking, and the implications of the rise of finance in the world, both in controlled ways building academic skills and also through experiential learning out in Shanghai. His Online Video students explore the myriad world of internet video, from algorithmic short-form video to livestream selling, from participatory culture to internet aesthetics, through guided exploration of online video platforms and reading contemporary research. These students complete individual qualitative research projects that they turn into their own fascinating videos. Prior to joining NYU Shanghai, John taught at the University of Kansas Applied English Center, Al-Ahkawayn University Language Center, and the Middlebury Institute of International Studies at Monterey. Outside of the classroom, John has coached and referred basketball on three different continents, including when he served as a Peace Corps Volunteer in Madagascar.\nPresentations\n“Future Proofing with Metacognition: Student Listening Journals to Build Metacognition,” 7th Annual CELC Symposium, National University of Singapore, Singapore (May 2025)\nPanelist, “Experiential Learning at NYU Shanghai,” LCC Conference 2025, Duke Kunshan University, China (February 2025)\n“Listening Journals for Metacognitive Learning,” CamTESOL, Cambodia (February 2024)\n\"Alternative Assessment of Grammar,” to Brazilian Teacher Training Program, University of Kansas (February 2018)\n“Empower the Flipped Grammar Classroom with Engaging Videos and Activities,” TESOL International Convention & English Language Expo, USA (March 2017)\nEducation\nMA, TESOLMiddlebury Institution of International Studies Monterey\nEAP 100 Money Stuff\nEAP 101 Online Video",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "John Jordan"
+    },
+    {
+      "type": "p",
+      "text": "John teaches theme-based EAP courses on money/finance and online video. His Money Stuff students explore the ontological nature of different forms of money, the illusional alchemy of banking, and the implications of the rise of finance in the world, both in controlled ways building academic skills and also through experiential learning out in Shanghai. His Online Video students explore the myriad world of internet video, from algorithmic short-form video to livestream selling, from participatory culture to internet aesthetics, through guided exploration of online video platforms and reading contemporary research. These students complete individual qualitative research projects that they turn into their own fascinating videos. Prior to joining NYU Shanghai, John taught at the University of Kansas Applied English Center, Al-Ahkawayn University Language Center, and the Middlebury Institute of International Studies at Monterey. Outside of the classroom, John has coached and referred basketball on three different continents, including when he served as a Peace Corps Volunteer in Madagascar."
+    },
+    {
+      "type": "h3",
+      "text": "Presentations"
+    },
+    {
+      "type": "li",
+      "text": "“Future Proofing with Metacognition: Student Listening Journals to Build Metacognition,” 7th Annual CELC Symposium, National University of Singapore, Singapore (May 2025)"
+    },
+    {
+      "type": "li",
+      "text": "Panelist, “Experiential Learning at NYU Shanghai,” LCC Conference 2025, Duke Kunshan University, China (February 2025)"
+    },
+    {
+      "type": "li",
+      "text": "“Listening Journals for Metacognitive Learning,” CamTESOL, Cambodia (February 2024)"
+    },
+    {
+      "type": "li",
+      "text": "\"Alternative Assessment of Grammar,” to Brazilian Teacher Training Program, University of Kansas (February 2018)"
+    },
+    {
+      "type": "li",
+      "text": "“Empower the Flipped Grammar Classroom with Engaging Videos and Activities,” TESOL International Convention & English Language Expo, USA (March 2017)"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MA, TESOLMiddlebury Institution of International Studies Monterey"
+    },
+    {
+      "type": "li",
+      "text": "EAP 100 Money Stuff"
+    },
+    {
+      "type": "li",
+      "text": "EAP 101 Online Video"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/jordan_john_robert_2022.jpeg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 258,
+  "crawled_at": "2026-06-09T04:54:48+00:00",
+  "sequence": 2455
+}

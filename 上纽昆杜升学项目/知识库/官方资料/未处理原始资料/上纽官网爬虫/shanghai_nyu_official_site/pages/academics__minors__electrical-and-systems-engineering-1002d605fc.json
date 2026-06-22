@@ -1,0 +1,87 @@
+{
+  "id": "academics__minors__electrical-and-systems-engineering-1002d605fc",
+  "url": "https://shanghai.nyu.edu/academics/minors/electrical-and-systems-engineering",
+  "canonical_url": "https://shanghai.nyu.edu/academics/minors/electrical-and-systems-engineering",
+  "page_type": "academics",
+  "title": "Electrical and Systems Engineering",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Electrical and Systems Engineering\nElectrical and Systems Engineering at NYU Shanghai is designed to create technological leaders with a global perspective and the capacity to think creatively. Innovations by electrical engineers touch every aspect of modern life, from the subway systems beneath our cities, to the HD televisions on our walls and the smart phones in our pockets. The Electrical and Systems Engineering program draws upon courses across an array of disciplines - including mathematics, physics and computer science - in addition to a wide variety of courses in electrical and systems engineering.\nRequirements for the Minor\nChoose One\nCSCI-SHU 11 Introduction to Programming\nINTM-SHU 101 Interaction Lab\nFaculty Mentors\nFaculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory.\nArea Head of Engineering, Assistant Professor of Engineering, NYU Shanghai",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Electrical and Systems Engineering"
+    },
+    {
+      "type": "p",
+      "text": "Electrical and Systems Engineering at NYU Shanghai is designed to create technological leaders with a global perspective and the capacity to think creatively. Innovations by electrical engineers touch every aspect of modern life, from the subway systems beneath our cities, to the HD televisions on our walls and the smart phones in our pockets. The Electrical and Systems Engineering program draws upon courses across an array of disciplines - including mathematics, physics and computer science - in addition to a wide variety of courses in electrical and systems engineering."
+    },
+    {
+      "type": "h3",
+      "text": "Requirements for the Minor"
+    },
+    {
+      "type": "p",
+      "text": "Choose One"
+    },
+    {
+      "type": "p",
+      "text": "CSCI-SHU 11 Introduction to Programming"
+    },
+    {
+      "type": "p",
+      "text": "INTM-SHU 101 Interaction Lab"
+    },
+    {
+      "type": "h3",
+      "text": "Faculty Mentors"
+    },
+    {
+      "type": "p",
+      "text": "Faculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory."
+    },
+    {
+      "type": "p",
+      "text": "Area Head of Engineering, Assistant Professor of Engineering, NYU Shanghai"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/zhi_ye_zhao_2_1_2.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/zhi_ye_zhao_2_1_2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/posting-minor",
+      "text": "Post a Minor",
+      "internal": true
+    },
+    {
+      "url": "https://sis.nyu.edu/psc/csprod/EMPLOYEE/SA/c/NYU_SR.NYU_CLS_SRCH.GBL?&",
+      "text": "find a course on Albert",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory",
+      "text": "faculty directory",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/zhibin-chen",
+      "text": "Zhibin Chen",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 175,
+  "crawled_at": "2026-06-09T04:41:28+00:00",
+  "sequence": 1386
+}

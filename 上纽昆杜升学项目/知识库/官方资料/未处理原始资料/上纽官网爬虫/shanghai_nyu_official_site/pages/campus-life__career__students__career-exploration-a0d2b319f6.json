@@ -1,0 +1,119 @@
+{
+  "id": "campus-life__career__students__career-exploration-a0d2b319f6",
+  "url": "https://shanghai.nyu.edu/campus-life/career/students/career-exploration",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/career/students/career-exploration",
+  "page_type": "campus-life",
+  "title": "Explore Your Options",
+  "description": "What should I do with my life?The Center for Career Development can help you with the career exploration process through career coaching, assessments, industry resources, networking opportunities and other workshops and programs.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Explore Your Options\nWhat should I do with my life?\nThe Center for Career Development can help you with the career exploration process through career coaching, assessments, industry resources, networking opportunities and other workshops and programs. Once you’ve chosen a direction, we can help you set goals for success. If you're not sure how to begin, you can start by meeting with one of our career coaches.\nReview the Career Action Plan for some ideas about how to make progress toward your career goals in each year of undergraduate study. This section also lists some career exploration tools and resources, as well as a list of websites with information about taking a gap year after graduation.\nCareer Exploration Tools\nCareer & Graduate School Coaching\nCareer Action Plan\nTaking a Gap Year",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Explore Your Options"
+    },
+    {
+      "type": "h2",
+      "text": "What should I do with my life?"
+    },
+    {
+      "type": "p",
+      "text": "The Center for Career Development can help you with the career exploration process through career coaching, assessments, industry resources, networking opportunities and other workshops and programs. Once you’ve chosen a direction, we can help you set goals for success. If you're not sure how to begin, you can start by meeting with one of our career coaches."
+    },
+    {
+      "type": "p",
+      "text": "Review the Career Action Plan for some ideas about how to make progress toward your career goals in each year of undergraduate study. This section also lists some career exploration tools and resources, as well as a list of websites with information about taking a gap year after graduation."
+    },
+    {
+      "type": "h4",
+      "text": "Career Exploration Tools"
+    },
+    {
+      "type": "h4",
+      "text": "Career & Graduate School Coaching"
+    },
+    {
+      "type": "h4",
+      "text": "Career Action Plan"
+    },
+    {
+      "type": "h4",
+      "text": "Taking a Gap Year"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/img_5011-7.jpg",
+      "alt": "What should I do with my life?",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-2-02-2.jpg",
+      "alt": "Career Exploration Tools",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-2-02-3.jpg",
+      "alt": "Career",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/career-action-plan.jpg",
+      "alt": "Career Action Plan",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/career-action-plan.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-2-02-5_0.jpg",
+      "alt": "Taking a Gap Year",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-2-02-5_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/campuslife/career-action-plan",
+      "text": "Career Action Plan",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campuslife/career-exploration-tools",
+      "text": "Career Exploration Tools",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campuslife/coaching-advisement",
+      "text": "Career & Graduate School Coaching",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campuslife/taking-gap-year",
+      "text": "Taking a Gap Year",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 132,
+  "crawled_at": "2026-06-09T04:32:09+00:00",
+  "sequence": 526
+}

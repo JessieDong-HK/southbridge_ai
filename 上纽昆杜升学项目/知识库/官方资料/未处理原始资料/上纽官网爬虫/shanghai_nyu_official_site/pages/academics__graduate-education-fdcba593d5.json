@@ -1,0 +1,202 @@
+{
+  "id": "academics__graduate-education-fdcba593d5",
+  "url": "https://shanghai.nyu.edu/academics/graduate-education",
+  "canonical_url": "https://shanghai.nyu.edu/academics/graduate-education",
+  "page_type": "academics",
+  "title": "Graduate Education",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Graduate Education\nNYU Shanghai offers master’s and PhD programs in a variety of academic and professional disciplines. Students in such programs acquire a world-class education and become future leaders dedicated to advancing the global good in their chosen fields.\nWhy Choose NYU Shanghai?\nHundreds of graduate students make NYU Shanghai their home every year. A diverse and dynamic community, our graduate students hail from all over the world, but share an abiding intellectual curiosity and global mindset. Our programs span a broad range of areas and are highlighted by the following features:\nPartnerships between NYU Shanghai and peer NYU schools and academic departments\nStudy at and instruction from distinguished faculty in Shanghai, New York City, and other global NYU centers\nImmersion in a cutting-edge research environment\nDedication to student support and the entire student life experience\nConnection to NYU's alumni community, more than 700,000 worldwide\nA NYU-granted graduate degree upon completion\nMaster's Programs\nPhD Programs\nNYU Research Fellowship Programs\nNYU Study Away Programs in Shanghai\nGraduate News\nGraduate Alumni Community\nGraduate Convocation",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Graduate Education"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai offers master’s and PhD programs in a variety of academic and professional disciplines. Students in such programs acquire a world-class education and become future leaders dedicated to advancing the global good in their chosen fields."
+    },
+    {
+      "type": "h3",
+      "text": "Why Choose NYU Shanghai?"
+    },
+    {
+      "type": "p",
+      "text": "Hundreds of graduate students make NYU Shanghai their home every year. A diverse and dynamic community, our graduate students hail from all over the world, but share an abiding intellectual curiosity and global mindset. Our programs span a broad range of areas and are highlighted by the following features:"
+    },
+    {
+      "type": "li",
+      "text": "Partnerships between NYU Shanghai and peer NYU schools and academic departments"
+    },
+    {
+      "type": "li",
+      "text": "Study at and instruction from distinguished faculty in Shanghai, New York City, and other global NYU centers"
+    },
+    {
+      "type": "li",
+      "text": "Immersion in a cutting-edge research environment"
+    },
+    {
+      "type": "li",
+      "text": "Dedication to student support and the entire student life experience"
+    },
+    {
+      "type": "li",
+      "text": "Connection to NYU's alumni community, more than 700,000 worldwide"
+    },
+    {
+      "type": "li",
+      "text": "A NYU-granted graduate degree upon completion"
+    },
+    {
+      "type": "h4",
+      "text": "Master's Programs"
+    },
+    {
+      "type": "h4",
+      "text": "PhD Programs"
+    },
+    {
+      "type": "h4",
+      "text": "NYU Research Fellowship Programs"
+    },
+    {
+      "type": "h4",
+      "text": "NYU Study Away Programs in Shanghai"
+    },
+    {
+      "type": "h4",
+      "text": "Graduate News"
+    },
+    {
+      "type": "h4",
+      "text": "Graduate Alumni Community"
+    },
+    {
+      "type": "h4",
+      "text": "Graduate Convocation"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-01-2.jpg",
+      "alt": "OGAE QR Code",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-graduate-01-2-8f0fcd19fa3a.jpg",
+      "download_status": "downloaded",
+      "bytes": 39925,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Master%27s-Programs-6.jpg",
+      "alt": "Master's Programs",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Master-27s-Programs-6-56a0efdeec5d.jpg",
+      "download_status": "downloaded",
+      "bytes": 263334,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-01-4.jpg",
+      "alt": "PhD Programs",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-graduate-01-4-02e3dc5848d8.jpg",
+      "download_status": "downloaded",
+      "bytes": 103674,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-01-5.jpg",
+      "alt": "NYU Research Fellowship Programs",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-graduate-01-5-a3227a4dc659.jpg",
+      "download_status": "downloaded",
+      "bytes": 71657,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-01-6.jpg",
+      "alt": "NYU Study Away Programs in Shanghai",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-01-7.jpg",
+      "alt": "Graduate News",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-graduate-01-7-799c6dde79f1.jpg",
+      "download_status": "downloaded",
+      "bytes": 102961,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-ogae-1.jpg",
+      "alt": "Graduate Alumni Community",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/kv_picture_for_website_0_1.jpg",
+      "alt": "Graduate Convocation",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/kv_picture_for_website_0_1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/academics/graduate/masters-programs",
+      "text": "Master's Programs",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/graduate/phd-programs",
+      "text": "PhD Programs",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/graduate/research-fellowship-programs",
+      "text": "NYU Research Fellowship Programs",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/graduate/nyu-study-away-in-shanghai",
+      "text": "NYU Study Away Programs in Shanghai",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/graduate/news",
+      "text": "Graduate News",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/graduate/graduate-alumni-community",
+      "text": "Graduate Alumni Community",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/convocation",
+      "text": "Graduate Convocation",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 179,
+  "crawled_at": "2026-06-09T04:29:22+00:00",
+  "sequence": 209
+}

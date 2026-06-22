@@ -1,0 +1,120 @@
+{
+  "id": "page__past-nyu-shanghai-reads-events-4ef30079af",
+  "url": "https://shanghai.nyu.edu/page/past-nyu-shanghai-reads-events",
+  "canonical_url": "https://shanghai.nyu.edu/page/past-nyu-shanghai-reads-events",
+  "page_type": "page",
+  "title": "Past NYU Shanghai Reads Events",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Past NYU Shanghai Reads Events\n2025-2026\n2024-2025\n2023-2024\n2022-2023\n2021-2022",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Past NYU Shanghai Reads Events"
+    },
+    {
+      "type": "h4",
+      "text": "2025-2026"
+    },
+    {
+      "type": "h4",
+      "text": "2024-2025"
+    },
+    {
+      "type": "h4",
+      "text": "2023-2024"
+    },
+    {
+      "type": "h4",
+      "text": "2022-2023"
+    },
+    {
+      "type": "h4",
+      "text": "2021-2022"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/1_10.jpg",
+      "alt": "2025-2026",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/1_10-a73ee567909b.jpg",
+      "download_status": "downloaded",
+      "bytes": 96612,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/2024.jpg",
+      "alt": "2024-2025",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2024-a0062a7abf16.jpg",
+      "download_status": "downloaded",
+      "bytes": 138840,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-reads-03.jpg",
+      "alt": "2023-2024",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-reads-01.jpg",
+      "alt": "Past NYU Shanghai Reads Events",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-reads-01-f1ab801aaf20.jpg",
+      "download_status": "downloaded",
+      "bytes": 816109,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-reads-02.jpg",
+      "alt": "Past NYU Shanghai Reads Events",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-reads-02-07fb2165bea2.jpg",
+      "download_status": "downloaded",
+      "bytes": 817712,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/content/past-nyu-shanghai-reads-events-2025-2026",
+      "text": "2025-2026",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/undergraduate/nyu-shanghai-reads/past-events/2024",
+      "text": "2024-2025",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/undergraduate/nyu-shanghai-reads/past-events/2023",
+      "text": "2023-2024",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/undergraduate/nyu-shanghai-reads/past-events/2022",
+      "text": "2022-2023",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/undergraduate/nyu-shanghai-reads/past-events/2021",
+      "text": "2021-2022",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 15,
+  "crawled_at": "2026-06-09T04:30:44+00:00",
+  "sequence": 349
+}

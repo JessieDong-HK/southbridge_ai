@@ -1,0 +1,100 @@
+{
+  "id": "academics__faculty__directory__yuan-tian-1f043c5bd3",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/yuan-tian",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/yuan-tian",
+  "page_type": "academics",
+  "title": "Yuan",
+  "description": "Yuan (Tanya) Tian is an Assistant Professor of Management and Organizations at NYU Shanghai. Tian studies cumulative advantage with a focus on labor markets and innovation. Prior to joining NYU Shanghai, she obtained her PhD from Kellogg School of Management at Northwestern University.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Yuan Tian\nYuan (Tanya) Tian is an Assistant Professor of Management and Organizations at NYU Shanghai. Tian studies cumulative advantage with a focus on labor markets and innovation. Prior to joining NYU Shanghai, she obtained her PhD from Kellogg School of Management at Northwestern University.\nSelect Publications\nTanya Y. Tian and Edward B. Smith (2024), “Stretched Thin: How A Misalignment Between Allocation and Valuation Underlies the Paradox of Diversity Achievement in Higher Education”, Administrative Science Quarterly, 69(3), 711-746\nTanya Y. Tian and Edward B. Smith (2024), “Stretched Thin: How A Misalignment Between Allocation and Valuation Underlies the Paradox of Diversity Achievement in Higher Education”, Administrative Science Quarterly, 69(3), 711-746\nTanya Y. Tian, Brayden King, and Edward B. Smith (2023), “Effect of Organizational Status on Employment-related Corporate Social Responsibility: Evidence from a Regression Discontinuity Approach”, Strategic Management Journal, 44(12), 2833-2857.\nTanya Y. Tian, Brayden King, and Edward B. Smith (2023), “Effect of Organizational Status on Employment-related Corporate Social Responsibility: Evidence from a Regression Discontinuity Approach”, Strategic Management Journal, 44(12), 2833-2857.\nYang Yang, Tanya Y. Tian, Teresa K. Woodruff, Benjamin F. Jones, and Brian Uzzi. 2022. Gender-diverse Teams Produce More Novel and Higher Impact Scientific Ideas. Proceedings of the National Academy of Sciences, 119 (36) e2200841119.\nEducation\nPhD, Management and OrganizationsNorthwestern University\nMPhil, Social SciencesHong Kong University of Science and Technology\nBBA, Finance & Operations ManagementHong Kong University of Science and Technology\nStatus and Reputation\nInnovation and Science\nComputational Social Science\nStakeholders and Corporate Social Responsibility",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Yuan Tian"
+    },
+    {
+      "type": "p",
+      "text": "Yuan (Tanya) Tian is an Assistant Professor of Management and Organizations at NYU Shanghai. Tian studies cumulative advantage with a focus on labor markets and innovation. Prior to joining NYU Shanghai, she obtained her PhD from Kellogg School of Management at Northwestern University."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Tanya Y. Tian and Edward B. Smith (2024), “Stretched Thin: How A Misalignment Between Allocation and Valuation Underlies the Paradox of Diversity Achievement in Higher Education”, Administrative Science Quarterly, 69(3), 711-746"
+    },
+    {
+      "type": "p",
+      "text": "Tanya Y. Tian and Edward B. Smith (2024), “Stretched Thin: How A Misalignment Between Allocation and Valuation Underlies the Paradox of Diversity Achievement in Higher Education”, Administrative Science Quarterly, 69(3), 711-746"
+    },
+    {
+      "type": "li",
+      "text": "Tanya Y. Tian, Brayden King, and Edward B. Smith (2023), “Effect of Organizational Status on Employment-related Corporate Social Responsibility: Evidence from a Regression Discontinuity Approach”, Strategic Management Journal, 44(12), 2833-2857."
+    },
+    {
+      "type": "p",
+      "text": "Tanya Y. Tian, Brayden King, and Edward B. Smith (2023), “Effect of Organizational Status on Employment-related Corporate Social Responsibility: Evidence from a Regression Discontinuity Approach”, Strategic Management Journal, 44(12), 2833-2857."
+    },
+    {
+      "type": "li",
+      "text": "Yang Yang, Tanya Y. Tian, Teresa K. Woodruff, Benjamin F. Jones, and Brian Uzzi. 2022. Gender-diverse Teams Produce More Novel and Higher Impact Scientific Ideas. Proceedings of the National Academy of Sciences, 119 (36) e2200841119."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Management and OrganizationsNorthwestern University"
+    },
+    {
+      "type": "li",
+      "text": "MPhil, Social SciencesHong Kong University of Science and Technology"
+    },
+    {
+      "type": "li",
+      "text": "BBA, Finance & Operations ManagementHong Kong University of Science and Technology"
+    },
+    {
+      "type": "li",
+      "text": "Status and Reputation"
+    },
+    {
+      "type": "li",
+      "text": "Innovation and Science"
+    },
+    {
+      "type": "li",
+      "text": "Computational Social Science"
+    },
+    {
+      "type": "li",
+      "text": "Stakeholders and Corporate Social Responsibility"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/screen_shot_2021-11-11_at_11.11.29_am.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://tanyatian321.github.io/",
+      "text": "https://tanyatian321.github.io/",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 254,
+  "crawled_at": "2026-06-09T04:53:46+00:00",
+  "sequence": 2389
+}

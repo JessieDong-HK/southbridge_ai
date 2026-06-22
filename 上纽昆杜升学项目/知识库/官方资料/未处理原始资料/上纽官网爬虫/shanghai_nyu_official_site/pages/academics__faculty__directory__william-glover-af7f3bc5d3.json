@@ -1,0 +1,144 @@
+{
+  "id": "academics__faculty__directory__william-glover-af7f3bc5d3",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/william-glover",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/william-glover",
+  "page_type": "academics",
+  "title": "William",
+  "description": "William Glover is the Co-Director of the NYU-ECNU Center for Computational Chemistry, Graduate Coordinator of Chemistry, and an Associate Professor of Chemistry at NYU Shanghai. Additionally, he serves as a Global Network Associate Professor in the Department of Chemistry at NYU.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "William Glover\nSelect Publications\nA. Humeniuk*, W. J. Glover*, “Multistate, polarizable QM/MM embedding scheme based on the direct reaction field method: Solvatochromic shifts, analytical gradients and optimizations of conical intersections in solution”, J. Chem. Theory Comput. 20, 2111-2126 (2024) doi.org/10.1021/acs.jctc.3c01018\nY. Bai, L. Vogt-Maranto, M. E. Tuckerman, W. J. Glover*, “Machine learning the Hohenberg-Kohn map to molecular excited states”, Nat. Commun. 13, 7044 (2022) doi.org/10.1038/s41467-022-34436-w\nX. Li, X. Jia, A. S. P. Paz, Y. Cao, W. J. Glover*, “Evidence for water antibonding orbital mixing in the hydrated electron from its oxygen 1s X-ray absorption spectrum”, J. Am. Chem. Soc. 144, 19668-19672 (2022) doi.org/10.1021/jacs.2c07572\nZ. Shen, S. Peng, W. J. Glover*, “Flexible boundary layer using exchange for embedding theories. II. QM/MM dynamics of the hydrated electron”, J. Chem. Phys. 155, 224113 (2021) doi.org/10.1063/5.0067861\nZ. Shen, W. J. Glover*, “Flexible boundary layer using exchange for embedding theories. I. Theory and implementation”, J. Chem. Phys. 155, 224112 (2021) doi.org/10.1063/5.0067855\nEducation\nPostdoctoral Research at UCLA, Stanford University\nPhD, Physical ChemistryUniversity of California, Los Angeles\nMChemOxford University\nTheoretical and Computational Photochemistry and Photobiology\nComputational Chemistry\nFoundations of Chemistry I\nFoundations of Chemistry II\nIndependent Study – Chemistry\nComputational Chemistry (Graduate)\nPhysical Chemistry: Thermodynamics & Kinetics",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "William Glover"
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "A. Humeniuk*, W. J. Glover*, “Multistate, polarizable QM/MM embedding scheme based on the direct reaction field method: Solvatochromic shifts, analytical gradients and optimizations of conical intersections in solution”, J. Chem. Theory Comput. 20, 2111-2126 (2024) doi.org/10.1021/acs.jctc.3c01018"
+    },
+    {
+      "type": "li",
+      "text": "Y. Bai, L. Vogt-Maranto, M. E. Tuckerman, W. J. Glover*, “Machine learning the Hohenberg-Kohn map to molecular excited states”, Nat. Commun. 13, 7044 (2022) doi.org/10.1038/s41467-022-34436-w"
+    },
+    {
+      "type": "li",
+      "text": "X. Li, X. Jia, A. S. P. Paz, Y. Cao, W. J. Glover*, “Evidence for water antibonding orbital mixing in the hydrated electron from its oxygen 1s X-ray absorption spectrum”, J. Am. Chem. Soc. 144, 19668-19672 (2022) doi.org/10.1021/jacs.2c07572"
+    },
+    {
+      "type": "li",
+      "text": "Z. Shen, S. Peng, W. J. Glover*, “Flexible boundary layer using exchange for embedding theories. II. QM/MM dynamics of the hydrated electron”, J. Chem. Phys. 155, 224113 (2021) doi.org/10.1063/5.0067861"
+    },
+    {
+      "type": "li",
+      "text": "Z. Shen, W. J. Glover*, “Flexible boundary layer using exchange for embedding theories. I. Theory and implementation”, J. Chem. Phys. 155, 224112 (2021) doi.org/10.1063/5.0067855"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "Postdoctoral Research at UCLA, Stanford University"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Physical ChemistryUniversity of California, Los Angeles"
+    },
+    {
+      "type": "li",
+      "text": "MChemOxford University"
+    },
+    {
+      "type": "li",
+      "text": "Theoretical and Computational Photochemistry and Photobiology"
+    },
+    {
+      "type": "li",
+      "text": "Computational Chemistry"
+    },
+    {
+      "type": "li",
+      "text": "Foundations of Chemistry I"
+    },
+    {
+      "type": "li",
+      "text": "Foundations of Chemistry II"
+    },
+    {
+      "type": "li",
+      "text": "Independent Study – Chemistry"
+    },
+    {
+      "type": "li",
+      "text": "Computational Chemistry (Graduate)"
+    },
+    {
+      "type": "li",
+      "text": "Physical Chemistry: Thermodynamics & Kinetics"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/william_james_glover.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/william_james_glover-949d074a0823.jpg",
+      "download_status": "downloaded",
+      "bytes": 764868,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.acs-comp.org/awards/the-comp-acs-outstanding-junior-faculty-award",
+      "text": "Spring 2023 ACS OpenEye Outstanding Junior Faculty Award in Computational Chemistry",
+      "internal": false
+    },
+    {
+      "url": "https://pubs.acs.org/doi/10.1021/acs.jctc.3c01018",
+      "text": "doi.org/10.1021/acs.jctc.3c01018",
+      "internal": false
+    },
+    {
+      "url": "https://www.nature.com/articles/s41467-022-34436-w",
+      "text": "doi.org/10.1038/s41467-022-34436-w",
+      "internal": false
+    },
+    {
+      "url": "https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxcheckurl?requrl=http%3A%2F%2Fdoi.org%2F10.1021%2Fjacs.2c07572&skey=%40crypt_56831677_02cb0cdaef7cb33d296631461199f411&deviceid=e656871351381799&pass_ticket=undefined&opcode=2&scene=1&username=@a28fdeb9e5b84b938efd804f288f7752",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://pubs.acs.org/doi/10.1021/jacs.2c07572",
+      "text": "doi.org/10.1021/jacs.2c07572",
+      "internal": false
+    },
+    {
+      "url": "https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxcheckurl?requrl=http%3A%2F%2Fdoi.org%2F10.1063%2F5.0067861&skey=%40crypt_56831677_02cb0cdaef7cb33d296631461199f411&deviceid=e656871351381799&pass_ticket=undefined&opcode=2&scene=1&username=@a28fdeb9e5b84b938efd804f288f7752",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://pubs.aip.org/aip/jcp/article/155/22/224113/352977/Flexible-boundary-layer-using-exchange-for",
+      "text": "doi.org/10.1063/5.0067861",
+      "internal": false
+    },
+    {
+      "url": "https://pubs.aip.org/aip/jcp/article/155/22/224112/352963/Flexible-boundary-layer-using-exchange-for",
+      "text": "doi.org/10.1063/5.0067855",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 233,
+  "crawled_at": "2026-06-09T04:35:39+00:00",
+  "sequence": 855
+}

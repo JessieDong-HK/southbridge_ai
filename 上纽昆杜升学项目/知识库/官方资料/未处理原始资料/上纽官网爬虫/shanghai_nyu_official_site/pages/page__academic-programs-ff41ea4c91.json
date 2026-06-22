@@ -1,0 +1,133 @@
+{
+  "id": "page__academic-programs-ff41ea4c91",
+  "url": "https://shanghai.nyu.edu/page/academic-programs",
+  "canonical_url": "https://shanghai.nyu.edu/page/academic-programs",
+  "page_type": "page",
+  "title": "Academic Areas",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Academic Areas\nComputer Science, Data Science, and Engineering\nCreativity + Innovation\nEconomics\nEnglish for Academic Purposes\nGlobal China Studies\nGlobal Perspectives on Society (GPS)\nInteractive Media Arts (IMA)\nPerforming Arts\nSocial Science\nVisual Arts\nWorld Languages Program\nWriting Program",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Academic Areas"
+    },
+    {
+      "type": "p",
+      "text": "Computer Science, Data Science, and Engineering"
+    },
+    {
+      "type": "p",
+      "text": "Creativity + Innovation"
+    },
+    {
+      "type": "p",
+      "text": "Economics"
+    },
+    {
+      "type": "p",
+      "text": "English for Academic Purposes"
+    },
+    {
+      "type": "p",
+      "text": "Global China Studies"
+    },
+    {
+      "type": "p",
+      "text": "Global Perspectives on Society (GPS)"
+    },
+    {
+      "type": "p",
+      "text": "Interactive Media Arts (IMA)"
+    },
+    {
+      "type": "p",
+      "text": "Performing Arts"
+    },
+    {
+      "type": "p",
+      "text": "Social Science"
+    },
+    {
+      "type": "p",
+      "text": "Visual Arts"
+    },
+    {
+      "type": "p",
+      "text": "World Languages Program"
+    },
+    {
+      "type": "p",
+      "text": "Writing Program"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://cs.shanghai.nyu.edu/",
+      "text": "Computer Science, Data Science, and Engineering",
+      "internal": false
+    },
+    {
+      "url": "https://ci.shanghai.nyu.edu/",
+      "text": "Creativity + Innovation",
+      "internal": false
+    },
+    {
+      "url": "https://econ.shanghai.nyu.edu/",
+      "text": "Economics",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/content/english-academic-purposes",
+      "text": "English for Academic Purposes",
+      "internal": true
+    },
+    {
+      "url": "https://gcs.shanghai.nyu.edu/",
+      "text": "Global China Studies",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/page/academic-programs/global-perspectives-society-gps",
+      "text": "Global Perspectives on Society (GPS)",
+      "internal": true
+    },
+    {
+      "url": "https://ima.shanghai.nyu.edu/",
+      "text": "Interactive Media Arts (IMA)",
+      "internal": false
+    },
+    {
+      "url": "http://arts.shanghai.nyu.edu",
+      "text": "Performing Arts",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/content/social-science",
+      "text": "Social Science",
+      "internal": true
+    },
+    {
+      "url": "https://visual-arts.shanghai.nyu.edu/",
+      "text": "Visual Arts",
+      "internal": false
+    },
+    {
+      "url": "https://worldlanguages.shanghai.nyu.edu/",
+      "text": "World Languages Program",
+      "internal": false
+    },
+    {
+      "url": "https://writing.shanghai.nyu.edu/",
+      "text": "Writing Program",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 38,
+  "crawled_at": "2026-06-09T04:28:03+00:00",
+  "sequence": 34
+}

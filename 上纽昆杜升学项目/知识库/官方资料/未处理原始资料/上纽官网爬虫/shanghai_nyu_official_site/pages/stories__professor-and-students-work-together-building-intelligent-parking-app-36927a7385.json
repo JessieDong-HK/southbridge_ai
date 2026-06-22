@@ -1,0 +1,188 @@
+{
+  "id": "stories__professor-and-students-work-together-building-intelligent-parking-app-36927a7385",
+  "url": "https://shanghai.nyu.edu/stories/professor-and-students-work-together-building-intelligent-parking-app",
+  "canonical_url": "https://shanghai.nyu.edu/stories/professor-and-students-work-together-building-intelligent-parking-app",
+  "page_type": "stories",
+  "title": "Professor and Students Work Together to Build an Intelligent Parking App",
+  "description": "Catch the chance to realize your ideaBy the time they reached their junior years, He Fangqing ’20 and Zhang Zheng ’20, both double majors in Computer Science and Interactive Media Arts, knew that they wanted to pursue master’s degrees after graduation. But they had only a vague idea of where they",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Professor and Students Work Together to Build an Intelligent Parking App\nTwitter\nFacebook\nWeibo\nCatch the chance to realize your idea\nBy the time they reached their junior years, He Fangqing ’20 and Zhang Zheng ’20, both double majors in Computer Science and Interactive Media Arts, knew that they wanted to pursue master’s degrees after graduation. But they had only a vague idea of where they wanted to specialize.\nThe Dean's Undergraduate Research Fund (DURF), which provides stipends to NYU Shanghai undergraduate students who wish to conduct academic research during the summer, gave them the perfect opportunity to explore some of their interests more deeply. The pair, who had worked before on many other projects before as a team, decided they wanted to focus on transportation and use some of what they learned in classes such as Natural Language Processing. But they had trouble sharpening their research focus. That’s when they found Assistant Professor of Engineering Chen Zhibin.\n“Luckily, at NYU Shanghai, once you get an idea, you are encouraged to bring it to real life and faculty are always there to help,” Zhang said. “We were excited to find that Professor Chen Zhibin’s research interest in smart transportation quite matched my interest in cars and was something we had never worked on, so we contacted him right away.”\nThe trio hit it off almost immediately. Chen quickly collected their ideas and narrowed them down. “He provided us with concrete research directions based on our academic backgrounds, skill sets, and time available for the project. He even considered whether the project can be helpful to our [graduate school] applications,” He said.\nAmong all the options, He and Zhang said they were most intrigued by the idea of making a more efficient parking navigation app - something that Chen had also focused on in his dissertation.\nCreating an optimal mechanism for finding parking\nFinding a parking place in busy neighborhoods is usually an exhausting process. Many have tried to create apps that can aid in the search. But current parking apps have many shortcomings. For instance, most apps only show available spots to users but aren’t able to reserve those spots.\nHe and Zhang also remembered from their own experience studying away in New York that the parking apps that did reserve spaces were not efficient. “Though it resolved the problem of multiple cars competing for one spot, if the driver didn’t use the spot, the spot would not be open to the public until the reservation expired, which was thus a waste of space,” Zhang said.\nIn his dissertation, Chen applied the two-sided matching algorithm, a popular algorithm in the field of optimization, to the parking context. The algorithm matched drivers to parking spots based on their real-time locations and parking preference to avoid competition between drivers. “The most appropriate spot should be the nearest spot you can definitely take at the moment,” Chen explained.\nHe and Zhang took Chen’s idea step further by implementing and optimizing this algorithm to build an app. They finished the user interface design very quickly, but when it came to the app’s back-end, things didn’t work out smoothly. “When we tested the app, we found that it took 30 seconds to match drivers with parking spots. Real users wouldn’t have the patience to wait that long,” Zhang said.\nThey discussed the problem with Chen, who helped them analyze the issues. “We were more like colleagues than teachers and students,” Chen said. “I didn’t solve problems for them but provided my thoughts and gave them a lot of freedom to try possible solutions and find the way out by themselves.”\nThe team decided to revise the coding and add a buffer before the matching process so that the algorithm could run for a group of users waiting in the buffer simultaneously instead of running every time when a single user came in, which eased calculation burden and greatly improved the efficiency.\nZhang and He then submitted this project to the Undergraduate Research Expo and Poster Competition, a university-wide celebration of research, and won first prize. “It was the first time we presented our work to the public and won an award for our research. We are more than flattered and truly grateful to have such an amazing experience,” He said.\nZhang (in grey) and He (in red) presenting their research at the Undergraduate Research Expo and Poster Competition\nStudy beyond the project\nHe and Zhang said that their experience developing the parking app with Chen reshaped their impression of research. “I used to feel that research is very theoretical and a bit detached from real life. But after using optimization theories to build an app, I really saw the practical value in research,” He said. “Now I’m in the Master in Design Studies program at Harvard Graduate School of Design. This program is research-based and I really enjoy my research on human-computer interactions. If it wasn’t for the DURF experience, I wouldn’t have confirmed my dream and talents in research.”\nThe pair have also built a close relationship with Chen, and Chen helped greatly in their applications for master’s programs. Chen, who had recently completed his own PhD in engineering, provided expert advice on various engineering programs. “We didn’t expect him to be so thorough and considerate. He patiently told us what courses we may have in each program and analyzed whether they matched what we wanted to learn from an insider’s perspective,” Zhang said.\nHe and Zhang said they still keep Chen posted on their studies, research, and life at graduate school. “I’m now studying computational perception and robotics at Georgia Institute of Technology. Some of my focus, such as autonomous driving, is closely related to smart transportation,” Zhang said. “I discuss news in this field with him from time to time and that is always enjoyable and inspiring.”\n------\nMore professor and student research stories:\nFaculty-Student Research: Teaching Robots to Run\nFaculty-Student Research: Tracing the Celebrities of the Space Age",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Professor and Students Work Together to Build an Intelligent Parking App"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Catch the chance to realize your idea"
+    },
+    {
+      "type": "p",
+      "text": "By the time they reached their junior years, He Fangqing ’20 and Zhang Zheng ’20, both double majors in Computer Science and Interactive Media Arts, knew that they wanted to pursue master’s degrees after graduation. But they had only a vague idea of where they wanted to specialize."
+    },
+    {
+      "type": "p",
+      "text": "The Dean's Undergraduate Research Fund (DURF), which provides stipends to NYU Shanghai undergraduate students who wish to conduct academic research during the summer, gave them the perfect opportunity to explore some of their interests more deeply. The pair, who had worked before on many other projects before as a team, decided they wanted to focus on transportation and use some of what they learned in classes such as Natural Language Processing. But they had trouble sharpening their research focus. That’s when they found Assistant Professor of Engineering Chen Zhibin."
+    },
+    {
+      "type": "p",
+      "text": "“Luckily, at NYU Shanghai, once you get an idea, you are encouraged to bring it to real life and faculty are always there to help,” Zhang said. “We were excited to find that Professor Chen Zhibin’s research interest in smart transportation quite matched my interest in cars and was something we had never worked on, so we contacted him right away.”"
+    },
+    {
+      "type": "p",
+      "text": "The trio hit it off almost immediately. Chen quickly collected their ideas and narrowed them down. “He provided us with concrete research directions based on our academic backgrounds, skill sets, and time available for the project. He even considered whether the project can be helpful to our [graduate school] applications,” He said."
+    },
+    {
+      "type": "p",
+      "text": "Among all the options, He and Zhang said they were most intrigued by the idea of making a more efficient parking navigation app - something that Chen had also focused on in his dissertation."
+    },
+    {
+      "type": "p",
+      "text": "Creating an optimal mechanism for finding parking"
+    },
+    {
+      "type": "p",
+      "text": "Finding a parking place in busy neighborhoods is usually an exhausting process. Many have tried to create apps that can aid in the search. But current parking apps have many shortcomings. For instance, most apps only show available spots to users but aren’t able to reserve those spots."
+    },
+    {
+      "type": "p",
+      "text": "He and Zhang also remembered from their own experience studying away in New York that the parking apps that did reserve spaces were not efficient. “Though it resolved the problem of multiple cars competing for one spot, if the driver didn’t use the spot, the spot would not be open to the public until the reservation expired, which was thus a waste of space,” Zhang said."
+    },
+    {
+      "type": "p",
+      "text": "In his dissertation, Chen applied the two-sided matching algorithm, a popular algorithm in the field of optimization, to the parking context. The algorithm matched drivers to parking spots based on their real-time locations and parking preference to avoid competition between drivers. “The most appropriate spot should be the nearest spot you can definitely take at the moment,” Chen explained."
+    },
+    {
+      "type": "p",
+      "text": "He and Zhang took Chen’s idea step further by implementing and optimizing this algorithm to build an app. They finished the user interface design very quickly, but when it came to the app’s back-end, things didn’t work out smoothly. “When we tested the app, we found that it took 30 seconds to match drivers with parking spots. Real users wouldn’t have the patience to wait that long,” Zhang said."
+    },
+    {
+      "type": "p",
+      "text": "They discussed the problem with Chen, who helped them analyze the issues. “We were more like colleagues than teachers and students,” Chen said. “I didn’t solve problems for them but provided my thoughts and gave them a lot of freedom to try possible solutions and find the way out by themselves.”"
+    },
+    {
+      "type": "p",
+      "text": "The team decided to revise the coding and add a buffer before the matching process so that the algorithm could run for a group of users waiting in the buffer simultaneously instead of running every time when a single user came in, which eased calculation burden and greatly improved the efficiency."
+    },
+    {
+      "type": "p",
+      "text": "Zhang and He then submitted this project to the Undergraduate Research Expo and Poster Competition, a university-wide celebration of research, and won first prize. “It was the first time we presented our work to the public and won an award for our research. We are more than flattered and truly grateful to have such an amazing experience,” He said."
+    },
+    {
+      "type": "p",
+      "text": "Zhang (in grey) and He (in red) presenting their research at the Undergraduate Research Expo and Poster Competition"
+    },
+    {
+      "type": "p",
+      "text": "Study beyond the project"
+    },
+    {
+      "type": "p",
+      "text": "He and Zhang said that their experience developing the parking app with Chen reshaped their impression of research. “I used to feel that research is very theoretical and a bit detached from real life. But after using optimization theories to build an app, I really saw the practical value in research,” He said. “Now I’m in the Master in Design Studies program at Harvard Graduate School of Design. This program is research-based and I really enjoy my research on human-computer interactions. If it wasn’t for the DURF experience, I wouldn’t have confirmed my dream and talents in research.”"
+    },
+    {
+      "type": "p",
+      "text": "The pair have also built a close relationship with Chen, and Chen helped greatly in their applications for master’s programs. Chen, who had recently completed his own PhD in engineering, provided expert advice on various engineering programs. “We didn’t expect him to be so thorough and considerate. He patiently told us what courses we may have in each program and analyzed whether they matched what we wanted to learn from an insider’s perspective,” Zhang said."
+    },
+    {
+      "type": "p",
+      "text": "He and Zhang said they still keep Chen posted on their studies, research, and life at graduate school. “I’m now studying computational perception and robotics at Georgia Institute of Technology. Some of my focus, such as autonomous driving, is closely related to smart transportation,” Zhang said. “I discuss news in this field with him from time to time and that is always enjoyable and inspiring.”"
+    },
+    {
+      "type": "p",
+      "text": "------"
+    },
+    {
+      "type": "p",
+      "text": "More professor and student research stories:"
+    },
+    {
+      "type": "h4",
+      "text": "Faculty-Student Research: Teaching Robots to Run"
+    },
+    {
+      "type": "h4",
+      "text": "Faculty-Student Research: Tracing the Celebrities of the Space Age"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/story",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/story/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/story/faculty_student_research_3.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/faculty_student_research_3-77b68a1f5c78.jpg",
+      "download_status": "downloaded",
+      "bytes": 341700,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/screenshot-cdn.shanghai.nyu_.edu-2020.11.19-10_25_48_0.png",
+      "alt": "He Fangqing and Zhang Zheng presenting at the Undergraduate Research Expo and Poster Competition",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Professor%20and%20Students%20Work%20Together%20to%20Build%20an%20Intelligent%20Parking%20App&url=https%3A//shanghai.nyu.edu/stories/professor-and-students-work-together-building-intelligent-parking-app&status=Professor%20and%20Students%20Work%20Together%20to%20Build%20an%20Intelligent%20Parking%20App%20https%3A//shanghai.nyu.edu/stories/professor-and-students-work-together-building-intelligent-parking-app",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/stories/professor-and-students-work-together-building-intelligent-parking-app&title=Professor%20and%20Students%20Work%20Together%20to%20Build%20an%20Intelligent%20Parking%20App",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/stories/professor-and-students-work-together-building-intelligent-parking-app&title=Professor%20and%20Students%20Work%20Together%20to%20Build%20an%20Intelligent%20Parking%20App",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/zhibin-chen",
+      "text": "Chen Zhibin",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/faculty-student-research-teaching-robots-run",
+      "text": "Faculty-Student Research: Teaching Robots to Run",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/faculty-student-research-tracing-celebrities-space-age",
+      "text": "Faculty-Student Research: Tracing the Celebrities of the Space Age",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1021,
+  "crawled_at": "2026-06-09T04:47:32+00:00",
+  "sequence": 1865
+}

@@ -1,0 +1,36 @@
+{
+  "id": "center-for-teaching-and-learning__new-page-12-97a7947f24",
+  "url": "https://www.dukekunshan.edu.cn/center-for-teaching-and-learning/new-page-12",
+  "canonical_url": "https://www.dukekunshan.edu.cn/center-for-teaching-and-learning/new-page-12/",
+  "page_type": "center-for-teaching-and-learning",
+  "title": "New page 12",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2023-08-22T08:33:02+00:00",
+  "sitemap_lastmod": "2023-08-22T08:33:02+00:00",
+  "text": "New page 12",
+  "text_blocks": [
+    {
+      "type": "h2",
+      "text": "New page 12"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 3,
+  "crawled_at": "2026-06-03T13:50:46+00:00",
+  "sequence": 176
+}

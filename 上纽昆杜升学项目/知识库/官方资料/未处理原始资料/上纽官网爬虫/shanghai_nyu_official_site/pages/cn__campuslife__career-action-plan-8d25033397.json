@@ -1,0 +1,48 @@
+{
+  "id": "cn__campuslife__career-action-plan-8d25033397",
+  "url": "https://shanghai.nyu.edu/cn/campuslife/career-action-plan",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campuslife/career-action-plan",
+  "page_type": "cn",
+  "title": "职业发展行动计划",
+  "description": "确定自我的职业发展路径绝非易事，但是提前规划或许会让未来大不同。我们提供全面的四年职业规划，可作为指南帮助你实现职业目标。你的职业探索之旅或许与同龄人不同，或许与指南也有所出入，但它将是你独一无二的人生体验。欢迎来和我们的职业咨询师交流，一起制定最适合你的职业目标与行动计划。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "职业发展行动计划\n确定自我的职业发展路径绝非易事，但是提前规划或许会让未来大不同。我们提供全面的四年职业规划，可作为指南帮助你实现职业目标。你的职业探索之旅或许与同龄人不同，或许与指南也有所出入，但它将是你独一无二的人生体验。欢迎来和我们的职业咨询师交流，一起制定最适合你的职业目标与行动计划。\n职业发展四年行动计划 (PDF)",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "职业发展行动计划"
+    },
+    {
+      "type": "p",
+      "text": "确定自我的职业发展路径绝非易事，但是提前规划或许会让未来大不同。我们提供全面的四年职业规划，可作为指南帮助你实现职业目标。你的职业探索之旅或许与同龄人不同，或许与指南也有所出入，但它将是你独一无二的人生体验。欢迎来和我们的职业咨询师交流，一起制定最适合你的职业目标与行动计划。"
+    },
+    {
+      "type": "h2",
+      "text": "职业发展四年行动计划 (PDF)"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/career-action-plan_2.jpg",
+      "alt": "Career Action Plan",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://students.shanghai.nyu.edu/sites/students.shanghai.nyu.edu/files/Career%20Action%20Plan%20%28June%202017%29.pdf",
+      "text": "职业发展四年行动计划 (PDF)",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 12,
+  "crawled_at": "2026-06-09T04:36:54+00:00",
+  "sequence": 971
+}

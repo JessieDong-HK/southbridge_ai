@@ -1,0 +1,71 @@
+{
+  "id": "academics__faculty__directory__ying-li-9e8cd67cb1",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/ying-li",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/ying-li",
+  "page_type": "academics",
+  "title": "Ying",
+  "description": "Ying Li is the Co-Director of the Shanghai Key Laboratory of Urban Design and Urban Science and",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Ying Li\nYing Li is the Co-Director of the Shanghai Key Laboratory of Urban Design and Urban Science and an Assistant Professor of Practice in Urban Studies at NYU Shanghai. She is also a practicing architect. Her career spans a broad range of projects including cultural buildings, institutional buildings, office and mixed-use designs and residential developments. She received her bachelor's and master's degrees in Architecture from the University of Melbourne, and later earned her Master of Science in Advanced Architectural Studies from Columbia University.\nEducation\nMSAAD, Advanced Architectural StudiesColumbia University in the City of New York\nMArchUniversity of Melbourne\nBArchUniversity of Melbourne\nUrbanization in China\nUrban Gentrification\nDesign for Children\nContemporary Shanghai Architecture",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Ying Li"
+    },
+    {
+      "type": "p",
+      "text": "Ying Li is the Co-Director of the Shanghai Key Laboratory of Urban Design and Urban Science and an Assistant Professor of Practice in Urban Studies at NYU Shanghai. She is also a practicing architect. Her career spans a broad range of projects including cultural buildings, institutional buildings, office and mixed-use designs and residential developments. She received her bachelor's and master's degrees in Architecture from the University of Melbourne, and later earned her Master of Science in Advanced Architectural Studies from Columbia University."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MSAAD, Advanced Architectural StudiesColumbia University in the City of New York"
+    },
+    {
+      "type": "li",
+      "text": "MArchUniversity of Melbourne"
+    },
+    {
+      "type": "li",
+      "text": "BArchUniversity of Melbourne"
+    },
+    {
+      "type": "li",
+      "text": "Urbanization in China"
+    },
+    {
+      "type": "li",
+      "text": "Urban Gentrification"
+    },
+    {
+      "type": "li",
+      "text": "Design for Children"
+    },
+    {
+      "type": "li",
+      "text": "Contemporary Shanghai Architecture"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/screen_shot_2024-06-24_at_10.24.39_am_57_0.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2024-06-24_at_10.24.39_am_57_0-59446db8474b.png",
+      "download_status": "downloaded",
+      "bytes": 197556,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 117,
+  "crawled_at": "2026-06-09T04:53:15+00:00",
+  "sequence": 2354
+}

@@ -1,0 +1,89 @@
+{
+  "id": "content__january-term-2026-df49f06e41",
+  "url": "https://shanghai.nyu.edu/content/january-term-2026",
+  "canonical_url": "https://shanghai.nyu.edu/content/january-term-2026",
+  "page_type": "content",
+  "title": "January Term 2026",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "January Term 2026\nPCIX-SHU 102 Experience Studio: A Letter to the Future from the Old Street of Sanlin\nExperience Studio offers students an immersive journey into urban memory, cultural heritage, and digital storytelling. This intensive course takes Sanlin Old Street—a historic neighborhood of NYU Shanghai soon to undergo demolition—as its focal point. Students will step outside the classroom to capture the street’s atmosphere, sounds, stories, and spaces through fieldwork and multisensory documentation.Over ten days, participants will experiment with innovative tools such as photogrammetry, panoramic video, immersive audio, and AI-assisted design. They will translate their collected materials into creative works—letters to the future—crafted in forms such as VR experiences, sound installations, and interactive light projections.The course ends with a public exhibition, where students present their multimedia “letters” as a collective act of memory and imagination. By engaging directly with urban change, students will gain not only technical skills in digital documentation and design but also deeper insight into how everyday life, human habitats, and cultural identity can be preserved and reimagined for future generations.\nPrerequisite: Advanced Chinese 1\nInstructor: Professor Xingchen Zhang\nClass Meeting Time: 1:00 PM - 5:00 PM, Monday-Friday from January 5-16, 2026\nLocation: Classroom N304\nTuition: USD 4,004\nHousing: USD 660 for a space in a double occupancy room (move-in date: January 4; move-out date: January 17)\nApplication Instructions\nNYU New York, NYU Abu Dhabi, and students from other universities: Create an application ID in the online application system. Select \"Start NYU Shanghai January Term 2026 Application\". Application Deadline: Sunday, November 2, 2025 (Shanghai time).\nNYU Shanghai students only: Get your J-term registration hold cleared by your Academic Advisor and enroll in the course on Albert.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "January Term 2026"
+    },
+    {
+      "type": "h3",
+      "text": "PCIX-SHU 102 Experience Studio: A Letter to the Future from the Old Street of Sanlin"
+    },
+    {
+      "type": "p",
+      "text": "Experience Studio offers students an immersive journey into urban memory, cultural heritage, and digital storytelling. This intensive course takes Sanlin Old Street—a historic neighborhood of NYU Shanghai soon to undergo demolition—as its focal point. Students will step outside the classroom to capture the street’s atmosphere, sounds, stories, and spaces through fieldwork and multisensory documentation.Over ten days, participants will experiment with innovative tools such as photogrammetry, panoramic video, immersive audio, and AI-assisted design. They will translate their collected materials into creative works—letters to the future—crafted in forms such as VR experiences, sound installations, and interactive light projections.The course ends with a public exhibition, where students present their multimedia “letters” as a collective act of memory and imagination. By engaging directly with urban change, students will gain not only technical skills in digital documentation and design but also deeper insight into how everyday life, human habitats, and cultural identity can be preserved and reimagined for future generations."
+    },
+    {
+      "type": "p",
+      "text": "Prerequisite: Advanced Chinese 1"
+    },
+    {
+      "type": "p",
+      "text": "Instructor: Professor Xingchen Zhang"
+    },
+    {
+      "type": "p",
+      "text": "Class Meeting Time: 1:00 PM - 5:00 PM, Monday-Friday from January 5-16, 2026"
+    },
+    {
+      "type": "p",
+      "text": "Location: Classroom N304"
+    },
+    {
+      "type": "p",
+      "text": "Tuition: USD 4,004"
+    },
+    {
+      "type": "p",
+      "text": "Housing: USD 660 for a space in a double occupancy room (move-in date: January 4; move-out date: January 17)"
+    },
+    {
+      "type": "p",
+      "text": "Application Instructions"
+    },
+    {
+      "type": "p",
+      "text": "NYU New York, NYU Abu Dhabi, and students from other universities: Create an application ID in the online application system. Select \"Start NYU Shanghai January Term 2026 Application\". Application Deadline: Sunday, November 2, 2025 (Shanghai time)."
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai students only: Get your J-term registration hold cleared by your Academic Advisor and enroll in the course on Albert."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/image-3_0.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/image-3_0.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/xingchen-zhang",
+      "text": "Xingchen Zhang",
+      "internal": true
+    },
+    {
+      "url": "https://apply.globalstudy.nyu.edu/portal/nyu_studyaway",
+      "text": "online application system",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 294,
+  "crawled_at": "2026-06-09T04:31:05+00:00",
+  "sequence": 418
+}

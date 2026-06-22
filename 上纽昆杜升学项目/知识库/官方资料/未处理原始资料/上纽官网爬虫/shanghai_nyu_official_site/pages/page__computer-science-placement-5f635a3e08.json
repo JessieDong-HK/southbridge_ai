@@ -1,0 +1,156 @@
+{
+  "id": "page__computer-science-placement-5f635a3e08",
+  "url": "https://shanghai.nyu.edu/page/computer-science-placement",
+  "canonical_url": "https://shanghai.nyu.edu/page/computer-science-placement",
+  "page_type": "page",
+  "title": "Computer Science Placement",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Computer Science Placement\nAbout the Exam\nThe Place out of the “Introduction to Computer Programming” Exam at NYU Shanghai is offered once a semester before the first day of the fall and spring semesters. Students can take the exam in-person and no make-up tests will be offered.\nThe beginner-level Computer Science course, CSCI-SHU 11 Introduction to Computer Programming (ICP), is designed for students with no prior computer programming experience.\nIf you have a programming background, you can take the Place out of the “Introduction to Computer Programming” Exam to enroll directly in the next level course -- CSCI-SHU 101 Introduction to Computer Science (ICS) and DATS-SHU 101 Introduction to Data Science (IDS).\nStudents can sign up for the placement exam twice but are eligible to take the exam once only. Students who have taken ICP, whether they passed or failed are not allowed to take the placement exam.\nTo facilitate early preparation for the NYU Shanghai placement exam, NYU Shanghai students can access self-learning modules on Kiwi (see instructions), an AI-driven learning platform developed by a research group at NYU Shanghai. On this platform, NYU Shanghai students can preview the learning materials and sample exams from previous semesters and practice at their own pace, with real-time AI feedback to support a personalized learning experience. To access Kiwi, please complete the request form.\nStep 3: Take the sample Place out of the Introduction to Computer Programming.\nPlease be aware that the sample exams are intended primarily for self-evaluation. While they offer valuable insights into your time management and pacing, it is important to understand that they may not fully encompass all the topics covered in this year's exam. Therefore, it is crucial to conduct a thorough review of all the course material, rather than relying solely on the patterns from previous exams.\nWe recognize the importance of familiarizing yourself with the testing format, and past exams are useful for this purpose. However, we strongly encourage you to adopt a holistic and comprehensive study approach that ensures you are prepared for the entire syllabus.\nPlacement Exams for Computer Science Courses in New York\nPlacement exams are required for Computer Science Courses in New York. Here is the New York sample placement exam. Below is the course list and placement exams information:\nCSCI-UA 2 Introduction to Programming\nCSCI-UA 101 Introduction to Computer Science\nCSCI-UA 102 Data Structures (Students from Shanghai who take CSCI-SHU 101 Intro to Computer and Data Science will be required to pass a placement exam before enrolling in CSCI-UA 102 Data Structures due to differences in programming language taught in the courses at each campus. This placement test is in Java.)\nCSCI-UA 4 Web Design Placement\nStudents who are currently in New York or plan to continue to be in New York should contact Romeo Kumar (kumar@cims.nyu.edu) in the CAS Department of Computer Science to arrange a time to take the test. Students can take the exam any day of the week before 2:30 PM EST.\nStudents who are currently in Shanghai and plan to be in New York next semester can reach out to Yu Shen (ys88@nyu.edu) for detailed information.\nStudents are allowed one attempt at the exam. If you do not pass the exam, you must enroll in CSCI-SHU 11 Introduction to Programming.\nCalculators are not permitted. Students may not bring their own cheat sheets. An official cheat sheet will be provided during the exam.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Computer Science Placement"
+    },
+    {
+      "type": "h2",
+      "text": "About the Exam"
+    },
+    {
+      "type": "p",
+      "text": "The Place out of the “Introduction to Computer Programming” Exam at NYU Shanghai is offered once a semester before the first day of the fall and spring semesters. Students can take the exam in-person and no make-up tests will be offered."
+    },
+    {
+      "type": "p",
+      "text": "The beginner-level Computer Science course, CSCI-SHU 11 Introduction to Computer Programming (ICP), is designed for students with no prior computer programming experience."
+    },
+    {
+      "type": "p",
+      "text": "If you have a programming background, you can take the Place out of the “Introduction to Computer Programming” Exam to enroll directly in the next level course -- CSCI-SHU 101 Introduction to Computer Science (ICS) and DATS-SHU 101 Introduction to Data Science (IDS)."
+    },
+    {
+      "type": "p",
+      "text": "Students can sign up for the placement exam twice but are eligible to take the exam once only. Students who have taken ICP, whether they passed or failed are not allowed to take the placement exam."
+    },
+    {
+      "type": "p",
+      "text": "To facilitate early preparation for the NYU Shanghai placement exam, NYU Shanghai students can access self-learning modules on Kiwi (see instructions), an AI-driven learning platform developed by a research group at NYU Shanghai. On this platform, NYU Shanghai students can preview the learning materials and sample exams from previous semesters and practice at their own pace, with real-time AI feedback to support a personalized learning experience. To access Kiwi, please complete the request form."
+    },
+    {
+      "type": "p",
+      "text": "Step 3: Take the sample Place out of the Introduction to Computer Programming."
+    },
+    {
+      "type": "p",
+      "text": "Please be aware that the sample exams are intended primarily for self-evaluation. While they offer valuable insights into your time management and pacing, it is important to understand that they may not fully encompass all the topics covered in this year's exam. Therefore, it is crucial to conduct a thorough review of all the course material, rather than relying solely on the patterns from previous exams."
+    },
+    {
+      "type": "p",
+      "text": "We recognize the importance of familiarizing yourself with the testing format, and past exams are useful for this purpose. However, we strongly encourage you to adopt a holistic and comprehensive study approach that ensures you are prepared for the entire syllabus."
+    },
+    {
+      "type": "h2",
+      "text": "Placement Exams for Computer Science Courses in New York"
+    },
+    {
+      "type": "p",
+      "text": "Placement exams are required for Computer Science Courses in New York. Here is the New York sample placement exam. Below is the course list and placement exams information:"
+    },
+    {
+      "type": "li",
+      "text": "CSCI-UA 2 Introduction to Programming"
+    },
+    {
+      "type": "li",
+      "text": "CSCI-UA 101 Introduction to Computer Science"
+    },
+    {
+      "type": "li",
+      "text": "CSCI-UA 102 Data Structures (Students from Shanghai who take CSCI-SHU 101 Intro to Computer and Data Science will be required to pass a placement exam before enrolling in CSCI-UA 102 Data Structures due to differences in programming language taught in the courses at each campus. This placement test is in Java.)"
+    },
+    {
+      "type": "li",
+      "text": "CSCI-UA 4 Web Design Placement"
+    },
+    {
+      "type": "p",
+      "text": "Students who are currently in New York or plan to continue to be in New York should contact Romeo Kumar (kumar@cims.nyu.edu) in the CAS Department of Computer Science to arrange a time to take the test. Students can take the exam any day of the week before 2:30 PM EST."
+    },
+    {
+      "type": "p",
+      "text": "Students who are currently in Shanghai and plan to be in New York next semester can reach out to Yu Shen (ys88@nyu.edu) for detailed information."
+    },
+    {
+      "type": "p",
+      "text": "Students are allowed one attempt at the exam. If you do not pass the exam, you must enroll in CSCI-SHU 11 Introduction to Programming."
+    },
+    {
+      "type": "p",
+      "text": "Calculators are not permitted. Students may not bring their own cheat sheets. An official cheat sheet will be provided during the exam."
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "http://nyush.kiwiai.org/",
+      "text": "Kiwi",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1dyVC1uw3qoMR2AZpaHOit1NRAvFWKO84fuW3P32HlKk/edit?usp=sharing",
+      "text": "see instructions",
+      "internal": false
+    },
+    {
+      "url": "https://whongyi.github.io/MAPS-research",
+      "text": "research group",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLScwqTvWPEa7voztWyu3kAAZXlc6G8Tm7gcOm_J9SEsh_4KrFQ/viewform",
+      "text": "request form",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/a/nyu.edu/forms/d/e/1FAIpQLSfbI4DtLupbDUI5OKyOpEo_EjXAgi3YNAO2DTroWvuDoeXyGw/viewform",
+      "text": "RSVP",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/CSCI-SHU%20011.pdf",
+      "text": "CSCI-SHU 11 Introduction to Computer Programming",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/CSCI-SHU_101_syllabus.pdf",
+      "text": "CSCI-SHU 101 Introduction to Computer Science",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/DATS101_syllabus.pdf",
+      "text": "DATS-SHU 101 Introduction to Data Science",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/ICP-placement-exam-sample-questions.pdf",
+      "text": "sample Place out of the Introduction to Computer Programming",
+      "internal": false
+    },
+    {
+      "url": "https://cs.nyu.edu/home/undergrad/placement_sample_exams.html",
+      "text": "sample placement exam",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/cheat_sheet-python-final-medium.pdf",
+      "text": "An official cheat sheet",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 590,
+  "crawled_at": "2026-06-09T04:42:07+00:00",
+  "sequence": 1442
+}

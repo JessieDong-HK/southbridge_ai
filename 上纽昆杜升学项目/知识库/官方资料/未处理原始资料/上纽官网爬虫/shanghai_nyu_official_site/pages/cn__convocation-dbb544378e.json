@@ -1,0 +1,156 @@
+{
+  "id": "cn__convocation-dbb544378e",
+  "url": "https://shanghai.nyu.edu/cn/convocation",
+  "canonical_url": "https://shanghai.nyu.edu/cn/convocation",
+  "page_type": "cn",
+  "title": "毕业典礼",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "毕业典礼\n欢迎观看今年的研究生毕业典礼与往年毕业典礼的回顾。\n2025届毕业典礼\n2024届毕业典礼\n2023届毕业典礼\n2022届毕业典礼\n2021届毕业典礼\n2021届就近就读研究生毕业典礼\n2020届毕业典礼",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "毕业典礼"
+    },
+    {
+      "type": "p",
+      "text": "欢迎观看今年的研究生毕业典礼与往年毕业典礼的回顾。"
+    },
+    {
+      "type": "h4",
+      "text": "2025届毕业典礼"
+    },
+    {
+      "type": "h4",
+      "text": "2024届毕业典礼"
+    },
+    {
+      "type": "h4",
+      "text": "2023届毕业典礼"
+    },
+    {
+      "type": "h4",
+      "text": "2022届毕业典礼"
+    },
+    {
+      "type": "h4",
+      "text": "2021届毕业典礼"
+    },
+    {
+      "type": "h4",
+      "text": "2021届就近就读研究生毕业典礼"
+    },
+    {
+      "type": "h4",
+      "text": "2020届毕业典礼"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/class-2025-v1-2_0.jpg",
+      "alt": "2025届毕业典礼",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/class-2025-v1-2_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/class-2024.jpg",
+      "alt": "Class of 2024 Graduate Convocation",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/class-2024.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/2023convocation_0.jpg",
+      "alt": "Class of 2023",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/2023convocation_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-masters_convocation2022-2.jpg",
+      "alt": "2022届毕业典礼",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-masters_convocation2022-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/class-2021_1.jpg",
+      "alt": "2021届毕业典礼",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/class-2021_1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/class-2021-golocal_1.jpg",
+      "alt": "2021届就近入学学生毕业典礼",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/class-2021-golocal_1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/class-2020_2.jpg",
+      "alt": "2020届毕业典礼",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/class-2020_2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/page/class-2025-graduate-convocation",
+      "text": "2025届毕业典礼",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/page/class-2024-graduate-convocation",
+      "text": "2024届毕业典礼",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/convocation/class-2023",
+      "text": "2023届毕业典礼",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/convocation/class-2022",
+      "text": "2022届毕业典礼",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/convocation/class-2021",
+      "text": "2021届毕业典礼",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/convocation/class-2021-go-local",
+      "text": "2021届就近就读研究生毕业典礼",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/convocation/class-2020",
+      "text": "2020届毕业典礼",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 9,
+  "crawled_at": "2026-06-09T04:37:13+00:00",
+  "sequence": 1029
+}

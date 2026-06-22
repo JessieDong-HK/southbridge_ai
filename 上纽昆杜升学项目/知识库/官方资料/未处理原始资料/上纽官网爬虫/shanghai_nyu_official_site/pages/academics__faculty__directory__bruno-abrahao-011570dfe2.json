@@ -1,0 +1,132 @@
+{
+  "id": "academics__faculty__directory__bruno-abrahao-011570dfe2",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/bruno-abrahao",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/bruno-abrahao",
+  "page_type": "academics",
+  "title": "Bruno",
+  "description": "Bruno Abrahao is an Assistant Professor of Information Systems and Business Analytics at NYU Shanghai and a Global Network Assistant Professor at the Leonard N. Stern School of Business at NYU.Professor Abrahao holds a PhD in Computer Science from Cornell University and was a Postdoctoral Fellow at",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Bruno Abrahao\nBruno Abrahao is an Assistant Professor of Information Systems and Business Analytics at NYU Shanghai and a Global Network Assistant Professor at the Leonard N. Stern School of Business at NYU.\nProfessor Abrahao holds a PhD in Computer Science from Cornell University and was a Postdoctoral Fellow at Stanford University, affiliated with the Computer Science and with the Sociology departments, as well as a Researcher at Microsoft Research AI, Redmond.\nHis research centers on the applications of Artificial Intelligence in business, alongside foundational methods in deep learning and large language models. He also focuses on data science to analyze interactions within digital platforms and marketplaces, uncovering insights into their structure and evolution to improve decision-making and operational efficiency. His publications have appeared in leading venues, such as the Proceedings of the National Academy of Science, the International Conference on Machine Learning, and Knowledge Discovery and Data Mining, and have been recognized with several awards, including three best paper awards.\nEducation\nPhD, Computer ScienceCornell University\nMSc, Computer ScienceCornell University\nArtificial Intelligence for Business\nFoundations and applications of deep learning and large language models\nData science for organizational data in digital platforms and marketplaces\nAI for Business – Reinforcement Learning [Most Recent] [Spotlight]\nAI for Business – Machine Learning [Most Recent]\nNetwork Analytics (graduate level) [Most Recent] [Spotlight] [NYU Stern News]\nComputer Science Independent Study\nMore info at https://brunoabrahao.com/teaching/",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Bruno Abrahao"
+    },
+    {
+      "type": "p",
+      "text": "Bruno Abrahao is an Assistant Professor of Information Systems and Business Analytics at NYU Shanghai and a Global Network Assistant Professor at the Leonard N. Stern School of Business at NYU."
+    },
+    {
+      "type": "p",
+      "text": "Professor Abrahao holds a PhD in Computer Science from Cornell University and was a Postdoctoral Fellow at Stanford University, affiliated with the Computer Science and with the Sociology departments, as well as a Researcher at Microsoft Research AI, Redmond."
+    },
+    {
+      "type": "p",
+      "text": "His research centers on the applications of Artificial Intelligence in business, alongside foundational methods in deep learning and large language models. He also focuses on data science to analyze interactions within digital platforms and marketplaces, uncovering insights into their structure and evolution to improve decision-making and operational efficiency. His publications have appeared in leading venues, such as the Proceedings of the National Academy of Science, the International Conference on Machine Learning, and Knowledge Discovery and Data Mining, and have been recognized with several awards, including three best paper awards."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Computer ScienceCornell University"
+    },
+    {
+      "type": "li",
+      "text": "MSc, Computer ScienceCornell University"
+    },
+    {
+      "type": "li",
+      "text": "Artificial Intelligence for Business"
+    },
+    {
+      "type": "li",
+      "text": "Foundations and applications of deep learning and large language models"
+    },
+    {
+      "type": "li",
+      "text": "Data science for organizational data in digital platforms and marketplaces"
+    },
+    {
+      "type": "li",
+      "text": "AI for Business – Reinforcement Learning [Most Recent] [Spotlight]"
+    },
+    {
+      "type": "li",
+      "text": "AI for Business – Machine Learning [Most Recent]"
+    },
+    {
+      "type": "li",
+      "text": "Network Analytics (graduate level) [Most Recent] [Spotlight] [NYU Stern News]"
+    },
+    {
+      "type": "li",
+      "text": "Computer Science Independent Study"
+    },
+    {
+      "type": "li",
+      "text": "More info at https://brunoabrahao.com/teaching/"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Profile_IMG_8952.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Profile_IMG_8952-83330ad1db57.jpg",
+      "download_status": "downloaded",
+      "bytes": 586058,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://brunoabrahao.com/",
+      "text": "https://brunoabrahao.com/",
+      "internal": false
+    },
+    {
+      "url": "https://brunoabrahao.com/courses/aib-rl",
+      "text": "Most Recent",
+      "internal": false
+    },
+    {
+      "url": "https://meet.nyu.edu/academics/at-nyu-ai-for-business-science-and-song",
+      "text": "Spotlight",
+      "internal": false
+    },
+    {
+      "url": "https://brunoabrahao.com/courses/aib-ml",
+      "text": "Most Recent",
+      "internal": false
+    },
+    {
+      "url": "https://brunoabrahao.com/courses/dabc-networks",
+      "text": "Most Recent",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/is/course-spotlight-network-analytics",
+      "text": "Spotlight]",
+      "internal": true
+    },
+    {
+      "url": "https://stern.shanghai.nyu.edu/en/community/news/webinar-recap-faculty-webinar-serieswith-professor-bruno-abrahao",
+      "text": "NYU Stern News",
+      "internal": false
+    },
+    {
+      "url": "https://brunoabrahao.com/teaching",
+      "text": "https://brunoabrahao.com/teaching/",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 231,
+  "crawled_at": "2026-06-09T04:53:33+00:00",
+  "sequence": 2377
+}

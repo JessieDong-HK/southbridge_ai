@@ -1,0 +1,114 @@
+{
+  "id": "news__new-nyu-shanghai-study-explores-nature-hydrated-electrons-00bb20d34f",
+  "url": "https://shanghai.nyu.edu/news/new-nyu-shanghai-study-explores-nature-hydrated-electrons",
+  "canonical_url": "https://shanghai.nyu.edu/news/new-nyu-shanghai-study-explores-nature-hydrated-electrons",
+  "page_type": "news",
+  "title": "New NYU Shanghai Study Explores the Nature of Hydrated Electrons",
+  "description": "NYU Shanghai computational chemistry scientists probed the nature of hydrated electrons.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "New NYU Shanghai Study Explores the Nature of Hydrated Electrons\nTwitter\nFacebook\nWeibo\nRadiation is tricky. With its power to cause DNA damage in cells, it can be both a cause and a cure for cancer. One of the ways that radiation impacts DNA is by creating a series of reactive species inside our cells. In a new study led by Assistant Professor of Chemistry William Glover, a team of NYU Shanghai computational chemistry scientists probed the nature of one particular kind of those reactive species – hydrated electrons. Their findings were recently published in the Journal of the American Chemical Society, the preeminent journal in the field.\nSimulated image of a hydrated electron (Image courtesy of NYU Shanghai Glover Group)\n“Hydrated electrons are single unpaired electrons that drift around in liquid water. They’re very reactive, as they’re not attached to any atom. Our study was interested in exploring the properties of hydrated electrons with the future goal of eventually understanding how they damage DNA,” Glover said.\nPrevious models assumed that hydrated electrons reside entirely in microscopic bubble-like cavities in the liquid. However, in this recent study, by comparing simulation findings with experimental observations, the team confirmed that hydrated electrons spill out of their cavities and influence the surrounding water molecules. “We found that hydrated electrons have about a 30% probability to be associated with a water molecule in a so-called ‘antibonding orbital’ state. Electrons with this character can weaken chemical bonds, which has implications for how hydrated electrons might damage DNA. When bonds are severely weakened, they break, and thus damage to the molecule is caused,” Glover said.\nTo examine the nature of hydrated electrons, the team turned to using X-rays as a tool. “Think of it as doing an X-ray exam on the water surrounding the hydrated electron. We found that water molecules that are very close to the hydrated electron absorb X-rays differently to regular water molecules. To show this, we first ran simulations with our model of the hydrated electron and calculated how each water molecule would absorb X-rays of different wavelengths. Then we compared our calculations with experimental measurements performed by a different group. The two sets of data agreed with each other. The way that water around the hydrated electron responds to X-rays is strong evidence that they possess the antibonding orbital state,” Glover said.\nThe study applied a new fragmental approach for the extraordinarily complicated calculations of how the water molecules absorb X-rays. Li Xingpin, the first author of the paper, helped design the method. “The basic idea is that we ‘chopped up’ our system into smaller chunks, carried out independent calculations on each fragment, and finally added them back while still retaining high accuracy,” Li said. With this approach, the whole calculation process can be greatly accelerated, making it hundreds of times faster.\nCurrently, Li is preparing for his coming dissertation defense in December, and he is about to join the first class of PhD graduates from NYU Shanghai’s Chemistry PhD Program. When talking about his future career plan, Li said: “Perhaps I won’t stay in academia, but I still want to devote myself to research. Also, I’m particularly interested in promoting science among the general public, and hope to combine this interest with my career path in the future.”\nThe team hopes this study can contribute to future research on radiotherapy where radiation is used to kill cancer cells. “Understanding the nature of hydrated electrons is a key for us to figure out how radiation damages biological molecules, which is the primary event of radiotherapy,” said Glover. “It’s essential for us to understand how radiation damages biological molecules at the mechanistic level. Knowledge from this perspective could potentially help to design better radiation treatment procedures, or better drugs that enhance the radiotherapy.”",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "New NYU Shanghai Study Explores the Nature of Hydrated Electrons"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Radiation is tricky. With its power to cause DNA damage in cells, it can be both a cause and a cure for cancer. One of the ways that radiation impacts DNA is by creating a series of reactive species inside our cells. In a new study led by Assistant Professor of Chemistry William Glover, a team of NYU Shanghai computational chemistry scientists probed the nature of one particular kind of those reactive species – hydrated electrons. Their findings were recently published in the Journal of the American Chemical Society, the preeminent journal in the field."
+    },
+    {
+      "type": "p",
+      "text": "Simulated image of a hydrated electron (Image courtesy of NYU Shanghai Glover Group)"
+    },
+    {
+      "type": "p",
+      "text": "“Hydrated electrons are single unpaired electrons that drift around in liquid water. They’re very reactive, as they’re not attached to any atom. Our study was interested in exploring the properties of hydrated electrons with the future goal of eventually understanding how they damage DNA,” Glover said."
+    },
+    {
+      "type": "p",
+      "text": "Previous models assumed that hydrated electrons reside entirely in microscopic bubble-like cavities in the liquid. However, in this recent study, by comparing simulation findings with experimental observations, the team confirmed that hydrated electrons spill out of their cavities and influence the surrounding water molecules. “We found that hydrated electrons have about a 30% probability to be associated with a water molecule in a so-called ‘antibonding orbital’ state. Electrons with this character can weaken chemical bonds, which has implications for how hydrated electrons might damage DNA. When bonds are severely weakened, they break, and thus damage to the molecule is caused,” Glover said."
+    },
+    {
+      "type": "p",
+      "text": "To examine the nature of hydrated electrons, the team turned to using X-rays as a tool. “Think of it as doing an X-ray exam on the water surrounding the hydrated electron. We found that water molecules that are very close to the hydrated electron absorb X-rays differently to regular water molecules. To show this, we first ran simulations with our model of the hydrated electron and calculated how each water molecule would absorb X-rays of different wavelengths. Then we compared our calculations with experimental measurements performed by a different group. The two sets of data agreed with each other. The way that water around the hydrated electron responds to X-rays is strong evidence that they possess the antibonding orbital state,” Glover said."
+    },
+    {
+      "type": "p",
+      "text": "The study applied a new fragmental approach for the extraordinarily complicated calculations of how the water molecules absorb X-rays. Li Xingpin, the first author of the paper, helped design the method. “The basic idea is that we ‘chopped up’ our system into smaller chunks, carried out independent calculations on each fragment, and finally added them back while still retaining high accuracy,” Li said. With this approach, the whole calculation process can be greatly accelerated, making it hundreds of times faster."
+    },
+    {
+      "type": "p",
+      "text": "Currently, Li is preparing for his coming dissertation defense in December, and he is about to join the first class of PhD graduates from NYU Shanghai’s Chemistry PhD Program. When talking about his future career plan, Li said: “Perhaps I won’t stay in academia, but I still want to devote myself to research. Also, I’m particularly interested in promoting science among the general public, and hope to combine this interest with my career path in the future.”"
+    },
+    {
+      "type": "p",
+      "text": "The team hopes this study can contribute to future research on radiotherapy where radiation is used to kill cancer cells. “Understanding the nature of hydrated electrons is a key for us to figure out how radiation damages biological molecules, which is the primary event of radiotherapy,” said Glover. “It’s essential for us to understand how radiation damages biological molecules at the mechanistic level. Knowledge from this perspective could potentially help to design better radiation treatment procedures, or better drugs that enhance the radiotherapy.”"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/web_banner_-_the_nature_of_hydrated_electrons-01.jpg?itok=aZfpho0J",
+      "alt": "computational chemistry",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/hydrated_electron.png",
+      "alt": "hydrated electron",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/hydrated_electron-6579bf06773a.png",
+      "download_status": "downloaded",
+      "bytes": 374570,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=New%20NYU%20Shanghai%20Study%20Explores%20the%20Nature%20of%20Hydrated%20Electrons&url=https%3A//shanghai.nyu.edu/news/new-nyu-shanghai-study-explores-nature-hydrated-electrons&status=New%20NYU%20Shanghai%20Study%20Explores%20the%20Nature%20of%20Hydrated%20Electrons%20https%3A//shanghai.nyu.edu/news/new-nyu-shanghai-study-explores-nature-hydrated-electrons",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/new-nyu-shanghai-study-explores-nature-hydrated-electrons&title=New%20NYU%20Shanghai%20Study%20Explores%20the%20Nature%20of%20Hydrated%20Electrons",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/new-nyu-shanghai-study-explores-nature-hydrated-electrons&title=New%20NYU%20Shanghai%20Study%20Explores%20the%20Nature%20of%20Hydrated%20Electrons",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/william-glover",
+      "text": "William Glover",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/graduate/chemistry-phd-program",
+      "text": "NYU Shanghai’s Chemistry PhD Program",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 644,
+  "crawled_at": "2026-06-09T04:40:33+00:00",
+  "sequence": 1294
+}

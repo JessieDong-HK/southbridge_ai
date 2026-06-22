@@ -1,0 +1,245 @@
+{
+  "id": "news-4482482fea",
+  "url": "https://shanghai.nyu.edu/news?page=76",
+  "canonical_url": "https://shanghai.nyu.edu/news",
+  "page_type": "news",
+  "title": "News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/chemisty_-_publication_-_1200.png?itok=C0gEAh3N",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/cc1.jpg?itok=oQtQkWvl",
+      "alt": "A conference",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/cc1-5e821cb4a834.jpg",
+      "download_status": "downloaded",
+      "bytes": 35092,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/child-survey1.jpg?itok=_vmtPJAR",
+      "alt": "A stack of documents",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/child-survey1-215aa0966771.jpg",
+      "download_status": "downloaded",
+      "bytes": 19137,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/math1.jpg?itok=vsuTi4y3",
+      "alt": "A pamphlet",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/math1-37cc90cc6933.jpg",
+      "download_status": "downloaded",
+      "bytes": 14281,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/madeinchina.jpg?itok=TfUqod2R",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/madeinchina-2a3baec826c2.jpg",
+      "download_status": "downloaded",
+      "bytes": 29195,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/math-donation.jpg?itok=x83sA3q4",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/banco.jpg?itok=cDAx8yq_",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/banco-2ac21b8b3596.jpg",
+      "download_status": "downloaded",
+      "bytes": 28206,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/basket.jpg?itok=yW7hdfjO",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/basket-accaf0c3637d.jpg",
+      "download_status": "downloaded",
+      "bytes": 31277,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_2876b__cover.jpg?itok=FplX4fOM",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/13814097083_a631e1be13_o_conew1__cover.jpg?itok=r3EOCWRV",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/13814097083_a631e1be13_o_conew1__cover-e94a88213af9.jpg",
+      "download_status": "downloaded",
+      "bytes": 37248,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_4321_conew1__cover.jpg?itok=R1jbviuh",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_4321_conew1__cover-8ee259dd57f8.jpg",
+      "download_status": "downloaded",
+      "bytes": 17536,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_3037_conew1__cover.jpg?itok=FQY7gg_i",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_4227_conew1__cover.jpg?itok=JPrwpeY0",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_4165_conew2__cover.jpg?itok=hvLAk9Xt",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_4165_conew2__cover-9721269d198f.jpg",
+      "download_status": "downloaded",
+      "bytes": 34969,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/jackzhu1__cover.jpg?itok=fZPJdahP",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/john-zhang-published",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-hosts-frontiers-computational-chemistry-international-workshop",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/prominent-researcher-launches-child-well-being-survey",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-hosts-conference-probability-theory-and-mathematical-statistical-physics",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/eitan-presents",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/math-institute-receives-its-founding-book-donation",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/banco-santander",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/mens-basketball-battles-season-finale",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-springfling",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/alternative-spring-break-trip-yunnan-and-sichuan",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/inaugural-nyu-shanghai-presidents-service-awards",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-reading-salon",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/shanghai-municipal-peoples-congress-chairman-yin-yi-cui-leads-visiting-delegation",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/state-administration-foreign-experts-affairs-visit",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/jack-zhu-receives-first-prize-21st-century-coca-cola-english-speech-competition",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:40:05+00:00",
+  "sequence": 1273
+}

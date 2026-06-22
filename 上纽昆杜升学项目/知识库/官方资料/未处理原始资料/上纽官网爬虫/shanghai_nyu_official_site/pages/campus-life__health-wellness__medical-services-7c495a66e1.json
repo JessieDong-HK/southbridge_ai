@@ -1,0 +1,119 @@
+{
+  "id": "campus-life__health-wellness__medical-services-7c495a66e1",
+  "url": "https://shanghai.nyu.edu/campus-life/health-wellness/medical-services",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/health-wellness/medical-services",
+  "page_type": "campus-life",
+  "title": "Medical Services",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Medical Services\nOur doctors and nurses can provide primary care, prescriptions, over the counter medicine, and referrals to specialists or community providers. These medical services are available on campus and are free of charge.\nNurse Hours: Monday to Friday, 9:00 a.m. - 5:00 p.m.\nDoctor Appointments: Please call 021-2059-5353 or email shanghai.health@nyu.edu to schedule a doctor appointment on campus.\nFor after hours or emergency medical care, please use the following medical centers located near the NYU Shanghai campus.\nFor emergency and primary care services:\nShanghai East Hospital - South Branch上海东方医院南院\n浦东新区云台路1800号电话：021-38804518\nYangsi Hospital杨思医院\n上海市浦东新区杨新东路28号电话：021-68325999\nFor emergencies:\nShanghai SinoUnited Hospital\n350 Jiangxi Middle Road, Huangpu DistrictTel: 400 186 2116\n上海曜影医院江西中路350号\nFor primary care:\nSinoUnited Health New Bund Clinic\nBldg S7, New Bund World Trade Center, 101B, 2-3/F, 255 Dongyu Road, Pudong DistrictTel: 400 186 2116\n曜影医疗前滩世贸门诊部东育路255号S7号101B, 2-3楼\nPrimary Care under GeoBlue Insurance\nDownload the GeoBlue mobile app to search for providers, secure guarantee of payments, file claims, and more.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Medical Services"
+    },
+    {
+      "type": "p",
+      "text": "Our doctors and nurses can provide primary care, prescriptions, over the counter medicine, and referrals to specialists or community providers. These medical services are available on campus and are free of charge."
+    },
+    {
+      "type": "p",
+      "text": "Nurse Hours: Monday to Friday, 9:00 a.m. - 5:00 p.m."
+    },
+    {
+      "type": "p",
+      "text": "Doctor Appointments: Please call 021-2059-5353 or email shanghai.health@nyu.edu to schedule a doctor appointment on campus."
+    },
+    {
+      "type": "p",
+      "text": "For after hours or emergency medical care, please use the following medical centers located near the NYU Shanghai campus."
+    },
+    {
+      "type": "p",
+      "text": "For emergency and primary care services:"
+    },
+    {
+      "type": "p",
+      "text": "Shanghai East Hospital - South Branch上海东方医院南院"
+    },
+    {
+      "type": "p",
+      "text": "浦东新区云台路1800号电话：021-38804518"
+    },
+    {
+      "type": "p",
+      "text": "Yangsi Hospital杨思医院"
+    },
+    {
+      "type": "p",
+      "text": "上海市浦东新区杨新东路28号电话：021-68325999"
+    },
+    {
+      "type": "p",
+      "text": "For emergencies:"
+    },
+    {
+      "type": "p",
+      "text": "Shanghai SinoUnited Hospital"
+    },
+    {
+      "type": "p",
+      "text": "350 Jiangxi Middle Road, Huangpu DistrictTel: 400 186 2116"
+    },
+    {
+      "type": "p",
+      "text": "上海曜影医院江西中路350号"
+    },
+    {
+      "type": "p",
+      "text": "For primary care:"
+    },
+    {
+      "type": "p",
+      "text": "SinoUnited Health New Bund Clinic"
+    },
+    {
+      "type": "p",
+      "text": "Bldg S7, New Bund World Trade Center, 101B, 2-3/F, 255 Dongyu Road, Pudong DistrictTel: 400 186 2116"
+    },
+    {
+      "type": "p",
+      "text": "曜影医疗前滩世贸门诊部东育路255号S7号101B, 2-3楼"
+    },
+    {
+      "type": "h2",
+      "text": "Primary Care under GeoBlue Insurance"
+    },
+    {
+      "type": "p",
+      "text": "Download the GeoBlue mobile app to search for providers, secure guarantee of payments, file claims, and more."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/qr1_0_0.jpg",
+      "alt": "QR Code",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/qr1_0_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/qr2_1.jpg",
+      "alt": "QR Code",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/qr2_1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 172,
+  "crawled_at": "2026-06-09T04:32:22+00:00",
+  "sequence": 564
+}

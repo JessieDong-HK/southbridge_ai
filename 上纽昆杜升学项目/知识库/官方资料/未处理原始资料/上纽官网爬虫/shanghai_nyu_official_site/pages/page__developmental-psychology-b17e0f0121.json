@@ -1,0 +1,67 @@
+{
+  "id": "page__developmental-psychology-b17e0f0121",
+  "url": "https://shanghai.nyu.edu/page/developmental-psychology",
+  "canonical_url": "https://shanghai.nyu.edu/page/developmental-psychology",
+  "page_type": "page",
+  "title": "Developmental Psychology",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Developmental Psychology\nIn PSYC-SHU 234 Developmental Psychology, taught by Professor Lixian Cui, students will examine physical, cognitive, social, and emotional development with an emphasis on psychosocial development in context. This course not only covers major theories and research findings on human development, but also provides students with the opportunity to appreciate the practical significance of sound theory and research. Students will also apply theories to understand child and adolescent development through community services.\nThis course is a part of the Dean’s Service Scholars (DSS) program for Spring 2023. Students will create a project for community members from outside and reflect on their service experience. We are partnering with Zhuyuan Kindergarten for students’ service learning and will provide opportunities for students to visit the kindergarten for observations, communicate with administrators and teachers, and work directly with the kindergarteners. Students are expected to form groups of three based on shared ideas, identify any issues related to child development and education, and come up with solutions to address the issue(s). They can identify issues through communicating with the kindergarten teachers and/or observing the children. Then, students work together to come up with solutions to address the issue(s), try out their ideas in the kindergarten and receive feedbacks, and revise their solutions. Throughout the semester, students will present their DSS project, including the proposal, what they have done, and what the feedbacks are, and final products (refined prototypes).\n(above: teachers and administrators from Zhuyuan Kindergarten visited NYUSH, accompanied by some of the students from the course)\n(above: students from the course presenting their final projects online, joined by Zhuyuan teachers)",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Developmental Psychology"
+    },
+    {
+      "type": "p",
+      "text": "In PSYC-SHU 234 Developmental Psychology, taught by Professor Lixian Cui, students will examine physical, cognitive, social, and emotional development with an emphasis on psychosocial development in context. This course not only covers major theories and research findings on human development, but also provides students with the opportunity to appreciate the practical significance of sound theory and research. Students will also apply theories to understand child and adolescent development through community services."
+    },
+    {
+      "type": "p",
+      "text": "This course is a part of the Dean’s Service Scholars (DSS) program for Spring 2023. Students will create a project for community members from outside and reflect on their service experience. We are partnering with Zhuyuan Kindergarten for students’ service learning and will provide opportunities for students to visit the kindergarten for observations, communicate with administrators and teachers, and work directly with the kindergarteners. Students are expected to form groups of three based on shared ideas, identify any issues related to child development and education, and come up with solutions to address the issue(s). They can identify issues through communicating with the kindergarten teachers and/or observing the children. Then, students work together to come up with solutions to address the issue(s), try out their ideas in the kindergarten and receive feedbacks, and revise their solutions. Throughout the semester, students will present their DSS project, including the proposal, what they have done, and what the feedbacks are, and final products (refined prototypes)."
+    },
+    {
+      "type": "p",
+      "text": "(above: teachers and administrators from Zhuyuan Kindergarten visited NYUSH, accompanied by some of the students from the course)"
+    },
+    {
+      "type": "p",
+      "text": "(above: students from the course presenting their final projects online, joined by Zhuyuan teachers)"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/dev_psych.jpeg",
+      "alt": "Visit by Zhuyuan kindergarten",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/dev_psych-50635403baf8.jpeg",
+      "download_status": "downloaded",
+      "bytes": 354923,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/screen_shot_2022-05-04_at_2.31.41_pm_0.png",
+      "alt": "online presentation",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "skipped_too_large",
+      "bytes": 5146148,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/lixian-cui",
+      "text": "Lixian Cui",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 271,
+  "crawled_at": "2026-06-09T04:41:44+00:00",
+  "sequence": 1410
+}

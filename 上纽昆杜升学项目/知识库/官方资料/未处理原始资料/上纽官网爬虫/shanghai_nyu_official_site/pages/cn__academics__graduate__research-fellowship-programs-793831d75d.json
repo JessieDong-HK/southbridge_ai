@@ -1,0 +1,93 @@
+{
+  "id": "cn__academics__graduate__research-fellowship-programs-793831d75d",
+  "url": "https://shanghai.nyu.edu/cn/academics/graduate/research-fellowship-programs",
+  "canonical_url": "https://shanghai.nyu.edu/cn/academics/graduate/research-fellowship-programs",
+  "page_type": "cn",
+  "title": "纽约大学研究奖学金计划",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "纽约大学研究奖学金计划\n上海纽约大学提供两项面向纽约大学研究生的研究奖学金计划。2015年至今，已有超过100名研究生获得此类资助。如需了解更多项目详情，请参见以下信息。\n上海纽约大学研究生学位论文奖学金\n每一学期，上海纽约大学提供至多四个研究生学位论文奖学金的名额，以支持优秀的纽约大学博士研究生在上海纽约大学进行科学研究或学位论文写作。奖学金对申请人学科背景不限，重点支持与上海纽约大学教授研究方向相匹配的研究项目。奖学金包括生活津贴、注册费（如适用）、纽约大学医疗保险及往返交通费。此外，上海纽约大学还为奖学金获得者提供科研工作场地。\n请访问此页以了解更多申请信息。点击此处查阅现学期研究生学位论文奖学金学者简介\n上海纽约大学全球研究项目奖学金\n每一学期，上海纽约大学都会迎来获纽约大学全球研究项目奖学金资助的学者交流访问。该奖学金旨在支持纽约大学师生赴海外进行研究，由纽约大学教务长办公室负责选拔工作，面向纽约大学各学科领域的硕士研究生、博士研究生及教师，每学期评选一次，涵盖往返交通费和固定补贴。此外，上海纽约大学还为奖学金获得者提供科研工作场地。\n请访问此页以了解更多申请信息。点击此处查阅现学期全球研究项目奖学金学者简介。",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "纽约大学研究奖学金计划"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学提供两项面向纽约大学研究生的研究奖学金计划。2015年至今，已有超过100名研究生获得此类资助。如需了解更多项目详情，请参见以下信息。"
+    },
+    {
+      "type": "h4",
+      "text": "上海纽约大学研究生学位论文奖学金"
+    },
+    {
+      "type": "p",
+      "text": "每一学期，上海纽约大学提供至多四个研究生学位论文奖学金的名额，以支持优秀的纽约大学博士研究生在上海纽约大学进行科学研究或学位论文写作。奖学金对申请人学科背景不限，重点支持与上海纽约大学教授研究方向相匹配的研究项目。奖学金包括生活津贴、注册费（如适用）、纽约大学医疗保险及往返交通费。此外，上海纽约大学还为奖学金获得者提供科研工作场地。"
+    },
+    {
+      "type": "p",
+      "text": "请访问此页以了解更多申请信息。点击此处查阅现学期研究生学位论文奖学金学者简介"
+    },
+    {
+      "type": "h4",
+      "text": "上海纽约大学全球研究项目奖学金"
+    },
+    {
+      "type": "p",
+      "text": "每一学期，上海纽约大学都会迎来获纽约大学全球研究项目奖学金资助的学者交流访问。该奖学金旨在支持纽约大学师生赴海外进行研究，由纽约大学教务长办公室负责选拔工作，面向纽约大学各学科领域的硕士研究生、博士研究生及教师，每学期评选一次，涵盖往返交通费和固定补贴。此外，上海纽约大学还为奖学金获得者提供科研工作场地。"
+    },
+    {
+      "type": "p",
+      "text": "请访问此页以了解更多申请信息。点击此处查阅现学期全球研究项目奖学金学者简介。"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/research-fellowship-programs-01.jpg",
+      "alt": "research-fellowship-programs",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/research-fellowship-programs-01-990eda07d601.jpg",
+      "download_status": "downloaded",
+      "bytes": 81450,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/research-fellowship-programs-02.jpg",
+      "alt": "research-fellowship-programs",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://gsas.nyu.edu/financial-support/fellowships/nyu-global-dissertation-fellowships.html",
+      "text": "此页",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/graduate/research-fellowship-programs/graduate-dissertation-fellows",
+      "text": "此处",
+      "internal": true
+    },
+    {
+      "url": "https://www.nyu.edu/research/provosts-global-research-initiatives/research-centers-faculty-graduate-students.html",
+      "text": "此页",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/graduate/research-fellowship-programs/current-gri-fellows",
+      "text": "此处",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 33,
+  "crawled_at": "2026-06-09T04:37:10+00:00",
+  "sequence": 1021
+}

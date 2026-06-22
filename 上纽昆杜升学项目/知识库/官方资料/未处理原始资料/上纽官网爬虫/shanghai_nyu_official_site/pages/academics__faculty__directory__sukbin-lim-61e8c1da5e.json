@@ -1,0 +1,105 @@
+{
+  "id": "academics__faculty__directory__sukbin-lim-61e8c1da5e",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/sukbin-lim",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/sukbin-lim",
+  "page_type": "academics",
+  "title": "Sukbin",
+  "description": "Sukbin Lim is an Associate Professor of Neural Science and PhD Coordinator of Neural Science at NYU Shanghai and a Global Network Associate Professor at the Center for Neural Science at NYU. Prior to joining NYU Shanghai, she was a postdoctoral researcher at University of California, Davis and",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Sukbin Lim\nSukbin Lim is an Associate Professor of Neural Science and PhD Coordinator of Neural Science at NYU Shanghai and a Global Network Associate Professor at the Center for Neural Science at NYU. Prior to joining NYU Shanghai, she was a postdoctoral researcher at University of California, Davis and University of Chicago.\nSelect Publications\nH. Gu, J. Lee, S. Kim, J. Lim, H. Lee, H. Lee, M. Choe, D. Yoo, J. Ryu, S. Lim [co-corresponding author], S. Lee (2025) Attractor dynamics of working memory explain a concurrent evolution of stimulus-specific and decision-consistent biases in visual estimation, Neuron, https://doi.org/10.1016/j.neuron.2025.07.003.\nY. Jun, H. Zhang, S. Lim (2024) Sensory-memory interactions via modular structure explain errors in visual working memory, eLife, 13:RP95160.\nS. Chen, Q. Yang, S. Lim (2023) Efficient inference of synaptic learning rule with Gaussian process regression, iScience, 26 (3): 106182.\nJ. Gu, S. Lim (2022) Unsupervised learning for robust working memory, PLoS Comput Biol., 18(5): e1009083.\nG. Mang, S. Lim, A. Chubykin (2021) Improved feature selectivity in V1 via theta oscillations induced by a familiar stimulus, Journal of Neuroscience, 41 (12) 2656-2667.\nEducation\nPhD, MathematicsNew York University\nBS, Mathematics and PhysicsSeoul National University\nComputational Neuroscience\nNetwork interactions and dynamics\nCognitive functions including learning, memory and decision-making\nMath Tools for Life Sciences\nModeling & Simulations in Neuroscience\nIntroduction to Theoretical Neuroscience",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Sukbin Lim"
+    },
+    {
+      "type": "p",
+      "text": "Sukbin Lim is an Associate Professor of Neural Science and PhD Coordinator of Neural Science at NYU Shanghai and a Global Network Associate Professor at the Center for Neural Science at NYU. Prior to joining NYU Shanghai, she was a postdoctoral researcher at University of California, Davis and University of Chicago."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "H. Gu, J. Lee, S. Kim, J. Lim, H. Lee, H. Lee, M. Choe, D. Yoo, J. Ryu, S. Lim [co-corresponding author], S. Lee (2025) Attractor dynamics of working memory explain a concurrent evolution of stimulus-specific and decision-consistent biases in visual estimation, Neuron, https://doi.org/10.1016/j.neuron.2025.07.003."
+    },
+    {
+      "type": "li",
+      "text": "Y. Jun, H. Zhang, S. Lim (2024) Sensory-memory interactions via modular structure explain errors in visual working memory, eLife, 13:RP95160."
+    },
+    {
+      "type": "li",
+      "text": "S. Chen, Q. Yang, S. Lim (2023) Efficient inference of synaptic learning rule with Gaussian process regression, iScience, 26 (3): 106182."
+    },
+    {
+      "type": "li",
+      "text": "J. Gu, S. Lim (2022) Unsupervised learning for robust working memory, PLoS Comput Biol., 18(5): e1009083."
+    },
+    {
+      "type": "li",
+      "text": "G. Mang, S. Lim, A. Chubykin (2021) Improved feature selectivity in V1 via theta oscillations induced by a familiar stimulus, Journal of Neuroscience, 41 (12) 2656-2667."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, MathematicsNew York University"
+    },
+    {
+      "type": "li",
+      "text": "BS, Mathematics and PhysicsSeoul National University"
+    },
+    {
+      "type": "li",
+      "text": "Computational Neuroscience"
+    },
+    {
+      "type": "li",
+      "text": "Network interactions and dynamics"
+    },
+    {
+      "type": "li",
+      "text": "Cognitive functions including learning, memory and decision-making"
+    },
+    {
+      "type": "li",
+      "text": "Math Tools for Life Sciences"
+    },
+    {
+      "type": "li",
+      "text": "Modeling & Simulations in Neuroscience"
+    },
+    {
+      "type": "li",
+      "text": "Introduction to Theoretical Neuroscience"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/simg_0048_selected.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/simg_0048_selected-d96a57aa2b4e.jpg",
+      "download_status": "downloaded",
+      "bytes": 789886,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://doi.org/10.1016/j.neuron.2025.07.003",
+      "text": "https://doi.org/10.1016/j.neuron.2025.07.003",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 236,
+  "crawled_at": "2026-06-09T04:53:59+00:00",
+  "sequence": 2406
+}

@@ -1,0 +1,75 @@
+{
+  "id": "stories__roman-chen-110e829a65",
+  "url": "https://shanghai.nyu.edu/stories/roman-chen",
+  "canonical_url": "https://shanghai.nyu.edu/stories/roman-chen",
+  "page_type": "stories",
+  "title": "Roman Chen, Self Designed Honors Major in Gender Politics. Study Away Site: Paris",
+  "description": "Taking time to understand a culture is just as consuming as working a full-time job. In Paris, I read French literature on the metro, follow the Syrian immigration issue in the news and in anthropology class, and, make my best attempt to speak French with the locals. This newfound curiosity for",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Roman Chen, Self Designed Honors Major in Gender Politics. Study Away Site: Paris\nTwitter\nFacebook\nWeibo\nTaking time to understand a culture is just as consuming as working a full-time job. In Paris, I read French literature on the metro, follow the Syrian immigration issue in the news and in anthropology class, and, make my best attempt to speak French with the locals. This newfound curiosity for French culture has definitely made a shift of my future plans, as I look forward to going to graduate school. After consulting my anthropology professor for advice, I've started researching programs such as a Comparative Human Development degree in the U.S.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Roman Chen, Self Designed Honors Major in Gender Politics. Study Away Site: Paris"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Taking time to understand a culture is just as consuming as working a full-time job. In Paris, I read French literature on the metro, follow the Syrian immigration issue in the news and in anthropology class, and, make my best attempt to speak French with the locals. This newfound curiosity for French culture has definitely made a shift of my future plans, as I look forward to going to graduate school. After consulting my anthropology professor for advice, I've started researching programs such as a Comparative Human Development degree in the U.S."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/story",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/story/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/story/Roman_940-480.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Roman%20Chen%2C%20Self%20Designed%20Honors%20Major%20in%20Gender%20Politics.%20Study%20Away%20Site%3A%20Paris&url=https%3A//shanghai.nyu.edu/stories/roman-chen&status=Roman%20Chen%2C%20Self%20Designed%20Honors%20Major%20in%20Gender%20Politics.%20Study%20Away%20Site%3A%20Paris%20https%3A//shanghai.nyu.edu/stories/roman-chen",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/stories/roman-chen&title=Roman%20Chen%2C%20Self%20Designed%20Honors%20Major%20in%20Gender%20Politics.%20Study%20Away%20Site%3A%20Paris",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/stories/roman-chen&title=Roman%20Chen%2C%20Self%20Designed%20Honors%20Major%20in%20Gender%20Politics.%20Study%20Away%20Site%3A%20Paris",
+      "text": "Weibo",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 111,
+  "crawled_at": "2026-06-09T04:47:38+00:00",
+  "sequence": 1876
+}

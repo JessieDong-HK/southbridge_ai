@@ -1,0 +1,274 @@
+{
+  "id": "research__data-management-plans-ca9d021b11",
+  "url": "https://www.dukekunshan.edu.cn/research/data-management-plans",
+  "canonical_url": "https://research.dukekunshan.edu.cn/rso/data-management-plans/",
+  "page_type": "research",
+  "title": "Data Management Plans – Research | Duke Kunshan University",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": "2022-03-07T12:25:56+00:00",
+  "text": "Data Management Plans\nWriting a Data Plan\nWhy Do I Need a Plan?\nMeet data management requirements mandated by grant funding agencies\nIncrease research impact and visibility\nSimplify the research process so data can easily be found\nAvoid duplication of data\nComply with Duke Kunshan’s policies for data retention, security, and open-access\nHow Do I Write & Submit a Duke Kunshan DMP?​\nUse the Duke Kunshan Checklist & Template to Create Your DMP\nSubmit your completed DMP to the Research Support Office.\nWhat are Metadata Standards?\nMetadata is data documentation that helps you understand your data, and helps other researchers find, use, and properly cite your data.\nIf possible, use the standards of your discipline.\nDigital Curation Centre (DCC): Provides links to metadata standards for a variety of disciplines\nOther standards include:\nDublin Core: Non-disciplinary\nDataCite Metadata Schema: Non-disciplinary\nLibrary of Congress Preservation Formats\nData Documentation Initiative (DDI): International standard for statistical and social science data.\nTemplate, Tools, and Sample Plans\nTemplate\nUse the Duke Kunshan Checklist & Template to Create Your DMP\nSubmit your completed DMP to the Research Support Office.\nTools to Help Create a DMP for a Grant Application\nDMPTool\nDMPOnline\nSample DMPs for Grant Applications\nInter-University Consortium for Political and Social Research (ICPSR)\nOdum Institute (UNC): Data Management Sample Plans\nUC San Diego Sample NSF Data Management Plans\nNeed Assistance?\nContact Duke Kunshan’s Office of Research Support.\nArchiving & Sharing Data\nResearch Data Archives\nContact Duke Kunshan’s Office of Research Support.\nLicensing & Intellectual Property\nr3data.org: Identifies research data repositories\nDataCite\nList of Data Repositories: Part of the Digging into Data project\nNeed Assistance?\nContact Duke Kunshan’s Office of Research Support.",
+  "text_blocks": [
+    {
+      "type": "h2",
+      "text": "Data Management Plans"
+    },
+    {
+      "type": "h2",
+      "text": "Writing a Data Plan"
+    },
+    {
+      "type": "h3",
+      "text": "Why Do I Need a Plan?"
+    },
+    {
+      "type": "li",
+      "text": "Meet data management requirements mandated by grant funding agencies"
+    },
+    {
+      "type": "li",
+      "text": "Increase research impact and visibility"
+    },
+    {
+      "type": "li",
+      "text": "Simplify the research process so data can easily be found"
+    },
+    {
+      "type": "li",
+      "text": "Avoid duplication of data"
+    },
+    {
+      "type": "p",
+      "text": "Comply with Duke Kunshan’s policies for data retention, security, and open-access"
+    },
+    {
+      "type": "h3",
+      "text": "How Do I Write & Submit a Duke Kunshan DMP?​"
+    },
+    {
+      "type": "li",
+      "text": "Use the Duke Kunshan Checklist & Template to Create Your DMP"
+    },
+    {
+      "type": "li",
+      "text": "Submit your completed DMP to the Research Support Office."
+    },
+    {
+      "type": "h3",
+      "text": "What are Metadata Standards?"
+    },
+    {
+      "type": "p",
+      "text": "Metadata is data documentation that helps you understand your data, and helps other researchers find, use, and properly cite your data."
+    },
+    {
+      "type": "p",
+      "text": "If possible, use the standards of your discipline."
+    },
+    {
+      "type": "li",
+      "text": "Digital Curation Centre (DCC): Provides links to metadata standards for a variety of disciplines"
+    },
+    {
+      "type": "p",
+      "text": "Other standards include:"
+    },
+    {
+      "type": "li",
+      "text": "Dublin Core: Non-disciplinary"
+    },
+    {
+      "type": "li",
+      "text": "DataCite Metadata Schema: Non-disciplinary"
+    },
+    {
+      "type": "li",
+      "text": "Library of Congress Preservation Formats"
+    },
+    {
+      "type": "li",
+      "text": "Data Documentation Initiative (DDI): International standard for statistical and social science data."
+    },
+    {
+      "type": "h2",
+      "text": "Template, Tools, and Sample Plans"
+    },
+    {
+      "type": "h3",
+      "text": "Template"
+    },
+    {
+      "type": "li",
+      "text": "Use the Duke Kunshan Checklist & Template to Create Your DMP"
+    },
+    {
+      "type": "li",
+      "text": "Submit your completed DMP to the Research Support Office."
+    },
+    {
+      "type": "h3",
+      "text": "Tools to Help Create a DMP for a Grant Application"
+    },
+    {
+      "type": "li",
+      "text": "DMPTool"
+    },
+    {
+      "type": "li",
+      "text": "DMPOnline"
+    },
+    {
+      "type": "h3",
+      "text": "Sample DMPs for Grant Applications"
+    },
+    {
+      "type": "li",
+      "text": "Inter-University Consortium for Political and Social Research (ICPSR)"
+    },
+    {
+      "type": "li",
+      "text": "Odum Institute (UNC): Data Management Sample Plans"
+    },
+    {
+      "type": "li",
+      "text": "UC San Diego Sample NSF Data Management Plans"
+    },
+    {
+      "type": "h3",
+      "text": "Need Assistance?"
+    },
+    {
+      "type": "p",
+      "text": "Contact Duke Kunshan’s Office of Research Support."
+    },
+    {
+      "type": "h2",
+      "text": "Archiving & Sharing Data"
+    },
+    {
+      "type": "h3",
+      "text": "Research Data Archives"
+    },
+    {
+      "type": "p",
+      "text": "Contact Duke Kunshan’s Office of Research Support."
+    },
+    {
+      "type": "h3",
+      "text": "Licensing & Intellectual Property"
+    },
+    {
+      "type": "li",
+      "text": "r3data.org: Identifies research data repositories"
+    },
+    {
+      "type": "li",
+      "text": "DataCite"
+    },
+    {
+      "type": "li",
+      "text": "List of Data Repositories: Part of the Digging into Data project"
+    },
+    {
+      "type": "h3",
+      "text": "Need Assistance?"
+    },
+    {
+      "type": "p",
+      "text": "Contact Duke Kunshan’s Office of Research Support."
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://www.dukekunshan.edu.cn/research/policies",
+      "text": "Duke Kunshan’s policies",
+      "internal": true
+    },
+    {
+      "url": "https://dku-web-admissions.s3.cn-north-1.amazonaws.com.cn/dkumain/wp-content/uploads/mainsite/2021/09/DMP-Template.docx",
+      "text": "Create Your DMP",
+      "internal": false
+    },
+    {
+      "url": "http://www.dcc.ac.uk/resources/metadata-standards",
+      "text": "Digital Curation Centre (DCC)",
+      "internal": false
+    },
+    {
+      "url": "http://dublincore.org/documents/usageguide",
+      "text": "Dublin Core",
+      "internal": false
+    },
+    {
+      "url": "http://schema.datacite.org/",
+      "text": "DataCite Metadata Schema",
+      "internal": false
+    },
+    {
+      "url": "http://www.digitalpreservation.gov/formats",
+      "text": "Library of Congress Preservation Formats",
+      "internal": false
+    },
+    {
+      "url": "http://www.ddialliance.org/",
+      "text": "Data Documentation Initiative (DDI)",
+      "internal": false
+    },
+    {
+      "url": "https://dku-web-admissions.s3.cn-north-1.amazonaws.com.cn/dkumain/wp-content/uploads/mainsite/2022/02/DMP-Template.docx",
+      "text": "Create Your DMP",
+      "internal": false
+    },
+    {
+      "url": "https://dmptool.org/",
+      "text": "DMPTool",
+      "internal": false
+    },
+    {
+      "url": "https://dmponline.dcc.ac.uk/",
+      "text": "DMPOnline",
+      "internal": false
+    },
+    {
+      "url": "https://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/plan.html",
+      "text": "Inter-University Consortium for Political and Social Research (ICPSR)",
+      "internal": false
+    },
+    {
+      "url": "http://www.irss.unc.edu/odum/contentSubpage.jsp?nodeid=570",
+      "text": "Odum Institute (UNC): Data Management Sample Plans",
+      "internal": false
+    },
+    {
+      "url": "http://libraries.ucsd.edu/services/data-curation/data-management/dmp-samples.html",
+      "text": "UC San Diego Sample NSF Data Management Plans",
+      "internal": false
+    },
+    {
+      "url": "https://www.dukekunshan.edu.cn/Users/Lei%20Tang/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.Outlook/LWQV4R2L/research-support@dukekunshan.edu.cn",
+      "text": "Office of Research Support",
+      "internal": true
+    },
+    {
+      "url": "http://www.re3data.org/",
+      "text": "r3data.org",
+      "internal": false
+    },
+    {
+      "url": "https://www.datacite.org/about-datacite/what-do-we-do",
+      "text": "DataCite",
+      "internal": false
+    },
+    {
+      "url": "http://diggingintodata.org/Repositories",
+      "text": "List of Data Repositories",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 279,
+  "crawled_at": "2026-06-03T13:49:42+00:00",
+  "sequence": 87
+}

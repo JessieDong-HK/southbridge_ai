@@ -1,0 +1,75 @@
+{
+  "id": "cn__shizi__jung-hyun-moon-4255e7bbd4",
+  "url": "https://shanghai.nyu.edu/cn/shizi/jung-hyun-moon",
+  "canonical_url": "https://shanghai.nyu.edu/cn/shizi/jung-hyun-moon",
+  "page_type": "cn",
+  "title": "Jung Hyun",
+  "description": "Jung Hyun Moon现任上海纽约大学交互媒体艺术学艺术助理教授、互动媒体艺术硕士项目负责人。Moon教授在纽约大学获得交互通讯硕士学位。Moon 教授以研究为导向的教学法以及其对开源库 ml5.js 的持续贡献，致力于推动人工智能（AI）、机器学习（ML）及新兴技术的开放与应用。通过跨学科的新媒体创作实践，并与编舞家、舞者和音乐家密切合作，他在视觉艺术与表演艺术之间搭建起连接实验性探索与主流创作路径的桥梁。Moon 教授的创作实践综合运用算法动画、机器学习、实时动作追踪、音频可视化、投影映射以及基于网页的扩展现实（XR）应用。 教育背景纽约大学 交互通讯硕士",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Jung Hyun Moon\nJung Hyun Moon现任上海纽约大学交互媒体艺术学艺术助理教授、互动媒体艺术硕士项目负责人。Moon教授在纽约大学获得交互通讯硕士学位。Moon 教授以研究为导向的教学法以及其对开源库 ml5.js 的持续贡献，致力于推动人工智能（AI）、机器学习（ML）及新兴技术的开放与应用。通过跨学科的新媒体创作实践，并与编舞家、舞者和音乐家密切合作，他在视觉艺术与表演艺术之间搭建起连接实验性探索与主流创作路径的桥梁。Moon 教授的创作实践综合运用算法动画、机器学习、实时动作追踪、音频可视化、投影映射以及基于网页的扩展现实（XR）应用。\n教育背景\n纽约大学 交互通讯硕士\nCreative Coding Lab\nCommunications Lab\nInteraction Lab\nAdvanced Lab: Web Page to Web Space\nNature of Code\nMachine Learning for New Interfaces\nKinetic Interfaces",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Jung Hyun Moon"
+    },
+    {
+      "type": "p",
+      "text": "Jung Hyun Moon现任上海纽约大学交互媒体艺术学艺术助理教授、互动媒体艺术硕士项目负责人。Moon教授在纽约大学获得交互通讯硕士学位。Moon 教授以研究为导向的教学法以及其对开源库 ml5.js 的持续贡献，致力于推动人工智能（AI）、机器学习（ML）及新兴技术的开放与应用。通过跨学科的新媒体创作实践，并与编舞家、舞者和音乐家密切合作，他在视觉艺术与表演艺术之间搭建起连接实验性探索与主流创作路径的桥梁。Moon 教授的创作实践综合运用算法动画、机器学习、实时动作追踪、音频可视化、投影映射以及基于网页的扩展现实（XR）应用。"
+    },
+    {
+      "type": "h3",
+      "text": "教育背景"
+    },
+    {
+      "type": "li",
+      "text": "纽约大学 交互通讯硕士"
+    },
+    {
+      "type": "li",
+      "text": "Creative Coding Lab"
+    },
+    {
+      "type": "li",
+      "text": "Communications Lab"
+    },
+    {
+      "type": "li",
+      "text": "Interaction Lab"
+    },
+    {
+      "type": "li",
+      "text": "Advanced Lab: Web Page to Web Space"
+    },
+    {
+      "type": "li",
+      "text": "Nature of Code"
+    },
+    {
+      "type": "li",
+      "text": "Machine Learning for New Interfaces"
+    },
+    {
+      "type": "li",
+      "text": "Kinetic Interfaces"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/moon_photo2_0.jpeg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/moon_photo2_0-158b83b8ce81.jpeg",
+      "download_status": "downloaded",
+      "bytes": 141799,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 57,
+  "crawled_at": "2026-06-09T04:50:55+00:00",
+  "sequence": 2150
+}

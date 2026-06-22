@@ -1,0 +1,36 @@
+{
+  "id": "news__parents-welcomed-to-campus-for-family-weekend-e981cc51ed",
+  "url": "https://www.dukekunshan.edu.cn/news/parents-welcomed-to-campus-for-family-weekend",
+  "canonical_url": "https://www.dukekunshan.edu.cn/news/parents-welcomed-to-campus-for-family-weekend/",
+  "page_type": "news",
+  "title": "Parents welcomed to campus for Family Weekend",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2023-11-13T09:15:42+00:00",
+  "sitemap_lastmod": "2023-11-13T09:15:42+00:00",
+  "text": "Parents welcomed to campus for Family Weekend",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Parents welcomed to campus for Family Weekend"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 7,
+  "crawled_at": "2026-06-03T13:52:01+00:00",
+  "sequence": 279
+}

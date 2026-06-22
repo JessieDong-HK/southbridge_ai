@@ -1,0 +1,43 @@
+{
+  "id": "page__see-past-programs-ccb4776ed8",
+  "url": "https://shanghai.nyu.edu/page/see-past-programs",
+  "canonical_url": "https://shanghai.nyu.edu/page/see-past-programs",
+  "page_type": "page",
+  "title": "See Past Programs",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "See Past Programs\nAlly Week\nStudent Diversity Framework Task Force",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "See Past Programs"
+    },
+    {
+      "type": "p",
+      "text": "Ally Week"
+    },
+    {
+      "type": "p",
+      "text": "Student Diversity Framework Task Force"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/page/ally-week",
+      "text": "Ally Week",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/page/diversity-initiatives/taskforce",
+      "text": "Student Diversity Framework Task Force",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 10,
+  "crawled_at": "2026-06-09T04:32:08+00:00",
+  "sequence": 524
+}

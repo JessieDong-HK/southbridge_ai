@@ -1,0 +1,247 @@
+{
+  "id": "cn__stories-014a1878e4",
+  "url": "https://shanghai.nyu.edu/cn/stories?page=7",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "cn",
+  "title": "人物 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "人物\nSarah Armstrong和黄思嘉：从“层友”到挚友\n程悦教授：三代音乐教育世家 横跨东西音乐旅程\n对话上纽首位奥运健儿Jeremy Hazin：这个夏天，五环乒乓梦成真\n艺术史教授左拉拉：通过建筑讲故事\n2021届英语教育硕士凌梅：我在沙特阿拉伯教中文\n2021届毕业生张麒麟：用语言编织联结的网\n2021届毕业生Sydney Fontalvo：在这里，我找到了意想不到的文化归属\n2021届毕业生孔小燕：那个游走城乡、敢做梦的姑娘\n2021届毕业生Zane Fadul：拼搏进取的编程少年\n2021届毕业生马家骥：通向耶鲁的马拉松\n2021届毕业生Taylah Bland：逆流而上的苏世民学者\n萩野谷俊平：十年警探的象牙塔之旅",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "人物"
+    },
+    {
+      "type": "h4",
+      "text": "Sarah Armstrong和黄思嘉：从“层友”到挚友"
+    },
+    {
+      "type": "h4",
+      "text": "程悦教授：三代音乐教育世家 横跨东西音乐旅程"
+    },
+    {
+      "type": "h4",
+      "text": "对话上纽首位奥运健儿Jeremy Hazin：这个夏天，五环乒乓梦成真"
+    },
+    {
+      "type": "h4",
+      "text": "艺术史教授左拉拉：通过建筑讲故事"
+    },
+    {
+      "type": "h4",
+      "text": "2021届英语教育硕士凌梅：我在沙特阿拉伯教中文"
+    },
+    {
+      "type": "h4",
+      "text": "2021届毕业生张麒麟：用语言编织联结的网"
+    },
+    {
+      "type": "h4",
+      "text": "2021届毕业生Sydney Fontalvo：在这里，我找到了意想不到的文化归属"
+    },
+    {
+      "type": "h4",
+      "text": "2021届毕业生孔小燕：那个游走城乡、敢做梦的姑娘"
+    },
+    {
+      "type": "h4",
+      "text": "2021届毕业生Zane Fadul：拼搏进取的编程少年"
+    },
+    {
+      "type": "h4",
+      "text": "2021届毕业生马家骥：通向耶鲁的马拉松"
+    },
+    {
+      "type": "h4",
+      "text": "2021届毕业生Taylah Bland：逆流而上的苏世民学者"
+    },
+    {
+      "type": "h4",
+      "text": "萩野谷俊平：十年警探的象牙塔之旅"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/wechatimg952.jpeg?itok=I5CQ4mst",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg952-9be37b6f8087.jpeg",
+      "download_status": "downloaded",
+      "bytes": 25789,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/cheng-yue-400.jpg?itok=7ObzE5k1",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/rings_night_edited.jpg?itok=sHw7CrrY",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/screen_shot_2021-07-12_at_3.32.41_pm_1.png?itok=cc4p3Dpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2021-07-12_at_3.32.41_pm_1-63f8ee3e5dcd.png",
+      "download_status": "downloaded",
+      "bytes": 240308,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/ling_mei1.jpg?itok=xH4HxWwq",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ling_mei1-610b392b6dc2.jpg",
+      "download_status": "downloaded",
+      "bytes": 22675,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/lancelotheaderjpg.jpg?itok=dJhmGh89",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/lancelotheaderjpg-0d9cbe3065f4.jpg",
+      "download_status": "downloaded",
+      "bytes": 24774,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/507720988-300.jpg?itok=-117dmod",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/screen_shot_2021-05-14_at_5.24.32_pm.png?itok=Lmsef-Jh",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/zane-fadul-730-2.jpg?itok=371SDRMu",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/2020-sh-marathon-730.jpg?itok=3VcVofdu",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/screen_shot_2021-04-15_at_9.25.46_pm_0.png?itok=Ow6VBa7d",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2021-04-15_at_9.25.46_pm_0-27136784ee27.png",
+      "download_status": "downloaded",
+      "bytes": 298326,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/shumpei.jpg?itok=2uZcH3yM",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/floormates-friends-sarah-armstrong-22-and-leslie-huang-sijia-22",
+      "text": "Sarah Armstrong和黄思嘉：从“层友”到挚友",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/cheng-yue-carrying-family-tradition-across-east-and-west",
+      "text": "程悦教授：三代音乐教育世家 横跨东西音乐旅程",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/meet-nyu-shanghais-first-olympian",
+      "text": "对话上纽首位奥运健儿Jeremy Hazin：这个夏天，五环乒乓梦成真",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/zuo-lala-storytelling-through-architecture",
+      "text": "艺术史教授左拉拉：通过建筑讲故事",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/ma-tesol-21-ling-mei-teaching-chinese-saudi-arabia-0",
+      "text": "2021届英语教育硕士凌梅：我在沙特阿拉伯教中文",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2021-jie-bi-ye-sheng-zhang-qi-lin-yong-yu-yan-bian-zhi-lian-jie-de-wang",
+      "text": "2021届毕业生张麒麟：用语言编织联结的网",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2021-jie-bi-ye-shengsydney-fontalvo-zai-zhe-li-wo-zhao-dao-le-yi-xiang-bu-dao-de-wen-hua",
+      "text": "2021届毕业生Sydney Fontalvo：在这里，我找到了意想不到的文化归属",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2021-jie-bi-ye-sheng-kong-xiao-yan-na-ge-you-zou-cheng-xiang-gan-zuo-meng-de-gu-niang",
+      "text": "2021届毕业生孔小燕：那个游走城乡、敢做梦的姑娘",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2021-jie-bi-ye-shengzane-fadul-pin-bo-jin-qu-de-bian-cheng-shao-nian",
+      "text": "2021届毕业生Zane Fadul：拼搏进取的编程少年",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/bruce-ma-jiaji-21-running-research-marathon",
+      "text": "2021届毕业生马家骥：通向耶鲁的马拉松",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2021-jie-bi-ye-shengtaylah-bland-ni-liu-er-shang-de-su-shi-min-xue-zhe",
+      "text": "2021届毕业生Taylah Bland：逆流而上的苏世民学者",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/qiu-ye-gu-jun-ping-shi-nian-jing-tan-de-xiang-ya-ta-zhi-lu",
+      "text": "萩野谷俊平：十年警探的象牙塔之旅",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 36,
+  "crawled_at": "2026-06-09T04:33:07+00:00",
+  "sequence": 654
+}

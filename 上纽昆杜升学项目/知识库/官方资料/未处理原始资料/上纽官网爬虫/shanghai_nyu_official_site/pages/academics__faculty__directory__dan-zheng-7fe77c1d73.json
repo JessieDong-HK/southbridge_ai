@@ -1,0 +1,67 @@
+{
+  "id": "academics__faculty__directory__dan-zheng-7fe77c1d73",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/dan-zheng",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/dan-zheng",
+  "page_type": "academics",
+  "title": "Dan",
+  "description": "Dan Zheng is an Assistant Professor of Practice in Business Statistics at NYU Shanghai. She holds a PhD and a Bachelor degree from Fudan University.Dan’s general research interests lie in building empirical models or conducting behavioral experiments to understand and predict consumer behavior, with",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Dan Zheng\nDan Zheng is an Assistant Professor of Practice in Business Statistics at NYU Shanghai. She holds a PhD and a Bachelor degree from Fudan University.\nDan’s general research interests lie in building empirical models or conducting behavioral experiments to understand and predict consumer behavior, with the objective of generating managerial insights and applications for firms. Her research areas include price promotion, social influence and consumer’s quality learning behavior.\nShe won the “Best Paper Award” for 2015 International Conference of Asian Marketing Associations, and the “Second Prize for Excellent Doctoral Forum Paper” for 2015 Annual Conference of Journal of Marketing Science & Doctoral Forum in China.\nEducation\nPhD, Business AdministrationFudan University\nPrice Promotion\nQuality Signaling\nSocial Influence",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Dan Zheng"
+    },
+    {
+      "type": "p",
+      "text": "Dan Zheng is an Assistant Professor of Practice in Business Statistics at NYU Shanghai. She holds a PhD and a Bachelor degree from Fudan University."
+    },
+    {
+      "type": "p",
+      "text": "Dan’s general research interests lie in building empirical models or conducting behavioral experiments to understand and predict consumer behavior, with the objective of generating managerial insights and applications for firms. Her research areas include price promotion, social influence and consumer’s quality learning behavior."
+    },
+    {
+      "type": "p",
+      "text": "She won the “Best Paper Award” for 2015 International Conference of Asian Marketing Associations, and the “Second Prize for Excellent Doctoral Forum Paper” for 2015 Annual Conference of Journal of Marketing Science & Doctoral Forum in China."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Business AdministrationFudan University"
+    },
+    {
+      "type": "li",
+      "text": "Price Promotion"
+    },
+    {
+      "type": "li",
+      "text": "Quality Signaling"
+    },
+    {
+      "type": "li",
+      "text": "Social Influence"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/selected-portrait-dan_zheng0037.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/selected-portrait-dan_zheng0037-4dfce0471bb4.jpg",
+      "download_status": "downloaded",
+      "bytes": 119069,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 119,
+  "crawled_at": "2026-06-09T04:54:57+00:00",
+  "sequence": 2465
+}

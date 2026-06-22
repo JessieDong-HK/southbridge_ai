@@ -1,0 +1,35 @@
+{
+  "id": "academics__faculty__directory__jun-ho-lee-b1381bf6f7",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/jun-ho-lee",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/jun-ho-lee",
+  "page_type": "academics",
+  "title": "Jun Ho",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Jun Ho Lee",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Jun Ho Lee"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/final-Jun%20Ho%20Lee-2025%20fall.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/final-Jun-20Ho-20Lee-2025-20fall-f93a2a289064.jpg",
+      "download_status": "downloaded",
+      "bytes": 192373,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 3,
+  "crawled_at": "2026-06-09T04:34:37+00:00",
+  "sequence": 776
+}

@@ -1,0 +1,87 @@
+{
+  "id": "is__newly-discovered-gene-turns-juvenile-adult-c15f4e648b",
+  "url": "https://shanghai.nyu.edu/is/newly-discovered-gene-turns-juvenile-adult",
+  "canonical_url": "https://shanghai.nyu.edu/is/newly-discovered-gene-turns-juvenile-adult",
+  "page_type": "is",
+  "title": "Newly Discovered Gene Turns a Juvenile into an Adult",
+  "description": "A study by Interim Dean of Arts and Science David Fitch and the Fitch lab was recently published in the journal Development, on the discovery of a new gene that helps to regulate the timing of the \"juvenile-to-adult transition\" or the \"J/A\" transition.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Newly Discovered Gene Turns a Juvenile into an Adult\nTwitter\nFacebook\nWeibo\nA study by Interim Dean of Arts and Science David Fitch and the Fitch lab was recently published in the journal Development, on the discovery of a new gene that helps to regulate the timing of the \"juvenile-to-adult transition\" or the \"J/A\" transition.\nIn mammals, the J/A transition is often called puberty, but the J/A occurs in most other animals too, usually at a particular time in the organism's life cycle. Often, there are major changes to the organism that happen during the J/A, such as maturation of reproductive organs and changes in behavior. The timing of the J/A may be partly determined by environment, but it is also determined by genes.\nNow, using the nematode worm C. elegans as a model organism, the Fitch lab identified a new gene called LEP-2 that is involved in the J/A switch. They find that LEP-2 inhibits another gene, LIN-28, that is known to regulate not only the J/A switch in worms and humans, but also switches between stem cells and differentiated cells. LEP-2 turns out to be highly conserved in vertebrates and humans, where it is called \"Makorin.\"\nVariations in human Makorin also cause variations in pubertal timing, so the role of LEP-2 in inhibiting LIN-28 may also be conserved throughout evolution. Because LIN-28 is also involved in stem cells and cancer, this link to the new gene may also provide a new target for drug therapies or cellular engineering.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Newly Discovered Gene Turns a Juvenile into an Adult"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "A study by Interim Dean of Arts and Science David Fitch and the Fitch lab was recently published in the journal Development, on the discovery of a new gene that helps to regulate the timing of the \"juvenile-to-adult transition\" or the \"J/A\" transition."
+    },
+    {
+      "type": "p",
+      "text": "In mammals, the J/A transition is often called puberty, but the J/A occurs in most other animals too, usually at a particular time in the organism's life cycle. Often, there are major changes to the organism that happen during the J/A, such as maturation of reproductive organs and changes in behavior. The timing of the J/A may be partly determined by environment, but it is also determined by genes."
+    },
+    {
+      "type": "p",
+      "text": "Now, using the nematode worm C. elegans as a model organism, the Fitch lab identified a new gene called LEP-2 that is involved in the J/A switch. They find that LEP-2 inhibits another gene, LIN-28, that is known to regulate not only the J/A switch in worms and humans, but also switches between stem cells and differentiated cells. LEP-2 turns out to be highly conserved in vertebrates and humans, where it is called \"Makorin.\""
+    },
+    {
+      "type": "p",
+      "text": "Variations in human Makorin also cause variations in pubertal timing, so the role of LEP-2 in inhibiting LIN-28 may also be conserved throughout evolution. Because LIN-28 is also involved in stem cells and cancer, this link to the new gene may also provide a new target for drug therapies or cellular engineering."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/focus_image",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/focus_image/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/focus_image/gene-2_940-1.jpg?itok=ZLCDFeXy",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Newly%20Discovered%20Gene%20Turns%20a%20Juvenile%20into%20an%20Adult&url=https%3A//shanghai.nyu.edu/is/newly-discovered-gene-turns-juvenile-adult&status=Newly%20Discovered%20Gene%20Turns%20a%20Juvenile%20into%20an%20Adult%20https%3A//shanghai.nyu.edu/is/newly-discovered-gene-turns-juvenile-adult",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/is/newly-discovered-gene-turns-juvenile-adult&title=Newly%20Discovered%20Gene%20Turns%20a%20Juvenile%20into%20an%20Adult",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/is/newly-discovered-gene-turns-juvenile-adult&title=Newly%20Discovered%20Gene%20Turns%20a%20Juvenile%20into%20an%20Adult",
+      "text": "Weibo",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 267,
+  "crawled_at": "2026-06-09T04:50:37+00:00",
+  "sequence": 2127
+}

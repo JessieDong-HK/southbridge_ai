@@ -1,0 +1,86 @@
+{
+  "id": "academics__faculty__directory__xiaoli-jin-a2d56ff7c8",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/xiaoli-jin",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/xiaoli-jin",
+  "page_type": "academics",
+  "title": "Xiaoli",
+  "description": "Xiaoli Jin is a Senior Language Lecturer of Chinese at NYU Shanghai. She received her BA in Teaching Chinese as a Foreign Language from East China Normal University and her MA in Chinese Language and Literature from San Francisco State University. Prior to joining NYU Shanghai, she served as an",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Xiaoli Jin\nXiaoli Jin is a Senior Language Lecturer of Chinese at NYU Shanghai. She received her BA in Teaching Chinese as a Foreign Language from East China Normal University and her MA in Chinese Language and Literature from San Francisco State University. Prior to joining NYU Shanghai, she served as an assistant professor at the Defense Language Institute in the United States, where she taught Chinese across all levels. She also taught advanced-level courses in the Diplomats’ Chinese Language Program at East China Normal University for five years.\nEducation\nMA, Chinese Language and LiteratureSan Francisco State University\nChinese linguistics\nSecond language teaching pedagogy\nAdvanced-level teaching\nElementary Chinese I\nElementary Chinese II\nIntermediate Chinese I\nIntermediate Chinese II\nIntermediate Chinese for Advanced Beginners\nAdvanced Chinese II\nReading Chinese Newspapers",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Xiaoli Jin"
+    },
+    {
+      "type": "p",
+      "text": "Xiaoli Jin is a Senior Language Lecturer of Chinese at NYU Shanghai. She received her BA in Teaching Chinese as a Foreign Language from East China Normal University and her MA in Chinese Language and Literature from San Francisco State University. Prior to joining NYU Shanghai, she served as an assistant professor at the Defense Language Institute in the United States, where she taught Chinese across all levels. She also taught advanced-level courses in the Diplomats’ Chinese Language Program at East China Normal University for five years."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MA, Chinese Language and LiteratureSan Francisco State University"
+    },
+    {
+      "type": "li",
+      "text": "Chinese linguistics"
+    },
+    {
+      "type": "li",
+      "text": "Second language teaching pedagogy"
+    },
+    {
+      "type": "li",
+      "text": "Advanced-level teaching"
+    },
+    {
+      "type": "li",
+      "text": "Elementary Chinese I"
+    },
+    {
+      "type": "li",
+      "text": "Elementary Chinese II"
+    },
+    {
+      "type": "li",
+      "text": "Intermediate Chinese I"
+    },
+    {
+      "type": "li",
+      "text": "Intermediate Chinese II"
+    },
+    {
+      "type": "li",
+      "text": "Intermediate Chinese for Advanced Beginners"
+    },
+    {
+      "type": "li",
+      "text": "Advanced Chinese II"
+    },
+    {
+      "type": "li",
+      "text": "Reading Chinese Newspapers"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/xiaoli_jin.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 131,
+  "crawled_at": "2026-06-09T04:54:48+00:00",
+  "sequence": 2454
+}

@@ -1,0 +1,35 @@
+{
+  "id": "academics__faculty__directory__jiefei-yang-4225712cef",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/jiefei-yang",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/jiefei-yang",
+  "page_type": "academics",
+  "title": "Jiefei",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Jiefei Yang",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Jiefei Yang"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Shanghai%20Mascot_23.jpeg",
+      "alt": "Shanghai Mascot",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Shanghai-20Mascot_23-dee573a7ae3d.jpeg",
+      "download_status": "downloaded",
+      "bytes": 103793,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:53:22+00:00",
+  "sequence": 2361
+}

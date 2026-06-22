@@ -1,0 +1,246 @@
+{
+  "id": "news-297bee4c5e",
+  "url": "https://shanghai.nyu.edu/news?page=6",
+  "canonical_url": "https://shanghai.nyu.edu/news",
+  "page_type": "news",
+  "title": "News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/shishangzuiduo600xinshengdianranshangniuzuirekaixueji-01_0.jpg?itok=Akrv2_Wz",
+      "alt": "banner welcome",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/0725_phd_first-year_summer_camp.jpg?itok=5Es0vzIJ",
+      "alt": "2025 NYU Shanghai First-Year Doctoral Camp group photo",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/0725_phd_first-year_summer_camp-0b5c13425392.jpg",
+      "download_status": "downloaded",
+      "bytes": 31350,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/beyond_entanglement_-_first_experimental_measurement_of_three-particle_quantum_discord-01.jpg?itok=GrZ89d2N",
+      "alt": "discord",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/beyond_entanglement_-_first_experimental_measurement-3d79b8509a0f.jpg",
+      "download_status": "downloaded",
+      "bytes": 28173,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/measuring_magic_-_new_tool_could_boost_quantum_computing_power-01.jpg?itok=dd80-zmJ",
+      "alt": "magic study tim",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/how_do_our_eyes_help_us_navigate_new_study_looks_into_clever_brain_shortcut_-01.jpg?itok=IY6c69JV",
+      "alt": "eye movement",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/how_do_our_eyes_help_us_navigate_new_study_looks_int-6fca8773712a.jpg",
+      "download_status": "downloaded",
+      "bytes": 22369,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/vins_summer_school_news-01.jpg?itok=gFvPtOaq",
+      "alt": "2025 sofie",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/vins_summer_school_news-01-9d5513c20df1.jpg",
+      "download_status": "downloaded",
+      "bytes": 31025,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/how_do_water_rings_bounce_new_discovery_answers_decades-old_question-01.jpg?itok=EcVfXlMo",
+      "alt": "water ring",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/how_do_water_rings_bounce_new_discovery_answers_deca-6db8811c5b81.jpg",
+      "download_status": "downloaded",
+      "bytes": 17105,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/nyu_shanghai_hosts_2025_summer_institute_in_computational_social_science_for_emerging_scholars-01.jpg?itok=NnYvpWHS",
+      "alt": "image of SICSS",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/bei_wu_appointed_nyu_shanghai_provost-01.jpg?itok=Fylkbw8D",
+      "alt": "beiwu",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/qingnianxuezhegongtanyingxiaoketidiqijieshanghaigaoxiaoyingxiaokexuexueshushalongchenggongjuban-01.jpg?itok=wSQiBb55",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/qingnianxuezhegongtanyingxiaoketidiqijieshanghaigaox-44a578ba044d.jpg",
+      "download_status": "downloaded",
+      "bytes": 38835,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/caitlin_mcmahon_25_awarded_a_fulbright_eta-01.jpg?itok=rr4TSNdq",
+      "alt": "caitlin banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/caitlin_mcmahon_25_awarded_a_fulbright_eta-01-63b08f99179a.jpg",
+      "download_status": "downloaded",
+      "bytes": 28462,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/mateo_rengifo_orozco_25_awarded_princeton_in_asia_scholarship-01.jpg?itok=3Y6y8wHz",
+      "alt": "Mateo Rengifo Orozco ’25 has been named a 2025 Princeton in Asia Fellow.",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/mateo_rengifo_orozco_25_awarded_princeton_in_asia_sc-cd449476f9cd.jpg",
+      "download_status": "downloaded",
+      "bytes": 9690,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/doris_zhang_25-01.jpg?itok=XWGd8Biz",
+      "alt": "Doris Yuxuan Zhang ’25 has won a full-tuition Erasmus Mundus Scholarship, and will pursue graduate studies at three different universities in Europe.",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/doris_zhang_25-01-132173a7baea.jpg",
+      "download_status": "downloaded",
+      "bytes": 21545,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/2025_undergraduate_research_symposium-01.jpg?itok=Po9dXAyT",
+      "alt": "2025 Undergraduate Research Symposium",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/pde_conference-01.jpg?itok=R_74ff9M",
+      "alt": "PDE",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/pde_conference-01-8b71b04b3f1e.jpg",
+      "download_status": "downloaded",
+      "bytes": 40521,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/great-start-nyu-shanghai-welcomes-class-2029",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/phd-students-kick-their-phd-journeys-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/beyond-entanglement-first-experimental-measurement-three-particle-quantum-discord",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/measuring-magic-new-tool-could-boost-quantum-computing-power",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/how-do-our-eyes-help-us-navigate-new-study-looks-clever-brain-shortcut",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/2025-sofie-summer-school-exploring-climate-and-nature-finance",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/how-do-water-rings-bounce-new-discovery-answers-decades-old-question",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-hosts-2025-summer-institute-computational-social-science-emerging-scholars",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/bei-wu-appointed-nyu-shanghai-provost",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/young-researchers-convene-marketing-science-salon",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/caitlin-mcmahon-25-awarded-fulbright-eta",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/mateo-rengifo-orozco-25-awarded-princeton-asia-scholarship",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/doris-zhang-25-wins-erasmus-mundus-scholarship",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/student-research-spotlight-2025-undergraduate-research-symposium",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/mathematical-minds-meet-international-conference-pde",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:39:29+00:00",
+  "sequence": 1228
+}

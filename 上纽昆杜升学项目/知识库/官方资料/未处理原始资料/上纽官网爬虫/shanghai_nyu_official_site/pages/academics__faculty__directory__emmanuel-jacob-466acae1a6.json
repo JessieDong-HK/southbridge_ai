@@ -1,0 +1,91 @@
+{
+  "id": "academics__faculty__directory__emmanuel-jacob-466acae1a6",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/emmanuel-jacob",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/emmanuel-jacob",
+  "page_type": "academics",
+  "title": "Emmanuel",
+  "description": "Emmanuel Jacob is a Visiting Associate Professor at NYU Shanghai. He has been an Associate Professor at École Normale Supérieure de Lyon in France, after he received his PhD in 2010 from Université Pierre et Marie Curie in Paris, France.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Emmanuel Jacob\nEmmanuel Jacob is a Visiting Associate Professor at NYU Shanghai. He has been an Associate Professor at École Normale Supérieure de Lyon in France, after he received his PhD in 2010 from Université Pierre et Marie Curie in Paris, France.\nJacob’s research interests span several areas of probability theory, particularly in connection with complex systems, graphs, and geometry. His recent work includes continuum percolation models featuring long-range and inhomogeneity effects, interacting particle systems such as the contact process on static or dynamic scale-free networks, and the study of random maps and the Brownian sphere.\nSelect Publications\nE. Jacob, J. Fernley: Targeted immunization thresholds for the contact process on power-law trees. Stochastic Processes and their Applications 176 (2024)\nE. Jacob, J. Fernley: A universal right tail upper bound for supercritical Galton-Watson processes with bounded offspring. Statistics and Probability Letters 209 (2024)\nE. Jacob, A. Linker, P. Mörters : Metastability of the contact process on fast evolving scale-free networks. The Annals of Applied Probability 29(5) : 2654-2699 (2019)\nE. Jacob, P. Mörters : Robustness of scale-free spatial networks. The Annals of Probability 45 (3) : 1680 - 1722 (2017).\nE. Jacob, G. Miermont : The scaling limit of uniform random plane maps, via the Ambjørn-Budd bijection. Electronic Journal of Probability 19 (74) : 1–16 (2014).\nEducation\nPhDUniversité Pierre et Marie Curie (Paris VI)\nProbability theory\nRandom graphs and random maps\nInteracting particle systems\nContinuum and long-range percolation",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Emmanuel Jacob"
+    },
+    {
+      "type": "p",
+      "text": "Emmanuel Jacob is a Visiting Associate Professor at NYU Shanghai. He has been an Associate Professor at École Normale Supérieure de Lyon in France, after he received his PhD in 2010 from Université Pierre et Marie Curie in Paris, France."
+    },
+    {
+      "type": "p",
+      "text": "Jacob’s research interests span several areas of probability theory, particularly in connection with complex systems, graphs, and geometry. His recent work includes continuum percolation models featuring long-range and inhomogeneity effects, interacting particle systems such as the contact process on static or dynamic scale-free networks, and the study of random maps and the Brownian sphere."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "E. Jacob, J. Fernley: Targeted immunization thresholds for the contact process on power-law trees. Stochastic Processes and their Applications 176 (2024)"
+    },
+    {
+      "type": "li",
+      "text": "E. Jacob, J. Fernley: A universal right tail upper bound for supercritical Galton-Watson processes with bounded offspring. Statistics and Probability Letters 209 (2024)"
+    },
+    {
+      "type": "li",
+      "text": "E. Jacob, A. Linker, P. Mörters : Metastability of the contact process on fast evolving scale-free networks. The Annals of Applied Probability 29(5) : 2654-2699 (2019)"
+    },
+    {
+      "type": "li",
+      "text": "E. Jacob, P. Mörters : Robustness of scale-free spatial networks. The Annals of Probability 45 (3) : 1680 - 1722 (2017)."
+    },
+    {
+      "type": "li",
+      "text": "E. Jacob, G. Miermont : The scaling limit of uniform random plane maps, via the Ambjørn-Budd bijection. Electronic Journal of Probability 19 (74) : 1–16 (2014)."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhDUniversité Pierre et Marie Curie (Paris VI)"
+    },
+    {
+      "type": "li",
+      "text": "Probability theory"
+    },
+    {
+      "type": "li",
+      "text": "Random graphs and random maps"
+    },
+    {
+      "type": "li",
+      "text": "Interacting particle systems"
+    },
+    {
+      "type": "li",
+      "text": "Continuum and long-range percolation"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Emmanuel%20Jacob%202026s.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Emmanuel-20Jacob-202026s-2f0f7ad0c67f.jpg",
+      "download_status": "downloaded",
+      "bytes": 1336163,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 242,
+  "crawled_at": "2026-06-09T04:34:34+00:00",
+  "sequence": 773
+}

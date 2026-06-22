@@ -1,0 +1,171 @@
+{
+  "id": "news__yanqiu-wu-phd22-65ecf1ef5f",
+  "url": "https://shanghai.nyu.edu/news/yanqiu-wu-phd22",
+  "canonical_url": "https://shanghai.nyu.edu/news/yanqiu-wu-phd22",
+  "page_type": "news",
+  "title": "Yanqiu Wu, PhD '22: When the Going Gets Tough, the Tough Get Going",
+  "description": "Yanqiu Wu, PhD’22, having successfully defended her thesis in September 2022, became NYU Shanghai’s third-ever doctoral graduate in Computer Science. Wu’s WeChat signature is a quote from a Japanese anime : “Do not choose the easy road because things are difficult”. She sees this quote as an",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Yanqiu Wu, PhD '22: When the Going Gets Tough, the Tough Get Going\nTwitter\nFacebook\nWeibo\nYanqiu Wu, PhD’22, having successfully defended her thesis in September 2022, became NYU Shanghai’s third-ever doctoral graduate in Computer Science.\nWu’s WeChat signature is a quote from a Japanese anime : “Do not choose the easy road because things are difficult”. She sees this quote as an excellent summary of her experiences.\nWhen Wu chose to pursue a PhD, some of Wu’s relatives voiced concerns. “They believe what an ideal life looks like is working a steady job and getting married early,” Wu recalled, “They couldn’t understand why I would want to continue my education in a challenging discipline and then probably land a demanding job.” A strongly independent person, Wu was determined to follow through on her passion and vision. “I want to make a living on my own, without having to depend on anyone, no matter how much effort it might require.”\nWu’s choice, as it seems today, yielded great fruit. Fresh from graduating with excellent grades, she is now a postdoctoral fellow at the Commonwealth Scientific and Industrial Research Organization (CSIRO) in Australia.\nWu’s story began years ago when she was an undergraduate in computer science at NYU Shanghai. “It was so interesting to learn how games actually work because I, though a game player, had never given much thought to how games were made and run on a computer.” Wu also got increasingly better, writing a few small programs of her own. “I was so excited when my codes worked.”\nWu with Professor Keith Ross\nIt was around that time that Wu met Keith Ross, Professor of Computer Science and Dean of Computer Science, Data Science, and Engineering, who would later become her PhD supervisor. Ross regularly offered research opportunities to his students during the summer, in which Wu actively took part almost every time. These summer researches, furthering her passion for computer science, laid the foundation for her advanced education in the field later.\nEncouraged by her curiosity and interest in research, Wu contemplated an application to a PhD program. “I love reading research papers to see what topics are being discussed, discover unresolved problems, and try to come up with solutions.” Although Ross was open to accepting Wu as his PhD student, he still encouraged her to actively apply to other top universities. After considering the factors of supervisor, research area, and school, Wu eventually chose to continue apprenticing under Ross at NYU Shanghai.\nWu (in the middle of front row) with her PhD fellows\nRoss’s “lifelong learning” spirit made a profound impact on Wu. In her first year, Wu's team embarked on a new journey of exploring the realm of reinforcement learning. “Keith’s longtime research focus was in computer networks, and he had accomplished tremendous heights,” said Wu. Though Ross’s doctoral dissertation decades ago was relevant to reinforcement learning, picking it up again was “still like starting over”. “I think it took tremendous courage to do what Keith did and I carried this valuable lesson with me,” Wu added.\nUnder Ross, the team Wu was in forged a nurturing and encouraging culture, which allowed her to fully experience the true meaning of education. Following Ross’s suit, the PhD students, Wu included, were more than happy to train undergraduates in their research endeavors. “One of the undergraduates we worked with was extremely hardworking and talented. She eventually joined a PhD program in another top university under a prestigious professor,” Wu recalled, “ We were all very happy for her.” Ross and the whole team helped Wu realize that the goal of education is not about getting students to join a certain team or program but about “selflessly providing learning opportunities so that both the educators and the students would improve and unlock more possibilities.”\nOne of Wu’s key growth over her five years of study was her “composedness”, which here refers to her capability to handle setbacks rationally and strive for success patiently. Unlike machine learning, which has a defined learning process and a standard protocol that can be followed, the relatively new reinforcement learning is still in its infancy and requires constant exploration, testing, and optimization in an effort to move closer to an unknown optimal aim. Such a process is an iterative one. “Despite our best efforts, sometimes the algorithms we assumed were theoretically feasible underperformed in actual operation. There was no way under this circumstance to write a paper and publish the results. It was frustrating.”\nWu at work\nWhen faced with such setbacks, Wu gradually became more composed, “I learned not to let emotion take control of me.” Wu formed a set of standard operating procedures for her problem solving, “I would first turn to existing papers to see if others have had similar difficulties and whether there is a solution. Drawing from the wisdom of fellow researchers is a highly efficient approach.” Wu would then have discussions with her team to list out every possible cause and remedy, and conduct experiments accordingly until the outcome was satisfactory. Ross applauds Wu for her character and problem solving skills, “She is tenacious and persevering. She worked on some research for which the early results were underwhelming, but she stuck with it and eventually got excellent results.”\nWu’s thesis dived into the theme of sample efficiency in reinforcement learning. Reinforcement learning is popular in academic research, but is not widely applied in practice. One of the core bottlenecks is sample efficiency. Reinforcement learning requires a large amount of sample data, and the process of collecting those data may incur substantial costs. “For instance, if we want the algorithm to learn how to buy and sell stocks, it must make many correct and incorrect purchases in order to receive both positive and negative rewards. In the real stock market, the loss would be unthinkable,” explained Wu.\nWu’s thesis focused on mitigating this problem by studying “how to use the least possible sample data while still making the algorithm function effectively” so that the balance between effectiveness and cost can be stricken. Wu argued reusing data is necessary due to the small sample size and she inserted relevant equations into the algorithms to adjust the accumulated bias caused by the reuse so as to give the data a proper distribution.\nWu is excited about her new journey as a postdoctoral fellow at CSIRO. “I would be applying what I’ve learnt in reinforcement learning while exploring the context of cyber security. It’s very intriguing.”",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Yanqiu Wu, PhD '22: When the Going Gets Tough, the Tough Get Going"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Yanqiu Wu, PhD’22, having successfully defended her thesis in September 2022, became NYU Shanghai’s third-ever doctoral graduate in Computer Science."
+    },
+    {
+      "type": "p",
+      "text": "Wu’s WeChat signature is a quote from a Japanese anime : “Do not choose the easy road because things are difficult”. She sees this quote as an excellent summary of her experiences."
+    },
+    {
+      "type": "p",
+      "text": "When Wu chose to pursue a PhD, some of Wu’s relatives voiced concerns. “They believe what an ideal life looks like is working a steady job and getting married early,” Wu recalled, “They couldn’t understand why I would want to continue my education in a challenging discipline and then probably land a demanding job.” A strongly independent person, Wu was determined to follow through on her passion and vision. “I want to make a living on my own, without having to depend on anyone, no matter how much effort it might require.”"
+    },
+    {
+      "type": "p",
+      "text": "Wu’s choice, as it seems today, yielded great fruit. Fresh from graduating with excellent grades, she is now a postdoctoral fellow at the Commonwealth Scientific and Industrial Research Organization (CSIRO) in Australia."
+    },
+    {
+      "type": "p",
+      "text": "Wu’s story began years ago when she was an undergraduate in computer science at NYU Shanghai. “It was so interesting to learn how games actually work because I, though a game player, had never given much thought to how games were made and run on a computer.” Wu also got increasingly better, writing a few small programs of her own. “I was so excited when my codes worked.”"
+    },
+    {
+      "type": "p",
+      "text": "Wu with Professor Keith Ross"
+    },
+    {
+      "type": "p",
+      "text": "It was around that time that Wu met Keith Ross, Professor of Computer Science and Dean of Computer Science, Data Science, and Engineering, who would later become her PhD supervisor. Ross regularly offered research opportunities to his students during the summer, in which Wu actively took part almost every time. These summer researches, furthering her passion for computer science, laid the foundation for her advanced education in the field later."
+    },
+    {
+      "type": "p",
+      "text": "Encouraged by her curiosity and interest in research, Wu contemplated an application to a PhD program. “I love reading research papers to see what topics are being discussed, discover unresolved problems, and try to come up with solutions.” Although Ross was open to accepting Wu as his PhD student, he still encouraged her to actively apply to other top universities. After considering the factors of supervisor, research area, and school, Wu eventually chose to continue apprenticing under Ross at NYU Shanghai."
+    },
+    {
+      "type": "p",
+      "text": "Wu (in the middle of front row) with her PhD fellows"
+    },
+    {
+      "type": "p",
+      "text": "Ross’s “lifelong learning” spirit made a profound impact on Wu. In her first year, Wu's team embarked on a new journey of exploring the realm of reinforcement learning. “Keith’s longtime research focus was in computer networks, and he had accomplished tremendous heights,” said Wu. Though Ross’s doctoral dissertation decades ago was relevant to reinforcement learning, picking it up again was “still like starting over”. “I think it took tremendous courage to do what Keith did and I carried this valuable lesson with me,” Wu added."
+    },
+    {
+      "type": "p",
+      "text": "Under Ross, the team Wu was in forged a nurturing and encouraging culture, which allowed her to fully experience the true meaning of education. Following Ross’s suit, the PhD students, Wu included, were more than happy to train undergraduates in their research endeavors. “One of the undergraduates we worked with was extremely hardworking and talented. She eventually joined a PhD program in another top university under a prestigious professor,” Wu recalled, “ We were all very happy for her.” Ross and the whole team helped Wu realize that the goal of education is not about getting students to join a certain team or program but about “selflessly providing learning opportunities so that both the educators and the students would improve and unlock more possibilities.”"
+    },
+    {
+      "type": "p",
+      "text": "One of Wu’s key growth over her five years of study was her “composedness”, which here refers to her capability to handle setbacks rationally and strive for success patiently. Unlike machine learning, which has a defined learning process and a standard protocol that can be followed, the relatively new reinforcement learning is still in its infancy and requires constant exploration, testing, and optimization in an effort to move closer to an unknown optimal aim. Such a process is an iterative one. “Despite our best efforts, sometimes the algorithms we assumed were theoretically feasible underperformed in actual operation. There was no way under this circumstance to write a paper and publish the results. It was frustrating.”"
+    },
+    {
+      "type": "p",
+      "text": "Wu at work"
+    },
+    {
+      "type": "p",
+      "text": "When faced with such setbacks, Wu gradually became more composed, “I learned not to let emotion take control of me.” Wu formed a set of standard operating procedures for her problem solving, “I would first turn to existing papers to see if others have had similar difficulties and whether there is a solution. Drawing from the wisdom of fellow researchers is a highly efficient approach.” Wu would then have discussions with her team to list out every possible cause and remedy, and conduct experiments accordingly until the outcome was satisfactory. Ross applauds Wu for her character and problem solving skills, “She is tenacious and persevering. She worked on some research for which the early results were underwhelming, but she stuck with it and eventually got excellent results.”"
+    },
+    {
+      "type": "p",
+      "text": "Wu’s thesis dived into the theme of sample efficiency in reinforcement learning. Reinforcement learning is popular in academic research, but is not widely applied in practice. One of the core bottlenecks is sample efficiency. Reinforcement learning requires a large amount of sample data, and the process of collecting those data may incur substantial costs. “For instance, if we want the algorithm to learn how to buy and sell stocks, it must make many correct and incorrect purchases in order to receive both positive and negative rewards. In the real stock market, the loss would be unthinkable,” explained Wu."
+    },
+    {
+      "type": "p",
+      "text": "Wu’s thesis focused on mitigating this problem by studying “how to use the least possible sample data while still making the algorithm function effectively” so that the balance between effectiveness and cost can be stricken. Wu argued reusing data is necessary due to the small sample size and she inserted relevant equations into the algorithms to adjust the accumulated bias caused by the reuse so as to give the data a proper distribution."
+    },
+    {
+      "type": "p",
+      "text": "Wu is excited about her new journey as a postdoctoral fellow at CSIRO. “I would be applying what I’ve learnt in reinforcement learning while exploring the context of cyber security. It’s very intriguing.”"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/wechatimg26.png?itok=1BA2Y4s6",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg26-32d062775952.png",
+      "download_status": "downloaded",
+      "bytes": 611887,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/wechatimg18_0.png",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg18_0-f746327fe0ed.png",
+      "download_status": "downloaded",
+      "bytes": 2537223,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/wechatimg549.jpeg",
+      "alt": "photo",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg549-297802e614c4.jpeg",
+      "download_status": "downloaded",
+      "bytes": 317028,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/wechatimg589.png",
+      "alt": "photo2",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "skipped_too_large",
+      "bytes": 3070619,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Yanqiu%20Wu%2C%20PhD%20",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/yanqiu-wu-phd22&title=Yanqiu%20Wu%2C%20PhD%20",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/yanqiu-wu-phd22&title=Yanqiu%20Wu%2C%20PhD%20",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/graduate/computer-science-phd-program",
+      "text": "Computer Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/keith-ross",
+      "text": "Keith Ross",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1101,
+  "crawled_at": "2026-06-09T04:40:38+00:00",
+  "sequence": 1303
+}

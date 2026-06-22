@@ -1,0 +1,92 @@
+{
+  "id": "cn__campus-life__involvement-5a6e5eb425",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/involvement",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/involvement",
+  "page_type": "cn",
+  "title": "学生活动与社区参与",
+  "description": "上纽大鼓励学生通过参加Student Government、志愿者项目、学生社团或学生组织，为学校及上海这座城市的发展做出贡献",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "学生活动与社区参与\n上纽大鼓励学生通过参加Student Government、志愿者项目、学生社团或学生组织，发现新想法、新文化，探索兴趣爱好，培养领导力、打磨已有技能，为上海纽约大学及上海这座城市的发展做出贡献。\n我们强烈建议所有学生在校期间至少加入一个学生社团，或参加一项校园活动。上海纽约大学Student Government目前为超过25个学生社团和组织提供资助。学生事务部还积极推行各种多元倡议与项目，帮助学生打破文化隔阂，营造相互理解、相互包容的校园文化。\n上纽大也为学生提供多种机会参与社区服务，与上海当地居民以及中国其他地区的社区在教育、环保等领域展开合作。\n欲了解更多有关校园活动的信息，请发送邮件至shanghai.involvement@nyu.edu咨询上纽大学生活动团队。\n点击此处了解学生事务部团队。\n学生社团与学生组织\n社区融合与志愿服务",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "学生活动与社区参与"
+    },
+    {
+      "type": "p",
+      "text": "上纽大鼓励学生通过参加Student Government、志愿者项目、学生社团或学生组织，发现新想法、新文化，探索兴趣爱好，培养领导力、打磨已有技能，为上海纽约大学及上海这座城市的发展做出贡献。"
+    },
+    {
+      "type": "p",
+      "text": "我们强烈建议所有学生在校期间至少加入一个学生社团，或参加一项校园活动。上海纽约大学Student Government目前为超过25个学生社团和组织提供资助。学生事务部还积极推行各种多元倡议与项目，帮助学生打破文化隔阂，营造相互理解、相互包容的校园文化。"
+    },
+    {
+      "type": "p",
+      "text": "上纽大也为学生提供多种机会参与社区服务，与上海当地居民以及中国其他地区的社区在教育、环保等领域展开合作。"
+    },
+    {
+      "type": "p",
+      "text": "欲了解更多有关校园活动的信息，请发送邮件至shanghai.involvement@nyu.edu咨询上纽大学生活动团队。"
+    },
+    {
+      "type": "p",
+      "text": "点击此处了解学生事务部团队。"
+    },
+    {
+      "type": "h4",
+      "text": "学生社团与学生组织"
+    },
+    {
+      "type": "h4",
+      "text": "社区融合与志愿服务"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/activities-change-01-2-1.jpg",
+      "alt": "学生社团与学生组织",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/activities-change-01-2-1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/activities-change-01-2-2.jpg",
+      "alt": "社区融合与志愿服务",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/activities-change-01-2-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/involvement/community",
+      "text": "社区服务",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campuslife/office-dean-students/meet-team",
+      "text": "此处",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/involvement/clubs",
+      "text": "学生社团与学生组织",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/involvement/community",
+      "text": "社区融合与志愿服务",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 30,
+  "crawled_at": "2026-06-09T04:29:06+00:00",
+  "sequence": 175
+}

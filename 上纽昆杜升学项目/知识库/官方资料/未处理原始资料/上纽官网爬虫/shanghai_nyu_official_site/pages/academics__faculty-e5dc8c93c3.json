@@ -1,0 +1,115 @@
+{
+  "id": "academics__faculty-e5dc8c93c3",
+  "url": "https://shanghai.nyu.edu/academics/faculty",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty",
+  "page_type": "academics",
+  "title": "Faculty",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Faculty\nNYU Shanghai is the intellectual home to some of the world’s best scholars, researchers, teachers and mentors. Our faculty have been elected to the US National Academy of Sciences, the American Academy of Arts and Sciences, the American Association for the Advancement of Science, and many other distinguished domestic and international societies. Conducting research in state-of-the-art laboratories and in some specialized research institutes and centers, members of the faculty regularly publish their findings in leading scholarly journals.\nMeet Our Faculty\nReception Honors Tenured Faculty\nWhat is Teaching Excellence? NYU Shanghai Students Give Their Take\n20 New Faculty Members Join NYU Shanghai",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Faculty"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai is the intellectual home to some of the world’s best scholars, researchers, teachers and mentors. Our faculty have been elected to the US National Academy of Sciences, the American Academy of Arts and Sciences, the American Association for the Advancement of Science, and many other distinguished domestic and international societies. Conducting research in state-of-the-art laboratories and in some specialized research institutes and centers, members of the faculty regularly publish their findings in leading scholarly journals."
+    },
+    {
+      "type": "h2",
+      "text": "Meet Our Faculty"
+    },
+    {
+      "type": "h4",
+      "text": "Reception Honors Tenured Faculty"
+    },
+    {
+      "type": "h4",
+      "text": "What is Teaching Excellence? NYU Shanghai Students Give Their Take"
+    },
+    {
+      "type": "h4",
+      "text": "20 New Faculty Members Join NYU Shanghai"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_page_one/public/2024tenured.jpg?itok=BpRLsIT0",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_page_second/public/2024tea.jpg?itok=k9u-j5Lx",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2024tea-b8e0cd1cbf58.jpg",
+      "download_status": "downloaded",
+      "bytes": 13811,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_page_second/public/2024faculty.jpg?itok=k2cy9TwI",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2024faculty-b60c8846a226.jpg",
+      "download_status": "downloaded",
+      "bytes": 21726,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/faculty_v3.jpg",
+      "alt": "Faculty Directory",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/faculty_v3-99ee508bf7fb.jpg",
+      "download_status": "downloaded",
+      "bytes": 40901,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/reception-honors-tenured-faculty",
+      "text": "Reception Honors Tenured Faculty",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/what-teaching-excellence-nyu-shanghai-students-give-their-take",
+      "text": "What is Teaching Excellence? NYU Shanghai Students Give Their Take",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/20-new-faculty-members-join-nyu-shanghai",
+      "text": "20 New Faculty Members Join NYU Shanghai",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory",
+      "text": "Faculty Directory",
+      "internal": true
+    },
+    {
+      "url": "https://faculty.shanghai.nyu.edu/",
+      "text": "Faculty Portal",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/en/about/work-here/open-positions-faculty",
+      "text": "Open Positions",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 106,
+  "crawled_at": "2026-06-09T04:27:52+00:00",
+  "sequence": 3
+}

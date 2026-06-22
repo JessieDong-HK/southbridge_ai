@@ -1,0 +1,150 @@
+{
+  "id": "page__open-positions-fellowships-4df55876ff",
+  "url": "https://shanghai.nyu.edu/page/open-positions-fellowships?order=field_open&sort=asc",
+  "canonical_url": "https://shanghai.nyu.edu/page/open-positions-fellowships",
+  "page_type": "page",
+  "title": "Open Positions — Fellowships",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Open Positions — Fellowships\nNYU Shanghai aims to attract outstanding candidates who are professional, experienced (or with great potential), highly motivated, interested in higher education, and who thrive on the unique challenges of a multicultural environment.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Open Positions — Fellowships"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai aims to attract outstanding candidates who are professional, experienced (or with great potential), highly motivated, interested in higher education, and who thrive on the unique challenges of a multicultural environment."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/themes/contrib/bootstrap_barrio/images/icons/application-pdf.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/application-pdf-bbbb275c3388.png",
+      "download_status": "downloaded",
+      "bytes": 346,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/page/open-positions-fellowships?order=title&sort=asc",
+      "text": "Position",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/page/open-positions-fellowships?order=field_open&sort=desc",
+      "text": "Status Sort descending",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/page/open-positions-fellowships?order=field_position_info&sort=asc",
+      "text": "Description",
+      "internal": true
+    },
+    {
+      "url": "https://apply.interfolio.com/173566",
+      "text": "Apply",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/job-application-choose/nojs/43242",
+      "text": "Apply",
+      "internal": true
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/open_position/NYU%20Shanghai%20Postdoctoral%20Fellow%20of%20Social%20Science%20Ad.pdf",
+      "text": "PDF",
+      "internal": false
+    },
+    {
+      "url": "https://apply.interfolio.com/173021",
+      "text": "Apply",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/job-application-choose/nojs/43543",
+      "text": "Apply",
+      "internal": true
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/open_position/NYU%20Shanghai%20Postdoctoral%20Fellowship%20Theoretical%20and%20Computational%20Chemistry%20Ad.pdf",
+      "text": "PDF",
+      "internal": false
+    },
+    {
+      "url": "https://apply.interfolio.com/173694",
+      "text": "Apply",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/job-application-choose/nojs/43606",
+      "text": "Apply",
+      "internal": true
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/open_position/Postdoctoral%20Fellow%20Positions%20in%20Mathematics%20Ad.pdf",
+      "text": "PDF",
+      "internal": false
+    },
+    {
+      "url": "https://apply.interfolio.com/174817",
+      "text": "Apply",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/job-application-choose/nojs/43708",
+      "text": "Apply",
+      "internal": true
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/open_position/NYU%20Shanghai%20Postdoctoral%20Fellowship%20in%20Psychology%20%28Prof.%20Gu%20Li%29%20Ad.pdf",
+      "text": "PDF",
+      "internal": false
+    },
+    {
+      "url": "https://apply.interfolio.com/176074",
+      "text": "Apply",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/job-application-choose/nojs/43735",
+      "text": "Apply",
+      "internal": true
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/open_position/NYU%20Shanghai%20Postdoctoral%20Fellow%20of%20Operations%20Management%20%28Prof.%20Chen%20Chen%29%20Ad.pdf",
+      "text": "PDF",
+      "internal": false
+    },
+    {
+      "url": "https://apply.interfolio.com/180427",
+      "text": "Apply",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/job-application-choose/nojs/43931",
+      "text": "Apply",
+      "internal": true
+    },
+    {
+      "url": "https://apply.interfolio.com/183979",
+      "text": "Apply",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/job-application-choose/nojs/44016",
+      "text": "Apply",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 35,
+  "crawled_at": "2026-06-09T04:40:10+00:00",
+  "sequence": 1277
+}

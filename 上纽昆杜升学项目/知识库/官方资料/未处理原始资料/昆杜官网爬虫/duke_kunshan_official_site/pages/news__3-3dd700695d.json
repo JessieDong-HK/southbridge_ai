@@ -1,0 +1,40 @@
+{
+  "id": "news__3-3dd700695d",
+  "url": "https://www.dukekunshan.edu.cn/news/3",
+  "canonical_url": "https://www.dukekunshan.edu.cn/news/3/",
+  "page_type": "news",
+  "title": "What role should Artificial Intelligence play in student learning?",
+  "description": "This year’s Teaching and Learning Showcase run by the Center for Teaching and Learning at DKU was themed “reimagine the future of higher education”.",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2023-12-13T11:09:50+00:00",
+  "sitemap_lastmod": "2023-12-13T11:09:50+00:00",
+  "text": "What role should Artificial Intelligence play in student learning?\nThis year’s Teaching and Learning Showcase run by the Center for Teaching and Learning at DKU was themed “reimagine the future of higher education”.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "What role should Artificial Intelligence play in student learning?"
+    },
+    {
+      "type": "p",
+      "text": "This year’s Teaching and Learning Showcase run by the Center for Teaching and Learning at DKU was themed “reimagine the future of higher education”."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 34,
+  "crawled_at": "2026-06-03T13:52:15+00:00",
+  "sequence": 295
+}

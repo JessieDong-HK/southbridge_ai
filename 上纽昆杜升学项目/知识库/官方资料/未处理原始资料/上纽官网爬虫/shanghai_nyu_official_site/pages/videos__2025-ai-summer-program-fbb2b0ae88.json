@@ -1,0 +1,272 @@
+{
+  "id": "videos__2025-ai-summer-program-fbb2b0ae88",
+  "url": "https://shanghai.nyu.edu/videos/2025-ai-summer-program?page=4",
+  "canonical_url": "https://shanghai.nyu.edu/videos/2025-ai-summer-program",
+  "page_type": "videos",
+  "title": "2025 AI Summer Program",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "2025 AI Summer Program\nTwitter\nFacebook\nWeibo",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "2025 AI Summer Program"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/welcome.png?itok=TL2HhL2k",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/01.png?itok=sEn0Ya1B",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/01-e4729c6e32cf.png",
+      "download_status": "downloaded",
+      "bytes": 176629,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/farnival.png?itok=RQ-ngkgI",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/farnival-9cbc0b82bda6.png",
+      "download_status": "downloaded",
+      "bytes": 369560,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/bike_poster.jpg?itok=6bxNBmgz",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/bike_poster-71cc6b33b437.jpg",
+      "download_status": "downloaded",
+      "bytes": 29325,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/video_poster.png?itok=-NX3VMBt",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/video_poster-c54b1b2dd4d5.png",
+      "download_status": "downloaded",
+      "bytes": 128922,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/nyush_oral_history-02.jpeg?itok=rHSPxDNt",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyush_oral_history-02-1f8b0cbfe8a5.jpeg",
+      "download_status": "downloaded",
+      "bytes": 31653,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/commencement_video_thumbnail-05.jpg?itok=8b_s9Ou_",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/commencement_video_thumbnail-03.jpg?itok=-mSJyG6S",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/commencement_video_thumbnail-03-d8602c331d3b.jpg",
+      "download_status": "downloaded",
+      "bytes": 25484,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/hr-kiosk.jpg?itok=6H_rqalO",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/hr-kiosk-c3b0c27bba30.jpg",
+      "download_status": "downloaded",
+      "bytes": 32385,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/untitled-1.jpeg?itok=GBbph40x",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/untitled-1-f6559f66dd67.jpeg",
+      "download_status": "downloaded",
+      "bytes": 30155,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/2023_nyush.jpeg?itok=7yP1m3ri",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/2023_nyush.jpeg?itok=7yP1m3ri (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of pr"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/alumni_video_thumbnail_en_cn-01.jpeg?itok=4xzCB0aS",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alumni_video_thumbnail_en_cn-01-159649175a32.jpeg",
+      "download_status": "downloaded",
+      "bytes": 29380,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/10-11_-_10th_anniversary_video_thumbnail_image_1_1.jpg?itok=ZG-GbzNE",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/10-11_-_10th_anniversary_video_thumbnail_image_1_1.jpg?itok=ZG-GbzNE (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_R"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/bundcampus.jpeg?itok=5czGm_C1",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/qiantan_neighborhood_video-01.jpg?itok=6m2APLVq",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=2025%20AI%20Summer%20Program&url=https%3A//shanghai.nyu.edu/videos/2025-ai-summer-program&status=2025%20AI%20Summer%20Program%20https%3A//shanghai.nyu.edu/videos/2025-ai-summer-program",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/videos/2025-ai-summer-program&title=2025%20AI%20Summer%20Program",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/videos/2025-ai-summer-program&title=2025%20AI%20Summer%20Program",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/movein-2023",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/zhao-yan-summer-camp-2023",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/2023-fanival",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/open-source-adaptive-mountain-bike",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/2023-trash-fashion-show",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/beginning-legacy-oral-history-nyu-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/nyu-shanghai-alma-mater-music-video-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/congratulations-class-2023",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/hrs-employee-self-service-zone",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/nyu-shanghais-10th-anniversary-events-highlights",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/new-campus-glance",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/10-years-later-what-alumni-have-say-about-nyu-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/happy-10th-anniversary-nyu-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/first-look-nyu-shanghai-new-bund-campus",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/nyu-shanghais-new-campus-neighborhood-tour",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 7,
+  "crawled_at": "2026-06-09T04:56:42+00:00",
+  "sequence": 2596
+}

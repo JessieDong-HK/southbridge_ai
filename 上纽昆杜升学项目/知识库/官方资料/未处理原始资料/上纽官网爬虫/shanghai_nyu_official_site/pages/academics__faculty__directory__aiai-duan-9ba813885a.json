@@ -1,0 +1,34 @@
+{
+  "id": "academics__faculty__directory__aiai-duan-9ba813885a",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/aiai-duan",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/aiai-duan",
+  "page_type": "academics",
+  "title": "Aiai",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Aiai Duan",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Aiai Duan"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/duan_aiai1.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/duan_aiai1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:54:34+00:00",
+  "sequence": 2439
+}

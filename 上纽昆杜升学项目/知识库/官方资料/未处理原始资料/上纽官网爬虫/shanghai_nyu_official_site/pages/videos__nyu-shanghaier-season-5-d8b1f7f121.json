@@ -1,0 +1,277 @@
+{
+  "id": "videos__nyu-shanghaier-season-5-d8b1f7f121",
+  "url": "https://shanghai.nyu.edu/videos/nyu-shanghaier-season-5?page=3",
+  "canonical_url": "https://shanghai.nyu.edu/videos/nyu-shanghaier-season-5",
+  "page_type": "videos",
+  "title": "NYU Shanghaier Season One - 5",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "NYU Shanghaier Season One - 5\nTwitter\nFacebook\nWeibo",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "NYU Shanghaier Season One - 5"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/wang_0.jpg?itok=yUSsMsfG",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/gps_cn-07_0.jpg?itok=4rYzq2lt",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/gps_cn-07_0-750a8cc9b128.jpg",
+      "download_status": "downloaded",
+      "bytes": 19014,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-11/nyush_study_away2025.jpg?itok=xmh5nmf0",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyush_study_away2025-90682eaefeeb.jpg",
+      "download_status": "downloaded",
+      "bytes": 30490,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/nyu00377-min.jpg?itok=OBKv5rF2",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyu00377-min-fde0d741a44d.jpg",
+      "download_status": "downloaded",
+      "bytes": 31631,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/2024_nyush_v4cover.jpg?itok=KQ1775Dc",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2024_nyush_v4cover-e1d7a6844279.jpg",
+      "download_status": "downloaded",
+      "bytes": 25146,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/nyush2023.jpg?itok=T8Egu3jN",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyush2023-109a3a6769dc.jpg",
+      "download_status": "downloaded",
+      "bytes": 14370,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/gradute-poster.png?itok=-XQucnEz",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/gradute-poster-2e9e0dfe5980.png",
+      "download_status": "downloaded",
+      "bytes": 170054,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/tribute-poster.png?itok=JLxmYLn0",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/tribute-poster-779a39233b84.png",
+      "download_status": "downloaded",
+      "bytes": 23639,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/cup_0.png?itok=iWtU_D0P",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/cup_0-65812ac2f588.png",
+      "download_status": "downloaded",
+      "bytes": 300055,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/video_banner_when_your_mom_is_your_schoolmate-06-min.jpeg?itok=etU7iNQ9",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/video_banner_when_your_mom_is_your_schoolmate-06-min-4cdb8e0f9e9d.jpeg",
+      "download_status": "downloaded",
+      "bytes": 29725,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/nyush_2023_symposium.png?itok=lO0f2Ofm",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyush_2023_symposium-a8da4c5b3c14.png",
+      "download_status": "downloaded",
+      "bytes": 155276,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/steve_lams.png?itok=_1CFIDun",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/steve_lams-4590956ab5b1.png",
+      "download_status": "downloaded",
+      "bytes": 120633,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/weng_weiwei.png?itok=NoacSU_k",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/weng_weiwei-35820560d8d9.png",
+      "download_status": "downloaded",
+      "bytes": 123901,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/lena_nyush.png?itok=Sc3zGfD9",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/lena_nyush-e66489c3b881.png",
+      "download_status": "downloaded",
+      "bytes": 172943,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/groupd_nyush.png?itok=foMf1uqP",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/groupd_nyush-c7c390493fbd.png",
+      "download_status": "downloaded",
+      "bytes": 271611,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=NYU%20Shanghaier%20Season%20One%20-%205&url=https%3A//shanghai.nyu.edu/videos/nyu-shanghaier-season-5&status=NYU%20Shanghaier%20Season%20One%20-%205%20https%3A//shanghai.nyu.edu/videos/nyu-shanghaier-season-5",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/videos/nyu-shanghaier-season-5&title=NYU%20Shanghaier%20Season%20One%20-%205",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/videos/nyu-shanghaier-season-5&title=NYU%20Shanghaier%20Season%20One%20-%205",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/culinary-connections-exploring-influence-arab-and-islamic-culture",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/inside-classroom-nyu-shanghais-global-perspectives-society-course",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/study-away-nyu-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/2024-candidate-weekend",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/2024-dumpling-festival",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/class-2023-first-destination-report-highlight",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/2023-graduate-convocation",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/tribute-video-msmrs-and-msoms",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/2023-qilin-cup",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/when-your-mom-your-schoolmate",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/2023-undergraduate-symposium",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/steven-iams-winner-2022-2023-nyu-shanghai-teaching-excellence-award",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/weng-weiwei-winner-2022-2023-nyu-shanghai-teaching-excellence-award",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/lena-scheen-winner-2021-2022-nyu-shanghai-teaching-excellence-award",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/qiantan-campus-construction-chronicle",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 8,
+  "crawled_at": "2026-06-09T04:56:01+00:00",
+  "sequence": 2541
+}

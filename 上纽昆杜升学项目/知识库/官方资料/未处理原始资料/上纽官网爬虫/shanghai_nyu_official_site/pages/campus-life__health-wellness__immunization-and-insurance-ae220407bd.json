@@ -1,0 +1,90 @@
+{
+  "id": "campus-life__health-wellness__immunization-and-insurance-ae220407bd",
+  "url": "https://shanghai.nyu.edu/campus-life/health-wellness/immunization-and-insurance",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/health-wellness/immunization-and-insurance",
+  "page_type": "campus-life",
+  "title": "Immunization and Insurance",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Immunization and Insurance\nHealth and Immunization Requirements\nNew York University requires all students (graduate, undergraduate, transfer, and returning students) who are taking six or more credits to submit a basic health history form and proof of certain vaccinations, including MMR (麻疹, 风疹, 腮腺炎) and meningitis. We strongly encourage all international students to follow US CDC vaccine recommendations for China.\nFor all students preparing to study in Shanghai, please refer to the following links for detailed and up to date information:\nFor additional questions about general health or immunization requirements to study in Shanghai, please contact shanghai.health@nyu.edu.\nHealth Insurance Requirements\nAll NYU Shanghai students are required to have health insurance.\nAll international students at NYU Shanghai are required to have GeoBlue international insurance which offers global coverage for the full academic year. More information on insurance regarding US/international students can be found here.\nWe highly recommend Chinese national students enroll in the PingAn - Complimentary insurance while studying at the NYU Shanghai campus. This covers inpatient service, which supplements mandatory Chinese Citizen Insurance.\nAll Chinese national students traveling outside China on university-related programs are required to purchase Geoblue Study Away insurance if they wish to participate. This includes conferences, summer courses, internships, and study abroad programs.\nPlease contact shanghai.health@nyu.edu regarding any insurance related questions.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Immunization and Insurance"
+    },
+    {
+      "type": "h3",
+      "text": "Health and Immunization Requirements"
+    },
+    {
+      "type": "p",
+      "text": "New York University requires all students (graduate, undergraduate, transfer, and returning students) who are taking six or more credits to submit a basic health history form and proof of certain vaccinations, including MMR (麻疹, 风疹, 腮腺炎) and meningitis. We strongly encourage all international students to follow US CDC vaccine recommendations for China."
+    },
+    {
+      "type": "p",
+      "text": "For all students preparing to study in Shanghai, please refer to the following links for detailed and up to date information:"
+    },
+    {
+      "type": "p",
+      "text": "For additional questions about general health or immunization requirements to study in Shanghai, please contact shanghai.health@nyu.edu."
+    },
+    {
+      "type": "h3",
+      "text": "Health Insurance Requirements"
+    },
+    {
+      "type": "p",
+      "text": "All NYU Shanghai students are required to have health insurance."
+    },
+    {
+      "type": "p",
+      "text": "All international students at NYU Shanghai are required to have GeoBlue international insurance which offers global coverage for the full academic year. More information on insurance regarding US/international students can be found here."
+    },
+    {
+      "type": "p",
+      "text": "We highly recommend Chinese national students enroll in the PingAn - Complimentary insurance while studying at the NYU Shanghai campus. This covers inpatient service, which supplements mandatory Chinese Citizen Insurance."
+    },
+    {
+      "type": "p",
+      "text": "All Chinese national students traveling outside China on university-related programs are required to purchase Geoblue Study Away insurance if they wish to participate. This includes conferences, summer courses, internships, and study abroad programs."
+    },
+    {
+      "type": "p",
+      "text": "Please contact shanghai.health@nyu.edu regarding any insurance related questions."
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "http://wwwnc.cdc.gov/travel/destinations/traveler/none/china",
+      "text": "US CDC vaccine recommendations for China",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/students/health-and-wellness/next-stop-health-requirements/shanghai.html",
+      "text": "General Health Requirements",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/students/health-and-wellness/next-stop-health-requirements/shanghai/shanghai-immunization-requirements.html",
+      "text": "Immunization Requirements",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/students/health-and-wellness/student-health-insurance/nyu-shanghai.html",
+      "text": "here",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/students/health-and-wellness/student-health-insurance/study-away.html",
+      "text": "Geoblue Study Away insurance",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 220,
+  "crawled_at": "2026-06-09T04:32:23+00:00",
+  "sequence": 567
+}

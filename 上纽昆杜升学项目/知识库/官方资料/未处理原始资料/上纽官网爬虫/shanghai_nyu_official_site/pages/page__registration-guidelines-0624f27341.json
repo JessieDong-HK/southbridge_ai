@@ -1,0 +1,70 @@
+{
+  "id": "page__registration-guidelines-0624f27341",
+  "url": "https://shanghai.nyu.edu/page/registration-guidelines",
+  "canonical_url": "https://shanghai.nyu.edu/page/registration-guidelines",
+  "page_type": "page",
+  "title": "Registration Guidelines",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Registration Guidelines\nUpdating Contact Information\nIt is very important for students to keep their contact information updated in the Student Address, Email/Cell Phone/Fax, and Emergency Contact on their Personal Profile on Albert. The Student Address feature should be used to verify and update a student's postal address and telephone information (permanent/local/next of kin/work). The Email/Cell Phone/Fax feature allows students to enter a second email address and their mobile phone information. Equally important, the Emergency Contact Information feature allows for a contact name and a domestic telephone number.\nRegistration Blocks\nAfter NYU Shanghai students’ first term, they can use the Registration Status feature of the Registration options to check if there are any restrictions that will prevent them from enrolling in classes. In addition, students should also use the Stops feature of the Personal Profile options to view a full listing of all stops that may exist on their records. By using these two features, students will be able to view a comprehensive list of items that may prevent them from registering for courses.\nRegistration Resources\nFor instructions on using Albert for course enrollment, please following these guidelines.\nAlbert's Course Search feature displays course data that is updated on a daily basis. To obtain the most up-to-date course information, students can use the Course Status feature from Albert's Registration options.\nThe Student Schedule feature of the Registration options can be used to verify enrollment and see a listing of the courses in which a student is enrolled or wait-listed.\nPlease note: Students should continually check Albert up to the start of classes for the latest room assignments, as these can change several times before classes actually begin.\nPlease contact the Office of the Registrar with any questions.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Registration Guidelines"
+    },
+    {
+      "type": "h3",
+      "text": "Updating Contact Information"
+    },
+    {
+      "type": "p",
+      "text": "It is very important for students to keep their contact information updated in the Student Address, Email/Cell Phone/Fax, and Emergency Contact on their Personal Profile on Albert. The Student Address feature should be used to verify and update a student's postal address and telephone information (permanent/local/next of kin/work). The Email/Cell Phone/Fax feature allows students to enter a second email address and their mobile phone information. Equally important, the Emergency Contact Information feature allows for a contact name and a domestic telephone number."
+    },
+    {
+      "type": "h3",
+      "text": "Registration Blocks"
+    },
+    {
+      "type": "p",
+      "text": "After NYU Shanghai students’ first term, they can use the Registration Status feature of the Registration options to check if there are any restrictions that will prevent them from enrolling in classes. In addition, students should also use the Stops feature of the Personal Profile options to view a full listing of all stops that may exist on their records. By using these two features, students will be able to view a comprehensive list of items that may prevent them from registering for courses."
+    },
+    {
+      "type": "h3",
+      "text": "Registration Resources"
+    },
+    {
+      "type": "p",
+      "text": "For instructions on using Albert for course enrollment, please following these guidelines."
+    },
+    {
+      "type": "p",
+      "text": "Albert's Course Search feature displays course data that is updated on a daily basis. To obtain the most up-to-date course information, students can use the Course Status feature from Albert's Registration options."
+    },
+    {
+      "type": "p",
+      "text": "The Student Schedule feature of the Registration options can be used to verify enrollment and see a listing of the courses in which a student is enrolled or wait-listed."
+    },
+    {
+      "type": "p",
+      "text": "Please note: Students should continually check Albert up to the start of classes for the latest room assignments, as these can change several times before classes actually begin."
+    },
+    {
+      "type": "p",
+      "text": "Please contact the Office of the Registrar with any questions."
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/registration.html",
+      "text": "these guidelines",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 299,
+  "crawled_at": "2026-06-09T04:31:26+00:00",
+  "sequence": 455
+}

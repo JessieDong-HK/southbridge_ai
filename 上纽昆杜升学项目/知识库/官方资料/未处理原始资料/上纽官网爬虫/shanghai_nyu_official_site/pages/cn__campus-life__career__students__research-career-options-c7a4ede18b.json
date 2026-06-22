@@ -1,0 +1,99 @@
+{
+  "id": "cn__campus-life__career__students__research-career-options-c7a4ede18b",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/research-career-options",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/career/students/research-career-options",
+  "page_type": "cn",
+  "title": "探索职业选择",
+  "description": "利用我们提供的多种资源探索感兴趣的行业与工作。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "探索职业选择\n利用我们提供的多种资源探索感兴趣的行业与工作。\n职业调研\n行业分类\nCCD 求职技能指南",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "探索职业选择"
+    },
+    {
+      "type": "p",
+      "text": "利用我们提供的多种资源探索感兴趣的行业与工作。"
+    },
+    {
+      "type": "h4",
+      "text": "职业调研"
+    },
+    {
+      "type": "h4",
+      "text": "行业分类"
+    },
+    {
+      "type": "h4",
+      "text": "CCD 求职技能指南"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/researching-careers_0.jpg",
+      "alt": "职业调研",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/researching-careers_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-3-01-3.jpg",
+      "alt": "行业分类",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-3-01-3.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/sectors-industries_0.jpg",
+      "alt": "CCD 求职技能指南",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/sectors-industries_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/researching-careers",
+      "text": "职业调研",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campuslife/sectors-and-industries",
+      "text": "行业分类",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/cdc-skill-guides",
+      "text": "CCD 求职技能指南",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/entrepreneurship",
+      "text": "创业支持",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/programs",
+      "text": "升学深造资源",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/university-accreditation-and-english-proficiency",
+      "text": "大学认证及英语水平",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 6,
+  "crawled_at": "2026-06-09T04:36:55+00:00",
+  "sequence": 975
+}

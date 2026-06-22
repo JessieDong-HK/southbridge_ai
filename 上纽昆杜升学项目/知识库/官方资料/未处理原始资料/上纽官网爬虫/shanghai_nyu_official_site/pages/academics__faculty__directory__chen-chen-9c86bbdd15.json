@@ -1,0 +1,88 @@
+{
+  "id": "academics__faculty__directory__chen-chen-9c86bbdd15",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/chen-chen",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/chen-chen",
+  "page_type": "academics",
+  "title": "Chen",
+  "description": "Chen Chen is an Assistant Professor of Operations and Business Analytics at NYU Shanghai. He received his Ph.D. from Fuqua School of Business, Duke University. Prior to joining NYU Shanghai, He was a Postdoctoral Researcher in the Operations Management area at Booth School of Business, University of",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Chen Chen\nChen Chen is an Assistant Professor of Operations and Business Analytics at NYU Shanghai. He received his Ph.D. from Fuqua School of Business, Duke University. Prior to joining NYU Shanghai, He was a Postdoctoral Researcher in the Operations Management area at Booth School of Business, University of Chicago.\nHe is broadly interested in the design and analysis of mechanisms and algorithms to improve the operations of marketplaces and general service systems. His work has been recognized with multiple awards, including first place in the INFORMS Junior Faculty Interest Group (JFIG) Paper Competition (2024), first place in the CSAMSE (Chinese Scholars Association for Management Science and Engineering) Best Paper Award (2024), and first place in the inaugural INFORMS Revenue Management and Pricing Jeff McGill Student Paper Prize (2019).\nSelected Publications\nCandogan, Ozan, Chen Chen, Rad Niazadeh. \"Correlated Cluster-Based Randomized Experiments: Robust Variance Minimization.\" Management Science, 70(6): 2024, 3381-4165.\nSantiago R. Balseiro, David B. Brown, Chen Chen. \"Dynamic Pricing of Relocating Resources in Large Networks.\" Management Science, 67(7): 2021, 3985-4642.\nSantiago R. Balseiro, David B. Brown, Chen Chen. \"Static Routing in Stochastic Scheduling: Performance Guarantees and Asymptotic Optimality.\" Operations Research, 66(6): 2018, 1641-1660.\nEducation\nPhD, Business Administration (Decision Sciences)Fuqua School of Business, Duke University, 2020\nDesign and Analysis of Marketplaces\nAlgorithmic Pricing and Revenue Management\nOperations\nDynamic Optimization and Stochastic Approximation Methods",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Chen Chen"
+    },
+    {
+      "type": "p",
+      "text": "Chen Chen is an Assistant Professor of Operations and Business Analytics at NYU Shanghai. He received his Ph.D. from Fuqua School of Business, Duke University. Prior to joining NYU Shanghai, He was a Postdoctoral Researcher in the Operations Management area at Booth School of Business, University of Chicago."
+    },
+    {
+      "type": "p",
+      "text": "He is broadly interested in the design and analysis of mechanisms and algorithms to improve the operations of marketplaces and general service systems. His work has been recognized with multiple awards, including first place in the INFORMS Junior Faculty Interest Group (JFIG) Paper Competition (2024), first place in the CSAMSE (Chinese Scholars Association for Management Science and Engineering) Best Paper Award (2024), and first place in the inaugural INFORMS Revenue Management and Pricing Jeff McGill Student Paper Prize (2019)."
+    },
+    {
+      "type": "h3",
+      "text": "Selected Publications"
+    },
+    {
+      "type": "li",
+      "text": "Candogan, Ozan, Chen Chen, Rad Niazadeh. \"Correlated Cluster-Based Randomized Experiments: Robust Variance Minimization.\" Management Science, 70(6): 2024, 3381-4165."
+    },
+    {
+      "type": "li",
+      "text": "Santiago R. Balseiro, David B. Brown, Chen Chen. \"Dynamic Pricing of Relocating Resources in Large Networks.\" Management Science, 67(7): 2021, 3985-4642."
+    },
+    {
+      "type": "li",
+      "text": "Santiago R. Balseiro, David B. Brown, Chen Chen. \"Static Routing in Stochastic Scheduling: Performance Guarantees and Asymptotic Optimality.\" Operations Research, 66(6): 2018, 1641-1660."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Business Administration (Decision Sciences)Fuqua School of Business, Duke University, 2020"
+    },
+    {
+      "type": "li",
+      "text": "Design and Analysis of Marketplaces"
+    },
+    {
+      "type": "li",
+      "text": "Algorithmic Pricing and Revenue Management"
+    },
+    {
+      "type": "li",
+      "text": "Operations"
+    },
+    {
+      "type": "li",
+      "text": "Dynamic Optimization and Stochastic Approximation Methods"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Portrait%20Photo.jpg",
+      "alt": "chen chen",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cc8029.github.io/",
+      "text": "https://cc8029.github.io/",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 231,
+  "crawled_at": "2026-06-09T04:53:34+00:00",
+  "sequence": 2378
+}

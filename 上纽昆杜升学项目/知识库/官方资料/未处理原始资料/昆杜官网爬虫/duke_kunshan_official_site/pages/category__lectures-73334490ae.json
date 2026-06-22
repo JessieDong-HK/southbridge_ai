@@ -1,0 +1,36 @@
+{
+  "id": "category__lectures-73334490ae",
+  "url": "https://www.dukekunshan.edu.cn/category/lectures",
+  "canonical_url": "https://www.dukekunshan.edu.cn/category/lectures/",
+  "page_type": "category",
+  "title": "Lectures Archives",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": "2026-02-27T04:17:49+00:00",
+  "text": "Category: Lectures",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Category: Lectures"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-03T13:56:09+00:00",
+  "sequence": 674
+}

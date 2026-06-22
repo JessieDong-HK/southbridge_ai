@@ -1,0 +1,84 @@
+{
+  "id": "academics__faculty__directory__yucheng-lu-3e75fcef46",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/yucheng-lu",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/yucheng-lu",
+  "page_type": "academics",
+  "title": "Yucheng",
+  "description": "Yucheng Lu is an Assistant Professor of Computer Science at NYU Shanghai, where he leads the HeavyBall Research group. His research centers on hardware–software co-design for efficient machine learning systems, encompassing training and inference engines, GPU kernel optimization, and large-scale AI",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Yucheng Lu\nYucheng Lu is an Assistant Professor of Computer Science at NYU Shanghai, where he leads the HeavyBall Research group. His research centers on hardware–software co-design for efficient machine learning systems, encompassing training and inference engines, GPU kernel optimization, and large-scale AI applications. Prior to joining NYU Shanghai, he was a Research Engineer at Together AI and held research internships at Google, Microsoft, and Amazon. He received his Ph.D. in Computer Science from Cornell University in 2023, advised by Chris De Sa.\nSelect Publications\nJue Wang*, Yucheng Lu*, Binhang Yuan, Beidi Chen, Percy Liang, Chris De Sa, Chris Ré, Ce Zhang. CocktailSGD: Fine-tuning Foundation Models over 500Mbps Networks. In the Fortieth International Conference on Machine Learning (ICML) 2023.\nYucheng Lu, Conglong Li, Minjia Zhang, Chris De Sa, Yuxiong He. Maximizing Communication Efficiency for Large-scale Training via 0/1 Adam. In the Eleventh International Conference on Learning Representations (ICLR) 2023.\nYucheng Lu, Wentao Guo, Chris De Sa. GraB: Finding Provably Better Data Permutations than Random Reshuffling. In the Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.\nYucheng Lu, Chris De Sa. Optimal Complexity in Decentralized Training. In the Thirty-eighth International Conference on Machine Learning (ICML) 2021.\nYucheng Lu, Chris De Sa. Moniqua: Modulo Quantized Communication in Decentralized SGD. In the Thirty-seventh International Conference on Machine Learning (ICML) 2020.\nEducation\nPh.D., Computer ScienceCornell University\nB.Eng., Electronic EngineeringShanghai Jiao Tong University\nMachine Learning Systems",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Yucheng Lu"
+    },
+    {
+      "type": "p",
+      "text": "Yucheng Lu is an Assistant Professor of Computer Science at NYU Shanghai, where he leads the HeavyBall Research group. His research centers on hardware–software co-design for efficient machine learning systems, encompassing training and inference engines, GPU kernel optimization, and large-scale AI applications. Prior to joining NYU Shanghai, he was a Research Engineer at Together AI and held research internships at Google, Microsoft, and Amazon. He received his Ph.D. in Computer Science from Cornell University in 2023, advised by Chris De Sa."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Jue Wang*, Yucheng Lu*, Binhang Yuan, Beidi Chen, Percy Liang, Chris De Sa, Chris Ré, Ce Zhang. CocktailSGD: Fine-tuning Foundation Models over 500Mbps Networks. In the Fortieth International Conference on Machine Learning (ICML) 2023."
+    },
+    {
+      "type": "li",
+      "text": "Yucheng Lu, Conglong Li, Minjia Zhang, Chris De Sa, Yuxiong He. Maximizing Communication Efficiency for Large-scale Training via 0/1 Adam. In the Eleventh International Conference on Learning Representations (ICLR) 2023."
+    },
+    {
+      "type": "li",
+      "text": "Yucheng Lu, Wentao Guo, Chris De Sa. GraB: Finding Provably Better Data Permutations than Random Reshuffling. In the Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022."
+    },
+    {
+      "type": "li",
+      "text": "Yucheng Lu, Chris De Sa. Optimal Complexity in Decentralized Training. In the Thirty-eighth International Conference on Machine Learning (ICML) 2021."
+    },
+    {
+      "type": "li",
+      "text": "Yucheng Lu, Chris De Sa. Moniqua: Modulo Quantized Communication in Decentralized SGD. In the Thirty-seventh International Conference on Machine Learning (ICML) 2020."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "Ph.D., Computer ScienceCornell University"
+    },
+    {
+      "type": "li",
+      "text": "B.Eng., Electronic EngineeringShanghai Jiao Tong University"
+    },
+    {
+      "type": "li",
+      "text": "Machine Learning Systems"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/front.jpg",
+      "alt": "Yucheng Lu",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.yucheng-lu.me/",
+      "text": "https://www.yucheng-lu.me/",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 244,
+  "crawled_at": "2026-06-09T04:34:41+00:00",
+  "sequence": 782
+}

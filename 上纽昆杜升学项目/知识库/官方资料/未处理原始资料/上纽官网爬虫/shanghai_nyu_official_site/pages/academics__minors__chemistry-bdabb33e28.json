@@ -1,0 +1,71 @@
+{
+  "id": "academics__minors__chemistry-bdabb33e28",
+  "url": "https://shanghai.nyu.edu/academics/minors/chemistry",
+  "canonical_url": "https://shanghai.nyu.edu/academics/minors/chemistry",
+  "page_type": "academics",
+  "title": "Chemistry",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Chemistry\nChemistry is the study of the world of molecules: how they are created from atoms, how their structures affect their chemical and physical properties, and how they unite or assemble to form the matter that makes up the physical world. Knowledge of chemistry is fundamental to an in-depth understanding of the structural properties and biochemical reactions that define all living systems. Chemistry is therefore the central science that bridges physics and the life sciences, and is a foundation to many other fields, such as materials science, earth science, and forensic science. The challenges that society faces in the twenty-first century, such as managing climate change, sourcing clean energy, and ensuring food security, are at their root chemical problems. With a global perspective and a broad science curriculum at its core, our chemistry major program gives students a comprehensive outlook necessary to tackle these challenges.\nRequirements for the Minor\nFaculty Mentors\nFaculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory.\nArea Head of Natural Sciences, Professor of Practice of Biology",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Chemistry"
+    },
+    {
+      "type": "p",
+      "text": "Chemistry is the study of the world of molecules: how they are created from atoms, how their structures affect their chemical and physical properties, and how they unite or assemble to form the matter that makes up the physical world. Knowledge of chemistry is fundamental to an in-depth understanding of the structural properties and biochemical reactions that define all living systems. Chemistry is therefore the central science that bridges physics and the life sciences, and is a foundation to many other fields, such as materials science, earth science, and forensic science. The challenges that society faces in the twenty-first century, such as managing climate change, sourcing clean energy, and ensuring food security, are at their root chemical problems. With a global perspective and a broad science curriculum at its core, our chemistry major program gives students a comprehensive outlook necessary to tackle these challenges."
+    },
+    {
+      "type": "h3",
+      "text": "Requirements for the Minor"
+    },
+    {
+      "type": "h3",
+      "text": "Faculty Mentors"
+    },
+    {
+      "type": "p",
+      "text": "Faculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory."
+    },
+    {
+      "type": "p",
+      "text": "Area Head of Natural Sciences, Professor of Practice of Biology"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/danyang_yu.jpeg",
+      "alt": "Danyang Yu",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/danyang_yu-c2e970728738.jpeg",
+      "download_status": "downloaded",
+      "bytes": 1010578,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/posting-minor",
+      "text": "Post a Minor",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory",
+      "text": "faculty directory",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/danyang-yu",
+      "text": "Danyang Yu",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 218,
+  "crawled_at": "2026-06-09T04:41:25+00:00",
+  "sequence": 1379
+}

@@ -1,0 +1,36 @@
+{
+  "id": "zh-hans__news__-e8-b7-a8-e8-b6-8a11610-e5-85-ac-e9-87-8c-e7-9a-84-e8-bf-99-e4-b8-80-e5-b9-974b6cc876",
+  "url": "https://www.dukekunshan.edu.cn/zh-hans/news/%e8%b7%a8%e8%b6%8a11610%e5%85%ac%e9%87%8c%e7%9a%84%e8%bf%99%e4%b8%80%e5%b9%b4",
+  "canonical_url": "https://www.dukekunshan.edu.cn/zh-hans/news/跨越11610公里的这一年/",
+  "page_type": "zh-hans",
+  "title": "跨越11610公里的这一年",
+  "description": "",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "2025-01-14T03:33:04+00:00",
+  "sitemap_lastmod": "2025-01-14T03:33:04+00:00",
+  "text": "跨越11610公里的这一年",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "跨越11610公里的这一年"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-03T13:53:55+00:00",
+  "sequence": 471
+}

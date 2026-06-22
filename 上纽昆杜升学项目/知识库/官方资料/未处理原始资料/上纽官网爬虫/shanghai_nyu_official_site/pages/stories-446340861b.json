@@ -1,0 +1,247 @@
+{
+  "id": "stories-446340861b",
+  "url": "https://shanghai.nyu.edu/stories?page=7",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "stories",
+  "title": "People | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "People\nLi Li: Follow Your Heart and Let the Data Speak for Themselves\nKristen Glinton '19: Pioneering Her Way to a Fulbright\nCheng Yue: Carrying on a Family tradition across East and West\nMeet Jeremy Hazin ’25, NYU Shanghai's First Olympian!\nZuo Lala: Storytelling Through Architecture\nSenior Profile: Zane Fadul ’21 on Rising to the Occasion\nLancelot Zhang Qilin ’21: Language is the Silk that Weaves Community Together\nSydney Fontalvo '21: Transforming Exploration into Real Change\nKong Xiaoyan '21: Set on Making a Difference\nLing Mei MA TESOL ’21: Teaching Chinese in Saudi Arabia\nBruce Ma Jiaji '21: Running the Research Marathon\nShumpei Haginoya: From Police Station to Ivory Tower",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "People"
+    },
+    {
+      "type": "h4",
+      "text": "Li Li: Follow Your Heart and Let the Data Speak for Themselves"
+    },
+    {
+      "type": "h4",
+      "text": "Kristen Glinton '19: Pioneering Her Way to a Fulbright"
+    },
+    {
+      "type": "h4",
+      "text": "Cheng Yue: Carrying on a Family tradition across East and West"
+    },
+    {
+      "type": "h4",
+      "text": "Meet Jeremy Hazin ’25, NYU Shanghai's First Olympian!"
+    },
+    {
+      "type": "h4",
+      "text": "Zuo Lala: Storytelling Through Architecture"
+    },
+    {
+      "type": "h4",
+      "text": "Senior Profile: Zane Fadul ’21 on Rising to the Occasion"
+    },
+    {
+      "type": "h4",
+      "text": "Lancelot Zhang Qilin ’21: Language is the Silk that Weaves Community Together"
+    },
+    {
+      "type": "h4",
+      "text": "Sydney Fontalvo '21: Transforming Exploration into Real Change"
+    },
+    {
+      "type": "h4",
+      "text": "Kong Xiaoyan '21: Set on Making a Difference"
+    },
+    {
+      "type": "h4",
+      "text": "Ling Mei MA TESOL ’21: Teaching Chinese in Saudi Arabia"
+    },
+    {
+      "type": "h4",
+      "text": "Bruce Ma Jiaji '21: Running the Research Marathon"
+    },
+    {
+      "type": "h4",
+      "text": "Shumpei Haginoya: From Police Station to Ivory Tower"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/li_work-940.jpg?itok=TynvTa0V",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/li_work-940-8143e06c494f.jpg",
+      "download_status": "downloaded",
+      "bytes": 27931,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/pearl-kristen-hompage.jpg?itok=2Mog4SgB",
+      "alt": "Glinton holds Bahamian flag as she poses with Lujiazui skyline in the background",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/pearl-kristen-hompage-4de019eec35f.jpg",
+      "download_status": "downloaded",
+      "bytes": 24157,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/cheng-yue-400.jpg?itok=7ObzE5k1",
+      "alt": "ChengYue",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/rings_night_edited.jpg?itok=sHw7CrrY",
+      "alt": "Hazin stands in front of Olympic rings against Tokyo skyline",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/screen_shot_2021-07-12_at_3.32.41_pm_1.png?itok=cc4p3Dpg",
+      "alt": "Zuo looks pensively up under shadow of buildings",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2021-07-12_at_3.32.41_pm_1-63f8ee3e5dcd.png",
+      "download_status": "downloaded",
+      "bytes": 240308,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/zane-fadul-730-2.jpg?itok=371SDRMu",
+      "alt": "zane",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/lancelotheaderjpg.jpg?itok=dJhmGh89",
+      "alt": "lancelot",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/lancelotheaderjpg-0d9cbe3065f4.jpg",
+      "download_status": "downloaded",
+      "bytes": 24774,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/507720988-300.jpg?itok=-117dmod",
+      "alt": "senior profile",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/screen_shot_2021-05-14_at_5.24.32_pm.png?itok=Lmsef-Jh",
+      "alt": "senior profile",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/ling_mei1.jpg?itok=xH4HxWwq",
+      "alt": "Ling Mei cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ling_mei1-610b392b6dc2.jpg",
+      "download_status": "downloaded",
+      "bytes": 22675,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/2020-sh-marathon-730.jpg?itok=3VcVofdu",
+      "alt": "Ma runs in crowd",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/shumpei.jpg?itok=2uZcH3yM",
+      "alt": "Shumpei Haginoya cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/stories/li-li-follow-your-heart-and-let-data-speak-themselves",
+      "text": "Li Li: Follow Your Heart and Let the Data Speak for Themselves",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/kristen-glinton-19-pioneering-her-way-fulbright",
+      "text": "Kristen Glinton '19: Pioneering Her Way to a Fulbright",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/cheng-yue-carrying-family-tradition-across-east-and-west",
+      "text": "Cheng Yue: Carrying on a Family tradition across East and West",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/meet-nyu-shanghais-first-olympian",
+      "text": "Meet Jeremy Hazin ’25, NYU Shanghai's First Olympian!",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/zuo-lala-storytelling-through-architecture",
+      "text": "Zuo Lala: Storytelling Through Architecture",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/senior-profile-zane-fadul-21-rising-occasion",
+      "text": "Senior Profile: Zane Fadul ’21 on Rising to the Occasion",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/lancelot-zhang-qilin-21-language-silk-weaves-community-together",
+      "text": "Lancelot Zhang Qilin ’21: Language is the Silk that Weaves Community Together",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/sydney-fontalvo-21-transforming-exploration-real-change",
+      "text": "Sydney Fontalvo '21: Transforming Exploration into Real Change",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/kong-xiaoyan-21-set-making-difference",
+      "text": "Kong Xiaoyan '21: Set on Making a Difference",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/ma-tesol-21-ling-mei-teaching-chinese-saudi-arabia-0",
+      "text": "Ling Mei MA TESOL ’21: Teaching Chinese in Saudi Arabia",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/bruce-ma-jiaji-21-running-research-marathon",
+      "text": "Bruce Ma Jiaji '21: Running the Research Marathon",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/shumpei-haginoya-police-station-ivory-tower",
+      "text": "Shumpei Haginoya: From Police Station to Ivory Tower",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 111,
+  "crawled_at": "2026-06-09T04:32:59+00:00",
+  "sequence": 642
+}

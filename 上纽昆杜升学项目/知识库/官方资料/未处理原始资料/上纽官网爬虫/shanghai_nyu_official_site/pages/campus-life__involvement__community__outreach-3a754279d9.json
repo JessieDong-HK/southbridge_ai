@@ -1,0 +1,160 @@
+{
+  "id": "campus-life__involvement__community__outreach-3a754279d9",
+  "url": "https://shanghai.nyu.edu/campus-life/involvement/community/outreach",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/involvement/community/outreach",
+  "page_type": "campus-life",
+  "title": "Project OutReach",
+  "description": "Project OutReach is a day of service for all freshmen students during their orientation program. Students work together in teams to serve Shanghai community members while getting to know the city they will call home.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Project OutReach\nProject OutReach is a day of service for all freshmen students during their orientation program. Students work together in teams to serve Shanghai community members while getting to know the city they will call home.\nPrevious projects have included planting trees at Binjiang Forest Park, performing music at the Yindu Aged Home, and volunteering at animal shelters in the city.\nTo continue engaging in volunteer opportunities after orientation, visit the community service portal on OrgSync or email shanghai.involvement@nyu.edu.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Project OutReach"
+    },
+    {
+      "type": "p",
+      "text": "Project OutReach is a day of service for all freshmen students during their orientation program. Students work together in teams to serve Shanghai community members while getting to know the city they will call home."
+    },
+    {
+      "type": "p",
+      "text": "Previous projects have included planting trees at Binjiang Forest Park, performing music at the Yindu Aged Home, and volunteering at animal shelters in the city."
+    },
+    {
+      "type": "p",
+      "text": "To continue engaging in volunteer opportunities after orientation, visit the community service portal on OrgSync or email shanghai.involvement@nyu.edu."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/athletics-16.jpg",
+      "alt": "project OutReach",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/athletics-16.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/img_5214.jpg?itok=J9DNdFVP",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_5214-2a88a8e4d913.jpg",
+      "download_status": "downloaded",
+      "bytes": 152706,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/img_5225.jpg?itok=2SNuyeb5",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_5225-30f4032250d9.jpg",
+      "download_status": "downloaded",
+      "bytes": 123846,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/img_5216.jpg?itok=T5TfKGRj",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/img_5218_0.jpg?itok=coQYuBjf",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_5218_0-beca70d369b3.jpg",
+      "download_status": "downloaded",
+      "bytes": 82475,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/img_5220.jpg?itok=iCpw4hJw",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_5220-5748b94b95e3.jpg",
+      "download_status": "downloaded",
+      "bytes": 104309,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/img_5223.jpg?itok=0m0Akjln",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_5223-0c2901d6a73d.jpg",
+      "download_status": "downloaded",
+      "bytes": 94156,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/img_5224.jpg?itok=-ieuthWs",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_5224-3d4f3df5e2f9.jpg",
+      "download_status": "downloaded",
+      "bytes": 81973,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/img_5229.jpg?itok=yucCfBRW",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/1-52.jpg?itok=QmJ2QdzK",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/1-52.jpg?itok=QmJ2QdzK (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/1-60.jpg?itok=VyT6EC5V",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/1-66.jpg?itok=sKFmuuzK",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/1-66.jpg?itok=sKFmuuzK (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/1-74.jpg?itok=TT-urM7U",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/1-74.jpg?itok=TT-urM7U (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 83,
+  "crawled_at": "2026-06-09T04:32:03+00:00",
+  "sequence": 512
+}

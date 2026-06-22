@@ -1,0 +1,34 @@
+{
+  "id": "research__funding-opportunity-3b3441ea89",
+  "url": "https://www.dukekunshan.edu.cn/research/funding-opportunity",
+  "canonical_url": "https://research.dukekunshan.edu.cn/rso/funding-opportunity/",
+  "page_type": "research",
+  "title": "Funding Opportunity – Research | Duke Kunshan University",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": "2025-06-12T09:53:56+00:00",
+  "text": "Funding Opportunity\nPlease login to see the content.",
+  "text_blocks": [
+    {
+      "type": "h2",
+      "text": "Funding Opportunity"
+    },
+    {
+      "type": "p",
+      "text": "Please login to see the content."
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://research.dukekunshan.edu.cn/rso/funding-opportunity?option=saml_user_login",
+      "text": "login",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 8,
+  "crawled_at": "2026-06-03T13:50:37+00:00",
+  "sequence": 159
+}

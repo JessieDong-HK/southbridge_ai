@@ -1,0 +1,245 @@
+{
+  "id": "cn__news-02667d5958",
+  "url": "https://shanghai.nyu.edu/cn/news?page=0",
+  "canonical_url": "https://shanghai.nyu.edu/news",
+  "page_type": "cn",
+  "title": "新闻 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "新闻",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "新闻"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/scholars_convene_for_accounting_research_conference-01.jpg?itok=EPTjhbn7",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/scholars_convene_for_accounting_research_conference-9a7367afffbf.jpg",
+      "download_status": "downloaded",
+      "bytes": 32098,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/spring_2026_undergraduate_research_symposium_piece-01.jpg?itok=LfcWaNyX",
+      "alt": "spring 2026 undergraduate research symposium",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/spring_2026_undergraduate_research_symposium_piece-0-a017b40fea35.jpg",
+      "download_status": "downloaded",
+      "bytes": 41962,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/class_of_2026_shines_at_awards_honors_ceremony-01.jpg?itok=pQ7QkGj5",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/beis_speech.jpg?itok=AF638gu9",
+      "alt": "Bei Wu",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/beis_speech-b4ab9d546e36.jpg",
+      "download_status": "downloaded",
+      "bytes": 18550,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/00bbe3bd48c54d8d2652afbfa5b10b77-2-2-2_0.jpg?itok=O_9LVya7",
+      "alt": "Joan Chen",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/00bbe3bd48c54d8d2652afbfa5b10b77-2-2-2_0-7b4fdf16f2e2.jpg",
+      "download_status": "downloaded",
+      "bytes": 23655,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/tong-3_0.jpg?itok=nyBcj3Dz",
+      "alt": "C.Tong",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/maotou-2_0.jpg?itok=OqVmZ5sz",
+      "alt": "Maotou",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/fatima-2_0.jpg?itok=wMyFyb4g",
+      "alt": "Fatima",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/fatima-2_0-60209d3c7b04.jpg",
+      "download_status": "downloaded",
+      "bytes": 23051,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/evan_1.jpeg?itok=O2lBkbnb",
+      "alt": "Evan",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/linda-3_0.jpg?itok=peVfg1GP",
+      "alt": "Linda",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/linda-3_0-e24d060676a6.jpg",
+      "download_status": "downloaded",
+      "bytes": 23020,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/jeff-2_2.jpg?itok=f63pOMhE",
+      "alt": "Jeff",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/jeff-2_2-5feaab62e8bd.jpg",
+      "download_status": "downloaded",
+      "bytes": 19082,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/nyu_shanghai_celebrates_class_of_2026_graduation_-01_0.jpg?itok=qDrxxzti",
+      "alt": "Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyu_shanghai_celebrates_class_of_2026_graduation_-01-be8c98efb4f8.jpg",
+      "download_status": "downloaded",
+      "bytes": 53342,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/annie_church_25_wins_fulbright_english_teaching_assistantship-01.jpg?itok=etKBGPZD",
+      "alt": "annie fulbright",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/annie_church_25_wins_fulbright_english_teaching_assi-23c7a2d26e5f.jpg",
+      "download_status": "downloaded",
+      "bytes": 9300,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/campus_welcomes_prospective_violets_to_campus-01.jpg?itok=XRbKvG5S",
+      "alt": "admitted student weekend",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/erasmus_mundus_scholarship_winners_announced-01_1.jpg?itok=zmKnvB-V",
+      "alt": "erasmus mundus",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/scholars-convene-accounting-research-conference",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/symposium-highlights-undergraduate-research",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/class-2026-shines-honors-and-awards-ceremony",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/provost-bei-wu-commencement-2026",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/joan-chen-commencement-2026",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/chancellor-tong-shijun-commencement-2026",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/maotou-zhou-msoms-26-commencement-2026",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/fatima-zahra-foutouh-26-commencement-2026",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/chair-nyu-board-trustees-evan-chesler-commencement-2026",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/nyu-president-linda-g-mills-commencement-2026",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/vice-chancellor-jeffrey-lehman-commencement-2026",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/nyu-shanghai-celebrates-class-2026-graduation",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/annie-church-26-awarded-fulbright-eta",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/welcome-admitted-students-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/record-number-students-win-erasmus-mundus-scholarships",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:45:50+00:00",
+  "sequence": 1714
+}

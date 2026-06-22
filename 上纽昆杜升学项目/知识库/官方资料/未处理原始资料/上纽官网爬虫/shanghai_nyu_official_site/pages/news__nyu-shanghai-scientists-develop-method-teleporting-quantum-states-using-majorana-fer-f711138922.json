@@ -1,0 +1,119 @@
+{
+  "id": "news__nyu-shanghai-scientists-develop-method-teleporting-quantum-states-using-majorana-fer-f711138922",
+  "url": "https://shanghai.nyu.edu/news/nyu-shanghai-scientists-develop-method-teleporting-quantum-states-using-majorana-fermions",
+  "canonical_url": "https://shanghai.nyu.edu/news/nyu-shanghai-scientists-develop-method-teleporting-quantum-states-using-majorana-fermions",
+  "page_type": "news",
+  "title": "Teleporting Quantum States using Majorana Fermions",
+  "description": "The findings have been published in a leading physics journal, Physics Review Letters.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Teleporting Quantum States using Majorana Fermions\nTwitter\nFacebook\nWeibo\nResearchers have discovered a new method of teleporting quantum states constructed by Majorana fermions, an advance that could lead to the development of large-scale reliable quantum computing and quantum memory devices. NYU Shanghai’s Assistant Professor of Physics Tim Byrnes and his PhD student Marek Narożniak, in collaboration with Professor Pan Jianwei and Professor Zhu Xiaobo’s team at the University of Science and Technology of China and researchers from other institutes, describe their findings in a paper entitled “Emulating Quantum Teleportation of a Majorana Zero Mode Qubit” published on March 3 in Physical Review Letters.\nTeleportation is a method of sending the quantum state of an object from one location to another instantaneously no matter where the two locations are and what barriers are in between. Teleportation is necessary for sending a quantum state representing something in one quantum computer to another.\nIn their research, Byrnes and Narożniak constructed topological quantum states from Majorana fermions, particles which are an attractive candidate for constructing topological quantum computers. Such topological quantum states are more immune to errors.\nTo enable the states to be teleported, the researchers manipulated the states by braiding them into different quantum states. “You can imagine this process like braiding hair. Different braids are different operations you apply to the quantum states. The information included in the states really depends on how the hair is braided at the moment,” said Narożniak, a co-first author of the paper. “The braids we made turned out to be sufficient for teleportation, so we developed a teleportation algorithm based on them.”\nAs the topological system they studied for teleportation was hard to build with current technology, Byrnes and Narożniak collaborated with Huang Heliang, a Postdoctoral Fellow at University of Science and Technology of China who is co-first author of the paper, to simulate the method they developed experimentally using a superconducting qubit quantum processor provided by the University of Science and Technology of China. The results showed that the topological teleportation scheme functioned as expected. This experiment has provided inspiration for future researchers on how superconducting quantum processors can be used for the simulation of topological systems.\nThe team also found an innovative way of detecting quantum errors in the simulation experiment. Thanks to this method, they were able to exclude quantums with errors, which improved the average fidelity (how confident you are that what you achieve is what you expect to achieve) of quantum simulation by nearly 15%.\n“Marek thought of the idea of doing teleportation with Majoranas -- it really was a great idea. The problem is that with these types of Majoranas, you can't do all quantum gates. But it turns out quantum teleportation can be done only with braiding gates, so it’s a perfect fit for this type of demonstration,” Professor Byrnes said. “I think people will be very impressed with this experiment, and will set the bar for future quantum simulations of topological quantum computing.” The team will continue to work on the application of the braiding states they developed in future research.\nThis research is a collaboration of NYU Shanghai and the University of Science and Technology of China. Huang Heliang from the University of Science and Technology of China and Marek Narożniak from NYU Shanghai are the co-first authors. Professor Zhu Xiaobo from the University of Science and Technology of China is the corresponding author.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Teleporting Quantum States using Majorana Fermions"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Researchers have discovered a new method of teleporting quantum states constructed by Majorana fermions, an advance that could lead to the development of large-scale reliable quantum computing and quantum memory devices. NYU Shanghai’s Assistant Professor of Physics Tim Byrnes and his PhD student Marek Narożniak, in collaboration with Professor Pan Jianwei and Professor Zhu Xiaobo’s team at the University of Science and Technology of China and researchers from other institutes, describe their findings in a paper entitled “Emulating Quantum Teleportation of a Majorana Zero Mode Qubit” published on March 3 in Physical Review Letters."
+    },
+    {
+      "type": "p",
+      "text": "Teleportation is a method of sending the quantum state of an object from one location to another instantaneously no matter where the two locations are and what barriers are in between. Teleportation is necessary for sending a quantum state representing something in one quantum computer to another."
+    },
+    {
+      "type": "p",
+      "text": "In their research, Byrnes and Narożniak constructed topological quantum states from Majorana fermions, particles which are an attractive candidate for constructing topological quantum computers. Such topological quantum states are more immune to errors."
+    },
+    {
+      "type": "p",
+      "text": "To enable the states to be teleported, the researchers manipulated the states by braiding them into different quantum states. “You can imagine this process like braiding hair. Different braids are different operations you apply to the quantum states. The information included in the states really depends on how the hair is braided at the moment,” said Narożniak, a co-first author of the paper. “The braids we made turned out to be sufficient for teleportation, so we developed a teleportation algorithm based on them.”"
+    },
+    {
+      "type": "p",
+      "text": "As the topological system they studied for teleportation was hard to build with current technology, Byrnes and Narożniak collaborated with Huang Heliang, a Postdoctoral Fellow at University of Science and Technology of China who is co-first author of the paper, to simulate the method they developed experimentally using a superconducting qubit quantum processor provided by the University of Science and Technology of China. The results showed that the topological teleportation scheme functioned as expected. This experiment has provided inspiration for future researchers on how superconducting quantum processors can be used for the simulation of topological systems."
+    },
+    {
+      "type": "p",
+      "text": "The team also found an innovative way of detecting quantum errors in the simulation experiment. Thanks to this method, they were able to exclude quantums with errors, which improved the average fidelity (how confident you are that what you achieve is what you expect to achieve) of quantum simulation by nearly 15%."
+    },
+    {
+      "type": "p",
+      "text": "“Marek thought of the idea of doing teleportation with Majoranas -- it really was a great idea. The problem is that with these types of Majoranas, you can't do all quantum gates. But it turns out quantum teleportation can be done only with braiding gates, so it’s a perfect fit for this type of demonstration,” Professor Byrnes said. “I think people will be very impressed with this experiment, and will set the bar for future quantum simulations of topological quantum computing.” The team will continue to work on the application of the braiding states they developed in future research."
+    },
+    {
+      "type": "p",
+      "text": "This research is a collaboration of NYU Shanghai and the University of Science and Technology of China. Huang Heliang from the University of Science and Technology of China and Marek Narożniak from NYU Shanghai are the co-first authors. Professor Zhu Xiaobo from the University of Science and Technology of China is the corresponding author."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/marek1.jpg?itok=oR6NvuuQ",
+      "alt": "marek tim byrnes research quantum physics",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Teleporting%20Quantum%20States%20using%20Majorana%20Fermions&url=https%3A//shanghai.nyu.edu/news/nyu-shanghai-scientists-develop-method-teleporting-quantum-states-using-majorana-fermions&status=Teleporting%20Quantum%20States%20using%20Majorana%20Fermions%20https%3A//shanghai.nyu.edu/news/nyu-shanghai-scientists-develop-method-teleporting-quantum-states-using-majorana-fermions",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/nyu-shanghai-scientists-develop-method-teleporting-quantum-states-using-majorana-fermions&title=Teleporting%20Quantum%20States%20using%20Majorana%20Fermions",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/nyu-shanghai-scientists-develop-method-teleporting-quantum-states-using-majorana-fermions&title=Teleporting%20Quantum%20States%20using%20Majorana%20Fermions",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/tim-byrnes",
+      "text": "Tim Byrnes",
+      "internal": true
+    },
+    {
+      "url": "https://mareknarozniak.com/",
+      "text": "Marek Narożniak",
+      "internal": false
+    },
+    {
+      "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.090502",
+      "text": "paper",
+      "internal": false
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Quantum_state",
+      "text": "quantum state",
+      "internal": false
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Topology",
+      "text": "topological",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 574,
+  "crawled_at": "2026-06-09T04:41:05+00:00",
+  "sequence": 1356
+}

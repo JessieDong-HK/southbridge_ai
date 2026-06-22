@@ -1,0 +1,109 @@
+{
+  "id": "academics__faculty__directory__wei-wu-aa18bbd0b0",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/wei-wu",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/wei-wu",
+  "page_type": "academics",
+  "title": "Wei",
+  "description": "Dr. Wei Wu is PhD Coordinator of Mathematics and an Associate Professor of Mathematics at NYU Shanghai. Before joining NYU Shanghai, he held academic positions at the Courant Institute, New York University and at the University of Warwick. He works in probability, mathematical physics and partial",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Wei Wu\nDr. Wei Wu is PhD Coordinator of Mathematics and an Associate Professor of Mathematics at NYU Shanghai. Before joining NYU Shanghai, he held academic positions at the Courant Institute, New York University and at the University of Warwick. He works in probability, mathematical physics and partial differential equations, especially in Gibbs random fields, spin models, phase transitions and homogenization.\nSelect Publications\nTightness of the maximum of the Ginzburg-Landau fields, with Florian Schweiger and Ofer Zeitouni, arXiv preprint\nMassless Phases for the Villain model in d ≥ 3, with Paul Dario, Asterisque, volume 447, (2024), Journal, arXiv preprint (Long version)\nC2 regularity of the surface tension for the ∇ϕ interface model, with Scott Armstrong, Communications on Pure and Applied Math, Volume75, Issue2, (2022), Journal\nFour dimensional loop-erased random walk, with Gregory Lawler and Xin Sun, Annals of Probability 2019, Vol. 47, No. 6\nCritical Percolation and the Minimal Spanning Tree in Slabs, with Charles Newman and Vincent Tassion, Communications on Pure and Applied Math, Volume 70, Issue 11, (2017)\nEducation\nPhD, Applied Math Brown University\nBSc, Physics Fudan University\nProbability\nMathematical Physics",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Wei Wu"
+    },
+    {
+      "type": "p",
+      "text": "Dr. Wei Wu is PhD Coordinator of Mathematics and an Associate Professor of Mathematics at NYU Shanghai. Before joining NYU Shanghai, he held academic positions at the Courant Institute, New York University and at the University of Warwick. He works in probability, mathematical physics and partial differential equations, especially in Gibbs random fields, spin models, phase transitions and homogenization."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Tightness of the maximum of the Ginzburg-Landau fields, with Florian Schweiger and Ofer Zeitouni, arXiv preprint"
+    },
+    {
+      "type": "li",
+      "text": "Massless Phases for the Villain model in d ≥ 3, with Paul Dario, Asterisque, volume 447, (2024), Journal, arXiv preprint (Long version)"
+    },
+    {
+      "type": "li",
+      "text": "C2 regularity of the surface tension for the ∇ϕ interface model, with Scott Armstrong, Communications on Pure and Applied Math, Volume75, Issue2, (2022), Journal"
+    },
+    {
+      "type": "li",
+      "text": "Four dimensional loop-erased random walk, with Gregory Lawler and Xin Sun, Annals of Probability 2019, Vol. 47, No. 6"
+    },
+    {
+      "type": "li",
+      "text": "Critical Percolation and the Minimal Spanning Tree in Slabs, with Charles Newman and Vincent Tassion, Communications on Pure and Applied Math, Volume 70, Issue 11, (2017)"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Applied Math Brown University"
+    },
+    {
+      "type": "li",
+      "text": "BSc, Physics Fudan University"
+    },
+    {
+      "type": "li",
+      "text": "Probability"
+    },
+    {
+      "type": "li",
+      "text": "Mathematical Physics"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/a05b0fd4c1f0e205f41c387c22589fc4.jpeg",
+      "alt": "Wei Wu",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/a05b0fd4c1f0e205f41c387c22589fc4-1b1120f66bb0.jpeg",
+      "download_status": "downloaded",
+      "bytes": 21005,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://sites.google.com/view/weiwu-nyushanghai",
+      "text": "https://sites.google.com/view/weiwu-nyushanghai",
+      "internal": false
+    },
+    {
+      "url": "https://arxiv.org/abs/2403.11500",
+      "text": "arXiv preprint",
+      "internal": false
+    },
+    {
+      "url": "https://smf.emath.fr/publications/phases-sans-masse-du-modele-de-villain-pour-d-3?language=en",
+      "text": "Journal",
+      "internal": false
+    },
+    {
+      "url": "https://arxiv.org/abs/2002.02946",
+      "text": "arXiv preprint",
+      "internal": false
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/cpa.22031",
+      "text": "Journal",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 184,
+  "crawled_at": "2026-06-09T04:40:42+00:00",
+  "sequence": 1315
+}

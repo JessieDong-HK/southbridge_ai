@@ -1,0 +1,94 @@
+{
+  "id": "page__academic-skills-coaching-and-workshops-74e2c95296",
+  "url": "https://shanghai.nyu.edu/page/academic-skills-coaching-and-workshops",
+  "canonical_url": "https://shanghai.nyu.edu/page/academic-skills-coaching-and-workshops",
+  "page_type": "page",
+  "title": "Academic Skills Coaching and Workshops",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Academic Skills Coaching and Workshops\nThe Academic Resource Center (ARC), in collaboration with the Office of Academic Advising, offers a comprehensive Academic Skills Coaching program to support student success. The program includes one-on-one academic skills coaching sessions and a series of interactive workshops designed to help students strengthen essential academic and interpersonal skills such as time management, class participation, note-taking, effective communication, and group collaboration.\nAcademic Skills Coaching\nStudents can schedule one-on-one academic skills coaching appointments with their academic advisors through NYU Connect (see Instructions).\nAn academic skills coaching session is a personalized, one-on-one meeting designed to help you reflect on your academic habits and develop strategies to support your success. During the session, you’ll meet with your academic advisor to identify your strengths, challenges, and specific goals - whether it's managing your time more effectively, staying focused in class, communicating effectively with faculty and staff, or participating more confidently in group work. The conversation is supportive, practical, and tailored to your needs. To make the most of your session, you are strongly encouraged to come up with a few questions or concerns in mind and be ready to talk about your current routines and academic experiences. You’ll leave the session with concrete strategies and a plan you can put into action right away.\nAcademic Skills Workshops\nAcademic skills workshops are interactive sessions designed to help you build the core skills needed to succeed in university-level learning. Each workshop focuses on a specific topic, such as time management, effective note-taking, class participation, group collaboration, or communication strategies, and so on. It also offers practical tips and tools you can apply right away. Workshops are led by ARC professionals and Academic Advisors and often include opportunities for discussion, self-reflection, and hands-on practice. These sessions are open to all students and are a great way to gain new strategies, connect with peers, and stay on track throughout the semester. Please find the workshop topics and schedules for the semester below and RSVP on Engage!",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Academic Skills Coaching and Workshops"
+    },
+    {
+      "type": "p",
+      "text": "The Academic Resource Center (ARC), in collaboration with the Office of Academic Advising, offers a comprehensive Academic Skills Coaching program to support student success. The program includes one-on-one academic skills coaching sessions and a series of interactive workshops designed to help students strengthen essential academic and interpersonal skills such as time management, class participation, note-taking, effective communication, and group collaboration."
+    },
+    {
+      "type": "h3",
+      "text": "Academic Skills Coaching"
+    },
+    {
+      "type": "p",
+      "text": "Students can schedule one-on-one academic skills coaching appointments with their academic advisors through NYU Connect (see Instructions)."
+    },
+    {
+      "type": "p",
+      "text": "An academic skills coaching session is a personalized, one-on-one meeting designed to help you reflect on your academic habits and develop strategies to support your success. During the session, you’ll meet with your academic advisor to identify your strengths, challenges, and specific goals - whether it's managing your time more effectively, staying focused in class, communicating effectively with faculty and staff, or participating more confidently in group work. The conversation is supportive, practical, and tailored to your needs. To make the most of your session, you are strongly encouraged to come up with a few questions or concerns in mind and be ready to talk about your current routines and academic experiences. You’ll leave the session with concrete strategies and a plan you can put into action right away."
+    },
+    {
+      "type": "h3",
+      "text": "Academic Skills Workshops"
+    },
+    {
+      "type": "p",
+      "text": "Academic skills workshops are interactive sessions designed to help you build the core skills needed to succeed in university-level learning. Each workshop focuses on a specific topic, such as time management, effective note-taking, class participation, group collaboration, or communication strategies, and so on. It also offers practical tips and tools you can apply right away. Workshops are led by ARC professionals and Academic Advisors and often include opportunities for discussion, self-reflection, and hands-on practice. These sessions are open to all students and are a great way to gain new strategies, connect with peers, and stay on track throughout the semester. Please find the workshop topics and schedules for the semester below and RSVP on Engage!"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/NYU00160.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/NYU00160-31797202757e.jpg",
+      "download_status": "downloaded",
+      "bytes": 2057434,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Workshop%20photo.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/S26%20academic%20skills%20coaching%20workshops%20.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/S26-20academic-20skills-20coaching-20workshops-20-406440a3474e.png",
+      "download_status": "downloaded",
+      "bytes": 1427796,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.nyu.edu/students/student-success/nyu-connect/nyu-connect-for-students.html",
+      "text": "NYU Connect",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/1nn7ncx7U18jGl3As4-r8058yYJ_oRREt/view",
+      "text": "Instructions",
+      "internal": false
+    },
+    {
+      "url": "https://engage.shanghai.nyu.edu/organization/academic-resource-center",
+      "text": "Engage",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 345,
+  "crawled_at": "2026-06-09T04:30:39+00:00",
+  "sequence": 334
+}

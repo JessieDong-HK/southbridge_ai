@@ -1,0 +1,126 @@
+{
+  "id": "page__nyu-wireless-0a18c5a742",
+  "url": "https://shanghai.nyu.edu/page/nyu-wireless",
+  "canonical_url": "https://shanghai.nyu.edu/page/nyu-wireless",
+  "page_type": "page",
+  "title": "NYU Wireless",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "NYU Wireless\nNYU Shanghai provides access to multiple secure wireless networks (NYURoam, Guest wireless and eduroam) across most NYU global sites.NYURoam is integrated with NYU’s Virtual Private Network (VPN), which allows access to international websites, unrestricted by location.\nWho is this service available to?\nNYU Roam: NYU communityGuest wireless: NYU Shanghai guestseduroam: NYU community, visitors from partner universities\nWhere can you use this service?\nPudong Academic Building, Jinqiao residence halls, ECNU campus (geography building, science building)\nHow can users access this service?\nFollow the configuration instructions below for each wireless network:‘nyu’ (NYU Community only): Windows, Mac OS X, Linux OS (Ubuntu), iOS device (iPhone, iPad), Android, Google Chromebook\nNeed help?\nSubmit a request on support.nyu.edu\nSend a request through WeChat\nEmail to shanghai.it.help@nyu.edu\nVisit the IT Service Center: Room N525 @ New Bund Campus\nTroubleshooting\nTroubleshooting connection or reception problems",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "NYU Wireless"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai provides access to multiple secure wireless networks (NYURoam, Guest wireless and eduroam) across most NYU global sites.NYURoam is integrated with NYU’s Virtual Private Network (VPN), which allows access to international websites, unrestricted by location."
+    },
+    {
+      "type": "h2",
+      "text": "Who is this service available to?"
+    },
+    {
+      "type": "p",
+      "text": "NYU Roam: NYU communityGuest wireless: NYU Shanghai guestseduroam: NYU community, visitors from partner universities"
+    },
+    {
+      "type": "h2",
+      "text": "Where can you use this service?"
+    },
+    {
+      "type": "p",
+      "text": "Pudong Academic Building, Jinqiao residence halls, ECNU campus (geography building, science building)"
+    },
+    {
+      "type": "h2",
+      "text": "How can users access this service?"
+    },
+    {
+      "type": "p",
+      "text": "Follow the configuration instructions below for each wireless network:‘nyu’ (NYU Community only): Windows, Mac OS X, Linux OS (Ubuntu), iOS device (iPhone, iPad), Android, Google Chromebook"
+    },
+    {
+      "type": "h2",
+      "text": "Need help?"
+    },
+    {
+      "type": "li",
+      "text": "Submit a request on support.nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Send a request through WeChat"
+    },
+    {
+      "type": "li",
+      "text": "Email to shanghai.it.help@nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Visit the IT Service Center: Room N525 @ New Bund Campus"
+    },
+    {
+      "type": "h2",
+      "text": "Troubleshooting"
+    },
+    {
+      "type": "li",
+      "text": "Troubleshooting connection or reception problems"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011700",
+      "text": "Windows",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011697",
+      "text": "Mac OS X",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011701",
+      "text": "Linux OS (Ubuntu)",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011662",
+      "text": "iOS device (iPhone, iPad)",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011692",
+      "text": "Android",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011725",
+      "text": "Google Chromebook",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=sc_cat_item&sys_id=5110048e1bd85a103f31a9b6624bcb5d",
+      "text": "Submit a request on support.nyu.edu",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011955",
+      "text": "Send a request through WeChat",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011652",
+      "text": "Troubleshooting connection or reception problems",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 148,
+  "crawled_at": "2026-06-09T04:31:44+00:00",
+  "sequence": 481
+}

@@ -1,0 +1,83 @@
+{
+  "id": "cn__academics__faculty__directory__vahagn-nersesyan-264157e384",
+  "url": "https://shanghai.nyu.edu/cn/academics/faculty/directory/vahagn-nersesyan",
+  "canonical_url": "https://shanghai.nyu.edu/cn/academics/faculty/directory/vahagn-nersesyan",
+  "page_type": "cn",
+  "title": "Vahagn",
+  "description": "Vahagn Nersesyan现任上海纽约大学数学副教授。Nersesyan教授在巴黎第十一大学获得博士学位，在凡尔赛大学获得特许任教资格。他的研究兴趣为概率论和偏微分方程的交叉领域。代表性论著",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Vahagn Nersesyan\nVahagn Nersesyan现任上海纽约大学数学副教授。Nersesyan教授在巴黎第十一大学获得博士学位，在凡尔赛大学获得特许任教资格。他的研究兴趣为概率论和偏微分方程的交叉领域。\n代表性论著\nV. Jaksic, V. Nersesyan, C.-A. Pillet, A. Shirikyan, Large deviations and entropy production in viscous fluid flows, Arch. Ration. Mech. Anal, 240: 1675-1725, 2021\nV. Nersesyan, Approximate controllability of nonlinear parabolic PDEs in arbitrary space dimension, Math. Control Relat. Fields, 11(2): 1–15, 2021\nV. Nersesyan, A proof of approximate controllability of the 3D Navier-Stokes system via a linear test, SIAM J. Control Optim., 59(4), 2411-2427, 2021\nS. Kuksin, V. Nersesyan, A. Shirikyan, Exponential mixing for a class of dissipative PDEs with bounded degenerate noise, Geom. Funct. Anal., 30(1): 126–187, 2020\nV. Jaksic, V. Nersesyan, C.-A. Pillet, A. Shirikyan, Large deviations from a stationary measure for a class of dissipative PDE’s with random kicks, Comm. Pure Appl. Math., 68(12): 2108–2143, 2015\n教育背景\n巴黎第十一大学 博士\n随机偏微分方程\n随机动力系统\n控制理论",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Vahagn Nersesyan"
+    },
+    {
+      "type": "p",
+      "text": "Vahagn Nersesyan现任上海纽约大学数学副教授。Nersesyan教授在巴黎第十一大学获得博士学位，在凡尔赛大学获得特许任教资格。他的研究兴趣为概率论和偏微分方程的交叉领域。"
+    },
+    {
+      "type": "p",
+      "text": "代表性论著"
+    },
+    {
+      "type": "li",
+      "text": "V. Jaksic, V. Nersesyan, C.-A. Pillet, A. Shirikyan, Large deviations and entropy production in viscous fluid flows, Arch. Ration. Mech. Anal, 240: 1675-1725, 2021"
+    },
+    {
+      "type": "li",
+      "text": "V. Nersesyan, Approximate controllability of nonlinear parabolic PDEs in arbitrary space dimension, Math. Control Relat. Fields, 11(2): 1–15, 2021"
+    },
+    {
+      "type": "li",
+      "text": "V. Nersesyan, A proof of approximate controllability of the 3D Navier-Stokes system via a linear test, SIAM J. Control Optim., 59(4), 2411-2427, 2021"
+    },
+    {
+      "type": "li",
+      "text": "S. Kuksin, V. Nersesyan, A. Shirikyan, Exponential mixing for a class of dissipative PDEs with bounded degenerate noise, Geom. Funct. Anal., 30(1): 126–187, 2020"
+    },
+    {
+      "type": "li",
+      "text": "V. Jaksic, V. Nersesyan, C.-A. Pillet, A. Shirikyan, Large deviations from a stationary measure for a class of dissipative PDE’s with random kicks, Comm. Pure Appl. Math., 68(12): 2108–2143, 2015"
+    },
+    {
+      "type": "p",
+      "text": "教育背景"
+    },
+    {
+      "type": "li",
+      "text": "巴黎第十一大学 博士"
+    },
+    {
+      "type": "li",
+      "text": "随机偏微分方程"
+    },
+    {
+      "type": "li",
+      "text": "随机动力系统"
+    },
+    {
+      "type": "li",
+      "text": "控制理论"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/vahagn_nersesyan-01.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/vahagn_nersesyan-01-d30572cd3ef6.jpg",
+      "download_status": "downloaded",
+      "bytes": 1816752,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 147,
+  "crawled_at": "2026-06-09T04:37:48+00:00",
+  "sequence": 1076
+}

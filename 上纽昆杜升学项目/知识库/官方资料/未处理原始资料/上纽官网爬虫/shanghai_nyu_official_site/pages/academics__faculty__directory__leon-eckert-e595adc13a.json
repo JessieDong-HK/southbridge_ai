@@ -1,0 +1,86 @@
+{
+  "id": "academics__faculty__directory__leon-eckert-e595adc13a",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/leon-eckert",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/leon-eckert",
+  "page_type": "academics",
+  "title": "Leon",
+  "description": "Leon Eckert is Associate Area Head of Interactive Media Arts (IMA) and an Assistant Arts Professor of IMA at NYU Shanghai. He is an artist and educator, interested in the social and cultural changes produced by digital media technologies and the political and economic forces that drive their",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Leon Eckert\nLeon Eckert is Associate Area Head of Interactive Media Arts (IMA) and an Assistant Arts Professor of IMA at NYU Shanghai. He is an artist and educator, interested in the social and cultural changes produced by digital media technologies and the political and economic forces that drive their development. His work uses network and web technologies as well as photo and video.\nEducation\nMPS, Interactive Telecommunications ProgramNew York University\nBA, Design Goldsmiths, University of London\nVisual Ethnography\nThe Internet, Data and Society\nDocumentary\nExperimental Video\nCommunications Lab\nCreative Coding Lab\nCritical Data & Visualization\nStorytelling with Data Visualization\nABC Browser Circus",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Leon Eckert"
+    },
+    {
+      "type": "p",
+      "text": "Leon Eckert is Associate Area Head of Interactive Media Arts (IMA) and an Assistant Arts Professor of IMA at NYU Shanghai. He is an artist and educator, interested in the social and cultural changes produced by digital media technologies and the political and economic forces that drive their development. His work uses network and web technologies as well as photo and video."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MPS, Interactive Telecommunications ProgramNew York University"
+    },
+    {
+      "type": "li",
+      "text": "BA, Design Goldsmiths, University of London"
+    },
+    {
+      "type": "li",
+      "text": "Visual Ethnography"
+    },
+    {
+      "type": "li",
+      "text": "The Internet, Data and Society"
+    },
+    {
+      "type": "li",
+      "text": "Documentary"
+    },
+    {
+      "type": "li",
+      "text": "Experimental Video"
+    },
+    {
+      "type": "li",
+      "text": "Communications Lab"
+    },
+    {
+      "type": "li",
+      "text": "Creative Coding Lab"
+    },
+    {
+      "type": "li",
+      "text": "Critical Data & Visualization"
+    },
+    {
+      "type": "li",
+      "text": "Storytelling with Data Visualization"
+    },
+    {
+      "type": "li",
+      "text": "ABC Browser Circus"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/leon-eckert.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 102,
+  "crawled_at": "2026-06-09T04:53:03+00:00",
+  "sequence": 2338
+}

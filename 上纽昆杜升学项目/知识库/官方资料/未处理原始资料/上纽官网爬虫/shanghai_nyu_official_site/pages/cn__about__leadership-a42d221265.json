@@ -1,0 +1,341 @@
+{
+  "id": "cn__about__leadership-a42d221265",
+  "url": "https://shanghai.nyu.edu/cn/about/leadership",
+  "canonical_url": "https://shanghai.nyu.edu/about/leadership",
+  "page_type": "cn",
+  "title": "学校领导 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "学校领导",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "学校领导"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/tong_shijun_1_0.jpg?itok=zqcEiMIb",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/people_picture_mini/public/field/profile/tong_shijun_1_0.jpg?itok=zqcEiMIb (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of proto"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/jeffrey_s_lehman_1_1.jpg?itok=DlM8pL7D",
+      "alt": "Jeffrey S Lehman",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/people_picture_mini/public/field/profile/jeffrey_s_lehman_1_1.jpg?itok=DlM8pL7D (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of "
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/final-Bei%20Wu-2025%20fall_0.jpg?itok=_7-6s_6U",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/people_picture_mini/public/field/profile/final-Bei%20Wu-2025%20fall_0.jpg?itok=_7-6s_6U (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in viola"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/eitan-zemel_0.jpg?itok=HX1run9u",
+      "alt": "Eitan Zemel",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/people_picture_mini/public/field/profile/eitan-zemel_0.jpg?itok=HX1run9u (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protoco"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/shuzhe-ding_0.jpg?itok=sAMlEvRg",
+      "alt": "Ding shuzhe",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/shuzhe-ding_0-aee4b196991d.jpg",
+      "download_status": "downloaded",
+      "bytes": 9923,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/davidpe_0.jpg?itok=bFHzBf6y",
+      "alt": "David Pe",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/people_picture_mini/public/field/profile/davidpe_0.jpg?itok=bFHzBf6y (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/pierre-tarres-edited_0.jpg?itok=6mimScGo",
+      "alt": "Pierre Tarrès",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/people_picture_mini/public/field/profile/pierre-tarres-edited_0.jpg?itok=6mimScGo (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation o"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/David-Atwill_0.jpg?itok=ypKC4OZi",
+      "alt": "David Atwill",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/David-Atwill_0-6b5c7a75ed1b.jpg",
+      "download_status": "downloaded",
+      "bytes": 10324,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/nasir-memon-edited_0.jpg?itok=W2_s42pp",
+      "alt": "Nasir Memon",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/people_picture_mini/public/field/profile/nasir-memon-edited_0.jpg?itok=W2_s42pp (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of "
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/yuxin_chen_4.jpg?itok=PX-iFIkT",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/people_picture_mini/public/field/profile/yuxin_chen_4.jpg?itok=PX-iFIkT (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/Helen-HU-1.jpg?itok=CNh8AgX8",
+      "alt": "胡昊旸",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/jiang-hua-nyu.jpg?itok=G-fOekTU",
+      "alt": "姜华",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/people_picture_mini/public/field/profile/jiang-hua-nyu.jpg?itok=G-fOekTU (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protoco"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/people_picture_mini/public/field/profile/Rime-SUN-1.jpg?itok=Dali7XEu",
+      "alt": "孙霜韵",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Rime-SUN-1-e707e09fe67e.jpg",
+      "download_status": "downloaded",
+      "bytes": 10660,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership/tong-shi-jun",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership-render/nojs/25719",
+      "text": "童世骏",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/25719",
+      "text": "校长",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership/jeff",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership-render/nojs/348",
+      "text": "雷蒙（Jeffrey S. Lehman)",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/348",
+      "text": "常务副校长暨美方校长",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership/wu-bei",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership-render/nojs/351",
+      "text": "吴蓓",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/351",
+      "text": "教务长",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership/eitan",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership-render/nojs/352",
+      "text": "郑恩坦 (Eitan Zemel)",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/352",
+      "text": "发展战略副校长",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership/ding-shu-zhe",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership-render/nojs/9764",
+      "text": "丁树哲",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/9764",
+      "text": "副校长",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership/david-pe",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership-render/nojs/354",
+      "text": "彭汉智 (David Pe)",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/354",
+      "text": "学生事务部助理副校长",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership/pierre-tarr-es",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership-render/nojs/14099",
+      "text": "Pierre Tarrès",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/14099",
+      "text": "学术战略发展副教务长",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership/david-g-atwill",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership-render/nojs/2421",
+      "text": "David G. Atwill",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/2421",
+      "text": "文理学部主任",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership/nasir-memon",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership-render/nojs/353",
+      "text": "Nasir Memon",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/353",
+      "text": "计算机科学、数据科学与工程学部代理主任",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership/yuxin",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership-render/nojs/1482",
+      "text": "陈宇新",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/1482",
+      "text": "商学部主任、全球杰出商学讲席教授",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership/hu-hao-yang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership-render/nojs/42964",
+      "text": "胡昊旸",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/42964",
+      "text": "首席财务官",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership/jiang-hua-hua-jiang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership-render/nojs/10291",
+      "text": "姜华 (Hua Jiang)",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/10291",
+      "text": "首席传播官",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership/sun-shuang-yun",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/leadership-render/nojs/42965",
+      "text": "孙霜韵",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership-render/nojs/42965",
+      "text": "首席基金发展官",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:29:01+00:00",
+  "sequence": 155
+}

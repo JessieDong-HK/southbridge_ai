@@ -1,0 +1,208 @@
+{
+  "id": "news__nyu-shanghai-awards-first-ever-phd-a7900d61ed",
+  "url": "https://shanghai.nyu.edu/news/nyu-shanghai-awards-first-ever-phd",
+  "canonical_url": "https://shanghai.nyu.edu/news/nyu-shanghai-awards-first-ever-phd",
+  "page_type": "news",
+  "title": "NYU Shanghai Awards First-ever PhD",
+  "description": "Sean Welleck graduates with nine publications and will begin post-doctoral studies at the University of Washington.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "NYU Shanghai Awards First-ever PhD\nTwitter\nFacebook\nWeibo\nComputer scientist Sean Welleck has become NYU Shanghai’s first-ever PhD graduate after successfully submitting and defending his dissertation several months ahead of schedule in December.\nAdmitted in 2016 as part of the first group of candidates for NYU Shanghai’s PhD program in Computer Science, Welleck, a native of Austin, Texas, spent four and a half years in Shanghai and New York pursuing research in machine learning. Welleck graduates with nine publications at top conferences and will begin post-doctoral studies at the University of Washington.\n“Congratulations to Sean! NYU Shanghai is very proud of him and proud to celebrate this important milestone for our university,” said Chancellor Tong Shijun. “This is only the beginning for us as a comprehensive global research university - and I’m looking forward to celebrating the achievements of many more doctoral students in the years to come.”\nAnother four students are expected to defend their dissertations later this year. NYU Shanghai, founded in 2012, currently supports 35 students pursuing doctoral studies in ten disciplines from data science to neural science to sociology. The university expects to offer even more advanced degree programs in the future.\nA High-Profile Researcher\nBefore joining NYU Shanghai’s PhD program, which is offered in collaboration with the NYU Courant Institute of Mathematical Sciences and the NYU Graduate School of Arts and Science, Welleck had worked for two years as a software engineer for IBM after graduating from the University of Pennsylvania with bachelor’s and master’s degrees in computer science. “The industry experience actually made me realize my dream was in research rather than in engineering, so I decided to do a PhD and encountered NYU’s Shanghai PhD program since I was interested in Professor Zhang Zheng’s research in deep learning,” Welleck said.\nNYU Shanghai Professor of Computer Science Zhang Zheng, who is also director of Amazon Web Services Shanghai AI Lab, said Welleck was a well-rounded student. “In our first video call, he didn’t talk much but what he said was all on target,” Zhang recalled. “He has a good background in coding and we really liked the fact that he’s a marathoner, which showed he had the perseverance that a good researcher should have. We saw potential in him.”\nSince the NYU Shanghai program enables students to build partnerships across the NYU Global Network, Welleck also worked closely with Kyunghyun Cho, Associate Professor of Computer Science and Data Science at NYU Courant. In 2017 and 2018, they published their findings on multiset prediction at the Conference on Neural Information Processing Systems (NeurIPS), one of the top international conferences in the field of machine learning and computational neuroscience. With both papers, Welleck, the first author, won the NVIDIA AI Labs Pioneering Research Award.\n“Zhang has such wide experience in computer systems and machine learning, so he always provided me with creative perspectives that others who work in a single area their entire career might not have,” said Welleck. “During NeurIPS, he introduced me to many people he knew in the field to help me build my network in the machine learning community. For instance, Professor Marisa Carrasco, who I met at the conference, gave me very useful feedback from the perspective of neural science, which was eye-opening.”\nAfter Zhang took on duties at Amazon in 2018, Welleck started to work more closely with Cho and researchers from Facebook’s AI Research Team (FAIR) where he was interning.\n“Sean has published nine papers at top conferences in machine learning and natural language processing, accumulating more than 200 citations,” Cho said. “Whenever I think of Sean's successful PhD years, I recall early 2016 when I was asked by the admissions committee to interview Sean and feel how lucky we were to have admitted him and that he joined our inaugural PhD program at NYU Shanghai.” Zhang also said that Welleck’s achievements were beyond his expectations.\nTeaching Machines to Write Sentences\nAfter his summer internship was cancelled due to the pandemic, Welleck used his extra time to finish his dissertation and graduate a semester early.\nIn his dissertation, Welleck focused on how machines generate text. He studied situations where machines failed or had odd behaviors when writing sentences. “For instance, in certain cases, the machines start repeating themselves. Or their language could be plain and lack fun,” Sean explained. “They may also logically contradict themselves. Imagine talking with a chatbot and it says ‘Hi, I’m a lawyer.’ Then when you ask about its job again, it says ‘I’m a doctor.’” While most training methods from the past told the machine learning model what it should do, Welleck adopted a new training method called Unlikelihood Training in which he also told the model what it shouldn’t do, which can increase the efficiency of training.\nHe also explored how to create natural language processing models to learn different orders in which to generate sentences, which is a new idea for the field called “non-monotonic generation.” “People write texts in certain orders. English and Chinese speakers write from left to right, but this order may not be ideal for machines. What if they write better from the middle or in some arbitrary order? We should explore these possibilities to keep improving text generation,” he said.\nA Marathoner and a Podcaster\nBeyond his research, Welleck found time to pursue hobbies as a marathon runner and podcaster. “I went running every morning. That was one thing that kept me grounded whether I was in Shanghai or New York. I really miss the time I ran along the Huangpu River and enjoyed the beautiful city view,” said Welleck, who also participated in several marathons in Japan during his years living in Shanghai.\nWelleck also launched a podcast last June called The Thesis Review, conversations with machine learning researchers about their PhD theses, and how their research has evolved since.\nSome of the machine learning researchers Sean interviewed for his podcast.\nNext month, Welleck will begin a postdoc at the University of Washington, where he will continue his research in machine learning.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "NYU Shanghai Awards First-ever PhD"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Computer scientist Sean Welleck has become NYU Shanghai’s first-ever PhD graduate after successfully submitting and defending his dissertation several months ahead of schedule in December."
+    },
+    {
+      "type": "p",
+      "text": "Admitted in 2016 as part of the first group of candidates for NYU Shanghai’s PhD program in Computer Science, Welleck, a native of Austin, Texas, spent four and a half years in Shanghai and New York pursuing research in machine learning. Welleck graduates with nine publications at top conferences and will begin post-doctoral studies at the University of Washington."
+    },
+    {
+      "type": "p",
+      "text": "“Congratulations to Sean! NYU Shanghai is very proud of him and proud to celebrate this important milestone for our university,” said Chancellor Tong Shijun. “This is only the beginning for us as a comprehensive global research university - and I’m looking forward to celebrating the achievements of many more doctoral students in the years to come.”"
+    },
+    {
+      "type": "p",
+      "text": "Another four students are expected to defend their dissertations later this year. NYU Shanghai, founded in 2012, currently supports 35 students pursuing doctoral studies in ten disciplines from data science to neural science to sociology. The university expects to offer even more advanced degree programs in the future."
+    },
+    {
+      "type": "p",
+      "text": "A High-Profile Researcher"
+    },
+    {
+      "type": "p",
+      "text": "Before joining NYU Shanghai’s PhD program, which is offered in collaboration with the NYU Courant Institute of Mathematical Sciences and the NYU Graduate School of Arts and Science, Welleck had worked for two years as a software engineer for IBM after graduating from the University of Pennsylvania with bachelor’s and master’s degrees in computer science. “The industry experience actually made me realize my dream was in research rather than in engineering, so I decided to do a PhD and encountered NYU’s Shanghai PhD program since I was interested in Professor Zhang Zheng’s research in deep learning,” Welleck said."
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai Professor of Computer Science Zhang Zheng, who is also director of Amazon Web Services Shanghai AI Lab, said Welleck was a well-rounded student. “In our first video call, he didn’t talk much but what he said was all on target,” Zhang recalled. “He has a good background in coding and we really liked the fact that he’s a marathoner, which showed he had the perseverance that a good researcher should have. We saw potential in him.”"
+    },
+    {
+      "type": "p",
+      "text": "Since the NYU Shanghai program enables students to build partnerships across the NYU Global Network, Welleck also worked closely with Kyunghyun Cho, Associate Professor of Computer Science and Data Science at NYU Courant. In 2017 and 2018, they published their findings on multiset prediction at the Conference on Neural Information Processing Systems (NeurIPS), one of the top international conferences in the field of machine learning and computational neuroscience. With both papers, Welleck, the first author, won the NVIDIA AI Labs Pioneering Research Award."
+    },
+    {
+      "type": "p",
+      "text": "“Zhang has such wide experience in computer systems and machine learning, so he always provided me with creative perspectives that others who work in a single area their entire career might not have,” said Welleck. “During NeurIPS, he introduced me to many people he knew in the field to help me build my network in the machine learning community. For instance, Professor Marisa Carrasco, who I met at the conference, gave me very useful feedback from the perspective of neural science, which was eye-opening.”"
+    },
+    {
+      "type": "p",
+      "text": "After Zhang took on duties at Amazon in 2018, Welleck started to work more closely with Cho and researchers from Facebook’s AI Research Team (FAIR) where he was interning."
+    },
+    {
+      "type": "p",
+      "text": "“Sean has published nine papers at top conferences in machine learning and natural language processing, accumulating more than 200 citations,” Cho said. “Whenever I think of Sean's successful PhD years, I recall early 2016 when I was asked by the admissions committee to interview Sean and feel how lucky we were to have admitted him and that he joined our inaugural PhD program at NYU Shanghai.” Zhang also said that Welleck’s achievements were beyond his expectations."
+    },
+    {
+      "type": "p",
+      "text": "Teaching Machines to Write Sentences"
+    },
+    {
+      "type": "p",
+      "text": "After his summer internship was cancelled due to the pandemic, Welleck used his extra time to finish his dissertation and graduate a semester early."
+    },
+    {
+      "type": "p",
+      "text": "In his dissertation, Welleck focused on how machines generate text. He studied situations where machines failed or had odd behaviors when writing sentences. “For instance, in certain cases, the machines start repeating themselves. Or their language could be plain and lack fun,” Sean explained. “They may also logically contradict themselves. Imagine talking with a chatbot and it says ‘Hi, I’m a lawyer.’ Then when you ask about its job again, it says ‘I’m a doctor.’” While most training methods from the past told the machine learning model what it should do, Welleck adopted a new training method called Unlikelihood Training in which he also told the model what it shouldn’t do, which can increase the efficiency of training."
+    },
+    {
+      "type": "p",
+      "text": "He also explored how to create natural language processing models to learn different orders in which to generate sentences, which is a new idea for the field called “non-monotonic generation.” “People write texts in certain orders. English and Chinese speakers write from left to right, but this order may not be ideal for machines. What if they write better from the middle or in some arbitrary order? We should explore these possibilities to keep improving text generation,” he said."
+    },
+    {
+      "type": "p",
+      "text": "A Marathoner and a Podcaster"
+    },
+    {
+      "type": "p",
+      "text": "Beyond his research, Welleck found time to pursue hobbies as a marathon runner and podcaster. “I went running every morning. That was one thing that kept me grounded whether I was in Shanghai or New York. I really miss the time I ran along the Huangpu River and enjoyed the beautiful city view,” said Welleck, who also participated in several marathons in Japan during his years living in Shanghai."
+    },
+    {
+      "type": "p",
+      "text": "Welleck also launched a podcast last June called The Thesis Review, conversations with machine learning researchers about their PhD theses, and how their research has evolved since."
+    },
+    {
+      "type": "p",
+      "text": "Some of the machine learning researchers Sean interviewed for his podcast."
+    },
+    {
+      "type": "p",
+      "text": "Next month, Welleck will begin a postdoc at the University of Washington, where he will continue his research in machine learning."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/web_bannerholly-01.jpg?itok=RrrNV0r1",
+      "alt": "Sean Welleck banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/web_bannerholly-01-b6f388e3099f.jpg",
+      "download_status": "downloaded",
+      "bytes": 46457,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/5puagj9wwgt0iemiatzlaixj5vv402epwqkqjksao8ty2jen7hgd-y9cpjbunrrdjjf-idhm30fvz5vf0_kaucpvhvmlmjo9lh92xszrdv8pqbtfq_5zae9-5lyulsrrnyvmngdt.jpg",
+      "alt": "Sean Welleck podcast",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/5puagj9wwgt0iemiatzlaixj5vv402epwqkqjksao8ty2jen7hgd-7b28146bac00.jpg",
+      "download_status": "downloaded",
+      "bytes": 238894,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=NYU%20Shanghai%20Awards%20First-ever%20PhD&url=https%3A//shanghai.nyu.edu/news/nyu-shanghai-awards-first-ever-phd&status=NYU%20Shanghai%20Awards%20First-ever%20PhD%20https%3A//shanghai.nyu.edu/news/nyu-shanghai-awards-first-ever-phd",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/nyu-shanghai-awards-first-ever-phd&title=NYU%20Shanghai%20Awards%20First-ever%20PhD",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/nyu-shanghai-awards-first-ever-phd&title=NYU%20Shanghai%20Awards%20First-ever%20PhD",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/graduate/computer-science-phd-program",
+      "text": "NYU Shanghai’s PhD program in Computer Science",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/leadership/tong-shijun",
+      "text": "Chancellor Tong Shijun",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/graduate/phd-programs",
+      "text": "doctoral studies in ten disciplines",
+      "internal": true
+    },
+    {
+      "url": "https://cs.nyu.edu/home/index.html",
+      "text": "NYU Courant Institute of Mathematical Sciences",
+      "internal": false
+    },
+    {
+      "url": "https://gsas.nyu.edu/",
+      "text": "NYU Graduate School of Arts and Science",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/zheng-zhang",
+      "text": "Zhang Zheng",
+      "internal": true
+    },
+    {
+      "url": "https://cims.nyu.edu/people/profiles/CHO_Kyunghyun.html",
+      "text": "Kyunghyun Cho",
+      "internal": false
+    },
+    {
+      "url": "https://cs.nyu.edu/~welleck",
+      "text": "their findings",
+      "internal": false
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/2017/12/15/nvail-partner-research-nips",
+      "text": "NVIDIA AI Labs Pioneering Research Award",
+      "internal": false
+    },
+    {
+      "url": "https://as.nyu.edu/faculty/marisa-carrascoqueijeiro.html",
+      "text": "Marisa Carrasco",
+      "internal": false
+    },
+    {
+      "url": "https://twitter.com/thesisreview",
+      "text": "The Thesis Review",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 1028,
+  "crawled_at": "2026-06-09T04:40:38+00:00",
+  "sequence": 1304
+}

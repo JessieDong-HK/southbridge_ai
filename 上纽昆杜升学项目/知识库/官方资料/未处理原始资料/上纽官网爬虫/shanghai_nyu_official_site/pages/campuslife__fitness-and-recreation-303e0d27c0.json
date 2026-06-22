@@ -1,0 +1,96 @@
+{
+  "id": "campuslife__fitness-and-recreation-303e0d27c0",
+  "url": "https://shanghai.nyu.edu/campuslife/fitness-and-recreation",
+  "canonical_url": "https://shanghai.nyu.edu/campuslife/fitness-and-recreation",
+  "page_type": "campuslife",
+  "title": "Fitness and Recreation",
+  "description": "NYU Shanghai offers a range of opportunities for exercise and fitness education. From yoga to dance to fitness workshops, the university has something for everyone. Personal training is also available to student athletes who have specific needs related to sports injuries prevention and care.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Fitness and Recreation\nNYU Shanghai offers a range of opportunities for exercise and fitness education. From yoga to dance to fitness workshops, the university has something for everyone. Personal training is also available to student athletes who have specific needs related to sports injuries prevention and care.\nGroup Fitness\nThe Athletics & Fitness office offers various free group fitness classes throughout the year.\nFitness Center\nThe Fitness Center is one of the most popular places at NYU Shanghai. Students work out with state of the art fitness equipment and upbeat pop music. Locker rooms are available. Swipe in with your NYU ID Card.\nHours of operation are listed below.\nMonday - Friday 10:00-20:00\nSunday 13:00-17:00\nRecreational Activities\nRecreational Activities are informal competitive and non-competitive activities for NYU Shanghai students. The Athletics and Fitness office arranges friendly games and matches that any student may join.\nStudents who would like to suggest new recreational activities can email shanghai.athletics@nyu.edu for more information.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Fitness and Recreation"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai offers a range of opportunities for exercise and fitness education. From yoga to dance to fitness workshops, the university has something for everyone. Personal training is also available to student athletes who have specific needs related to sports injuries prevention and care."
+    },
+    {
+      "type": "h4",
+      "text": "Group Fitness"
+    },
+    {
+      "type": "p",
+      "text": "The Athletics & Fitness office offers various free group fitness classes throughout the year."
+    },
+    {
+      "type": "h4",
+      "text": "Fitness Center"
+    },
+    {
+      "type": "p",
+      "text": "The Fitness Center is one of the most popular places at NYU Shanghai. Students work out with state of the art fitness equipment and upbeat pop music. Locker rooms are available. Swipe in with your NYU ID Card."
+    },
+    {
+      "type": "p",
+      "text": "Hours of operation are listed below."
+    },
+    {
+      "type": "li",
+      "text": "Monday - Friday 10:00-20:00"
+    },
+    {
+      "type": "li",
+      "text": "Sunday 13:00-17:00"
+    },
+    {
+      "type": "h4",
+      "text": "Recreational Activities"
+    },
+    {
+      "type": "p",
+      "text": "Recreational Activities are informal competitive and non-competitive activities for NYU Shanghai students. The Athletics and Fitness office arranges friendly games and matches that any student may join."
+    },
+    {
+      "type": "p",
+      "text": "Students who would like to suggest new recreational activities can email shanghai.athletics@nyu.edu for more information."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/banner_athletics3.jpg",
+      "alt": "Group Fitness",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/banner_athletics3.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-athletics-3-3.jpg",
+      "alt": "Fitness Center",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-athletics-3-3.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-athletics-3-4.jpg",
+      "alt": "Recreational Activities",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-athletics-3-4.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 167,
+  "crawled_at": "2026-06-09T04:32:28+00:00",
+  "sequence": 578
+}

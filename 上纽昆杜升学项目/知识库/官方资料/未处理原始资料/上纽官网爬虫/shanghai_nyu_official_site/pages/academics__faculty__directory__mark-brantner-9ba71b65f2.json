@@ -1,0 +1,66 @@
+{
+  "id": "academics__faculty__directory__mark-brantner-9ba71b65f2",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/mark-brantner",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/mark-brantner",
+  "page_type": "academics",
+  "title": "Mark",
+  "description": "Mark Brantner is a Clinical Associate Professor of the Writing Program at NYU Shanghai. Prior to joining the University, Brantner served as the Director of the Writing Center, and as a senior lecturer, at the National University of Singapore.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Mark Brantner\nMark Brantner is a Clinical Associate Professor of the Writing Program at NYU Shanghai. Prior to joining the University, Brantner served as the Director of the Writing Center, and as a senior lecturer, at the National University of Singapore. He has presented at a number of international and national conferences at various university and events including: Sciences Po International Teaching and Learning Workshop, Council of Writing Program Administrators Conference, and the Conference on College Composition and Communication. ​Brantner’s teaching experience includes instruction at various levels of university teaching--including graduate and undergraduate seminars, writing workshops, writing intensive courses, and undergraduate courses in writing and literature.\nSelect Publications\n\"Writing on the Wall: Teaching Translingualism through Linguistic Landscapes.\" Practical Pegagogies: Engaging Domestic and International Students in Translingual & Translocal Writing. Ed. Suzanne Blum Malley, Alanna Frost, and Julia Kiernan. Columbus, OH: Computers and Composition Digital Press (forthcoming)\nBrantner, Mark, Alanna Frost, and Suzanne Blum Malley. \"The Translanguaging Conversation: A Dialogic Review.\" Composition Studies 44.1 (2016): 151-159\n\"I Hear Dead People: Voices and Reading.\" Ed. Jeremy Fernando. On Reading; form, fictionality, friendship. New York: Atropos Press, 2012.\nEducation\nPhDUniversity of South Carolina\nMAWest Virginia University",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Mark Brantner"
+    },
+    {
+      "type": "p",
+      "text": "Mark Brantner is a Clinical Associate Professor of the Writing Program at NYU Shanghai. Prior to joining the University, Brantner served as the Director of the Writing Center, and as a senior lecturer, at the National University of Singapore. He has presented at a number of international and national conferences at various university and events including: Sciences Po International Teaching and Learning Workshop, Council of Writing Program Administrators Conference, and the Conference on College Composition and Communication. ​Brantner’s teaching experience includes instruction at various levels of university teaching--including graduate and undergraduate seminars, writing workshops, writing intensive courses, and undergraduate courses in writing and literature."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "\"Writing on the Wall: Teaching Translingualism through Linguistic Landscapes.\" Practical Pegagogies: Engaging Domestic and International Students in Translingual & Translocal Writing. Ed. Suzanne Blum Malley, Alanna Frost, and Julia Kiernan. Columbus, OH: Computers and Composition Digital Press (forthcoming)"
+    },
+    {
+      "type": "li",
+      "text": "Brantner, Mark, Alanna Frost, and Suzanne Blum Malley. \"The Translanguaging Conversation: A Dialogic Review.\" Composition Studies 44.1 (2016): 151-159"
+    },
+    {
+      "type": "li",
+      "text": "\"I Hear Dead People: Voices and Reading.\" Ed. Jeremy Fernando. On Reading; form, fictionality, friendship. New York: Atropos Press, 2012."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhDUniversity of South Carolina"
+    },
+    {
+      "type": "li",
+      "text": "MAWest Virginia University"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/screen_shot_2024-06-24_at_10.24.39_am_0.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 196,
+  "crawled_at": "2026-06-09T04:54:14+00:00",
+  "sequence": 2422
+}

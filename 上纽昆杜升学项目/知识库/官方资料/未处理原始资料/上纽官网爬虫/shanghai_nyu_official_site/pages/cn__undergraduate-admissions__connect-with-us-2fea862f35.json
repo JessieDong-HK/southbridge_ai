@@ -1,0 +1,99 @@
+{
+  "id": "cn__undergraduate-admissions__connect-with-us-2fea862f35",
+  "url": "https://shanghai.nyu.edu/cn/undergraduate-admissions/connect-with-us",
+  "canonical_url": "https://shanghai.nyu.edu/cn/undergraduate-admissions/connect-with-us",
+  "page_type": "cn",
+  "title": "联系我们",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "联系我们\n欢迎通过以下方式了解上海纽约大学的方方面面，以及本科申请的详细信息。如有任何关于上海纽约大学本科申请和招生录取的问题，请及时联系我们，获得最全面、最权威的回答。\n校园参观\n欢迎预约实地校园参观，或是通过视频以及360度实景漫游项目，足不出户就能游览前滩校园和璟耀宿舍。\n招生宣讲\n每年10月将启动招生宣讲。招办将在全国各地举办线下宣讲，与学生、家长面对面交流。如无法前来，还可参加线上宣讲。\n联系方式\n如对本科申请有任何问题，可通过电话和邮件方式联系招办。也欢迎关注招办微信、微博，第一时间获取各种招生信息。",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "联系我们"
+    },
+    {
+      "type": "p",
+      "text": "欢迎通过以下方式了解上海纽约大学的方方面面，以及本科申请的详细信息。如有任何关于上海纽约大学本科申请和招生录取的问题，请及时联系我们，获得最全面、最权威的回答。"
+    },
+    {
+      "type": "h4",
+      "text": "校园参观"
+    },
+    {
+      "type": "p",
+      "text": "欢迎预约实地校园参观，或是通过视频以及360度实景漫游项目，足不出户就能游览前滩校园和璟耀宿舍。"
+    },
+    {
+      "type": "h4",
+      "text": "招生宣讲"
+    },
+    {
+      "type": "p",
+      "text": "每年10月将启动招生宣讲。招办将在全国各地举办线下宣讲，与学生、家长面对面交流。如无法前来，还可参加线上宣讲。"
+    },
+    {
+      "type": "h4",
+      "text": "联系方式"
+    },
+    {
+      "type": "p",
+      "text": "如对本科申请有任何问题，可通过电话和邮件方式联系招办。也欢迎关注招办微信、微博，第一时间获取各种招生信息。"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/NYU00075_1.jpg",
+      "alt": "admission",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/NYU00075_1-e275941acf62.jpg",
+      "download_status": "downloaded",
+      "bytes": 741608,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/NYU00075_2.jpg",
+      "alt": "admission",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/NYU00075_2-b01d1049a887.jpg",
+      "download_status": "downloaded",
+      "bytes": 698354,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/NYU00075_4.jpg",
+      "alt": "admission",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/NYU00075_4-832f15c7b709.jpg",
+      "download_status": "downloaded",
+      "bytes": 1055706,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/undergraduate-admissions/connect-with-us/visit-our-campus",
+      "text": "校园参观",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/undergraduate-admissions/connect-with-us/join-an-info-session",
+      "text": "招生宣讲",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/undergraduate-admissions/connect-with-us/contact-us",
+      "text": "联系方式",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 24,
+  "crawled_at": "2026-06-09T04:36:21+00:00",
+  "sequence": 900
+}

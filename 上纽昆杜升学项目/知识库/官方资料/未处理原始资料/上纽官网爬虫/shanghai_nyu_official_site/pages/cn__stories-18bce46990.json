@@ -1,0 +1,250 @@
+{
+  "id": "cn__stories-18bce46990",
+  "url": "https://shanghai.nyu.edu/cn/stories?page=6",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "cn",
+  "title": "人物 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "人物\n2022届毕业生Christina Bowllan——探索上海的味道\n2022届毕业生施怡聆——在上纽发现我所热爱的\n2022届英语教育硕士华磊——穿梭讲台上下的“换位”教师\n2022届毕业生Sam Ong——积跬步，至千里\n2022届毕业生陈昕玥——在上纽大实现跳跃式发展\n2022届毕业生Bongani Ntsakani Musikavanhu——上纽是我人生旅途的小幸运\n2022届毕业生才静远——成为文化沟通的桥梁\n对话学部主任Keith Ross：创建面向未来的计算机科学项目\n吴晓刚：做经世致用之学问，奏响城市研究“三部曲”\n画笔下的上纽生活\n对话神经科学和心理学教授李黎：乘科创之翼，解析大脑奥秘\n2019届毕业生Kristen Glinton的富布赖特之路",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "人物"
+    },
+    {
+      "type": "h4",
+      "text": "2022届毕业生Christina Bowllan——探索上海的味道"
+    },
+    {
+      "type": "h4",
+      "text": "2022届毕业生施怡聆——在上纽发现我所热爱的"
+    },
+    {
+      "type": "h4",
+      "text": "2022届英语教育硕士华磊——穿梭讲台上下的“换位”教师"
+    },
+    {
+      "type": "h4",
+      "text": "2022届毕业生Sam Ong——积跬步，至千里"
+    },
+    {
+      "type": "h4",
+      "text": "2022届毕业生陈昕玥——在上纽大实现跳跃式发展"
+    },
+    {
+      "type": "h4",
+      "text": "2022届毕业生Bongani Ntsakani Musikavanhu——上纽是我人生旅途的小幸运"
+    },
+    {
+      "type": "h4",
+      "text": "2022届毕业生才静远——成为文化沟通的桥梁"
+    },
+    {
+      "type": "h4",
+      "text": "对话学部主任Keith Ross：创建面向未来的计算机科学项目"
+    },
+    {
+      "type": "h4",
+      "text": "吴晓刚：做经世致用之学问，奏响城市研究“三部曲”"
+    },
+    {
+      "type": "h4",
+      "text": "画笔下的上纽生活"
+    },
+    {
+      "type": "h4",
+      "text": "对话神经科学和心理学教授李黎：乘科创之翼，解析大脑奥秘"
+    },
+    {
+      "type": "h4",
+      "text": "2019届毕业生Kristen Glinton的富布赖特之路"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/2022_senior_profile_6_-_christina_bowllan-03.jpg?itok=z1DLh9Jt",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2022_senior_profile_6_-_christina_bowllan-03-3b66613d8617.jpg",
+      "download_status": "downloaded",
+      "bytes": 23258,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/2022_senior_profile_5_-_shi_yi_ling_-03.jpg?itok=kf38NCec",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/wechatimg63.jpeg?itok=8ixt-v0B",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg63-5bfd068f005d.jpeg",
+      "download_status": "downloaded",
+      "bytes": 24089,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/wechatimg188_0.jpeg?itok=pihGrdtO",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg188_0-46320f2ebd79.jpeg",
+      "download_status": "downloaded",
+      "bytes": 29821,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/heading.jpg?itok=shwTKi_F",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/76af0c469fa82c20526e8e1afdf7158.jpg?itok=bMxEVl24",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/76af0c469fa82c20526e8e1afdf7158-4fc048337dfc.jpg",
+      "download_status": "downloaded",
+      "bytes": 21833,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/steve_home_page_1.jpeg?itok=RhenZhQh",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/focus_image/5.png?itok=nEWLSB-B",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/12.09-940.jpg?itok=sxz3MD8S",
+      "alt": "pic fropf",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/12.09-940-b84d9b85179a.jpg",
+      "download_status": "downloaded",
+      "bytes": 20377,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/students-life-in-sketches-homepage.jpg?itok=1-Qyuh8K",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/students-life-in-sketches-homepage-5c2cf7bb8625.jpg",
+      "download_status": "downloaded",
+      "bytes": 31356,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/li_work-940.jpg?itok=TynvTa0V",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/li_work-940-8143e06c494f.jpg",
+      "download_status": "downloaded",
+      "bytes": 27931,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/pearl-kristen-hompage.jpg?itok=2Mog4SgB",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/pearl-kristen-hompage-4de019eec35f.jpg",
+      "download_status": "downloaded",
+      "bytes": 24157,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2022-jie-bi-ye-shengchristina-bowllan-tan-suo-shang-hai-de-wei-dao",
+      "text": "2022届毕业生Christina Bowllan——探索上海的味道",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2022-jie-bi-ye-sheng-shi-yi-ling-zai-shang-niu-fa-xian-wo-suo-re-ai-de",
+      "text": "2022届毕业生施怡聆——在上纽发现我所热爱的",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/harry-hua-ma-tesol-22-teacher-students-shoes",
+      "text": "2022届英语教育硕士华磊——穿梭讲台上下的“换位”教师",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2022-jie-bi-ye-shengsam-ong-ji-kui-bu-zhi-qian-li",
+      "text": "2022届毕业生Sam Ong——积跬步，至千里",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2022-jie-bi-ye-sheng-chen-xin-yue-zai-shang-niu-da-shi-xian-tiao-yue-shi-fa-zhan",
+      "text": "2022届毕业生陈昕玥——在上纽大实现跳跃式发展",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2022-jie-bi-ye-shengbongani-ntsakani-musikavanhu-shang-niu-shi-wo-ren-sheng-lu-tu-de-xiao",
+      "text": "2022届毕业生Bongani Ntsakani Musikavanhu——上纽是我人生旅途的小幸运",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2022-jie-bi-ye-sheng-cai-jing-yuan-cheng-wei-wen-hua-gou-tong-de-qiao-liang",
+      "text": "2022届毕业生才静远——成为文化沟通的桥梁",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/dui-hua-xue-bu-zhu-renkeith-ross-chuang-jian-mian-xiang-wei-lai-de-ji-suan-ji-ke-xue-xiang",
+      "text": "对话学部主任Keith Ross：创建面向未来的计算机科学项目",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/wu-xiao-gang-zuo-jing-shi-zhi-yong-zhi-xue-wen-zou-xiang-cheng-shi-yan-jiu-san-bu-qu",
+      "text": "吴晓刚：做经世致用之学问，奏响城市研究“三部曲”",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/hua-bi-xia-de-shang-niu-sheng-huo",
+      "text": "画笔下的上纽生活",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/dui-hua-shen-jing-ke-xue-he-xin-li-xue-jiao-shou-li-li-cheng-ke-chuang-zhi-yi-jie-xi-da-nao",
+      "text": "对话神经科学和心理学教授李黎：乘科创之翼，解析大脑奥秘",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/kristen-glinton-19-pioneering-her-way-fulbright",
+      "text": "2019届毕业生Kristen Glinton的富布赖特之路",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 35,
+  "crawled_at": "2026-06-09T04:33:06+00:00",
+  "sequence": 653
+}

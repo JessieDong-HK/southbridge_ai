@@ -1,0 +1,40 @@
+{
+  "id": "news__1-132b254c02",
+  "url": "https://www.dukekunshan.edu.cn/news/1",
+  "canonical_url": "https://www.dukekunshan.edu.cn/news/1/",
+  "page_type": "news",
+  "title": "Study links poor air quality to drop in innovation",
+  "description": "Research by academics at Duke Kunshan and Shanghai Jiao Tong University connecting pollution to a drop in patent applications could have implications for policymakers.",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2023-12-13T09:32:21+00:00",
+  "sitemap_lastmod": "2023-12-13T09:32:21+00:00",
+  "text": "Study links poor air quality to drop in innovation\nResearch by academics at Duke Kunshan and Shanghai Jiao Tong University connecting pollution to a drop in patent applications could have implications for policymakers.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Study links poor air quality to drop in innovation"
+    },
+    {
+      "type": "p",
+      "text": "Research by academics at Duke Kunshan and Shanghai Jiao Tong University connecting pollution to a drop in patent applications could have implications for policymakers."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 33,
+  "crawled_at": "2026-06-03T13:52:09+00:00",
+  "sequence": 292
+}

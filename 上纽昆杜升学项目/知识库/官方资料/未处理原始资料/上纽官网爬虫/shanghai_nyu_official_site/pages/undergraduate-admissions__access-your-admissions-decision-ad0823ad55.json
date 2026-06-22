@@ -1,0 +1,65 @@
+{
+  "id": "undergraduate-admissions__access-your-admissions-decision-ad0823ad55",
+  "url": "https://shanghai.nyu.edu/undergraduate-admissions/access-your-admissions-decision",
+  "canonical_url": "https://shanghai.nyu.edu/undergraduate-admissions/access-your-admissions-decision",
+  "page_type": "undergraduate-admissions",
+  "title": "Access Your Admissions Decision",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Access Your Admissions Decision\nAll admission decisions for applicants to all three of our campuses will be available through our online portal on or before the deadlines below. We will notify applicants by email when their admissions decisions are available.\nEarly Decision I: December 15\nEarly Decision II: February 15\nRegular Decision: March 28\nYou will log in using your NetID and password that you previously set up when you applied. To create your password if you have not already done so, please use your NetID and your University ID at start.nyu.edu.\nShould you have any questions about your decision notification, please email admissions.ops@nyu.edu.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Access Your Admissions Decision"
+    },
+    {
+      "type": "p",
+      "text": "All admission decisions for applicants to all three of our campuses will be available through our online portal on or before the deadlines below. We will notify applicants by email when their admissions decisions are available."
+    },
+    {
+      "type": "li",
+      "text": "Early Decision I: December 15"
+    },
+    {
+      "type": "li",
+      "text": "Early Decision II: February 15"
+    },
+    {
+      "type": "li",
+      "text": "Regular Decision: March 28"
+    },
+    {
+      "type": "p",
+      "text": "You will log in using your NetID and password that you previously set up when you applied. To create your password if you have not already done so, please use your NetID and your University ID at start.nyu.edu."
+    },
+    {
+      "type": "p",
+      "text": "Should you have any questions about your decision notification, please email admissions.ops@nyu.edu."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/screen_shot_2018-03-27_at_3.06.35_pm.png?itok=95nF3xyt",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2018-03-27_at_3.06.35_pm-8c8043039d9f.png",
+      "download_status": "downloaded",
+      "bytes": 598037,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://connect.nyu.edu/manage/login?realm=&r=/status",
+      "text": "online portal",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 109,
+  "crawled_at": "2026-06-09T04:28:49+00:00",
+  "sequence": 133
+}

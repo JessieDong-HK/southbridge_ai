@@ -1,0 +1,96 @@
+{
+  "id": "cn__campus-life__career__students__researching-careers-9537b15f96",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/researching-careers",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/career/students/researching-careers",
+  "page_type": "cn",
+  "title": "职业调研",
+  "description": "在线调研查看我们的行业指南，以了解不同领域的基本情况。技巧指南可以帮助你完善简历及求职信，提升面试技巧。我们提供多个网站，帮助你探索职业选择。阅读相关新闻及书籍也将助力你的求职之旅。 搭建人脉完成基础调研后，你会发现有哪些并不清楚的地方。下一步则是通过与他人交谈，了解自己需要了解的内容，完善调研。这是了解某个机构的某个岗位的唯一方法。职业发展中心提供的社交指南会指导你如何在领英上做职业调查，如何通过交谈获取信息，以及如何最有效地利用上纽大招聘会资源。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "职业调研\n在线调研\n查看我们的行业指南，以了解不同领域的基本情况。技巧指南可以帮助你完善简历及求职信，提升面试技巧。我们提供多个网站，帮助你探索职业选择。阅读相关新闻及书籍也将助力你的求职之旅。\n搭建人脉\n完成基础调研后，你会发现有哪些并不清楚的地方。下一步则是通过与他人交谈，了解自己需要了解的内容，完善调研。这是了解某个机构的某个岗位的唯一方法。职业发展中心提供的社交指南会指导你如何在领英上做职业调查，如何通过交谈获取信息，以及如何最有效地利用上纽大招聘会资源。",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "职业调研"
+    },
+    {
+      "type": "h3",
+      "text": "在线调研"
+    },
+    {
+      "type": "p",
+      "text": "查看我们的行业指南，以了解不同领域的基本情况。技巧指南可以帮助你完善简历及求职信，提升面试技巧。我们提供多个网站，帮助你探索职业选择。阅读相关新闻及书籍也将助力你的求职之旅。"
+    },
+    {
+      "type": "h3",
+      "text": "搭建人脉"
+    },
+    {
+      "type": "p",
+      "text": "完成基础调研后，你会发现有哪些并不清楚的地方。下一步则是通过与他人交谈，了解自己需要了解的内容，完善调研。这是了解某个机构的某个岗位的唯一方法。职业发展中心提供的社交指南会指导你如何在领英上做职业调查，如何通过交谈获取信息，以及如何最有效地利用上纽大招聘会资源。"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-3-02-1-2.jpg",
+      "alt": "cdc",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-3-02-1-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://nyu.firsthand.co/welcome",
+      "text": "Firsthand",
+      "internal": false
+    },
+    {
+      "url": "http://www.bls.gov/ooh",
+      "text": "Bureau of Labor Statistics",
+      "internal": false
+    },
+    {
+      "url": "http://online.goinglobal.com/default.aspx",
+      "text": "GoinGlobal",
+      "internal": false
+    },
+    {
+      "url": "https://www.linkedin.com/",
+      "text": "LinkedIn",
+      "internal": false
+    },
+    {
+      "url": "https://www.linkedin.com/groups/4823679",
+      "text": "LinkedIn NYU Alumni Club in Shanghai",
+      "internal": false
+    },
+    {
+      "url": "https://guides.nyu.edu/c.php?g=277131&p=4025220",
+      "text": "NYU Library Resources",
+      "internal": false
+    },
+    {
+      "url": "http://www.salary.com/",
+      "text": "salary.com",
+      "internal": false
+    },
+    {
+      "url": "http://www.glassdoor.com/salaries",
+      "text": "glassdoor.com",
+      "internal": false
+    },
+    {
+      "url": "http://www.kanzhun.com/",
+      "text": "kanzhun.com",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 19,
+  "crawled_at": "2026-06-09T04:36:56+00:00",
+  "sequence": 980
+}

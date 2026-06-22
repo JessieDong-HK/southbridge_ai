@@ -1,0 +1,52 @@
+{
+  "id": "campus-life__athletics__training-925835b3a4",
+  "url": "https://shanghai.nyu.edu/campus-life/athletics/training",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/athletics/training",
+  "page_type": "campus-life",
+  "title": "Athletic Training",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Athletic Training\nThe NYU Shanghai Athletic Training, under the direction of Athletic & Fitness, is committed to the overall health, well-being, and safety of all student-athletes participating in sports.\nAthletic Training encompasses the prevention, examination, diagnosis, treatment and rehabilitation of emergent, acute or chronic injuries and medical conditions. NYUSH has one full time Athletic Trainer. Although our Athletic Trainer is assigned and travels with specific sports, we encourage student-athletes to come visit any of our staff for medical advice and treatment during regular operating hours.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Athletic Training"
+    },
+    {
+      "type": "p",
+      "text": "The NYU Shanghai Athletic Training, under the direction of Athletic & Fitness, is committed to the overall health, well-being, and safety of all student-athletes participating in sports."
+    },
+    {
+      "type": "p",
+      "text": "Athletic Training encompasses the prevention, examination, diagnosis, treatment and rehabilitation of emergent, acute or chronic injuries and medical conditions. NYUSH has one full time Athletic Trainer. Although our Athletic Trainer is assigned and travels with specific sports, we encourage student-athletes to come visit any of our staff for medical advice and treatment during regular operating hours."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-athletics-4-2.jpg",
+      "alt": "Athletic Training",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-athletics-4-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-athletics-4-3.jpg",
+      "alt": "Athletic Training",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-athletics-4-3-2c7e5b741b56.jpg",
+      "download_status": "downloaded",
+      "bytes": 229239,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 87,
+  "crawled_at": "2026-06-09T04:32:05+00:00",
+  "sequence": 517
+}

@@ -1,0 +1,70 @@
+{
+  "id": "academics__faculty__directory__qingyuan-chai-a98bd3413f",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/qingyuan-chai",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/qingyuan-chai",
+  "page_type": "academics",
+  "title": "Qingyuan",
+  "description": "Qingyuan Chai is an Assistant Professor of Economics at NYU Shanghai. She graduated with a PhD in Economics from Boston University in 2025. Qingyuan researches in labor economics and development economics. Her working papers can be viewed here.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Qingyuan Chai\nQingyuan Chai is an Assistant Professor of Economics at NYU Shanghai. She graduated with a PhD in Economics from Boston University in 2025. Qingyuan researches in labor economics and development economics. Her working papers can be viewed here. Her CV can be viewed here.\nEducation\nPhD, EconomicsBoston University\nBA, Mathematical EconomicsFudan University\nLabor Economics\nDevelopment Economics",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Qingyuan Chai"
+    },
+    {
+      "type": "p",
+      "text": "Qingyuan Chai is an Assistant Professor of Economics at NYU Shanghai. She graduated with a PhD in Economics from Boston University in 2025. Qingyuan researches in labor economics and development economics. Her working papers can be viewed here. Her CV can be viewed here."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, EconomicsBoston University"
+    },
+    {
+      "type": "li",
+      "text": "BA, Mathematical EconomicsFudan University"
+    },
+    {
+      "type": "li",
+      "text": "Labor Economics"
+    },
+    {
+      "type": "li",
+      "text": "Development Economics"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/JM_photo.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "skipped_too_large",
+      "bytes": 6533765,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://qychai.github.io/cv",
+      "text": "here",
+      "internal": false
+    },
+    {
+      "url": "https://qychai.github.io/PersonalWebsite/CV_Qingyuan_Chai.pdf",
+      "text": "here",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 58,
+  "crawled_at": "2026-06-09T04:54:20+00:00",
+  "sequence": 2425
+}

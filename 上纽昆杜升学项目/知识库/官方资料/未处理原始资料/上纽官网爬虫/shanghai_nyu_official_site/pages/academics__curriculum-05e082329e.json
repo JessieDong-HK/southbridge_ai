@@ -1,0 +1,115 @@
+{
+  "id": "academics__curriculum-05e082329e",
+  "url": "https://shanghai.nyu.edu/academics/curriculum",
+  "canonical_url": "https://shanghai.nyu.edu/academics/curriculum",
+  "page_type": "academics",
+  "title": "Curriculum",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Curriculum\nFor centuries, there has been a consensus between east and west that a truly well-educated person is someone whose studies encompass a broad range of disciplines. In the 4th century B.C., the Chinese philosopher Confucius, encouraged his students to acquire the 'six arts’: etiquette, music, literacy and calligraphy, arithmetic, riding, and archery. While Cicero, the Roman Statesman, used the phrase artes liberales or the liberal arts to capture the wide range of subjects and skills citizens would need in order to contribute to civic life.\nWhile the subjects encompassed by the term “liberal arts and sciences” have changed and modernized with the times, the demand for graduates equipped with a broad and well-rounded education is greater than ever. NYU Shanghai seeks to provide students with a strong, globally-oriented foundation in the liberal arts and sciences. Our undergraduate curriculum helps students develop the ability to read critically, think analytically, and write effectively. It is designed to cultivate creativity in solving problems, tolerance for ambiguity, and respect for diversity of opinion and the exchange of ideas.\nChina’s role in the global community is incorporated throughout the curriculum so that our graduates leave the university cross culturally fluent and equipped with a firm understanding of Chinese culture and society. Finally, through our core curriculum, the majors, and international experiences in the NYU global network, students will learn to recognize themselves as part of a global community, and thereby engage as citizens in a global context.\nFaculty\nCore Curriculum\nAcademic Bulletiin",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Curriculum"
+    },
+    {
+      "type": "p",
+      "text": "For centuries, there has been a consensus between east and west that a truly well-educated person is someone whose studies encompass a broad range of disciplines. In the 4th century B.C., the Chinese philosopher Confucius, encouraged his students to acquire the 'six arts’: etiquette, music, literacy and calligraphy, arithmetic, riding, and archery. While Cicero, the Roman Statesman, used the phrase artes liberales or the liberal arts to capture the wide range of subjects and skills citizens would need in order to contribute to civic life."
+    },
+    {
+      "type": "p",
+      "text": "While the subjects encompassed by the term “liberal arts and sciences” have changed and modernized with the times, the demand for graduates equipped with a broad and well-rounded education is greater than ever. NYU Shanghai seeks to provide students with a strong, globally-oriented foundation in the liberal arts and sciences. Our undergraduate curriculum helps students develop the ability to read critically, think analytically, and write effectively. It is designed to cultivate creativity in solving problems, tolerance for ambiguity, and respect for diversity of opinion and the exchange of ideas."
+    },
+    {
+      "type": "p",
+      "text": "China’s role in the global community is incorporated throughout the curriculum so that our graduates leave the university cross culturally fluent and equipped with a firm understanding of Chinese culture and society. Finally, through our core curriculum, the majors, and international experiences in the NYU global network, students will learn to recognize themselves as part of a global community, and thereby engage as citizens in a global context."
+    },
+    {
+      "type": "h4",
+      "text": "Faculty"
+    },
+    {
+      "type": "h4",
+      "text": "Core Curriculum"
+    },
+    {
+      "type": "h4",
+      "text": "Academic Bulletiin"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/curriculum-01-1.jpg",
+      "alt": "Currriculum",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/curriculum-01-1-6576fab147bc.jpg",
+      "download_status": "downloaded",
+      "bytes": 57199,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/curriculum-01-2.jpg",
+      "alt": "Currriculum",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/curriculum-01-2-9a73c7966f89.jpg",
+      "download_status": "downloaded",
+      "bytes": 45190,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/curriculum-01-31.jpg",
+      "alt": "Faculty",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/curriculum-01-31-3c9fa281fa3d.jpg",
+      "download_status": "downloaded",
+      "bytes": 33067,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/curriculum-01-4.jpg",
+      "alt": "Currriculum",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/curriculum-01-4-5ec56134069a.jpg",
+      "download_status": "downloaded",
+      "bytes": 29592,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/curriculum-01-5.jpg",
+      "alt": "Currriculum",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/curriculum-01-5-6e80d90ad411.jpg",
+      "download_status": "downloaded",
+      "bytes": 47899,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/curriculum/faculty",
+      "text": "Faculty",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/curriculum/core-curriculum",
+      "text": "Core Curriculum",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/curriculum/bulletin",
+      "text": "Academic Bulletiin",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 253,
+  "crawled_at": "2026-06-09T04:40:24+00:00",
+  "sequence": 1280
+}

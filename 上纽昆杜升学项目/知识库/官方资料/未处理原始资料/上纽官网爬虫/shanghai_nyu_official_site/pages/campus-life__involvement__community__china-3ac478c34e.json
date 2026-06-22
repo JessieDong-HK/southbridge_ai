@@ -1,0 +1,265 @@
+{
+  "id": "campus-life__involvement__community__china-3ac478c34e",
+  "url": "https://shanghai.nyu.edu/campus-life/involvement/community/china",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/involvement/community/china",
+  "page_type": "campus-life",
+  "title": "This is China",
+  "description": "This is China” is a series of traditional Chinese cultural experience workshops launched in 2017.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "This is China\nThis is China” is a series of traditional Chinese cultural experience workshops launched in 2017. Through the program, students have learned traditional Chinese pottery and fabric dyeing techniques, tried their hand at martial arts like Jeet Kune Do and Taichi, visited history museums, and more.\nPast workshops:\nArts & Crafts\nPottery\nChinese knotting\nPalm leaf weaving\nPaper cutting\nChinese round fan painting\nTraditional sachet making\nTraditional tie dye\nChinese seal carving\nField Trips\nVisit to the site of the First Conference the Chinese Communist Party\nVisit to the Shanghai History Museum\nDay Trip to the Commonweal Embroidery Center in Wuxi\nCuisine\nChinese Dim Sum Cooking Class\nMartial Arts\nJeet Kune Do\nTaichi\nWing Chun\nOther\nTraditional Chinese Medicine\nKun Opera",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "This is China"
+    },
+    {
+      "type": "p",
+      "text": "This is China” is a series of traditional Chinese cultural experience workshops launched in 2017. Through the program, students have learned traditional Chinese pottery and fabric dyeing techniques, tried their hand at martial arts like Jeet Kune Do and Taichi, visited history museums, and more."
+    },
+    {
+      "type": "h2",
+      "text": "Past workshops:"
+    },
+    {
+      "type": "h3",
+      "text": "Arts & Crafts"
+    },
+    {
+      "type": "li",
+      "text": "Pottery"
+    },
+    {
+      "type": "li",
+      "text": "Chinese knotting"
+    },
+    {
+      "type": "li",
+      "text": "Palm leaf weaving"
+    },
+    {
+      "type": "li",
+      "text": "Paper cutting"
+    },
+    {
+      "type": "li",
+      "text": "Chinese round fan painting"
+    },
+    {
+      "type": "li",
+      "text": "Traditional sachet making"
+    },
+    {
+      "type": "li",
+      "text": "Traditional tie dye"
+    },
+    {
+      "type": "li",
+      "text": "Chinese seal carving"
+    },
+    {
+      "type": "h3",
+      "text": "Field Trips"
+    },
+    {
+      "type": "li",
+      "text": "Visit to the site of the First Conference the Chinese Communist Party"
+    },
+    {
+      "type": "li",
+      "text": "Visit to the Shanghai History Museum"
+    },
+    {
+      "type": "li",
+      "text": "Day Trip to the Commonweal Embroidery Center in Wuxi"
+    },
+    {
+      "type": "h3",
+      "text": "Cuisine"
+    },
+    {
+      "type": "li",
+      "text": "Chinese Dim Sum Cooking Class"
+    },
+    {
+      "type": "h3",
+      "text": "Martial Arts"
+    },
+    {
+      "type": "li",
+      "text": "Jeet Kune Do"
+    },
+    {
+      "type": "li",
+      "text": "Taichi"
+    },
+    {
+      "type": "li",
+      "text": "Wing Chun"
+    },
+    {
+      "type": "h3",
+      "text": "Other"
+    },
+    {
+      "type": "li",
+      "text": "Traditional Chinese Medicine"
+    },
+    {
+      "type": "li",
+      "text": "Kun Opera"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/athletics-23.jpg",
+      "alt": "This is China",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/athletics-23.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/tic-15.jpg?itok=SfiFg-EN",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/tic-14.jpg?itok=QR0QlL7F",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/tic-14.jpg?itok=QR0QlL7F (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/tic-13.jpg?itok=nz61leEb",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/tic-13.jpg?itok=nz61leEb (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/tic-12.jpg?itok=av6sl542",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/tic-12.jpg?itok=av6sl542 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/tic-11.jpg?itok=NxJsstmO",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/tic-11.jpg?itok=NxJsstmO (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/tic-10.jpg?itok=eyn7QIPm",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/tic-10.jpg?itok=eyn7QIPm (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/tic-09.jpg?itok=h1uvI2Im",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/tic-09.jpg?itok=h1uvI2Im (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/tic-08.jpg?itok=CUyGNxwr",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/tic-08.jpg?itok=CUyGNxwr (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/tic-07.jpg?itok=P4H80MZP",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/tic-07.jpg?itok=P4H80MZP (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/tic-06.jpg?itok=_wtgPSXR",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/tic-06.jpg?itok=_wtgPSXR (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/tic-05.jpg?itok=wWCLBoQM",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/tic-05.jpg?itok=wWCLBoQM (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/tic-04.jpg?itok=A3S3Ihr7",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/tic-04.jpg?itok=A3S3Ihr7 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/tic-03.jpg?itok=4_Iqdin2",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/tic-03.jpg?itok=4_Iqdin2 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/tic-02.jpg?itok=AZpgfSey",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/tic-02.jpg?itok=AZpgfSey (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/tic-01.jpg?itok=5i1RUtmc",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/tic-01.jpg?itok=5i1RUtmc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 122,
+  "crawled_at": "2026-06-09T04:32:04+00:00",
+  "sequence": 513
+}

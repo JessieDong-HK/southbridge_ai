@@ -1,0 +1,177 @@
+{
+  "id": "about__our-campus-1437254394",
+  "url": "https://shanghai.nyu.edu/about/our-campus",
+  "canonical_url": "https://shanghai.nyu.edu/about/our-campus",
+  "page_type": "about",
+  "title": "Our Campus and Residence Halls",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Our Campus and Residence Halls\nNew Bund Campus\nBuilt in 2022, the New Bund Campus serves as NYU Shanghai’s main campus and thriving intellectual center. It is located in the Qiantan (the New Bund) neighborhood of Pudong District, near to Shanghai’s new hub of finance, technology and other key industries.\nThe 9-story Academic Building is easily accessible by subway, bus, car, and bicycle. The New Bund Campus offers a 600-person auditorium, 78 seminar rooms and lecture halls with advanced digital equipment, laboratories for various disciplines, a 5,000-square-meter library with easy access to resources of NYU’s global network, as well as a two-floored reading hall and colloquium. Artists and athletes can also enjoy a spacious campus courtyard, state-of-the-art recital hall, black box theater, a modern art gallery ICA, and a 4,000-square-meter athletics center. At NYU Shanghai, students can utilize these facilities for a well-rounded university experience.\nZhongbei Campus\nThe NYU-ECNU joint research institutes at NYU Shanghai are located in the Geography Building at East China Normal University. For more information about working at the Zhongbei Campus, please reference the FAQs.\nNYU-ECNU Institutes @ NYU Shanghai\nInstitute of Mathematical Sciences\nCenter for Computational Chemistry\nInstitute of Brain and Cognitive Science\nInstitute of Physics\nResidence Halls\nLocated in the Houtan area of Pudong district, Jingyao Residence Hall is a short bus or subway ride from the New Bund Campus. NYU Shanghai shuttle buses run regularly between the New Bund Campus Academic Building and the Residence Halls. The well-built residence hall offers students a range of housing configurations. All rooms are equipped with Wi-Fi, AC, a washer and dryer, and a private bathroom and a kitchen. The residence hall also has a resource center, professional live-in staff, and resident assistants on stand-by to assist students. At Jingyao Residence Hall, roommates are assigned from different nations, creating a diverse and international environment.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Our Campus and Residence Halls"
+    },
+    {
+      "type": "h2",
+      "text": "New Bund Campus"
+    },
+    {
+      "type": "p",
+      "text": "Built in 2022, the New Bund Campus serves as NYU Shanghai’s main campus and thriving intellectual center. It is located in the Qiantan (the New Bund) neighborhood of Pudong District, near to Shanghai’s new hub of finance, technology and other key industries."
+    },
+    {
+      "type": "p",
+      "text": "The 9-story Academic Building is easily accessible by subway, bus, car, and bicycle. The New Bund Campus offers a 600-person auditorium, 78 seminar rooms and lecture halls with advanced digital equipment, laboratories for various disciplines, a 5,000-square-meter library with easy access to resources of NYU’s global network, as well as a two-floored reading hall and colloquium. Artists and athletes can also enjoy a spacious campus courtyard, state-of-the-art recital hall, black box theater, a modern art gallery ICA, and a 4,000-square-meter athletics center. At NYU Shanghai, students can utilize these facilities for a well-rounded university experience."
+    },
+    {
+      "type": "h2",
+      "text": "Zhongbei Campus"
+    },
+    {
+      "type": "p",
+      "text": "The NYU-ECNU joint research institutes at NYU Shanghai are located in the Geography Building at East China Normal University. For more information about working at the Zhongbei Campus, please reference the FAQs."
+    },
+    {
+      "type": "h3",
+      "text": "NYU-ECNU Institutes @ NYU Shanghai"
+    },
+    {
+      "type": "h4",
+      "text": "Institute of Mathematical Sciences"
+    },
+    {
+      "type": "h4",
+      "text": "Center for Computational Chemistry"
+    },
+    {
+      "type": "h4",
+      "text": "Institute of Brain and Cognitive Science"
+    },
+    {
+      "type": "h4",
+      "text": "Institute of Physics"
+    },
+    {
+      "type": "h2",
+      "text": "Residence Halls"
+    },
+    {
+      "type": "p",
+      "text": "Located in the Houtan area of Pudong district, Jingyao Residence Hall is a short bus or subway ride from the New Bund Campus. NYU Shanghai shuttle buses run regularly between the New Bund Campus Academic Building and the Residence Halls. The well-built residence hall offers students a range of housing configurations. All rooms are equipped with Wi-Fi, AC, a washer and dryer, and a private bathroom and a kitchen. The residence hall also has a resource center, professional live-in staff, and resident assistants on stand-by to assist students. At Jingyao Residence Hall, roommates are assigned from different nations, creating a diverse and international environment."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/pic_ourcampus3.jpg",
+      "alt": "our campus",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/pic_ourcampus3-27217bbdc79f.jpg",
+      "download_status": "downloaded",
+      "bytes": 107194,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/buildings-1-3_0.jpg",
+      "alt": "Institute of Mathematical Sciences",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/buildings-1-3_0-22e30670b42a.jpg",
+      "download_status": "downloaded",
+      "bytes": 23008,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/buildings-1-4_0.jpg",
+      "alt": "Center for Computational Chemistry",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/buildings-1-4_0-acaca9e17bc6.jpg",
+      "download_status": "downloaded",
+      "bytes": 24942,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/buildings-1-5_0.jpg",
+      "alt": "Institute of Brain and Cognitive Science",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/buildings-1-7_0_0.jpg",
+      "alt": "Institute of Physics",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/buildings-1-7_0_0-8bcb14ffa533.jpg",
+      "download_status": "downloaded",
+      "bytes": 26630,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/pic_ourcampus2.jpg",
+      "alt": "Residence Halls",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://research.shanghai.nyu.edu/",
+      "text": "joint research institutes",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/about/campus/zhongbei/faqs",
+      "text": "FAQs",
+      "internal": true
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/math",
+      "text": "Institute of Mathematical Sciences",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/chemistry",
+      "text": "Center for Computational Chemistry",
+      "internal": false
+    },
+    {
+      "url": "https://bcs.shanghai.nyu.edu/en",
+      "text": "Institute of Brain and Cognitive Science",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/physics",
+      "text": "Institute of Physics",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/residential/jingyao",
+      "text": "Jingyao Residence Hall",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/about/directions",
+      "text": "Directions",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/about/contact",
+      "text": "Contact Us",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 328,
+  "crawled_at": "2026-06-09T04:27:56+00:00",
+  "sequence": 15
+}

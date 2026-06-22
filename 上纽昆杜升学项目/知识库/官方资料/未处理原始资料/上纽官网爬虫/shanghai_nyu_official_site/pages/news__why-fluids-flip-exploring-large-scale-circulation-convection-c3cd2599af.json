@@ -1,0 +1,117 @@
+{
+  "id": "news__why-fluids-flip-exploring-large-scale-circulation-convection-c3cd2599af",
+  "url": "https://shanghai.nyu.edu/news/why-fluids-flip-exploring-large-scale-circulation-convection",
+  "canonical_url": "https://shanghai.nyu.edu/news/why-fluids-flip-exploring-large-scale-circulation-convection",
+  "page_type": "news",
+  "title": "Why Fluids Flip: Exploring Large-Scale Circulation in Convection",
+  "description": "Understanding how LSC forms and how it carries heat has long been a central challenge in fluid dynamics research.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Why Fluids Flip: Exploring Large-Scale Circulation in Convection\nTwitter\nFacebook\nWeibo\nConvection is all around us: warm air rising to form wind, ocean currents circulating across the globe, even molten rock moving deep inside the Earth. The principle is simple– warm, lighter fluid rises while cooler, heavier fluid sinks. But this simple rule can lead to surprisingly complex motion, including the formation of large-scale circulation (LSC): an organized flow that can persist for long periods, or suddenly switch direction. Understanding how LSC forms and how it carries heat has long been a central challenge in fluid dynamics research.\nIn two recent papers, Assistant Professor of Mathematics Mac Huang and collaborators explored this problem using a stripped-down model: a ring-shaped container of liquid, heated from below and cooled from above. Even in this simple setup, the fluid shows behavior that resembles real-world systems like weather and ocean currents. Their first paper, published in Journal of Fluid Mechanics, focuses on how circulation forms and changes. Their second paper, published in Physical Review Fluids, investigates how this circulation enhances heat transfer.\n“The JFM study looked at the motion of the liquid itself,” Huang said. “At low heating, the fluid barely moves. As heating increases, the liquid begins circulating steadily in one direction – clockwise or counterclockwise. When pushing the heating even further, something unexpected happens: the direction can suddenly switch, sometimes in a regular rhythm, sometimes unpredictably.”\nSimulation showing how strong heating may lead to chaotic flow patterns.\nTo explain this, the team developed a simplified mathematical model. At its core, the circulation behaves much like a swinging pendulum. Just as a pendulum overshoots its center and swings back, the fluid current can overshoot and flip direction. This simple analogy helps explain why large-scale circulations can look orderly at times and chaotic at others, making its prediction difficult in the long term.\n“Our second study built on this foundation by asking: once circulation forms, how does it affect heat transfer,” said Huang. “Even a motionless fluid can slowly conduct heat, but once the liquid starts moving, it becomes far more efficient at carrying heat upward and around.”\nHuang’s group developed a new model to capture this process. It showed that the stronger the circulation, the more efficiently heat is transported through the system. In fact, the model predicts a clear mathematical relationship between heating strength and heat transfer efficiency, one that matches what experimental and numerical studies have suggested for decades.\nThe PRF study’s first author, PhD student Zhang Yuejia from the joint NYU Shanghai and NYU Courant PhD program, presented the team’s results at international conferences, such as ​​American Physical Society Division of Fluid Dynamics Annual Meeting 2024, and the SIAM/CAIMS Annual Meetings. “What excites me is how a minimal model can still speak to the real world. Seeing our equations echo behaviors reported in experiments made the results feel grounded rather than abstract,” said Yuejia.\nLooking ahead, Huang envisions extending these approaches to more complex systems that better resemble the atmosphere and oceans. His research has direct implications for engineering, ranging from power plant and electronics cooling systems design to improving building ventilation and energy efficiency.\n“We start with the simplest model to grasp the fundamental physics of thermal convection,” he said. “Once that is clear, we can build outward to understand the complexity of the real world.”",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Why Fluids Flip: Exploring Large-Scale Circulation in Convection"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Convection is all around us: warm air rising to form wind, ocean currents circulating across the globe, even molten rock moving deep inside the Earth. The principle is simple– warm, lighter fluid rises while cooler, heavier fluid sinks. But this simple rule can lead to surprisingly complex motion, including the formation of large-scale circulation (LSC): an organized flow that can persist for long periods, or suddenly switch direction. Understanding how LSC forms and how it carries heat has long been a central challenge in fluid dynamics research."
+    },
+    {
+      "type": "p",
+      "text": "In two recent papers, Assistant Professor of Mathematics Mac Huang and collaborators explored this problem using a stripped-down model: a ring-shaped container of liquid, heated from below and cooled from above. Even in this simple setup, the fluid shows behavior that resembles real-world systems like weather and ocean currents. Their first paper, published in Journal of Fluid Mechanics, focuses on how circulation forms and changes. Their second paper, published in Physical Review Fluids, investigates how this circulation enhances heat transfer."
+    },
+    {
+      "type": "p",
+      "text": "“The JFM study looked at the motion of the liquid itself,” Huang said. “At low heating, the fluid barely moves. As heating increases, the liquid begins circulating steadily in one direction – clockwise or counterclockwise. When pushing the heating even further, something unexpected happens: the direction can suddenly switch, sometimes in a regular rhythm, sometimes unpredictably.”"
+    },
+    {
+      "type": "p",
+      "text": "Simulation showing how strong heating may lead to chaotic flow patterns."
+    },
+    {
+      "type": "p",
+      "text": "To explain this, the team developed a simplified mathematical model. At its core, the circulation behaves much like a swinging pendulum. Just as a pendulum overshoots its center and swings back, the fluid current can overshoot and flip direction. This simple analogy helps explain why large-scale circulations can look orderly at times and chaotic at others, making its prediction difficult in the long term."
+    },
+    {
+      "type": "p",
+      "text": "“Our second study built on this foundation by asking: once circulation forms, how does it affect heat transfer,” said Huang. “Even a motionless fluid can slowly conduct heat, but once the liquid starts moving, it becomes far more efficient at carrying heat upward and around.”"
+    },
+    {
+      "type": "p",
+      "text": "Huang’s group developed a new model to capture this process. It showed that the stronger the circulation, the more efficiently heat is transported through the system. In fact, the model predicts a clear mathematical relationship between heating strength and heat transfer efficiency, one that matches what experimental and numerical studies have suggested for decades."
+    },
+    {
+      "type": "p",
+      "text": "The PRF study’s first author, PhD student Zhang Yuejia from the joint NYU Shanghai and NYU Courant PhD program, presented the team’s results at international conferences, such as ​​American Physical Society Division of Fluid Dynamics Annual Meeting 2024, and the SIAM/CAIMS Annual Meetings. “What excites me is how a minimal model can still speak to the real world. Seeing our equations echo behaviors reported in experiments made the results feel grounded rather than abstract,” said Yuejia."
+    },
+    {
+      "type": "p",
+      "text": "Looking ahead, Huang envisions extending these approaches to more complex systems that better resemble the atmosphere and oceans. His research has direct implications for engineering, ranging from power plant and electronics cooling systems design to improving building ventilation and energy efficiency."
+    },
+    {
+      "type": "p",
+      "text": "“We start with the simplest model to grasp the fundamental physics of thermal convection,” he said. “Once that is clear, we can build outward to understand the complexity of the real world.”"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/why_fluids_flip-01.jpg?itok=b-SAnzbO",
+      "alt": "fluid",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Why%20Fluids%20Flip%3A%20Exploring%20Large-Scale%20Circulation%20in%20Convection&url=https%3A//shanghai.nyu.edu/news/why-fluids-flip-exploring-large-scale-circulation-convection&status=Why%20Fluids%20Flip%3A%20Exploring%20Large-Scale%20Circulation%20in%20Convection%20https%3A//shanghai.nyu.edu/news/why-fluids-flip-exploring-large-scale-circulation-convection",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/why-fluids-flip-exploring-large-scale-circulation-convection&title=Why%20Fluids%20Flip%3A%20Exploring%20Large-Scale%20Circulation%20in%20Convection",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/why-fluids-flip-exploring-large-scale-circulation-convection&title=Why%20Fluids%20Flip%3A%20Exploring%20Large-Scale%20Circulation%20in%20Convection",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jinzi-mac-huang",
+      "text": "Mac Huang",
+      "internal": true
+    },
+    {
+      "url": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/largescale-circulation-reversals-explained-by-pendulum-correspondence/8DADE245B58A56740ED6780E280B8F58",
+      "text": "Journal of Fluid Mechanics",
+      "internal": false
+    },
+    {
+      "url": "https://journals.aps.org/prfluids/abstract/10.1103/rnkd-np26",
+      "text": "Physical Review Fluids",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 566,
+  "crawled_at": "2026-06-09T04:39:40+00:00",
+  "sequence": 1241
+}

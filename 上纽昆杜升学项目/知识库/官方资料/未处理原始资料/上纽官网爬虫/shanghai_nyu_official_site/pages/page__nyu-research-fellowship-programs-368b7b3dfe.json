@@ -1,0 +1,93 @@
+{
+  "id": "page__nyu-research-fellowship-programs-368b7b3dfe",
+  "url": "https://shanghai.nyu.edu/page/nyu-research-fellowship-programs",
+  "canonical_url": "https://shanghai.nyu.edu/page/nyu-research-fellowship-programs",
+  "page_type": "page",
+  "title": "NYU Research Fellowship Programs",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "NYU Research Fellowship Programs\nNYU Shanghai offers two research fellowship programs for NYU graduate students. Since 2015, more than 100 students have been awarded fellowships. We invite you to learn more below.\nNYU Shanghai Graduate Dissertation Fellowship\nEach semester, NYU Shanghai awards 3-4 Graduate Dissertation Fellowships to support outstanding NYU doctoral students to conduct advanced research or writing in residence at NYU Shanghai. Fellows may come from any discipline, but are especially encouraged to engage in projects related to the strengths of the NYU Shanghai faculty. Each award includes a stipend, a waiver of maintenance of matriculation fees (if applicable), comprehensive NYU health insurance, and round-trip transportation. Work spaces are also made available at NYU Shanghai. For more information and to learn how to apply, please visit this page.\nProfiles of Graduate Dissertation Fellows currently in residence can be viewed here.\nNYU Shanghai Global Research Initiatives Fellowship\nEach academic year, NYU Shanghai hosts NYU master's and PhD students as well as NYU faculty who have been awarded Global Research Initiatives Fellowships by the NYU Office of the Provost. GRI Fellowships are awarded on a semesterly basis and designed to support fellows who wish to do research abroad. In Shanghai, fellows are provided a work space, round-trip transportation, and a flat-rate per-diem subsidy. For more information and to learn how to apply, please visit this page.\nProfiles of GRI Fellows currently in residence can be viewed here.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "NYU Research Fellowship Programs"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai offers two research fellowship programs for NYU graduate students. Since 2015, more than 100 students have been awarded fellowships. We invite you to learn more below."
+    },
+    {
+      "type": "h4",
+      "text": "NYU Shanghai Graduate Dissertation Fellowship"
+    },
+    {
+      "type": "p",
+      "text": "Each semester, NYU Shanghai awards 3-4 Graduate Dissertation Fellowships to support outstanding NYU doctoral students to conduct advanced research or writing in residence at NYU Shanghai. Fellows may come from any discipline, but are especially encouraged to engage in projects related to the strengths of the NYU Shanghai faculty. Each award includes a stipend, a waiver of maintenance of matriculation fees (if applicable), comprehensive NYU health insurance, and round-trip transportation. Work spaces are also made available at NYU Shanghai. For more information and to learn how to apply, please visit this page."
+    },
+    {
+      "type": "p",
+      "text": "Profiles of Graduate Dissertation Fellows currently in residence can be viewed here."
+    },
+    {
+      "type": "h4",
+      "text": "NYU Shanghai Global Research Initiatives Fellowship"
+    },
+    {
+      "type": "p",
+      "text": "Each academic year, NYU Shanghai hosts NYU master's and PhD students as well as NYU faculty who have been awarded Global Research Initiatives Fellowships by the NYU Office of the Provost. GRI Fellowships are awarded on a semesterly basis and designed to support fellows who wish to do research abroad. In Shanghai, fellows are provided a work space, round-trip transportation, and a flat-rate per-diem subsidy. For more information and to learn how to apply, please visit this page."
+    },
+    {
+      "type": "p",
+      "text": "Profiles of GRI Fellows currently in residence can be viewed here."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/research-fellowship-programs-01.jpg",
+      "alt": "research-fellowship-programs",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/research-fellowship-programs-01-990eda07d601.jpg",
+      "download_status": "downloaded",
+      "bytes": 81450,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/research-fellowship-programs-02.jpg",
+      "alt": "research-fellowship-programs",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://gsas.nyu.edu/financial-support/fellowships/nyu-global-dissertation-fellowships.html",
+      "text": "page",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/graduate/research-fellowship-programs/graduate-dissertation-fellows",
+      "text": "here",
+      "internal": true
+    },
+    {
+      "url": "https://www.nyu.edu/research/provosts-global-research-initiatives/research-centers-faculty-graduate-students.html",
+      "text": "page",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/graduate/research-fellowship-programs/current-gri-fellows",
+      "text": "here",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 242,
+  "crawled_at": "2026-06-09T04:31:22+00:00",
+  "sequence": 445
+}

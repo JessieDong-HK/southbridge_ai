@@ -1,0 +1,94 @@
+{
+  "id": "about__admitted-students-9615a87588",
+  "url": "https://www.dukekunshan.edu.cn/about/admitted-students",
+  "canonical_url": "https://www.dukekunshan.edu.cn/about/admitted-students/",
+  "page_type": "about",
+  "title": "Admitted Students",
+  "description": "What you need to be prepared for attending Duke Kunshan university, follow this to find out what you should do to study in China.",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2025-08-29T07:15:05+00:00",
+  "sitemap_lastmod": "2025-08-29T07:15:05+00:00",
+  "text": "Admitted Students\nCongratulations!\nWelcome to Duke Kunshan University! We are extremely excited to have you with us. On this page you will find all the information that you will need to be prepared for attending Duke Kunshan this fall. Below, you can find forms and information pertinent to all admitted students, and follow the links at the bottom of the page for information relevant to your specific program. We look forward to seeing you soon!\nInformation for Admitted Students\nAcademic Calendar\nPassport and Visa Instructions\nDuke Kunshan University Net ID Information\nLaptop Requirements\nPre-Arrival and Arrival",
+  "text_blocks": [
+    {
+      "type": "h2",
+      "text": "Admitted Students"
+    },
+    {
+      "type": "h3",
+      "text": "Congratulations!"
+    },
+    {
+      "type": "p",
+      "text": "Welcome to Duke Kunshan University! We are extremely excited to have you with us. On this page you will find all the information that you will need to be prepared for attending Duke Kunshan this fall. Below, you can find forms and information pertinent to all admitted students, and follow the links at the bottom of the page for information relevant to your specific program. We look forward to seeing you soon!"
+    },
+    {
+      "type": "h3",
+      "text": "Information for Admitted Students"
+    },
+    {
+      "type": "li",
+      "text": "Academic Calendar"
+    },
+    {
+      "type": "li",
+      "text": "Passport and Visa Instructions"
+    },
+    {
+      "type": "li",
+      "text": "Duke Kunshan University Net ID Information"
+    },
+    {
+      "type": "li",
+      "text": "Laptop Requirements"
+    },
+    {
+      "type": "li",
+      "text": "Pre-Arrival and Arrival"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.dukekunshan.edu.cn/about/academic-calendar",
+      "text": "Academic Calendar",
+      "internal": true
+    },
+    {
+      "url": "https://dku-web-admissions.s3.cn-north-1.amazonaws.com.cn/dkumain/wp-content/uploads/mainsite/2022/02/student-life-international_student_mobility-1.pdf",
+      "text": "Passport and Visa Instructions",
+      "internal": false
+    },
+    {
+      "url": "https://dku-web-admissions.s3.cn-north-1.amazonaws.com.cn/dkumain/wp-content/uploads/mainsite/2022/02/DKU-Net-ID-Information-1.pdf",
+      "text": "Duke Kunshan University Net ID Information",
+      "internal": false
+    },
+    {
+      "url": "https://dku-web-admissions.s3.cn-north-1.amazonaws.com.cn/dkumain/wp-content/uploads/mainsite/2022/02/laptop_requirements-1.pdf",
+      "text": "Laptop Requirements",
+      "internal": false
+    },
+    {
+      "url": "https://dukekunshan.edu.cn/campus-life/pre-arrival-and-orientation/pre-arrival-and-orientation",
+      "text": "Pre-Arrival and Arrival",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 97,
+  "crawled_at": "2026-06-03T13:54:46+00:00",
+  "sequence": 560
+}

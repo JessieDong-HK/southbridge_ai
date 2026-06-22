@@ -1,0 +1,110 @@
+{
+  "id": "cn__campus-life__career__graduate-destinations__view-the-full-reports-archive-df6d627113",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/career/graduate-destinations/view-the-full-reports-archive",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/career/graduate-destinations/view-the-full-reports-archive",
+  "page_type": "cn",
+  "title": "阅读历届毕业生就业质量报告完整版",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "阅读历届毕业生就业质量报告完整版",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "阅读历届毕业生就业质量报告完整版"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-destinations2022-02.jpg",
+      "alt": "2022届毕业生就业质量报告（PDF）",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-destinations-03_0.jpeg",
+      "alt": "2021届毕业生就业质量报告（PDF)",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-graduate-destinations-03_0.jpeg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/chinese_first_destination_2020-1-3-05_0.jpg",
+      "alt": "2020届毕业生就业质量报告（PDF)",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/chinese_first_destination_2020-1-3-05_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/chinese_first_destination_2020-1-3-06_0.jpg",
+      "alt": "2019届毕业生就业质量报告 (PDF)",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/chinese_first_destination_2020-1-3-06_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/chinese_first_destination_2020-1-3-07_1_0.jpeg",
+      "alt": "2018届毕业生就业质量报告 (PDF)",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/chinese_first_destination_2020-1-3-07_1_0.jpeg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/chinese_first_destination_2020-1-3-08_1_0.jpeg",
+      "alt": "2017届毕业生就业质量报告 (PDF)",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/chinese_first_destination_2020-1-3-08_1_0.jpeg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/co2022_fdr_chinese.pdf",
+      "text": "2022届毕业生就业质量报告（PDF）",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/fdr_cn_singe_page.pdf",
+      "text": "2021届毕业生就业质量报告（PDF)",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/nyu2020_page_cn_0316.pdf",
+      "text": "2020届毕业生就业质量报告（PDF)",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/class_of_2019_first_destination_report_chn.pdf",
+      "text": "2019届毕业生就业质量报告 (PDF)",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/accessible_class_of_2018_first_destination_report_chn.pdf",
+      "text": "2018届毕业生就业质量报告 (PDF)",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/1Jcy7A8X3j4ga_iLp1vERRzx6D8qBVCmf/view",
+      "text": "2017届毕业生就业质量报告 (PDF)",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:37:01+00:00",
+  "sequence": 1001
+}

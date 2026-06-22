@@ -1,0 +1,155 @@
+{
+  "id": "campus-life__health-wellness-a44f26c90f",
+  "url": "https://shanghai.nyu.edu/campus-life/health-wellness",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/health-wellness",
+  "page_type": "campus-life",
+  "title": "Student Health Center",
+  "description": "The Student Health Center at NYU Shanghai is committed to promoting a safe, informed, healthy and happy university community. We provide an array of professional services tailored to support our students' physical, emotional, and mental health needs during their time at NYU Shanghai.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Student Health Center\nThe Student Health Center at NYU Shanghai is committed to promoting a safe, informed, healthy and happy university community. We provide an array of professional services tailored to support our students' physical, emotional, and mental health needs during their time at NYU Shanghai.\nNavigating both college life and the transition to adulthood is exciting, but can also sometimes cause students stress and varying emotions. We are also mindful of the great opportunities and added challenges of being a student in a mega city such as Shanghai.\nThe Student Health Center provides medical and counseling support and promotes health knowledge through skills-focused workshops in a warm and welcoming environment.\nThe Student Health Center is located on the 4th Floor of the West Building, just beside the west elevators. Opening hours are Monday to Friday, 9:00 a.m. to 5:00 p.m. The Center is staffed by highly trained professionals who are focused on supporting students. Professional counseling services are confidential and offered to students free of charge. Students can come into the Center on a drop-in basis or by appointment.\nContact Us\nEmail:shanghai.health@nyu.edu\nCall: 2059-5353 (from Shanghai) 021-2059-5353 (from elsewhere In China) 86-21-2059-5353 (from outside of China)\nLocation: West Building, 4th Floor\nHours of Operation: Monday-Friday, 9:00 a.m. – 5:00 p.m.\nEmergencies\nFor Emergencies:Call NYU Shanghai Campus Safety at 021-2059-5500\nUrgent Mental Health Needs:Call the Wellness Exchange hotline,24 hours a aay, 7 days a week,At +86-21-2059-9999 or +1-212-443-9999\nMedical Services\nCounseling Services\nHealth Promotion and Education\nImmunization and Insurance",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Student Health Center"
+    },
+    {
+      "type": "p",
+      "text": "The Student Health Center at NYU Shanghai is committed to promoting a safe, informed, healthy and happy university community. We provide an array of professional services tailored to support our students' physical, emotional, and mental health needs during their time at NYU Shanghai."
+    },
+    {
+      "type": "p",
+      "text": "Navigating both college life and the transition to adulthood is exciting, but can also sometimes cause students stress and varying emotions. We are also mindful of the great opportunities and added challenges of being a student in a mega city such as Shanghai."
+    },
+    {
+      "type": "p",
+      "text": "The Student Health Center provides medical and counseling support and promotes health knowledge through skills-focused workshops in a warm and welcoming environment."
+    },
+    {
+      "type": "p",
+      "text": "The Student Health Center is located on the 4th Floor of the West Building, just beside the west elevators. Opening hours are Monday to Friday, 9:00 a.m. to 5:00 p.m. The Center is staffed by highly trained professionals who are focused on supporting students. Professional counseling services are confidential and offered to students free of charge. Students can come into the Center on a drop-in basis or by appointment."
+    },
+    {
+      "type": "h3",
+      "text": "Contact Us"
+    },
+    {
+      "type": "li",
+      "text": "Email:shanghai.health@nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Call: 2059-5353 (from Shanghai) 021-2059-5353 (from elsewhere In China) 86-21-2059-5353 (from outside of China)"
+    },
+    {
+      "type": "li",
+      "text": "Location: West Building, 4th Floor"
+    },
+    {
+      "type": "li",
+      "text": "Hours of Operation: Monday-Friday, 9:00 a.m. – 5:00 p.m."
+    },
+    {
+      "type": "h3",
+      "text": "Emergencies"
+    },
+    {
+      "type": "li",
+      "text": "For Emergencies:Call NYU Shanghai Campus Safety at 021-2059-5500"
+    },
+    {
+      "type": "li",
+      "text": "Urgent Mental Health Needs:Call the Wellness Exchange hotline,24 hours a aay, 7 days a week,At +86-21-2059-9999 or +1-212-443-9999"
+    },
+    {
+      "type": "h4",
+      "text": "Medical Services"
+    },
+    {
+      "type": "h4",
+      "text": "Counseling Services"
+    },
+    {
+      "type": "h4",
+      "text": "Health Promotion and Education"
+    },
+    {
+      "type": "h4",
+      "text": "Immunization and Insurance"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/health_center_website_banner-06-1.jpg",
+      "alt": "Health Wellness",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/health_center_website_banner-06-1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/health-03.jpg",
+      "alt": "NYU Shanghai Health",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/health-03.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/health_center_website_banner-08.jpg",
+      "alt": "Counseling Services",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/health_center_website_banner-08.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/health_center_website_banner-09.jpg",
+      "alt": "Health Promotion and Education",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/health_center_website_banner-09.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/health_center_website_banner-10.jpg",
+      "alt": "Immunization and Insurance",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/health-wellness/medical-services",
+      "text": "Medical Services",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/health-wellness/counseling-services",
+      "text": "Counseling Services",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/health-wellness/health-promotion-and-education",
+      "text": "Health Promotion and Education",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/health-wellness/immunization-and-insurance",
+      "text": "Immunization and Insurance",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 281,
+  "crawled_at": "2026-06-09T04:28:08+00:00",
+  "sequence": 50
+}

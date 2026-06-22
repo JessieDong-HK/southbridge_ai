@@ -1,0 +1,58 @@
+{
+  "id": "page__creating-assistive-technology-237f10e346",
+  "url": "https://shanghai.nyu.edu/page/creating-assistive-technology",
+  "canonical_url": "https://shanghai.nyu.edu/page/creating-assistive-technology",
+  "page_type": "page",
+  "title": "Creating Assistive Technology",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Creating Assistive Technology\nINTM-SHU 248 Creating Assistive Technology\nApply to join the course here\nThis interdisciplinary project-based class focuses on the design, development, and use of technology that increases the quality of life of individuals of disabilities. The instructor of the course is Rodolfo (Rudi) Cossovich, Assistant Arts Professor of IMA. Students will be introduced to various assistive technology and strategies, including no-tech and low-tech as well as software and web-based practices. This class features lectures, discussions, guest lectures, field trips, and project presentations by students. Software programming, physical computing, machine learning, and 3D fabrication will be introduced for constructing a prototype assistive device. Field trips of local facilities will be scheduled during the semester. They provide an off-campus real-world learning experience as well as an opportunity for students to interact with users of assistive technology in the local community. Students will participate in a team-based design project that identifies challenges for an individual of disabilities and create a novel and useful assistive devices to meet their needs.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Creating Assistive Technology"
+    },
+    {
+      "type": "p",
+      "text": "INTM-SHU 248 Creating Assistive Technology"
+    },
+    {
+      "type": "p",
+      "text": "Apply to join the course here"
+    },
+    {
+      "type": "p",
+      "text": "This interdisciplinary project-based class focuses on the design, development, and use of technology that increases the quality of life of individuals of disabilities. The instructor of the course is Rodolfo (Rudi) Cossovich, Assistant Arts Professor of IMA. Students will be introduced to various assistive technology and strategies, including no-tech and low-tech as well as software and web-based practices. This class features lectures, discussions, guest lectures, field trips, and project presentations by students. Software programming, physical computing, machine learning, and 3D fabrication will be introduced for constructing a prototype assistive device. Field trips of local facilities will be scheduled during the semester. They provide an off-campus real-world learning experience as well as an opportunity for students to interact with users of assistive technology in the local community. Students will participate in a team-based design project that identifies challenges for an individual of disabilities and create a novel and useful assistive devices to meet their needs."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/technology.jpg",
+      "alt": "Technology",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/technology-3c94cdcabb5d.jpg",
+      "download_status": "downloaded",
+      "bytes": 242403,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfjMArImSMSR-9K85xbmOQrWiBqKHNId3_lMxcc5Dr0aKaC4A/viewform?usp=sf_link",
+      "text": "Apply to join the course here",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/rodolfo-cossovich",
+      "text": "Rodolfo (Rudi) Cossovich",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 176,
+  "crawled_at": "2026-06-09T04:41:45+00:00",
+  "sequence": 1413
+}

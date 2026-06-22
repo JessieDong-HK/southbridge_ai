@@ -1,0 +1,96 @@
+{
+  "id": "academics__faculty__directory__jie-xue-91e30dbe47",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/jie-xue",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/jie-xue",
+  "page_type": "academics",
+  "title": "Jie",
+  "description": "Jie Xue is an Assistant Professor of Computer Science at NYU Shanghai and an Associated Professor at the Tandon School of Engineering at NYU. Prior to this position, he was a postdoctoral scholar at the University of California, Santa Barbara. He obtained his PhD in Computer Science with a minor in",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Jie Xue\nJie Xue is an Assistant Professor of Computer Science at NYU Shanghai and an Associated Professor at the Tandon School of Engineering at NYU. Prior to this position, he was a postdoctoral scholar at the University of California, Santa Barbara. He obtained his PhD in Computer Science with a minor in Math at the University of Minnesota, Twin Cities. His research interests include computational geometry, algorithms, and data structures.\nSelect Publications\nSayan Bandyapadhyay*, William Lochet*, Daniel Lokshtanov*, Saket Saurabh*, Jie Xue*, \"Euclidean bottleneck Steiner tree is fixed-parameter tractable\". In the 35th ACM-SIAM Symposium on Discrete Algorithms (SODA), 2024.\nSayan Bandyapadhyay*, William Lochet*, Saket Saurabh*, Jie Xue*, \"Minimum-membership geometric set cover, revisited\". In the 39th International Symposium on Computational Geometry (SoCG), 2023.\nDaniel Lokshtanov*, Fahad Panolan*, Saket Saurabh*, Jie Xue*, Meirav Zehavi*, \"A framework for approximation schemes on disk graphs\". In the 34th ACM-SIAM Symposium on Discrete Algorithms (SODA), 2023.\nNeeraj Kumar*, Daniel Lokshtanov*, Saket Saurabh*, Subhash Suri*, Jie Xue*, \"Point separation and obstacle removal by finding and hitting odd cycles\". In the 38th International Symposium on Computational Geometry (SoCG), 2022.\nTimothy M. Chan*, Qizheng He*, Subhash Suri*, Jie Xue*, \"Dynamic geometric set cover, revisited\". In the 33th ACM-SIAM Symposium on Discrete Algorithms (SODA), 2022.\nEducation\nPhD, Computer ScienceUniversity of Minnesota, Twin Cities\nComputational Geometry\nAlgorithms\nData Structures\nGraph Theory\nParameterized Complexity",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Jie Xue"
+    },
+    {
+      "type": "p",
+      "text": "Jie Xue is an Assistant Professor of Computer Science at NYU Shanghai and an Associated Professor at the Tandon School of Engineering at NYU. Prior to this position, he was a postdoctoral scholar at the University of California, Santa Barbara. He obtained his PhD in Computer Science with a minor in Math at the University of Minnesota, Twin Cities. His research interests include computational geometry, algorithms, and data structures."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Sayan Bandyapadhyay*, William Lochet*, Daniel Lokshtanov*, Saket Saurabh*, Jie Xue*, \"Euclidean bottleneck Steiner tree is fixed-parameter tractable\". In the 35th ACM-SIAM Symposium on Discrete Algorithms (SODA), 2024."
+    },
+    {
+      "type": "li",
+      "text": "Sayan Bandyapadhyay*, William Lochet*, Saket Saurabh*, Jie Xue*, \"Minimum-membership geometric set cover, revisited\". In the 39th International Symposium on Computational Geometry (SoCG), 2023."
+    },
+    {
+      "type": "li",
+      "text": "Daniel Lokshtanov*, Fahad Panolan*, Saket Saurabh*, Jie Xue*, Meirav Zehavi*, \"A framework for approximation schemes on disk graphs\". In the 34th ACM-SIAM Symposium on Discrete Algorithms (SODA), 2023."
+    },
+    {
+      "type": "li",
+      "text": "Neeraj Kumar*, Daniel Lokshtanov*, Saket Saurabh*, Subhash Suri*, Jie Xue*, \"Point separation and obstacle removal by finding and hitting odd cycles\". In the 38th International Symposium on Computational Geometry (SoCG), 2022."
+    },
+    {
+      "type": "li",
+      "text": "Timothy M. Chan*, Qizheng He*, Subhash Suri*, Jie Xue*, \"Dynamic geometric set cover, revisited\". In the 33th ACM-SIAM Symposium on Discrete Algorithms (SODA), 2022."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Computer ScienceUniversity of Minnesota, Twin Cities"
+    },
+    {
+      "type": "li",
+      "text": "Computational Geometry"
+    },
+    {
+      "type": "li",
+      "text": "Algorithms"
+    },
+    {
+      "type": "li",
+      "text": "Data Structures"
+    },
+    {
+      "type": "li",
+      "text": "Graph Theory"
+    },
+    {
+      "type": "li",
+      "text": "Parameterized Complexity"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/jie_xue.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cs.shanghai.nyu.edu/faculty/jie-xue-xuejie",
+      "text": "https://cs.shanghai.nyu.edu/faculty/jie-xue-xuejie",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 228,
+  "crawled_at": "2026-06-09T04:40:36+00:00",
+  "sequence": 1298
+}

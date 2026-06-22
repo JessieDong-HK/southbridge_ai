@@ -1,0 +1,125 @@
+{
+  "id": "page__research-and-conferences-d819b6e8b2",
+  "url": "https://shanghai.nyu.edu/page/research-and-conferences",
+  "canonical_url": "https://shanghai.nyu.edu/page/research-and-conferences",
+  "page_type": "page",
+  "title": "Research and Conferences",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Research and Conferences\nNYU Shanghai continues the great tradition of universities that combine world-class research with exceptional teaching. Learn more about NYU Shanghai’s research centers and institutes.\nUndergraduate students at NYU Shanghai will have the opportunity to engage in student research opportunities. Students can also participate in a research study conducted by faculty and/or students at NYU Shanghai as a research participant.\nDeans' Undergraduate Research Fund (DURF): Students particularly interested in conducting research in Shanghai over the summer are encouraged to apply for the Deans’ Undergraduate Research Fund (DURF) awarded by the university.\nUndergraduate Research Symposiums: NYU Shanghai Academic Affairs provides opportunities for students to present their research work through the fall and spring semester Undergraduate Research Symposiums.\nPresentation at Academic Conference (PAC) Grants: These awards provide limited funding for approved undergraduates at NYU Shanghai who have been selected to present their own original research at an academic conference related to their area of study. Please see the instructions for how to apply for Presentation at Academic Conference Grants.\nUndergraduate Student Research Opportunities\nDeans' Undergraduate Research Fund\nUndergraduate Research Symposium and Conferences\nResearch Participation Opportunities",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Research and Conferences"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai continues the great tradition of universities that combine world-class research with exceptional teaching. Learn more about NYU Shanghai’s research centers and institutes."
+    },
+    {
+      "type": "p",
+      "text": "Undergraduate students at NYU Shanghai will have the opportunity to engage in student research opportunities. Students can also participate in a research study conducted by faculty and/or students at NYU Shanghai as a research participant."
+    },
+    {
+      "type": "p",
+      "text": "Deans' Undergraduate Research Fund (DURF): Students particularly interested in conducting research in Shanghai over the summer are encouraged to apply for the Deans’ Undergraduate Research Fund (DURF) awarded by the university."
+    },
+    {
+      "type": "p",
+      "text": "Undergraduate Research Symposiums: NYU Shanghai Academic Affairs provides opportunities for students to present their research work through the fall and spring semester Undergraduate Research Symposiums."
+    },
+    {
+      "type": "p",
+      "text": "Presentation at Academic Conference (PAC) Grants: These awards provide limited funding for approved undergraduates at NYU Shanghai who have been selected to present their own original research at an academic conference related to their area of study. Please see the instructions for how to apply for Presentation at Academic Conference Grants."
+    },
+    {
+      "type": "h4",
+      "text": "Undergraduate Student Research Opportunities"
+    },
+    {
+      "type": "h4",
+      "text": "Deans' Undergraduate Research Fund"
+    },
+    {
+      "type": "h4",
+      "text": "Undergraduate Research Symposium and Conferences"
+    },
+    {
+      "type": "h4",
+      "text": "Research Participation Opportunities"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/opportunities_2.jpg",
+      "alt": "Summer Undergraduate Research Opportunities",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/opportunities_2-6ae5e77045aa.jpg",
+      "download_status": "downloaded",
+      "bytes": 297982,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/opportunities_3.jpg",
+      "alt": "Deans' Undergraduate Research Fund",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/opportunities_4.jpg",
+      "alt": "Undergraduate Research Symposium and Conferences",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/opportunities_4-52517ee2a8e5.jpg",
+      "download_status": "downloaded",
+      "bytes": 422250,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/opportunities_5.jpg",
+      "alt": "Research Participation Opportunities",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://research.shanghai.nyu.edu/centers-and-institutes",
+      "text": "NYU Shanghai’s research centers and institutes",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/research-opportunities/student-research-opportunities",
+      "text": "student research opportunities",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/page/research-participation-opportunities",
+      "text": "participate in a research study",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/undergraduate-research",
+      "text": "Deans’ Undergraduate Research Fund",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/content/undergraduate-research-symposium-and-conferences",
+      "text": "Undergraduate Research Symposiums",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 188,
+  "crawled_at": "2026-06-09T04:31:13+00:00",
+  "sequence": 429
+}

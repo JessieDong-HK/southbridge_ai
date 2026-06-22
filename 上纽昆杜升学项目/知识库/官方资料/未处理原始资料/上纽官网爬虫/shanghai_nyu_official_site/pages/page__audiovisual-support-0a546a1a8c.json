@@ -1,0 +1,128 @@
+{
+  "id": "page__audiovisual-support-0a546a1a8c",
+  "url": "https://shanghai.nyu.edu/page/audiovisual-support",
+  "canonical_url": "https://shanghai.nyu.edu/page/audiovisual-support",
+  "page_type": "page",
+  "title": "Audio/Visual Support",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Audio/Visual Support\nThe classrooms, meeting rooms, lecture halls, and the auditorium on campus are equipped with audio and visual equipment, such as projectors, LED TVs, overhead projectors, blu-ray DVD players, microphones, and video conferencing systems.\nWho is this equipment available to?\nCurrent NYU community members\nHow much does it cost to use equipment?\nPlease refer to the Guidelines for Registering events in NYU Shanghai\nHow can users access this service?\nFor Classroom and conference room support, Video Recording, please email to shanghai.it.help@nyu.edu\nNeed help?\nSubmit a request on support.nyu.edu\nSend a request through WeChat\nEmail to shanghai.it.help@nyu.edu\nVisit the IT Service Center: Room N525 @ New Bund Campus\nFAQs and more\nSmall Classroom (20 person) Technical Guide\nTechnical Guide for Medium, and Large Classrooms (50-60 person)\nSmart Classrooms Instructions\nSpace Management System (Shanghai): Reserving Classrooms & Study Rooms",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Audio/Visual Support"
+    },
+    {
+      "type": "p",
+      "text": "The classrooms, meeting rooms, lecture halls, and the auditorium on campus are equipped with audio and visual equipment, such as projectors, LED TVs, overhead projectors, blu-ray DVD players, microphones, and video conferencing systems."
+    },
+    {
+      "type": "h2",
+      "text": "Who is this equipment available to?"
+    },
+    {
+      "type": "p",
+      "text": "Current NYU community members"
+    },
+    {
+      "type": "h2",
+      "text": "How much does it cost to use equipment?"
+    },
+    {
+      "type": "p",
+      "text": "Please refer to the Guidelines for Registering events in NYU Shanghai"
+    },
+    {
+      "type": "h2",
+      "text": "How can users access this service?"
+    },
+    {
+      "type": "p",
+      "text": "For Classroom and conference room support, Video Recording, please email to shanghai.it.help@nyu.edu"
+    },
+    {
+      "type": "h2",
+      "text": "Need help?"
+    },
+    {
+      "type": "li",
+      "text": "Submit a request on support.nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Send a request through WeChat"
+    },
+    {
+      "type": "li",
+      "text": "Email to shanghai.it.help@nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Visit the IT Service Center: Room N525 @ New Bund Campus"
+    },
+    {
+      "type": "h2",
+      "text": "FAQs and more"
+    },
+    {
+      "type": "li",
+      "text": "Small Classroom (20 person) Technical Guide"
+    },
+    {
+      "type": "li",
+      "text": "Technical Guide for Medium, and Large Classrooms (50-60 person)"
+    },
+    {
+      "type": "li",
+      "text": "Smart Classrooms Instructions"
+    },
+    {
+      "type": "li",
+      "text": "Space Management System (Shanghai): Reserving Classrooms & Study Rooms"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/Guidelines_for_Registering_Events_at_NYU_Shanghai.pdf",
+      "text": "Guidelines for Registering events in NYU Shanghai",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=sc_cat_item&sys_id=5110048e1bd85a103f31a9b6624bcb5d",
+      "text": "Submit a request on support.nyu.edu",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011955",
+      "text": "Send a request through WeChat",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/20_person_classroom_technical_guide.pdf",
+      "text": "Small Classroom (20 person) Technical Guide",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/50_60_person_classroom_technical_guide.pdf",
+      "text": "Technical Guide for Medium, and Large Classrooms",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/50_person_classroom_with_Ceiling_Mic_technical_guide.pdf",
+      "text": "Smart Classrooms Instructions",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011972",
+      "text": "Space Management System (Shanghai): Reserving Classrooms & Study Rooms",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 149,
+  "crawled_at": "2026-06-09T04:31:50+00:00",
+  "sequence": 487
+}

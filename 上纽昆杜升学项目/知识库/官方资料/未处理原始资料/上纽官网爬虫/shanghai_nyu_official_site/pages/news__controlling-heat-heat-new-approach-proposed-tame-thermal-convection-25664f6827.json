@@ -1,0 +1,107 @@
+{
+  "id": "news__controlling-heat-heat-new-approach-proposed-tame-thermal-convection-25664f6827",
+  "url": "https://shanghai.nyu.edu/news/controlling-heat-heat-new-approach-proposed-tame-thermal-convection",
+  "canonical_url": "https://shanghai.nyu.edu/news/controlling-heat-heat-new-approach-proposed-tame-thermal-convection",
+  "page_type": "news",
+  "title": "Controlling Heat with Heat: New Approach Proposed to Tame Thermal Convection",
+  "description": "A new approach proposed to controlling thermal convection by adding an additional, horizontal heat flux.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Controlling Heat with Heat: New Approach Proposed to Tame Thermal Convection\nTwitter\nFacebook\nWeibo\nWhen boiling a pot of water, the heated fluid rises from the bottom, carrying the thermal energy along. Such fluid motion is called thermal convection, which is an efficient way for heat transfer. Controlling thermal convection - either enhancing or reducing it - is a recent focus of fluid dynamics and thermal engineering with some exciting potential applications. For example, precise control of thermal convection in buildings could lead to more efficient ventilation and energy preservation strategies.\nIn a recent study, NYU Shanghai Assistant Professor of Mathematics Jinzi Mac Huang and Professor of Physics and Mathematics Jun Zhang propose a new approach to controlling thermal convection by adding an additional, horizontal heat flux. The study has been published in the Journal of Fluid Mechanics, a leading international journal in the field.\nThere are many similarities between thermal, electronic, and fluid systems. In the electronic system, the control of currents can be realized by transistors, which are the active components of integrated circuits, or “microchips” and thus, the basis of any modern electronic device. “The purpose of this study is to explore whether there’s a way to realize the control function of transistors in a fluid system,” Huang said.\nPrior research on heat transfer in fluids mostly involved using mechanical parts to modify the thermal convection process, which can be considered analogous to using stirring rods to help cool a cup of water, Huang explained. “Without installing any moving part, our newly proposed mechanism controls thermal convection by adding a horizontal heat flux: we apply heat to one sidewall while removing the same amount of heat from the opposite side. As the hotter, more buoyant fluid rises from one side and the cooler, heavier fluid sinks from the other side, circulation is created. And the whole convection process can be precisely controlled by adjusting the added flux.”\nIllustration of the proposed thermal control mechanism\nThrough numerically testing a large range of parameters, the team systematically investigated the dynamical and thermal properties of this novel mechanism, and discovered an enhancement of heat transport and flow circulation as hypothesized. “This study shows there is a possibility to actively control the heat transport of thermal convection by adjusting a control signal, therefore achieving a thermal purpose quite similar to the celebrated electronic transistor,” said Zhang. “Currently, our lab is working on further quantifying the mechanism and building the first prototype of this thermal transistor in the lab. With this first step, we look forward to more exciting possibilities, such as creating thermal circuits someday in the future.”",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Controlling Heat with Heat: New Approach Proposed to Tame Thermal Convection"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "When boiling a pot of water, the heated fluid rises from the bottom, carrying the thermal energy along. Such fluid motion is called thermal convection, which is an efficient way for heat transfer. Controlling thermal convection - either enhancing or reducing it - is a recent focus of fluid dynamics and thermal engineering with some exciting potential applications. For example, precise control of thermal convection in buildings could lead to more efficient ventilation and energy preservation strategies."
+    },
+    {
+      "type": "p",
+      "text": "In a recent study, NYU Shanghai Assistant Professor of Mathematics Jinzi Mac Huang and Professor of Physics and Mathematics Jun Zhang propose a new approach to controlling thermal convection by adding an additional, horizontal heat flux. The study has been published in the Journal of Fluid Mechanics, a leading international journal in the field."
+    },
+    {
+      "type": "p",
+      "text": "There are many similarities between thermal, electronic, and fluid systems. In the electronic system, the control of currents can be realized by transistors, which are the active components of integrated circuits, or “microchips” and thus, the basis of any modern electronic device. “The purpose of this study is to explore whether there’s a way to realize the control function of transistors in a fluid system,” Huang said."
+    },
+    {
+      "type": "p",
+      "text": "Prior research on heat transfer in fluids mostly involved using mechanical parts to modify the thermal convection process, which can be considered analogous to using stirring rods to help cool a cup of water, Huang explained. “Without installing any moving part, our newly proposed mechanism controls thermal convection by adding a horizontal heat flux: we apply heat to one sidewall while removing the same amount of heat from the opposite side. As the hotter, more buoyant fluid rises from one side and the cooler, heavier fluid sinks from the other side, circulation is created. And the whole convection process can be precisely controlled by adjusting the added flux.”"
+    },
+    {
+      "type": "p",
+      "text": "Illustration of the proposed thermal control mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Through numerically testing a large range of parameters, the team systematically investigated the dynamical and thermal properties of this novel mechanism, and discovered an enhancement of heat transport and flow circulation as hypothesized. “This study shows there is a possibility to actively control the heat transport of thermal convection by adjusting a control signal, therefore achieving a thermal purpose quite similar to the celebrated electronic transistor,” said Zhang. “Currently, our lab is working on further quantifying the mechanism and building the first prototype of this thermal transistor in the lab. With this first step, we look forward to more exciting possibilities, such as creating thermal circuits someday in the future.”"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/research_news_-_jan_0.jpg?itok=I4joYoLB",
+      "alt": "jmf",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/research_news_-_jan_0-adaa069dffaf.jpg",
+      "download_status": "downloaded",
+      "bytes": 34618,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/jfm.png",
+      "alt": "jmf",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/jfm-8b21c3eb3c10.png",
+      "download_status": "downloaded",
+      "bytes": 910298,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Controlling%20Heat%20with%20Heat%3A%20New%20Approach%20Proposed%20to%20Tame%20Thermal%20Convection&url=https%3A//shanghai.nyu.edu/news/controlling-heat-heat-new-approach-proposed-tame-thermal-convection&status=Controlling%20Heat%20with%20Heat%3A%20New%20Approach%20Proposed%20to%20Tame%20Thermal%20Convection%20https%3A//shanghai.nyu.edu/news/controlling-heat-heat-new-approach-proposed-tame-thermal-convection",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/controlling-heat-heat-new-approach-proposed-tame-thermal-convection&title=Controlling%20Heat%20with%20Heat%3A%20New%20Approach%20Proposed%20to%20Tame%20Thermal%20Convection",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/controlling-heat-heat-new-approach-proposed-tame-thermal-convection&title=Controlling%20Heat%20with%20Heat%3A%20New%20Approach%20Proposed%20to%20Tame%20Thermal%20Convection",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jinzi-mac-huang",
+      "text": "Jinzi Mac Huang",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jun-zhang",
+      "text": "Jun Zhang",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 436,
+  "crawled_at": "2026-06-09T04:40:45+00:00",
+  "sequence": 1321
+}

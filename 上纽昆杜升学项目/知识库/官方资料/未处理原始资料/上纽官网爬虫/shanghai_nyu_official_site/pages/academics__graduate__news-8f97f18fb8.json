@@ -1,0 +1,240 @@
+{
+  "id": "academics__graduate__news-8f97f18fb8",
+  "url": "https://shanghai.nyu.edu/academics/graduate/news?page=5",
+  "canonical_url": "https://shanghai.nyu.edu/academics/graduate/news",
+  "page_type": "academics",
+  "title": "Graduate News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Graduate News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Graduate News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/ling_mei1.jpg?itok=oFnYh-9P",
+      "alt": "Ling Mei cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/yan_jiu_sheng_cover.jpg?itok=_m1r502o",
+      "alt": "2021 master's convocation 8",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/_dsc1328.jpg.preset.6001.jpeg?itok=XAhIbU8N",
+      "alt": "Ima",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/itp_banner_photo.jpeg?itok=kbjEvMSh",
+      "alt": "ITP banner photo",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/itp_banner_photo-ac30a6cd9e59.jpeg",
+      "download_status": "downloaded",
+      "bytes": 22747,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/marek1.jpg?itok=ELmIFRud",
+      "alt": "marek tim byrnes research quantum physics",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/web_bannerholly-01.jpg?itok=rUULzoc8",
+      "alt": "Sean Welleck banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/web_bannerholly-01.jpg?itok=rUULzoc8 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of pr"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/wechatimg1.jpeg?itok=LFUO4Vdk",
+      "alt": "christina dan wang volatility modeling2",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg1-4a27e0d91b5a.jpeg",
+      "download_status": "downloaded",
+      "bytes": 21313,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/wechatimg2.jpeg?itok=M1FWEANV",
+      "alt": "grace haaf marketing analytics3",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg2-7d3256596693.jpeg",
+      "download_status": "downloaded",
+      "bytes": 17860,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/website_image_-_kentei-01_0.jpg?itok=xsOaTD2S",
+      "alt": "kentei takaya making better teachers9",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/sociology_phd_cover_3.jpg?itok=QJySgQfC",
+      "alt": "sociology phd 1",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/cover4.jpg?itok=zpH7sXv9",
+      "alt": "Amiel Paz won outstanding award",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/cover4-44fab455be1a.jpg",
+      "download_status": "downloaded",
+      "bytes": 19547,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/stern_orientation_banner.jpg?itok=DV8RAsIW",
+      "alt": "stern orientation - banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/li_yimeng_website.jpg?itok=4bdinOUO",
+      "alt": "li yimeng cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/li_yimeng_website.jpg?itok=4bdinOUO (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of pro"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/xu_feng_website.jpg?itok=NKI7h50o",
+      "alt": "xu feng cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/1309381234.jpg?itok=zj49v8zu",
+      "alt": "Professor shows workshop space to student group",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/1309381234.jpg?itok=zj49v8zu (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol ("
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/ling-mei-ma-tesol-21-teaching-chinese-saudi-arabia",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-celebrates-105-graduates-second-masters-convocation",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/ima-low-res-students-show-work-shanghai-yuz-museum",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-tisch-students-stage-first-ever-interactive-telecommunications-spring-show-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-scientists-develop-method-teleporting-quantum-states-using-majorana-fermions",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-awards-first-ever-phd",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/msqf-course-spotlight-volatility-modeling",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/msdabc-course-spotlight-marketing-analytics",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/kentei-takaya-making-better-teachers",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-launches-new-sociology-phd",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-chemistry-phd-student-won-outstanding-award-virtual-conference",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/second-class-nyu-shanghai-stern-ms-students-start-new-semester",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/graduate-student-spotlight-li-yimeng-20-ms-quantitative-finance",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/graduate-student-spotlight-xu-feng-ma20",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/university-welcomes-1st-interactive-media-arts-ma-class-among-172-new-grad-students",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:42:53+00:00",
+  "sequence": 1511
+}

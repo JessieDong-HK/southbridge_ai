@@ -1,0 +1,35 @@
+{
+  "id": "academics__faculty__directory__minghong-shen-fc0f7a084a",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/minghong-shen",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/minghong-shen",
+  "page_type": "academics",
+  "title": "Minghong",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Minghong Shen",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Minghong Shen"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Shanghai%20Mascot_12.jpeg",
+      "alt": "Shanghai Mascot",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Shanghai-20Mascot_12-5deee30b4ba5.jpeg",
+      "download_status": "downloaded",
+      "bytes": 103793,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:53:09+00:00",
+  "sequence": 2344
+}

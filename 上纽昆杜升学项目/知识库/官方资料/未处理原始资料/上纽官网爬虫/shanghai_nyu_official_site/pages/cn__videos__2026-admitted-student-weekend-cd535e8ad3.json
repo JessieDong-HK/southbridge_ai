@@ -1,0 +1,274 @@
+{
+  "id": "cn__videos__2026-admitted-student-weekend-cd535e8ad3",
+  "url": "https://shanghai.nyu.edu/cn/videos/2026-admitted-student-weekend?page=2",
+  "canonical_url": "https://shanghai.nyu.edu/cn/videos/2026-admitted-student-weekend",
+  "page_type": "cn",
+  "title": "2026 录取学生周活动",
+  "description": "",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "2026 录取学生周活动\nTwitter\nFacebook\nWeibo",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "2026 录取学生周活动"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-04/TechTrek-cover.jpg?itok=hWjiB0M3",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/TechTrek-cover-833f68f3ba58.jpg",
+      "download_status": "downloaded",
+      "bytes": 30089,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-03/student_involvementcover.jpg?itok=2ilyfkZa",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/student_involvementcover-36c20523b91b.jpg",
+      "download_status": "downloaded",
+      "bytes": 23993,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-01/CO24%20FD%20Chinese%20cover.jpg?itok=wWLwCjGI",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/CO24-20FD-20Chinese-20cover-00cc625130f1.jpg",
+      "download_status": "downloaded",
+      "bytes": 22730,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2024-10/2024-farnival.png?itok=rPJzg8d2",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2024-farnival-52e4a757966b.png",
+      "download_status": "downloaded",
+      "bytes": 375233,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2024-10/2024virtual-tour-cover1.jpg?itok=_n1YB8lS",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2024-09/movein-cov.jpg?itok=XoWQAwEQ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/movein-cov-184ac7ab9486.jpg",
+      "download_status": "downloaded",
+      "bytes": 24561,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2024-09/vi-cv.jpg?itok=NznFUrnC",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/vi-cv-9320c01dbdeb.jpg",
+      "download_status": "downloaded",
+      "bytes": 16638,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2024-08/2024Ho-Bin-Kim.jpg?itok=JzgzAEVj",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/2024-08/2024Ho-Bin-Kim.jpg?itok=JzgzAEVj (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol ("
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2024-08/2024-nyush-movein.jpg?itok=HJfU6wdF",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2024-nyush-movein-709870918937.jpg",
+      "download_status": "downloaded",
+      "bytes": 29583,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/basketball-cover.jpg?itok=DPM_pq35",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/basketball-cover-57b1003b83f3.jpg",
+      "download_status": "downloaded",
+      "bytes": 49146,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/videopsoter-summer_0.jpg?itok=F_6R71fR",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/videopsoter-summer_0-81472222487c.jpg",
+      "download_status": "downloaded",
+      "bytes": 45892,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/video-capture-0.00seg-9188_0.png?itok=JQD7g7dq",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/video-capture-0.00seg-9188_0.png?itok=JQD7g7dq (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred i"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/rr300132-min.jpg?itok=E8JaEGDj",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/nyush_ad.jpg?itok=6om9x0dJ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyush_ad-fa181bca84dd.jpg",
+      "download_status": "downloaded",
+      "bytes": 16168,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/wechatimg7691_0.jpeg?itok=eRWXHjIF",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg7691_0-5294801de6f9.jpeg",
+      "download_status": "downloaded",
+      "bytes": 32156,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=2026%20%E5%BD%95%E5%8F%96%E5%AD%A6%E7%94%9F%E5%91%A8%E6%B4%BB%E5%8A%A8&url=https%3A//shanghai.nyu.edu/cn/videos/2026-admitted-student-weekend&status=2026%20%E5%BD%95%E5%8F%96%E5%AD%A6%E7%94%9F%E5%91%A8%E6%B4%BB%E5%8A%A8%20https%3A//shanghai.nyu.edu/cn/videos/2026-admitted-student-weekend",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/cn/videos/2026-admitted-student-weekend&title=2026%20%E5%BD%95%E5%8F%96%E5%AD%A6%E7%94%9F%E5%91%A8%E6%B4%BB%E5%8A%A8",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/cn/videos/2026-admitted-student-weekend&title=2026%20%E5%BD%95%E5%8F%96%E5%AD%A6%E7%94%9F%E5%91%A8%E6%B4%BB%E5%8A%A8",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/videos/techtrek-nyush",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/videos/student-involvementnyu-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/videos/shang-hai-niu-yue-da-xue2024-jie-ben-ke-bi-ye-sheng-jiu-ye-zhi-liang-bao-gao",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/videos/2024-farnival",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/videos/vertual-campur-tour",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/videos/2024-study-away-movein",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/videos/nyu-shanghai-overall-2024",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/videos/alumnus-returns-shanghai-resident-artist",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/videos/2024-movein",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/videos/nyu-basketball-teams-shanghai-visit",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/videos/summer-sessions-nyu-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/videos/2024-commencement-recap",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/videos/2024-tribute-video",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/videos/2024-admitted-student-weekend",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/videos/nyu-alumni-executive-mentor-program-10th-anniversary",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 5,
+  "crawled_at": "2026-06-09T04:45:04+00:00",
+  "sequence": 1644
+}

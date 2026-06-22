@@ -1,0 +1,241 @@
+{
+  "id": "news-d480a421fe",
+  "url": "https://shanghai.nyu.edu/news?page=1",
+  "canonical_url": "https://shanghai.nyu.edu/news",
+  "page_type": "news",
+  "title": "News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/new_research_examines_how_short_selling_can_intensify_stock_market_volatility.jpg?itok=aQxshFG0",
+      "alt": "short selling",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/new_research_examines_how_short_selling_can_intensif-ef3d579456c2.jpg",
+      "download_status": "downloaded",
+      "bytes": 19544,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/rengongzhinengyuxinxingjishutuijinlaolingkeyanxueshuyantaohuizaishanghainiuyuedaxuejuxing-01.jpg?itok=IUIKKjlG",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/rengongzhinengyuxinxingjishutuijinlaolingkeyanxueshu-e32092f65d93.jpg",
+      "download_status": "downloaded",
+      "bytes": 39504,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/intersecting_ideas_at_nexus_tedxnyushanghais_9th_annual_conference-01.jpg?itok=pbZkxDAX",
+      "alt": "tedxnyushanghai club photo",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/campus_welcomes_prospective_violets_to_campus-01.jpg?itok=XRbKvG5S",
+      "alt": "admitted student weekend",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/your_mouth_may_hold_clues_to_how_fast_youre_aging-01.jpg?itok=Ct74RM-b",
+      "alt": "wu bei study",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/your_mouth_may_hold_clues_to_how_fast_youre_aging-01.jpg?itok=Ct74RM-b (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READIN"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/making_memories_sfuc_comes_to_nyu_shanghai-01.jpg?itok=jN5I64He",
+      "alt": "womens soccer team",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/making_memories_sfuc_comes_to_nyu_shanghai-01-d29512209075.jpg",
+      "download_status": "downloaded",
+      "bytes": 29544,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/yongyuanbuyaobeiguanzhangwenhongjiaoshoushangniudakaijiang-01.jpg?itok=zbxNal61",
+      "alt": "zhangwenhong",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/is_france_really_a_melting_pot_-01.jpg?itok=hyiR7jmY",
+      "alt": "french study",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/is_france_really_a_melting_pot_-01.jpg?itok=hyiR7jmY (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/deans_service_corp_trip-01.jpg?itok=EZx0CLBX",
+      "alt": "DSC",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/chen_chong-2.jpg?itok=HEbMY0D9",
+      "alt": "joanchen",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/chen_chong-2-762f37fb093d.jpg",
+      "download_status": "downloaded",
+      "bytes": 10653,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/why_hard_work_no_longer_feels_like_the_whole_story-2.jpg?itok=K2ESA-Nx",
+      "alt": "hard work story",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/space_to_know_-_athletics-01.jpg?itok=7Raqku_h",
+      "alt": "Student athletes",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/students_compete_in_digital_innovation_challenge-01.jpg?itok=s5lMdtEl",
+      "alt": "dic",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/steminars_bring_researchers_together.jpg?itok=AEntocV8",
+      "alt": "mac huang",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/steminars_bring_researchers_together-0f848104d02e.jpg",
+      "download_status": "downloaded",
+      "bytes": 21711,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/shanghainiuyuedaxuexieshoukongxiangdongshangyanchunzhishengyinlehui-01.jpg?itok=xYWfGyMs",
+      "alt": "The audience joined in for a rendition of “The Same Song”",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/new-research-examines-how-short-selling-can-intensify-stock-market-volatility",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-hosts-seminar-technology-and-aging",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/intersecting-ideas-nexus-tedxnyushanghais-9th-annual-conference",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/welcome-admitted-students-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/your-mouth-may-hold-clues-how-fast-youre-aging",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/making-memories-sfuc-comes-nyu-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/never-be-pessimistic-professor-zhang-wenhong-speaks-climate-and-public-health",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/new-research-asks-what-makes-melting-pot",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/dsc-trips-turn-spring-break-service",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/joan-chen-speak-nyu-shanghais-2026-commencement",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/why-hard-work-no-longer-feels-whole-story",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/spaces-know-get-moving-campus",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/students-compete-digital-innovation-challenge",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/steminars-bring-researchers-together",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/sounds-spring-concert-highlights-nyu-shanghai-and-kong-xiangdong",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:29:50+00:00",
+  "sequence": 248
+}

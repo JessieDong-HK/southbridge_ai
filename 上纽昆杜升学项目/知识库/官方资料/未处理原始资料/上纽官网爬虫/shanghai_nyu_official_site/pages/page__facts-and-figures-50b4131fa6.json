@@ -1,0 +1,34 @@
+{
+  "id": "page__facts-and-figures-50b4131fa6",
+  "url": "https://shanghai.nyu.edu/page/facts-and-figures",
+  "canonical_url": "https://shanghai.nyu.edu/page/facts-and-figures",
+  "page_type": "page",
+  "title": "Facts and Figures",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Facts and Figures\nWant to see more data? Go to Institutional Research to get started.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Facts and Figures"
+    },
+    {
+      "type": "p",
+      "text": "Want to see more data? Go to Institutional Research to get started."
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/about/institutional-research",
+      "text": "Institutional Research",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 15,
+  "crawled_at": "2026-06-09T04:27:55+00:00",
+  "sequence": 12
+}

@@ -1,0 +1,30 @@
+{
+  "id": "animatedmagazine__step-inside-nyu-shanghai-4fbb3f70f3",
+  "url": "https://shanghai.nyu.edu/animatedmagazine/step-inside-nyu-shanghai",
+  "canonical_url": "https://shanghai.nyu.edu/animatedmagazine/step-inside-nyu-shanghai",
+  "page_type": "animatedmagazine",
+  "title": "Step Inside NYU Shanghai",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Step Inside NYU Shanghai",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Step Inside NYU Shanghai"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/NYU-shanghai-Brochure-2024-en.pdf",
+      "text": "https://shanghai.nyu.edu/sites/default/files/NYU-shanghai-Brochure-2024-en.pdf",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 4,
+  "crawled_at": "2026-06-09T04:28:29+00:00",
+  "sequence": 82
+}

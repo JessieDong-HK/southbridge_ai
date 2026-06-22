@@ -1,0 +1,176 @@
+{
+  "id": "stories__guo-li-helm-data-science-and-teaching-24c58ded9d",
+  "url": "https://shanghai.nyu.edu/stories/guo-li-helm-data-science-and-teaching",
+  "canonical_url": "https://shanghai.nyu.edu/stories/guo-li-helm-data-science-and-teaching",
+  "page_type": "stories",
+  "title": "Guo Li: At the Helm of Data Science and Teaching",
+  "description": "Meet Guo Li, a star data scientist, professor, and mentor at NYU Shanghai.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Guo Li: At the Helm of Data Science and Teaching\nTwitter\nFacebook\nWeibo\nMeet Guo Li, a star data scientist, professor, and mentor at NYU Shanghai. Previously, she was a data scientist at Kelly Blue Book, an American automotive research company that valuates the cost of vehicles, and then at Alibaba, one of the world’s largest retailers and e-commerce companies. But after discovering her love for teaching, Guo found herself gravitating toward academia. We speak with Guo about her journey to NYU Shanghai, and how her expertise in data science has shaped her work.\nGuo Li teaches a data science class.\nWhat inspired your interest in data science and statistical analysis?\nIn my undergraduate career, I was confused about what my passion was. Somehow, after one year in business school, I found that all the knowledge I learned was intangible and soft skills, so I transferred to something very different, which was biology. Biology wasn’t what I expected. I wanted to go to medical school at the time, which was a long shot, so then I figured that math and statistics are something you always need in any career.\nAt the time, there was no data science. There was only statistics. I picked statistics because it's kind of mathematical, and it's more closely related to application. I think this is the beauty of data science, too. You’re always going to need data science in whichever industry you're working [in].\nLeft: Guo representing KBB at LA auto show in 2016. Right: Guo built an interactive AI game at the 2018 Yunqi Conference held by Alibaba\nHow have your previous roles shaped your career?\nI really got to experience how data science is used in different industries. At Kelly Blue Book, the focus is more on traditional applications, and you can see how data science model technologies are used to optimize business operations.\nFor Alibaba, it’s more technology companies and internet companies. So I have worked on a large variety of different projects including recommendations, search engines, and computer vision. That's the time when I got into the field of deep learning and computer vision, which is the ability of a computer to recognize objects and faces.\nBecause I was on the research team of Alibaba and the team was responsible for search engine and l computer vision related area, and the atmosphere was very competitive. And it's also inspiring because all the colleagues were frontier researchers. That's when I really heavily invested in deep learning and artificial intelligence.\n[But] Alibaba is more of a typical Chinese private company– there is a very strict hierarchy. I didn’t like the culture of the company.\nWhy did you move into academia?\nIn 2019, the data science department at NYU Shanghai was rapidly growing, and we have a lot of very established researchers over here, which I thought would be a very good opportunity for myself, because I could work with these active researchers in academia.\nI think I'm a good teacher. I especially like teaching machine learning or computer vision, especially when students get really engaged in the class, when they all come to my office hours. I think that's very rewarding.\nWhat are the biggest challenges and opportunities in natural language processing and computer vision?\nI think this area is very competitive, and it's also developing very fast. So you really need to invest a lot of time to get up to date with the newest developments in the field.\nA lot of the research right now heavily depends on the computation power. So you need to have abundant computation resources and be very proficient in programming to make sure that you can quickly implement the algorithm.\nThe challenge also lies in the size of the data set right now. For example, the foundational models are really pushing the boundary of the data. A lot of the data are actually not accessible to individual researchers. That could also be a bottleneck. Even though these foundational model are very powerful, issues related to robustness, fairness, and adaptablity are still critical. Developing models that more flexible, fair, and reliable is still a challenge in the field.\nWhat do you find most exciting about working with students in data science?\nThe most exciting part is to see the students grow. I think it's a win-win situation because I myself get motivated by the students and the students get motivated by me. For example, Liu Haoming– he is a current PhD student who worked with me as my research assistant before.\nI see myself not only as a supervisor but also as a friend. We have many conversations, both about work and our shared passion for research. I remember him telling me that sometimes, even while brushing his teeth at night, he finds himself thinking about the research questions. His enthusiasm for research is truly inspiring and motivates me in return. In addition, the students really enjoy the research experience; they find it both engaging and rewarding.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Guo Li: At the Helm of Data Science and Teaching"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Meet Guo Li, a star data scientist, professor, and mentor at NYU Shanghai. Previously, she was a data scientist at Kelly Blue Book, an American automotive research company that valuates the cost of vehicles, and then at Alibaba, one of the world’s largest retailers and e-commerce companies. But after discovering her love for teaching, Guo found herself gravitating toward academia. We speak with Guo about her journey to NYU Shanghai, and how her expertise in data science has shaped her work."
+    },
+    {
+      "type": "figcaption",
+      "text": "Guo Li teaches a data science class."
+    },
+    {
+      "type": "p",
+      "text": "What inspired your interest in data science and statistical analysis?"
+    },
+    {
+      "type": "p",
+      "text": "In my undergraduate career, I was confused about what my passion was. Somehow, after one year in business school, I found that all the knowledge I learned was intangible and soft skills, so I transferred to something very different, which was biology. Biology wasn’t what I expected. I wanted to go to medical school at the time, which was a long shot, so then I figured that math and statistics are something you always need in any career."
+    },
+    {
+      "type": "p",
+      "text": "At the time, there was no data science. There was only statistics. I picked statistics because it's kind of mathematical, and it's more closely related to application. I think this is the beauty of data science, too. You’re always going to need data science in whichever industry you're working [in]."
+    },
+    {
+      "type": "figcaption",
+      "text": "Left: Guo representing KBB at LA auto show in 2016. Right: Guo built an interactive AI game at the 2018 Yunqi Conference held by Alibaba"
+    },
+    {
+      "type": "p",
+      "text": "How have your previous roles shaped your career?"
+    },
+    {
+      "type": "p",
+      "text": "I really got to experience how data science is used in different industries. At Kelly Blue Book, the focus is more on traditional applications, and you can see how data science model technologies are used to optimize business operations."
+    },
+    {
+      "type": "p",
+      "text": "For Alibaba, it’s more technology companies and internet companies. So I have worked on a large variety of different projects including recommendations, search engines, and computer vision. That's the time when I got into the field of deep learning and computer vision, which is the ability of a computer to recognize objects and faces."
+    },
+    {
+      "type": "p",
+      "text": "Because I was on the research team of Alibaba and the team was responsible for search engine and l computer vision related area, and the atmosphere was very competitive. And it's also inspiring because all the colleagues were frontier researchers. That's when I really heavily invested in deep learning and artificial intelligence."
+    },
+    {
+      "type": "p",
+      "text": "[But] Alibaba is more of a typical Chinese private company– there is a very strict hierarchy. I didn’t like the culture of the company."
+    },
+    {
+      "type": "p",
+      "text": "Why did you move into academia?"
+    },
+    {
+      "type": "p",
+      "text": "In 2019, the data science department at NYU Shanghai was rapidly growing, and we have a lot of very established researchers over here, which I thought would be a very good opportunity for myself, because I could work with these active researchers in academia."
+    },
+    {
+      "type": "p",
+      "text": "I think I'm a good teacher. I especially like teaching machine learning or computer vision, especially when students get really engaged in the class, when they all come to my office hours. I think that's very rewarding."
+    },
+    {
+      "type": "p",
+      "text": "What are the biggest challenges and opportunities in natural language processing and computer vision?"
+    },
+    {
+      "type": "p",
+      "text": "I think this area is very competitive, and it's also developing very fast. So you really need to invest a lot of time to get up to date with the newest developments in the field."
+    },
+    {
+      "type": "p",
+      "text": "A lot of the research right now heavily depends on the computation power. So you need to have abundant computation resources and be very proficient in programming to make sure that you can quickly implement the algorithm."
+    },
+    {
+      "type": "p",
+      "text": "The challenge also lies in the size of the data set right now. For example, the foundational models are really pushing the boundary of the data. A lot of the data are actually not accessible to individual researchers. That could also be a bottleneck. Even though these foundational model are very powerful, issues related to robustness, fairness, and adaptablity are still critical. Developing models that more flexible, fair, and reliable is still a challenge in the field."
+    },
+    {
+      "type": "p",
+      "text": "What do you find most exciting about working with students in data science?"
+    },
+    {
+      "type": "p",
+      "text": "The most exciting part is to see the students grow. I think it's a win-win situation because I myself get motivated by the students and the students get motivated by me. For example, Liu Haoming– he is a current PhD student who worked with me as my research assistant before."
+    },
+    {
+      "type": "p",
+      "text": "I see myself not only as a supervisor but also as a friend. We have many conversations, both about work and our shared passion for research. I remember him telling me that sometimes, even while brushing his teeth at night, he finds himself thinking about the research questions. His enthusiasm for research is truly inspiring and motivates me in return. In addition, the students really enjoy the research experience; they find it both engaging and rewarding."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/story",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/story/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/story/Faculty%20Spotlight%20-%20Li%20Guo-01%20%281%29.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Faculty-20Spotlight-20-20Li-20Guo-01-20-281-29-b28298c14fcf.jpg",
+      "download_status": "downloaded",
+      "bytes": 505720,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Faculty%20Spotlight%20-%20Li%20Guo-05.jpg",
+      "alt": "Guo Li teaching",
+      "caption": "Guo Li teaches a data science class.",
+      "source": "img",
+      "local_path": "_shared/Faculty-20Spotlight-20-20Li-20Guo-05-95863e843cf3.jpg",
+      "download_status": "downloaded",
+      "bytes": 580701,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Faculty%20Spotlight%20-%20Li%20Guo-04.jpg",
+      "alt": "Guo Li",
+      "caption": "Left: Guo representing KBB at LA auto show in 2016. Right: Guo built an interactive AI game at the 2018 Yunqi Conference held by Alibaba",
+      "source": "img",
+      "local_path": "_shared/Faculty-20Spotlight-20-20Li-20Guo-04-093f76c494d8.jpg",
+      "download_status": "downloaded",
+      "bytes": 692104,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Guo%20Li%3A%20At%20the%20Helm%20of%20Data%20Science%20and%20Teaching&url=https%3A//shanghai.nyu.edu/stories/guo-li-helm-data-science-and-teaching&status=Guo%20Li%3A%20At%20the%20Helm%20of%20Data%20Science%20and%20Teaching%20https%3A//shanghai.nyu.edu/stories/guo-li-helm-data-science-and-teaching",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/stories/guo-li-helm-data-science-and-teaching&title=Guo%20Li%3A%20At%20the%20Helm%20of%20Data%20Science%20and%20Teaching",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/stories/guo-li-helm-data-science-and-teaching&title=Guo%20Li%3A%20At%20the%20Helm%20of%20Data%20Science%20and%20Teaching",
+      "text": "Weibo",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 847,
+  "crawled_at": "2026-06-09T04:46:46+00:00",
+  "sequence": 1802
+}

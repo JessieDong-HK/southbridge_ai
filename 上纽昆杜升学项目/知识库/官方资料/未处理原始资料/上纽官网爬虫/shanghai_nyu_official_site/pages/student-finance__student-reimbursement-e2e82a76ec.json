@@ -1,0 +1,40 @@
+{
+  "id": "student-finance__student-reimbursement-e2e82a76ec",
+  "url": "https://shanghai.nyu.edu/student-finance/student-reimbursement",
+  "canonical_url": "https://shanghai.nyu.edu/student-finance/student-reimbursement",
+  "page_type": "student-finance",
+  "title": "Student Reimbursement",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Student Reimbursement\nOnce your reimbursement request has been approved, you will receive the Student Reimbursement Form via email. Please print the PDF form and submit it, along with all original VAT fapiaos, to the Office of the Bursar located in E309.\nPayments will be issued each Thursday for physical fapiaos that are submitted to the Office of the Bursar by the close of business on the preceding Friday. Please note that payment processing may be delayed in weeks that include a national holiday.\nFor expenses incurred within mainland China, NYU Shanghai accepts either original physical VAT fapiaos or electronic VAT fapiaos. These must be issued by the Chinese Tax Authority and must bear the official title “上海纽约大学” and the Taxpayer Identification Number “523100005758850147.”\nIf you require further assistance, please contact your supervisor or reach out to us via shanghai.student-reimbursement@nyu.edu",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Student Reimbursement"
+    },
+    {
+      "type": "p",
+      "text": "Once your reimbursement request has been approved, you will receive the Student Reimbursement Form via email. Please print the PDF form and submit it, along with all original VAT fapiaos, to the Office of the Bursar located in E309."
+    },
+    {
+      "type": "p",
+      "text": "Payments will be issued each Thursday for physical fapiaos that are submitted to the Office of the Bursar by the close of business on the preceding Friday. Please note that payment processing may be delayed in weeks that include a national holiday."
+    },
+    {
+      "type": "p",
+      "text": "For expenses incurred within mainland China, NYU Shanghai accepts either original physical VAT fapiaos or electronic VAT fapiaos. These must be issued by the Chinese Tax Authority and must bear the official title “上海纽约大学” and the Taxpayer Identification Number “523100005758850147.”"
+    },
+    {
+      "type": "p",
+      "text": "If you require further assistance, please contact your supervisor or reach out to us via shanghai.student-reimbursement@nyu.edu"
+    }
+  ],
+  "images": [],
+  "links": [],
+  "word_count_estimate": 143,
+  "crawled_at": "2026-06-09T04:28:10+00:00",
+  "sequence": 54
+}

@@ -1,0 +1,148 @@
+{
+  "id": "news__no-boss-still-efficient-how-incentivize-resource-pooling-4bb1577cc7",
+  "url": "https://shanghai.nyu.edu/news/no-boss-still-efficient-how-incentivize-resource-pooling",
+  "canonical_url": "https://shanghai.nyu.edu/news/no-boss-still-efficient-how-incentivize-resource-pooling",
+  "page_type": "news",
+  "title": "No Boss, Still Efficient: How to Incentivize Resource Pooling",
+  "description": "Professor Chen Chen published a new paper in Management Science.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "No Boss, Still Efficient: How to Incentivize Resource Pooling\nTwitter\nFacebook\nWeibo\nImagine you are a supermarket manager. In one setup, each cashier serves only their own checkout counter, even if the counter on one side has no customers and another has a long line. In another setup, the cashiers work as a team: when one cashier clears their line, they jump in to help wherever the backlog is. The second setup doesn’t just feel nicer for the cashiers; it can dramatically cut customer wait times.\nThat teamwork effect has a name in operations management: resource pooling. In a recent paper titled “Incentivizing Resource Pooling,” published in Management Science, NYU Shanghai Assistant Professor of Operations and Business Analytics Chen Chen asks how to achieve that efficiency boost in systems where cooperation is not guaranteed. “The checkout-counter logic shows up in many real-life cases,” Chen said. “In healthcare, different departments might share equipment, beds, or staff; in computing, an idle machine can take on tasks from an overloaded one.”\nProfessor Chen Chen\nPooling sounds like common sense—so why isn’t it automatic?\nChen said that’s because in many modern systems there is no “boss” to oversee things and assign help where it’s needed, and participants may not want to pay the cost of helping others. “One approach is a centralized system: there’s a boss who controls everything,” Chen explained. “If you’re free, the team leader can tell you to help someone else.” But Chen focuses on the more realistic situations where independent, self-interested parties make their own decisions, often with limited visibility into what others are doing. “You can’t see how much work others have,” he said. “Without enough information, you can’t directly ‘punish’ freeriders.”\nThis is exactly the situation in many decentralized applications, including blockchain-based cloud computing markets, where people rent out unused computing power and others “borrow” that capacity for heavy workloads. These markets already exist, Chen noted, but their success depends on the rules: how to reward contributions and prevent free riding.\nTo tackle this, Chen and his coauthors, Chen Yilun of The Chinese University of Hong Kong, Shenzhen and Qian Pengyu of Boston University, propose a token-based mechanism that turns cooperation into a self-interested choice. The idea resembles a credit system: if you want others to help you, you spend tokens; if you help others, you earn tokens.\n“In our mechanism, requesting help consumes tokens, and helping others gives you a chance to earn tokens,” Chen said. Requests enter a shared pool that processes jobs in a first-come, first-served way, and the authors note the rules could be implemented with a smart contract.\nThe goal is straightforward: make the “right” behavior the most rational behavior. When the mechanism is set up well, participants have a clear incentive to process their own tasks when busy, contribute capacity when idle, and request help when they need it and can pay for it.\n“Our most striking conclusion is that even without a boss, we can design a mechanism where, in people’s own self-interest, they are willing to help each other, and it can work as well as having a boss,” Chen said.\nA crucial part of the design is calibrating how tokens circulate. If it’s too easy to earn tokens the incentive to keep helping is weakened; if earning tokens is too hard, tokens become scarce and participants can’t afford to request help. The paper shows that, in large systems, there is a “sweet spot” for this earning rule that can incentivize complete resource pooling, so the overall performance matches what would be achievable under centralized control.\nChen thinks that there are a number of sectors that might be able to benefit from this system, including healthcare. Hospitals or departments may benefit from sharing beds, staff, or equipment, but may not naturally have incentives to help one another without carefully designed rules.\nThe paper won the First Place in the 2024 INFORMS Junior Faculty Interest Group (JFIG) Paper Competition (left) and the 2024 CSAMSE Best Paper Award (right)\nThe paper has already received external recognition, winning First Place in the 2024 INFORMS Junior Faculty Interest Group (JFIG) Paper Competition and the 2024 CSAMSE Best Paper Award. Looking ahead, Chen sees token-style incentive design as a flexible toolkit. As more infrastructure moves toward decentralized models, the question of “no boss, still efficient” may only become more relevant.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "No Boss, Still Efficient: How to Incentivize Resource Pooling"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Imagine you are a supermarket manager. In one setup, each cashier serves only their own checkout counter, even if the counter on one side has no customers and another has a long line. In another setup, the cashiers work as a team: when one cashier clears their line, they jump in to help wherever the backlog is. The second setup doesn’t just feel nicer for the cashiers; it can dramatically cut customer wait times."
+    },
+    {
+      "type": "p",
+      "text": "That teamwork effect has a name in operations management: resource pooling. In a recent paper titled “Incentivizing Resource Pooling,” published in Management Science, NYU Shanghai Assistant Professor of Operations and Business Analytics Chen Chen asks how to achieve that efficiency boost in systems where cooperation is not guaranteed. “The checkout-counter logic shows up in many real-life cases,” Chen said. “In healthcare, different departments might share equipment, beds, or staff; in computing, an idle machine can take on tasks from an overloaded one.”"
+    },
+    {
+      "type": "figcaption",
+      "text": "Professor Chen Chen"
+    },
+    {
+      "type": "p",
+      "text": "Pooling sounds like common sense—so why isn’t it automatic?"
+    },
+    {
+      "type": "p",
+      "text": "Chen said that’s because in many modern systems there is no “boss” to oversee things and assign help where it’s needed, and participants may not want to pay the cost of helping others. “One approach is a centralized system: there’s a boss who controls everything,” Chen explained. “If you’re free, the team leader can tell you to help someone else.” But Chen focuses on the more realistic situations where independent, self-interested parties make their own decisions, often with limited visibility into what others are doing. “You can’t see how much work others have,” he said. “Without enough information, you can’t directly ‘punish’ freeriders.”"
+    },
+    {
+      "type": "p",
+      "text": "This is exactly the situation in many decentralized applications, including blockchain-based cloud computing markets, where people rent out unused computing power and others “borrow” that capacity for heavy workloads. These markets already exist, Chen noted, but their success depends on the rules: how to reward contributions and prevent free riding."
+    },
+    {
+      "type": "p",
+      "text": "To tackle this, Chen and his coauthors, Chen Yilun of The Chinese University of Hong Kong, Shenzhen and Qian Pengyu of Boston University, propose a token-based mechanism that turns cooperation into a self-interested choice. The idea resembles a credit system: if you want others to help you, you spend tokens; if you help others, you earn tokens."
+    },
+    {
+      "type": "p",
+      "text": "“In our mechanism, requesting help consumes tokens, and helping others gives you a chance to earn tokens,” Chen said. Requests enter a shared pool that processes jobs in a first-come, first-served way, and the authors note the rules could be implemented with a smart contract."
+    },
+    {
+      "type": "p",
+      "text": "The goal is straightforward: make the “right” behavior the most rational behavior. When the mechanism is set up well, participants have a clear incentive to process their own tasks when busy, contribute capacity when idle, and request help when they need it and can pay for it."
+    },
+    {
+      "type": "p",
+      "text": "“Our most striking conclusion is that even without a boss, we can design a mechanism where, in people’s own self-interest, they are willing to help each other, and it can work as well as having a boss,” Chen said."
+    },
+    {
+      "type": "p",
+      "text": "A crucial part of the design is calibrating how tokens circulate. If it’s too easy to earn tokens the incentive to keep helping is weakened; if earning tokens is too hard, tokens become scarce and participants can’t afford to request help. The paper shows that, in large systems, there is a “sweet spot” for this earning rule that can incentivize complete resource pooling, so the overall performance matches what would be achievable under centralized control."
+    },
+    {
+      "type": "p",
+      "text": "Chen thinks that there are a number of sectors that might be able to benefit from this system, including healthcare. Hospitals or departments may benefit from sharing beds, staff, or equipment, but may not naturally have incentives to help one another without carefully designed rules."
+    },
+    {
+      "type": "figcaption",
+      "text": "The paper won the First Place in the 2024 INFORMS Junior Faculty Interest Group (JFIG) Paper Competition (left) and the 2024 CSAMSE Best Paper Award (right)"
+    },
+    {
+      "type": "p",
+      "text": "The paper has already received external recognition, winning First Place in the 2024 INFORMS Junior Faculty Interest Group (JFIG) Paper Competition and the 2024 CSAMSE Best Paper Award. Looking ahead, Chen sees token-style incentive design as a flexible toolkit. As more infrastructure moves toward decentralized models, the question of “no boss, still efficient” may only become more relevant."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/resource_pooling_banner_940x350mm_300dpi_0.jpg?itok=dhwzyhhC",
+      "alt": "resource_pooling",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/resource_pooling_banner_940x350mm_300dpi_0-d088a1fffcd4.jpg",
+      "download_status": "downloaded",
+      "bytes": 71282,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/No%20Boss%2C%20Still%20Efficient%20How%20to%20Incentivize%20Resource%20Pooling-01.jpg",
+      "alt": "chen chen",
+      "caption": "Professor Chen Chen",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/No%20Boss%2C%20Still%20Efficient%20How%20to%20Incentivize%20Resource%20Pooling-02.jpg",
+      "alt": "The paper won the First Place in the 2024 INFORMS Junior Faculty Interest Group (JFIG) Paper Competition (left) and the 2024 CSAMSE Best Paper Award (right)",
+      "caption": "The paper won the First Place in the 2024 INFORMS Junior Faculty Interest Group (JFIG) Paper Competition (left) and the 2024 CSAMSE Best Paper Award (right)",
+      "source": "img",
+      "local_path": "_shared/No-20Boss-2C-20Still-20Efficient-20How-20to-20Incent-551c966f7f33.jpg",
+      "download_status": "downloaded",
+      "bytes": 367312,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=No%20Boss%2C%20Still%20Efficient%3A%20How%20to%20Incentivize%20Resource%20Pooling&url=https%3A//shanghai.nyu.edu/news/no-boss-still-efficient-how-incentivize-resource-pooling&status=No%20Boss%2C%20Still%20Efficient%3A%20How%20to%20Incentivize%20Resource%20Pooling%20https%3A//shanghai.nyu.edu/news/no-boss-still-efficient-how-incentivize-resource-pooling",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/no-boss-still-efficient-how-incentivize-resource-pooling&title=No%20Boss%2C%20Still%20Efficient%3A%20How%20to%20Incentivize%20Resource%20Pooling",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/no-boss-still-efficient-how-incentivize-resource-pooling&title=No%20Boss%2C%20Still%20Efficient%3A%20How%20to%20Incentivize%20Resource%20Pooling",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.03550?journalCode=mnsc",
+      "text": "Incentivizing Resource Pooling",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/chen-chen",
+      "text": "Chen Chen",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 747,
+  "crawled_at": "2026-06-09T04:39:16+00:00",
+  "sequence": 1210
+}

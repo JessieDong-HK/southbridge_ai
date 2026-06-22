@@ -1,0 +1,98 @@
+{
+  "id": "page__work-arc-1d63b31385",
+  "url": "https://shanghai.nyu.edu/page/work-arc",
+  "canonical_url": "https://shanghai.nyu.edu/page/work-arc",
+  "page_type": "page",
+  "title": "Work for the ARC",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Work for the ARC\nWe’re always looking for the best and brightest. Our team is made up of Discipline Learning Assistants, Writing & Speaking Learning Assistants, and Information Assistants. Interested in learning how to join us? Find out more below.\nDiscipline Learning Assistants\nUndergraduates who provide peer tutoring support to NYU Shanghai students in over 30 STEM, Business, Economics, and Chinese Language courses.\nWriting and Speaking Learning Assistants\nA cohort of undergraduates who tutor English writing, speaking, reading, and listening. They provide support throughout the writing process.\nInformation Assistants\nUndergraduates who cover the ARC front desk, welcoming students to the ARC and Academic Advising.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Work for the ARC"
+    },
+    {
+      "type": "p",
+      "text": "We’re always looking for the best and brightest. Our team is made up of Discipline Learning Assistants, Writing & Speaking Learning Assistants, and Information Assistants. Interested in learning how to join us? Find out more below."
+    },
+    {
+      "type": "h3",
+      "text": "Discipline Learning Assistants"
+    },
+    {
+      "type": "p",
+      "text": "Undergraduates who provide peer tutoring support to NYU Shanghai students in over 30 STEM, Business, Economics, and Chinese Language courses."
+    },
+    {
+      "type": "h3",
+      "text": "Writing and Speaking Learning Assistants"
+    },
+    {
+      "type": "p",
+      "text": "A cohort of undergraduates who tutor English writing, speaking, reading, and listening. They provide support throughout the writing process."
+    },
+    {
+      "type": "h3",
+      "text": "Information Assistants"
+    },
+    {
+      "type": "p",
+      "text": "Undergraduates who cover the ARC front desk, welcoming students to the ARC and Academic Advising."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/cou_0.jpg",
+      "alt": "Discipline Learning Assistants",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/cou_0-6761bfee8204.jpg",
+      "download_status": "downloaded",
+      "bytes": 527454,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/S26%20WSLA.jpg",
+      "alt": "wsla",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/ia.jpg",
+      "alt": "Information Assistants",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ia-f945552d8b42.jpg",
+      "download_status": "downloaded",
+      "bytes": 553652,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/content/course-specific-learning-assistants",
+      "text": "Discipline Learning Assistants",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/arc/work-for-the-arc/writing-and-speaking-learning-assistants",
+      "text": "Writing and Speaking Learning Assistants",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/arc/work-for-the-arc/information-assistants",
+      "text": "Information Assistants",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 104,
+  "crawled_at": "2026-06-09T04:30:41+00:00",
+  "sequence": 340
+}

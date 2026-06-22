@@ -1,0 +1,250 @@
+{
+  "id": "stories-cf8a0653f2",
+  "url": "https://shanghai.nyu.edu/stories",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "stories",
+  "title": "People | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "People\nYolanda Huang Yiyue ’26: Where Music Meets the Mind\nCecilia Li Sisi, IMA Low Res ’26: Between Screens and the World\nAJ Noble ’26: Jumping to New Heights\nSophia Wan Zhiyan ’26: Portrait of a Young Artist\nMaotou Zhou, MSOMS ’26: Making Connections, Leading Together\nRaquel Jimenez ’26: Choose the Harder Path and Make it Your Own\nRudraksha Bhukhanwala ’26: Choosing Purpose, Creating Community\nCao Yijia ’26: Pursuing Curiosity Over Certainty\nEmily Tsiang on Cities, Agency, and Experiential Learning\nYan Dengfeng on Decoding Consumer Behavior\nStanley Virgint ’23 on Asking for What You Want\nStudying Away to Connect With Home",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "People"
+    },
+    {
+      "type": "h4",
+      "text": "Yolanda Huang Yiyue ’26: Where Music Meets the Mind"
+    },
+    {
+      "type": "h4",
+      "text": "Cecilia Li Sisi, IMA Low Res ’26: Between Screens and the World"
+    },
+    {
+      "type": "h4",
+      "text": "AJ Noble ’26: Jumping to New Heights"
+    },
+    {
+      "type": "h4",
+      "text": "Sophia Wan Zhiyan ’26: Portrait of a Young Artist"
+    },
+    {
+      "type": "h4",
+      "text": "Maotou Zhou, MSOMS ’26: Making Connections, Leading Together"
+    },
+    {
+      "type": "h4",
+      "text": "Raquel Jimenez ’26: Choose the Harder Path and Make it Your Own"
+    },
+    {
+      "type": "h4",
+      "text": "Rudraksha Bhukhanwala ’26: Choosing Purpose, Creating Community"
+    },
+    {
+      "type": "h4",
+      "text": "Cao Yijia ’26: Pursuing Curiosity Over Certainty"
+    },
+    {
+      "type": "h4",
+      "text": "Emily Tsiang on Cities, Agency, and Experiential Learning"
+    },
+    {
+      "type": "h4",
+      "text": "Yan Dengfeng on Decoding Consumer Behavior"
+    },
+    {
+      "type": "h4",
+      "text": "Stanley Virgint ’23 on Asking for What You Want"
+    },
+    {
+      "type": "h4",
+      "text": "Studying Away to Connect With Home"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_yolanda_huang_yiyue-03.jpg?itok=GBRvBs6h",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/senior_spotlight_-_yolanda_huang_yiyue-03-30916d0e827c.jpg",
+      "download_status": "downloaded",
+      "bytes": 25610,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_cecilia_li_sisi-03.jpg?itok=u2oooywx",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_aj_noble-03.jpg?itok=UCSCqCoU",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_sophia_wan_zhiyan-03.jpg?itok=fb-gf5C8",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/senior_spotlight_-_sophia_wan_zhiyan-03-3cbc5ba57a3a.jpg",
+      "download_status": "downloaded",
+      "bytes": 26731,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/graduate_spotlight_-_maotou_zhou_msoms_26-03_0.jpg?itok=sE6POEGi",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/graduate_spotlight_-_maotou_zhou_msoms_26-03_0-f06a77e94579.jpg",
+      "download_status": "downloaded",
+      "bytes": 21170,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_raquel_jimenez_26-03.jpg?itok=Vx2cUj8B",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/senior_spotlight_-_raquel_jimenez_26-03-b0da96d57b77.jpg",
+      "download_status": "downloaded",
+      "bytes": 25442,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/senior_spotlight_-_rudraksha_bhukhanwala_26-03.jpg?itok=5tpcvc78",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/senior_spotlight_-_rudraksha_bhukhanwala_26-03-969c38e8f5ba.jpg",
+      "download_status": "downloaded",
+      "bytes": 30565,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/shangniuda2026jiebiyeshengcaoyijiadangcaoshenjuedingzouzijidelu-03.jpg?itok=uyF4jOB5",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/shangniuda2026jiebiyeshengcaoyijiadangcaoshenjueding-d3e37145c346.jpg",
+      "download_status": "downloaded",
+      "bytes": 25483,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/faculty_spotlight_-_emily_tsiang-03_0.jpg?itok=EDprUgZG",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/faculty_spotlight_-_emily_tsiang-03_0-ca905953f546.jpg",
+      "download_status": "downloaded",
+      "bytes": 20414,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/faculty-spotlight-yan-dengfeng-thumbnail.jpg?itok=6Rgj8EyO",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/1-20_-_alumni_voices_-_stanley_virgint_23-02_0.jpg?itok=CI1E5DeR",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/1-20_-_alumni_voices_-_stanley_virgint_23-02_0-ec3048ca4c0c.jpg",
+      "download_status": "downloaded",
+      "bytes": 35963,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/studying_away_to_connect_with_home-02.jpg?itok=1lEatuIz",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/stories/yolanda-huang-yiyue-26-where-music-meets-mind",
+      "text": "Yolanda Huang Yiyue ’26: Where Music Meets the Mind",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/cecilia-li-sisi-ima-low-res-26-between-screens-and-world",
+      "text": "Cecilia Li Sisi, IMA Low Res ’26: Between Screens and the World",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/aj-noble-26-jumping-new-heights",
+      "text": "AJ Noble ’26: Jumping to New Heights",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/sophia-wan-zhiyan-26-portrait-young-artist",
+      "text": "Sophia Wan Zhiyan ’26: Portrait of a Young Artist",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/maotou-zhou-msoms-26-making-connections-leading-together",
+      "text": "Maotou Zhou, MSOMS ’26: Making Connections, Leading Together",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/raquel-jimenez-26-choose-harder-path-and-make-it-your-own",
+      "text": "Raquel Jimenez ’26: Choose the Harder Path and Make it Your Own",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/rudraksha-bhukhanwala-26-choosing-purpose-creating-community",
+      "text": "Rudraksha Bhukhanwala ’26: Choosing Purpose, Creating Community",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/cao-yijia-26-pursuing-curiosity-over-certainty",
+      "text": "Cao Yijia ’26: Pursuing Curiosity Over Certainty",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/emily-tsiang-cities-agency-and-experiential-learning",
+      "text": "Emily Tsiang on Cities, Agency, and Experiential Learning",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/yan-dengfeng-decoding-consumer-behavior",
+      "text": "Yan Dengfeng on Decoding Consumer Behavior",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/stanley-virgint-23-asking-what-you-want",
+      "text": "Stanley Virgint ’23 on Asking for What You Want",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/addison-zhang-nyu-26-studying-away-connect-home",
+      "text": "Studying Away to Connect With Home",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 101,
+  "crawled_at": "2026-06-09T04:28:25+00:00",
+  "sequence": 66
+}

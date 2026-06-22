@@ -1,0 +1,245 @@
+{
+  "id": "campuslife__students-48219c8ce3",
+  "url": "https://shanghai.nyu.edu/campuslife/students",
+  "canonical_url": "https://shanghai.nyu.edu/campuslife/students",
+  "page_type": "campuslife",
+  "title": "Students",
+  "description": "The Center for Career Development provides students with information about the professional world outside of university, and helps them find their own career paths. For current students, please visit the student career portal for details.The job or internship search process can be complex, but can",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Students\nThe Center for Career Development provides students with information about the professional world outside of university, and helps them find their own career paths. For current students, please visit the student career portal for details.\nThe job or internship search process can be complex, but can be broken into four phases:\nExplore Careers\nBefore embarking on a job or internship search, it’s important to identify your various career interests and set preliminary professional goals. When you know what you are looking for, it’s a lot easier to find it!\nResearch Career Options\nKnowledge is power. Use our resources to improve your understanding of the industry and job market in your fields of interest.\nIdentify Opportunities\nStart your search for jobs and internships. In addition to links to helpful websites and events, this section also offers proactive strategies for your search.\nCareer Programs & Events\nNYU Alumni Executive Mentor Program\nSocial Impact Internship Grant\nCareer Workshops\nI Am Limitless Conference\nIndustry Mentor Programs\nEmployer Events\nCCD Services & Resources\nCareer Coaching\nBORDER DO NOT TOUCH\nInterview Rooms\nBORDER DO NOT TOUCH\nResources & Guides\nBORDER DO NOT TOUCH",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Students"
+    },
+    {
+      "type": "p",
+      "text": "The Center for Career Development provides students with information about the professional world outside of university, and helps them find their own career paths. For current students, please visit the student career portal for details."
+    },
+    {
+      "type": "p",
+      "text": "The job or internship search process can be complex, but can be broken into four phases:"
+    },
+    {
+      "type": "h4",
+      "text": "Explore Careers"
+    },
+    {
+      "type": "p",
+      "text": "Before embarking on a job or internship search, it’s important to identify your various career interests and set preliminary professional goals. When you know what you are looking for, it’s a lot easier to find it!"
+    },
+    {
+      "type": "h4",
+      "text": "Research Career Options"
+    },
+    {
+      "type": "p",
+      "text": "Knowledge is power. Use our resources to improve your understanding of the industry and job market in your fields of interest."
+    },
+    {
+      "type": "h4",
+      "text": "Identify Opportunities"
+    },
+    {
+      "type": "p",
+      "text": "Start your search for jobs and internships. In addition to links to helpful websites and events, this section also offers proactive strategies for your search."
+    },
+    {
+      "type": "h4",
+      "text": "Career Programs & Events"
+    },
+    {
+      "type": "li",
+      "text": "NYU Alumni Executive Mentor Program"
+    },
+    {
+      "type": "li",
+      "text": "Social Impact Internship Grant"
+    },
+    {
+      "type": "li",
+      "text": "Career Workshops"
+    },
+    {
+      "type": "li",
+      "text": "I Am Limitless Conference"
+    },
+    {
+      "type": "li",
+      "text": "Industry Mentor Programs"
+    },
+    {
+      "type": "li",
+      "text": "Employer Events"
+    },
+    {
+      "type": "h2",
+      "text": "CCD Services & Resources"
+    },
+    {
+      "type": "h3",
+      "text": "Career Coaching"
+    },
+    {
+      "type": "p",
+      "text": "BORDER DO NOT TOUCH"
+    },
+    {
+      "type": "h3",
+      "text": "Interview Rooms"
+    },
+    {
+      "type": "p",
+      "text": "BORDER DO NOT TOUCH"
+    },
+    {
+      "type": "h3",
+      "text": "Resources & Guides"
+    },
+    {
+      "type": "p",
+      "text": "BORDER DO NOT TOUCH"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/explore-careers.jpg",
+      "alt": "Explore Careers",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/explore-careers.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/research-career-options.jpg",
+      "alt": "Research Career Options",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/research-career-options.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/identify-opportunities.jpg",
+      "alt": "Identify Opportunities",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/identify-opportunities.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-2-01-4.jpg",
+      "alt": "Career Exploration Tools",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-2-01-4.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://career.shanghai.nyu.edu",
+      "text": "student career portal",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/students/career-exploration",
+      "text": "Explore Careers",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/students/research-career-options",
+      "text": "Research Career Options",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/students/identify-opportunities",
+      "text": "Identify Opportunities",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/students/career-programs-events",
+      "text": "Career Programs & Events",
+      "internal": true
+    },
+    {
+      "url": "https://app.joinhandshake.com/login",
+      "text": "Handshake",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1mgvhdxakjGGH_tdJXroT6SCFQi8qHvLo2dQO9OZe3TM/edit?usp=sharing",
+      "text": "Learn More",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/students/cdc-skill-guides",
+      "text": "Learn More",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campuslife/career-lab",
+      "text": "Learn more",
+      "internal": true
+    },
+    {
+      "url": "https://app.joinhandshake.com/edu",
+      "text": "Handshake",
+      "internal": false
+    },
+    {
+      "url": "https://nyu.hiration.com/app",
+      "text": "Hiration",
+      "internal": false
+    },
+    {
+      "url": "https://nyu.biginterview.com/",
+      "text": "biginterview",
+      "internal": false
+    },
+    {
+      "url": "https://casecoach.com/",
+      "text": "CASECOACH",
+      "internal": false
+    },
+    {
+      "url": "https://www.graduatesfirst.com/shanghai.nyu",
+      "text": "GF Assessment",
+      "internal": false
+    },
+    {
+      "url": "https://student.interstride.com/login",
+      "text": "Interstride",
+      "internal": false
+    },
+    {
+      "url": "https://online.goinglobal.com/",
+      "text": "GoinGlobal",
+      "internal": false
+    },
+    {
+      "url": "https://nyu.firsthand.co/",
+      "text": "Vault",
+      "internal": false
+    },
+    {
+      "url": "https://violetnetwork.nyu.edu/login",
+      "text": "VIOLET NETWORK",
+      "internal": false
+    },
+    {
+      "url": "https://www.theforage.com/landing/New%20York%20University/LKHP44Szzsfi8KgnG/Experience%20without%20boundaries",
+      "text": "Forage",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 187,
+  "crawled_at": "2026-06-09T04:32:29+00:00",
+  "sequence": 580
+}

@@ -1,0 +1,243 @@
+{
+  "id": "academics__graduate__news-0665485bd5",
+  "url": "https://shanghai.nyu.edu/academics/graduate/news?page=6",
+  "canonical_url": "https://shanghai.nyu.edu/academics/graduate/news",
+  "page_type": "academics",
+  "title": "Graduate News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Graduate News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Graduate News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/karen_wu.jpg?itok=5Wk-iQ1p",
+      "alt": "kaiwen wu cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/karen_wu-66a773ffc700.jpg",
+      "download_status": "downloaded",
+      "bytes": 7490,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/story/19-0908_110_meitu_1.jpg?itok=EdShjMHt",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/dbzmrn9qnjfrl6x0jzj0_cdbrt61dggotvgfni8qqkfuoz0qmq5btc2kkwc8jcuddug5ikwq1dyuryb1v4p0_rpij00fgs6odavw7iatz4a2vfpzr47onjfar5omyfh_p9wizl4_.jpg?itok=FAu0l_38",
+      "alt": "TESOL 2020 Orientation 2",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/dbzmrn9qnjfrl6x0jzj0_cdbrt61dggotvgfni8qqkfuoz0qmq5b-e1c168c587af.jpg",
+      "download_status": "downloaded",
+      "bytes": 33590,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/story/jameszhibanner.jpg?itok=-0SsXswQ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/story/wechatimg2.jpeg?itok=nDKro2O_",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg2-1a124f898c47.jpeg",
+      "download_status": "downloaded",
+      "bytes": 18242,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/banner1.jpg?itok=DTVF98Le",
+      "alt": "Master's convocation recap banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/nyu_8877-940.jpg?itok=nqsDdcqH",
+      "alt": "Students toss caps in front of NYUSH sign",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyu_8877-940-296c38806cfe.jpg",
+      "download_status": "downloaded",
+      "bytes": 38369,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/focus_image/wechatimg12.jpeg?itok=vAJMi86Q",
+      "alt": "wuhan stories 6",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg12-d064d3ad4a7c.jpeg",
+      "download_status": "downloaded",
+      "bytes": 29914,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/zbhxnb8otu-rd9bslypdddga5v1oimpqfjnll2rkabwjbxxu1bywso5uzp8dvfeoff7kx5u2rmczgftcgcr9cfqm81v06h-rekpbrhalavckxf6vmsidbfpxpka3yqerkzkwjk0r_meitu_1.jpg?itok=0_DLtoqh",
+      "alt": "bruno grad3",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/wechatimg31_meitu_1.jpg?itok=R9rBTwr9",
+      "alt": "shirley xu tesol 12",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/wechatimg31_meitu_1.jpg?itok=R9rBTwr9 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of p"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/8tqxgppcqbsczyvxk8kifrtpqv3a6u0jilhpi8qh8nrvc7tjisxpopjxck_v5bd6zecqgf0owgkwc-wwvaa41efkceytujg1ed8m-wx5a8zcfn96tyqismcmuecfs9a9f4-qxwlc_meitu_1.jpg?itok=0Ed4SJzW",
+      "alt": "Carly with her colleagues at the Student Life",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/8tqxgppcqbsczyvxk8kifrtpqv3a6u0jilhpi8qh8nrvc7tjisxp-73c0de92e637.jpg",
+      "download_status": "downloaded",
+      "bytes": 38733,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/wechatimg42.jpeg?itok=SA1XxAQJ",
+      "alt": "predict the color of a dye molecule in a liquid environment",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/tesol_cover_4.jpg?itok=AZ_-Q6nL",
+      "alt": "TESOL Symposium banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/wechatimg34_meitu_3.jpg?itok=UPvkIdUr",
+      "alt": "the graduate lounge opening and the fall mixer 7",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/640-940.jpg?itok=KE1_aGx9",
+      "alt": "Makeovers",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/640-940-ead0df5c8916.jpg",
+      "download_status": "downloaded",
+      "bytes": 21263,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/graduate-student-spotlight-wu-kaiwen-ba-19-ms-20",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/graduate-student-spotlight-jiyoung-kim-ms-20",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/third-tesol-cohort-arrives-nyu-shanghai-and-begins-program",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/graduate-student-spotlight-james-yang-zhi-ma-20",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/graduate-student-spotlight-dai-weiduo-ms-20",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-holds-first-ever-masters-convocation",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-celebrates-first-ever-graduate-convocation",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/76-days-wuhan",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/professor-bruno-abrahao-course-spotlight-network-analytics",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/english-teachers-journey-toward-effective-teaching-20-ma-tesol-shirley-xu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/non-traditional-path-social-work-19-msw-graduate-carly-siuta",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-phd-candidate-wins-first-prize-international-conference",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/tesol-program-builds-community-shanghai-educators",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-launches-graduate-lounge-and-holds-fall-mixer",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/campus-lounges-get-makeovers",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:42:53+00:00",
+  "sequence": 1512
+}

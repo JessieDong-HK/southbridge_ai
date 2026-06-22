@@ -1,0 +1,54 @@
+{
+  "id": "academics__faculty__directory__catherine-journeaux-b7c5a8d69d",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/catherine-journeaux",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/catherine-journeaux",
+  "page_type": "academics",
+  "title": "Catherine",
+  "description": "Catherine Journeaux is a Coordinator for the Academic Resources Center and a Senior Lecturer in the English for Academic Purposes Program at NYU Shanghai. Prior to joining NYU Shanghai, she taught courses in both academic and technical writing at Zayed University, Abu Dhabi and coordinated the",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Catherine Journeaux\nCatherine Journeaux is a Coordinator for the Academic Resources Center and a Senior Lecturer in the English for Academic Purposes Program at NYU Shanghai. Prior to joining NYU Shanghai, she taught courses in both academic and technical writing at Zayed University, Abu Dhabi and coordinated the academic writing and support centre. She also worked at the University of Sheffield, UK, for five years, teaching English for Academic Purposes. Journeaux holds an MEd in Educational Technology and ELT from the University of Manchester, UK and is an HEA Fellow. Her research interests are in blended learning and the development of student self-determination, and she has presented at both regional and international conferences.\nEducation\nMEd, Educational Technology, and ELTUniversity of Manchester\nBlended Learning\nDevelopment of Student Self-Determination",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Catherine Journeaux"
+    },
+    {
+      "type": "p",
+      "text": "Catherine Journeaux is a Coordinator for the Academic Resources Center and a Senior Lecturer in the English for Academic Purposes Program at NYU Shanghai. Prior to joining NYU Shanghai, she taught courses in both academic and technical writing at Zayed University, Abu Dhabi and coordinated the academic writing and support centre. She also worked at the University of Sheffield, UK, for five years, teaching English for Academic Purposes. Journeaux holds an MEd in Educational Technology and ELT from the University of Manchester, UK and is an HEA Fellow. Her research interests are in blended learning and the development of student self-determination, and she has presented at both regional and international conferences."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MEd, Educational Technology, and ELTUniversity of Manchester"
+    },
+    {
+      "type": "li",
+      "text": "Blended Learning"
+    },
+    {
+      "type": "li",
+      "text": "Development of Student Self-Determination"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/z_3580-selectedsmall.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 129,
+  "crawled_at": "2026-06-09T04:54:49+00:00",
+  "sequence": 2456
+}

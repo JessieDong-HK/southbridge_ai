@@ -1,0 +1,69 @@
+{
+  "id": "academics__faculty__directory__jin-huang-92312a0651",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/jin-huang",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/jin-huang",
+  "page_type": "academics",
+  "title": "Jin",
+  "description": "Jin Huang is an Assistant Professor of Marketing at NYU Shanghai. She holds a PhD in Economics from CEMFI (Center for Monetary and Financial Studies), Spain. Professor Huang’s research interests include consumer search, learning, and pricing and advertising strategies. For more information about her",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Jin Huang\nJin Huang is an Assistant Professor of Marketing at NYU Shanghai. She holds a PhD in Economics from CEMFI (Center for Monetary and Financial Studies), Spain. Professor Huang’s research interests include consumer search, learning, and pricing and advertising strategies. For more information about her research, please visit http://www.jinhuang.es.\nEducation\nPhD, EconomicsCEMFI\nConsumer Search, Learning, and Pricing\nAdvertising Management\nIntroduction to Marketing",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Jin Huang"
+    },
+    {
+      "type": "p",
+      "text": "Jin Huang is an Assistant Professor of Marketing at NYU Shanghai. She holds a PhD in Economics from CEMFI (Center for Monetary and Financial Studies), Spain. Professor Huang’s research interests include consumer search, learning, and pricing and advertising strategies. For more information about her research, please visit http://www.jinhuang.es."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, EconomicsCEMFI"
+    },
+    {
+      "type": "li",
+      "text": "Consumer Search, Learning, and Pricing"
+    },
+    {
+      "type": "li",
+      "text": "Advertising Management"
+    },
+    {
+      "type": "li",
+      "text": "Introduction to Marketing"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/jin_huang_0.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://www.jinhuang.es",
+      "text": "http://www.jinhuang.es",
+      "internal": false
+    },
+    {
+      "url": "http://www.jinhuang.es/",
+      "text": "http://www.jinhuang.es",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 67,
+  "crawled_at": "2026-06-09T04:53:38+00:00",
+  "sequence": 2381
+}

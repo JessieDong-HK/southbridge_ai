@@ -1,0 +1,156 @@
+{
+  "id": "campus-safety__lost-and-found-bae81d4819",
+  "url": "https://shanghai.nyu.edu/campus-safety/lost-and-found",
+  "canonical_url": "https://shanghai.nyu.edu/campus-safety/lost-and-found",
+  "page_type": "campus-safety",
+  "title": "Lost and Found",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Lost and Found\nThe Campus Safety Service Center securely stores lost items and welcomes visitors in Room S103 during office hours (Monday–Friday, 9:00 a.m.–5:00 p.m., excluding holidays). We also maintain an up-to-date online listing of found items and provide an easy-to-use platform for reporting lost items online.\nIf you find a lost item on campus, please hand it to a Campus Safety Officer or bring it directly to Room S103 during office hours.\nFound\nBrowse Found Items Online\nWeChat Inventory (Instructions)\nLost\nReport a Lost Item Online\nWeChat Form\nItems we accept\nElectronics, PCs, and mobile devices\nWallets, purses, backpacks\nAccessories: eyewear, jewelry\nBank cards, IDs, metro cards, etc.\nKeys\nTextbooks\nUmbrellas\nItems with identifying information\nItems we do NOT accept\nClothing\nWater bottles\nPerishable items and food\nFlammable items (lighters, vape pens, etc.)\nPersonal grooming items (combs, brushes, bows, ribbons, scrunchies, etc.)\nIntentionally abandoned property (electronic equipment that obviously does not work, damaged furniture, etc.)",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Lost and Found"
+    },
+    {
+      "type": "p",
+      "text": "The Campus Safety Service Center securely stores lost items and welcomes visitors in Room S103 during office hours (Monday–Friday, 9:00 a.m.–5:00 p.m., excluding holidays). We also maintain an up-to-date online listing of found items and provide an easy-to-use platform for reporting lost items online."
+    },
+    {
+      "type": "p",
+      "text": "If you find a lost item on campus, please hand it to a Campus Safety Officer or bring it directly to Room S103 during office hours."
+    },
+    {
+      "type": "h3",
+      "text": "Found"
+    },
+    {
+      "type": "h4",
+      "text": "Browse Found Items Online"
+    },
+    {
+      "type": "p",
+      "text": "WeChat Inventory (Instructions)"
+    },
+    {
+      "type": "h3",
+      "text": "Lost"
+    },
+    {
+      "type": "h4",
+      "text": "Report a Lost Item Online"
+    },
+    {
+      "type": "p",
+      "text": "WeChat Form"
+    },
+    {
+      "type": "h3",
+      "text": "Items we accept"
+    },
+    {
+      "type": "li",
+      "text": "Electronics, PCs, and mobile devices"
+    },
+    {
+      "type": "li",
+      "text": "Wallets, purses, backpacks"
+    },
+    {
+      "type": "li",
+      "text": "Accessories: eyewear, jewelry"
+    },
+    {
+      "type": "li",
+      "text": "Bank cards, IDs, metro cards, etc."
+    },
+    {
+      "type": "li",
+      "text": "Keys"
+    },
+    {
+      "type": "li",
+      "text": "Textbooks"
+    },
+    {
+      "type": "li",
+      "text": "Umbrellas"
+    },
+    {
+      "type": "li",
+      "text": "Items with identifying information"
+    },
+    {
+      "type": "h3",
+      "text": "Items we do NOT accept"
+    },
+    {
+      "type": "li",
+      "text": "Clothing"
+    },
+    {
+      "type": "li",
+      "text": "Water bottles"
+    },
+    {
+      "type": "li",
+      "text": "Perishable items and food"
+    },
+    {
+      "type": "li",
+      "text": "Flammable items (lighters, vape pens, etc.)"
+    },
+    {
+      "type": "li",
+      "text": "Personal grooming items (combs, brushes, bows, ribbons, scrunchies, etc.)"
+    },
+    {
+      "type": "li",
+      "text": "Intentionally abandoned property (electronic equipment that obviously does not work, damaged furniture, etc.)"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-safety-03-2-min.jpg",
+      "alt": "Online Inventory",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-safety-03-2-min-93a608d310fa.jpg",
+      "download_status": "downloaded",
+      "bytes": 20641,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/17_2.jpg",
+      "alt": "Online Form",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/17_2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://safe.shanghai.nyu.edu/oa/LostFound_Found",
+      "text": "Browse Found Items Online",
+      "internal": false
+    },
+    {
+      "url": "https://open.work.weixin.qq.com/wwopen/mpnews?mixuin=5kCDEAAABwDi8lKfAAAUAA&mfid=WW0323-_roKaAAABwDyewgPx3jRUgSPsqW3b&idx=2&sn=f3c1724f3b6a845a759a23f02022c56c",
+      "text": "WeChat Inventory (Instructions)",
+      "internal": false
+    },
+    {
+      "url": "https://safe.shanghai.nyu.edu/oa/LostFound_Lost",
+      "text": "Report a Lost Item Online",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 166,
+  "crawled_at": "2026-06-09T04:30:02+00:00",
+  "sequence": 270
+}

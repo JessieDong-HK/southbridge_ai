@@ -1,0 +1,53 @@
+{
+  "id": "environmental-health-safety__laboratory-emergency-preparedness-6be871f7ed",
+  "url": "https://www.dukekunshan.edu.cn/environmental-health-safety/laboratory-emergency-preparedness",
+  "canonical_url": "https://www.dukekunshan.edu.cn/environmental-health-safety/laboratory-emergency-preparedness/",
+  "page_type": "environmental-health-safety",
+  "title": "Laboratory Emergency Preparedness - DKU",
+  "description": "Learn about how to deal with Emergency when CHEMICAL SPILL or Fire, follow the tips to protect your safety.",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2025-08-26T03:21:10+00:00",
+  "sitemap_lastmod": "2025-08-26T03:21:10+00:00",
+  "text": "",
+  "text_blocks": [],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2022/03/25160750/dkuWx.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "images/_shared/dkuWx-6f97c1a7e457.png",
+      "download_status": "ok",
+      "bytes": 68379,
+      "cached_from_disk": true,
+      "deduplicated": true
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/dkumain/wp-content/uploads/mainsite/2022/05/DKU-wechat-QR.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "images/_shared/DKU-wechat-QR-b8881c9b5ffb.png",
+      "download_status": "ok",
+      "bytes": 144350,
+      "cached_from_disk": true,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 0,
+  "crawled_at": "2026-06-03T13:54:36+00:00",
+  "sequence": 540
+}

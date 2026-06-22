@@ -1,0 +1,82 @@
+{
+  "id": "academics__faculty__directory__eva-lin-de6c5d75ff",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/eva-lin",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/eva-lin",
+  "page_type": "academics",
+  "title": "Eva",
+  "description": "Dr. Eva Lin is an Assistant Professor of Management and Organizations at NYU Shanghai. She holds a PhD in Organizational Behaviour and an MSc in Finance from London Business School, and a BSc in Business Administration from the University of California, Berkeley. Prior to her PhD, she worked in the",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Eva Lin\nDr. Eva Lin is an Assistant Professor of Management and Organizations at NYU Shanghai. She holds a PhD in Organizational Behaviour and an MSc in Finance from London Business School, and a BSc in Business Administration from the University of California, Berkeley. Prior to her PhD, she worked in the financial services and technology sectors across the United States, Europe, and Asia, including advising Fortune 500 companies and leading teams at a Silicon Valley startup.\nProfessor Lin’s research focuses on ways that can empower individuals to navigate career challenges and foster diversity within organizations. In one research stream, she studies how mindsets shape employees’ ability to cope with employment uncertainty, employee experience, and career transitions. In another research stream, she examines how experiences with different cultures can shape diversity in social networks and how network diversity, together with organizational practices, influences equity and inclusion in the workplace. She uses a mixed-methods approach that integrates field studies, experiments, archival data, and qualitative techniques. Her work has received awards at global research competitions and has been published in leading journals including the Journal of Experimental Social Psychology.\nSelect Publications\nGiurge, L. M., Lin, E. H. L., & Effron, D. A. (2021). Moral credentials and the 2020 democratic presidential primary: No evidence that endorsing female candidates licenses people to favor men. Journal of Experimental Social Psychology, 95, 104144.\nEducation\nPhD, Organisational BehaviourLondon Business School\nMSs, FinanceLondon Business School\nBSc, Business AdministrationUniversity of California, Berkeley\nMindsets and Careers\nEmployee Motivation and Wellbeing\nMulticultural Experience and Culture\nSocial Networks and Diversity",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Eva Lin"
+    },
+    {
+      "type": "p",
+      "text": "Dr. Eva Lin is an Assistant Professor of Management and Organizations at NYU Shanghai. She holds a PhD in Organizational Behaviour and an MSc in Finance from London Business School, and a BSc in Business Administration from the University of California, Berkeley. Prior to her PhD, she worked in the financial services and technology sectors across the United States, Europe, and Asia, including advising Fortune 500 companies and leading teams at a Silicon Valley startup."
+    },
+    {
+      "type": "p",
+      "text": "Professor Lin’s research focuses on ways that can empower individuals to navigate career challenges and foster diversity within organizations. In one research stream, she studies how mindsets shape employees’ ability to cope with employment uncertainty, employee experience, and career transitions. In another research stream, she examines how experiences with different cultures can shape diversity in social networks and how network diversity, together with organizational practices, influences equity and inclusion in the workplace. She uses a mixed-methods approach that integrates field studies, experiments, archival data, and qualitative techniques. Her work has received awards at global research competitions and has been published in leading journals including the Journal of Experimental Social Psychology."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Giurge, L. M., Lin, E. H. L., & Effron, D. A. (2021). Moral credentials and the 2020 democratic presidential primary: No evidence that endorsing female candidates licenses people to favor men. Journal of Experimental Social Psychology, 95, 104144."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Organisational BehaviourLondon Business School"
+    },
+    {
+      "type": "li",
+      "text": "MSs, FinanceLondon Business School"
+    },
+    {
+      "type": "li",
+      "text": "BSc, Business AdministrationUniversity of California, Berkeley"
+    },
+    {
+      "type": "li",
+      "text": "Mindsets and Careers"
+    },
+    {
+      "type": "li",
+      "text": "Employee Motivation and Wellbeing"
+    },
+    {
+      "type": "li",
+      "text": "Multicultural Experience and Culture"
+    },
+    {
+      "type": "li",
+      "text": "Social Networks and Diversity"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Profile_Eva%20Lin.jpeg",
+      "alt": "Eva Lin",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/Profile_Eva%20Lin.jpeg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 259,
+  "crawled_at": "2026-06-09T04:34:40+00:00",
+  "sequence": 780
+}

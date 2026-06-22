@@ -1,0 +1,104 @@
+{
+  "id": "advising__exams-and-placements-dfd2550351",
+  "url": "https://shanghai.nyu.edu/advising/exams-and-placements",
+  "canonical_url": "https://shanghai.nyu.edu/advising/exams-and-placements",
+  "page_type": "advising",
+  "title": "Exams and Placement",
+  "description": "Students are placed into courses for the first semester based on high school academic records. You can also take placement exams for Chinese, Mathematics, and Computer Science to move into a higher level than your current placement.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Exams and Placement\nStudents are placed into courses for the first semester based on high school academic records. You can also take placement exams for Chinese, Mathematics, and Computer Science to move into a higher level than your current placement.\nAdvanced Standing Exam Scores & Curriculum Fulfillment\nChinese Placement\nMathematics Placement\nComputer Science Placement",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Exams and Placement"
+    },
+    {
+      "type": "p",
+      "text": "Students are placed into courses for the first semester based on high school academic records. You can also take placement exams for Chinese, Mathematics, and Computer Science to move into a higher level than your current placement."
+    },
+    {
+      "type": "p",
+      "text": "Advanced Standing Exam Scores & Curriculum Fulfillment"
+    },
+    {
+      "type": "p",
+      "text": "Chinese Placement"
+    },
+    {
+      "type": "p",
+      "text": "Mathematics Placement"
+    },
+    {
+      "type": "p",
+      "text": "Computer Science Placement"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-academic_advising-01-2.jpg",
+      "alt": "Advanced Standing Exam Scores & Curriculum Fulfillment",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-academic_advising-01-3.jpg",
+      "alt": "Chinese Placement",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-academic_advising-01-3-2e40dedcb67f.jpg",
+      "download_status": "downloaded",
+      "bytes": 115319,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-academic_advising-01-4.jpg",
+      "alt": "Mathematics Placement",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-academic_advising-01-5.jpg",
+      "alt": "Computer Science Placement",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-academic_advising-01-5-62fdd0e531ba.jpg",
+      "download_status": "downloaded",
+      "bytes": 78312,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/advising/exams-placement/exam-scores",
+      "text": "Advanced Standing Exam Scores & Curriculum Fulfillment",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/exams-placement/chinese-placement",
+      "text": "Chinese Placement",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/exams-and-placements/mathematics-placement",
+      "text": "Mathematics Placement",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/advising/exams-and-placements/computer-science-placement",
+      "text": "Computer Science Placement",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 53,
+  "crawled_at": "2026-06-09T04:30:37+00:00",
+  "sequence": 326
+}

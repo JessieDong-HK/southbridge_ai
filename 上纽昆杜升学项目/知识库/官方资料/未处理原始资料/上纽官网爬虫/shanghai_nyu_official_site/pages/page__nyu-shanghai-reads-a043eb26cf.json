@@ -1,0 +1,105 @@
+{
+  "id": "page__nyu-shanghai-reads-a043eb26cf",
+  "url": "https://shanghai.nyu.edu/page/nyu-shanghai-reads",
+  "canonical_url": "https://shanghai.nyu.edu/page/nyu-shanghai-reads",
+  "page_type": "page",
+  "title": "NYU Shanghai Reads",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "NYU Shanghai Reads\nWhat is NYU Shanghai Reads?\nNYU Shanghai Reads is a program that brings the NYU Shanghai community together around a single common text chosen to spark intercultural dialogue among members of our diverse community. While serving as a key theme for first-year orientation, the whole university community is also welcome to participate through a series of events throughout the academic year.\nJump to:\nAccessing the Book\nUpcoming Events\nYong Chen’s Chop Suey, USA explores the ways that Chinese food became ubiquitous, transforming America into an empire of consumption. The success of Chinese food, engineered by a marginalized community, is not just a story of changing tastes but also a story of immigrant resilience. Chinese Americans turned a scorned cuisine into a restaurant powerhouse, innovating with open kitchens and delivery. They simplified dishes like chop suey, turning them into national staples. Overall, Chop Suey, USA is a timely exploration of Chinese American history through food. It sheds light on the dynamics of identity, stereotypes, and cultural exchange, particularly how Chinese immigrants persevered by adapting their cuisine to survive amid discrimination and exclusion. The book shows how food became a bridge, transforming American perceptions of Chinese culture, fostering connections across racial divides.\nAccessing the Book via the NYU Shanghai Library\nLocate the book in the NYU Shanghai Library here. You can read the eBook on your computer, phone, or tablet. Try the Palace Project app for easy mobile access!\nPrefer to read a physical book? The library also has a print copy you can borrow.\nHaving trouble accessing the library? Contact the library by chat or email for help.\nUpcoming Events",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "NYU Shanghai Reads"
+    },
+    {
+      "type": "h2",
+      "text": "What is NYU Shanghai Reads?"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai Reads is a program that brings the NYU Shanghai community together around a single common text chosen to spark intercultural dialogue among members of our diverse community. While serving as a key theme for first-year orientation, the whole university community is also welcome to participate through a series of events throughout the academic year."
+    },
+    {
+      "type": "h3",
+      "text": "Jump to:"
+    },
+    {
+      "type": "li",
+      "text": "Accessing the Book"
+    },
+    {
+      "type": "li",
+      "text": "Upcoming Events"
+    },
+    {
+      "type": "p",
+      "text": "Yong Chen’s Chop Suey, USA explores the ways that Chinese food became ubiquitous, transforming America into an empire of consumption. The success of Chinese food, engineered by a marginalized community, is not just a story of changing tastes but also a story of immigrant resilience. Chinese Americans turned a scorned cuisine into a restaurant powerhouse, innovating with open kitchens and delivery. They simplified dishes like chop suey, turning them into national staples. Overall, Chop Suey, USA is a timely exploration of Chinese American history through food. It sheds light on the dynamics of identity, stereotypes, and cultural exchange, particularly how Chinese immigrants persevered by adapting their cuisine to survive amid discrimination and exclusion. The book shows how food became a bridge, transforming American perceptions of Chinese culture, fostering connections across racial divides."
+    },
+    {
+      "type": "h2",
+      "text": "Accessing the Book via the NYU Shanghai Library"
+    },
+    {
+      "type": "p",
+      "text": "Locate the book in the NYU Shanghai Library here. You can read the eBook on your computer, phone, or tablet. Try the Palace Project app for easy mobile access!"
+    },
+    {
+      "type": "p",
+      "text": "Prefer to read a physical book? The library also has a print copy you can borrow."
+    },
+    {
+      "type": "p",
+      "text": "Having trouble accessing the library? Contact the library by chat or email for help."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Events"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/9780231168922.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/9780231168922-569fa830faf8.jpg",
+      "download_status": "downloaded",
+      "bytes": 17062,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/page/nyu-shanghai-reads",
+      "text": "Accessing the Book",
+      "internal": true
+    },
+    {
+      "url": "https://search.shanghai.library.nyu.edu/discovery/fulldisplay?context=L&vid=01NYU_US:SH&search_scope=CI_NYUSH&tab=default_slot&docid=alma990040840080107871",
+      "text": "here",
+      "internal": false
+    },
+    {
+      "url": "https://guides.nyu.edu/palace",
+      "text": "Palace Project app",
+      "internal": false
+    },
+    {
+      "url": "https://search.shanghai.library.nyu.edu/permalink/01NYU_US/9ifdl4/alma990040656420107877",
+      "text": "print copy",
+      "internal": false
+    },
+    {
+      "url": "https://library.shanghai.nyu.edu/aal",
+      "text": "Contact the library",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 274,
+  "crawled_at": "2026-06-09T04:31:20+00:00",
+  "sequence": 442
+}

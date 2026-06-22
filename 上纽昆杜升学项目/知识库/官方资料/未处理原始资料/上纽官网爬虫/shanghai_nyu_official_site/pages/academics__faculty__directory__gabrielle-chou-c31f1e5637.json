@@ -1,0 +1,46 @@
+{
+  "id": "academics__faculty__directory__gabrielle-chou-c31f1e5637",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/gabrielle-chou",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/gabrielle-chou",
+  "page_type": "academics",
+  "title": "Gabrielle",
+  "description": "Gabrielle Chou is an Associate Professor of Practice in Interactive Media Business (IMB) at NYU Shanghai. She is a serial entrepreneur turned professor in 2021.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Gabrielle Chou\nGabrielle Chou is an Associate Professor of Practice in Interactive Media Business (IMB) at NYU Shanghai. She is a serial entrepreneur turned professor in 2021.\nIn 2000, she started ChinaLOOP that she sold 4 years later to ACXIOM (NASDAQ ACXM). In 2010 she created MOOD BY ME, a Digital Native Brand producing custom fashion pieces on-demand. She sold MOOD BY ME in 2015 and founded Allure Systems in 2017. Allure Systems is serving fashion brands with an AI solution to produce images at scale. Allure Systems was acquired by Farfetch (NASDAQ : FTCH) in December 2021. Gabrielle started to teach at NYU Shanghai in 2021.\nGabrielle has lived in Shanghai for 25 years with a 3 years hiatus in the US following Allure Systems selection to the Y combinator accelerator program. Gabrielle graduated with a Doctorate in Intellectual Property Law from Paris University, and a Master in Law from London University (Queen Mary College).",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Gabrielle Chou"
+    },
+    {
+      "type": "p",
+      "text": "Gabrielle Chou is an Associate Professor of Practice in Interactive Media Business (IMB) at NYU Shanghai. She is a serial entrepreneur turned professor in 2021."
+    },
+    {
+      "type": "p",
+      "text": "In 2000, she started ChinaLOOP that she sold 4 years later to ACXIOM (NASDAQ ACXM). In 2010 she created MOOD BY ME, a Digital Native Brand producing custom fashion pieces on-demand. She sold MOOD BY ME in 2015 and founded Allure Systems in 2017. Allure Systems is serving fashion brands with an AI solution to produce images at scale. Allure Systems was acquired by Farfetch (NASDAQ : FTCH) in December 2021. Gabrielle started to teach at NYU Shanghai in 2021."
+    },
+    {
+      "type": "p",
+      "text": "Gabrielle has lived in Shanghai for 25 years with a 3 years hiatus in the US following Allure Systems selection to the Y combinator accelerator program. Gabrielle graduated with a Doctorate in Intellectual Property Law from Paris University, and a Master in Law from London University (Queen Mary College)."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Gabrielle%20CHOU%202026s.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 156,
+  "crawled_at": "2026-06-09T04:53:51+00:00",
+  "sequence": 2394
+}

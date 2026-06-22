@@ -1,0 +1,96 @@
+{
+  "id": "campuslife__researching-careers-cc772a81e7",
+  "url": "https://shanghai.nyu.edu/campuslife/researching-careers",
+  "canonical_url": "https://shanghai.nyu.edu/campuslife/researching-careers",
+  "page_type": "campuslife",
+  "title": "Researching Careers",
+  "description": "Online ResearchReview our industry guides to get an understanding of different fields. Our skills guides will help you improve your resumes, cover letters, and interview techniques.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Researching Careers\nOnline Research\nReview our industry guides to get an understanding of different fields. Our skills guides will help you improve your resumes, cover letters, and interview techniques. We have also included some websites that will help you understand career options. Reading news and publications relevant to your fields of interest will also aid your job search.\nNetworking\nOnce you’ve done some research, you will know what you don’t know. The next step is to personalize your research by speaking with people. This is the only way to really learn what it’s like to work for a particular organization, doing a specific job. The networking related skills guides from the CCD cover how to do career research on LinkedIn, how to do informational interviews, and how to make the most of the NYU Shanghai career fair.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Researching Careers"
+    },
+    {
+      "type": "h3",
+      "text": "Online Research"
+    },
+    {
+      "type": "p",
+      "text": "Review our industry guides to get an understanding of different fields. Our skills guides will help you improve your resumes, cover letters, and interview techniques. We have also included some websites that will help you understand career options. Reading news and publications relevant to your fields of interest will also aid your job search."
+    },
+    {
+      "type": "h3",
+      "text": "Networking"
+    },
+    {
+      "type": "p",
+      "text": "Once you’ve done some research, you will know what you don’t know. The next step is to personalize your research by speaking with people. This is the only way to really learn what it’s like to work for a particular organization, doing a specific job. The networking related skills guides from the CCD cover how to do career research on LinkedIn, how to do informational interviews, and how to make the most of the NYU Shanghai career fair."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-3-02-1-2.jpg",
+      "alt": "cdc",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-3-02-1-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://vault.com/",
+      "text": "Vault",
+      "internal": false
+    },
+    {
+      "url": "http://www.bls.gov/ooh",
+      "text": "Bureau of Labor Statistics",
+      "internal": false
+    },
+    {
+      "url": "http://online.goinglobal.com/default.aspx",
+      "text": "GoinGlobal",
+      "internal": false
+    },
+    {
+      "url": "https://www.linkedin.com/",
+      "text": "LinkedIn",
+      "internal": false
+    },
+    {
+      "url": "https://www.linkedin.com/groups/4823679",
+      "text": "LinkedIn NYU Alumni Club in Shanghai",
+      "internal": false
+    },
+    {
+      "url": "https://guides.nyu.edu/c.php?g=277131&p=4025220",
+      "text": "NYU Library Resources",
+      "internal": false
+    },
+    {
+      "url": "http://www.salary.com/",
+      "text": "salary.com",
+      "internal": false
+    },
+    {
+      "url": "http://www.glassdoor.com/salaries",
+      "text": "glassdoor.com",
+      "internal": false
+    },
+    {
+      "url": "http://www.kanzhun.com/",
+      "text": "kanzhun.com",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 140,
+  "crawled_at": "2026-06-09T04:44:21+00:00",
+  "sequence": 1602
+}

@@ -1,0 +1,184 @@
+{
+  "id": "page__graduate-destinations-519e728101",
+  "url": "https://shanghai.nyu.edu/page/graduate-destinations",
+  "canonical_url": "https://shanghai.nyu.edu/page/graduate-destinations",
+  "page_type": "page",
+  "title": "Graduate Destinations",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Graduate Destinations\nClass of 2025 stats in 3 minutes.\nPublished annually, Life Beyond New Bund provides insight into the various career paths members of each year’s senior class have embarked upon in the months following graduation.\nData is collected through an online survey conducted by the NYU Shanghai Center for Career Development for a period of six months after graduation and supplemented with research from external sources such as employer-provided data, contact with students, and verified updates to social media.\nInfographics\nLife Beyond the New Bund: Class of 2025\nLife Beyond the New Bund: Class of 2024\nLife Beyond the New Bund: Class of 2023\nFull Report\nLife Beyond Century Avenue 2025 (full PDF report)\nLife Beyond Century Avenue 2024 (full PDF report)\nLife Beyond The New Bund 2023 (full PDF report)",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Graduate Destinations"
+    },
+    {
+      "type": "p",
+      "text": "Class of 2025 stats in 3 minutes."
+    },
+    {
+      "type": "p",
+      "text": "Published annually, Life Beyond New Bund provides insight into the various career paths members of each year’s senior class have embarked upon in the months following graduation."
+    },
+    {
+      "type": "p",
+      "text": "Data is collected through an online survey conducted by the NYU Shanghai Center for Career Development for a period of six months after graduation and supplemented with research from external sources such as employer-provided data, contact with students, and verified updates to social media."
+    },
+    {
+      "type": "h4",
+      "text": "Infographics"
+    },
+    {
+      "type": "h4",
+      "text": "Life Beyond the New Bund: Class of 2025"
+    },
+    {
+      "type": "h4",
+      "text": "Life Beyond the New Bund: Class of 2024"
+    },
+    {
+      "type": "h4",
+      "text": "Life Beyond the New Bund: Class of 2023"
+    },
+    {
+      "type": "h4",
+      "text": "Full Report"
+    },
+    {
+      "type": "h4",
+      "text": "Life Beyond Century Avenue 2025 (full PDF report)"
+    },
+    {
+      "type": "h4",
+      "text": "Life Beyond Century Avenue 2024 (full PDF report)"
+    },
+    {
+      "type": "h4",
+      "text": "Life Beyond The New Bund 2023 (full PDF report)"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/2025_0.jpg",
+      "alt": "Life Beyond the New Bund: Class of 2025",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2025_0-10ac288f59ff.jpg",
+      "download_status": "downloaded",
+      "bytes": 51419,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/2024_0.jpg",
+      "alt": "Life Beyond the New Bund: Class of 2024",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/2024_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/nyu-2023_0.jpg",
+      "alt": "Life Beyond the New Bund: Class of 2023",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyu-2023_0-8af3e1860691.jpg",
+      "download_status": "downloaded",
+      "bytes": 64555,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-destinations-02.jpeg",
+      "alt": "View the infograhics archive",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-graduate-destinations-02.jpeg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/2025fdr.jpg",
+      "alt": "Life Beyond Century Avenue 2025 (full PDF report)",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/fdr-2024.jpg",
+      "alt": "FDR",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/fdr-2024.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/dsc05543_0.jpg",
+      "alt": "Life Beyond Century Avenue 2023 (full PDF report)",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/dsc05543_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-destinations-04.jpg",
+      "alt": "FDR",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-graduate-destinations-04.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/life-beyond-new-bund-class-2025",
+      "text": "Life Beyond the New Bund: Class of 2025",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/life-beyond-new-bund-class-2024",
+      "text": "Life Beyond the New Bund: Class of 2024",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/life-beyond-new-bund-class-2023",
+      "text": "Life Beyond the New Bund: Class of 2023",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations/view-the-infograhics-archive",
+      "text": "View the Infographics Archive",
+      "internal": true
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/Life_Beyond_the_New_Bund_2025_EN.pdf",
+      "text": "Life Beyond Century Avenue 2025 (full PDF report)",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/Life_Beyond_the_New_Bund_2024_EN.pdf",
+      "text": "Life Beyond Century Avenue 2024 (full PDF report)",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/co2023_fd_eng.pdf",
+      "text": "Life Beyond The New Bund 2023 (full PDF report)",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations/view-the-full-reports-archive",
+      "text": "View the Full Reports Archive",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 134,
+  "crawled_at": "2026-06-09T04:32:30+00:00",
+  "sequence": 582
+}

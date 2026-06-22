@@ -1,0 +1,127 @@
+{
+  "id": "academics__faculty__directory__shuyang-ling-0b5760caf5",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/shuyang-ling",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/shuyang-ling",
+  "page_type": "academics",
+  "title": "Shuyang",
+  "description": "Shuyang Ling is an Assistant Professor of Data Science at NYU Shanghai and a Global Network Assistant Professor at the Tandon School of Engineering at NYU. Prior to joining NYU Shanghai, he was a Courant Instructor/Assistant Professor at the Courant Institute of Mathematics and Center for Data",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Shuyang Ling\nShuyang Ling is an Assistant Professor of Data Science at NYU Shanghai and a Global Network Assistant Professor at the Tandon School of Engineering at NYU. Prior to joining NYU Shanghai, he was a Courant Instructor/Assistant Professor at the Courant Institute of Mathematics and Center for Data Science, New York University, from 2017-2019.\nLing's research focuses broadly on the mathematics of data science. He is interested in tackling inverse problems from engineering applications and extracting meaningful information from large-scale and heterogeneous datasets. His research involves a broad spectrum of subjects including optimization, probability, statistics, computational harmonic analysis, and numerical linear algebra. For more details, you can visit Shuyang's personal homepage.\nRead more in Faculty Spotlight: Ling Shuyang.\nSelect Publications\nShuyang Ling and Thomas Strohmer. Self-calibration and biconvex compressive sensing. Inverse Problems, Vol. 31(11): 115002, 2015\nShuyang Ling and Thomas Strohmer. Blind deconvolution meets blind demixing: algorithms and performance bounds. IEEE Transactions on Information Theory, Vol.63, No.7, pp.4497 - 4520, Jul 2017\nXiaodong Li, Shuyang Ling, Thomas Strohmer, and Ke Wei. Rapid, robust, and reliable blind deconvolution via nonconvex optimization. Applied and Computational Harmonic Analysis, 2018\nShuyang Ling, Ruitu Xu, Afonso S. Bandeira. On the landscape of synchronization networks: a perspective from nonconvex optimization, SIAM Journal on Optimization, Vol.29, No.3, pp.1879-1907, 2019\nShuyang Ling and Thomas Strohmer. Certifying global optimality of graph cuts via semidefinite relaxation: A performance guarantee for spectral clustering, Foundations of Computational Mathematics, 2019\nEducation\nPhD, Applied MathematicsUniversity of California, Davis\nMS, StatisticsUniversity of California, Davis\nMathematics of Signal Processing\nMachine Learning\nOptimization\nCompressive Sensing\nComputational Harmonic Analysis\nThe Mathematics of Statistics and Data Science\nIndependent Study: Mathematics",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Shuyang Ling"
+    },
+    {
+      "type": "p",
+      "text": "Shuyang Ling is an Assistant Professor of Data Science at NYU Shanghai and a Global Network Assistant Professor at the Tandon School of Engineering at NYU. Prior to joining NYU Shanghai, he was a Courant Instructor/Assistant Professor at the Courant Institute of Mathematics and Center for Data Science, New York University, from 2017-2019."
+    },
+    {
+      "type": "p",
+      "text": "Ling's research focuses broadly on the mathematics of data science. He is interested in tackling inverse problems from engineering applications and extracting meaningful information from large-scale and heterogeneous datasets. His research involves a broad spectrum of subjects including optimization, probability, statistics, computational harmonic analysis, and numerical linear algebra. For more details, you can visit Shuyang's personal homepage."
+    },
+    {
+      "type": "p",
+      "text": "Read more in Faculty Spotlight: Ling Shuyang."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Shuyang Ling and Thomas Strohmer. Self-calibration and biconvex compressive sensing. Inverse Problems, Vol. 31(11): 115002, 2015"
+    },
+    {
+      "type": "li",
+      "text": "Shuyang Ling and Thomas Strohmer. Blind deconvolution meets blind demixing: algorithms and performance bounds. IEEE Transactions on Information Theory, Vol.63, No.7, pp.4497 - 4520, Jul 2017"
+    },
+    {
+      "type": "li",
+      "text": "Xiaodong Li, Shuyang Ling, Thomas Strohmer, and Ke Wei. Rapid, robust, and reliable blind deconvolution via nonconvex optimization. Applied and Computational Harmonic Analysis, 2018"
+    },
+    {
+      "type": "li",
+      "text": "Shuyang Ling, Ruitu Xu, Afonso S. Bandeira. On the landscape of synchronization networks: a perspective from nonconvex optimization, SIAM Journal on Optimization, Vol.29, No.3, pp.1879-1907, 2019"
+    },
+    {
+      "type": "li",
+      "text": "Shuyang Ling and Thomas Strohmer. Certifying global optimality of graph cuts via semidefinite relaxation: A performance guarantee for spectral clustering, Foundations of Computational Mathematics, 2019"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Applied MathematicsUniversity of California, Davis"
+    },
+    {
+      "type": "li",
+      "text": "MS, StatisticsUniversity of California, Davis"
+    },
+    {
+      "type": "li",
+      "text": "Mathematics of Signal Processing"
+    },
+    {
+      "type": "li",
+      "text": "Machine Learning"
+    },
+    {
+      "type": "li",
+      "text": "Optimization"
+    },
+    {
+      "type": "li",
+      "text": "Compressive Sensing"
+    },
+    {
+      "type": "li",
+      "text": "Computational Harmonic Analysis"
+    },
+    {
+      "type": "li",
+      "text": "The Mathematics of Statistics and Data Science"
+    },
+    {
+      "type": "li",
+      "text": "Independent Study: Mathematics"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/shuyang_ling.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/shuyang_ling-68725b255c22.jpg",
+      "download_status": "downloaded",
+      "bytes": 718057,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cs.shanghai.nyu.edu/faculty/shuyang-ling-lingshuyang",
+      "text": "https://cs.shanghai.nyu.edu/faculty/shuyang-ling-lingshuyang",
+      "internal": false
+    },
+    {
+      "url": "https://shuyang-ling.github.io/",
+      "text": "Shuyang's personal homepage",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/qa-data-science-professor-ling-shuyang",
+      "text": "Faculty Spotlight: Ling Shuyang",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 285,
+  "crawled_at": "2026-06-09T04:40:40+00:00",
+  "sequence": 1308
+}

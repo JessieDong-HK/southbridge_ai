@@ -1,0 +1,92 @@
+{
+  "id": "cn__campus-life__athletics__intercollegiate-sports-f9ed1076ca",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/athletics/intercollegiate-sports",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/athletics/intercollegiate-sports",
+  "page_type": "cn",
+  "title": "校际体育运动",
+  "description": "每学年，上海纽约大学都会参加上海校际体育联盟举办的各项体育活动、联赛和比赛，与上海本地高校学子同场竞技。上海纽约大学校体育运动队现有项目包括足球、篮球、排球、乒乓球、羽毛球和网球。我们鼓励学生通过选拔加入校队，强健你我身心，弘扬体育精神，共创紫罗兰荣光！欲了解更多有关运动队的信息，请发送邮件至 shanghai.athletics@nyu.edu咨询。 新闻",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "校际体育运动\n每学年，上海纽约大学都会参加上海校际体育联盟举办的各项体育活动、联赛和比赛，与上海本地高校学子同场竞技。上海纽约大学校体育运动队现有项目包括足球、篮球、排球、乒乓球、羽毛球和网球。我们鼓励学生通过选拔加入校队，强健你我身心，弘扬体育精神，共创紫罗兰荣光！\n欲了解更多有关运动队的信息，请发送邮件至 shanghai.athletics@nyu.edu咨询。\n新闻\n上纽大女足再夺联盟杯赛冠军！\n加入上海市大学生体育协会后 上纽大体育校队首度开赛\n上海纽约大学成为上海市大学生体育协会团体会员",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "校际体育运动"
+    },
+    {
+      "type": "p",
+      "text": "每学年，上海纽约大学都会参加上海校际体育联盟举办的各项体育活动、联赛和比赛，与上海本地高校学子同场竞技。上海纽约大学校体育运动队现有项目包括足球、篮球、排球、乒乓球、羽毛球和网球。我们鼓励学生通过选拔加入校队，强健你我身心，弘扬体育精神，共创紫罗兰荣光！"
+    },
+    {
+      "type": "p",
+      "text": "欲了解更多有关运动队的信息，请发送邮件至 shanghai.athletics@nyu.edu咨询。"
+    },
+    {
+      "type": "p",
+      "text": "新闻"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大女足再夺联盟杯赛冠军！"
+    },
+    {
+      "type": "h4",
+      "text": "加入上海市大学生体育协会后 上纽大体育校队首度开赛"
+    },
+    {
+      "type": "h4",
+      "text": "上海纽约大学成为上海市大学生体育协会团体会员"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/huddle_1.jpg",
+      "alt": "上纽大篮球和羽毛球友谊赛首战击败昆山杜克",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/huddle_1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/steve_cai_1.jpg",
+      "alt": "上纽大新生杨知恒、包涵丹分获第16届市运会网球（高校组）男女单打冠亚军",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/steve_cai_1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/nyu1.jpg",
+      "alt": "NYU Shanghai Students",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/nyu1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/womens-soccer-team-become-champions-shanghai-again",
+      "text": "上纽大女足再夺联盟杯赛冠军！",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/nyu-shanghai-sports-teams-kick-first-year-full-members-shanghai-sports-league",
+      "text": "加入上海市大学生体育协会后 上纽大体育校队首度开赛",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/shang-hai-niu-yue-da-xue-cheng-wei-shang-hai-shi-da-xue-sheng-ti-yu-xie-hui-tuan-ti-hui-yuan",
+      "text": "上海纽约大学成为上海市大学生体育协会团体会员",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 25,
+  "crawled_at": "2026-06-09T04:36:47+00:00",
+  "sequence": 952
+}

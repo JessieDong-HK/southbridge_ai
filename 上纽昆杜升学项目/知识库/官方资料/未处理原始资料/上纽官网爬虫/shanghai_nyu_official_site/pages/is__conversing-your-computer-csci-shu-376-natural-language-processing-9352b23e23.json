@@ -1,0 +1,182 @@
+{
+  "id": "is__conversing-your-computer-csci-shu-376-natural-language-processing-9352b23e23",
+  "url": "https://shanghai.nyu.edu/is/conversing-your-computer-csci-shu-376-natural-language-processing",
+  "canonical_url": "https://shanghai.nyu.edu/is/conversing-your-computer-csci-shu-376-natural-language-processing",
+  "page_type": "is",
+  "title": "Conversing with Your Computer: CSCI-SHU 376 Natural Language Processing",
+  "description": "For most people who watched the Disney animated movie Big Hero 6, having a kind and empathetic robot companion like the character Baymax to protect, teach, and support you seems like straight-up science fiction. But for NYU Shanghai Professor of Practice in Computer Science Wilson Tam Yik-Cheung",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Conversing with Your Computer: CSCI-SHU 376 Natural Language Processing\nTwitter\nFacebook\nWeibo\nFor most people who watched the Disney animated movie Big Hero 6, having a kind and empathetic robot companion like the character Baymax to protect, teach, and support you seems like straight-up science fiction. But for NYU Shanghai Professor of Practice in Computer Science Wilson Tam Yik-Cheung (and now many of his undergraduate students), creating a Baymax to help you and me and everyone we know is well within the realm of possibility. The key is getting AI to communicate with us by understanding, responding to, and producing real human language (aka “natural language”), a feat that Tam and his students are working toward in his class, CSCI-SHU 376 Natural Language Processing.\nNatural language processing (NLP) is making tech more accessible and useful in our everyday lives, driving applications like voice activated personal assistants, customer service help bots, machine translation, automatic transcription, machine reading, and even music generation. In Tam’s course, NYU Shanghai students build on foundational skills from prior coursework in machine learning, probability, and statistics to refine and apply the state-of-the-art artificial intelligence (AI) algorithms that power language-based services like Google Translate, Amazon Echo and Apple’s Siri.\nTam first began working with language technologies, especially voice recognition, as a master’s degree student at Hong Kong University of Science and Technology. He then specialized in computer language generation during his PhD studies at Carnegie Mellon University’s School of Computer Science. “I was fascinated to see so many applications developed using language technologies and applied to our daily life,” Tam says. “Creating a conversational interface for computers to communicate with humans seemed like such a cool thing to have in the future, just like a scene from a sci-fi movie.”\nTam worked for Microsoft to help develop their personal assistant Cortana before joining Tencent , where he helped develop several AI dialogue systems, including their WeChat-based personal assistant program Xiaowei and chatbot Xianer, which aims to help users resolve personal anxiety issues with responses modeled on advice from Buddhist monks at Zhejiang Province’s famous Longquan Temple. When he’s not teaching or advising students on NLP-based research projects, Tam is working on a mental health support AI that can help people navigate past moments of psychological crisis and connect users with serious mental health emergencies to human professionals.\nTam introduces Tencent’s voice-enabled personal assistant Xiaowei at the Tencent Global Digital Ecosystem Summit in 2019.\n“The data from Xianer and many similar projects shows that most people ask questions about topics like marriage, study, money, how to raise their kids -- topics that they have no idea how to find some help about,” says Tam. “Often people who need help are isolated, and they don’t have many friends, so this robot can listen to them, keep track of their problems, and try to find an answer that can help them and comfort them.”\nAs a Hong Kong native, Tam is fluent in English, Cantonese, and Mandarin Chinese, and in the course of his academic research and professional experience he has learned about the linguistic structures of other languages, including Arabic and French. But surprisingly, Tam says that cutting-edge NLP research doesn’t require programmers to have extensive knowledge of each language their AI is working with.\n“The languages of Chinese and English have important differences in terms of syntactical behavior. However, in terms of machine learning, actually we apply similar techniques to both languages, so the techniques are universal,” Tam says. That’s because contemporary NLP uses what’s known as a data-driven approach, which trains AI to understand and use language in much the same way that human babies learn to talk. Instead of starting out by teaching AI a set of grammar rules and only later giving the AI real examples labeled with grammatical markers, programmers now begin pre-training NLP AI by inputting billions of unlabeled natural language data points (such as Wikipedia articles and even whole books), allowing the AI to learn through a series of massive fill-in-the-blank exercises.\nUsing free processing units provided by Google, Tam’s students can feed tens and even hundreds of thousands of data points – phrases, sentences, and dialogues created and used by real people in texts, online, in social media, and in linguistics research datasets – into “neural networks.” Neural networks are multi-layered webs of small computing units, modeled after the structure of human neurons. Not only can these networks process massive amounts of data in a relatively short time, they can also sift out more insightful answers to complex questions by developing massive computational trees relating single data points to thousands of others in milliseconds. That’s a huge advantage when just a single word, or “token,” in a dataset can be linked to an average of 768 “features” – linguistic elements ranging from synonyms, to suffixes, to words and phrases that are often used together with the token.\n“Learning how to work with neural networks is one of the biggest challenges for students in this course,” Tam says. “It requires a strong foundation in probability theory, and the many layers of a neural network require students to do a lot of parallel processing – formulating data in multiple dimensions.”\nA visual representation of how the computing units in a neural network interact with each other. Image by BrunelloN via Wikimedia Commons.\nIn homework assignments and final projects, students re-craft the cutting-edge NLP algorithms that govern their neural networks, directing the networks to rebalance the weight of particular token-associated features to make predictions and outputs that fit the task at hand. Their final projects have ranged from turning computers into Classical Chinese poets to teaching them the basics of humor through automated meme generation. Some students were even able to go beyond the confines of Chinese and English in machine translation applications, in one project harnessing French to English translation to improve the accuracy of French to Norwegian translation.\nWang Yuchen ’22, a double major in data science and computer science, says he was really excited to put his programming skills to the test in this rapidly emerging field. “Before taking this course, I knew some applications of NLP technology, such as machine translation and dialogue systems, but I knew little about its theory. I loved how the course projects let us apply what we learned and get our hands dirty through practice.”\nFor their open-ended final course project, Wang and his partner William Huang ’22 built their own meme caption generating program with some help from the OpenAI’s neural network CLIP, which is trained to extract meaningful responses that include images and text. Wang and Huang tried out several different caption generation processes, introducing tests of a caption’s suitability at various points in the generation process and matching them to different sets of real-world examples to carefully hone the AI’s abilities.\nTwo meme captions that Wang and Huang’s AI successfully generated, in part based on the captions listed as “Reference.”\n“In conventional image captioning, the desired captions mostly identify the most salient objects in the images and describe their relationships. By contrast, meme captions are often based on more subtle features, like facial expressions and body languages, that inspire a sense of humor,” Wang said. “There were a few unexpected things we encountered, but Professor Tam was so helpful that everything went smoothly.”\nNow Wang is using his NLP skills for good in his spare time, most recently trying to improve question and answer systems for Indian languages in a competition hosted by Google-backed data science community Kaggle. “I wanted to learn more about how to improve NLP models on underrepresented languages and practice what I learned from the NLP class,” he said.\nTam says he is excited to see students taking a passion for NLP work into new domains and new paths. “Once students have got their hands dirty and started building their own computer programs in this class, they will be ready to go into industry or graduate study, where there are a lot of opportunities to develop NLP technologies and related applications like computer vision,” Tam says.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Conversing with Your Computer: CSCI-SHU 376 Natural Language Processing"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "For most people who watched the Disney animated movie Big Hero 6, having a kind and empathetic robot companion like the character Baymax to protect, teach, and support you seems like straight-up science fiction. But for NYU Shanghai Professor of Practice in Computer Science Wilson Tam Yik-Cheung (and now many of his undergraduate students), creating a Baymax to help you and me and everyone we know is well within the realm of possibility. The key is getting AI to communicate with us by understanding, responding to, and producing real human language (aka “natural language”), a feat that Tam and his students are working toward in his class, CSCI-SHU 376 Natural Language Processing."
+    },
+    {
+      "type": "p",
+      "text": "Natural language processing (NLP) is making tech more accessible and useful in our everyday lives, driving applications like voice activated personal assistants, customer service help bots, machine translation, automatic transcription, machine reading, and even music generation. In Tam’s course, NYU Shanghai students build on foundational skills from prior coursework in machine learning, probability, and statistics to refine and apply the state-of-the-art artificial intelligence (AI) algorithms that power language-based services like Google Translate, Amazon Echo and Apple’s Siri."
+    },
+    {
+      "type": "p",
+      "text": "Tam first began working with language technologies, especially voice recognition, as a master’s degree student at Hong Kong University of Science and Technology. He then specialized in computer language generation during his PhD studies at Carnegie Mellon University’s School of Computer Science. “I was fascinated to see so many applications developed using language technologies and applied to our daily life,” Tam says. “Creating a conversational interface for computers to communicate with humans seemed like such a cool thing to have in the future, just like a scene from a sci-fi movie.”"
+    },
+    {
+      "type": "p",
+      "text": "Tam worked for Microsoft to help develop their personal assistant Cortana before joining Tencent , where he helped develop several AI dialogue systems, including their WeChat-based personal assistant program Xiaowei and chatbot Xianer, which aims to help users resolve personal anxiety issues with responses modeled on advice from Buddhist monks at Zhejiang Province’s famous Longquan Temple. When he’s not teaching or advising students on NLP-based research projects, Tam is working on a mental health support AI that can help people navigate past moments of psychological crisis and connect users with serious mental health emergencies to human professionals."
+    },
+    {
+      "type": "p",
+      "text": "Tam introduces Tencent’s voice-enabled personal assistant Xiaowei at the Tencent Global Digital Ecosystem Summit in 2019."
+    },
+    {
+      "type": "p",
+      "text": "“The data from Xianer and many similar projects shows that most people ask questions about topics like marriage, study, money, how to raise their kids -- topics that they have no idea how to find some help about,” says Tam. “Often people who need help are isolated, and they don’t have many friends, so this robot can listen to them, keep track of their problems, and try to find an answer that can help them and comfort them.”"
+    },
+    {
+      "type": "p",
+      "text": "As a Hong Kong native, Tam is fluent in English, Cantonese, and Mandarin Chinese, and in the course of his academic research and professional experience he has learned about the linguistic structures of other languages, including Arabic and French. But surprisingly, Tam says that cutting-edge NLP research doesn’t require programmers to have extensive knowledge of each language their AI is working with."
+    },
+    {
+      "type": "p",
+      "text": "“The languages of Chinese and English have important differences in terms of syntactical behavior. However, in terms of machine learning, actually we apply similar techniques to both languages, so the techniques are universal,” Tam says. That’s because contemporary NLP uses what’s known as a data-driven approach, which trains AI to understand and use language in much the same way that human babies learn to talk. Instead of starting out by teaching AI a set of grammar rules and only later giving the AI real examples labeled with grammatical markers, programmers now begin pre-training NLP AI by inputting billions of unlabeled natural language data points (such as Wikipedia articles and even whole books), allowing the AI to learn through a series of massive fill-in-the-blank exercises."
+    },
+    {
+      "type": "p",
+      "text": "Using free processing units provided by Google, Tam’s students can feed tens and even hundreds of thousands of data points – phrases, sentences, and dialogues created and used by real people in texts, online, in social media, and in linguistics research datasets – into “neural networks.” Neural networks are multi-layered webs of small computing units, modeled after the structure of human neurons. Not only can these networks process massive amounts of data in a relatively short time, they can also sift out more insightful answers to complex questions by developing massive computational trees relating single data points to thousands of others in milliseconds. That’s a huge advantage when just a single word, or “token,” in a dataset can be linked to an average of 768 “features” – linguistic elements ranging from synonyms, to suffixes, to words and phrases that are often used together with the token."
+    },
+    {
+      "type": "p",
+      "text": "“Learning how to work with neural networks is one of the biggest challenges for students in this course,” Tam says. “It requires a strong foundation in probability theory, and the many layers of a neural network require students to do a lot of parallel processing – formulating data in multiple dimensions.”"
+    },
+    {
+      "type": "p",
+      "text": "A visual representation of how the computing units in a neural network interact with each other. Image by BrunelloN via Wikimedia Commons."
+    },
+    {
+      "type": "p",
+      "text": "In homework assignments and final projects, students re-craft the cutting-edge NLP algorithms that govern their neural networks, directing the networks to rebalance the weight of particular token-associated features to make predictions and outputs that fit the task at hand. Their final projects have ranged from turning computers into Classical Chinese poets to teaching them the basics of humor through automated meme generation. Some students were even able to go beyond the confines of Chinese and English in machine translation applications, in one project harnessing French to English translation to improve the accuracy of French to Norwegian translation."
+    },
+    {
+      "type": "p",
+      "text": "Wang Yuchen ’22, a double major in data science and computer science, says he was really excited to put his programming skills to the test in this rapidly emerging field. “Before taking this course, I knew some applications of NLP technology, such as machine translation and dialogue systems, but I knew little about its theory. I loved how the course projects let us apply what we learned and get our hands dirty through practice.”"
+    },
+    {
+      "type": "p",
+      "text": "For their open-ended final course project, Wang and his partner William Huang ’22 built their own meme caption generating program with some help from the OpenAI’s neural network CLIP, which is trained to extract meaningful responses that include images and text. Wang and Huang tried out several different caption generation processes, introducing tests of a caption’s suitability at various points in the generation process and matching them to different sets of real-world examples to carefully hone the AI’s abilities."
+    },
+    {
+      "type": "p",
+      "text": "Two meme captions that Wang and Huang’s AI successfully generated, in part based on the captions listed as “Reference.”"
+    },
+    {
+      "type": "p",
+      "text": "“In conventional image captioning, the desired captions mostly identify the most salient objects in the images and describe their relationships. By contrast, meme captions are often based on more subtle features, like facial expressions and body languages, that inspire a sense of humor,” Wang said. “There were a few unexpected things we encountered, but Professor Tam was so helpful that everything went smoothly.”"
+    },
+    {
+      "type": "p",
+      "text": "Now Wang is using his NLP skills for good in his spare time, most recently trying to improve question and answer systems for Indian languages in a competition hosted by Google-backed data science community Kaggle. “I wanted to learn more about how to improve NLP models on underrepresented languages and practice what I learned from the NLP class,” he said."
+    },
+    {
+      "type": "p",
+      "text": "Tam says he is excited to see students taking a passion for NLP work into new domains and new paths. “Once students have got their hands dirty and started building their own computer programs in this class, they will be ready to go into industry or graduate study, where there are a lot of opportunities to develop NLP technologies and related applications like computer vision,” Tam says."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/focus_image",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/focus_image/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/focus_image/z_6025-banner-and-homgpage.jpg?itok=lblZkCur",
+      "alt": "Tam demonstrates coding solution on whiteboard for student",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/z_6025-banner-and-homgpage-5d34d994665c.jpg",
+      "download_status": "downloaded",
+      "bytes": 43756,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/wechat_image_20210630142202.jpg",
+      "alt": "Tam delivers talk against Tencent backdrop",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechat_image_20210630142202-5bcf52e18b66.jpg",
+      "download_status": "downloaded",
+      "bytes": 242411,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/neural_network_example.png",
+      "alt": "Diagram showing complex web of interactions between computing units",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/screen_shot_2021-09-29_at_11.31.00_pm.png",
+      "alt": "Image and meme captions",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/screen_shot_2021-09-29_at_11.31.00_pm.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Conversing%20with%20Your%20Computer%3A%20CSCI-SHU%20376%20Natural%20Language%20Processing&url=https%3A//shanghai.nyu.edu/is/conversing-your-computer-csci-shu-376-natural-language-processing&status=Conversing%20with%20Your%20Computer%3A%20CSCI-SHU%20376%20Natural%20Language%20Processing%20https%3A//shanghai.nyu.edu/is/conversing-your-computer-csci-shu-376-natural-language-processing",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/is/conversing-your-computer-csci-shu-376-natural-language-processing&title=Conversing%20with%20Your%20Computer%3A%20CSCI-SHU%20376%20Natural%20Language%20Processing",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/is/conversing-your-computer-csci-shu-376-natural-language-processing&title=Conversing%20with%20Your%20Computer%3A%20CSCI-SHU%20376%20Natural%20Language%20Processing",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/yik-cheung-wilson-tam",
+      "text": "Wilson Tam Yik-Cheung",
+      "internal": true
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Example_of_a_deep_neural_network.png",
+      "text": "Image",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 1383,
+  "crawled_at": "2026-06-09T04:49:58+00:00",
+  "sequence": 2075
+}

@@ -1,0 +1,110 @@
+{
+  "id": "academics__faculty__directory__duane-corpis-10360eb614",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/duane-corpis",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/duane-corpis",
+  "page_type": "academics",
+  "title": "Duane",
+  "description": "Duane Corpis is Area Head of Humanities and an Associate Professor of History at NYU Shanghai. He is also a Global Network Associate Professor in the Faculty of Arts and Science at NYU. Prior to joining NYU Shanghai, he was an Assistant Professor at Cornell University. He holds a PhD from NYU.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Duane Corpis\nDuane Corpis is Area Head of Humanities and an Associate Professor of History at NYU Shanghai. He is also a Global Network Associate Professor in the Faculty of Arts and Science at NYU. Prior to joining NYU Shanghai, he was an Assistant Professor at Cornell University. He holds a PhD from NYU.\nProfessor Corpis is recipient of the 2013-2014 Smith Book Award from the Southern Historical Association and the 2013 Hans Rosenberg Article Prize from the Central European History Society. He has been an NEH Humanities Summer Scholar, a Senior Fellow at the Institute for Advanced Study at Central European University, and a Herzog Ernst Fellow at the Gotha Research Center and Library. He also serves on the Editorial Collective of the journal Radical History Review.\nSelected Publications\nCrossing the Boundaries of Belief: Geographies of Religious Conversion in Southern Germany, 1648-1800. Charlottesville, VA: University of Virginia Press, 2014.\n“Christianity in the Atlantic World.” In The Princeton Companion to Atlantic History, edited by Joseph C. Miller. Princeton: Princeton University Press, 2014.\n“Marian Pilgrimage and the Performance of Male Privilege in Eighteenth-Century Augsburg.” Central European History 45 (September 2012): 375-406.\n“Paths of Salvation and Boundaries of Belief: Spatial Discourse and the Meanings of Conversion in Early Modern Germany.” In Conversion and the Politics of Religion in Early Modern Germany, edited by David M. Luebke, et al., 14-31. New York: Berghahn Books, 2012.\nEducation\nPhD, Early Modern European HistoryNew York University\nEuropean History, 1450-1850\nSocial, Cultural, and Religious History\nAtlantic World History and Global History\nGlobal Perspectives on Society\nHistories and Politics of Noise\nHumanities Honors Independent Study\nIndependent Study I - Humanities\nSocial Foundations III\nWitches, Magic and the Witch Hunts in the Atlantic World, 1400-1700\nWorld History: Part II",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Duane Corpis"
+    },
+    {
+      "type": "p",
+      "text": "Duane Corpis is Area Head of Humanities and an Associate Professor of History at NYU Shanghai. He is also a Global Network Associate Professor in the Faculty of Arts and Science at NYU. Prior to joining NYU Shanghai, he was an Assistant Professor at Cornell University. He holds a PhD from NYU."
+    },
+    {
+      "type": "p",
+      "text": "Professor Corpis is recipient of the 2013-2014 Smith Book Award from the Southern Historical Association and the 2013 Hans Rosenberg Article Prize from the Central European History Society. He has been an NEH Humanities Summer Scholar, a Senior Fellow at the Institute for Advanced Study at Central European University, and a Herzog Ernst Fellow at the Gotha Research Center and Library. He also serves on the Editorial Collective of the journal Radical History Review."
+    },
+    {
+      "type": "h3",
+      "text": "Selected Publications"
+    },
+    {
+      "type": "li",
+      "text": "Crossing the Boundaries of Belief: Geographies of Religious Conversion in Southern Germany, 1648-1800. Charlottesville, VA: University of Virginia Press, 2014."
+    },
+    {
+      "type": "li",
+      "text": "“Christianity in the Atlantic World.” In The Princeton Companion to Atlantic History, edited by Joseph C. Miller. Princeton: Princeton University Press, 2014."
+    },
+    {
+      "type": "li",
+      "text": "“Marian Pilgrimage and the Performance of Male Privilege in Eighteenth-Century Augsburg.” Central European History 45 (September 2012): 375-406."
+    },
+    {
+      "type": "li",
+      "text": "“Paths of Salvation and Boundaries of Belief: Spatial Discourse and the Meanings of Conversion in Early Modern Germany.” In Conversion and the Politics of Religion in Early Modern Germany, edited by David M. Luebke, et al., 14-31. New York: Berghahn Books, 2012."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Early Modern European HistoryNew York University"
+    },
+    {
+      "type": "li",
+      "text": "European History, 1450-1850"
+    },
+    {
+      "type": "li",
+      "text": "Social, Cultural, and Religious History"
+    },
+    {
+      "type": "li",
+      "text": "Atlantic World History and Global History"
+    },
+    {
+      "type": "li",
+      "text": "Global Perspectives on Society"
+    },
+    {
+      "type": "li",
+      "text": "Histories and Politics of Noise"
+    },
+    {
+      "type": "li",
+      "text": "Humanities Honors Independent Study"
+    },
+    {
+      "type": "li",
+      "text": "Independent Study I - Humanities"
+    },
+    {
+      "type": "li",
+      "text": "Social Foundations III"
+    },
+    {
+      "type": "li",
+      "text": "Witches, Magic and the Witch Hunts in the Atlantic World, 1400-1700"
+    },
+    {
+      "type": "li",
+      "text": "World History: Part II"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Duane-Pic%20for%20Website.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 296,
+  "crawled_at": "2026-06-09T04:54:28+00:00",
+  "sequence": 2433
+}

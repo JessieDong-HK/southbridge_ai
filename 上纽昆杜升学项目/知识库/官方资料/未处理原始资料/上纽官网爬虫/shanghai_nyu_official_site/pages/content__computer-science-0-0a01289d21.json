@@ -1,0 +1,91 @@
+{
+  "id": "content__computer-science-0-0a01289d21",
+  "url": "https://shanghai.nyu.edu/content/computer-science-0",
+  "canonical_url": "https://shanghai.nyu.edu/content/computer-science-0",
+  "page_type": "content",
+  "title": "Computer Science",
+  "description": "Post a Minor",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Computer Science\nComputer Science at NYU Shanghai is designed to create technological leaders with a global perspective, a broad education, and the capacity to think creatively. Computer science focuses on how to design, build, and effectively use the computers and systems that we interact with every day — from the iPhones in our hands to the complex databases in our banks and hospitals and to the self-driving cars of the future.\nRequirements for the Minor\nChoose One:\nCENG-SHU 202 Computer Architecture\nCSCI-UA 201 Computer Systems Organization\nCENG-SHU 350 Embedded Computer Systems\nFaculty Mentors\nFaculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory.\nProfessor of Practice in Computer Science\nData Science majors should additionally take an approved non-soft \"interdisciplinary\" Computer Science Elective course to earn at least 12 unique credits for the minor.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Computer Science"
+    },
+    {
+      "type": "p",
+      "text": "Computer Science at NYU Shanghai is designed to create technological leaders with a global perspective, a broad education, and the capacity to think creatively. Computer science focuses on how to design, build, and effectively use the computers and systems that we interact with every day — from the iPhones in our hands to the complex databases in our banks and hospitals and to the self-driving cars of the future."
+    },
+    {
+      "type": "h3",
+      "text": "Requirements for the Minor"
+    },
+    {
+      "type": "p",
+      "text": "Choose One:"
+    },
+    {
+      "type": "p",
+      "text": "CENG-SHU 202 Computer Architecture"
+    },
+    {
+      "type": "p",
+      "text": "CSCI-UA 201 Computer Systems Organization"
+    },
+    {
+      "type": "p",
+      "text": "CENG-SHU 350 Embedded Computer Systems"
+    },
+    {
+      "type": "h3",
+      "text": "Faculty Mentors"
+    },
+    {
+      "type": "p",
+      "text": "Faculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory."
+    },
+    {
+      "type": "p",
+      "text": "Professor of Practice in Computer Science"
+    },
+    {
+      "type": "p",
+      "text": "Data Science majors should additionally take an approved non-soft \"interdisciplinary\" Computer Science Elective course to earn at least 12 unique credits for the minor."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/image1_0.jpeg",
+      "alt": "Lihua Xu",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/image1_0-0edbd664a51a.jpeg",
+      "download_status": "downloaded",
+      "bytes": 60234,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/posting-minor",
+      "text": "Post a Minor",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory",
+      "text": "faculty directory",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/lihua-xu",
+      "text": "Lihua Xu",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 182,
+  "crawled_at": "2026-06-09T04:41:26+00:00",
+  "sequence": 1381
+}

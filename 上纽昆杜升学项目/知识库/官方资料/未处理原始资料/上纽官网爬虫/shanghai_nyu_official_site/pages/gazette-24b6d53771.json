@@ -1,0 +1,248 @@
+{
+  "id": "gazette-24b6d53771",
+  "url": "https://shanghai.nyu.edu/gazette?field_mailchimplist_value=friends",
+  "canonical_url": "https://shanghai.nyu.edu/gazette",
+  "page_type": "gazette",
+  "title": "University Newsletters | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "University Newsletters\nAcademic Year 2025-2026\nAcademic Year 2024-2025\nAcademic Year 2023-2024\nAcademic Year 2018-2019\nAcademic Year 2017-2018",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "University Newsletters"
+    },
+    {
+      "type": "h3",
+      "text": "Academic Year 2025-2026"
+    },
+    {
+      "type": "h3",
+      "text": "Academic Year 2024-2025"
+    },
+    {
+      "type": "h3",
+      "text": "Academic Year 2023-2024"
+    },
+    {
+      "type": "h3",
+      "text": "Academic Year 2018-2019"
+    },
+    {
+      "type": "h3",
+      "text": "Academic Year 2017-2018"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/en_friends.jpeg?itok=UP14-zio",
+      "alt": "gazette",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/fallen.jpg?itok=2JAqG0iL",
+      "alt": "gazette",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/fallen.jpg?itok=2JAqG0iL (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ss"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/friends-24s.jpg?itok=JzL2NDXR",
+      "alt": "gazette",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/1_3.jpg?itok=yfxpGig8",
+      "alt": "1.jpg",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/1_3-a9686a79f218.jpg",
+      "download_status": "downloaded",
+      "bytes": 38048,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/48f5007f-23d2-474e-8779-85f3aca28b20.jpg?itok=FzG4nf4q",
+      "alt": "November 2018",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/48f5007f-23d2-474e-8779-85f3aca28b20-5de77adf68df.jpg",
+      "download_status": "downloaded",
+      "bytes": 27117,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/c94a674d-1726-4038-ace6-5e8018404ae4.jpg?itok=zksnIaeX",
+      "alt": "Friend Newsletter April 2018",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/c94a674d-1726-4038-ace6-5e8018404ae4.jpg?itok=zksnIaeX (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/ec791c73-db8f-44c6-b032-25e3768b0094.jpg?itok=pmpNvZjS",
+      "alt": "Friend Newsletter March 2018",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/ec791c73-db8f-44c6-b032-25e3768b0094.jpg?itok=pmpNvZjS (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/670dcd3e-ba6d-418a-9673-ce86d2a96388.jpg?itok=3J3H6RZr",
+      "alt": "Friend Newsletter February 2018",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/670dcd3e-ba6d-418a-9673-ce86d2a96388.jpg?itok=3J3H6RZr (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/127ab8ac-f907-48b4-a1d3-662d6304feb0.jpg?itok=kH27QdVV",
+      "alt": "Friend Newsletter December 2017",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/791f16b3-3c1e-4e1a-906d-b744e0164de7.jpg?itok=1GmCMSH9",
+      "alt": "Friend Newsletter November 2017",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/b475fcaa-87e1-4136-a9c6-6d395ffa5197.jpg?itok=VBPGjonH",
+      "alt": "Friend Newsletter October 2017",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/b475fcaa-87e1-4136-a9c6-6d395ffa5197-9c2114cdf2ce.jpg",
+      "download_status": "downloaded",
+      "bytes": 32706,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/6a38ad0f-0675-41b1-87f7-4260a6a9e578.jpg?itok=lE_HDTDl",
+      "alt": "Friend Newsletter September 2017",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/6a38ad0f-0675-41b1-87f7-4260a6a9e578-c93f59034e0e.jpg",
+      "download_status": "downloaded",
+      "bytes": 26394,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/a3318755-b3a6-4bab-a732-b7004280484b.jpg?itok=HbjolRW4",
+      "alt": "Friend Newsletter May 2017",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/a3318755-b3a6-4bab-a732-b7004280484b-c9ed43c3a35c.jpg",
+      "download_status": "downloaded",
+      "bytes": 34253,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/5fe453af-6152-4d1b-bb58-887dba283aaf.jpg?itok=K5oKAWhZ",
+      "alt": "Friend Newsletter April 2017",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/5fe453af-6152-4d1b-bb58-887dba283aaf-3fab53ad8eb3.jpg",
+      "download_status": "downloaded",
+      "bytes": 45502,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://t.e2ma.net/webview/qzqxwtb/d7f43e40c1f22206260ae66e77b6dc41",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/ip5bjtb/f7bbf39e0d10a8793772e3d1c40dc490",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/qnd3usb/63038c63b51e8b74026d8d48c752dfdf",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/april-2019spring-is-here-nobel-laureate-to-co-direct-volatility-institute-nyu-shanghais-first-knight-hennessy-fellowship-and-course-spotlight",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/november-2018a-founding-faculty-member-wins-a-nobel-prize-sports-at-nyu-shanghai-and-professor-tarrs-visits-the-peace-hotel",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/april-2018impacting-aerospace-history-new-partnership-and-more",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/march-2018prof-tian-xing-published-in-naturefeatured-roommates-story-and-more",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/february-2018-our-graduates-first-destinations-revealed-step-into-the-box-and-best-wishes-in-the-year-of-the-dog",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/december-2017-how-libraries-bridge-communities-exploring-professional-pathways-with-a-mentor-and-students-gaining-from-scholarship",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/november-2017-tour-nyu-shanghai-in-360-degrees-student-vr-project-goes-live-and-the-impact-of-funds-on-student-futures",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/october-2017-graduate-awarded-fulbright-scholarship-students-share-stories-from-study-away-and-more",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/september-2017first-issue-of-the-semester-check-out-students-sports-and-dancing-stories-and-hear-what-our-friend-have-to-say",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/may-2017-gogreen-does-it-again-wild-film-festival-learning-by-doing-and-read-the-story-of-kenny-song-a-running-hacker",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://us11.campaign-archive.com/?u=1865b7035bb53d9c34f186520&id=712d933194",
+      "text": "",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 22,
+  "crawled_at": "2026-06-09T04:35:17+00:00",
+  "sequence": 827
+}

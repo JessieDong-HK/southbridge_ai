@@ -1,0 +1,53 @@
+{
+  "id": "environmental-health-safety__roles-and-responsibilities-c1daad8ef7",
+  "url": "https://www.dukekunshan.edu.cn/environmental-health-safety/roles-and-responsibilities",
+  "canonical_url": "https://www.dukekunshan.edu.cn/environmental-health-safety/roles-and-responsibilities/",
+  "page_type": "environmental-health-safety",
+  "title": "Roles and Responsibilities of Health & Security- DKU",
+  "description": "Responsibility for the health and safety of the students, faculty, and staff working at Duke kunshan University.",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2025-08-26T03:29:52+00:00",
+  "sitemap_lastmod": "2025-08-26T03:29:52+00:00",
+  "text": "",
+  "text_blocks": [],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/wp-content/uploads/staging/2022/03/25160750/dkuWx.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "images/_shared/dkuWx-6f97c1a7e457.png",
+      "download_status": "ok",
+      "bytes": 68379,
+      "cached_from_disk": true,
+      "deduplicated": true
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/dkumain/wp-content/uploads/mainsite/2022/05/DKU-wechat-QR.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "images/_shared/DKU-wechat-QR-b8881c9b5ffb.png",
+      "download_status": "ok",
+      "bytes": 144350,
+      "cached_from_disk": true,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 0,
+  "crawled_at": "2026-06-03T13:54:37+00:00",
+  "sequence": 541
+}

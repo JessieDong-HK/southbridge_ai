@@ -1,0 +1,89 @@
+{
+  "id": "academics__faculty__directory__hong-bin-chen-4314914687",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/hong-bin-chen",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/hong-bin-chen",
+  "page_type": "academics",
+  "title": "Hong-Bin",
+  "description": "Hong-Bin Chen is a tenure-track Assistant Professor of Mathematics at NYU Shanghai. He was previously a postdoctoral researcher at the Institut des Hautes Études Scientifiques (IHES). He received his Ph.D. in Mathematics from the Courant Institute of Mathematical Sciences at New York University. His",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Hong-Bin Chen\nHong-Bin Chen is a tenure-track Assistant Professor of Mathematics at NYU Shanghai. He was previously a postdoctoral researcher at the Institut des Hautes Études Scientifiques (IHES). He received his Ph.D. in Mathematics from the Courant Institute of Mathematical Sciences at New York University. His research focuses on probability theory and probabilistic models in statistical physics. His academic webpage can be found here.\nSelect Publications\nYuri Bakhtin and Hong-Bin Chen. Atypical exit events near a repelling equilibrium. The Annals of Probability, 2021\nYuri Bakhtin and Hong-Bin Chen. Dynamic polymers: invariant measures and ordering by noise. Probability Theory and Related Fields, 2021\nHong-Bin Chen and Jiaming Xia. Free energy of multi-layer generalized linear models. Communications in Mathematical Physics, 2023\nHong-Bin Chen and Jiaming Xia. Hamilton–Jacobi equations from mean-field spin glasses. Probability Theory and Related Fields, 2025\nHong-Bin Chen and Jean-Christophe Mourrat. On the free energy of vector spin glasses with nonconvex interactions. Probability and Mathematical Physics, 2025\nEducation\nPh.D., MathematicsNew York University\nB.S., Honors MathematicsNew York University Shanghai\nProbability Theory\nStatistical Physics",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Hong-Bin Chen"
+    },
+    {
+      "type": "p",
+      "text": "Hong-Bin Chen is a tenure-track Assistant Professor of Mathematics at NYU Shanghai. He was previously a postdoctoral researcher at the Institut des Hautes Études Scientifiques (IHES). He received his Ph.D. in Mathematics from the Courant Institute of Mathematical Sciences at New York University. His research focuses on probability theory and probabilistic models in statistical physics. His academic webpage can be found here."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Yuri Bakhtin and Hong-Bin Chen. Atypical exit events near a repelling equilibrium. The Annals of Probability, 2021"
+    },
+    {
+      "type": "li",
+      "text": "Yuri Bakhtin and Hong-Bin Chen. Dynamic polymers: invariant measures and ordering by noise. Probability Theory and Related Fields, 2021"
+    },
+    {
+      "type": "li",
+      "text": "Hong-Bin Chen and Jiaming Xia. Free energy of multi-layer generalized linear models. Communications in Mathematical Physics, 2023"
+    },
+    {
+      "type": "li",
+      "text": "Hong-Bin Chen and Jiaming Xia. Hamilton–Jacobi equations from mean-field spin glasses. Probability Theory and Related Fields, 2025"
+    },
+    {
+      "type": "li",
+      "text": "Hong-Bin Chen and Jean-Christophe Mourrat. On the free energy of vector spin glasses with nonconvex interactions. Probability and Mathematical Physics, 2025"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "Ph.D., MathematicsNew York University"
+    },
+    {
+      "type": "li",
+      "text": "B.S., Honors MathematicsNew York University Shanghai"
+    },
+    {
+      "type": "li",
+      "text": "Probability Theory"
+    },
+    {
+      "type": "li",
+      "text": "Statistical Physics"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/final-Hong-Bin%20Chen-2025%20fall.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/final-Hong-Bin-20Chen-2025-20fall-575bc4a164bd.jpg",
+      "download_status": "downloaded",
+      "bytes": 234691,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://hbchen-math.github.io/",
+      "text": "here",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 187,
+  "crawled_at": "2026-06-09T04:34:23+00:00",
+  "sequence": 761
+}

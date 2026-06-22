@@ -1,0 +1,89 @@
+{
+  "id": "academics__faculty__directory__xiang-liu-cd6883605c",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/xiang-liu",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/xiang-liu",
+  "page_type": "academics",
+  "title": "Xiang",
+  "description": "Xiang Liu is a Visiting Assistant Professor of Practice in Computer Science at NYU Shanghai. She received her PhD degree in computer science from New York University. Her research interests include big data, machine learning, and recommender systems. Prior to joining NYU Shanghai, Xiang worked as a",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Xiang Liu\nXiang Liu is a Visiting Assistant Professor of Practice in Computer Science at NYU Shanghai. She received her PhD degree in computer science from New York University. Her research interests include big data, machine learning, and recommender systems. Prior to joining NYU Shanghai, Xiang worked as a staff machine learning engineer at Block, and a senior data engineer at Spotify. Her research work has appeared in RecSys, IEEE Big Data, and IJCNN. Her work in data mining received the best paper award in 2013 International Conference on Machine Learning and Data Mining.\nSelect Publications\nXiang Liu, Torsten suel, Nasir Memon, “What Makes A Group Fail: Modeling Social Group Behavior in Event-Based Social Networks”. In IEEE International Conference on Big Data, 2016.\nXiang Liu, Torsten Suel, Nasir Memon, “A Robust Model for Paper Reviewer Assignment”. In ACM Recommender Systems, 2014. (Acceptance Rate: 20%)\nXiang Liu, Liyun Li and Nasir Memon, “A Lightweight Combinatorial Approach for Inferring the Ground Truth from Multiple Annotators”. In International Conference on Machine Learning and Data Mining (MLDM), 2013. (Best Paper Award)\nXiang Liu, Shaohua Tan, “Identifying Causal Relationships in an Urban Information Modeling Framework”. In International Joint Conference on Neural Networks (IJCNN), 2010\nEducation\nPhD, Computer ScienceNew York University\nResearch Interests\nBig Data\nMachine Learning\nRecommender Systems",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Xiang Liu"
+    },
+    {
+      "type": "p",
+      "text": "Xiang Liu is a Visiting Assistant Professor of Practice in Computer Science at NYU Shanghai. She received her PhD degree in computer science from New York University. Her research interests include big data, machine learning, and recommender systems. Prior to joining NYU Shanghai, Xiang worked as a staff machine learning engineer at Block, and a senior data engineer at Spotify. Her research work has appeared in RecSys, IEEE Big Data, and IJCNN. Her work in data mining received the best paper award in 2013 International Conference on Machine Learning and Data Mining."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Xiang Liu, Torsten suel, Nasir Memon, “What Makes A Group Fail: Modeling Social Group Behavior in Event-Based Social Networks”. In IEEE International Conference on Big Data, 2016."
+    },
+    {
+      "type": "li",
+      "text": "Xiang Liu, Torsten Suel, Nasir Memon, “A Robust Model for Paper Reviewer Assignment”. In ACM Recommender Systems, 2014. (Acceptance Rate: 20%)"
+    },
+    {
+      "type": "li",
+      "text": "Xiang Liu, Liyun Li and Nasir Memon, “A Lightweight Combinatorial Approach for Inferring the Ground Truth from Multiple Annotators”. In International Conference on Machine Learning and Data Mining (MLDM), 2013. (Best Paper Award)"
+    },
+    {
+      "type": "li",
+      "text": "Xiang Liu, Shaohua Tan, “Identifying Causal Relationships in an Urban Information Modeling Framework”. In International Joint Conference on Neural Networks (IJCNN), 2010"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Computer ScienceNew York University"
+    },
+    {
+      "type": "h3",
+      "text": "Research Interests"
+    },
+    {
+      "type": "li",
+      "text": "Big Data"
+    },
+    {
+      "type": "li",
+      "text": "Machine Learning"
+    },
+    {
+      "type": "li",
+      "text": "Recommender Systems"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/retouched%202024.3.1%EF%BC%88%E6%9B%B9%EF%BC%890241.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/retouched-202024.3.1-EF-BC-88-E6-9B-B9-EF-BC-890241-e07c87acd9df.jpg",
+      "download_status": "downloaded",
+      "bytes": 534508,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cs.shanghai.nyu.edu/faculty/xiang-liu-liuxiang",
+      "text": "https://cs.shanghai.nyu.edu/faculty/xiang-liu-liuxiang",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 214,
+  "crawled_at": "2026-06-09T04:35:52+00:00",
+  "sequence": 866
+}

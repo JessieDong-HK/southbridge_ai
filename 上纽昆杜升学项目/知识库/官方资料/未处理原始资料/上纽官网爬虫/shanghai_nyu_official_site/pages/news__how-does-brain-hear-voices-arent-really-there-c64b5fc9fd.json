@@ -1,0 +1,156 @@
+{
+  "id": "news__how-does-brain-hear-voices-arent-really-there-c64b5fc9fd",
+  "url": "https://shanghai.nyu.edu/news/how-does-brain-hear-voices-arent-really-there",
+  "canonical_url": "https://shanghai.nyu.edu/news/how-does-brain-hear-voices-arent-really-there",
+  "page_type": "news",
+  "title": "How Does the Brain Hear Voices That Aren’t Really There?",
+  "description": "A new study led by Tian Xing presents a new theory for auditory hallucinations.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "How Does the Brain Hear Voices That Aren’t Really There?\nTwitter\nFacebook\nWeibo\nEver heard a voice no one else could hear? Or sensed a sound in your head that wasn’t your own? Auditory hallucinations can be experienced by healthy individuals, but they are also often a serious symptom for those with mental disorders, particularly schizophrenia.\nSo what causes such a feeling of hearing sounds that are not real? Scientists have been trying to answer this question for centuries, but no definitive explanation has been found. A new study by Associate Professor of Neural and Cognitive Sciences Tian Xing and colleagues published in open-access journal PLOS Biology presents a theory that challenges 150 years of traditional neuroscience and points to new treatment directions for schizophrenia.\nAuditory hallucinations have long been a focus of Tian’s research. Over the years, Tian’s team has published a series of works on related topics, including papers in Cerebral Cortex (2020), eNeuro (2022), and Cerebral Cortex (2023). Based on these years of research, the team proposes that auditory hallucinations likely result from dysfunctions in two brain signals: a “broken” corollary discharge (CD) and a “noisy” efference copy (EC). CD and EC are signals the brain generates when planning or executing movement, including speech.\n“To put it simply, the CD signal allows the brain to distinguish between external sounds and self-generated ones by sending a suppression signal. With a ‘broken’ CD, patients can’t tell that the sounds they hear are coming from their own brain,” explained Tian. Tian’s research also posits a theory about what’s generating those sounds. “Our theory points to a ‘noisy’ EC, which is hyperactive and triggers the brain’s auditory system even when there are no external sounds,” he said. “When the brain is activated, it creates the feeling of hearing something.”\nLeft: a normally functioning brain, with CD (in blue) and EC (in red) operating throughout the entire speech process.Right: brain of a person experiencing auditory hallucinations, showing the malfunctioning CD (in gray) and the noisy EC (in blurry red).\nTian’s study was the first to use electroencephalogram (EEG) experiments on patients diagnosed with schizophrenia to test the proposed mechanism behind auditory hallucinations. Researchers measured the brain waves of 40 patients with schizophrenia, 20 of whom experienced auditory hallucinations and 20 who did not. Participants performed special tasks involving different speech scenarios, allowing researchers to measure their brain responses during various stages of speech preparation. The results confirmed the lack of a suppression signal (the broken CD) in patients with auditory hallucinations when preparing to speak, as well as an enhanced but not precise response (the noisy EC) that made them “hear” sounds.\nA participant undergoing EEG experiments in Tian’s lab\nFollowing the EEG experiments, the researchers developed a computational model to simulate the impairments in CD and EC, testing the real-world data as well as further investigating the distinct roles of each signal, which were previously thought to work together to perform the same suppression function. “Computational modeling gives us unprecedented flexibility and precision that we can’t yet achieve in experiments,” said Tian. “Through our modeling, we’re the first to map out the differences between the two proposed brain signals, separating their roles in both time and function, and challenging long-standing neuroscience theory.”\nTraditionally, although mental disorders were viewed as psychological conditions rather than neurological ones, as they don’t involve much apparent physical brain damage, most neuroscience studies about mental disorders are only probing the changes in brain structures and connectivity in patients. Tian said this research “puts cognition back into the investigation of mental disorders.” Comparing the brain to a computer, Tian explained, “in the case of auditory hallucinations, the hardware (the physical brain) isn’t damaged, but the software—those intangible patterns of brain signals running in the neural circuits—malfunctions. Our study suggests a potential future research direction for a more comprehensive understanding of mental disorders.”\nThe study’s first author, Yang Fuyin, graduated with her PhD from the NYU Shanghai-ECNU Joint Graduate Training Program (N.E.T.) in 2022 and now works as a postdoc researcher at the Shanghai Mental Health Center, affiliated with Shanghai Jiao Tong University. “The research on clinical patients was filled with challenges and breakthroughs, making this achievement a testament to persistence,” she said. “Auditory hallucinations remain a tricky issue in clinical, but this study provides fresh insights, offering a more profound understanding that could shape therapeutic and intervention approaches. I hope these findings will pave the way for future research and contribute to more effective support for those experiencing auditory hallucinations.”\nTian’s team is continuing to investigate the brain mechanisms behind hallucinations. The researchers hope that as our understanding of these processes advances, new treatment options beyond the current mainstream use of drugs can be introduced for patients with schizophrenia.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "How Does the Brain Hear Voices That Aren’t Really There?"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Ever heard a voice no one else could hear? Or sensed a sound in your head that wasn’t your own? Auditory hallucinations can be experienced by healthy individuals, but they are also often a serious symptom for those with mental disorders, particularly schizophrenia."
+    },
+    {
+      "type": "p",
+      "text": "So what causes such a feeling of hearing sounds that are not real? Scientists have been trying to answer this question for centuries, but no definitive explanation has been found. A new study by Associate Professor of Neural and Cognitive Sciences Tian Xing and colleagues published in open-access journal PLOS Biology presents a theory that challenges 150 years of traditional neuroscience and points to new treatment directions for schizophrenia."
+    },
+    {
+      "type": "p",
+      "text": "Auditory hallucinations have long been a focus of Tian’s research. Over the years, Tian’s team has published a series of works on related topics, including papers in Cerebral Cortex (2020), eNeuro (2022), and Cerebral Cortex (2023). Based on these years of research, the team proposes that auditory hallucinations likely result from dysfunctions in two brain signals: a “broken” corollary discharge (CD) and a “noisy” efference copy (EC). CD and EC are signals the brain generates when planning or executing movement, including speech."
+    },
+    {
+      "type": "p",
+      "text": "“To put it simply, the CD signal allows the brain to distinguish between external sounds and self-generated ones by sending a suppression signal. With a ‘broken’ CD, patients can’t tell that the sounds they hear are coming from their own brain,” explained Tian. Tian’s research also posits a theory about what’s generating those sounds. “Our theory points to a ‘noisy’ EC, which is hyperactive and triggers the brain’s auditory system even when there are no external sounds,” he said. “When the brain is activated, it creates the feeling of hearing something.”"
+    },
+    {
+      "type": "figcaption",
+      "text": "Left: a normally functioning brain, with CD (in blue) and EC (in red) operating throughout the entire speech process.Right: brain of a person experiencing auditory hallucinations, showing the malfunctioning CD (in gray) and the noisy EC (in blurry red)."
+    },
+    {
+      "type": "p",
+      "text": "Tian’s study was the first to use electroencephalogram (EEG) experiments on patients diagnosed with schizophrenia to test the proposed mechanism behind auditory hallucinations. Researchers measured the brain waves of 40 patients with schizophrenia, 20 of whom experienced auditory hallucinations and 20 who did not. Participants performed special tasks involving different speech scenarios, allowing researchers to measure their brain responses during various stages of speech preparation. The results confirmed the lack of a suppression signal (the broken CD) in patients with auditory hallucinations when preparing to speak, as well as an enhanced but not precise response (the noisy EC) that made them “hear” sounds."
+    },
+    {
+      "type": "figcaption",
+      "text": "A participant undergoing EEG experiments in Tian’s lab"
+    },
+    {
+      "type": "p",
+      "text": "Following the EEG experiments, the researchers developed a computational model to simulate the impairments in CD and EC, testing the real-world data as well as further investigating the distinct roles of each signal, which were previously thought to work together to perform the same suppression function. “Computational modeling gives us unprecedented flexibility and precision that we can’t yet achieve in experiments,” said Tian. “Through our modeling, we’re the first to map out the differences between the two proposed brain signals, separating their roles in both time and function, and challenging long-standing neuroscience theory.”"
+    },
+    {
+      "type": "p",
+      "text": "Traditionally, although mental disorders were viewed as psychological conditions rather than neurological ones, as they don’t involve much apparent physical brain damage, most neuroscience studies about mental disorders are only probing the changes in brain structures and connectivity in patients. Tian said this research “puts cognition back into the investigation of mental disorders.” Comparing the brain to a computer, Tian explained, “in the case of auditory hallucinations, the hardware (the physical brain) isn’t damaged, but the software—those intangible patterns of brain signals running in the neural circuits—malfunctions. Our study suggests a potential future research direction for a more comprehensive understanding of mental disorders.”"
+    },
+    {
+      "type": "p",
+      "text": "The study’s first author, Yang Fuyin, graduated with her PhD from the NYU Shanghai-ECNU Joint Graduate Training Program (N.E.T.) in 2022 and now works as a postdoc researcher at the Shanghai Mental Health Center, affiliated with Shanghai Jiao Tong University. “The research on clinical patients was filled with challenges and breakthroughs, making this achievement a testament to persistence,” she said. “Auditory hallucinations remain a tricky issue in clinical, but this study provides fresh insights, offering a more profound understanding that could shape therapeutic and intervention approaches. I hope these findings will pave the way for future research and contribute to more effective support for those experiencing auditory hallucinations.”"
+    },
+    {
+      "type": "p",
+      "text": "Tian’s team is continuing to investigate the brain mechanisms behind hallucinations. The researchers hope that as our understanding of these processes advances, new treatment options beyond the current mainstream use of drugs can be introduced for patients with schizophrenia."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/avh.jpg?itok=ldQROsu1",
+      "alt": "avh",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcicbrJf3ODTEf88qH67gUS-Z0KJBvoEkkPlqlpoDvR2iX5yg3I4lIzDedgI3DyUnGiskAUQcEVQ2FdcqG2KPxSQmjBDjBH8VhBdlEKNKDGZMJ82zkLBW5TTbTCqsH82MWxVIm8gH3jfhqLtF5MceOvLmo?key=GC1EwCwrtBgOl6rMrkWWhw",
+      "alt": "research",
+      "caption": "Left: a normally functioning brain, with CD (in blue) and EC (in red) operating throughout the entire speech process.Right: brain of a person experiencing auditory hallucinations, showing the malfunctioning CD (in gray) and the noisy EC (in blurry red).",
+      "source": "img",
+      "local_path": "_shared/AD_4nXcicbrJf3ODTEf88qH67gUS-Z0KJBvoEkkPlqlpoDvR2iX5-3c945a404ade.jpg",
+      "download_status": "downloaded",
+      "bytes": 108646,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcF6xopAbLHLGl90MejD3lAcW1WrkwIERAPh71n39IK-9vUP5mAfN14jbKsafNQGOZJkFTuPWoIdDBf4HdSedd5zUJhbbw4DNauEUSXDMEUmvXCNSlt1IqD4fH4MPAbUZ3acmaKRxDm0nex41UX8mpbnMB3?key=GC1EwCwrtBgOl6rMrkWWhw",
+      "alt": "research",
+      "caption": "A participant undergoing EEG experiments in Tian’s lab",
+      "source": "img",
+      "local_path": "_shared/AD_4nXcF6xopAbLHLGl90MejD3lAcW1WrkwIERAPh71n39IK-9vU-a41de9a08ea4.jpg",
+      "download_status": "downloaded",
+      "bytes": 216102,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=How%20Does%20the%20Brain%20Hear%20Voices%20That%20Aren%E2%80%99t%20Really%20There%3F&url=https%3A//shanghai.nyu.edu/news/how-does-brain-hear-voices-arent-really-there&status=How%20Does%20the%20Brain%20Hear%20Voices%20That%20Aren%E2%80%99t%20Really%20There%3F%20https%3A//shanghai.nyu.edu/news/how-does-brain-hear-voices-arent-really-there",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/how-does-brain-hear-voices-arent-really-there&title=How%20Does%20the%20Brain%20Hear%20Voices%20That%20Aren%E2%80%99t%20Really%20There%3F",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/how-does-brain-hear-voices-arent-really-there&title=How%20Does%20the%20Brain%20Hear%20Voices%20That%20Aren%E2%80%99t%20Really%20There%3F",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002836",
+      "text": "study",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/xing-tian",
+      "text": "Tian Xing",
+      "internal": true
+    },
+    {
+      "url": "https://academic.oup.com/cercor/article/30/11/5806/5857756?login=true",
+      "text": "Cerebral Cortex",
+      "internal": false
+    },
+    {
+      "url": "https://www.eneuro.org/content/9/6/ENEURO.0309-22.2022",
+      "text": "eNeuro",
+      "internal": false
+    },
+    {
+      "url": "https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhad168/7169133",
+      "text": "Cerebral Cortex",
+      "internal": false
+    },
+    {
+      "url": "https://netprogram.shanghai.nyu.edu/",
+      "text": "NYU Shanghai-ECNU Joint Graduate Training Program (N.E.T.)",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 817,
+  "crawled_at": "2026-06-09T04:40:49+00:00",
+  "sequence": 1326
+}

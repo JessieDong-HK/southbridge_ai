@@ -1,0 +1,88 @@
+{
+  "id": "academics__faculty__directory__yinghong-wang-c50832793c",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/yinghong-wang",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/yinghong-wang",
+  "page_type": "academics",
+  "title": "Yinghong",
+  "description": "Yinghong (Rayn) Wang is the Capstone Director for the Master of Science in Marketing and Retail Science (MSMRS) program and an Assistant Professor of Practice in Marketing at NYU Shanghai. Prior to joining academia, Yinghong published The Secret Book of Connected Marketing: Your Private Super Coach",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Yinghong Wang\nYinghong (Rayn) Wang is the Capstone Director for the Master of Science in Marketing and Retail Science (MSMRS) program and an Assistant Professor of Practice in Marketing at NYU Shanghai. Prior to joining academia, Yinghong published The Secret Book of Connected Marketing: Your Private Super Coach (Fudan University Press, 2019). Before that, she served as Head of Engagement Marketing at Amazon China and held senior leadership roles at General Motors, Dell, and IBM, driving CRM, digital strategy, and retail innovation across Asia-Pacific and global markets.With over 20 years of industry experience, Wang specializes in customer engagement, digital and social marketing, and retail transformation. She has a proven track record of orchestrating end-to-end customer journeys—spanning digital, mobile, and social touchpoints to retail and service channels. Recognized as a strategist and change agent, she is adept at leading cross-functional teams, scaling data-driven practices, and integrating new technologies to deliver growth and customer value.\nIn her teaching, Wang collaborates with industry partners to bring real-world challenges into the classroom, preparing students for the evolving landscape of marketing and retail science through experiential learning and applied projects.\nEducation\nMS, Merchandising ManagementMichigan State University\nBE, Industrial BusinessBeijing University of Technology\nChannel Management and Trends\nNew Technology Impacts on Retailing\nCustomer Experience Management\nGen-AI in marketing/retail\nRetail Technology and Channel Management: The Chinese Market\nProfessional Responsibility and Leadership\nMSMRS Capstone Projects",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Yinghong Wang"
+    },
+    {
+      "type": "p",
+      "text": "Yinghong (Rayn) Wang is the Capstone Director for the Master of Science in Marketing and Retail Science (MSMRS) program and an Assistant Professor of Practice in Marketing at NYU Shanghai. Prior to joining academia, Yinghong published The Secret Book of Connected Marketing: Your Private Super Coach (Fudan University Press, 2019). Before that, she served as Head of Engagement Marketing at Amazon China and held senior leadership roles at General Motors, Dell, and IBM, driving CRM, digital strategy, and retail innovation across Asia-Pacific and global markets.With over 20 years of industry experience, Wang specializes in customer engagement, digital and social marketing, and retail transformation. She has a proven track record of orchestrating end-to-end customer journeys—spanning digital, mobile, and social touchpoints to retail and service channels. Recognized as a strategist and change agent, she is adept at leading cross-functional teams, scaling data-driven practices, and integrating new technologies to deliver growth and customer value."
+    },
+    {
+      "type": "p",
+      "text": "In her teaching, Wang collaborates with industry partners to bring real-world challenges into the classroom, preparing students for the evolving landscape of marketing and retail science through experiential learning and applied projects."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MS, Merchandising ManagementMichigan State University"
+    },
+    {
+      "type": "li",
+      "text": "BE, Industrial BusinessBeijing University of Technology"
+    },
+    {
+      "type": "li",
+      "text": "Channel Management and Trends"
+    },
+    {
+      "type": "li",
+      "text": "New Technology Impacts on Retailing"
+    },
+    {
+      "type": "li",
+      "text": "Customer Experience Management"
+    },
+    {
+      "type": "li",
+      "text": "Gen-AI in marketing/retail"
+    },
+    {
+      "type": "li",
+      "text": "Retail Technology and Channel Management: The Chinese Market"
+    },
+    {
+      "type": "li",
+      "text": "Professional Responsibility and Leadership"
+    },
+    {
+      "type": "li",
+      "text": "MSMRS Capstone Projects"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/wang_yinghong_2022.jpeg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/wang_yinghong_2022.jpeg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.linkedin.com/in/rayn-wang-yinghong",
+      "text": "https://www.linkedin.com/in/rayn-wang-yinghong/",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 237,
+  "crawled_at": "2026-06-09T04:58:11+00:00",
+  "sequence": 2739
+}

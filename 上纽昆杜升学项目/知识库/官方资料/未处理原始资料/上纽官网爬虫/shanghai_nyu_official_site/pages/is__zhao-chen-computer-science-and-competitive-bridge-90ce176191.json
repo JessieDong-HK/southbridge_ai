@@ -1,0 +1,198 @@
+{
+  "id": "is__zhao-chen-computer-science-and-competitive-bridge-90ce176191",
+  "url": "https://shanghai.nyu.edu/is/zhao-chen-computer-science-and-competitive-bridge",
+  "canonical_url": "https://shanghai.nyu.edu/is/zhao-chen-computer-science-and-competitive-bridge",
+  "page_type": "is",
+  "title": "Zhao Chen: Computer Science and Competitive Bridge",
+  "description": "Assistant Professor of Computer Science Zhao Chen arrived at NYU Shanghai in the fall of 2023.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Zhao Chen: Computer Science and Competitive Bridge\nTwitter\nFacebook\nWeibo\nAssistant Professor of Computer Science Zhao Chen arrived at NYU Shanghai in the fall of 2023 and dove into teaching undergraduate courses in computer science. His own research, in affiliation with the NYU Center for Data Science, relates to natural language processing.\nIt seems everyone is talking about ChatGPT and Deepseek these days. Tell us what your research is about and how it applies to the real world.\nMy research area is called natural language processing, using AI technology to focus on language problems. So some applications could be machine translation, like Google Translate or question answering, or nowadays ChatGPT, you get a direct response to that. There are also a lot of other real world applications — for example, to summarize a document or meeting notes, or build conversational agents.\nOne of my research areas is called retrieval-augmented language models. For example, you have ChatGPT. But ChatGPT does not know the most recent news, because the training data could be out of date, and if you’ve got the recent news, your model does not have such knowledge. So basically, what you need is an additional search engine–we call it information retrieval— to find the most recent news and then incorporate your search result into ChatGPT to get the final output. So you augment your basic language models with additional tools.\nWhat do you think is most misunderstood about NLP and machine learning models?\nMany people think that ChatGPT can do everything, but that is probably not correct. Maybe in 10 years. It's getting closer, but I think nowadays there’s still a big gap.\nIt seems to be okay with some relatively straightforward tasks, but if you want it to make critical decisions, that's still pretty challenging. People are a little bit too optimistic about ChatGPT. I feel like there's still a long way to go if it really wants to replace what humans are currently doing.\nWhat about in ten years?\nI think in many scenarios, only AI or only humans is not enough. For example, you want to read a mammogram report, or you want to predict cancer. Most experienced doctors may still miss something, or it's in general pretty ambiguous.\nBut on the other hand, your AI model may miss something that seems pretty obvious to humans. So that's why in many tasks, it will be much better, more efficient, sometimes more reliable, more accurate to have both humans and AI work together.\nIt’s called human-centered AI, like human and AI collaboration on some critical tasks. That is one area of my research.\nZhao Chen (center) during his post-doc days with colleagues at NYU Center for Data Science.\nYour research focuses a lot on applications in healthcare. What were some of the challenges you were trying to solve?\nThe New York campus has a big hospital, the Langone hospital. There are a lot of interdisciplinary interests. For example, one of the applications that they really care about is called radiology report generation. They have an image like a mammogram, and they want to generate reports.\nIn medical domains–if your language model gives you some medical advice but it's hallucinated, meaning that it may generate something that seems correct but is factually incorrect—that is a serious issue. If your radiologist knows that your model can hallucinate—generate something that is incorrect—they will never trust the model because it's too risky. That's why you want some control;it’s called controllable generation.\nWe want the model to generate something that is under some control. We want the language model to follow some specific rules so that it will not hallucinate. The high-level goal is to increase the users’ trust of your language models.\nIs that something that could actually become used in hospitals?\nI have a PhD [student] working on that. If the project succeeds, it would directly be deployed to hospitals, and I think it will have some real impact.\nZhao competing in the 2024 China National Bridge Games.\nAside from your research, you’re also a pretty serious bridge player.\nI started playing bridge in 2011. At the beginning, it was my dad [who taught me]. I’m kind of lucky to have had multiple very good advisers at different stages. They are really talented and probably some of the best players in China [across] different generations.\nI really like this game. I’ve gotten some good results, so that kind of further motivated me to play more seriously when I went to the US for my PhD. I played some national tournaments in the United States, and we had a champion there. I also represented the Chinese youth team. Now we are trying to qualify for the national team.\nThat's one of the reasons or maybe one of the biggest reasons I want to come back to Asia, because I wanted to play in the national team and fight for a world championship.\nOur goal is that in five to 10 years, we play for the China Open team and can have some real opportunities. Every week we do some online practice, and I also read books, doing some exercises. We play tournaments, but now less frequently because I focus more on school.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Zhao Chen: Computer Science and Competitive Bridge"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Assistant Professor of Computer Science Zhao Chen arrived at NYU Shanghai in the fall of 2023 and dove into teaching undergraduate courses in computer science. His own research, in affiliation with the NYU Center for Data Science, relates to natural language processing."
+    },
+    {
+      "type": "p",
+      "text": "It seems everyone is talking about ChatGPT and Deepseek these days. Tell us what your research is about and how it applies to the real world."
+    },
+    {
+      "type": "p",
+      "text": "My research area is called natural language processing, using AI technology to focus on language problems. So some applications could be machine translation, like Google Translate or question answering, or nowadays ChatGPT, you get a direct response to that. There are also a lot of other real world applications — for example, to summarize a document or meeting notes, or build conversational agents."
+    },
+    {
+      "type": "p",
+      "text": "One of my research areas is called retrieval-augmented language models. For example, you have ChatGPT. But ChatGPT does not know the most recent news, because the training data could be out of date, and if you’ve got the recent news, your model does not have such knowledge. So basically, what you need is an additional search engine–we call it information retrieval— to find the most recent news and then incorporate your search result into ChatGPT to get the final output. So you augment your basic language models with additional tools."
+    },
+    {
+      "type": "p",
+      "text": "What do you think is most misunderstood about NLP and machine learning models?"
+    },
+    {
+      "type": "p",
+      "text": "Many people think that ChatGPT can do everything, but that is probably not correct. Maybe in 10 years. It's getting closer, but I think nowadays there’s still a big gap."
+    },
+    {
+      "type": "p",
+      "text": "It seems to be okay with some relatively straightforward tasks, but if you want it to make critical decisions, that's still pretty challenging. People are a little bit too optimistic about ChatGPT. I feel like there's still a long way to go if it really wants to replace what humans are currently doing."
+    },
+    {
+      "type": "p",
+      "text": "What about in ten years?"
+    },
+    {
+      "type": "p",
+      "text": "I think in many scenarios, only AI or only humans is not enough. For example, you want to read a mammogram report, or you want to predict cancer. Most experienced doctors may still miss something, or it's in general pretty ambiguous."
+    },
+    {
+      "type": "p",
+      "text": "But on the other hand, your AI model may miss something that seems pretty obvious to humans. So that's why in many tasks, it will be much better, more efficient, sometimes more reliable, more accurate to have both humans and AI work together."
+    },
+    {
+      "type": "p",
+      "text": "It’s called human-centered AI, like human and AI collaboration on some critical tasks. That is one area of my research."
+    },
+    {
+      "type": "figcaption",
+      "text": "Zhao Chen (center) during his post-doc days with colleagues at NYU Center for Data Science."
+    },
+    {
+      "type": "p",
+      "text": "Your research focuses a lot on applications in healthcare. What were some of the challenges you were trying to solve?"
+    },
+    {
+      "type": "p",
+      "text": "The New York campus has a big hospital, the Langone hospital. There are a lot of interdisciplinary interests. For example, one of the applications that they really care about is called radiology report generation. They have an image like a mammogram, and they want to generate reports."
+    },
+    {
+      "type": "p",
+      "text": "In medical domains–if your language model gives you some medical advice but it's hallucinated, meaning that it may generate something that seems correct but is factually incorrect—that is a serious issue. If your radiologist knows that your model can hallucinate—generate something that is incorrect—they will never trust the model because it's too risky. That's why you want some control;it’s called controllable generation."
+    },
+    {
+      "type": "p",
+      "text": "We want the model to generate something that is under some control. We want the language model to follow some specific rules so that it will not hallucinate. The high-level goal is to increase the users’ trust of your language models."
+    },
+    {
+      "type": "p",
+      "text": "Is that something that could actually become used in hospitals?"
+    },
+    {
+      "type": "p",
+      "text": "I have a PhD [student] working on that. If the project succeeds, it would directly be deployed to hospitals, and I think it will have some real impact."
+    },
+    {
+      "type": "figcaption",
+      "text": "Zhao competing in the 2024 China National Bridge Games."
+    },
+    {
+      "type": "p",
+      "text": "Aside from your research, you’re also a pretty serious bridge player."
+    },
+    {
+      "type": "p",
+      "text": "I started playing bridge in 2011. At the beginning, it was my dad [who taught me]. I’m kind of lucky to have had multiple very good advisers at different stages. They are really talented and probably some of the best players in China [across] different generations."
+    },
+    {
+      "type": "p",
+      "text": "I really like this game. I’ve gotten some good results, so that kind of further motivated me to play more seriously when I went to the US for my PhD. I played some national tournaments in the United States, and we had a champion there. I also represented the Chinese youth team. Now we are trying to qualify for the national team."
+    },
+    {
+      "type": "p",
+      "text": "That's one of the reasons or maybe one of the biggest reasons I want to come back to Asia, because I wanted to play in the national team and fight for a world championship."
+    },
+    {
+      "type": "p",
+      "text": "Our goal is that in five to 10 years, we play for the China Open team and can have some real opportunities. Every week we do some online practice, and I also read books, doing some exercises. We play tournaments, but now less frequently because I focus more on school."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/focus_image",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/focus_image/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/focus_image/what_im_working_on_zhao_cheng-01.jpg?itok=fhNg30fQ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/what_im_working_on_zhao_cheng-01-f3038fc147a8.jpg",
+      "download_status": "downloaded",
+      "bytes": 79605,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/AD_4nXcD9rDPW23Toko2DudF3CgHa6Ykb80Ch2FGlRtgGamdhQFnAyXA83mqKdQsdMj7WPdQrn8Ve1Ifax2MbAlr0mhXDRgvrgx6zR8U71hGt0gYTyQg-CLtaf3a.jpg",
+      "alt": "Zhao with colleagues in NYU Langone Medical Center",
+      "caption": "Zhao Chen (center) during his post-doc days with colleagues at NYU Center for Data Science.",
+      "source": "img",
+      "local_path": "_shared/AD_4nXcD9rDPW23Toko2DudF3CgHa6Ykb80Ch2FGlRtgGamdhQFn-e2a0e87013af.jpg",
+      "download_status": "downloaded",
+      "bytes": 890359,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/AD_4nXdUqfMW5NPRSyynlgGLGllAt0ryuRiOas77RutwN1edWqvM2qno9fsn1qpKbzdYj9xZoD57cigLZo7f2tiplYiYbywSym1Weyc9RNKNDhMyw3I-4QqyhXrS.jpg",
+      "alt": "Zhao competing at 2024 China National Bridge Games.",
+      "caption": "Zhao competing in the 2024 China National Bridge Games.",
+      "source": "img",
+      "local_path": "_shared/AD_4nXdUqfMW5NPRSyynlgGLGllAt0ryuRiOas77RutwN1edWqvM-5b497059dd82.jpg",
+      "download_status": "downloaded",
+      "bytes": 406087,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Zhao%20Chen%3A%20Computer%20Science%20and%20Competitive%20Bridge&url=https%3A//shanghai.nyu.edu/is/zhao-chen-computer-science-and-competitive-bridge&status=Zhao%20Chen%3A%20Computer%20Science%20and%20Competitive%20Bridge%20https%3A//shanghai.nyu.edu/is/zhao-chen-computer-science-and-competitive-bridge",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/is/zhao-chen-computer-science-and-competitive-bridge&title=Zhao%20Chen%3A%20Computer%20Science%20and%20Competitive%20Bridge",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/is/zhao-chen-computer-science-and-competitive-bridge&title=Zhao%20Chen%3A%20Computer%20Science%20and%20Competitive%20Bridge",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/chen-zhao",
+      "text": "Zhao Chen",
+      "internal": true
+    },
+    {
+      "url": "https://cds.nyu.edu/",
+      "text": "NYU Center for Data Science",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 896,
+  "crawled_at": "2026-06-09T04:40:37+00:00",
+  "sequence": 1300
+}

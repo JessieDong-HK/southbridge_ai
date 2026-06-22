@@ -1,0 +1,146 @@
+{
+  "id": "campuslife__first-year-students-4ab62d9e15",
+  "url": "https://shanghai.nyu.edu/campuslife/first-year-students",
+  "canonical_url": "https://shanghai.nyu.edu/campuslife/first-year-students",
+  "page_type": "campuslife",
+  "title": "First-Year Students",
+  "description": "Welcome to NYU Shanghai! NYU Shanghai is a global community where you can find people from more than 70 countries. This is a great opportunity to mingle with people from different cultures and learn from them. It’s time for you to step outside of your comfort zone, and “Make the World Your Major.”To",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "First-Year Students\nWelcome to NYU Shanghai! NYU Shanghai is a global community where you can find people from more than 70 countries. This is a great opportunity to mingle with people from different cultures and learn from them. It’s time for you to step outside of your comfort zone, and “Make the World Your Major.”\nTo support you in your first year of college, Center for New Student Programs (CNSP) plan and design events, workshops, and dialogues to help you transition into this vibrant community.\nThe summer before you arrive at NYU Shanghai, you will be contacted by your Orientation Ambassador (OA). OAs are NYU Shanghai upperclassmen who can give you advice on finding your bearings as a student here, and help you prepare for what is coming.\nUpon arrival at NYU Shanghai, you will meet and get familiar with your peers quickly in our Orientation Week. Your Orientation Week will be an introduction to the university resources at your disposal and will give you knowledge and skills to adapt to the new environment. The First Year Dialogue in the fall semester is a series of group conversations that will enable you to discuss the challenges of being a new student, with topics such as navigating roommate relationships, culture shock, and thriving in a diverse environment.\nWe hope that you will take this opportunity to make new friends, understand different cultures, and start testing the boundaries of your comfort zone. Welcome to your new life as one of NYU Shanghai’s proud global citizens!\nBefore You Arrive\nMove In\nOrientation\nFirst Year Programing\n2026 New Student FAQ",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "First-Year Students"
+    },
+    {
+      "type": "p",
+      "text": "Welcome to NYU Shanghai! NYU Shanghai is a global community where you can find people from more than 70 countries. This is a great opportunity to mingle with people from different cultures and learn from them. It’s time for you to step outside of your comfort zone, and “Make the World Your Major.”"
+    },
+    {
+      "type": "p",
+      "text": "To support you in your first year of college, Center for New Student Programs (CNSP) plan and design events, workshops, and dialogues to help you transition into this vibrant community."
+    },
+    {
+      "type": "p",
+      "text": "The summer before you arrive at NYU Shanghai, you will be contacted by your Orientation Ambassador (OA). OAs are NYU Shanghai upperclassmen who can give you advice on finding your bearings as a student here, and help you prepare for what is coming."
+    },
+    {
+      "type": "p",
+      "text": "Upon arrival at NYU Shanghai, you will meet and get familiar with your peers quickly in our Orientation Week. Your Orientation Week will be an introduction to the university resources at your disposal and will give you knowledge and skills to adapt to the new environment. The First Year Dialogue in the fall semester is a series of group conversations that will enable you to discuss the challenges of being a new student, with topics such as navigating roommate relationships, culture shock, and thriving in a diverse environment."
+    },
+    {
+      "type": "p",
+      "text": "We hope that you will take this opportunity to make new friends, understand different cultures, and start testing the boundaries of your comfort zone. Welcome to your new life as one of NYU Shanghai’s proud global citizens!"
+    },
+    {
+      "type": "h4",
+      "text": "Before You Arrive"
+    },
+    {
+      "type": "h4",
+      "text": "Move In"
+    },
+    {
+      "type": "h4",
+      "text": "Orientation"
+    },
+    {
+      "type": "h4",
+      "text": "First Year Programing"
+    },
+    {
+      "type": "h4",
+      "text": "2026 New Student FAQ"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-new-student-2-2.jpg",
+      "alt": "First-Year Students",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-new-student-2-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-new-student-2-3.jpg",
+      "alt": "Before You Arrive",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-new-student-2-3.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-new-student-2-4.jpg",
+      "alt": "Move In",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-new-student-2-4.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-new-student-2-5.jpg",
+      "alt": "Orientation",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-new-student-2-5.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-new-student-2-6.jpg",
+      "alt": "First Year Programing",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-new-student-2-6-75cb428e606e.jpg",
+      "download_status": "downloaded",
+      "bytes": 53737,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-new-student-2-7.jpg",
+      "alt": "Parents FAQ",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-new-student-2-7.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/new/freshman/prearrival",
+      "text": "Before You Arrive",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/new/freshman/moving",
+      "text": "Move In",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/new/freshman/orientation",
+      "text": "Orientation",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/new/freshman/first-year-programing",
+      "text": "First Year Programing",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/content/2024-new-student-faq",
+      "text": "2026 New Student FAQ",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 269,
+  "crawled_at": "2026-06-09T04:32:25+00:00",
+  "sequence": 570
+}

@@ -1,0 +1,69 @@
+{
+  "id": "cn__campus-life__career__employers__handshake-9cdd7aa577",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/career/employers/handshake",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/career/employers/handshake",
+  "page_type": "cn",
+  "title": "招聘途径",
+  "description": "雇主可通过以下途径方式招聘上纽大学生：",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "招聘途径\n雇主可通过以下途径方式招聘上纽大学生：\n发布全职或实习信息\n参加校园招聘会\n参加校园宣讲会\n举办活动并与学生建立联系\n相关资料",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "招聘途径"
+    },
+    {
+      "type": "p",
+      "text": "雇主可通过以下途径方式招聘上纽大学生："
+    },
+    {
+      "type": "h3",
+      "text": "发布全职或实习信息"
+    },
+    {
+      "type": "h3",
+      "text": "参加校园招聘会"
+    },
+    {
+      "type": "h3",
+      "text": "参加校园宣讲会"
+    },
+    {
+      "type": "h3",
+      "text": "举办活动并与学生建立联系"
+    },
+    {
+      "type": "h3",
+      "text": "相关资料"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/nyush_handshake_employer_registration_guide.pdf",
+      "text": "注册指南",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/nyu_shanghai_handshake_employer_user_guide.pdf",
+      "text": "用户指南",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/NYU%20Shanghai%20Career%20Development%20Center_Employer%20Guidelines%202015.pdf",
+      "text": "雇主实习生招聘指南 (PDF)",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/accessible_employer_services_overview_final.pdf",
+      "text": "雇主招聘指南 (PDF)",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 7,
+  "crawled_at": "2026-06-09T04:36:58+00:00",
+  "sequence": 991
+}

@@ -1,0 +1,120 @@
+{
+  "id": "academics__faculty__directory__junnan-chen-d36c62b368",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/junnan-chen",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/junnan-chen",
+  "page_type": "academics",
+  "title": "Junnan",
+  "description": "Junnan Chen is Assistant Professor in Media Theory at the Department of Interactive Media Art. Prior to joining NYU Shanghai, she received her Ph.D at Princeton University, with a joint-degree of Interdisciplinary Humanities and East Asian Studies. Her research and teaching interests range widely:",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Junnan Chen\nJunnan Chen is Assistant Professor in Media Theory at the Department of Interactive Media Art. Prior to joining NYU Shanghai, she received her Ph.D at Princeton University, with a joint-degree of Interdisciplinary Humanities and East Asian Studies. Her research and teaching interests range widely: from media theory, feminist theory, extraterrestrial imaginaries, to the philosophy of time. She is currently completing her book manuscript, tentatively titled Expressing Time: Cybernetic Aesthetics and Cold War Japan, a work that explores distinct phenomenologies of time expressed in artworks produced in and about Japan—itself a transfiguration of a wide range of conflicts, from ideological to technological, that define the Cold War.\nShe is also a filmmaker and screenwriter, with a particular interest in experimental and conceptual approaches to audiovisual and theatrical works. Her film have been screened and awarded at multiple international festivals, including the Paris Independent Film Festival, Hong Kong Arthouse Film Festival, and the academy-award qualifying Cinequest Film Festival. Currently, she is working on a documentary on the video game series Assassin’s Creed and a video essay that contemplates on cosmic exoticism and the planetary UFO imaginaries.\nSelect Publications\nPeer-review articles:\n“The Imperishables: Somatic Remediation, Femininity, and Plasticity in Ōshima Nagisa’s Urban Critique,” positions: Asia critique, vol. 32 (2), 2024.\n“Mediatic Cosmology: Taki Kōji’s Urban Semiotics,”in Progress.\nThrough the Dilapidated Gate: Modernity, Female Sexuality, and the Real Rashomon Effect,” in progress.\nBook Reviews:\n“Book Review for Transnational Modernity: Chinese Cultural Encounters with Russia via Japan (1880-1930),” Journal of Asian Studies, forthcoming.\nArt Criticism:\n“Digital X-Acto: Basil Pao’s Photography Book Carnival of Dreams,” Cha: An Asian Literary Journal (September 2023): https://chajournal.blog/2023/09/06/carnival/\nEducation\nPhD, East Asian Studies and Interdisciplinary HumanitiesPrinceton University\nMA, East Asian Languages and CulturesColumbia University\nBFA, Film and TVNew York University\nPhilosophy of Time\nPhenomenology\nGlobal Cinema\nUrban Media\nFeminist Theory",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Junnan Chen"
+    },
+    {
+      "type": "p",
+      "text": "Junnan Chen is Assistant Professor in Media Theory at the Department of Interactive Media Art. Prior to joining NYU Shanghai, she received her Ph.D at Princeton University, with a joint-degree of Interdisciplinary Humanities and East Asian Studies. Her research and teaching interests range widely: from media theory, feminist theory, extraterrestrial imaginaries, to the philosophy of time. She is currently completing her book manuscript, tentatively titled Expressing Time: Cybernetic Aesthetics and Cold War Japan, a work that explores distinct phenomenologies of time expressed in artworks produced in and about Japan—itself a transfiguration of a wide range of conflicts, from ideological to technological, that define the Cold War."
+    },
+    {
+      "type": "p",
+      "text": "She is also a filmmaker and screenwriter, with a particular interest in experimental and conceptual approaches to audiovisual and theatrical works. Her film have been screened and awarded at multiple international festivals, including the Paris Independent Film Festival, Hong Kong Arthouse Film Festival, and the academy-award qualifying Cinequest Film Festival. Currently, she is working on a documentary on the video game series Assassin’s Creed and a video essay that contemplates on cosmic exoticism and the planetary UFO imaginaries."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "p",
+      "text": "Peer-review articles:"
+    },
+    {
+      "type": "li",
+      "text": "“The Imperishables: Somatic Remediation, Femininity, and Plasticity in Ōshima Nagisa’s Urban Critique,” positions: Asia critique, vol. 32 (2), 2024."
+    },
+    {
+      "type": "li",
+      "text": "“Mediatic Cosmology: Taki Kōji’s Urban Semiotics,”in Progress."
+    },
+    {
+      "type": "li",
+      "text": "Through the Dilapidated Gate: Modernity, Female Sexuality, and the Real Rashomon Effect,” in progress."
+    },
+    {
+      "type": "p",
+      "text": "Book Reviews:"
+    },
+    {
+      "type": "li",
+      "text": "“Book Review for Transnational Modernity: Chinese Cultural Encounters with Russia via Japan (1880-1930),” Journal of Asian Studies, forthcoming."
+    },
+    {
+      "type": "p",
+      "text": "Art Criticism:"
+    },
+    {
+      "type": "li",
+      "text": "“Digital X-Acto: Basil Pao’s Photography Book Carnival of Dreams,” Cha: An Asian Literary Journal (September 2023): https://chajournal.blog/2023/09/06/carnival/"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, East Asian Studies and Interdisciplinary HumanitiesPrinceton University"
+    },
+    {
+      "type": "li",
+      "text": "MA, East Asian Languages and CulturesColumbia University"
+    },
+    {
+      "type": "li",
+      "text": "BFA, Film and TVNew York University"
+    },
+    {
+      "type": "li",
+      "text": "Philosophy of Time"
+    },
+    {
+      "type": "li",
+      "text": "Phenomenology"
+    },
+    {
+      "type": "li",
+      "text": "Global Cinema"
+    },
+    {
+      "type": "li",
+      "text": "Urban Media"
+    },
+    {
+      "type": "li",
+      "text": "Feminist Theory"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/profile_0.jpeg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/profile_0.jpeg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://chajournal.blog/2023/09/06/carnival",
+      "text": "https://chajournal.blog/2023/09/06/carnival/",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 319,
+  "crawled_at": "2026-06-09T04:35:46+00:00",
+  "sequence": 862
+}

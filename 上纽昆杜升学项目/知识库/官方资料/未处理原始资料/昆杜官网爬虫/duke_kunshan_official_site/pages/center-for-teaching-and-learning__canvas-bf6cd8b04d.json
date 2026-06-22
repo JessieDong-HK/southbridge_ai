@@ -1,0 +1,35 @@
+{
+  "id": "center-for-teaching-and-learning__canvas-bf6cd8b04d",
+  "url": "https://www.dukekunshan.edu.cn/center-for-teaching-and-learning/canvas",
+  "canonical_url": "https://ctl.dukekunshan.edu.cn/canvas",
+  "page_type": "center-for-teaching-and-learning",
+  "title": "Canvas at DKU – Duke Kunshan Center for Teaching and Learning",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": "2023-09-22T06:33:22+00:00",
+  "text": "Canvas is the learning management system (LMS) in Duke University and Duke Kunshan University.",
+  "text_blocks": [
+    {
+      "type": "p",
+      "text": "Canvas is the learning management system (LMS) in Duke University and Duke Kunshan University."
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://ctl.dukekunshan.edu.cn/canvas/prepare-for-spring-2024",
+      "text": "Prepare for Teaching with CanvasClick Here",
+      "internal": false
+    },
+    {
+      "url": "https://canvas.duke.edu/login/saml",
+      "text": "Log into Canvas",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 14,
+  "crawled_at": "2026-06-03T13:50:49+00:00",
+  "sequence": 183
+}

@@ -1,0 +1,524 @@
+{
+  "id": "cn__gazette-chinese-379f73dda6",
+  "url": "https://shanghai.nyu.edu/cn/gazette-chinese?field_mailchimplist_value=parent%20newsletter",
+  "canonical_url": "https://shanghai.nyu.edu/gazette-chinese",
+  "page_type": "cn",
+  "title": "新闻简报 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "新闻简报\n2025-2026 学年\n2024-2025 学年\n2023-2024 学年\n2022-2023 学年\n2021-2022 学年\n2019-2020 学年\n2018-2019 学年\n2017-2018 学年\n2016-2017 学年",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "新闻简报"
+    },
+    {
+      "type": "h3",
+      "text": "2025-2026 学年"
+    },
+    {
+      "type": "h3",
+      "text": "2024-2025 学年"
+    },
+    {
+      "type": "h3",
+      "text": "2023-2024 学年"
+    },
+    {
+      "type": "h3",
+      "text": "2022-2023 学年"
+    },
+    {
+      "type": "h3",
+      "text": "2021-2022 学年"
+    },
+    {
+      "type": "h3",
+      "text": "2019-2020 学年"
+    },
+    {
+      "type": "h3",
+      "text": "2018-2019 学年"
+    },
+    {
+      "type": "h3",
+      "text": "2017-2018 学年"
+    },
+    {
+      "type": "h3",
+      "text": "2016-2017 学年"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/Parent%20Newsletter%20Mar-02_0.jpg?itok=KJbZE2r4",
+      "alt": "紫韵迎春光，荣耀正绽放",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/Parent%20Newsletter%20Mar-02_0.jpg?itok=KJbZE2r4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in vi"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/Parent%20Newsletter%20Dec-02.jpg?itok=dvuGPBnv",
+      "alt": "创意与收获的季节",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/Parent%20Newsletter%20Dec-02.jpg?itok=dvuGPBnv (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in viol"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/Parent%20Newsletter%20Oct-CN.jpg?itok=PRPUZxlU",
+      "alt": "欢迎2029届新生!",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/Parent%20Newsletter%20Oct-CN.jpg?itok=PRPUZxlU (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in viol"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/Parent%20Newsletter%20JUN-CN%20banner.jpg?itok=lVvdL1C-",
+      "alt": "祝贺2025届毕业生！连接世界，荣耀启程！",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/Parent%20Newsletter%20JUN-CN%20banner.jpg?itok=lVvdL1C- (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurre"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/Parent%20Newsletter%20Mar-02.jpg?itok=N2xOA6-f",
+      "alt": "跃动生机，激发灵感",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/Parent%20Newsletter%20Mar-02.jpg?itok=N2xOA6-f (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in viol"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/CN%20Banner.jpg?itok=sU839YhP",
+      "alt": "进入岁末收获季",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/CN%20Banner.jpg?itok=sU839YhP (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/202410-cn%20parents%20newsletter%20banner.jpg?itok=Vnf70G2T",
+      "alt": "欢迎2028届新生+精彩纷呈的秋季学期",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/202410-cn%20parents%20newsletter%20banner.jpg?itok=Vnf70G2T (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occ"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/cn_banner_photo.jpg?itok=jxTVgwr9",
+      "alt": "祝贺2024届毕业生！扬帆远航，奔赴人生新篇！",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/cn_banner_photo.jpg?itok=jxTVgwr9 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of prot"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/parents-newslatters.jpg?itok=AQZe9a2D",
+      "alt": "上纽大进入毕业倒计时！",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/parents-newslatters.jpg?itok=AQZe9a2D (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of "
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/unnamed2.jpg?itok=T4TOv3VB",
+      "alt": "不容错过的精彩“期末秀”，预祝各位元旦快乐！",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/unnamed2.jpg?itok=T4TOv3VB (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/unnamed_10.jpg?itok=VmGoTjEh",
+      "alt": "上海纽约大学发布口述历史纪录片",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/unnamed_10.jpg?itok=VmGoTjEh (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol "
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/unnamed-1_0.jpg?itok=7GDflLxr",
+      "alt": "unnamed-1.jpg",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/unnamed-1_0.jpg?itok=7GDflLxr (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/70fbb3a6e6779bb9c6d34816_1220x710.jpg?itok=8NWqV9tg",
+      "alt": "上纽大建校十周年庆典启幕：在前滩 向前方！",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/70fbb3a6e6779bb9c6d34816_1220x710.jpg?itok=8NWqV9tg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/6ac4701c0792b4d73fd2f99f_1200x700.jpg?itok=ycX-g09k",
+      "alt": "虎年大吉，平安喜乐！",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/6ac4701c0792b4d73fd2f99f_1200x700.jpg?itok=ycX-g09k (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/CN%20banner.jpg?itok=AXigUMiJ",
+      "alt": "2025届新生，欢迎你们！",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/CN%20banner.jpg?itok=AXigUMiJ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/45b0d56b-d2dd-4dcb-8d55-6f04e73442cd.jpg?itok=hH7AuPzY",
+      "alt": "45b0d56b-d2dd-4dcb-8d55-6f04e73442cd.jpg",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/45b0d56b-d2dd-4dcb-8d55-6f04e73442cd.jpg?itok=hH7AuPzY (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/785ef338-d6d9-4716-9f75-25536ace15a0_0.jpg?itok=me_nyMMe",
+      "alt": "785ef338-d6d9-4716-9f75-25536ace15a0.jpg",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/785ef338-d6d9-4716-9f75-25536ace15a0_0.jpg?itok=me_nyMMe (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurr"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/0611.jpg?itok=7DgGW09l",
+      "alt": "0611.jpg",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/0611.jpg?itok=7DgGW09l (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl."
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/jia_chang_hui_12yue_.jpg?itok=OHXBXvex",
+      "alt": "jia_chang_hui_12yue_.jpg",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/jia_chang_hui_12yue_.jpg?itok=OHXBXvex (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/jia_chang_hui_1025.jpg?itok=kosHkIjT",
+      "alt": "jia_chang_hui_1025.jpg",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/jia_chang_hui_1025.jpg?itok=kosHkIjT (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of p"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/default_images/online-newsletter_0.jpg?itok=UdC4Vh0b",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/default_images/online-newsletter_0.jpg?itok=UdC4Vh0b (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred i"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/jia_chang_hui_wu_yue_.jpg?itok=a9SFwLJY",
+      "alt": "jia_chang_hui_wu_yue_.jpg",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/jia_chang_hui_wu_yue_.jpg?itok=a9SFwLJY (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation o"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/f8b3ff89-b80e-4b67-b7d0-76cb4ed81104.jpg?itok=ygc3cgYw",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/f8b3ff89-b80e-4b67-b7d0-76cb4ed81104.jpg?itok=ygc3cgYw (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/17c77eaf-216e-4a2f-a246-e4425038d3bc.jpg?itok=5WUWmBxT",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/4548dbeb-328c-4e0b-b137-decd4689a89e.jpg?itok=hdS6tCpC",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/4548dbeb-328c-4e0b-b137-decd4689a89e.jpg?itok=hdS6tCpC (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/003e101a-c43f-4ae6-8eee-2fba1b4931e4.jpg?itok=dwUmXXUW",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/003e101a-c43f-4ae6-8eee-2fba1b4931e4.jpg?itok=dwUmXXUW (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/dsc08517-940_0_0.jpg?itok=5590qk8l",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/20170307-mz864030-600_2.jpg?itok=30fKw0h4",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/20170307-mz864030-600_2.jpg?itok=30fKw0h4 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/8da9f564-b7b9-4049-8bf2-5e40a0cdb08a_0.jpg?itok=QhF4f6iG",
+      "alt": "2017年3月刊：学生参与“我，潜能无限”会议，新形势下的通识教育以及更多活动！",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/8da9f564-b7b9-4049-8bf2-5e40a0cdb08a_0.jpg?itok=QhF4f6iG (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurr"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/ab4d5a48-dd23-4748-a8b0-c86c167161d8_0.jpg?itok=iu-xREoE",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/ab4d5a48-dd23-4748-a8b0-c86c167161d8_0.jpg?itok=iu-xREoE (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurr"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/a5f7ccdd-2b21-460f-99b2-29c3d521f3a6_0.jpg?itok=78R7HqeV",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/a5f7ccdd-2b21-460f-99b2-29c3d521f3a6_0.jpg?itok=78R7HqeV (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurr"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/256b0419-c7ed-430e-a707-9a2de3b26a2a_0.jpg?itok=Rs-v7bYu",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/256b0419-c7ed-430e-a707-9a2de3b26a2a_0.jpg?itok=Rs-v7bYu (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurr"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/1d04fd84-22fb-49f2-bb07-9dc594a76aec_0.jpg?itok=PuyY7xCK",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/1d04fd84-22fb-49f2-bb07-9dc594a76aec_0.jpg?itok=PuyY7xCK (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurr"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://t.e2ma.net/webview/c1fl5m/5244809a29911bb2bbfc336698bba57b",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/w0kotm/16fa3afb2df6ca39c0748fca07b6105b",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/0fb2mm/cbcf46337fa7562e432527acee88f9ef",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/oe637l/4103c1bfa8df3fb197557b8584c68b4f",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/85wazl/0d05039199a428996fc3dce501ca084b",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/wkw2nl/3f0c613af20fd0ad11d813b081e747ba",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/4mz8il/a966146b7323ef5a9130b6a2bb66043f",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/wwhnzk/44d9980bc145ef08d94efbbfbf743d1c",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/8pgfbk/44f92b54732c1b2e5234d72cba0578b0",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/cljhgj/5a72443036277bed65fcdef9384027b1",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/81x82i/1ef43b39eb0d05e10821e528024535fa",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/kbphfi/329d637892401985df8627657e69af23",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/shne7h/78839df79a38e27f0d408174ddfe5a9a",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/gospse/1c03ad6925cec9c9523b346e21a68295",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://us11.campaign-archive.com/?u=1865b7035bb53d9c34f186520&id=b3e05fc9a7",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/20203",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/1ei8ka5tpq",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/201962019",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/december-2018chineseversion123",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/2018102022",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/0m8yrx3eji",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/nyu/20184-atwjrzsobu",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "http://mailchi.mp/nyu/20183",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "http://mailchi.mp/nyu/20182ima",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "http://mailchi.mp/nyu/201710-su321gbt5k",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "http://mailchi.mp/nyu/20179-4h7hzuefh1",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "http://mailchi.mp/nyu/20175",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "http://mailchi.mp/nyu/201742017",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://us11.campaign-archive.com/?u=1865b7035bb53d9c34f186520&id=83350d5399",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://us11.campaign-archive.com/?u=1865b7035bb53d9c34f186520&id=10d0fedaa2",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://us11.campaign-archive.com/?u=1865b7035bb53d9c34f186520&id=f551315d09",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://us11.campaign-archive.com/?u=1865b7035bb53d9c34f186520&id=5bc22997bb",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://us11.campaign-archive.com/?u=1865b7035bb53d9c34f186520&id=5e0162fb02",
+      "text": "",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 28,
+  "crawled_at": "2026-06-09T04:45:09+00:00",
+  "sequence": 1652
+}

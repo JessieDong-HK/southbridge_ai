@@ -1,0 +1,135 @@
+{
+  "id": "campus-life__career__graduate-destinations__view-the-infograhics-archive-d58b44f23c",
+  "url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations/view-the-infograhics-archive",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations/view-the-infograhics-archive",
+  "page_type": "campus-life",
+  "title": "View the Infographics Archive",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "View the Infographics Archive\nLife Beyond Century Avenue: Class of 2022\nLife Beyond Century Avenue: Class of 2021\nLife Beyond Century Avenue: Class of 2020\nLife Beyond Century Avenue: Class of 2019\nLife Beyond Century Avenue: Class of 2018\nLife Beyond Century Avenue: Class of 2017",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "View the Infographics Archive"
+    },
+    {
+      "type": "h4",
+      "text": "Life Beyond Century Avenue: Class of 2022"
+    },
+    {
+      "type": "h4",
+      "text": "Life Beyond Century Avenue: Class of 2021"
+    },
+    {
+      "type": "h4",
+      "text": "Life Beyond Century Avenue: Class of 2020"
+    },
+    {
+      "type": "h4",
+      "text": "Life Beyond Century Avenue: Class of 2019"
+    },
+    {
+      "type": "h4",
+      "text": "Life Beyond Century Avenue: Class of 2018"
+    },
+    {
+      "type": "h4",
+      "text": "Life Beyond Century Avenue: Class of 2017"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-destinations2022-01.jpg",
+      "alt": "2022",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-graduate-destinations2022-01.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-graduate-destinations-01.jpeg",
+      "alt": "Life Beyond Century Avenue: Class of 2021",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-graduate-destinations-01-2bcf701161f7.jpeg",
+      "download_status": "downloaded",
+      "bytes": 36015,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/chinese_first_destination_2020-1-3-01_1.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2020",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/chinese_first_destination_2020-1-3-01_1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/chinese_first_destination_2020-1-3-02_1.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2019",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/chinese_first_destination_2020-1-3-02_1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/chinese_first_destination_2020-1-3-03_1.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2018",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/chinese_first_destination_2020-1-3-03_1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/chinese_first_destination_2020-1-3-04_1.jpg",
+      "alt": "Life Beyond Century Avenue: Class of 2017",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations2022",
+      "text": "Life Beyond Century Avenue: Class of 2022",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations2021",
+      "text": "Life Beyond Century Avenue: Class of 2021",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations2020",
+      "text": "Life Beyond Century Avenue: Class of 2020",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations2019",
+      "text": "Life Beyond Century Avenue: Class of 2019",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations2018",
+      "text": "Life Beyond Century Avenue: Class of 2018",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/graduate-destinations2017",
+      "text": "Life Beyond Century Avenue: Class of 2017",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 46,
+  "crawled_at": "2026-06-09T04:32:21+00:00",
+  "sequence": 562
+}

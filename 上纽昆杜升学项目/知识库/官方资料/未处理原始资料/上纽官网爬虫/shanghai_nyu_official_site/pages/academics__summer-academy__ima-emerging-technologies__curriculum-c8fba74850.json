@@ -1,0 +1,74 @@
+{
+  "id": "academics__summer-academy__ima-emerging-technologies__curriculum-c8fba74850",
+  "url": "https://shanghai.nyu.edu/academics/summer-academy/ima-emerging-technologies/curriculum",
+  "canonical_url": "https://shanghai.nyu.edu/academics/summer-academy/ima-emerging-technologies/curriculum",
+  "page_type": "academics",
+  "title": "Curriculum",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Curriculum\nMonday through Thursday of both weeks the IMA Summer Institute is in session, students take classes in a rotating fashion. Each student thus completes the same instruction as their peers. Groups are constituted in a way that levels the number of students.\nCourses:\nRobotics and Digital Fabrication\nThis course provides a hands-on introduction to design for digital fabrication, using laser cutting and 3D printing machines. Students will be instructed to be using web-based 2D and 2.5D CAD software to craft parts that are mechanically functional, and visually communicative. The students will use motors in connection with mechanical linkages to craft small narrative projects. Examples of kinetic and installation art will be introduced. The course won’t cover the application of microcontrollers in depth, but students will be able to get familiar with a limited set of sensors, to explore notions of interactivity in their projects.\nCreative Coding\nIn this course, students will learn the fundamentals of coding, and computational design, by writing JavaScript code that draws to the screen (using the p5.js library and its user-friendly web-based code editor). Students will explore concepts such as motion (variables), randomness, repetition (loops), conditional statements, and interactivity. They will create screen-based designs and stories that acknowledge the user, or vary in appearance each time the code is being run. Students who have pre-existing knowledge of programming techniques will find sufficient challenges in the graphical and conceptual development of their pieces - while those who don’t will find this course an friendly and encouraging environment to be trying out those skills in the context of art-making.\nMachine Learning\nWhat is at the heart of the pivotal advances of Artificial Intelligence? This course aims to demystify this question through a series of hands-on exercises and materials, which raise an awareness of how contemporary image classification and regression models are designed, trained, and employed; what sorts of “intelligence” (and generalizations) we can expect from them; and which ethical issues might arise from their use. The course introduces techniques for training (fine-tuning) and testing custom models from student-input data. It also explores a limited set of pretrained models to be used in conjunction with the webcam and the ml5.js JavaScript library.\nCreative Game Design\nVideo games, an integral part of our culture, are created by some of the most innovative minds in the technology sector. Creative Game Design is inspired by the rapid development of the gaming industry and its increasingly important impacts on the interactive media industries and players in general. The purpose of this course is to guide students on the initial path to mastering the game design and development process. To achieve this goal, students will start with 4 core game experience design approaches and complete a mini-project the first week. All mini-projects will be presented as playable gameplay prototypes. Finally, students will spend the last week creating a game that fully expresses their design ideas.\nAfter classes, students will have a series of events to complement their learning experience. These events include a talk from faculty on What’s New Media, talks from IMA alums, study sessions, and fabrication lab training. By the end of the program, students will wrap up their projects with a final showcase open to the public to which we will invite parents and friends.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Curriculum"
+    },
+    {
+      "type": "p",
+      "text": "Monday through Thursday of both weeks the IMA Summer Institute is in session, students take classes in a rotating fashion. Each student thus completes the same instruction as their peers. Groups are constituted in a way that levels the number of students."
+    },
+    {
+      "type": "h3",
+      "text": "Courses:"
+    },
+    {
+      "type": "h4",
+      "text": "Robotics and Digital Fabrication"
+    },
+    {
+      "type": "p",
+      "text": "This course provides a hands-on introduction to design for digital fabrication, using laser cutting and 3D printing machines. Students will be instructed to be using web-based 2D and 2.5D CAD software to craft parts that are mechanically functional, and visually communicative. The students will use motors in connection with mechanical linkages to craft small narrative projects. Examples of kinetic and installation art will be introduced. The course won’t cover the application of microcontrollers in depth, but students will be able to get familiar with a limited set of sensors, to explore notions of interactivity in their projects."
+    },
+    {
+      "type": "h4",
+      "text": "Creative Coding"
+    },
+    {
+      "type": "p",
+      "text": "In this course, students will learn the fundamentals of coding, and computational design, by writing JavaScript code that draws to the screen (using the p5.js library and its user-friendly web-based code editor). Students will explore concepts such as motion (variables), randomness, repetition (loops), conditional statements, and interactivity. They will create screen-based designs and stories that acknowledge the user, or vary in appearance each time the code is being run. Students who have pre-existing knowledge of programming techniques will find sufficient challenges in the graphical and conceptual development of their pieces - while those who don’t will find this course an friendly and encouraging environment to be trying out those skills in the context of art-making."
+    },
+    {
+      "type": "h4",
+      "text": "Machine Learning"
+    },
+    {
+      "type": "p",
+      "text": "What is at the heart of the pivotal advances of Artificial Intelligence? This course aims to demystify this question through a series of hands-on exercises and materials, which raise an awareness of how contemporary image classification and regression models are designed, trained, and employed; what sorts of “intelligence” (and generalizations) we can expect from them; and which ethical issues might arise from their use. The course introduces techniques for training (fine-tuning) and testing custom models from student-input data. It also explores a limited set of pretrained models to be used in conjunction with the webcam and the ml5.js JavaScript library."
+    },
+    {
+      "type": "h4",
+      "text": "Creative Game Design"
+    },
+    {
+      "type": "p",
+      "text": "Video games, an integral part of our culture, are created by some of the most innovative minds in the technology sector. Creative Game Design is inspired by the rapid development of the gaming industry and its increasingly important impacts on the interactive media industries and players in general. The purpose of this course is to guide students on the initial path to mastering the game design and development process. To achieve this goal, students will start with 4 core game experience design approaches and complete a mini-project the first week. All mini-projects will be presented as playable gameplay prototypes. Finally, students will spend the last week creating a game that fully expresses their design ideas."
+    },
+    {
+      "type": "p",
+      "text": "After classes, students will have a series of events to complement their learning experience. These events include a talk from faculty on What’s New Media, talks from IMA alums, study sessions, and fabrication lab training. By the end of the program, students will wrap up their projects with a final showcase open to the public to which we will invite parents and friends."
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/page/ima-summer-institute-emerging-technologies",
+      "text": "IMA Summer Institute",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 562,
+  "crawled_at": "2026-06-09T04:43:30+00:00",
+  "sequence": 1556
+}

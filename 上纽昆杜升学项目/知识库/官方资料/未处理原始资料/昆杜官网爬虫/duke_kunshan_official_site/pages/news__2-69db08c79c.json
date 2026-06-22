@@ -1,0 +1,40 @@
+{
+  "id": "news__2-69db08c79c",
+  "url": "https://www.dukekunshan.edu.cn/news/2",
+  "canonical_url": "https://www.dukekunshan.edu.cn/news/2/",
+  "page_type": "news",
+  "title": "Duke Kunshan holds radiotherapy forum to advance cancer treatment",
+  "description": "Scientists and entrepreneurs gather at DKU to pool expertise and innovation to support advances in cancer-fighting technology.",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2023-12-13T09:35:51+00:00",
+  "sitemap_lastmod": "2023-12-13T09:35:51+00:00",
+  "text": "Duke Kunshan holds radiotherapy forum to advance cancer treatment\nScientists and entrepreneurs gather at DKU to pool expertise and innovation to support advances in cancer-fighting technology.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Duke Kunshan holds radiotherapy forum to advance cancer treatment"
+    },
+    {
+      "type": "p",
+      "text": "Scientists and entrepreneurs gather at DKU to pool expertise and innovation to support advances in cancer-fighting technology."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 27,
+  "crawled_at": "2026-06-03T13:52:12+00:00",
+  "sequence": 294
+}

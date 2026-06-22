@@ -1,0 +1,101 @@
+{
+  "id": "academics__faculty__directory__tim-byrnes-af62a92161",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/tim-byrnes",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/tim-byrnes",
+  "page_type": "academics",
+  "title": "Tim",
+  "description": "Tim Byrnes is Assistant Professor of Physics at NYU Shanghai. He is also Visiting Assistant Professor at the National Institute of Informatics in Tokyo, Japan. He holds a PhD from the University of New South Wales in Sydney, Australia. Professor Byrnes' research interests are in quantum information",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Tim Byrnes\nSelect Publications\n“Density Matrix Renormalisation Group Approach to the Massive Schwinger Model” T. Byrnes, P. Sriganesh, R. J. Bursill, C. J. Hamer Phys. Rev. D 66, 013002 (2002).\n“Simulating lattice gauge theories on a quantum computer” Tim Byrnes, Yoshihisa Yamamoto, Phys.Rev. A 73, 022328 (2006).\n“Distribution of quantum coherence in multipartite systems”, Chandrashekar Radhakrishnan, Manikandan Parthasarathy, Segar Jambulingam, Tim Byrnes. Phys. Rev. Lett. 116, 150504 (2016)\n“Remote quantum clock synchronization without synchronized clocks”, Ebubechukwu O. Ilo-Okeke, Louis Tessler, Jonathan P. Dowling and Tim Byrnes, Nature Partner Journal Quantum Information 4, 40 (2018)\n“Quantum atom optics: Theory and applications to quantum technology”, Tim Byrnes and Ebubechukwu Ilo-Okeke, Cambridge University Press (2021).\nEducation\nPhD, PhysicsUniversity of New South Wales\nQuantum information science and technology\nCondensed matter physics\nAMO (atomic, molecular, optical) physics\nGeneral Physics I\nIntroduction to Quantum Computing\nIndependent Study – Physics",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Tim Byrnes"
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "“Density Matrix Renormalisation Group Approach to the Massive Schwinger Model” T. Byrnes, P. Sriganesh, R. J. Bursill, C. J. Hamer Phys. Rev. D 66, 013002 (2002)."
+    },
+    {
+      "type": "li",
+      "text": "“Simulating lattice gauge theories on a quantum computer” Tim Byrnes, Yoshihisa Yamamoto, Phys.Rev. A 73, 022328 (2006)."
+    },
+    {
+      "type": "li",
+      "text": "“Distribution of quantum coherence in multipartite systems”, Chandrashekar Radhakrishnan, Manikandan Parthasarathy, Segar Jambulingam, Tim Byrnes. Phys. Rev. Lett. 116, 150504 (2016)"
+    },
+    {
+      "type": "li",
+      "text": "“Remote quantum clock synchronization without synchronized clocks”, Ebubechukwu O. Ilo-Okeke, Louis Tessler, Jonathan P. Dowling and Tim Byrnes, Nature Partner Journal Quantum Information 4, 40 (2018)"
+    },
+    {
+      "type": "li",
+      "text": "“Quantum atom optics: Theory and applications to quantum technology”, Tim Byrnes and Ebubechukwu Ilo-Okeke, Cambridge University Press (2021)."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, PhysicsUniversity of New South Wales"
+    },
+    {
+      "type": "li",
+      "text": "Quantum information science and technology"
+    },
+    {
+      "type": "li",
+      "text": "Condensed matter physics"
+    },
+    {
+      "type": "li",
+      "text": "AMO (atomic, molecular, optical) physics"
+    },
+    {
+      "type": "li",
+      "text": "General Physics I"
+    },
+    {
+      "type": "li",
+      "text": "Introduction to Quantum Computing"
+    },
+    {
+      "type": "li",
+      "text": "Independent Study – Physics"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/tim-byrne-300s_0.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://nyu.timbyrnes.net/",
+      "text": "http://nyu.timbyrnes.net",
+      "internal": false
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=5awMbQsAAAAJ&hl=en",
+      "text": "https://scholar.google.com/citations?user=5awMbQsAAAAJ&hl=en",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 145,
+  "crawled_at": "2026-06-09T04:54:19+00:00",
+  "sequence": 2424
+}

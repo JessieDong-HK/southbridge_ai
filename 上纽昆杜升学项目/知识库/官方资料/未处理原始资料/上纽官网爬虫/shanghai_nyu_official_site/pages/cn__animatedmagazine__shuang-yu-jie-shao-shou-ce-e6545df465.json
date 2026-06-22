@@ -1,0 +1,30 @@
+{
+  "id": "cn__animatedmagazine__shuang-yu-jie-shao-shou-ce-e6545df465",
+  "url": "https://shanghai.nyu.edu/cn/animatedmagazine/shuang-yu-jie-shao-shou-ce",
+  "canonical_url": "https://shanghai.nyu.edu/cn/animatedmagazine/shuang-yu-jie-shao-shou-ce",
+  "page_type": "cn",
+  "title": "双语介绍手册",
+  "description": "",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "双语介绍手册",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "双语介绍手册"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/NYU-shanghai-Brochure-2024-zh.pdf",
+      "text": "https://shanghai.nyu.edu/sites/default/files/NYU-shanghai-Brochure-2024-zh.pdf",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:29:18+00:00",
+  "sequence": 203
+}

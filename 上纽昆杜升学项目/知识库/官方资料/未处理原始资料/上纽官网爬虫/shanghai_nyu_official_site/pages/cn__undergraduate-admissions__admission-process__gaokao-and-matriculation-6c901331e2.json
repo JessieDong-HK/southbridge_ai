@@ -1,0 +1,74 @@
+{
+  "id": "cn__undergraduate-admissions__admission-process__gaokao-and-matriculation-6c901331e2",
+  "url": "https://shanghai.nyu.edu/cn/undergraduate-admissions/admission-process/gaokao-and-matriculation",
+  "canonical_url": "https://shanghai.nyu.edu/cn/undergraduate-admissions/admission-process/gaokao-and-matriculation",
+  "page_type": "cn",
+  "title": "高考录取",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "高考录取\n上海纽约大学招生委员会将根据学生“校园日活动”表现，对每位学生进行严谨的评价和讨论，确定预录取、待录取名单并给予相应录取政策，或通知淘汰结果。无论最终结果如何，每位参加“校园日活动”的学生，均会收到通知。\n对于中国大陆学生来说，请了解以下录取政策：\nA. 预录取学生须参加当年普通高考，高考成绩达到生源所在省份本科第一批录取控制线（一、二本录取批次合并的省为特殊类型招生控制分数线），上海纽约大学即予以录取。\nB. 待录取学生须参加当年普通高考，高考成绩达到生源所在省份本科第一批录取控制线（一、二本录取批次合并的省为特殊类型招生控制分数线），上海纽约大学将结合学生申请过程中包括高考成绩等在内的各项因素，综合评定，择优录取。\n上海纽约大学在提前批或综合评价批次录取学生，获得预录取或待录取资格的学生，须在该批次第一志愿填报上海纽约大学（如该批次为平行志愿，则需填报A位置志愿）。如考生所在省级招生办公室另有规定，则按省招办规定办理。\nC. 淘汰\n*港澳台学生请见港澳台学生招生简章第五部分：录取政策",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "高考录取"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学招生委员会将根据学生“校园日活动”表现，对每位学生进行严谨的评价和讨论，确定预录取、待录取名单并给予相应录取政策，或通知淘汰结果。无论最终结果如何，每位参加“校园日活动”的学生，均会收到通知。"
+    },
+    {
+      "type": "p",
+      "text": "对于中国大陆学生来说，请了解以下录取政策："
+    },
+    {
+      "type": "p",
+      "text": "A. 预录取学生须参加当年普通高考，高考成绩达到生源所在省份本科第一批录取控制线（一、二本录取批次合并的省为特殊类型招生控制分数线），上海纽约大学即予以录取。"
+    },
+    {
+      "type": "p",
+      "text": "B. 待录取学生须参加当年普通高考，高考成绩达到生源所在省份本科第一批录取控制线（一、二本录取批次合并的省为特殊类型招生控制分数线），上海纽约大学将结合学生申请过程中包括高考成绩等在内的各项因素，综合评定，择优录取。"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学在提前批或综合评价批次录取学生，获得预录取或待录取资格的学生，须在该批次第一志愿填报上海纽约大学（如该批次为平行志愿，则需填报A位置志愿）。如考生所在省级招生办公室另有规定，则按省招办规定办理。"
+    },
+    {
+      "type": "p",
+      "text": "C. 淘汰"
+    },
+    {
+      "type": "p",
+      "text": "*港澳台学生请见港澳台学生招生简章第五部分：录取政策"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-Chinese-Admission-06-2_2.jpg",
+      "alt": "高考录取",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-Chinese-Admission-06-2_2-f1b36cc7ebc4.jpg",
+      "download_status": "downloaded",
+      "bytes": 121582,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/zsb/fangan/hk-mc-tw",
+      "text": "港澳台学生招生简章",
+      "internal": true
+    },
+    {
+      "url": "https://apply.shanghai.nyu.edu/",
+      "text": "",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 40,
+  "crawled_at": "2026-06-09T04:40:29+00:00",
+  "sequence": 1288
+}

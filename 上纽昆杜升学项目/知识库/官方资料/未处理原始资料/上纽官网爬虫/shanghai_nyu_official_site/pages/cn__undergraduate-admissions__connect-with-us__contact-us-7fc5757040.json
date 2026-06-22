@@ -1,0 +1,57 @@
+{
+  "id": "cn__undergraduate-admissions__connect-with-us__contact-us-7fc5757040",
+  "url": "https://shanghai.nyu.edu/cn/undergraduate-admissions/connect-with-us/contact-us",
+  "canonical_url": "https://shanghai.nyu.edu/cn/undergraduate-admissions/connect-with-us/contact-us",
+  "page_type": "cn",
+  "title": "联系方式",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "联系方式\n就上海纽约大学本科项目的招生要求或申请流程有任何问题，欢迎致电或邮件我们。\n本科招生办\n咨询邮箱：shanghai.admissions@nyu.edu （接受中文咨询，约三个工作日回复） 咨询电话：021-20595599（工作时间：星期一至星期五，北京时间9:00 - 17:00） 微信：上海纽约大学招生办 小红书：上海纽约大学本科招生办",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "联系方式"
+    },
+    {
+      "type": "p",
+      "text": "就上海纽约大学本科项目的招生要求或申请流程有任何问题，欢迎致电或邮件我们。"
+    },
+    {
+      "type": "h3",
+      "text": "本科招生办"
+    },
+    {
+      "type": "p",
+      "text": "咨询邮箱：shanghai.admissions@nyu.edu （接受中文咨询，约三个工作日回复） 咨询电话：021-20595599（工作时间：星期一至星期五，北京时间9:00 - 17:00） 微信：上海纽约大学招生办 小红书：上海纽约大学本科招生办"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/ic-wechat.jpg",
+      "alt": "微信",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ic-wechat-808b6c59341f.jpg",
+      "download_status": "downloaded",
+      "bytes": 2228,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/rednote-xiaohongshu_800_2.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/rednote-xiaohongshu_800_2-8dd39e46475a.png",
+      "download_status": "downloaded",
+      "bytes": 3190,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 24,
+  "crawled_at": "2026-06-09T04:37:05+00:00",
+  "sequence": 1012
+}

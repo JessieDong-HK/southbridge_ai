@@ -1,0 +1,72 @@
+{
+  "id": "cn__campus-life__career__students__identify-opportunities__global-awards-fellowships-7ba47e5ed1",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/identify-opportunities/global-awards-fellowships",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/career/students/identify-opportunities/global-awards-fellowships",
+  "page_type": "cn",
+  "title": "全球奖学金与研究项目",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "全球奖学金与研究项目\n欲知有关全球奖学金的更多信息，请浏览全球奖学金与研究项目办公室网页。\n通过邮件联系上纽大全球奖学金项目办公室，邮箱地址为shanghai.global.awards@nyu.edu ；或通过Handshake联系职业发展中心，预约咨询。\n通过Scholars4Dev、OpportunityDesk和 ProFellow等在线搜索工具探索更多奖项。",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "全球奖学金与研究项目"
+    },
+    {
+      "type": "li",
+      "text": "欲知有关全球奖学金的更多信息，请浏览全球奖学金与研究项目办公室网页。"
+    },
+    {
+      "type": "li",
+      "text": "通过邮件联系上纽大全球奖学金项目办公室，邮箱地址为shanghai.global.awards@nyu.edu ；或通过Handshake联系职业发展中心，预约咨询。"
+    },
+    {
+      "type": "li",
+      "text": "通过Scholars4Dev、OpportunityDesk和 ProFellow等在线搜索工具探索更多奖项。"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-4-04-1.jpg",
+      "alt": "Tips",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-4-04-1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/academics/ga/fellowships",
+      "text": "全球奖学金与研究项目办公室",
+      "internal": true
+    },
+    {
+      "url": "https://app.joinhandshake.com/login",
+      "text": "Handshake",
+      "internal": false
+    },
+    {
+      "url": "http://www.scholars4dev.com/",
+      "text": "Scholars4Dev",
+      "internal": false
+    },
+    {
+      "url": "https://opportunitydesk.org/",
+      "text": "OpportunityDesk",
+      "internal": false
+    },
+    {
+      "url": "https://www.profellow.com/",
+      "text": "ProFellow",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 14,
+  "crawled_at": "2026-06-09T04:36:56+00:00",
+  "sequence": 983
+}

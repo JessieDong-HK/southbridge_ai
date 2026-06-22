@@ -1,0 +1,76 @@
+{
+  "id": "stories__wes-livingstone-freshman-870d3641ef",
+  "url": "https://shanghai.nyu.edu/stories/wes-livingstone-freshman",
+  "canonical_url": "https://shanghai.nyu.edu/stories/wes-livingstone-freshman",
+  "page_type": "stories",
+  "title": "Wes Livingstone, Freshman",
+  "description": "December 19, 2014 - “I think our school is special because each student has a totally different background and story. I can learn from those around me everyday. But while we are diverse, we actually do not differ as human beings. For example, even though my roommate has never been immersed in my",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Wes Livingstone, Freshman\nTwitter\nFacebook\nWeibo\nDecember 19, 2014 - “I think our school is special because each student has a totally different background and story. I can learn from those around me everyday. But while we are diverse, we actually do not differ as human beings. For example, even though my roommate has never been immersed in my culture, he can still understand me. We can communicate freely. I feel like while I am here in Shanghai experiencing a different culture, I am truly trying my best to live my life differently.” - Wes Livingstone, Freshman (by Sunyi Wang)",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Wes Livingstone, Freshman"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "December 19, 2014 - “I think our school is special because each student has a totally different background and story. I can learn from those around me everyday. But while we are diverse, we actually do not differ as human beings. For example, even though my roommate has never been immersed in my culture, he can still understand me. We can communicate freely. I feel like while I am here in Shanghai experiencing a different culture, I am truly trying my best to live my life differently.” - Wes Livingstone, Freshman (by Sunyi Wang)"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/story",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/story/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/story/wes.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wes-93a45833c04d.jpg",
+      "download_status": "downloaded",
+      "bytes": 62729,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Wes%20Livingstone%2C%20Freshman&url=https%3A//shanghai.nyu.edu/stories/wes-livingstone-freshman&status=Wes%20Livingstone%2C%20Freshman%20https%3A//shanghai.nyu.edu/stories/wes-livingstone-freshman",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/stories/wes-livingstone-freshman&title=Wes%20Livingstone%2C%20Freshman",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/stories/wes-livingstone-freshman&title=Wes%20Livingstone%2C%20Freshman",
+      "text": "Weibo",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 98,
+  "crawled_at": "2026-06-09T04:47:46+00:00",
+  "sequence": 1884
+}

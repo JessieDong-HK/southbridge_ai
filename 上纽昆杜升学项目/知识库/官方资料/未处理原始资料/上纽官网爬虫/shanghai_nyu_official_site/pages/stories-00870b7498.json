@@ -1,0 +1,249 @@
+{
+  "id": "stories-00870b7498",
+  "url": "https://shanghai.nyu.edu/stories?page=5",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "stories",
+  "title": "People | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "People\nNYU Shanghai Love Story: Sabrina Goodman ’19 and Lu Zijie ’19\nNYU Shanghai Love Story: Julie Flood Hauge ’17 and Maximilian Reiff ’17\nCarter Christensen ’23: Leveling Up With Fresh Perspectives\nSharon Zhao Hanyu ’23: Embracing the Unknown\nKerry Zhang Yaqi ’23: Making Education Accessible\nAdib El Ounani ’23: Thriving Outside His Comfort Zone\nDennis Hu Shiyi ’23: Following His Heart\nAlumni Voices: Jack B. Du ’17\nAriana Alvarez ’23: Creating Change Through Diplomacy\nAlumni Voices: Kylee Madison Borger ’17\nAlumni Voices: Matthew Fertig ’22\nCao Rui MA TESOL ’23: Turning Interest Into Profession",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "People"
+    },
+    {
+      "type": "h4",
+      "text": "NYU Shanghai Love Story: Sabrina Goodman ’19 and Lu Zijie ’19"
+    },
+    {
+      "type": "h4",
+      "text": "NYU Shanghai Love Story: Julie Flood Hauge ’17 and Maximilian Reiff ’17"
+    },
+    {
+      "type": "h4",
+      "text": "Carter Christensen ’23: Leveling Up With Fresh Perspectives"
+    },
+    {
+      "type": "h4",
+      "text": "Sharon Zhao Hanyu ’23: Embracing the Unknown"
+    },
+    {
+      "type": "h4",
+      "text": "Kerry Zhang Yaqi ’23: Making Education Accessible"
+    },
+    {
+      "type": "h4",
+      "text": "Adib El Ounani ’23: Thriving Outside His Comfort Zone"
+    },
+    {
+      "type": "h4",
+      "text": "Dennis Hu Shiyi ’23: Following His Heart"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Voices: Jack B. Du ’17"
+    },
+    {
+      "type": "h4",
+      "text": "Ariana Alvarez ’23: Creating Change Through Diplomacy"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Voices: Kylee Madison Borger ’17"
+    },
+    {
+      "type": "h4",
+      "text": "Alumni Voices: Matthew Fertig ’22"
+    },
+    {
+      "type": "h4",
+      "text": "Cao Rui MA TESOL ’23: Turning Interest Into Profession"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/en_love_story_-_sabrina_goodman_19_and_lu_zijie_19-02.jpg?itok=31Y_pHLj",
+      "alt": "wedding day, Sabrina and ZJ",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/en_love_story_-_julie_flood_hauge_17_and_maximilian_reiff_17_-02.jpg?itok=covStcGz",
+      "alt": "Julie and Max embrace before a sunset on their honeymoon in Italy",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/en_love_story_-_julie_flood_hauge_17_and_maximilian-78ec96d61299.jpg",
+      "download_status": "downloaded",
+      "bytes": 44670,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/carter-02.jpg?itok=6GvVcu4H",
+      "alt": "Carter in a labcoat standing in the chemistry lab",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/carter-02-46f7e87cdc4a.jpg",
+      "download_status": "downloaded",
+      "bytes": 15456,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/in_qiantan_2-2.jpg?itok=maMAaE9h",
+      "alt": "hanyu zhao",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/in_qiantan_2-2-e65d0354e4d5.jpg",
+      "download_status": "downloaded",
+      "bytes": 26129,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/media/yaqi_cover.jpg?itok=dxoF1S-t",
+      "alt": "zhang yaqi cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/yaqi_cover-044149d64ce6.jpg",
+      "download_status": "downloaded",
+      "bytes": 21146,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/thumbnail_1.jpg?itok=JOHROXSw",
+      "alt": "A solo photo of a man in glasses smiling, overlooking a backdrop of houses and mountains during sunset",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/wechatimg228_1.jpeg?itok=TDR6P3Zq",
+      "alt": "Banner for Hu",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/alumni_story_apr-homepage_highlight.jpeg?itok=76J0Jd3h",
+      "alt": "pic",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/ariana_alvarez-02.jpg?itok=zhTpAN36",
+      "alt": "Ariana",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ariana_alvarez-02-f409d711892d.jpg",
+      "download_status": "downloaded",
+      "bytes": 21269,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/2-24_-_kylee_borger-02_0.jpg?itok=W-68eoMG",
+      "alt": "a headshot of Kylee",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/12-1_-_alumni_voices-matthew_fertig_22-02.jpg?itok=1ohFgwSs",
+      "alt": "Fertig mid-stride in the Ibiza Marathon",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/12-1_-_alumni_voices-matthew_fertig_22-02-e4a7eed85846.jpg",
+      "download_status": "downloaded",
+      "bytes": 31781,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/824_-_tesol_ma23_cao_rui-02.jpg?itok=DqjmszYD",
+      "alt": "cao rui tesol",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/824_-_tesol_ma23_cao_rui-02-d81dc2a01fa6.jpg",
+      "download_status": "downloaded",
+      "bytes": 23421,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/stories/nyu-shanghai-love-story-sabrina-goodman-19-and-lu-zijie-19",
+      "text": "NYU Shanghai Love Story: Sabrina Goodman ’19 and Lu Zijie ’19",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/nyu-shanghai-love-story-julie-flood-hauge-17-and-maximilian-reiff-17",
+      "text": "NYU Shanghai Love Story: Julie Flood Hauge ’17 and Maximilian Reiff ’17",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/carter-christensen-23-leveling-fresh-perspectives",
+      "text": "Carter Christensen ’23: Leveling Up With Fresh Perspectives",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/sharon-zhao-hanyu-23-embracing-unknown",
+      "text": "Sharon Zhao Hanyu ’23: Embracing the Unknown",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/zhang-yaqi-23-making-education-accessible",
+      "text": "Kerry Zhang Yaqi ’23: Making Education Accessible",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/adib-el-ounani-23-thriving-outside-his-comfort-zone",
+      "text": "Adib El Ounani ’23: Thriving Outside His Comfort Zone",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/dennis-hu-shiyi-23-following-his-heart",
+      "text": "Dennis Hu Shiyi ’23: Following His Heart",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-jack-b-du-17",
+      "text": "Alumni Voices: Jack B. Du ’17",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/ariana-alvarez-23-creating-change-through-diplomacy",
+      "text": "Ariana Alvarez ’23: Creating Change Through Diplomacy",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-kylee-madison-borger-17",
+      "text": "Alumni Voices: Kylee Madison Borger ’17",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/alumni-voices-matthew-fertig-22",
+      "text": "Alumni Voices: Matthew Fertig ’22",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/cao-rui-ma-tesol-23-turning-interest-profession",
+      "text": "Cao Rui MA TESOL ’23: Turning Interest Into Profession",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 95,
+  "crawled_at": "2026-06-09T04:32:58+00:00",
+  "sequence": 640
+}

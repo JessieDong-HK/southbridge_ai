@@ -1,0 +1,164 @@
+{
+  "id": "undergraduate__community-engaged-events-and-programs-49f53ebf09",
+  "url": "https://shanghai.nyu.edu/undergraduate/community-engaged-events-and-programs",
+  "canonical_url": "https://shanghai.nyu.edu/undergraduate/community-engaged-events-and-programs",
+  "page_type": "undergraduate",
+  "title": "Community-Engaged Events & Programs",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Community-Engaged Events & Programs\nThe Office of Community-Engaged Learning connects students and faculty with local experts, organizations, and neighbors through events and programs that blend learning with real-world experience. From exploring areas around campus to mentoring neighborhood children and harvesting on a permaculture farm, these experiences bring our campus and community closer together.\nRestorying Futures\nCommunity Partner:\nKei Kai Eco Community\nFaculty Partner:\nGlobal China Studies Professor Liangliang Zhang\nRe-Storying Futures is a fellowship that brings together changemakers connected to the U.S. and/or China to explore how creative storytelling can open new paths forward.\nExplore the New Bund area around campus\nCommunity Experts:\nLili Time, a cafe that employs individuals who are hard of hearing or autisticMOViEMOViE TheaterJane Meihua Shen, a popular science writer and wildlife expertJumingxin, a social organization committed to innovation residential projects\nOpen Up Campus to Children in the Neighborhood - The Big Brothers Big Sisters Program\nCommunity Partners:\nLocal NGOs, local primary schools\nFaculty Partner:\nEAP Professor Steve Iams\nA Day of Harvesting and Learning Inspired by NYU Shanghai Reads\nCommunity Partner:\nYungu Farm, a farm dedicated to the study and practice of permaculture\nMeet With Us To Discuss Events and Program Ideas\nEmail: shanghai.cel@nyu.edu",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Community-Engaged Events & Programs"
+    },
+    {
+      "type": "p",
+      "text": "The Office of Community-Engaged Learning connects students and faculty with local experts, organizations, and neighbors through events and programs that blend learning with real-world experience. From exploring areas around campus to mentoring neighborhood children and harvesting on a permaculture farm, these experiences bring our campus and community closer together."
+    },
+    {
+      "type": "h4",
+      "text": "Restorying Futures"
+    },
+    {
+      "type": "p",
+      "text": "Community Partner:"
+    },
+    {
+      "type": "p",
+      "text": "Kei Kai Eco Community"
+    },
+    {
+      "type": "p",
+      "text": "Faculty Partner:"
+    },
+    {
+      "type": "p",
+      "text": "Global China Studies Professor Liangliang Zhang"
+    },
+    {
+      "type": "p",
+      "text": "Re-Storying Futures is a fellowship that brings together changemakers connected to the U.S. and/or China to explore how creative storytelling can open new paths forward."
+    },
+    {
+      "type": "h4",
+      "text": "Explore the New Bund area around campus"
+    },
+    {
+      "type": "p",
+      "text": "Community Experts:"
+    },
+    {
+      "type": "p",
+      "text": "Lili Time, a cafe that employs individuals who are hard of hearing or autisticMOViEMOViE TheaterJane Meihua Shen, a popular science writer and wildlife expertJumingxin, a social organization committed to innovation residential projects"
+    },
+    {
+      "type": "h4",
+      "text": "Open Up Campus to Children in the Neighborhood - The Big Brothers Big Sisters Program"
+    },
+    {
+      "type": "p",
+      "text": "Community Partners:"
+    },
+    {
+      "type": "p",
+      "text": "Local NGOs, local primary schools"
+    },
+    {
+      "type": "p",
+      "text": "Faculty Partner:"
+    },
+    {
+      "type": "p",
+      "text": "EAP Professor Steve Iams"
+    },
+    {
+      "type": "h4",
+      "text": "A Day of Harvesting and Learning Inspired by NYU Shanghai Reads"
+    },
+    {
+      "type": "p",
+      "text": "Community Partner:"
+    },
+    {
+      "type": "p",
+      "text": "Yungu Farm, a farm dedicated to the study and practice of permaculture"
+    },
+    {
+      "type": "h4",
+      "text": "Meet With Us To Discuss Events and Program Ideas"
+    },
+    {
+      "type": "p",
+      "text": "Email: shanghai.cel@nyu.edu"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/kk.jpg",
+      "alt": "Restorying Futures",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/kk-7dae72c646b1.jpg",
+      "download_status": "downloaded",
+      "bytes": 197919,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-CEL-2-1.jpg",
+      "alt": "Explore the New Bund area around campus",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-CEL-2-1-98be72cb3934.jpg",
+      "download_status": "downloaded",
+      "bytes": 93061,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-CEL-2-2.jpg",
+      "alt": "Open Up Campus to Children in the Neighborhood - The Big Brothers Big Sisters Program",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/p-CEL-2-3.jpg",
+      "alt": "A Day of Harvesting and Learning Inspired by NYU Shanghai Reads",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/undergraduate/community-engaged-events-and-programs/restorying-futures",
+      "text": "Restorying Futures",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/wont-you-be-my-neighbor-exploring-qiantan-cel",
+      "text": "Explore the New Bund area around campus",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/opening-campus-big-brothers-big-sisters-program",
+      "text": "Open Up Campus to Children in the Neighborhood - The Big Brothers Big Sisters Program",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/day-harvesting-and-learning-inspired-nyu-shanghai-reads",
+      "text": "A Day of Harvesting and Learning Inspired by NYU Shanghai Reads",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 206,
+  "crawled_at": "2026-06-09T04:41:44+00:00",
+  "sequence": 1408
+}

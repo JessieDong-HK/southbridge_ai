@@ -1,0 +1,76 @@
+{
+  "id": "cn__page__first-generation-program-dfdda77171",
+  "url": "https://shanghai.nyu.edu/cn/page/first-generation-program",
+  "canonical_url": "https://shanghai.nyu.edu/cn/page/first-generation-program",
+  "page_type": "cn",
+  "title": "第一代大学生项目",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "第一代大学生项目\n“第一代大学生项目”致力于支持和帮助上海纽约大学的第一代大学生们，助力他们在高等教育中取得成功。我们会在学年内定期举办各种活动和工作坊，为第一代大学生赋能、支持学生的成长、共建第一代大学生校园互助网络。\n我们项目将上海纽约大学的第一代大学生定义为家里第一个上大学的学生，或家庭对上纽大这类中外合办学校缺乏了解的大学生。\n第一代大学生导师计划\n旨在通过将第一代大学生与渴望分享知识和丰富经验的教职员工相匹配，为大学生提供宝贵的支持和指导。助力于打破第一代大学生获取教育资源的屏障，提供社会和文化资本的支持，帮助大学生通过项目建立归属感。\n查看来自参加第一代大学生导师计划学生和导师的分享。\n活动亮点\n往期活动包括奖学金讲座、职业发展资源介绍、电影之夜等。\n第一代大学生项目委员会\n“第一代大学生项目”学生委员会负责整体项目和活动的规划和组织，构想、建立和支持“第一代大学生项目”的发展，助力于上海纽约大学第一代大学生在高等教育中取得成功。",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "第一代大学生项目"
+    },
+    {
+      "type": "p",
+      "text": "“第一代大学生项目”致力于支持和帮助上海纽约大学的第一代大学生们，助力他们在高等教育中取得成功。我们会在学年内定期举办各种活动和工作坊，为第一代大学生赋能、支持学生的成长、共建第一代大学生校园互助网络。"
+    },
+    {
+      "type": "p",
+      "text": "我们项目将上海纽约大学的第一代大学生定义为家里第一个上大学的学生，或家庭对上纽大这类中外合办学校缺乏了解的大学生。"
+    },
+    {
+      "type": "h3",
+      "text": "第一代大学生导师计划"
+    },
+    {
+      "type": "p",
+      "text": "旨在通过将第一代大学生与渴望分享知识和丰富经验的教职员工相匹配，为大学生提供宝贵的支持和指导。助力于打破第一代大学生获取教育资源的屏障，提供社会和文化资本的支持，帮助大学生通过项目建立归属感。"
+    },
+    {
+      "type": "p",
+      "text": "查看来自参加第一代大学生导师计划学生和导师的分享。"
+    },
+    {
+      "type": "h3",
+      "text": "活动亮点"
+    },
+    {
+      "type": "p",
+      "text": "往期活动包括奖学金讲座、职业发展资源介绍、电影之夜等。"
+    },
+    {
+      "type": "h3",
+      "text": "第一代大学生项目委员会"
+    },
+    {
+      "type": "p",
+      "text": "“第一代大学生项目”学生委员会负责整体项目和活动的规划和组织，构想、建立和支持“第一代大学生项目”的发展，助力于上海纽约大学第一代大学生在高等教育中取得成功。"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/1_1_1.jpg",
+      "alt": "First-Generation Program",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/sense-belonging-bridging-gap-first-generation-students",
+      "text": "分享",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 29,
+  "crawled_at": "2026-06-09T04:36:52+00:00",
+  "sequence": 963
+}

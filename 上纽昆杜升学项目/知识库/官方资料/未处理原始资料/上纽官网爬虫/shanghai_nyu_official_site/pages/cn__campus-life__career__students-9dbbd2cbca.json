@@ -1,0 +1,231 @@
+{
+  "id": "cn__campus-life__career__students-9dbbd2cbca",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/career/students",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/career/students",
+  "page_type": "cn",
+  "title": "学生",
+  "description": "上纽大职业发展中心（CCD）为学生提供有关职场专业领域的丰富信息，并帮助他们明确自身发展的职业发展路径。找工作或找实习的过程或许复杂繁琐，但可以尝试从以下四个阶段入手：",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "学生\n上纽大职业发展中心（CCD）为学生提供有关职场专业领域的丰富信息，并帮助他们明确自身发展的职业发展路径。找工作或找实习的过程或许复杂繁琐，但可以尝试从以下四个阶段入手：\n发现兴趣\n在开始找工作或找实习前，首先要找到你的职业兴趣所在，并设定初步的职业目标。这为后续搜索打下了基础。\n探索领域\n知识就是力量。充分利用我们的资源去探索你感兴趣的行业和工作领域。\n寻找机会\n我们不仅提供相关招聘网站链接和活动信息，还提供求职策略指导。\n职业发展项目与活动\n校友导师项目\n社会影响力项目奖学金\n职业探索工作坊\n“潜能无限”学生职业发展年会\n行业导师计划\n雇主活动\nCCD服务及资源\n职业发展咨询\nBORDER DO NOT TOUCH\n面试间预定\nBORDER DO NOT TOUCH\n资源及指南\nBORDER DO NOT TOUCH",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "学生"
+    },
+    {
+      "type": "p",
+      "text": "上纽大职业发展中心（CCD）为学生提供有关职场专业领域的丰富信息，并帮助他们明确自身发展的职业发展路径。找工作或找实习的过程或许复杂繁琐，但可以尝试从以下四个阶段入手："
+    },
+    {
+      "type": "h4",
+      "text": "发现兴趣"
+    },
+    {
+      "type": "p",
+      "text": "在开始找工作或找实习前，首先要找到你的职业兴趣所在，并设定初步的职业目标。这为后续搜索打下了基础。"
+    },
+    {
+      "type": "h4",
+      "text": "探索领域"
+    },
+    {
+      "type": "p",
+      "text": "知识就是力量。充分利用我们的资源去探索你感兴趣的行业和工作领域。"
+    },
+    {
+      "type": "h4",
+      "text": "寻找机会"
+    },
+    {
+      "type": "p",
+      "text": "我们不仅提供相关招聘网站链接和活动信息，还提供求职策略指导。"
+    },
+    {
+      "type": "h4",
+      "text": "职业发展项目与活动"
+    },
+    {
+      "type": "li",
+      "text": "校友导师项目"
+    },
+    {
+      "type": "li",
+      "text": "社会影响力项目奖学金"
+    },
+    {
+      "type": "li",
+      "text": "职业探索工作坊"
+    },
+    {
+      "type": "li",
+      "text": "“潜能无限”学生职业发展年会"
+    },
+    {
+      "type": "li",
+      "text": "行业导师计划"
+    },
+    {
+      "type": "li",
+      "text": "雇主活动"
+    },
+    {
+      "type": "h2",
+      "text": "CCD服务及资源"
+    },
+    {
+      "type": "h3",
+      "text": "职业发展咨询"
+    },
+    {
+      "type": "p",
+      "text": "BORDER DO NOT TOUCH"
+    },
+    {
+      "type": "h3",
+      "text": "面试间预定"
+    },
+    {
+      "type": "p",
+      "text": "BORDER DO NOT TOUCH"
+    },
+    {
+      "type": "h3",
+      "text": "资源及指南"
+    },
+    {
+      "type": "p",
+      "text": "BORDER DO NOT TOUCH"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/explore-careers.jpg",
+      "alt": "发现兴趣",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/explore-careers.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/research-career-options.jpg",
+      "alt": "探索领域",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/research-career-options.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/identify-opportunities.jpg",
+      "alt": "寻找机会",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/identify-opportunities.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-2-01-4.jpg",
+      "alt": "Career Exploration Tools",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-2-01-4.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/career-exploration",
+      "text": "发现兴趣",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/research-career-options",
+      "text": "探索领域",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/identify-opportunities",
+      "text": "寻找机会",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/career/students/career-programs-events",
+      "text": "职业发展项目与活动",
+      "internal": true
+    },
+    {
+      "url": "http://app.joinhandshake.com/login",
+      "text": "Handshake",
+      "internal": false
+    },
+    {
+      "url": "http://docs.google.com/document/d/1mgvhdxakjGGH_tdJXroT6SCFQi8qHvLo2dQO9OZe3TM/edit?usp=sharing",
+      "text": "了解更多",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/students/cdc-skill-guides",
+      "text": "了解更多",
+      "internal": true
+    },
+    {
+      "url": "https://app.joinhandshake.com/edu",
+      "text": "Handshake",
+      "internal": false
+    },
+    {
+      "url": "https://nyu.hiration.com/app",
+      "text": "Hiration",
+      "internal": false
+    },
+    {
+      "url": "https://nyu.biginterview.com/",
+      "text": "biginterview",
+      "internal": false
+    },
+    {
+      "url": "https://casecoach.com/",
+      "text": "CASECOACH",
+      "internal": false
+    },
+    {
+      "url": "https://www.graduatesfirst.com/shanghai.nyu",
+      "text": "GF Assessment",
+      "internal": false
+    },
+    {
+      "url": "https://student.interstride.com/login",
+      "text": "Interstride",
+      "internal": false
+    },
+    {
+      "url": "https://online.goinglobal.com/",
+      "text": "GoinGlobal",
+      "internal": false
+    },
+    {
+      "url": "https://nyu.firsthand.co/",
+      "text": "Vault",
+      "internal": false
+    },
+    {
+      "url": "https://violetnetwork.nyu.edu/login",
+      "text": "VIOLET NETWORK",
+      "internal": false
+    },
+    {
+      "url": "https://www.theforage.com/landing/New%20York%20University/LKHP44Szzsfi8KgnG/Experience%20without%20boundaries",
+      "text": "Forage",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 42,
+  "crawled_at": "2026-06-09T04:36:53+00:00",
+  "sequence": 969
+}

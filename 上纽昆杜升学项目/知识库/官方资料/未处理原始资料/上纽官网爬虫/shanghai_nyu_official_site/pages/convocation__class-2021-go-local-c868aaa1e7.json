@@ -1,0 +1,273 @@
+{
+  "id": "convocation__class-2021-go-local-c868aaa1e7",
+  "url": "https://shanghai.nyu.edu/convocation/class-2021-go-local",
+  "canonical_url": "https://shanghai.nyu.edu/convocation/class-2021-go-local",
+  "page_type": "convocation",
+  "title": "Class of 2021 Go Local Master’s Convocation",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Class of 2021 Go Local Master’s Convocation\nNYU Shanghai held a Go Local Master’s Convocation on Friday May 21, 2021 for 88 Go Local graduates from NYU Center for Data Science, Silver School of Social Work, School of Professional Studies, Steinhardt School of Culture, Education, and Human Development, Tandon School of Engineering, Tisch School of the Arts, and Wagner Graduate School of Public Service.\nWatch the 2021 Go Local Master's Convocation highlight video:\nWatch the entire ceremony here.\nWelcome Messages from NYU New York Deans and Directors\nArthur Spirling, Center for Data Science\nSusan Greenbaum, School of Professional Studies\nMartin Ihrig, School of Professional Studies\nQingwen Xu, Silver School of Social Work\nLisa Sasson, Steinhardt School of Culture, Education, and Human Development\nJelena Kovacevic, Tandon School of Engineering\nDan O’Sullivan, Tisch School of the Arts\nSherry Glied, Wagner Graduate School of Public Service\nTribute Video and More\nTribute Video",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Class of 2021 Go Local Master’s Convocation"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai held a Go Local Master’s Convocation on Friday May 21, 2021 for 88 Go Local graduates from NYU Center for Data Science, Silver School of Social Work, School of Professional Studies, Steinhardt School of Culture, Education, and Human Development, Tandon School of Engineering, Tisch School of the Arts, and Wagner Graduate School of Public Service."
+    },
+    {
+      "type": "p",
+      "text": "Watch the 2021 Go Local Master's Convocation highlight video:"
+    },
+    {
+      "type": "p",
+      "text": "Watch the entire ceremony here."
+    },
+    {
+      "type": "h3",
+      "text": "Welcome Messages from NYU New York Deans and Directors"
+    },
+    {
+      "type": "p",
+      "text": "Arthur Spirling, Center for Data Science"
+    },
+    {
+      "type": "p",
+      "text": "Susan Greenbaum, School of Professional Studies"
+    },
+    {
+      "type": "p",
+      "text": "Martin Ihrig, School of Professional Studies"
+    },
+    {
+      "type": "p",
+      "text": "Qingwen Xu, Silver School of Social Work"
+    },
+    {
+      "type": "p",
+      "text": "Lisa Sasson, Steinhardt School of Culture, Education, and Human Development"
+    },
+    {
+      "type": "p",
+      "text": "Jelena Kovacevic, Tandon School of Engineering"
+    },
+    {
+      "type": "p",
+      "text": "Dan O’Sullivan, Tisch School of the Arts"
+    },
+    {
+      "type": "p",
+      "text": "Sherry Glied, Wagner Graduate School of Public Service"
+    },
+    {
+      "type": "p",
+      "text": "Tribute Video and More"
+    },
+    {
+      "type": "p",
+      "text": "Tribute Video"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/1_4.jpg?itok=wkQSGF2w",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/1_4.jpg?itok=wkQSGF2w (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl."
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/2_6.jpg?itok=cdTezc1j",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2_6-ce91ffe6dc5d.jpg",
+      "download_status": "downloaded",
+      "bytes": 84283,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/3_5.jpg?itok=Ucf-sCJZ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/3_5.jpg?itok=Ucf-sCJZ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl."
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/4_5.jpg?itok=u9rPmZC8",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/4_5.jpg?itok=u9rPmZC8 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl."
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/5_2.jpg?itok=2ZfbyLeh",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/6_2.jpg?itok=7BHnWyTa",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/6_2.jpg?itok=7BHnWyTa (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl."
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/7_1.jpg?itok=mcJthXtJ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/7_1.jpg?itok=mcJthXtJ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl."
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/8_3.jpg?itok=i11fY4l9",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/8_3.jpg?itok=i11fY4l9 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl."
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/9_1.jpg?itok=fHNEYNw-",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/10_4.jpg?itok=ni8VhmYp",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/10_4.jpg?itok=ni8VhmYp (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/11_3.jpg?itok=gVidgNW9",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/11_3.jpg?itok=gVidgNW9 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/12_2.jpg?itok=o61IMK-O",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/13_3.jpg?itok=UfuWB2Pr",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/13_3.jpg?itok=UfuWB2Pr (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/14_0.jpg?itok=EngGgRGL",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/14_0.jpg?itok=EngGgRGL (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_picture/public/field/album_picture/15_2.jpg?itok=89S1pBA9",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_picture/public/field/album_picture/15_2.jpg?itok=89S1pBA9 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/20210521_nyush_golocal_bi_ye_dian_li_zheng_pian_master_zi_mu_ban_600m.mp4",
+      "text": "here",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/go-local-convocation-program.pdf",
+      "text": "2021 Go Local Master's Convocation Program",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/director-arthur-spirling-center-for-data-science.mp4",
+      "text": "Arthur Spirling, Center for Data Science",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/dean-susan-greenbaum-school-of-professional-studies_0.mp4",
+      "text": "Susan Greenbaum",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/associate-dean-martin-ihrig-school-of-professional-studies.mp4",
+      "text": "Martin Ihrig",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/director-qingwen-xu-silver-school-of-social-work.mp4",
+      "text": "Qingwen Xu, Silver School of Social Work",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/associate-dean-lisa-sasson-steinhardt-school-of-culture-education-and-human-development.mp4",
+      "text": "Lisa Sasson, Steinhardt School of Culture, Education, and Human Development",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/dean-jelena-kovacevic-tandon-school-of-engineering.mp4",
+      "text": "Jelena Kovacevic, Tandon School of Engineering",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/associate-dean-dan-osullivan-_tisch-school-of-the-arts.mp4",
+      "text": "Dan O’Sullivan, Tisch School of the Arts",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/dean-sherry-glied-wagner-graduate-school-of-public-service.mp4",
+      "text": "Sherry Glied, Wagner Graduate School of Public Service",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/2021-nyush-golocal-tribute-video.mp4",
+      "text": "Tribute Video",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 153,
+  "crawled_at": "2026-06-09T04:42:43+00:00",
+  "sequence": 1491
+}

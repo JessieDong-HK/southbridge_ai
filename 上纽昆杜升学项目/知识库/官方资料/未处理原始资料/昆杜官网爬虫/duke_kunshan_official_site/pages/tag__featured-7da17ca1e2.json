@@ -1,0 +1,36 @@
+{
+  "id": "tag__featured-7da17ca1e2",
+  "url": "https://www.dukekunshan.edu.cn/tag/featured",
+  "canonical_url": "https://www.dukekunshan.edu.cn/tag/featured/",
+  "page_type": "tag",
+  "title": "featured Archives",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": "2022-03-01T08:36:15+00:00",
+  "text": "Tag: featured",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Tag: featured"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-03T13:56:11+00:00",
+  "sequence": 678
+}

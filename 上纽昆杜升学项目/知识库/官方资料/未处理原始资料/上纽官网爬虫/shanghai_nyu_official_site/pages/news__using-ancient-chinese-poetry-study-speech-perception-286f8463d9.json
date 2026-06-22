@@ -1,0 +1,215 @@
+{
+  "id": "news__using-ancient-chinese-poetry-study-speech-perception-286f8463d9",
+  "url": "https://shanghai.nyu.edu/news/using-ancient-chinese-poetry-study-speech-perception",
+  "canonical_url": "https://shanghai.nyu.edu/news/using-ancient-chinese-poetry-study-speech-perception",
+  "page_type": "news",
+  "title": "Using Ancient Chinese Poetry to Study Speech Perception",
+  "description": "Prof. Tian Xing and his team used AI-generated poems to understand the neural mechanisms behind speech perception.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Using Ancient Chinese Poetry to Study Speech Perception\nTwitter\nFacebook\nWeibo\nThough more than a thousand years old, unique in its written form and sentence structure, and used every day by more than a billion people, the Chinese language has rarely been used to understand the cognitive and neural mechanisms in speech perception. Recently, NYU Shanghai Assistant Professor of Neural and Cognitive Sciences Tian Xing sought to remedy this gap, by studying how the human brain reacts to and processes ancient Chinese poetry.Classical Chinese poetry famously adheres to rigid structures regarding rhythm, rhyme, and format. Tian and collaborators from Max Planck Institute for Empirical Aesthetics, Google, and East China Normal University decided to make use of the unique structure of ancient Chinese poems to uncover how the structure of the content impacts people’s perception of speech. The findings were published in the leading science journal, Current Biology.\nChinese ink painting of the cerebral cortex, overlaid with the illustration and calligraphy of Classical Chinese Jueju‘Jiang Xue’ (River and Snow). Calligraphy by Gong Chi; Painting by Li Fuan; Image edited by Sun Jiaqiu.\n“Previous research has already studied how people perceive speech based on various cues, such as meaning, syntax, and so on. We are among the first to focus on the effect of the content structure on speech perception,” said Tian. “In addition, the use of poems to conduct scientific experimentation is also rare in neuroscience research.” Tian believes that findings from this research would help uncover new ways of thinking about neuroscience, education, the arts, and culture.\nThe researchers decided to use Jueju, or Chinese quatrains made up of five or seven characters in each line, with an alternating rhyme scheme in the second and fourth lines. They are one of the most representative examples of Classical Chinese poetry, and form a major part of the Chinese public school language curriculum, so the researchers were sure they could find plenty of participants who would be familiar with the structure of Jueju.\nExample of Jueju.\nWhen selecting the poems to show participants, the researchers faced a challenge. They did not want to show participants any Jueju that they were familiar with, because that familiarity might affect how their brains processed the verses. Researchers found a novel way to avoid “contaminating” the pool of content they used by reaching out to Ma Min, an expert from Google, who specializes in natural language processing and is well-versed in ancient Chinese poetry.\nMa built an artificial intelligence program that “learned” how to generate brand new Jueju by analyzing the structure of thousands of existing Classical Chinese poems. These AI-generated poems formed the bulk of their test material, to which they also added 30 obscure Jueju. The poems were read out loud to participants using artificial speech synthesis to remove any emotion, pauses, or rhythm. In other words, a quatrain with five characters in each line would be read as one continuous stream of 20 characters. As a result, participants had to rely on their existing familiarity with the structure of Jueju to process what they were hearing.\nAn artificially generated Jueju written in Classical Chinese style.\nThe study involved 13 native speakers of Mandarin Chinese who were formally educated in China, this meant that every participant would have a grounding in the structure of Jueju. Each participant listened to 180 poems (150 artificial and 30 real), and each poem was played twice. While listening, their brains were monitored by a magnetoencephalography scanner, which mapped their brain activity by recording the magnetic fields produced by electrical currents occurring naturally in the brain.\nMagnetoencephalography scanner (image source: the United States Department of Health and Human Services).\nTian and his team told participants that they would be hearing a Jueju read out loud, and played the recording for them. Afterwards, they discovered a brain rhythm (shown as a blue wave in the image below) that oscillated with the speed of each line of the poems. This indicated to the researchers that as long as the participants knew they were hearing a Jueju, their brains would automatically “parse” content, breaking it into four lines with five characters in each line.\nResearchers discovered an additional brain rhythm (shown as a green wave in the image below) that oscillated with the speed of the first three lines. Tians’ team hypothesized that this rhythm might have something to do with another structural element of Jueju wherein the four lines of a quatrain acts as a Qi (initialization), Cheng (elaboration), Zhuan (continuum/twist), and He (integration), respectively. As the fourth line acts as a conclusion to the previous three lines, the researchers thought it was very likely that the dip in the brain rhythm could be the listener making a separation of the final line from the preceding three. Later, the research team used a computational model to create a simulation based on their hypothesis, and the results indicated that their hypothesis was likely to hold.\nBrain rhythms superimposed on top of sound waves. Researchers discovered three types of brain rhythms: The red line corresponds to each word of the poem, the blue line corresponds to each line, and researchers believe that the green line corresponds to participants’ learned expectations of the overarching structure of Jueju.\nAdditionally, the team found that when participants listened to a poem for the second time, their brain rhythm would advance faster than the first time due to their familiarity with the material. This phenomenon was first discovered in the field of neuroscience dedicated to spatial navigation, wherein experiments involving mice running through mazes found that the mice’s brain rhythm advanced faster in subsequent tries. Tian‘s study is the first time researchers have observed this phenomenon of faster advancement of brain rhythms as related to processing sequential signals in speech perception.\nBrain rhythms advanced faster when participants listened to the poem for the second time (pink line) compared to the first time (blue line).\nThis study not only provides new insights for neuroscience research, it also has application in education and art. Currently, language education mainly involves vocabulary, listening, reading, and grammar practice, but the results of this study indicate that the study of structure may aid language acquisition.\nTian says that scientists studying the neural mechanisms of art appreciation can also glean new ideas from the study. “Eric R. Kandel, one of the founding fathers of neuroscience once speculated that ‘art happens when predictable structure encounters unforeseen content,’ and it just so happens that our findings fit with his assumption,” said Tian. “Because we have discovered that people rely on basic structures when interpreting the poetry of the ancients. Perhaps artists will find these ideas useful in their practice.”\n“We can make an even bolder hypothesis and ask the question: Is there a neurological basis for cultural differences? Chinese people have been creating and appreciating Jueju for thousands of years, being immersed in this specific cultural form,” says Tian. “Could it be that our brains are more suited to processing information with specific formats and structures? This is a cultural question worth exploring more deeply.”\nIn order to continue exploring in this vein, Tian plans to include other art forms in his future research. “We can use the same paradigm and apply it in an interdisciplinary way to behavioral science, brain science, education, art, and culture,” says Tian. “By including different fields of study and encompassing diverse perspectives, we can open more doors for the study of speech perception and cognitive neuroscience.”\nTian is the primary corresponding author of this paper. Teng Xiangbin and Stefan Blohm from Max Planck Institute for Empirical Aesthetics, Ma Min from Google, Professor Cai Qing from East China Normal University, and Yang Jinbiao, the research assistant at NYU Shanghai during the research have contributed to the research.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Using Ancient Chinese Poetry to Study Speech Perception"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Though more than a thousand years old, unique in its written form and sentence structure, and used every day by more than a billion people, the Chinese language has rarely been used to understand the cognitive and neural mechanisms in speech perception. Recently, NYU Shanghai Assistant Professor of Neural and Cognitive Sciences Tian Xing sought to remedy this gap, by studying how the human brain reacts to and processes ancient Chinese poetry.Classical Chinese poetry famously adheres to rigid structures regarding rhythm, rhyme, and format. Tian and collaborators from Max Planck Institute for Empirical Aesthetics, Google, and East China Normal University decided to make use of the unique structure of ancient Chinese poems to uncover how the structure of the content impacts people’s perception of speech. The findings were published in the leading science journal, Current Biology."
+    },
+    {
+      "type": "p",
+      "text": "Chinese ink painting of the cerebral cortex, overlaid with the illustration and calligraphy of Classical Chinese Jueju‘Jiang Xue’ (River and Snow). Calligraphy by Gong Chi; Painting by Li Fuan; Image edited by Sun Jiaqiu."
+    },
+    {
+      "type": "p",
+      "text": "“Previous research has already studied how people perceive speech based on various cues, such as meaning, syntax, and so on. We are among the first to focus on the effect of the content structure on speech perception,” said Tian. “In addition, the use of poems to conduct scientific experimentation is also rare in neuroscience research.” Tian believes that findings from this research would help uncover new ways of thinking about neuroscience, education, the arts, and culture."
+    },
+    {
+      "type": "p",
+      "text": "The researchers decided to use Jueju, or Chinese quatrains made up of five or seven characters in each line, with an alternating rhyme scheme in the second and fourth lines. They are one of the most representative examples of Classical Chinese poetry, and form a major part of the Chinese public school language curriculum, so the researchers were sure they could find plenty of participants who would be familiar with the structure of Jueju."
+    },
+    {
+      "type": "p",
+      "text": "Example of Jueju."
+    },
+    {
+      "type": "p",
+      "text": "When selecting the poems to show participants, the researchers faced a challenge. They did not want to show participants any Jueju that they were familiar with, because that familiarity might affect how their brains processed the verses. Researchers found a novel way to avoid “contaminating” the pool of content they used by reaching out to Ma Min, an expert from Google, who specializes in natural language processing and is well-versed in ancient Chinese poetry."
+    },
+    {
+      "type": "p",
+      "text": "Ma built an artificial intelligence program that “learned” how to generate brand new Jueju by analyzing the structure of thousands of existing Classical Chinese poems. These AI-generated poems formed the bulk of their test material, to which they also added 30 obscure Jueju. The poems were read out loud to participants using artificial speech synthesis to remove any emotion, pauses, or rhythm. In other words, a quatrain with five characters in each line would be read as one continuous stream of 20 characters. As a result, participants had to rely on their existing familiarity with the structure of Jueju to process what they were hearing."
+    },
+    {
+      "type": "p",
+      "text": "An artificially generated Jueju written in Classical Chinese style."
+    },
+    {
+      "type": "p",
+      "text": "The study involved 13 native speakers of Mandarin Chinese who were formally educated in China, this meant that every participant would have a grounding in the structure of Jueju. Each participant listened to 180 poems (150 artificial and 30 real), and each poem was played twice. While listening, their brains were monitored by a magnetoencephalography scanner, which mapped their brain activity by recording the magnetic fields produced by electrical currents occurring naturally in the brain."
+    },
+    {
+      "type": "p",
+      "text": "Magnetoencephalography scanner (image source: the United States Department of Health and Human Services)."
+    },
+    {
+      "type": "p",
+      "text": "Tian and his team told participants that they would be hearing a Jueju read out loud, and played the recording for them. Afterwards, they discovered a brain rhythm (shown as a blue wave in the image below) that oscillated with the speed of each line of the poems. This indicated to the researchers that as long as the participants knew they were hearing a Jueju, their brains would automatically “parse” content, breaking it into four lines with five characters in each line."
+    },
+    {
+      "type": "p",
+      "text": "Researchers discovered an additional brain rhythm (shown as a green wave in the image below) that oscillated with the speed of the first three lines. Tians’ team hypothesized that this rhythm might have something to do with another structural element of Jueju wherein the four lines of a quatrain acts as a Qi (initialization), Cheng (elaboration), Zhuan (continuum/twist), and He (integration), respectively. As the fourth line acts as a conclusion to the previous three lines, the researchers thought it was very likely that the dip in the brain rhythm could be the listener making a separation of the final line from the preceding three. Later, the research team used a computational model to create a simulation based on their hypothesis, and the results indicated that their hypothesis was likely to hold."
+    },
+    {
+      "type": "p",
+      "text": "Brain rhythms superimposed on top of sound waves. Researchers discovered three types of brain rhythms: The red line corresponds to each word of the poem, the blue line corresponds to each line, and researchers believe that the green line corresponds to participants’ learned expectations of the overarching structure of Jueju."
+    },
+    {
+      "type": "p",
+      "text": "Additionally, the team found that when participants listened to a poem for the second time, their brain rhythm would advance faster than the first time due to their familiarity with the material. This phenomenon was first discovered in the field of neuroscience dedicated to spatial navigation, wherein experiments involving mice running through mazes found that the mice’s brain rhythm advanced faster in subsequent tries. Tian‘s study is the first time researchers have observed this phenomenon of faster advancement of brain rhythms as related to processing sequential signals in speech perception."
+    },
+    {
+      "type": "p",
+      "text": "Brain rhythms advanced faster when participants listened to the poem for the second time (pink line) compared to the first time (blue line)."
+    },
+    {
+      "type": "p",
+      "text": "This study not only provides new insights for neuroscience research, it also has application in education and art. Currently, language education mainly involves vocabulary, listening, reading, and grammar practice, but the results of this study indicate that the study of structure may aid language acquisition."
+    },
+    {
+      "type": "p",
+      "text": "Tian says that scientists studying the neural mechanisms of art appreciation can also glean new ideas from the study. “Eric R. Kandel, one of the founding fathers of neuroscience once speculated that ‘art happens when predictable structure encounters unforeseen content,’ and it just so happens that our findings fit with his assumption,” said Tian. “Because we have discovered that people rely on basic structures when interpreting the poetry of the ancients. Perhaps artists will find these ideas useful in their practice.”"
+    },
+    {
+      "type": "p",
+      "text": "“We can make an even bolder hypothesis and ask the question: Is there a neurological basis for cultural differences? Chinese people have been creating and appreciating Jueju for thousands of years, being immersed in this specific cultural form,” says Tian. “Could it be that our brains are more suited to processing information with specific formats and structures? This is a cultural question worth exploring more deeply.”"
+    },
+    {
+      "type": "p",
+      "text": "In order to continue exploring in this vein, Tian plans to include other art forms in his future research. “We can use the same paradigm and apply it in an interdisciplinary way to behavioral science, brain science, education, art, and culture,” says Tian. “By including different fields of study and encompassing diverse perspectives, we can open more doors for the study of speech perception and cognitive neuroscience.”"
+    },
+    {
+      "type": "p",
+      "text": "Tian is the primary corresponding author of this paper. Teng Xiangbin and Stefan Blohm from Max Planck Institute for Empirical Aesthetics, Ma Min from Google, Professor Cai Qing from East China Normal University, and Yang Jinbiao, the research assistant at NYU Shanghai during the research have contributed to the research."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/v_lihjpmgwddq_xkqkckqpudse82yq-pj0webodlqjewc2rwran0qxng0m4yw7qzc3lfc6wztdp-_s2dygc97p_dknncj16cu488ocn8dg0queccfszyuytgsfsbm1dtkdx3xh3x.jpg?itok=oz9RBw3C",
+      "alt": "Tian Xing chinese peotry structure cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/v_lihjpmgwddq_xkqkckqpudse82yq-pj0webodlqjewc2rwran0-964186dd8ec4.jpg",
+      "download_status": "downloaded",
+      "bytes": 54762,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/current_biology.jpg",
+      "alt": "Tian Xing chinese peotry structure 1",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/current_biology-3f3d9ee11716.jpg",
+      "download_status": "downloaded",
+      "bytes": 128518,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/ez6fastnvxa0faiirrub9aiym7znvklx3o6pdi6ttkvej5ytzmvia_qnm2_bxsqy0cu5gtyi2mmwsxgjkspup2_7trp7yitnivhpevdskuedlxzh4iwn-iej30_rjcmhc-bqkymp.png",
+      "alt": "Tian Xing chinese peotry structure 2",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/_incuki2yycx4iezugu9-neew1e3dwhhxe-a6feged2qxtfcxdo8d5s0q8kwksamjwsr1mbvg0l-ig6oltfxr_7tmcvzc1hk1-h7uf9fljknuzvo_yumdgplk4z9qdvxvyatoqo_.jpg",
+      "alt": "Tian Xing chinese peotry structure 3",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/incuki2yycx4iezugu9-neew1e3dwhhxe-a6feged2qxtfcxdo8d-db563d638c0f.jpg",
+      "download_status": "downloaded",
+      "bytes": 37286,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/t-ijxobiwpetrntqmf7hfb2rgsgqja2qlw3tkabjnfagfd3yxlpvxhkicpxdclw20jo-g61zxafo0ku1x3mc7yldmxai5ppodhiw-cnbklf_esw1bipl3-msg3w32vjid9khqcm4.jpg",
+      "alt": "Tian Xing chinese peotry structure 4",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/igsbb3gvhrc3a8nnhibssz19hbrvnkvmxadlcmit7k2oskycmhvigxj6ycqkriepyspsspsvkhrbtdwzjejhytjnkk-ahkvsbyemxpstfc65ye3xefo6zah_ogjnep88hdkxrm0d.jpg",
+      "alt": "Tian Xing chinese peotry structure 5",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/8zt7ugpe3kmucl9qvksq6b0cow5lic50zctzmitnnl6w413j7ys9p3quv1gfp2xt3dcetmobnkyo0yrz8ivd13blkgvjcfbjf3z9nxehgaw_lrp554jikqdyvwwnyspxmqm_136e.jpg",
+      "alt": "Tian Xing chinese peotry structure 6",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/8zt7ugpe3kmucl9qvksq6b0cow5lic50zctzmitnnl6w413j7ys9-1071518ac099.jpg",
+      "download_status": "downloaded",
+      "bytes": 34938,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Using%20Ancient%20Chinese%20Poetry%20to%20Study%20Speech%20Perception&url=https%3A//shanghai.nyu.edu/news/using-ancient-chinese-poetry-study-speech-perception&status=Using%20Ancient%20Chinese%20Poetry%20to%20Study%20Speech%20Perception%20https%3A//shanghai.nyu.edu/news/using-ancient-chinese-poetry-study-speech-perception",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/using-ancient-chinese-poetry-study-speech-perception&title=Using%20Ancient%20Chinese%20Poetry%20to%20Study%20Speech%20Perception",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/using-ancient-chinese-poetry-study-speech-perception&title=Using%20Ancient%20Chinese%20Poetry%20to%20Study%20Speech%20Perception",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/xing-tian",
+      "text": "Tian Xing",
+      "internal": true
+    },
+    {
+      "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(20)30103-2",
+      "text": "The findings",
+      "internal": false
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:NIMH_MEG.jpg",
+      "text": "the United States Department of Health and Human Services",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 1303,
+  "crawled_at": "2026-06-09T04:40:56+00:00",
+  "sequence": 1343
+}

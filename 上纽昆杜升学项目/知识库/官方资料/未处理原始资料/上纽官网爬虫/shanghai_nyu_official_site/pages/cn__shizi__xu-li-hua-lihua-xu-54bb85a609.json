@@ -1,0 +1,86 @@
+{
+  "id": "cn__shizi__xu-li-hua-lihua-xu-54bb85a609",
+  "url": "https://shanghai.nyu.edu/cn/shizi/xu-li-hua-lihua-xu",
+  "canonical_url": "https://shanghai.nyu.edu/cn/shizi/xu-li-hua-lihua-xu",
+  "page_type": "cn",
+  "title": "徐立华 (Lihua",
+  "description": "徐立华现任上海纽约大学计算机科学实践教授。徐教授在加州大学尔湾分校获得计算机科学博士学位。徐教授的研究领域为软件工程和移动安全，着重研究通过程序分析提升软件质量。她的科研成果在国际软件工程大会（ICSE）、软件工程基金会论坛（FSE）、自动化软件工程大会（ASE）、计算机与通讯安全大会（CCS）、移动计算与网络大会（MobiCom）等顶尖学术平台上发表。徐教授近期在软件分析上的研究获得了2018 年美国计算机协会软件工程专业组织（ACM SIGSOFT）年度最佳论文奖。她是2006 年Grace Hopper计算机行业女性学术会议 “最佳新研究学者”奖得主。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "徐立华 (Lihua Xu)\n徐立华现任上海纽约大学计算机科学实践教授。徐教授在加州大学尔湾分校获得计算机科学博士学位。徐教授的研究领域为软件工程和移动安全，着重研究通过程序分析提升软件质量。她的科研成果在国际软件工程大会（ICSE）、软件工程基金会论坛（FSE）、自动化软件工程大会（ASE）、计算机与通讯安全大会（CCS）、移动计算与网络大会（MobiCom）等顶尖学术平台上发表。徐教授近期在软件分析上的研究获得了2018 年美国计算机协会软件工程专业组织（ACM SIGSOFT）年度最佳论文奖。她是2006 年Grace Hopper计算机行业女性学术会议 “最佳新研究学者”奖得主。\n代表性论著\nQingshun Wang, Lintao Gu, Minhui Xue, Lihua Xu, Wenyu Niu, Liang Dou, Liang He and Tao Xie, FACTS: Automated Black-box Testing of FinTech Systems, In Proc. ESEC/FSE, Industrial Track, 2018\nSen Chen, Ting Su, Lingling Fan, Guozhu Meng, Minhui Xue, Yang Liu, Lihua Xu, Are Mobile Banking Apps Secure? What Can be Improved?, In Proc. ESEC/FSE, Industrial Track, 2018\nLingling Fan, Ting Su, Sen Chen, Guozhu Meng, Yang Liu, Lihua Xu and Geguang Pu, Efficiently Manifesting Asynchronous Programming Errors in Android Apps, In Proc. ASE'18, Montpellier, France, 2018\nYujie Yuan, Lihua Xu, Xusheng Xiao, Andy Podgurski, and Huibiao Zhu, RunDroid: Recovering Execution Call Graphs for Android Applications. In Proc. ESEC/FSE, Demo Track, 2017\nWenqi Bu, Minhui Xue, Lihua Xu, Yajin Zhou, Zhushou Tang, and Tao Xie. When Program Analysis Meets Mobile Security: An Industrial Study of Misusing Android Internet Sockets. In Proc. ESEC/FSE, Industrial Track, 2017\n教育背景\n加州大学尔湾分校 信息与计算机科学博士\n加州大学尔湾分校 信息与计算机科学硕士\nDatabases\nIntroduction to Computer Programming\nSoftware Engineering",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "徐立华 (Lihua Xu)"
+    },
+    {
+      "type": "p",
+      "text": "徐立华现任上海纽约大学计算机科学实践教授。徐教授在加州大学尔湾分校获得计算机科学博士学位。徐教授的研究领域为软件工程和移动安全，着重研究通过程序分析提升软件质量。她的科研成果在国际软件工程大会（ICSE）、软件工程基金会论坛（FSE）、自动化软件工程大会（ASE）、计算机与通讯安全大会（CCS）、移动计算与网络大会（MobiCom）等顶尖学术平台上发表。徐教授近期在软件分析上的研究获得了2018 年美国计算机协会软件工程专业组织（ACM SIGSOFT）年度最佳论文奖。她是2006 年Grace Hopper计算机行业女性学术会议 “最佳新研究学者”奖得主。"
+    },
+    {
+      "type": "h3",
+      "text": "代表性论著"
+    },
+    {
+      "type": "li",
+      "text": "Qingshun Wang, Lintao Gu, Minhui Xue, Lihua Xu, Wenyu Niu, Liang Dou, Liang He and Tao Xie, FACTS: Automated Black-box Testing of FinTech Systems, In Proc. ESEC/FSE, Industrial Track, 2018"
+    },
+    {
+      "type": "li",
+      "text": "Sen Chen, Ting Su, Lingling Fan, Guozhu Meng, Minhui Xue, Yang Liu, Lihua Xu, Are Mobile Banking Apps Secure? What Can be Improved?, In Proc. ESEC/FSE, Industrial Track, 2018"
+    },
+    {
+      "type": "li",
+      "text": "Lingling Fan, Ting Su, Sen Chen, Guozhu Meng, Yang Liu, Lihua Xu and Geguang Pu, Efficiently Manifesting Asynchronous Programming Errors in Android Apps, In Proc. ASE'18, Montpellier, France, 2018"
+    },
+    {
+      "type": "li",
+      "text": "Yujie Yuan, Lihua Xu, Xusheng Xiao, Andy Podgurski, and Huibiao Zhu, RunDroid: Recovering Execution Call Graphs for Android Applications. In Proc. ESEC/FSE, Demo Track, 2017"
+    },
+    {
+      "type": "li",
+      "text": "Wenqi Bu, Minhui Xue, Lihua Xu, Yajin Zhou, Zhushou Tang, and Tao Xie. When Program Analysis Meets Mobile Security: An Industrial Study of Misusing Android Internet Sockets. In Proc. ESEC/FSE, Industrial Track, 2017"
+    },
+    {
+      "type": "h3",
+      "text": "教育背景"
+    },
+    {
+      "type": "li",
+      "text": "加州大学尔湾分校 信息与计算机科学博士"
+    },
+    {
+      "type": "li",
+      "text": "加州大学尔湾分校 信息与计算机科学硕士"
+    },
+    {
+      "type": "li",
+      "text": "Databases"
+    },
+    {
+      "type": "li",
+      "text": "Introduction to Computer Programming"
+    },
+    {
+      "type": "li",
+      "text": "Software Engineering"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/image1.jpeg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 193,
+  "crawled_at": "2026-06-09T04:38:02+00:00",
+  "sequence": 1099
+}

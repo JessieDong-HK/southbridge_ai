@@ -1,0 +1,72 @@
+{
+  "id": "page__work-here-53ae207435",
+  "url": "https://shanghai.nyu.edu/page/work-here",
+  "canonical_url": "https://shanghai.nyu.edu/page/work-here",
+  "page_type": "page",
+  "title": "Work Here",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Work Here\nNYU Shanghai is a highly selective world-class research university and the first American university with independent legal registration in mainland China.\nBy accepting a position at NYU Shanghai, you will join a diverse multicultural NYU community that includes more than 12,000 faculty, administrators, and staff from all over the world and over 50,000 students from more than 140 countries. NYU Shanghai’s talented and dedicated employees are part of a dynamic and stimulating intellectual community working on both sides of the globe to advance the University’s position as one of the finest global research institutions in the world.\nBoth the Shanghai and New York City offices are comprised of accomplished leaders in their respective fields, many of whom are not only multicultural but also multilingual. These leaders work in a collaborative and results-driven environment that will challenge you to accomplish more as you help build the world’s first Sino-US university.\nExplore:",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Work Here"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai is a highly selective world-class research university and the first American university with independent legal registration in mainland China."
+    },
+    {
+      "type": "p",
+      "text": "By accepting a position at NYU Shanghai, you will join a diverse multicultural NYU community that includes more than 12,000 faculty, administrators, and staff from all over the world and over 50,000 students from more than 140 countries. NYU Shanghai’s talented and dedicated employees are part of a dynamic and stimulating intellectual community working on both sides of the globe to advance the University’s position as one of the finest global research institutions in the world."
+    },
+    {
+      "type": "p",
+      "text": "Both the Shanghai and New York City offices are comprised of accomplished leaders in their respective fields, many of whom are not only multicultural but also multilingual. These leaders work in a collaborative and results-driven environment that will challenge you to accomplish more as you help build the world’s first Sino-US university."
+    },
+    {
+      "type": "h3",
+      "text": "Explore:"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/13-work-here.png",
+      "alt": "View out into the courtyard from inside the academic building",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/13-work-here-1a09890bd18d.png",
+      "download_status": "downloaded",
+      "bytes": 1858738,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/page/open-positions",
+      "text": "Faculty",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/staff/join-us",
+      "text": "Staff",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/about/work/fellowships",
+      "text": "Fellowships",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/about/work/research",
+      "text": "Research/Teaching Associates",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 160,
+  "crawled_at": "2026-06-09T04:29:19+00:00",
+  "sequence": 206
+}

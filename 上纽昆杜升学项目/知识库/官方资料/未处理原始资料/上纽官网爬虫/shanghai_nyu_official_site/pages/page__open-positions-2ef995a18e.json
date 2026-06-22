@@ -1,0 +1,66 @@
+{
+  "id": "page__open-positions-2ef995a18e",
+  "url": "https://shanghai.nyu.edu/page/open-positions",
+  "canonical_url": "https://shanghai.nyu.edu/page/open-positions",
+  "page_type": "page",
+  "title": "Open Positions",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Open Positions\nNYU Shanghai aims to attract outstanding candidates who are professional, experienced (or with great potential), highly motivated, interested in higher education, and who thrive on the unique challenges of a multicultural environment.\nJulia HurAssociate Professor of Management and Organizations, NYU Shanghai; Global Network Associate Professor, NYUNYU Shanghai provides both research-oriented and teaching-oriented faculty members wonderful opportunities. Regarding research, the institution provides a number of great opportunities and perks to support your research initiatives and make sure you can maintain productivity. Regarding teaching, you will experience one of the most brilliant groups of students who are motivated, eager to learn, and equipped with diverse and creative ideas.\nJulia Hur\nAssociate Professor of Management and Organizations, NYU Shanghai; Global Network Associate Professor, NYU",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Open Positions"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai aims to attract outstanding candidates who are professional, experienced (or with great potential), highly motivated, interested in higher education, and who thrive on the unique challenges of a multicultural environment."
+    },
+    {
+      "type": "blockquote",
+      "text": "Julia HurAssociate Professor of Management and Organizations, NYU Shanghai; Global Network Associate Professor, NYUNYU Shanghai provides both research-oriented and teaching-oriented faculty members wonderful opportunities. Regarding research, the institution provides a number of great opportunities and perks to support your research initiatives and make sure you can maintain productivity. Regarding teaching, you will experience one of the most brilliant groups of students who are motivated, eager to learn, and equipped with diverse and creative ideas."
+    },
+    {
+      "type": "p",
+      "text": "Julia Hur"
+    },
+    {
+      "type": "p",
+      "text": "Associate Professor of Management and Organizations, NYU Shanghai; Global Network Associate Professor, NYU"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/page/open-positions?order=title&sort=asc",
+      "text": "Position",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/page/open-positions?order=field_open&sort=asc",
+      "text": "Status",
+      "internal": true
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/open_position/NYU%20Shanghai%20T.TT%20CSDSE%20Ad_0.pdf",
+      "text": "NYU Shanghai T.TT CSDSE Ad_0.pdf",
+      "internal": false
+    },
+    {
+      "url": "https://apply.interfolio.com/176211",
+      "text": "Apply",
+      "internal": false
+    },
+    {
+      "url": "https://apply.interfolio.com/174821",
+      "text": "Apply",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 125,
+  "crawled_at": "2026-06-09T04:28:39+00:00",
+  "sequence": 108
+}

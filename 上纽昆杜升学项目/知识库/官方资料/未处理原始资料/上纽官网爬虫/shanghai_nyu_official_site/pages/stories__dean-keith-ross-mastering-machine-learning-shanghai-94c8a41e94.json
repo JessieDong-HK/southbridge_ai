@@ -1,0 +1,228 @@
+{
+  "id": "stories__dean-keith-ross-mastering-machine-learning-shanghai-94c8a41e94",
+  "url": "https://shanghai.nyu.edu/stories/dean-keith-ross-mastering-machine-learning-shanghai",
+  "canonical_url": "https://shanghai.nyu.edu/stories/dean-keith-ross-mastering-machine-learning-shanghai",
+  "page_type": "stories",
+  "title": "Dean Keith Ross: Mastering Machine Learning in Shanghai",
+  "description": "NYU Shanghai's Dean of Computer Science, Data Science, and Engineering Keith Ross has been a member of the NYU Shanghai faculty since our first class of students arrived in August 2013.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Dean Keith Ross: Mastering Machine Learning in Shanghai\nTwitter\nFacebook\nWeibo\nNYU Shanghai's Dean of Computer Science, Data Science, and Engineering Keith Ross has been a member of the NYU Shanghai faculty since our first class of students arrived in August 2013. In moving to China, Ross, who had already spent five years leading NYU's Department of Computer Science and Engineering after teaching for 13 years at the University of Pennsylvania, says he was attracted by the personal and professional challenges of helping to build a new university from scratch.\nToday, NYU Shanghai's computer science and engineering faculty are among the world's best, and five classes of graduates have gone on to top PhD and master's programs, as well as leading companies in the tech industry.\nOver the years, Ross has fallen in love with the city of Shanghai. When he's not working with students or conducting research on campus, Ross can be found studying Chinese and preparing for the HSK Level 5 exam (a level that requires a vocabulary of 2,500 words), reading in Jing'An Park, and exploring Shanghai's culinary scene.\nTake us back 10 years or so. Why did you decide to leave New York to join NYU Shanghai when it was still a startup with barely a campus?\nBefore joining NYU Shanghai in 2013, I was already very interested in China and Chinese culture. When I was a little boy, my extended family would have lunch together in Chinatown in Manhattan about twice a month. Later as a professor, I had many Chinese PhD students and research collaborators, and they also piqued my interest in China. I visited Hong Kong and Guangzhou for the first time in 2006, and found both cities to be exciting and fascinating.\nI thought taking part in building the first Sino-US joint university would be an exciting experience – and it has turned out to be the case!\nRoss at NYU Shanghai's opening ceremony at the Geography Building at ECNU campus, on August 9, 2013. The building was used as a temporary campus before the university moved to a new campus on Century Avenue.\nWhy did you choose to focus NYU Shanghai's computer science program on machine learning? And how have you been able to meet that goal?\nMachine learning and AI will likely have a huge impact on society over the next twenty years, perhaps changing the world we live in even more profoundly than the Internet has these last 20 years. Recent advances in deep learning, a branch of machine learning, is driving most of the current excitement behind AI. These recent advances have already led to dramatic improvements in language translation, speech recognition, object recognition in photos, face recognition, recommendation systems, and information retrieval. But of course, as with any new technology, there are also undesirable consequences of AI that we must address in parallel.\nAt the undergraduate level, we've been able to create five courses in artificial intelligence, including machine learning, reinforcement learning, natural language processing, computer music, and mathematics of data science. And in the future, we hope to add two more courses – on computer vision and on the ethical and societal issues surrounding AI. Few computer science departments have so many AI-oriented courses at the undergraduate level. In the future, many universities will likely follow what we're doing.\nAnother area that we're deepening our strength in is theoretical computer science, which is about the underlying mathematical theory of computer science and computer algorithms. We're strong in the subfields of computer science theory, namely, mathematical cryptography and computational geometry. Computer science theory is an area that hasn't been developed in many of the universities in China, but it’s an area we are developing here at NYU Shanghai. We're also gaining further strength in computer science systems – the intersection of networks, systems, and security.\nData science major Kelly Marshall '20 spent his summer vacation working with Ross on new algorithms for reinforcement learning.\nWhat is different about the way computer science courses are taught at NYU Shanghai?\nUnlike other universities, we don't pack a large number of students in one big lecture hall – instead, we try to keep the classes small and interactive. Students do a lot of hands-on programming throughout and usually have a project at the end of the semester.\nI currently teach a course on Reinforcement Learning, which is one of the most exciting and cutting-edge subfields of artificial intelligence today. It is not normally taught at the undergraduate level. I try to teach it more as a seminar course. I don't lecture much. Instead, I go around the classroom and ask each student questions or ask them to come up to the board to work out a problem. In this way, all students are engaged and participating as we discuss topics and work on problems together. The students seem to like this way of teaching, and it keeps them awake!\nMany of your recently published research papers name undergraduate students as contributing researchers. How do you foster undergrad research at NYU Shanghai, and why?\nI always enjoy working with our undergraduates – we have a lot of very bright students, so it's always a pleasure to work with them. What I enjoy most is seeing students develop their passion for research, especially once they start publishing papers. I have now published papers with about six undergraduate students from NYU Shanghai. And many of my CS colleagues are also publishing papers with undergraduates (as well as with their PhD students).\nWhat research projects have you been working on?\nMy research is in an area called deep reinforcement learning, which brings deep learning and reinforcement learning together. It is a sub-branch of artificial intelligence. The research is mostly mathematical and algorithmic in style; we try to develop new algorithms to solve very challenging problems.\nMy group at NYU Shanghai is focused on developing new algorithms for deep reinforcement learning, testing the algorithms in computational environments, and analyzing the algorithms mathematically. We run algorithms on our High Performance Computing system here at NYU Shanghai, and since the algorithms require a lot of computational resources, it sometimes takes days for us to get the result. A potential application of our work is training robots to do very complex tasks. For example, a modern robot will have many joints. It is very difficult for a human to specify exactly which joints to move and how in a sequential manner in order to achieve a specific task. Researchers are now exploring how deep reinforcement learning can be used for this problem. Another example is designing the smart transportation systems of the future, where you might have some kind of central controller that's making decisions about how to assign cars to customers, and how to route cars to their destinations.\nDinner with PhD and research undergraduate students\nOuting with Computer Science faculty and families\nYou are the co-author of the popular textbook, Computer Networking: A Top-Down Approach Featuring the Internet, which has its seventh edition since published in 2000. It is the most popular textbook on computer networking. What makes the textbook so popular? How has it evolved since 2000? Do you still teach from it?\nI think it is very popular for a number of reasons. Perhaps most importantly, my co-author, James Kurose, and I make great efforts to carefully explain the principles of computer networking and also the underlying technology behind the Internet. Another reason is that we publish a new edition about every four years, and with each new edition we cover the most recent advances in the field. Finally, we make available extensive supplemental materials, including detailed slides, programming assignments, hands-on labs, LMS support, and more. Unfortunately I have not taught from it in several years since I have instead been teaching AI courses such as Machine Learning and Reinforcement Learning.\nWhat do you like to do with your spare time?\nOne of the things that I love most about living in Shanghai is trying out all of the different dining options here – It's just a pleasure to eat here in Shanghai. I love Chinese food, and there are also a lot of great Western restaurants here. My favorite non-Chinese restaurant is a French restaurant called Epices & Foie Gras, and my favorite Chinese restaurant (currently) is Sichuan Citizen. I went to a great Henan restaurant just last night.\nI've also been studying Chinese for a very long time. I find it very, very difficult, but that's part of why I enjoy it. Chinese is a very rich language, and studying characters is very interesting and fun. Now, I'm studying for the HSK 5 test – it's an extremely challenging language level for me to reach, but I hope to succeed eventually. I also have a few friends who speak only Chinese, and I try to meet with them once a week or so to practice my Chinese. Recently, I had a lesson about the origin of the word 除夕 (Lunar New Year's Eve). Many of my Chinese friends don’t know, and I enjoy explaining it to them!",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Dean Keith Ross: Mastering Machine Learning in Shanghai"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai's Dean of Computer Science, Data Science, and Engineering Keith Ross has been a member of the NYU Shanghai faculty since our first class of students arrived in August 2013. In moving to China, Ross, who had already spent five years leading NYU's Department of Computer Science and Engineering after teaching for 13 years at the University of Pennsylvania, says he was attracted by the personal and professional challenges of helping to build a new university from scratch."
+    },
+    {
+      "type": "p",
+      "text": "Today, NYU Shanghai's computer science and engineering faculty are among the world's best, and five classes of graduates have gone on to top PhD and master's programs, as well as leading companies in the tech industry."
+    },
+    {
+      "type": "p",
+      "text": "Over the years, Ross has fallen in love with the city of Shanghai. When he's not working with students or conducting research on campus, Ross can be found studying Chinese and preparing for the HSK Level 5 exam (a level that requires a vocabulary of 2,500 words), reading in Jing'An Park, and exploring Shanghai's culinary scene."
+    },
+    {
+      "type": "p",
+      "text": "Take us back 10 years or so. Why did you decide to leave New York to join NYU Shanghai when it was still a startup with barely a campus?"
+    },
+    {
+      "type": "p",
+      "text": "Before joining NYU Shanghai in 2013, I was already very interested in China and Chinese culture. When I was a little boy, my extended family would have lunch together in Chinatown in Manhattan about twice a month. Later as a professor, I had many Chinese PhD students and research collaborators, and they also piqued my interest in China. I visited Hong Kong and Guangzhou for the first time in 2006, and found both cities to be exciting and fascinating."
+    },
+    {
+      "type": "p",
+      "text": "I thought taking part in building the first Sino-US joint university would be an exciting experience – and it has turned out to be the case!"
+    },
+    {
+      "type": "p",
+      "text": "Ross at NYU Shanghai's opening ceremony at the Geography Building at ECNU campus, on August 9, 2013. The building was used as a temporary campus before the university moved to a new campus on Century Avenue."
+    },
+    {
+      "type": "p",
+      "text": "Why did you choose to focus NYU Shanghai's computer science program on machine learning? And how have you been able to meet that goal?"
+    },
+    {
+      "type": "p",
+      "text": "Machine learning and AI will likely have a huge impact on society over the next twenty years, perhaps changing the world we live in even more profoundly than the Internet has these last 20 years. Recent advances in deep learning, a branch of machine learning, is driving most of the current excitement behind AI. These recent advances have already led to dramatic improvements in language translation, speech recognition, object recognition in photos, face recognition, recommendation systems, and information retrieval. But of course, as with any new technology, there are also undesirable consequences of AI that we must address in parallel."
+    },
+    {
+      "type": "p",
+      "text": "At the undergraduate level, we've been able to create five courses in artificial intelligence, including machine learning, reinforcement learning, natural language processing, computer music, and mathematics of data science. And in the future, we hope to add two more courses – on computer vision and on the ethical and societal issues surrounding AI. Few computer science departments have so many AI-oriented courses at the undergraduate level. In the future, many universities will likely follow what we're doing."
+    },
+    {
+      "type": "p",
+      "text": "Another area that we're deepening our strength in is theoretical computer science, which is about the underlying mathematical theory of computer science and computer algorithms. We're strong in the subfields of computer science theory, namely, mathematical cryptography and computational geometry. Computer science theory is an area that hasn't been developed in many of the universities in China, but it’s an area we are developing here at NYU Shanghai. We're also gaining further strength in computer science systems – the intersection of networks, systems, and security."
+    },
+    {
+      "type": "p",
+      "text": "Data science major Kelly Marshall '20 spent his summer vacation working with Ross on new algorithms for reinforcement learning."
+    },
+    {
+      "type": "p",
+      "text": "What is different about the way computer science courses are taught at NYU Shanghai?"
+    },
+    {
+      "type": "p",
+      "text": "Unlike other universities, we don't pack a large number of students in one big lecture hall – instead, we try to keep the classes small and interactive. Students do a lot of hands-on programming throughout and usually have a project at the end of the semester."
+    },
+    {
+      "type": "p",
+      "text": "I currently teach a course on Reinforcement Learning, which is one of the most exciting and cutting-edge subfields of artificial intelligence today. It is not normally taught at the undergraduate level. I try to teach it more as a seminar course. I don't lecture much. Instead, I go around the classroom and ask each student questions or ask them to come up to the board to work out a problem. In this way, all students are engaged and participating as we discuss topics and work on problems together. The students seem to like this way of teaching, and it keeps them awake!"
+    },
+    {
+      "type": "p",
+      "text": "Many of your recently published research papers name undergraduate students as contributing researchers. How do you foster undergrad research at NYU Shanghai, and why?"
+    },
+    {
+      "type": "p",
+      "text": "I always enjoy working with our undergraduates – we have a lot of very bright students, so it's always a pleasure to work with them. What I enjoy most is seeing students develop their passion for research, especially once they start publishing papers. I have now published papers with about six undergraduate students from NYU Shanghai. And many of my CS colleagues are also publishing papers with undergraduates (as well as with their PhD students)."
+    },
+    {
+      "type": "p",
+      "text": "What research projects have you been working on?"
+    },
+    {
+      "type": "p",
+      "text": "My research is in an area called deep reinforcement learning, which brings deep learning and reinforcement learning together. It is a sub-branch of artificial intelligence. The research is mostly mathematical and algorithmic in style; we try to develop new algorithms to solve very challenging problems."
+    },
+    {
+      "type": "p",
+      "text": "My group at NYU Shanghai is focused on developing new algorithms for deep reinforcement learning, testing the algorithms in computational environments, and analyzing the algorithms mathematically. We run algorithms on our High Performance Computing system here at NYU Shanghai, and since the algorithms require a lot of computational resources, it sometimes takes days for us to get the result. A potential application of our work is training robots to do very complex tasks. For example, a modern robot will have many joints. It is very difficult for a human to specify exactly which joints to move and how in a sequential manner in order to achieve a specific task. Researchers are now exploring how deep reinforcement learning can be used for this problem. Another example is designing the smart transportation systems of the future, where you might have some kind of central controller that's making decisions about how to assign cars to customers, and how to route cars to their destinations."
+    },
+    {
+      "type": "p",
+      "text": "Dinner with PhD and research undergraduate students"
+    },
+    {
+      "type": "p",
+      "text": "Outing with Computer Science faculty and families"
+    },
+    {
+      "type": "p",
+      "text": "You are the co-author of the popular textbook, Computer Networking: A Top-Down Approach Featuring the Internet, which has its seventh edition since published in 2000. It is the most popular textbook on computer networking. What makes the textbook so popular? How has it evolved since 2000? Do you still teach from it?"
+    },
+    {
+      "type": "p",
+      "text": "I think it is very popular for a number of reasons. Perhaps most importantly, my co-author, James Kurose, and I make great efforts to carefully explain the principles of computer networking and also the underlying technology behind the Internet. Another reason is that we publish a new edition about every four years, and with each new edition we cover the most recent advances in the field. Finally, we make available extensive supplemental materials, including detailed slides, programming assignments, hands-on labs, LMS support, and more. Unfortunately I have not taught from it in several years since I have instead been teaching AI courses such as Machine Learning and Reinforcement Learning."
+    },
+    {
+      "type": "p",
+      "text": "What do you like to do with your spare time?"
+    },
+    {
+      "type": "p",
+      "text": "One of the things that I love most about living in Shanghai is trying out all of the different dining options here – It's just a pleasure to eat here in Shanghai. I love Chinese food, and there are also a lot of great Western restaurants here. My favorite non-Chinese restaurant is a French restaurant called Epices & Foie Gras, and my favorite Chinese restaurant (currently) is Sichuan Citizen. I went to a great Henan restaurant just last night."
+    },
+    {
+      "type": "p",
+      "text": "I've also been studying Chinese for a very long time. I find it very, very difficult, but that's part of why I enjoy it. Chinese is a very rich language, and studying characters is very interesting and fun. Now, I'm studying for the HSK 5 test – it's an extremely challenging language level for me to reach, but I hope to succeed eventually. I also have a few friends who speak only Chinese, and I try to meet with them once a week or so to practice my Chinese. Recently, I had a lesson about the origin of the word 除夕 (Lunar New Year's Eve). Many of my Chinese friends don’t know, and I enjoy explaining it to them!"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/story",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/story/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/story/5.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/5-161aca58966b.png",
+      "download_status": "downloaded",
+      "bytes": 752477,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/1_19.jpg",
+      "alt": "1",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/1_19-683dd2317692.jpg",
+      "download_status": "downloaded",
+      "bytes": 78176,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/2_10.png",
+      "alt": "2",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/3_17.jpg",
+      "alt": "3",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/3_17-b2decffbe065.jpg",
+      "download_status": "downloaded",
+      "bytes": 353764,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/4_17.jpg",
+      "alt": "4",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Dean%20Keith%20Ross%3A%20Mastering%20Machine%20Learning%20in%20Shanghai&url=https%3A//shanghai.nyu.edu/stories/dean-keith-ross-mastering-machine-learning-shanghai&status=Dean%20Keith%20Ross%3A%20Mastering%20Machine%20Learning%20in%20Shanghai%20https%3A//shanghai.nyu.edu/stories/dean-keith-ross-mastering-machine-learning-shanghai",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/stories/dean-keith-ross-mastering-machine-learning-shanghai&title=Dean%20Keith%20Ross%3A%20Mastering%20Machine%20Learning%20in%20Shanghai",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/stories/dean-keith-ross-mastering-machine-learning-shanghai&title=Dean%20Keith%20Ross%3A%20Mastering%20Machine%20Learning%20in%20Shanghai",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/keith-ross",
+      "text": "Keith Ross",
+      "internal": true
+    },
+    {
+      "url": "https://www.researchgate.net/scientific-contributions/Keith-W-Ross-3226873",
+      "text": "recently published research papers",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 1546,
+  "crawled_at": "2026-06-09T04:47:22+00:00",
+  "sequence": 1850
+}

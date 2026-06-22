@@ -1,0 +1,818 @@
+{
+  "id": "page__computer-science-phd-program-6077da8f3a",
+  "url": "https://shanghai.nyu.edu/page/computer-science-phd-program",
+  "canonical_url": "https://shanghai.nyu.edu/page/computer-science-phd-program",
+  "page_type": "page",
+  "title": "Computer Science PhD Program",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Computer Science PhD Program\nSupervising Faculty\nProgram Structure\nCurrent Students\nApplication\nContact Us\nNYU Shanghai invites applications from exceptional students for PhD study and research in Computer Science. Participating students are enrolled in the NYU Computer Science PhD program, complete their coursework in New York, and then transition to full-time residence at NYU Shanghai where they undertake their doctoral research under the supervision of NYU Shanghai faculty.\nHighlights of the Program\nNYU degree upon graduation\nGraduate coursework at NYU New York\nResearch opportunities with and close mentorship by NYU Shanghai faculty\nAccess to the vast intellectual resources of the NYU Computer Science community\nCutting-edge research environment at NYU Shanghai, including the Center for Data Science and Artificial Intelligence, activities such as a regular program of seminars and visiting academics, a thriving community of PhD students, post-doctoral fellows, and research associates, and links with other universities within and outside China\nFinancial aid through the NYU Shanghai Doctoral Fellowship, including tuition, fees, and an annual stipend\nAdditional benefits exclusive to the NYU Shanghai program, including international health insurance, housing assistance in New York, and travel funds\nSupervising Faculty\nSiyao GuoTheoretical Computer Science, Cryptography, Computational Complexity\nSiyao Guo\nTheoretical Computer Science, Cryptography, Computational Complexity\nYucheng LuMachine Learning Systems\nYucheng Lu\nMachine Learning Systems\nNasir MemonMedia Forensics, Biometrics, Authentication, Network Security, Data Compression, Cybersecurity​\nNasir Memon\nMedia Forensics, Biometrics, Authentication, Network Security, Data Compression, Cybersecurity​\nHua ShenBidirectional Human-AI Alignment, Human-AI Interaction, Responsible and Trustworthy AI, Human-Centered NLP, Speech and Machine Learning\nHua Shen\nBidirectional Human-AI Alignment, Human-AI Interaction, Responsible and Trustworthy AI, Human-Centered NLP, Speech and Machine Learning\nQiaoyu TanMachine Learning and Data Mining, Graph Learning, Foundation Model, Multimodal Learning\nQiaoyu Tan\nMachine Learning and Data Mining, Graph Learning, Foundation Model, Multimodal Learning\nMingyuan WangCryptography\nMingyuan Wang\nCryptography\nShengjie WangMachine Learning, Deep Learning, AI for Science, Optimization\nShengjie Wang\nMachine Learning, Deep Learning, AI for Science, Optimization\nZhaonan WangAI & Urban Sensing, Spatial & Temporal Data Mining, Mobility & Traffic Network Dynamics\nZhaonan Wang\nAI & Urban Sensing, Spatial & Temporal Data Mining, Mobility & Traffic Network Dynamics\nHongyi WenRecommender Systems, Data Mining, Human-centered AI\nHongyi Wen\nRecommender Systems, Data Mining, Human-centered AI\nJie XueComputational Geometry, Algorithms, Data Structures, Graph Theory, Parameterized Complexity\nJie Xue\nComputational Geometry, Algorithms, Data Structures, Graph Theory, Parameterized Complexity\nChen ZhaoNatural Language Processing, Human-Computer Interaction, Machine Learning\nChen Zhao\nNatural Language Processing, Human-Computer Interaction, Machine Learning\nRecent Publications by NYU Shanghai Faculty\nSiyao Guo\nNick Gravin, Siyao Guo, Tsz Chiu Kwok and Pinyan Lu: Concentration Bounds for Almost K-wise Independence with Applications to Non-Uniform Security. In SODA 2021.\nSiyao Guo, Qian Li, Qipeng Liu and Jiapeng Zhang: Unifying Presampling via Concentration Bounds. In TCC 2021.\nYevgeniy Dodis, Siyao Guo, Noah Stephens-Davidowitz and Zhiye Xie: No Time to Hash: Provable Super-Efficient Entropy Accumulation. In CRYPTO 2021.\nYevgeniy Dodis, Siyao Guo, Noah Stephens-Davidowitz and Zhiye Xie: On Linear Extractors for Independent Sources. In ITC 2021.\nAlexander Golovnev, Siyao Guo, Thibaut Horel, Sunoo Park and Vinod Vaikuntanathan: Data Structures Meet Cryptography: 3 SUM with Preprocessing. In STOC 2020.\nDivesh Aggarwal, Siyao Guo, Maciej Obremski, Joao Ribeiro and Noah Stephens-Davidowitz: Extractor Lower Bounds, Revisited. In RANDOM 2020.\nKai-Min Chung, Siyao Guo, Qipeng Liu and Luowen Qian: Tight Quantum Time-Space Tradeoffs for Function Inversion. In FOCS 2020.\nSiyao Guo, Pritish Kamath, Alon Rosen, Katerina Sotiraki: Limits on the Efficiency of (Ring) LWE based Non-Interactive Key Exchange. In PKC 2020 (and Invited to Journal of Cryptology).\nMarshall Ball, Siyao Guo and Daniel Wichs: Non-Malleable Codes for Decision Trees. In CRYPTO 2019.\nYucheng Lu\nJue Wang*, Yucheng Lu*, Binhang Yuan, Beidi Chen, Percy Liang, Chris De Sa, Chris Ré, Ce Zhang. CocktailSGD: Fine-tuning Foundation Models over 500Mbps Networks. In the Fortieth International Conference on Machine Learning (ICML) 2023.\nYucheng Lu, Conglong Li, Minjia Zhang, Chris De Sa, Yuxiong He. Maximizing Communication Efficiency for Large-scale Training via 0/1 Adam. In the Eleventh International Conference on Learning Representations (ICLR) 2023.\nYucheng Lu, Wentao Guo, Chris De Sa. GraB: Finding Provably Better Data Permutations than Random Reshuffling. In the Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.\nYucheng Lu, Si Yi Meng, Chris De Sa. A General Analysis of Example-Selection for Stochastic Gradient Descent. In the Tenth International Conference on Learning Representations (ICLR) 2022.\nYucheng Lu, Chris De Sa. Optimal Complexity in Decentralized Training. In the Thirty-eighth International Conference on Machine Learning (ICML) 2021.\nYucheng Lu, Chris De Sa. Moniqua: Modulo Quantized Communication in Decentralized SGD. In the Thirty-seventh International Conference on Machine Learning (ICML) 2020.\nHua Shen\nShen, Hua, Tiffany Knearem, Reshmi Ghosh, et al. \"Position: Towards bidirectional human-ai alignment.\" NeurIPS 2025.\nShen, Hua, Nicholas Clark, and Tanushree Mitra. \"Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values?.\" EMNLP, 2025.\nShen, Hua, Chieh-Yang Huang, Tongshuang Wu, and Ting-Hao Kenneth Huang. \"ConvXAI: Delivering heterogeneous AI explanations via conversations to support human-AI scientific writing.\" CSCW Demo, 2023.\nShen, Hua, Vicky Zayats, Johann C. Rocholl, Daniel D. Walker, and Dirk Padfield. \"Multiturncleanup: A benchmark for multi-turn spoken conversational transcript cleanup.\" EMNLP, 2023.\nShen, Hua, Tongshuang Wu, Wenbo Guo, and Ting-Hao'Kenneth Huang. \"Are shortest rationales the best explanations for human understanding?.\" ACL, 2022.\nQiaoyu Tan​\nJunnan Dong, Qinggang Zhang, Xiao Huang, Keyu Duan, Qiaoyu Tan and Zhimeng Jiang. Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs, The Web Conference (WWW), 2023.\nQiaoyu Tan, Ninghao Liu, Xiao Huang, Soo-Hyun Choi, Li Li, Rui Chen, and Xia Hu. S2GAE: Self-supervised graph autoencoders are generalizable learners with graph masking. In Proceedings of ACM International Conference on Web Search and Data Mining (WSDM), 2023.\nQiaoyu Tan, Xin Zhang, Ninghao Liu, Daochen Zha, Li Li, Rui Chen, Soo-Hyun Choi and Xia Hu. Bring Your Own View: Graph Neural Networks for Link Prediction with Personalized Subgraph Selection, ACM International Conference on Web Search and Data Mining (WSDM), 2023.\nQiaoyu Tan, Xin Zhang, Xiao Huang, Hao Chen, Jundong Li, and Xia Hu. Collaborative graph neural Networks for attributed network embedding. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.\nSirui Ding, Qiaoyu Tan, Chia-yuan Chang, Na Zou, Kai Zhang, Nathan R. Hoot, Xiaoqian Jiang, and Xia Hu. Multi-task learning for post-transplant cause of death analysis. In Proceedings of AMIA Annual Symposium (AMIA), 2023.\nYucheng Shi, Yushun Dong, Qiaoyu Tan, Jundong Li and Ninghao Liu. GiGaMA: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction. ACM International Conference on Information and Knowledge Management (CIKM), 2023.\nDaochen Zha, Louis Feng, Qiaoyu Tan, Zirui Liu, Kwei-Herng, Bhargav, Bhushanam, Yuandong Tian, Arun Kejariwal and Xia Hu. DreamShard: Generalizable Embedding Table Placement for Recommender Systems. Neural Information Processing Systems (NeurIPS), 2022.\nQiaoyu Tan, Jianwei Zhang, Ninghao Liu, Xiao Huang, Hongxia Yang, Jingren Zhou, and Xia Hu. Dynamic memory based attention network for sequential recommendation. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2021.\nQiaoyu Tan, Ninghao Liu, Xing Zhao, Hongxia Yang, Jingren Zhou, and Xia Hu. Learning to hash with graph neural networks for recommender systems. In Proceedings of The Web Conference (WWW), 2020.\nMingyuan Wang\n​Scalable Multiparty Computation from Non-linear Secret Sharing, Sanjam Garg, Abhishek Jain, Pratyay Mukherjee, and Mingyuan Wang, CRYPTO 2024\nHow to Prove Statements Obliviously? Sanjam Garg, Aarushi Goel, and Mingyuan Wang, CRYPTO 2024\nThreshold Encryption with Silent Setup, Sanjam Garg, Dimitris Kolonelos, Guru-Vamsi Policharla, and Mingyuan Wang, CRYPTO 2024\nhinTS: Threshold Signatures with Silent Setup, Sanjam Garg, Abhishek Jain, Pratyay Mukherjee, Rohit Sinha, Mingyuan Wang, and Yinuo Zhang, IEEE S&P 2024\nLeakage-resilience of the Shamir Secret-sharing Scheme against Physical-bit Leakages, Hemanta K. Maji, Hai H. Nguyen, Anat Paskin-Cherniavsky, Tom Suad, and Mingyuan Wang, EUROCRYPT 2021\nShengjie Wang\nMachine Learning Force Fields with Data Cost Aware Training. A. Bukharin, T. Liu, S. Wang, S. Zuo, W. Gao, W. Yan, T. Zhao. ICML23\nConstrained Robust Submodular Partitioning. S Wang*, T Zhou*, C Lavania, J Bilmes. NeurIPS21\nRobust Curriculum Learning: from clean label detection to noisy label self-correction.T Zhou*, S Wang*, J Bilmes. ICLR21\nBias also matters: Bias attribution for deep neural network explanation. S Wang*, T Zhou*, J Bilmes. ICML19\nAnalysis of deep neural networks with extended data Jacobian matrix. S Wang, A Mohamed, R Caruana, J Bilmes, M Plilipose, M Richardson, K Geras, G Urban, O Aslan. ICML16\nZhaonan Wang\nZ Wang, R Jiang, H Xue, FD Salim, X Song, R Shibasaki, W Hu, S Wang. 2024. Learning Spatio-Temporal Dynamics on Mobility Networks for Adaptation to Open-World Events. Artificial Intelligence, 104120.\nR Jiang*, Z Wang*, J Yong, P Jeph, Q Chen, Y Kobayashi, X Song, S Fukushima, T Suzumura. 2023. Spatio-Temporal Meta-Graph Learning for Traffic Forecasting. Proceedings of the AAAI conference on Artificial Intelligence 37 (7), 8078-8086.\nR Jiang*, Z Wang*, Y Tao, C Yang, X Song, R Shibasaki, SC Chen, ML Shyu. 2023. Learning Social Meta-Knowledge for Nowcasting Human Mobility in Disaster. Proceedings of the ACM Web Conference 2023, 2655-2665.\nZ Wang, R Jiang, H Xue, FD Salim, X Song, R Shibasaki. 2022. Event-Aware Multimodal Mobility Nowcasting. Proceedings of the AAAI Conference on Artificial Intelligence 36 (4), 4228-4236.\nZ Wang, T Xia, R Jiang, X Liu, KS Kim, X Song, R Shibasaki. 2021. Forecasting Ambulance Demand with Profiled Human Mobility via Heterogeneous Multi-Graph Neural Networks. 2021 IEEE 37th International Conference on Data Engineering (ICDE), 1751-1762.\nHongyi Wen\nYuanhe Guo, Haoming Liu, and Hongyi Wen. \"Towards Personalized Prompt-Model Retrieval for Generative Recommendation.\" arXiv preprint arXiv:2308.02205 (2023).\nHongyi Wen, Xinyang Yi, Tiansheng Yao, Jiaxi Tang, Lichan Hong, Ed H. Chi. 2022. Distributionally-robust Recommendations for Improving Worst-case User Experience. In Proceedings of the ACM Web Conference 2022 (WWW ’22).\nHongyi Wen, Michael Sobolev, Rachel Vitale, James Kizer, JP Pollak, Frederick Muench, Deborah Estrin. “mPulse Mobile Sensing Model for Passive Detection of Impulsive Behavior: Exploratory Prediction Study”. JMIR Mental Health, 2021.\nHongyi Wen, Longqi Yang, Deborah Estrin. “Leveraging post-click feedback for content recommendations”. Proceedings of the 13th ACM Conference on Recommender Systems (RecSys), 2019.\nHongyi Wen, Julian Ramos Rojas, and Anind K. Dey. \"Serendipity: Finger gesture recognition using an off-the-shelf smartwatch.\" Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI), 2016.\nJie Xue\nHaitao Wang*, Jie Xue*, \"Near-optimal algorithms for shortest paths in weighted unit-disk graphs\". In the 35th International Symposium on Computational Geometry (SoCG), 2019. Also in Discrete & Computational Geometry, 2020.\nPankaj K. Agarwal*, Hsien-Chih Chang*, Subhash Suri*, Allen Xiao*, Jie Xue*, \"Dynamic geometric set cover and hitting set\". In the 36th International Symposium on Computational Geometry (SoCG), 2020.\nJie Xue, Yuan Li, Rahul Saladi, Ravi Janardan, \"Searching for the closest-pair in a query translate\". In the 35th International Symposium on Computational Geometry (SoCG), 2019.\nChen Zhao\nZhao, C., Su, Y., Pauls, A., & Platanios, E. A. Bridging the generalization gap in text-to-SQL parsing with schema expansion. ACL 2022.\nZhao, C., Xiong, C., Boyd-Graber, J., & Daumé III, H. (2021). Distantly-supervised evidence retrieval enables question answering without evidence annotation. EMNLP 2021.\nZhao, C., Xiong, C., Qian, X., & Boyd-Graber, J. . Complex factoid question answering with a free-text knowledge graph. WWW 2020.\nZhao, C., Xiong, C., Rosset, C., Song, X., Bennett, P., & Tiwary, S. (2020). Transformer-xh: Multi-evidence reasoning with extra hop attention. ICLR 2020.\nSelected Faculty and Student Features\n\"Reasoning Models Know When They’re Right\" (Chen Zhao)\n\"Zhao Chen: Computer Science and Competitive Bridge\" (Chen Zhao)\n\"What I’m Working On: Wang Mingyuan on Cryptography\" (Mingyuan Wang)\n“Algorithm Solves Longstanding Geometric Challenge” (Jie Xue)\n\"When the Going Gets Tough, the Tough Get Going\" (Yanqiu Wu)\n\"NYU Shanghai Awards First-ever PhD\" (Sean Welleck)\n\"Faculty Spotlight: Guo Siyao\" (Siyao Guo)\n\"Professor Zhang Zheng to Head Amazon's New AI Lab in Shanghai\" (Zheng Zhang)\nStructure of Program\nParticipating students complete the PhD degree requirements set by the NYU Computer Science PhD Program. Each student develops an individualized course plan in consultation with the Director of Graduate Study at the student’s NYU department and the student’s NYU Shanghai faculty advisor. A typical sequence follows:\nborder\nBegin program with funded research rotation, up to 3 months preceding first Fall semester, to familiarize with NYU Shanghai and faculty as well as lay a foundation for future doctoral study.\nborder\nComplete PhD coursework in New York alongside other NYU PhD students.\nborder\nReturn to Shanghai for second funded research rotation to solidify relationships with NYU Shanghai faculty and make further progress in research.\nborder\nUnder supervision of NYU Shanghai faculty advisor, pursue dissertation research and continue coursework. Depending on each student’s individualized course of study, return visits to New York may also occur. Complete all required examinations and progress evaluations, both oral and written, leading up to submission and defense of doctoral thesis.\nTo learn more about the NYU Computer Science PhD program degree requirements, please visit this page.\nCurrent Students\nAlumni\nApplication Process and Dates\nApplications are to be submitted through the NYU GSAS Application portal, within which students should select the Computer Science PhD as their program of interest, and then indicate their preference for NYU Shanghai by marking the appropriate checkbox when prompted. Applicants will be evaluated by a joint admissions committee of New York and Shanghai faculty. Application requirements are set by the NYU Computer Science PhD Program and are the same as those for all NYU PhD applicants, no matter their campus preference; however, candidates are recommended to elaborate in their application and personal statements about their specific interests in the NYU Shanghai program and faculty.\nFor admission in Fall 2026, the application deadline is December 12, 2025.\nContact Us\nInterested students are welcome to contact Vivien Du, program coordinator of the NYU Shanghai Computer Science PhD, via email at shanghai.phd@nyu.edu with any inquiries or to request more information.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Computer Science PhD Program"
+    },
+    {
+      "type": "li",
+      "text": "Supervising Faculty"
+    },
+    {
+      "type": "li",
+      "text": "Program Structure"
+    },
+    {
+      "type": "li",
+      "text": "Current Students"
+    },
+    {
+      "type": "li",
+      "text": "Application"
+    },
+    {
+      "type": "li",
+      "text": "Contact Us"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai invites applications from exceptional students for PhD study and research in Computer Science. Participating students are enrolled in the NYU Computer Science PhD program, complete their coursework in New York, and then transition to full-time residence at NYU Shanghai where they undertake their doctoral research under the supervision of NYU Shanghai faculty."
+    },
+    {
+      "type": "h2",
+      "text": "Highlights of the Program"
+    },
+    {
+      "type": "li",
+      "text": "NYU degree upon graduation"
+    },
+    {
+      "type": "li",
+      "text": "Graduate coursework at NYU New York"
+    },
+    {
+      "type": "li",
+      "text": "Research opportunities with and close mentorship by NYU Shanghai faculty"
+    },
+    {
+      "type": "li",
+      "text": "Access to the vast intellectual resources of the NYU Computer Science community"
+    },
+    {
+      "type": "li",
+      "text": "Cutting-edge research environment at NYU Shanghai, including the Center for Data Science and Artificial Intelligence, activities such as a regular program of seminars and visiting academics, a thriving community of PhD students, post-doctoral fellows, and research associates, and links with other universities within and outside China"
+    },
+    {
+      "type": "li",
+      "text": "Financial aid through the NYU Shanghai Doctoral Fellowship, including tuition, fees, and an annual stipend"
+    },
+    {
+      "type": "li",
+      "text": "Additional benefits exclusive to the NYU Shanghai program, including international health insurance, housing assistance in New York, and travel funds"
+    },
+    {
+      "type": "h2",
+      "text": "Supervising Faculty"
+    },
+    {
+      "type": "li",
+      "text": "Siyao GuoTheoretical Computer Science, Cryptography, Computational Complexity"
+    },
+    {
+      "type": "h4",
+      "text": "Siyao Guo"
+    },
+    {
+      "type": "p",
+      "text": "Theoretical Computer Science, Cryptography, Computational Complexity"
+    },
+    {
+      "type": "li",
+      "text": "Yucheng LuMachine Learning Systems"
+    },
+    {
+      "type": "h4",
+      "text": "Yucheng Lu"
+    },
+    {
+      "type": "p",
+      "text": "Machine Learning Systems"
+    },
+    {
+      "type": "li",
+      "text": "Nasir MemonMedia Forensics, Biometrics, Authentication, Network Security, Data Compression, Cybersecurity​"
+    },
+    {
+      "type": "h4",
+      "text": "Nasir Memon"
+    },
+    {
+      "type": "p",
+      "text": "Media Forensics, Biometrics, Authentication, Network Security, Data Compression, Cybersecurity​"
+    },
+    {
+      "type": "li",
+      "text": "Hua ShenBidirectional Human-AI Alignment, Human-AI Interaction, Responsible and Trustworthy AI, Human-Centered NLP, Speech and Machine Learning"
+    },
+    {
+      "type": "h4",
+      "text": "Hua Shen"
+    },
+    {
+      "type": "p",
+      "text": "Bidirectional Human-AI Alignment, Human-AI Interaction, Responsible and Trustworthy AI, Human-Centered NLP, Speech and Machine Learning"
+    },
+    {
+      "type": "li",
+      "text": "Qiaoyu TanMachine Learning and Data Mining, Graph Learning, Foundation Model, Multimodal Learning"
+    },
+    {
+      "type": "h4",
+      "text": "Qiaoyu Tan"
+    },
+    {
+      "type": "p",
+      "text": "Machine Learning and Data Mining, Graph Learning, Foundation Model, Multimodal Learning"
+    },
+    {
+      "type": "li",
+      "text": "Mingyuan WangCryptography"
+    },
+    {
+      "type": "h4",
+      "text": "Mingyuan Wang"
+    },
+    {
+      "type": "p",
+      "text": "Cryptography"
+    },
+    {
+      "type": "li",
+      "text": "Shengjie WangMachine Learning, Deep Learning, AI for Science, Optimization"
+    },
+    {
+      "type": "h4",
+      "text": "Shengjie Wang"
+    },
+    {
+      "type": "p",
+      "text": "Machine Learning, Deep Learning, AI for Science, Optimization"
+    },
+    {
+      "type": "li",
+      "text": "Zhaonan WangAI & Urban Sensing, Spatial & Temporal Data Mining, Mobility & Traffic Network Dynamics"
+    },
+    {
+      "type": "h4",
+      "text": "Zhaonan Wang"
+    },
+    {
+      "type": "p",
+      "text": "AI & Urban Sensing, Spatial & Temporal Data Mining, Mobility & Traffic Network Dynamics"
+    },
+    {
+      "type": "li",
+      "text": "Hongyi WenRecommender Systems, Data Mining, Human-centered AI"
+    },
+    {
+      "type": "h4",
+      "text": "Hongyi Wen"
+    },
+    {
+      "type": "p",
+      "text": "Recommender Systems, Data Mining, Human-centered AI"
+    },
+    {
+      "type": "li",
+      "text": "Jie XueComputational Geometry, Algorithms, Data Structures, Graph Theory, Parameterized Complexity"
+    },
+    {
+      "type": "h4",
+      "text": "Jie Xue"
+    },
+    {
+      "type": "p",
+      "text": "Computational Geometry, Algorithms, Data Structures, Graph Theory, Parameterized Complexity"
+    },
+    {
+      "type": "li",
+      "text": "Chen ZhaoNatural Language Processing, Human-Computer Interaction, Machine Learning"
+    },
+    {
+      "type": "h4",
+      "text": "Chen Zhao"
+    },
+    {
+      "type": "p",
+      "text": "Natural Language Processing, Human-Computer Interaction, Machine Learning"
+    },
+    {
+      "type": "h2",
+      "text": "Recent Publications by NYU Shanghai Faculty"
+    },
+    {
+      "type": "p",
+      "text": "Siyao Guo"
+    },
+    {
+      "type": "li",
+      "text": "Nick Gravin, Siyao Guo, Tsz Chiu Kwok and Pinyan Lu: Concentration Bounds for Almost K-wise Independence with Applications to Non-Uniform Security. In SODA 2021."
+    },
+    {
+      "type": "li",
+      "text": "Siyao Guo, Qian Li, Qipeng Liu and Jiapeng Zhang: Unifying Presampling via Concentration Bounds. In TCC 2021."
+    },
+    {
+      "type": "li",
+      "text": "Yevgeniy Dodis, Siyao Guo, Noah Stephens-Davidowitz and Zhiye Xie: No Time to Hash: Provable Super-Efficient Entropy Accumulation. In CRYPTO 2021."
+    },
+    {
+      "type": "li",
+      "text": "Yevgeniy Dodis, Siyao Guo, Noah Stephens-Davidowitz and Zhiye Xie: On Linear Extractors for Independent Sources. In ITC 2021."
+    },
+    {
+      "type": "li",
+      "text": "Alexander Golovnev, Siyao Guo, Thibaut Horel, Sunoo Park and Vinod Vaikuntanathan: Data Structures Meet Cryptography: 3 SUM with Preprocessing. In STOC 2020."
+    },
+    {
+      "type": "li",
+      "text": "Divesh Aggarwal, Siyao Guo, Maciej Obremski, Joao Ribeiro and Noah Stephens-Davidowitz: Extractor Lower Bounds, Revisited. In RANDOM 2020."
+    },
+    {
+      "type": "li",
+      "text": "Kai-Min Chung, Siyao Guo, Qipeng Liu and Luowen Qian: Tight Quantum Time-Space Tradeoffs for Function Inversion. In FOCS 2020."
+    },
+    {
+      "type": "li",
+      "text": "Siyao Guo, Pritish Kamath, Alon Rosen, Katerina Sotiraki: Limits on the Efficiency of (Ring) LWE based Non-Interactive Key Exchange. In PKC 2020 (and Invited to Journal of Cryptology)."
+    },
+    {
+      "type": "li",
+      "text": "Marshall Ball, Siyao Guo and Daniel Wichs: Non-Malleable Codes for Decision Trees. In CRYPTO 2019."
+    },
+    {
+      "type": "p",
+      "text": "Yucheng Lu"
+    },
+    {
+      "type": "li",
+      "text": "Jue Wang*, Yucheng Lu*, Binhang Yuan, Beidi Chen, Percy Liang, Chris De Sa, Chris Ré, Ce Zhang. CocktailSGD: Fine-tuning Foundation Models over 500Mbps Networks. In the Fortieth International Conference on Machine Learning (ICML) 2023."
+    },
+    {
+      "type": "li",
+      "text": "Yucheng Lu, Conglong Li, Minjia Zhang, Chris De Sa, Yuxiong He. Maximizing Communication Efficiency for Large-scale Training via 0/1 Adam. In the Eleventh International Conference on Learning Representations (ICLR) 2023."
+    },
+    {
+      "type": "li",
+      "text": "Yucheng Lu, Wentao Guo, Chris De Sa. GraB: Finding Provably Better Data Permutations than Random Reshuffling. In the Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022."
+    },
+    {
+      "type": "li",
+      "text": "Yucheng Lu, Si Yi Meng, Chris De Sa. A General Analysis of Example-Selection for Stochastic Gradient Descent. In the Tenth International Conference on Learning Representations (ICLR) 2022."
+    },
+    {
+      "type": "li",
+      "text": "Yucheng Lu, Chris De Sa. Optimal Complexity in Decentralized Training. In the Thirty-eighth International Conference on Machine Learning (ICML) 2021."
+    },
+    {
+      "type": "li",
+      "text": "Yucheng Lu, Chris De Sa. Moniqua: Modulo Quantized Communication in Decentralized SGD. In the Thirty-seventh International Conference on Machine Learning (ICML) 2020."
+    },
+    {
+      "type": "p",
+      "text": "Hua Shen"
+    },
+    {
+      "type": "li",
+      "text": "Shen, Hua, Tiffany Knearem, Reshmi Ghosh, et al. \"Position: Towards bidirectional human-ai alignment.\" NeurIPS 2025."
+    },
+    {
+      "type": "li",
+      "text": "Shen, Hua, Nicholas Clark, and Tanushree Mitra. \"Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values?.\" EMNLP, 2025."
+    },
+    {
+      "type": "li",
+      "text": "Shen, Hua, Chieh-Yang Huang, Tongshuang Wu, and Ting-Hao Kenneth Huang. \"ConvXAI: Delivering heterogeneous AI explanations via conversations to support human-AI scientific writing.\" CSCW Demo, 2023."
+    },
+    {
+      "type": "li",
+      "text": "Shen, Hua, Vicky Zayats, Johann C. Rocholl, Daniel D. Walker, and Dirk Padfield. \"Multiturncleanup: A benchmark for multi-turn spoken conversational transcript cleanup.\" EMNLP, 2023."
+    },
+    {
+      "type": "li",
+      "text": "Shen, Hua, Tongshuang Wu, Wenbo Guo, and Ting-Hao'Kenneth Huang. \"Are shortest rationales the best explanations for human understanding?.\" ACL, 2022."
+    },
+    {
+      "type": "p",
+      "text": "Qiaoyu Tan​"
+    },
+    {
+      "type": "li",
+      "text": "Junnan Dong, Qinggang Zhang, Xiao Huang, Keyu Duan, Qiaoyu Tan and Zhimeng Jiang. Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs, The Web Conference (WWW), 2023."
+    },
+    {
+      "type": "li",
+      "text": "Qiaoyu Tan, Ninghao Liu, Xiao Huang, Soo-Hyun Choi, Li Li, Rui Chen, and Xia Hu. S2GAE: Self-supervised graph autoencoders are generalizable learners with graph masking. In Proceedings of ACM International Conference on Web Search and Data Mining (WSDM), 2023."
+    },
+    {
+      "type": "li",
+      "text": "Qiaoyu Tan, Xin Zhang, Ninghao Liu, Daochen Zha, Li Li, Rui Chen, Soo-Hyun Choi and Xia Hu. Bring Your Own View: Graph Neural Networks for Link Prediction with Personalized Subgraph Selection, ACM International Conference on Web Search and Data Mining (WSDM), 2023."
+    },
+    {
+      "type": "li",
+      "text": "Qiaoyu Tan, Xin Zhang, Xiao Huang, Hao Chen, Jundong Li, and Xia Hu. Collaborative graph neural Networks for attributed network embedding. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023."
+    },
+    {
+      "type": "li",
+      "text": "Sirui Ding, Qiaoyu Tan, Chia-yuan Chang, Na Zou, Kai Zhang, Nathan R. Hoot, Xiaoqian Jiang, and Xia Hu. Multi-task learning for post-transplant cause of death analysis. In Proceedings of AMIA Annual Symposium (AMIA), 2023."
+    },
+    {
+      "type": "li",
+      "text": "Yucheng Shi, Yushun Dong, Qiaoyu Tan, Jundong Li and Ninghao Liu. GiGaMA: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction. ACM International Conference on Information and Knowledge Management (CIKM), 2023."
+    },
+    {
+      "type": "li",
+      "text": "Daochen Zha, Louis Feng, Qiaoyu Tan, Zirui Liu, Kwei-Herng, Bhargav, Bhushanam, Yuandong Tian, Arun Kejariwal and Xia Hu. DreamShard: Generalizable Embedding Table Placement for Recommender Systems. Neural Information Processing Systems (NeurIPS), 2022."
+    },
+    {
+      "type": "li",
+      "text": "Qiaoyu Tan, Jianwei Zhang, Ninghao Liu, Xiao Huang, Hongxia Yang, Jingren Zhou, and Xia Hu. Dynamic memory based attention network for sequential recommendation. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2021."
+    },
+    {
+      "type": "li",
+      "text": "Qiaoyu Tan, Ninghao Liu, Xing Zhao, Hongxia Yang, Jingren Zhou, and Xia Hu. Learning to hash with graph neural networks for recommender systems. In Proceedings of The Web Conference (WWW), 2020."
+    },
+    {
+      "type": "p",
+      "text": "Mingyuan Wang"
+    },
+    {
+      "type": "li",
+      "text": "​Scalable Multiparty Computation from Non-linear Secret Sharing, Sanjam Garg, Abhishek Jain, Pratyay Mukherjee, and Mingyuan Wang, CRYPTO 2024"
+    },
+    {
+      "type": "li",
+      "text": "How to Prove Statements Obliviously? Sanjam Garg, Aarushi Goel, and Mingyuan Wang, CRYPTO 2024"
+    },
+    {
+      "type": "li",
+      "text": "Threshold Encryption with Silent Setup, Sanjam Garg, Dimitris Kolonelos, Guru-Vamsi Policharla, and Mingyuan Wang, CRYPTO 2024"
+    },
+    {
+      "type": "li",
+      "text": "hinTS: Threshold Signatures with Silent Setup, Sanjam Garg, Abhishek Jain, Pratyay Mukherjee, Rohit Sinha, Mingyuan Wang, and Yinuo Zhang, IEEE S&P 2024"
+    },
+    {
+      "type": "li",
+      "text": "Leakage-resilience of the Shamir Secret-sharing Scheme against Physical-bit Leakages, Hemanta K. Maji, Hai H. Nguyen, Anat Paskin-Cherniavsky, Tom Suad, and Mingyuan Wang, EUROCRYPT 2021"
+    },
+    {
+      "type": "p",
+      "text": "Shengjie Wang"
+    },
+    {
+      "type": "li",
+      "text": "Machine Learning Force Fields with Data Cost Aware Training. A. Bukharin, T. Liu, S. Wang, S. Zuo, W. Gao, W. Yan, T. Zhao. ICML23"
+    },
+    {
+      "type": "li",
+      "text": "Constrained Robust Submodular Partitioning. S Wang*, T Zhou*, C Lavania, J Bilmes. NeurIPS21"
+    },
+    {
+      "type": "li",
+      "text": "Robust Curriculum Learning: from clean label detection to noisy label self-correction.T Zhou*, S Wang*, J Bilmes. ICLR21"
+    },
+    {
+      "type": "li",
+      "text": "Bias also matters: Bias attribution for deep neural network explanation. S Wang*, T Zhou*, J Bilmes. ICML19"
+    },
+    {
+      "type": "li",
+      "text": "Analysis of deep neural networks with extended data Jacobian matrix. S Wang, A Mohamed, R Caruana, J Bilmes, M Plilipose, M Richardson, K Geras, G Urban, O Aslan. ICML16"
+    },
+    {
+      "type": "p",
+      "text": "Zhaonan Wang"
+    },
+    {
+      "type": "li",
+      "text": "Z Wang, R Jiang, H Xue, FD Salim, X Song, R Shibasaki, W Hu, S Wang. 2024. Learning Spatio-Temporal Dynamics on Mobility Networks for Adaptation to Open-World Events. Artificial Intelligence, 104120."
+    },
+    {
+      "type": "li",
+      "text": "R Jiang*, Z Wang*, J Yong, P Jeph, Q Chen, Y Kobayashi, X Song, S Fukushima, T Suzumura. 2023. Spatio-Temporal Meta-Graph Learning for Traffic Forecasting. Proceedings of the AAAI conference on Artificial Intelligence 37 (7), 8078-8086."
+    },
+    {
+      "type": "li",
+      "text": "R Jiang*, Z Wang*, Y Tao, C Yang, X Song, R Shibasaki, SC Chen, ML Shyu. 2023. Learning Social Meta-Knowledge for Nowcasting Human Mobility in Disaster. Proceedings of the ACM Web Conference 2023, 2655-2665."
+    },
+    {
+      "type": "li",
+      "text": "Z Wang, R Jiang, H Xue, FD Salim, X Song, R Shibasaki. 2022. Event-Aware Multimodal Mobility Nowcasting. Proceedings of the AAAI Conference on Artificial Intelligence 36 (4), 4228-4236."
+    },
+    {
+      "type": "li",
+      "text": "Z Wang, T Xia, R Jiang, X Liu, KS Kim, X Song, R Shibasaki. 2021. Forecasting Ambulance Demand with Profiled Human Mobility via Heterogeneous Multi-Graph Neural Networks. 2021 IEEE 37th International Conference on Data Engineering (ICDE), 1751-1762."
+    },
+    {
+      "type": "p",
+      "text": "Hongyi Wen"
+    },
+    {
+      "type": "li",
+      "text": "Yuanhe Guo, Haoming Liu, and Hongyi Wen. \"Towards Personalized Prompt-Model Retrieval for Generative Recommendation.\" arXiv preprint arXiv:2308.02205 (2023)."
+    },
+    {
+      "type": "li",
+      "text": "Hongyi Wen, Xinyang Yi, Tiansheng Yao, Jiaxi Tang, Lichan Hong, Ed H. Chi. 2022. Distributionally-robust Recommendations for Improving Worst-case User Experience. In Proceedings of the ACM Web Conference 2022 (WWW ’22)."
+    },
+    {
+      "type": "li",
+      "text": "Hongyi Wen, Michael Sobolev, Rachel Vitale, James Kizer, JP Pollak, Frederick Muench, Deborah Estrin. “mPulse Mobile Sensing Model for Passive Detection of Impulsive Behavior: Exploratory Prediction Study”. JMIR Mental Health, 2021."
+    },
+    {
+      "type": "li",
+      "text": "Hongyi Wen, Longqi Yang, Deborah Estrin. “Leveraging post-click feedback for content recommendations”. Proceedings of the 13th ACM Conference on Recommender Systems (RecSys), 2019."
+    },
+    {
+      "type": "li",
+      "text": "Hongyi Wen, Julian Ramos Rojas, and Anind K. Dey. \"Serendipity: Finger gesture recognition using an off-the-shelf smartwatch.\" Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI), 2016."
+    },
+    {
+      "type": "p",
+      "text": "Jie Xue"
+    },
+    {
+      "type": "li",
+      "text": "Haitao Wang*, Jie Xue*, \"Near-optimal algorithms for shortest paths in weighted unit-disk graphs\". In the 35th International Symposium on Computational Geometry (SoCG), 2019. Also in Discrete & Computational Geometry, 2020."
+    },
+    {
+      "type": "li",
+      "text": "Pankaj K. Agarwal*, Hsien-Chih Chang*, Subhash Suri*, Allen Xiao*, Jie Xue*, \"Dynamic geometric set cover and hitting set\". In the 36th International Symposium on Computational Geometry (SoCG), 2020."
+    },
+    {
+      "type": "li",
+      "text": "Jie Xue, Yuan Li, Rahul Saladi, Ravi Janardan, \"Searching for the closest-pair in a query translate\". In the 35th International Symposium on Computational Geometry (SoCG), 2019."
+    },
+    {
+      "type": "p",
+      "text": "Chen Zhao"
+    },
+    {
+      "type": "li",
+      "text": "Zhao, C., Su, Y., Pauls, A., & Platanios, E. A. Bridging the generalization gap in text-to-SQL parsing with schema expansion. ACL 2022."
+    },
+    {
+      "type": "li",
+      "text": "Zhao, C., Xiong, C., Boyd-Graber, J., & Daumé III, H. (2021). Distantly-supervised evidence retrieval enables question answering without evidence annotation. EMNLP 2021."
+    },
+    {
+      "type": "li",
+      "text": "Zhao, C., Xiong, C., Qian, X., & Boyd-Graber, J. . Complex factoid question answering with a free-text knowledge graph. WWW 2020."
+    },
+    {
+      "type": "li",
+      "text": "Zhao, C., Xiong, C., Rosset, C., Song, X., Bennett, P., & Tiwary, S. (2020). Transformer-xh: Multi-evidence reasoning with extra hop attention. ICLR 2020."
+    },
+    {
+      "type": "h2",
+      "text": "Selected Faculty and Student Features"
+    },
+    {
+      "type": "p",
+      "text": "\"Reasoning Models Know When They’re Right\" (Chen Zhao)"
+    },
+    {
+      "type": "p",
+      "text": "\"Zhao Chen: Computer Science and Competitive Bridge\" (Chen Zhao)"
+    },
+    {
+      "type": "p",
+      "text": "\"What I’m Working On: Wang Mingyuan on Cryptography\" (Mingyuan Wang)"
+    },
+    {
+      "type": "p",
+      "text": "“Algorithm Solves Longstanding Geometric Challenge” (Jie Xue)"
+    },
+    {
+      "type": "p",
+      "text": "\"When the Going Gets Tough, the Tough Get Going\" (Yanqiu Wu)"
+    },
+    {
+      "type": "p",
+      "text": "\"NYU Shanghai Awards First-ever PhD\" (Sean Welleck)"
+    },
+    {
+      "type": "p",
+      "text": "\"Faculty Spotlight: Guo Siyao\" (Siyao Guo)"
+    },
+    {
+      "type": "p",
+      "text": "\"Professor Zhang Zheng to Head Amazon's New AI Lab in Shanghai\" (Zheng Zhang)"
+    },
+    {
+      "type": "h2",
+      "text": "Structure of Program"
+    },
+    {
+      "type": "p",
+      "text": "Participating students complete the PhD degree requirements set by the NYU Computer Science PhD Program. Each student develops an individualized course plan in consultation with the Director of Graduate Study at the student’s NYU department and the student’s NYU Shanghai faculty advisor. A typical sequence follows:"
+    },
+    {
+      "type": "p",
+      "text": "border"
+    },
+    {
+      "type": "p",
+      "text": "Begin program with funded research rotation, up to 3 months preceding first Fall semester, to familiarize with NYU Shanghai and faculty as well as lay a foundation for future doctoral study."
+    },
+    {
+      "type": "p",
+      "text": "border"
+    },
+    {
+      "type": "p",
+      "text": "Complete PhD coursework in New York alongside other NYU PhD students."
+    },
+    {
+      "type": "p",
+      "text": "border"
+    },
+    {
+      "type": "p",
+      "text": "Return to Shanghai for second funded research rotation to solidify relationships with NYU Shanghai faculty and make further progress in research."
+    },
+    {
+      "type": "p",
+      "text": "border"
+    },
+    {
+      "type": "p",
+      "text": "Under supervision of NYU Shanghai faculty advisor, pursue dissertation research and continue coursework. Depending on each student’s individualized course of study, return visits to New York may also occur. Complete all required examinations and progress evaluations, both oral and written, leading up to submission and defense of doctoral thesis."
+    },
+    {
+      "type": "p",
+      "text": "To learn more about the NYU Computer Science PhD program degree requirements, please visit this page."
+    },
+    {
+      "type": "h2",
+      "text": "Current Students"
+    },
+    {
+      "type": "h2",
+      "text": "Alumni"
+    },
+    {
+      "type": "h2",
+      "text": "Application Process and Dates"
+    },
+    {
+      "type": "p",
+      "text": "Applications are to be submitted through the NYU GSAS Application portal, within which students should select the Computer Science PhD as their program of interest, and then indicate their preference for NYU Shanghai by marking the appropriate checkbox when prompted. Applicants will be evaluated by a joint admissions committee of New York and Shanghai faculty. Application requirements are set by the NYU Computer Science PhD Program and are the same as those for all NYU PhD applicants, no matter their campus preference; however, candidates are recommended to elaborate in their application and personal statements about their specific interests in the NYU Shanghai program and faculty."
+    },
+    {
+      "type": "p",
+      "text": "For admission in Fall 2026, the application deadline is December 12, 2025."
+    },
+    {
+      "type": "h2",
+      "text": "Contact Us"
+    },
+    {
+      "type": "p",
+      "text": "Interested students are welcome to contact Vivien Du, program coordinator of the NYU Shanghai Computer Science PhD, via email at shanghai.phd@nyu.edu with any inquiries or to request more information."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/siyao-guo-300.jpg",
+      "alt": "Siyao Guo",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/siyao-guo-300-15a44b41b9b4.jpg",
+      "download_status": "downloaded",
+      "bytes": 77423,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Yucheng_0.jpg",
+      "alt": "Yucheng Lu",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Yucheng_0-0c61a1dacfae.jpg",
+      "download_status": "downloaded",
+      "bytes": 65965,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/nasir-memon.jpg",
+      "alt": "Nasir Memon",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nasir-memon-dd9230018824.jpg",
+      "download_status": "downloaded",
+      "bytes": 88185,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/hua.jpg",
+      "alt": "hua",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/qiaoyu-tan.jpg",
+      "alt": "Qiaoyu Tan",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/qiaoyu-tan-0644724b43d4.jpg",
+      "download_status": "downloaded",
+      "bytes": 67168,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Mingyuan-Wang.jpg",
+      "alt": "Mingyuan Wang",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Mingyuan-Wang-76e5b79a6e73.jpg",
+      "download_status": "downloaded",
+      "bytes": 95573,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/shengjie-wang.jpg",
+      "alt": "Shengjie Wang",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/shengjie-wang-17e17018a869.jpg",
+      "download_status": "downloaded",
+      "bytes": 104388,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/Zhaonan-Wang.jpg",
+      "alt": "Zhaonan Wang",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Zhaonan-Wang-e4668c596068.jpg",
+      "download_status": "downloaded",
+      "bytes": 103745,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/2_15.jpg",
+      "alt": "Hongyi Wen",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2_15-ce847f951207.jpg",
+      "download_status": "downloaded",
+      "bytes": 40344,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/12.jpeg",
+      "alt": "Jie Xue",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/12-49e276a2df3b.jpeg",
+      "download_status": "downloaded",
+      "bytes": 59565,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/chen-zhao.jpg",
+      "alt": "Chen Zhao",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/chen-zhao-6a6bfe10e39e.jpg",
+      "download_status": "downloaded",
+      "bytes": 103752,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/page/computer-science-phd-program",
+      "text": "Supervising Faculty",
+      "internal": true
+    },
+    {
+      "url": "https://sites.google.com/site/siyaoguo",
+      "text": "Siyao Guo",
+      "internal": false
+    },
+    {
+      "url": "https://www.yucheng-lu.me/",
+      "text": "Yucheng Lu",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/nasir-memon",
+      "text": "Nasir Memon",
+      "internal": true
+    },
+    {
+      "url": "https://hua-shen.org/",
+      "text": "Hua Shen",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/qiaoyu-tan",
+      "text": "Qiaoyu Tan",
+      "internal": true
+    },
+    {
+      "url": "https://sites.google.com/view/mingyuan-wang",
+      "text": "Mingyuan Wang",
+      "internal": false
+    },
+    {
+      "url": "https://sheng-jie-wang.github.io/",
+      "text": "Shengjie Wang",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/zhaonan-wang",
+      "text": "Zhaonan Wang",
+      "internal": true
+    },
+    {
+      "url": "https://whongyi.github.io",
+      "text": "Hongyi Wen",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jie-xue",
+      "text": "Jie Xue",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/chen-zhao",
+      "text": "Chen Zhao",
+      "internal": true
+    },
+    {
+      "url": "https://dail.shanghai.nyu.edu/news/reasoning-models-know-when-theyre-right",
+      "text": "Reasoning Models Know When They’re Right",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/is/zhao-chen-computer-science-and-competitive-bridge",
+      "text": "Zhao Chen: Computer Science and Competitive Bridge",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/is/what-im-working-wang-mingyuan-cryptography",
+      "text": "What I’m Working On: Wang Mingyuan on Cryptography",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/algorithm-solves-longstanding-geometric-challenge",
+      "text": "Algorithm Solves Longstanding Geometric Challenge",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/yanqiu-wu-phd22",
+      "text": "When the Going Gets Tough, the Tough Get Going",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-awards-first-ever-phd",
+      "text": "NYU Shanghai Awards First-ever PhD",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/faculty-spotlight-guo-siyao",
+      "text": "Faculty Spotlight: Guo Siyao",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/professor-zhang-zheng-head-amazons-new-ai-lab-shanghai",
+      "text": "Professor Zhang Zheng to Head Amazon's New AI Lab in Shanghai",
+      "internal": true
+    },
+    {
+      "url": "https://cs.nyu.edu/home/phd/index.html",
+      "text": "page",
+      "internal": false
+    },
+    {
+      "url": "https://gsas.nyu.edu/admissions/arc.html",
+      "text": "NYU GSAS Application portal",
+      "internal": false
+    },
+    {
+      "url": "http://gsas.nyu.edu/admissions/gsas-application-resource-center/2017-programs--requirements--and-deadlines/computer-science.html",
+      "text": "Application requirements",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 2329,
+  "crawled_at": "2026-06-09T04:30:45+00:00",
+  "sequence": 356
+}

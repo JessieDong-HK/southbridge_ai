@@ -1,0 +1,111 @@
+{
+  "id": "academics__faculty__directory__zhibin-chen-124f7a7e3b",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/zhibin-chen",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/zhibin-chen",
+  "page_type": "academics",
+  "title": "Zhibin",
+  "description": "Zhibin Chen is the Associate Area Head of Engineering, an Assistant Professor of Engineering at NYU Shanghai, and a Global Network Assistant Professor at the Tandon School of Engineering at NYU. Prior to this appointment, he was a research fellow in the Department of Civil and Environmental",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Zhibin Chen\nZhibin Chen is the Associate Area Head of Engineering, an Assistant Professor of Engineering at NYU Shanghai, and a Global Network Assistant Professor at the Tandon School of Engineering at NYU. Prior to this appointment, he was a research fellow in the Department of Civil and Environmental Engineering at the University of Michigan, Ann Arbor. Dr. Chen’s research goal is to identify, develop, and implement emerging technologies to achieve a safer, more efficient, and environment-friendly transportation system. He was the recipient of the Stella Dafermos Best Paper Award and the Ryuichi Kitamura Paper Award at the 95th TRB Annual Meeting.\nSelect Publications\nHao, Y., Chen, Z.*, Sun, X., & Tong, L. (2025). Planning of truck platooning for road-network capacitated vehicle routing problem. Transportation Research Part E: Logistics and Transportation Review, 194, 103898.\nDeng, Y., Chen, Z.*, & Lin, X. (2025). Cost-competitiveness analysis of mobile chargers in an electric vehicle parking and charging system. Transportation Research Part C: Emerging Technologies, 171, 104951.\nLiu, Y., Chen, Z.*, & Wang, X. (2024). Alleviating bus bunching via modular vehicles. Transportation Research Part B: Methodological (Special issue on ISTTT 25), 189, 103051.\nLin, X., Chen, Z.*, Li, M., & He, F. (2024). Bunching-proof capabilities of modular buses: an analytical assessment. Transportation Science, 58(5), 925-946.\nLi, Z., Xu, Z., Chen, Z.*, Xie, C., Chen, G., & Zhong, M. (2023). An empirical analysis of electric vehicles’ charging patterns. Transportation Research Part D: Transport and Environment, 117, 103651.\nEducation\nPhD, Transportation EngineeringUniversity of Florida\nB.S., Transportation EngineeringSun Yat-sen University\nNetwork Modeling & Optimization\nEmerging Vehicle Technologies\nEmerging Vehicle Technologies\nEmerging Technologies for Smart Cities\nIntroduction to Optimization and Mathematical Programming",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Zhibin Chen"
+    },
+    {
+      "type": "p",
+      "text": "Zhibin Chen is the Associate Area Head of Engineering, an Assistant Professor of Engineering at NYU Shanghai, and a Global Network Assistant Professor at the Tandon School of Engineering at NYU. Prior to this appointment, he was a research fellow in the Department of Civil and Environmental Engineering at the University of Michigan, Ann Arbor. Dr. Chen’s research goal is to identify, develop, and implement emerging technologies to achieve a safer, more efficient, and environment-friendly transportation system. He was the recipient of the Stella Dafermos Best Paper Award and the Ryuichi Kitamura Paper Award at the 95th TRB Annual Meeting."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Hao, Y., Chen, Z.*, Sun, X., & Tong, L. (2025). Planning of truck platooning for road-network capacitated vehicle routing problem. Transportation Research Part E: Logistics and Transportation Review, 194, 103898."
+    },
+    {
+      "type": "li",
+      "text": "Deng, Y., Chen, Z.*, & Lin, X. (2025). Cost-competitiveness analysis of mobile chargers in an electric vehicle parking and charging system. Transportation Research Part C: Emerging Technologies, 171, 104951."
+    },
+    {
+      "type": "li",
+      "text": "Liu, Y., Chen, Z.*, & Wang, X. (2024). Alleviating bus bunching via modular vehicles. Transportation Research Part B: Methodological (Special issue on ISTTT 25), 189, 103051."
+    },
+    {
+      "type": "li",
+      "text": "Lin, X., Chen, Z.*, Li, M., & He, F. (2024). Bunching-proof capabilities of modular buses: an analytical assessment. Transportation Science, 58(5), 925-946."
+    },
+    {
+      "type": "li",
+      "text": "Li, Z., Xu, Z., Chen, Z.*, Xie, C., Chen, G., & Zhong, M. (2023). An empirical analysis of electric vehicles’ charging patterns. Transportation Research Part D: Transport and Environment, 117, 103651."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Transportation EngineeringUniversity of Florida"
+    },
+    {
+      "type": "li",
+      "text": "B.S., Transportation EngineeringSun Yat-sen University"
+    },
+    {
+      "type": "li",
+      "text": "Network Modeling & Optimization"
+    },
+    {
+      "type": "li",
+      "text": "Emerging Vehicle Technologies"
+    },
+    {
+      "type": "p",
+      "text": "Emerging Vehicle Technologies"
+    },
+    {
+      "type": "li",
+      "text": "Emerging Technologies for Smart Cities"
+    },
+    {
+      "type": "li",
+      "text": "Introduction to Optimization and Mathematical Programming"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/zhi_ye_zhao_2_1.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/zhi_ye_zhao_2_1-f6598981d3c3.jpg",
+      "download_status": "downloaded",
+      "bytes": 1529806,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://wp.nyu.edu/lists",
+      "text": "https://wp.nyu.edu/lists/",
+      "internal": false
+    },
+    {
+      "url": "http://trb-networkmodeling.org/about/awards",
+      "text": "Stella Dafermos Best Paper Award",
+      "internal": false
+    },
+    {
+      "url": "https://its.ucdavis.edu/make-a-gift/kitamura-paper-award",
+      "text": "Ryuichi Kitamura Paper Award",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 277,
+  "crawled_at": "2026-06-09T04:41:21+00:00",
+  "sequence": 1372
+}

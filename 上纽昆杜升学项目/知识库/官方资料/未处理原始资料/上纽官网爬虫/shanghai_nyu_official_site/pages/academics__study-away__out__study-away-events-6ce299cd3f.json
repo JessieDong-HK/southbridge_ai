@@ -1,0 +1,134 @@
+{
+  "id": "academics__study-away__out__study-away-events-6ce299cd3f",
+  "url": "https://shanghai.nyu.edu/academics/study-away/out/study-away-events",
+  "canonical_url": "https://shanghai.nyu.edu/academics/study-away/out/study-away-events",
+  "page_type": "academics",
+  "title": "Study Away Events",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Study Away Events\nAcademic Advising has set up a series of study away events for students at different stages of the study away cycle.\nGlobal Week\nA week of study away info sessions, during which you can also meet with the global programs team and hear about other students’ study away experiences.\nPre-Departure Orientation\nPrepare to embark on your study away journey, and connect with the community at your destination.\nRe-Entry Program\nReintegrate back into the Shanghai community, reflect on your global experiences, and prepare for your final year at NYU Shanghai and beyond.\nVideo Contest: Qilins Around the World\nWhether studying in Shanghai, at a global site, or remotely, we invite you to share your unique global experiences with the broader NYU Shanghai community.\nPast Events\nInternships and Research Opportunities at NYUAD (Recording)",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Study Away Events"
+    },
+    {
+      "type": "p",
+      "text": "Academic Advising has set up a series of study away events for students at different stages of the study away cycle."
+    },
+    {
+      "type": "h4",
+      "text": "Global Week"
+    },
+    {
+      "type": "p",
+      "text": "A week of study away info sessions, during which you can also meet with the global programs team and hear about other students’ study away experiences."
+    },
+    {
+      "type": "h4",
+      "text": "Pre-Departure Orientation"
+    },
+    {
+      "type": "p",
+      "text": "Prepare to embark on your study away journey, and connect with the community at your destination."
+    },
+    {
+      "type": "h4",
+      "text": "Re-Entry Program"
+    },
+    {
+      "type": "p",
+      "text": "Reintegrate back into the Shanghai community, reflect on your global experiences, and prepare for your final year at NYU Shanghai and beyond."
+    },
+    {
+      "type": "h4",
+      "text": "Video Contest: Qilins Around the World"
+    },
+    {
+      "type": "p",
+      "text": "Whether studying in Shanghai, at a global site, or remotely, we invite you to share your unique global experiences with the broader NYU Shanghai community."
+    },
+    {
+      "type": "h3",
+      "text": "Past Events"
+    },
+    {
+      "type": "p",
+      "text": "Internships and Research Opportunities at NYUAD (Recording)"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/study-away-out-05-1.jpg",
+      "alt": "Global Week",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/study-away-out-05-1-b500e77925c0.jpg",
+      "download_status": "downloaded",
+      "bytes": 50542,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/study-away-out-05-2.jpg",
+      "alt": "Pre-Departure Orientation",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/study-away-out-05-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/study-away-out-05-3.jpg",
+      "alt": "Re-Entry Program",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/study-away-out-05-3-c39e04754493.jpg",
+      "download_status": "downloaded",
+      "bytes": 72127,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/study-away-out-05-4.jpg",
+      "alt": "Video Contest: Qilins Around the World",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/study-away-out-05-4-725a0a1f5651.jpg",
+      "download_status": "downloaded",
+      "bytes": 80427,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/academics/study-away/out/study-away-events/global-week",
+      "text": "Global Week",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/study-away/out/study-away-events/pre-departure-orientation",
+      "text": "Pre-Departure Orientation",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/study-away/out/study-away-events/re-entry-program",
+      "text": "Re-Entry Program",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/study-away/out/study-away-events/video-contest",
+      "text": "Video Contest: Qilins Around the World",
+      "internal": true
+    },
+    {
+      "url": "https://drive.google.com/file/d/1rX3tHyKS4Kxk733tXq0iHNKEJ-bBIgCd/view",
+      "text": "Recording",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 136,
+  "crawled_at": "2026-06-09T04:41:41+00:00",
+  "sequence": 1403
+}

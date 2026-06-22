@@ -1,0 +1,116 @@
+{
+  "id": "academics__faculty__directory__mathieu-lauriere-ead4bf6a87",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/mathieu-lauriere",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/mathieu-lauriere",
+  "page_type": "academics",
+  "title": "Mathieu",
+  "description": "Mathieu Lauriere is currently an assistant professor of Mathematics and Data Science at NYU Shanghai. He obtained his MS from University Paris 6 and ENS Cachan, and his PhD from University Paris 7. He was a Postdoctoral Fellow at the NYU-ECNU Institute of Mathematical Sciences at NYU Shanghai and a",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Mathieu Laurière\nMathieu Lauriere is currently an assistant professor of Mathematics and Data Science at NYU Shanghai. He obtained his MS from University Paris 6 and ENS Cachan, and his PhD from University Paris 7. He was a Postdoctoral Fellow at the NYU-ECNU Institute of Mathematical Sciences at NYU Shanghai and a Postdoctoral Research Associate at Princeton University, in the Operations Research and Financial Engineering (ORFE) department. Prior to his current position NYU Shanghai, he was a Visiting Faculty Researcher at Google Research, in the Brain Team (Paris).\nSelect Publications\nCarmona, R., & Laurière, M. (2022). Convergence analysis of machine learning algorithms for the numerical solution of mean field control and games: II—the finite horizon case. The Annals of Applied Probability, 32(6), 4065-4105.\nAchdou, Y., & Laurière, M. (2020). Mean field games and applications: Numerical aspects. Mean Field Games: Cetraro, Italy 2019, 249-307.\nAurell, A., Carmona, R., Dayanikli, G., & Lauriere, M. (2022). Optimal incentives to mitigate epidemics: a Stackelberg mean field game approach. SIAM Journal on Control and Optimization, 60(2), S294-S322.\nAchdou, Y., Lauriere, M., & Lions, P. L. (2021). Optimal control of conditioned processes with feedback controls. Journal de Mathématiques Pures et Appliquées, 148, 308-341.\nLauriere, M., Perrin, S., Girgin, S., Muller, P., Jain, A., Cabannes, T., Piliouras, G., Perolat, J., Elie, R., Pietquin, O., Geist, M. Proceedings of the 39th International Conference on Machine Learning, PMLR 162:12078-12095, 2022.\nEducation\nPhD, Mathematics and Computer ScienceUniversity of Paris\nMS, MathematicsSorbonne University\nMS, Computer ScienceEcole Normale Supérieure Paris-Saclay\nNumerical methods\nPartial differential equations\nStochastic analysis\nMachine learning\nAI for Science\nMean field control and mean field games\nComplexity theory\nQuantum computing",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Mathieu Laurière"
+    },
+    {
+      "type": "p",
+      "text": "Mathieu Lauriere is currently an assistant professor of Mathematics and Data Science at NYU Shanghai. He obtained his MS from University Paris 6 and ENS Cachan, and his PhD from University Paris 7. He was a Postdoctoral Fellow at the NYU-ECNU Institute of Mathematical Sciences at NYU Shanghai and a Postdoctoral Research Associate at Princeton University, in the Operations Research and Financial Engineering (ORFE) department. Prior to his current position NYU Shanghai, he was a Visiting Faculty Researcher at Google Research, in the Brain Team (Paris)."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Carmona, R., & Laurière, M. (2022). Convergence analysis of machine learning algorithms for the numerical solution of mean field control and games: II—the finite horizon case. The Annals of Applied Probability, 32(6), 4065-4105."
+    },
+    {
+      "type": "li",
+      "text": "Achdou, Y., & Laurière, M. (2020). Mean field games and applications: Numerical aspects. Mean Field Games: Cetraro, Italy 2019, 249-307."
+    },
+    {
+      "type": "li",
+      "text": "Aurell, A., Carmona, R., Dayanikli, G., & Lauriere, M. (2022). Optimal incentives to mitigate epidemics: a Stackelberg mean field game approach. SIAM Journal on Control and Optimization, 60(2), S294-S322."
+    },
+    {
+      "type": "li",
+      "text": "Achdou, Y., Lauriere, M., & Lions, P. L. (2021). Optimal control of conditioned processes with feedback controls. Journal de Mathématiques Pures et Appliquées, 148, 308-341."
+    },
+    {
+      "type": "li",
+      "text": "Lauriere, M., Perrin, S., Girgin, S., Muller, P., Jain, A., Cabannes, T., Piliouras, G., Perolat, J., Elie, R., Pietquin, O., Geist, M. Proceedings of the 39th International Conference on Machine Learning, PMLR 162:12078-12095, 2022."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Mathematics and Computer ScienceUniversity of Paris"
+    },
+    {
+      "type": "li",
+      "text": "MS, MathematicsSorbonne University"
+    },
+    {
+      "type": "li",
+      "text": "MS, Computer ScienceEcole Normale Supérieure Paris-Saclay"
+    },
+    {
+      "type": "li",
+      "text": "Numerical methods"
+    },
+    {
+      "type": "li",
+      "text": "Partial differential equations"
+    },
+    {
+      "type": "li",
+      "text": "Stochastic analysis"
+    },
+    {
+      "type": "li",
+      "text": "Machine learning"
+    },
+    {
+      "type": "li",
+      "text": "AI for Science"
+    },
+    {
+      "type": "li",
+      "text": "Mean field control and mean field games"
+    },
+    {
+      "type": "li",
+      "text": "Complexity theory"
+    },
+    {
+      "type": "li",
+      "text": "Quantum computing"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/lauriere_mathieu_2022.jpeg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/lauriere_mathieu_2022.jpeg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://cs.shanghai.nyu.edu/faculty/mathieu-lauriere",
+      "text": "https://cs.shanghai.nyu.edu/faculty/mathieu-lauriere",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 278,
+  "crawled_at": "2026-06-09T04:40:39+00:00",
+  "sequence": 1307
+}

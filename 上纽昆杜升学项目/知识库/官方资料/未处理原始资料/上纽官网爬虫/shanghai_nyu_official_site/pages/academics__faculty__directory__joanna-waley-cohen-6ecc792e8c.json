@@ -1,0 +1,66 @@
+{
+  "id": "academics__faculty__directory__joanna-waley-cohen-6ecc792e8c",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/joanna-waley-cohen",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/joanna-waley-cohen",
+  "page_type": "academics",
+  "title": "Joanna",
+  "description": "Joanna Waley-Cohen is the Provost Emerita and Affiliated Professor of History at NYU Shanghai and Julius Silver Professor of History at New York University, where she has taught Chinese history since 1992. She served as Provost of NYU Shanghai from 2014 to 2025, following her role as the",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Joanna Waley-Cohen\nJoanna Waley-Cohen is the Provost Emerita and Affiliated Professor of History at NYU Shanghai and Julius Silver Professor of History at New York University, where she has taught Chinese history since 1992. She served as Provost of NYU Shanghai from 2014 to 2025, following her role as the university’s inaugural Dean of Arts and Sciences from 2012 to 2014.\nHer research interests include early modern Chinese history, China and the West, and Chinese imperial culture, especially in the Qianlong era.\nShe has received many honors, including archival and postdoctoral fellowships from the American Council of Learned Societies, Goddard and Presidential Fellowships from NYU, and an Olin Fellowship in Military and Strategic History from Yale. Waley-Cohen's books include The Culture of War in China: Empire and the Military under the Qing Dynasty (I.B. Tauris, 2006), The Sextants of Beijing: Global Currents in Chinese History (W.W. Norton, 1999), and Exile in Mid-Qing China: Banishment to Xinjiang, 1758-1820 (Yale University Press, 1991). Her current scholarly projects include an ongoing analysis of the place of gastronomy in Chinese culture and a new study of the historical interrelationship of domestic and foreign affairs in Britain, China, and North America.\nEducation\nPhD, HistoryYale University\nPhD, HistoryYale University\nMA, Chinese StudiesCambridge University\nMA, Chinese StudiesCambridge University",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Joanna Waley-Cohen"
+    },
+    {
+      "type": "p",
+      "text": "Joanna Waley-Cohen is the Provost Emerita and Affiliated Professor of History at NYU Shanghai and Julius Silver Professor of History at New York University, where she has taught Chinese history since 1992. She served as Provost of NYU Shanghai from 2014 to 2025, following her role as the university’s inaugural Dean of Arts and Sciences from 2012 to 2014."
+    },
+    {
+      "type": "p",
+      "text": "Her research interests include early modern Chinese history, China and the West, and Chinese imperial culture, especially in the Qianlong era."
+    },
+    {
+      "type": "p",
+      "text": "She has received many honors, including archival and postdoctoral fellowships from the American Council of Learned Societies, Goddard and Presidential Fellowships from NYU, and an Olin Fellowship in Military and Strategic History from Yale. Waley-Cohen's books include The Culture of War in China: Empire and the Military under the Qing Dynasty (I.B. Tauris, 2006), The Sextants of Beijing: Global Currents in Chinese History (W.W. Norton, 1999), and Exile in Mid-Qing China: Banishment to Xinjiang, 1758-1820 (Yale University Press, 1991). Her current scholarly projects include an ongoing analysis of the place of gastronomy in Chinese culture and a new study of the historical interrelationship of domestic and foreign affairs in Britain, China, and North America."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, HistoryYale University"
+    },
+    {
+      "type": "p",
+      "text": "PhD, HistoryYale University"
+    },
+    {
+      "type": "li",
+      "text": "MA, Chinese StudiesCambridge University"
+    },
+    {
+      "type": "p",
+      "text": "MA, Chinese StudiesCambridge University"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/joana-280.jpg",
+      "alt": "Photo of Joanna Waley-Cohen",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 220,
+  "crawled_at": "2026-06-09T04:33:51+00:00",
+  "sequence": 724
+}

@@ -1,0 +1,34 @@
+{
+  "id": "cn__leadership__jeff-cb7c26685b",
+  "url": "https://shanghai.nyu.edu/cn/leadership/jeff",
+  "canonical_url": "https://shanghai.nyu.edu/cn/leadership/jeff",
+  "page_type": "cn",
+  "title": "雷蒙（Jeffrey S. Lehman)",
+  "description": "杰弗里·雷蒙自2012年以来担任上海纽约大学创校常务副校长（美方校长）。此前他曾担任美国康奈尔大学第11任校长、密歇根大学法学院院长，以及北京大学国际法学院创院院长等职务。 接任大学领导职务之前，雷蒙是密歇根大学法律与公共政策终身教授，并曾任耶鲁大学法学院和巴黎第二大学客座教授，伍德罗·威尔逊国际学者中心任常驻高级研究员。从教之前，雷蒙曾先后担任美国最高法院大法官约翰·史蒂文斯和美国联邦上诉法院第一巡回庭首席法官弗兰克·科芬的法官助理。 社会职务方面，雷蒙曾任美国法学院院长协会主席、上海美国商会董事会主席等，目前还是美国法律协会终身成员、美国外交关系协会会员，以及美中关系全国委员会成员。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "雷蒙（Jeffrey S. Lehman)",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "雷蒙（Jeffrey S. Lehman)"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/profile/jeffrey_s_lehman_1_1.jpg?itok=3dXoo0My",
+      "alt": "Jeffrey S Lehman",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 4,
+  "crawled_at": "2026-06-09T04:36:30+00:00",
+  "sequence": 921
+}

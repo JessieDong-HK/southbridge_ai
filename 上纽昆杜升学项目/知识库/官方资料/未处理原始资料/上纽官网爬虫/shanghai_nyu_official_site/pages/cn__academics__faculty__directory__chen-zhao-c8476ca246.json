@@ -1,0 +1,86 @@
+{
+  "id": "cn__academics__faculty__directory__chen-zhao-c8476ca246",
+  "url": "https://shanghai.nyu.edu/cn/academics/faculty/directory/chen-zhao",
+  "canonical_url": "https://shanghai.nyu.edu/cn/academics/faculty/directory/chen-zhao",
+  "page_type": "cn",
+  "title": "赵晨 (Chen",
+  "description": "赵晨现任上海纽约大学计算机科学助理教授。他也是纽约大学数据科学中心成员。赵教授曾在纽约大学担任博士后研究员，并在 Kyunghyun Cho 教授和 He He 教授的指导下开展研究工作。赵教授在马里兰大学学院帕克分校获得博士学位，师从 Jordan Boyd-Graber 教授和 Hal Daumé III 教授。 赵教授的研究领域为自然语言处理。他的研究致力于推动智能代理具备推理能力的发展，并使其在真实场景中可以可靠而稳健的应用。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "赵晨 (Chen Zhao)\n赵晨现任上海纽约大学计算机科学助理教授。他也是纽约大学数据科学中心成员。赵教授曾在纽约大学担任博士后研究员，并在 Kyunghyun Cho 教授和 He He 教授的指导下开展研究工作。赵教授在马里兰大学学院帕克分校获得博士学位，师从 Jordan Boyd-Graber 教授和 Hal Daumé III 教授。\n赵教授的研究领域为自然语言处理。他的研究致力于推动智能代理具备推理能力的发展，并使其在真实场景中可以可靠而稳健的应用。\n代表性论著\nZhao, C., Su, Y., Pauls, A., & Platanios, E. A. Bridging the generalization gap in text-to-SQL parsing with schema expansion. ACL 2022.\nZhao, C., Xiong, C., Rosset, C., Song, X., Bennett, P., & Tiwary, S. (2020). Transformer-xh: Multi-evidence reasoning with extra hop attention. ICLR 2020.\nZhao, C., Xiong, C., Boyd-Graber, J., & Daumé III, H. (2021). Distantly-supervised evidence retrieval enables question answering without evidence annotation. EMNLP 2021.\nZhao, C., Xiong, C., Qian, X., & Boyd-Graber, J. . Complex factoid question answering with a free-text knowledge graph. WWW 2020.\n教育背景\n马里兰大学学院帕克分校 计算机科学博士\n浙江大学 计算机科学学士\n自然语言处理\n人机交互\n机器学习",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "赵晨 (Chen Zhao)"
+    },
+    {
+      "type": "p",
+      "text": "赵晨现任上海纽约大学计算机科学助理教授。他也是纽约大学数据科学中心成员。赵教授曾在纽约大学担任博士后研究员，并在 Kyunghyun Cho 教授和 He He 教授的指导下开展研究工作。赵教授在马里兰大学学院帕克分校获得博士学位，师从 Jordan Boyd-Graber 教授和 Hal Daumé III 教授。"
+    },
+    {
+      "type": "p",
+      "text": "赵教授的研究领域为自然语言处理。他的研究致力于推动智能代理具备推理能力的发展，并使其在真实场景中可以可靠而稳健的应用。"
+    },
+    {
+      "type": "h3",
+      "text": "代表性论著"
+    },
+    {
+      "type": "li",
+      "text": "Zhao, C., Su, Y., Pauls, A., & Platanios, E. A. Bridging the generalization gap in text-to-SQL parsing with schema expansion. ACL 2022."
+    },
+    {
+      "type": "li",
+      "text": "Zhao, C., Xiong, C., Rosset, C., Song, X., Bennett, P., & Tiwary, S. (2020). Transformer-xh: Multi-evidence reasoning with extra hop attention. ICLR 2020."
+    },
+    {
+      "type": "li",
+      "text": "Zhao, C., Xiong, C., Boyd-Graber, J., & Daumé III, H. (2021). Distantly-supervised evidence retrieval enables question answering without evidence annotation. EMNLP 2021."
+    },
+    {
+      "type": "li",
+      "text": "Zhao, C., Xiong, C., Qian, X., & Boyd-Graber, J. . Complex factoid question answering with a free-text knowledge graph. WWW 2020."
+    },
+    {
+      "type": "h3",
+      "text": "教育背景"
+    },
+    {
+      "type": "li",
+      "text": "马里兰大学学院帕克分校 计算机科学博士"
+    },
+    {
+      "type": "li",
+      "text": "浙江大学 计算机科学学士"
+    },
+    {
+      "type": "li",
+      "text": "自然语言处理"
+    },
+    {
+      "type": "li",
+      "text": "人机交互"
+    },
+    {
+      "type": "li",
+      "text": "机器学习"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/chenphoto_1.jpeg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/chenphoto_1.jpeg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 126,
+  "crawled_at": "2026-06-09T04:37:45+00:00",
+  "sequence": 1073
+}

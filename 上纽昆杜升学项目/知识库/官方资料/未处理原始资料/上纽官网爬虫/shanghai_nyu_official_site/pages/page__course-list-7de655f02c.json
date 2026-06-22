@@ -1,0 +1,90 @@
+{
+  "id": "page__course-list-7de655f02c",
+  "url": "https://shanghai.nyu.edu/page/course-list",
+  "canonical_url": "https://shanghai.nyu.edu/page/course-list",
+  "page_type": "page",
+  "title": "Course List",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Course List\nThe following Graduate Semester Study courses are offered at NYU Shanghai. All are required courses within the core curricula of each master’s program and count toward a student’s degree requirements. Participating students must take and continue in all courses; once your Semester Study in Shanghai has started, you may not drop them.\nSPS Start@NYU Shanghai - MS in Integrated Marketing\nINTG1-GC1000 Integrated Marketing\nINTG1-GC1005 Campaign I: Strategy & Execution\nINTG1-GC1055 Statistical Measurements, Analysis & Research\nINTG1-GC1035 Digital Marketing\nMASY1-GC 1015 Quantitative Methods for Business Analysis\nMASY1-GC 1115 Management Skills for Technology Professionals\nMASY1-GC 1500 Database Management\nMASY1-GC 1600 Managing Technical Projects\nMOT Shanghai-NYC - MS in Management of Technology\nMG-GY 6013 Organizational Behavior\nMG-GY 6033 Financial Analysis for Technology Managers\nMG-GY 6203 Data Visualization",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Course List"
+    },
+    {
+      "type": "p",
+      "text": "The following Graduate Semester Study courses are offered at NYU Shanghai. All are required courses within the core curricula of each master’s program and count toward a student’s degree requirements. Participating students must take and continue in all courses; once your Semester Study in Shanghai has started, you may not drop them."
+    },
+    {
+      "type": "p",
+      "text": "SPS Start@NYU Shanghai - MS in Integrated Marketing"
+    },
+    {
+      "type": "li",
+      "text": "INTG1-GC1000 Integrated Marketing"
+    },
+    {
+      "type": "li",
+      "text": "INTG1-GC1005 Campaign I: Strategy & Execution"
+    },
+    {
+      "type": "li",
+      "text": "INTG1-GC1055 Statistical Measurements, Analysis & Research"
+    },
+    {
+      "type": "li",
+      "text": "INTG1-GC1035 Digital Marketing"
+    },
+    {
+      "type": "li",
+      "text": "MASY1-GC 1015 Quantitative Methods for Business Analysis"
+    },
+    {
+      "type": "li",
+      "text": "MASY1-GC 1115 Management Skills for Technology Professionals"
+    },
+    {
+      "type": "li",
+      "text": "MASY1-GC 1500 Database Management"
+    },
+    {
+      "type": "li",
+      "text": "MASY1-GC 1600 Managing Technical Projects"
+    },
+    {
+      "type": "p",
+      "text": "MOT Shanghai-NYC - MS in Management of Technology"
+    },
+    {
+      "type": "li",
+      "text": "MG-GY 6013 Organizational Behavior"
+    },
+    {
+      "type": "li",
+      "text": "MG-GY 6033 Financial Analysis for Technology Managers"
+    },
+    {
+      "type": "li",
+      "text": "MG-GY 6203 Data Visualization"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-nyu_semester-3-2.jpg",
+      "alt": "Course List",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-nyu_semester-3-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 137,
+  "crawled_at": "2026-06-09T04:42:35+00:00",
+  "sequence": 1481
+}

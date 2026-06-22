@@ -1,0 +1,147 @@
+{
+  "id": "page__printing-b11706a03c",
+  "url": "https://shanghai.nyu.edu/page/printing",
+  "canonical_url": "https://shanghai.nyu.edu/page/printing",
+  "page_type": "page",
+  "title": "Printing",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Printing\nThe academic building and all residence halls are equipped with multi-functional printers.\nWho is this service available to?\nThe NYU Shanghai community, including students, faculty, staff, and other users with Campus Cards\nHow much does this service cost?\nFaculty and Staff: FreeStudents: 50 RMB per semester Black & White copies: 0.09 RMB per page Color: 1.2 RMB per page\nHow can users access this service?\nInstall the Printer drive on your device:Mac, Windows (64-bit)/ (32-bit), Linux\nInformation about using printers\nShanghai Printing Knowledgebase:\nInstall the printer driver for Windows/Mac computers\nColor printing in NYU Shanghai\nPrinting via Email\nPrint Station Locations\nNeed help?\nSubmit a request on support.nyu.edu\nSend a request through WeChat\nEmail to shanghai.it.help@nyu.edu\nVisit the IT Service Center: Room N525 @ New Bund Campus",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Printing"
+    },
+    {
+      "type": "p",
+      "text": "The academic building and all residence halls are equipped with multi-functional printers."
+    },
+    {
+      "type": "h2",
+      "text": "Who is this service available to?"
+    },
+    {
+      "type": "p",
+      "text": "The NYU Shanghai community, including students, faculty, staff, and other users with Campus Cards"
+    },
+    {
+      "type": "h2",
+      "text": "How much does this service cost?"
+    },
+    {
+      "type": "p",
+      "text": "Faculty and Staff: FreeStudents: 50 RMB per semester Black & White copies: 0.09 RMB per page Color: 1.2 RMB per page"
+    },
+    {
+      "type": "h2",
+      "text": "How can users access this service?"
+    },
+    {
+      "type": "p",
+      "text": "Install the Printer drive on your device:Mac, Windows (64-bit)/ (32-bit), Linux"
+    },
+    {
+      "type": "h2",
+      "text": "Information about using printers"
+    },
+    {
+      "type": "p",
+      "text": "Shanghai Printing Knowledgebase:"
+    },
+    {
+      "type": "li",
+      "text": "Install the printer driver for Windows/Mac computers"
+    },
+    {
+      "type": "li",
+      "text": "Color printing in NYU Shanghai"
+    },
+    {
+      "type": "li",
+      "text": "Printing via Email"
+    },
+    {
+      "type": "li",
+      "text": "Print Station Locations"
+    },
+    {
+      "type": "h2",
+      "text": "Need help?"
+    },
+    {
+      "type": "li",
+      "text": "Submit a request on support.nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Send a request through WeChat"
+    },
+    {
+      "type": "li",
+      "text": "Email to shanghai.it.help@nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Visit the IT Service Center: Room N525 @ New Bund Campus"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/printer_installer_for_macos.dmg.zip",
+      "text": "Mac",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/nyu_shanghai_print_service_for_x64.zip",
+      "text": "Windows (64-bit)",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/nyu_shanghai_print_service_for_w2k.zip",
+      "text": "(32-bit)",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/printer_installer_for_linux.zip",
+      "text": "Linux",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011846",
+      "text": "Install the printer driver for Windows/Mac computers",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011850",
+      "text": "Color printing in NYU Shanghai",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011847",
+      "text": "Printing via Email",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011857",
+      "text": "Print Station Locations",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=sc_cat_item&sys_id=5110048e1bd85a103f31a9b6624bcb5d",
+      "text": "Submit a request on support.nyu.edu",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011955",
+      "text": "Send a request through WeChat",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 139,
+  "crawled_at": "2026-06-09T04:31:43+00:00",
+  "sequence": 477
+}

@@ -1,0 +1,144 @@
+{
+  "id": "page__high-performance-computing-ae82dc7699",
+  "url": "https://shanghai.nyu.edu/page/high-performance-computing",
+  "canonical_url": "https://shanghai.nyu.edu/page/high-performance-computing",
+  "page_type": "page",
+  "title": "High Performance Computing",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "High Performance Computing\nThe specialized High Performance Computing (HPC) team can help design network integration and system infrastructure in academic labs. They can also support research labs.\nNYU Shanghai HPC Committee Members:\nAllann Bellenger, Head of IT Services Management, IT department\nAnqi Qian, Vice Provost for Research, Director of Research Institutes\nGuangchao Hu, HPC Specialist, IT department\nHanghui Chen, Associate Professor of Physics, NYU Shanghai; Global Network Associate Professor, NYU\nPan Chang, Senior Director of Information Technology, IT department\nShengbin Lu, Assistant Director of Network, IT department\nWilliam Glover, Co-Director of the NYU-ECNU Center for Computational Chemistry; Associate Professor of Chemistry, NYU Shanghai; Global Network Associate Professor, NYU\nXiang Sun, Assistant Professor of Chemistry, NYU Shanghai; Global Network Assistant Professor, NYU\nXiaojing Zu, Assistant Provost and Library Director\nYik-Cheung Tam, Associate Director of the Center for Data Science, Professor of Practice in Computer Science\n* Alphabetically ordered by lname\nNYU faculty and staff, and faculty-sponsored students.\nThis policy governs access to the NYU Shanghai HPC cluster and applies to all community members using or requesting HPC resources, including faculty, researchers, and (PhD) students. It covers account eligibility and creation, usage rules, (PhD) student transition protections, resource limits, and mandatory security and compliance requirements. For the full policy, access procedures, and compliance obligations, refer to the NYU Shanghai IT HPC Policy page.\nPlease fill out the Request Form.\nSubmit a request on support.nyu.edu\nSend a request through WeChat\nEmail shanghai.it.help@nyu.edu\nVisit the IT Service Center: Room N525 @ New Bund Campus\nCheck on the NYUSH HPC Docs for more information.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "High Performance Computing"
+    },
+    {
+      "type": "p",
+      "text": "The specialized High Performance Computing (HPC) team can help design network integration and system infrastructure in academic labs. They can also support research labs."
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai HPC Committee Members:"
+    },
+    {
+      "type": "p",
+      "text": "Allann Bellenger, Head of IT Services Management, IT department"
+    },
+    {
+      "type": "p",
+      "text": "Anqi Qian, Vice Provost for Research, Director of Research Institutes"
+    },
+    {
+      "type": "p",
+      "text": "Guangchao Hu, HPC Specialist, IT department"
+    },
+    {
+      "type": "p",
+      "text": "Hanghui Chen, Associate Professor of Physics, NYU Shanghai; Global Network Associate Professor, NYU"
+    },
+    {
+      "type": "p",
+      "text": "Pan Chang, Senior Director of Information Technology, IT department"
+    },
+    {
+      "type": "p",
+      "text": "Shengbin Lu, Assistant Director of Network, IT department"
+    },
+    {
+      "type": "p",
+      "text": "William Glover, Co-Director of the NYU-ECNU Center for Computational Chemistry; Associate Professor of Chemistry, NYU Shanghai; Global Network Associate Professor, NYU"
+    },
+    {
+      "type": "p",
+      "text": "Xiang Sun, Assistant Professor of Chemistry, NYU Shanghai; Global Network Assistant Professor, NYU"
+    },
+    {
+      "type": "p",
+      "text": "Xiaojing Zu, Assistant Provost and Library Director"
+    },
+    {
+      "type": "p",
+      "text": "Yik-Cheung Tam, Associate Director of the Center for Data Science, Professor of Practice in Computer Science"
+    },
+    {
+      "type": "p",
+      "text": "* Alphabetically ordered by lname"
+    },
+    {
+      "type": "p",
+      "text": "NYU faculty and staff, and faculty-sponsored students."
+    },
+    {
+      "type": "p",
+      "text": "This policy governs access to the NYU Shanghai HPC cluster and applies to all community members using or requesting HPC resources, including faculty, researchers, and (PhD) students. It covers account eligibility and creation, usage rules, (PhD) student transition protections, resource limits, and mandatory security and compliance requirements. For the full policy, access procedures, and compliance obligations, refer to the NYU Shanghai IT HPC Policy page."
+    },
+    {
+      "type": "p",
+      "text": "Please fill out the Request Form."
+    },
+    {
+      "type": "li",
+      "text": "Submit a request on support.nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Send a request through WeChat"
+    },
+    {
+      "type": "li",
+      "text": "Email shanghai.it.help@nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Visit the IT Service Center: Room N525 @ New Bund Campus"
+    },
+    {
+      "type": "p",
+      "text": "Check on the NYUSH HPC Docs for more information."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/HPC%20Policy%20Flyer%201.4.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article_view&sysparm_article=KB0013943",
+      "text": "NYU Shanghai IT HPC Policy page",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=sc_cat_item&table=sc_cat_item&sys_id=7b9e64ce1bd912108ef92f81b24bcb2e&searchTerm=hpc%20shanghai",
+      "text": "Request Form",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=sc_cat_item&sys_id=5110048e1bd85a103f31a9b6624bcb5d",
+      "text": "Submit a request on support.nyu.edu",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011955",
+      "text": "Send a request through WeChat",
+      "internal": false
+    },
+    {
+      "url": "https://ood.shanghai.nyu.edu/hpc",
+      "text": "NYUSH HPC Docs",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 267,
+  "crawled_at": "2026-06-09T04:31:52+00:00",
+  "sequence": 490
+}

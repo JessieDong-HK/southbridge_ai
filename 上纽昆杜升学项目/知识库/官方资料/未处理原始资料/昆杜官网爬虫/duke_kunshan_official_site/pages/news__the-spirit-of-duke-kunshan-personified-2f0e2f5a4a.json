@@ -1,0 +1,40 @@
+{
+  "id": "news__the-spirit-of-duke-kunshan-personified-2f0e2f5a4a",
+  "url": "https://www.dukekunshan.edu.cn/news/the-spirit-of-duke-kunshan-personified",
+  "canonical_url": "https://www.dukekunshan.edu.cn/news/the-spirit-of-duke-kunshan-personified/",
+  "page_type": "news",
+  "title": "Navigating life in a new land",
+  "description": "Duke Kunshan freshman Quinn Bradley came to China for something different, and found unfamiliar food, new friends and a kind and welcoming local community.",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2023-12-13T09:33:39+00:00",
+  "sitemap_lastmod": "2023-12-13T09:33:39+00:00",
+  "text": "Navigating life in a new land\nDuke Kunshan freshman Quinn Bradley came to China for something different, and found unfamiliar food, new friends and a kind and welcoming local community.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Navigating life in a new land"
+    },
+    {
+      "type": "p",
+      "text": "Duke Kunshan freshman Quinn Bradley came to China for something different, and found unfamiliar food, new friends and a kind and welcoming local community."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 30,
+  "crawled_at": "2026-06-03T13:52:10+00:00",
+  "sequence": 293
+}

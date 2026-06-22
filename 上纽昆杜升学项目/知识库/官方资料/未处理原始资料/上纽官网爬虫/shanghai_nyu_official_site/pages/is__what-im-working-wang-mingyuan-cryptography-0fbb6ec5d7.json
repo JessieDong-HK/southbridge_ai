@@ -1,0 +1,180 @@
+{
+  "id": "is__what-im-working-wang-mingyuan-cryptography-0fbb6ec5d7",
+  "url": "https://shanghai.nyu.edu/is/what-im-working-wang-mingyuan-cryptography",
+  "canonical_url": "https://shanghai.nyu.edu/is/what-im-working-wang-mingyuan-cryptography",
+  "page_type": "is",
+  "title": "What I’m Working On: Wang Mingyuan on Cryptography",
+  "description": "Coached by some of the world’s top minds in the field, the Assistant Professor of Computer Science made cryptography a lifetime academic pursuit.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "What I’m Working On: Wang Mingyuan on Cryptography\nTwitter\nFacebook\nWeibo\nWang Mingyuan studied mathematics until he discovered cryptography at graduate school at Purdue University. Coached by some of the world’s top minds in the field, Wang made cryptography a lifetime academic pursuit. This fall he joined NYU Shanghai as an assistant professor of Computer Science.\nWhat is cryptography? And why did you choose this as your research area?\nThe main tasks of cryptography are to protect data privacy and verify authenticity. Cryptography involves a lot of mathematical tools to deal with practical problems in the field. As I continue to explore cryptography, I realized that it’s really cool. So I started doing a few projects with my advisor Hemanta K. Maji at Purdue University, and later became the first group of students of his that studied theoretical cryptography.\nWhat are some of the applications of cryptography in real life?\nCryptography has wide-ranging applications in any field that prioritizes user data privacy. For instance, in the medical sector, if two hospitals collaborate to investigate the relationship between lung cancer and smoking, they must share sensitive patient data. Using secure multi-party computation, they can analyze this data without compromising patient privacy.\nAnother critical application is in account asset security, where we use threshold encryption to enhance protection by distributing multiple keys. However, while more key holders can complicate unauthorized access, having too many can slow down the decryption process. My research focuses on finding efficient ways to balance security and convenience in these systems.\nThe rise of generative AI adds complexity to information security. AI-generated content can be nearly indistinguishable from human-produced work. For example, certain manipulated images of public figures have circulated online without clear indicators of their origin. To address this, we can embed digital watermarks in AI-generated texts, allowing us to trace their source. However, current watermarking techniques often require lengthy sequences of text, which can hinder the performance of AI models like ChatGPT. My goal is to enhance these watermarking methods for better efficiency and effectiveness.\nTell us more about your research.\nMy research encompasses several key areas: threshold cryptography, secure multi-party computation, leakage-resilient cryptography, and applications of cryptography in machine learning. The core objective of threshold cryptography is to improve system robustness by distributing cryptographic keys among multiple parties.\nSecure multi-party computation originated from the “Yao’s Millionaire Problem” introduced by Chinese computer scientist Andrew Chi-Chih Yao in 1982, which poses the question of how two millionaires can determine who is wealthier without revealing their actual wealth. This field explores how cryptographic methods can enable computing tasks without exposing participants' data. We create models that allow both parties to input their respective wealth and compute results accurately while keeping their data confidential.\nAdditionally, preventing data leakage is essential in safeguarding information security. Even seemingly trivial details, such as the running time of an encryption program, can serve as vulnerabilities. Effective encryption transforms plaintext (non-encrypted text) into ciphertext (encrypted text) using robust algorithms and keys, ensuring that unauthorized access and data breaches are prevented.\nFrom left: Assistant Professor of Computer Science Wang Mingyuan, Assistant Professor at Purdue University Aarushi Goel, PhD student at University of California, Berkeley Guru-Vamsi Policharla, and Research Scientist at Nexus Arka Rai Choudhuri participated in the CRYPTO 2024 in Santa Barbara.\nWhat made you want to join NYU Shanghai?\nI like working with students. The student body of NYU Shanghai is very diverse. Students are very active — they often come to ask me questions after class. I like that. Working with them reminds me of the way I worked with my advisors. We can pick up a pen and discuss any problems anytime.\nAnother reason is that universities across China are full of talented researchers. And the city of Shanghai is at the forefront of the development of cryptography research. I’ve wanted to connect with researchers in the area and collaborate with them. Now, I am finally here and am looking forward to that.\nWhat are you looking forward to doing at NYU Shanghai?\nTeaching wise, I’m keen to share my knowledge on cryptography with students. We’re in the process of offering a cryptography course each semester. I hope more students get to explore this field and become interested in it.\nOur research aims to develop security systems that withstand adaptive corruption threats, moving beyond traditional static security models. We want to enhance the resilience of cryptographic protocols in dynamic environments, where adversaries can take advantage of weaknesses in real-time.\nDo you have any tips for students on doing research?\nFirst of all, don’t let math scare you away. In conversations with my students, I’ve noticed that whenever we mention a paper, before even reading it, they get discouraged just by seeing the content. However, once they read it, they realize it’s not that difficult to understand. Generally speaking, as long as you know algebra, you can read many papers in the field of cryptography.\nNext, it’s important to learn through application rather than just studying for the sake of studying. A mathematician once said something like, “even mathematicians don’t want to learn new mathematics.” They only seek new knowledge when they encounter problems they can’t solve. So, if you want to master a skill, the best way is to dive into practical projects and learn through real-world experience.\nFinally, I want to emphasize the importance of asking bold questions. When you start to think about subtle aspects, those points that seem unrelated to your research or studies can connect through your questions and the discussions that follow. This process can be very helpful for deepening your understanding of the material.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "What I’m Working On: Wang Mingyuan on Cryptography"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Wang Mingyuan studied mathematics until he discovered cryptography at graduate school at Purdue University. Coached by some of the world’s top minds in the field, Wang made cryptography a lifetime academic pursuit. This fall he joined NYU Shanghai as an assistant professor of Computer Science."
+    },
+    {
+      "type": "p",
+      "text": "What is cryptography? And why did you choose this as your research area?"
+    },
+    {
+      "type": "p",
+      "text": "The main tasks of cryptography are to protect data privacy and verify authenticity. Cryptography involves a lot of mathematical tools to deal with practical problems in the field. As I continue to explore cryptography, I realized that it’s really cool. So I started doing a few projects with my advisor Hemanta K. Maji at Purdue University, and later became the first group of students of his that studied theoretical cryptography."
+    },
+    {
+      "type": "p",
+      "text": "What are some of the applications of cryptography in real life?"
+    },
+    {
+      "type": "p",
+      "text": "Cryptography has wide-ranging applications in any field that prioritizes user data privacy. For instance, in the medical sector, if two hospitals collaborate to investigate the relationship between lung cancer and smoking, they must share sensitive patient data. Using secure multi-party computation, they can analyze this data without compromising patient privacy."
+    },
+    {
+      "type": "p",
+      "text": "Another critical application is in account asset security, where we use threshold encryption to enhance protection by distributing multiple keys. However, while more key holders can complicate unauthorized access, having too many can slow down the decryption process. My research focuses on finding efficient ways to balance security and convenience in these systems."
+    },
+    {
+      "type": "p",
+      "text": "The rise of generative AI adds complexity to information security. AI-generated content can be nearly indistinguishable from human-produced work. For example, certain manipulated images of public figures have circulated online without clear indicators of their origin. To address this, we can embed digital watermarks in AI-generated texts, allowing us to trace their source. However, current watermarking techniques often require lengthy sequences of text, which can hinder the performance of AI models like ChatGPT. My goal is to enhance these watermarking methods for better efficiency and effectiveness."
+    },
+    {
+      "type": "p",
+      "text": "Tell us more about your research."
+    },
+    {
+      "type": "p",
+      "text": "My research encompasses several key areas: threshold cryptography, secure multi-party computation, leakage-resilient cryptography, and applications of cryptography in machine learning. The core objective of threshold cryptography is to improve system robustness by distributing cryptographic keys among multiple parties."
+    },
+    {
+      "type": "p",
+      "text": "Secure multi-party computation originated from the “Yao’s Millionaire Problem” introduced by Chinese computer scientist Andrew Chi-Chih Yao in 1982, which poses the question of how two millionaires can determine who is wealthier without revealing their actual wealth. This field explores how cryptographic methods can enable computing tasks without exposing participants' data. We create models that allow both parties to input their respective wealth and compute results accurately while keeping their data confidential."
+    },
+    {
+      "type": "p",
+      "text": "Additionally, preventing data leakage is essential in safeguarding information security. Even seemingly trivial details, such as the running time of an encryption program, can serve as vulnerabilities. Effective encryption transforms plaintext (non-encrypted text) into ciphertext (encrypted text) using robust algorithms and keys, ensuring that unauthorized access and data breaches are prevented."
+    },
+    {
+      "type": "figcaption",
+      "text": "From left: Assistant Professor of Computer Science Wang Mingyuan, Assistant Professor at Purdue University Aarushi Goel, PhD student at University of California, Berkeley Guru-Vamsi Policharla, and Research Scientist at Nexus Arka Rai Choudhuri participated in the CRYPTO 2024 in Santa Barbara."
+    },
+    {
+      "type": "p",
+      "text": "What made you want to join NYU Shanghai?"
+    },
+    {
+      "type": "p",
+      "text": "I like working with students. The student body of NYU Shanghai is very diverse. Students are very active — they often come to ask me questions after class. I like that. Working with them reminds me of the way I worked with my advisors. We can pick up a pen and discuss any problems anytime."
+    },
+    {
+      "type": "p",
+      "text": "Another reason is that universities across China are full of talented researchers. And the city of Shanghai is at the forefront of the development of cryptography research. I’ve wanted to connect with researchers in the area and collaborate with them. Now, I am finally here and am looking forward to that."
+    },
+    {
+      "type": "p",
+      "text": "What are you looking forward to doing at NYU Shanghai?"
+    },
+    {
+      "type": "p",
+      "text": "Teaching wise, I’m keen to share my knowledge on cryptography with students. We’re in the process of offering a cryptography course each semester. I hope more students get to explore this field and become interested in it."
+    },
+    {
+      "type": "p",
+      "text": "Our research aims to develop security systems that withstand adaptive corruption threats, moving beyond traditional static security models. We want to enhance the resilience of cryptographic protocols in dynamic environments, where adversaries can take advantage of weaknesses in real-time."
+    },
+    {
+      "type": "p",
+      "text": "Do you have any tips for students on doing research?"
+    },
+    {
+      "type": "p",
+      "text": "First of all, don’t let math scare you away. In conversations with my students, I’ve noticed that whenever we mention a paper, before even reading it, they get discouraged just by seeing the content. However, once they read it, they realize it’s not that difficult to understand. Generally speaking, as long as you know algebra, you can read many papers in the field of cryptography."
+    },
+    {
+      "type": "p",
+      "text": "Next, it’s important to learn through application rather than just studying for the sake of studying. A mathematician once said something like, “even mathematicians don’t want to learn new mathematics.” They only seek new knowledge when they encounter problems they can’t solve. So, if you want to master a skill, the best way is to dive into practical projects and learn through real-world experience."
+    },
+    {
+      "type": "p",
+      "text": "Finally, I want to emphasize the importance of asking bold questions. When you start to think about subtle aspects, those points that seem unrelated to your research or studies can connect through your questions and the discussions that follow. This process can be very helpful for deepening your understanding of the material."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/focus_image",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/focus_image/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/focus_image/what_im_working_on_wang_mingyuan-01.jpg?itok=-WSdk2Pc",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/what_im_working_on_wang_mingyuan-01-13547ce406d9.jpg",
+      "download_status": "downloaded",
+      "bytes": 79258,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/What%20I%E2%80%99m%20Working%20On_%20Wang%20Mingyuan-03.jpg",
+      "alt": "wangmingyuan",
+      "caption": "From left: Assistant Professor of Computer Science Wang Mingyuan, Assistant Professor at Purdue University Aarushi Goel, PhD student at University of California, Berkeley Guru-Vamsi Policharla, and Research Scientist at Nexus Arka Rai Choudhuri participated in the CRYPTO 2024 in Santa Barbara.",
+      "source": "img",
+      "local_path": "_shared/What-20I-E2-80-99m-20Working-20On_-20Wang-20Mingyuan-998074c8de77.jpg",
+      "download_status": "downloaded",
+      "bytes": 1234215,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=What%20I%E2%80%99m%20Working%20On%3A%20Wang%20Mingyuan%20on%20Cryptography%20&url=https%3A//shanghai.nyu.edu/is/what-im-working-wang-mingyuan-cryptography&status=What%20I%E2%80%99m%20Working%20On%3A%20Wang%20Mingyuan%20on%20Cryptography%20%20https%3A//shanghai.nyu.edu/is/what-im-working-wang-mingyuan-cryptography",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/is/what-im-working-wang-mingyuan-cryptography&title=What%20I%E2%80%99m%20Working%20On%3A%20Wang%20Mingyuan%20on%20Cryptography%20",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/is/what-im-working-wang-mingyuan-cryptography&title=What%20I%E2%80%99m%20Working%20On%3A%20Wang%20Mingyuan%20on%20Cryptography%20",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/mingyuan-wang",
+      "text": "Wang Mingyuan",
+      "internal": true
+    },
+    {
+      "url": "https://www.cs.purdue.edu/homes/hmaji",
+      "text": "Hemanta K. Maji",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 963,
+  "crawled_at": "2026-06-09T04:40:38+00:00",
+  "sequence": 1301
+}

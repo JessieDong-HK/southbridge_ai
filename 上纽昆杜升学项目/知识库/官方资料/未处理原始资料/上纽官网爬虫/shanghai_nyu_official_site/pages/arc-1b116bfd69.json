@@ -1,0 +1,219 @@
+{
+  "id": "arc-1b116bfd69",
+  "url": "https://shanghai.nyu.edu/arc",
+  "canonical_url": "https://shanghai.nyu.edu/arc",
+  "page_type": "arc",
+  "title": "Academic Resource Center",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Academic Resource Center\nARC Peer Tutoring Schedule\nWelcome to the Academic Resource Center (ARC)!\nOur mission at the Academic Resource Center (ARC) is to assist students in developing the knowledge base, skills, and strategies that will help them to become confident, independent, and active learners. The ARC offers both one-on-one tutoring and group sessions, as well as a wide range of academic support services aimed at helping students meet the challenge of NYU's rigorous academic standards.\nAbout Spring 2026 ARC Services\nThis semester, the ARC will be offering a variety of academic support services for students enrolled in NYU Shanghai courses. Students are welcome to walk into the ARC to meet with Discipline Learning Assistants for support in STEM, Business, Economics, and Chinese Language courses. Additionally, students can meet with Writing & Speaking Learning Assistants, who can provide assistance with specific questions related to writing, speaking, reading, or listening in English. Whether you're tackling challenging course content, working on a paper, preparing for a presentation, or developing study and personal skills, the ARC is here to support your academic success. Please click the boxes below to see the specifics of the support we offer.\nPeer Tutoring\nOther Services & ARC Team\nAcademic Handouts\nPlease refer to this folder to find all of the relevant academic handouts.\nWork for the ARC\nDiscipline Learning Assistants\nWriting and Speaking Learning Assistants\nInformation Assistants",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Academic Resource Center"
+    },
+    {
+      "type": "p",
+      "text": "ARC Peer Tutoring Schedule"
+    },
+    {
+      "type": "h3",
+      "text": "Welcome to the Academic Resource Center (ARC)!"
+    },
+    {
+      "type": "p",
+      "text": "Our mission at the Academic Resource Center (ARC) is to assist students in developing the knowledge base, skills, and strategies that will help them to become confident, independent, and active learners. The ARC offers both one-on-one tutoring and group sessions, as well as a wide range of academic support services aimed at helping students meet the challenge of NYU's rigorous academic standards."
+    },
+    {
+      "type": "h3",
+      "text": "About Spring 2026 ARC Services"
+    },
+    {
+      "type": "p",
+      "text": "This semester, the ARC will be offering a variety of academic support services for students enrolled in NYU Shanghai courses. Students are welcome to walk into the ARC to meet with Discipline Learning Assistants for support in STEM, Business, Economics, and Chinese Language courses. Additionally, students can meet with Writing & Speaking Learning Assistants, who can provide assistance with specific questions related to writing, speaking, reading, or listening in English. Whether you're tackling challenging course content, working on a paper, preparing for a presentation, or developing study and personal skills, the ARC is here to support your academic success. Please click the boxes below to see the specifics of the support we offer."
+    },
+    {
+      "type": "h3",
+      "text": "Peer Tutoring"
+    },
+    {
+      "type": "h3",
+      "text": "Other Services & ARC Team"
+    },
+    {
+      "type": "h3",
+      "text": "Academic Handouts"
+    },
+    {
+      "type": "p",
+      "text": "Please refer to this folder to find all of the relevant academic handouts."
+    },
+    {
+      "type": "h3",
+      "text": "Work for the ARC"
+    },
+    {
+      "type": "h4",
+      "text": "Discipline Learning Assistants"
+    },
+    {
+      "type": "h4",
+      "text": "Writing and Speaking Learning Assistants"
+    },
+    {
+      "type": "h4",
+      "text": "Information Assistants"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-arc-01-03.png",
+      "alt": "Writing & Speaking Consultations",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-arc-01-03-b50190dcffa7.png",
+      "download_status": "downloaded",
+      "bytes": 418,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-arc-01-04.png",
+      "alt": "Course-Specific Tutoring",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-arc-01-06.png",
+      "alt": "Academic Skills Workshops",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-arc-01-06.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-arc-01-04_0.png",
+      "alt": "Academic Accessibility and Accommodation",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-arc-01-04_0-61b27d52f56d.png",
+      "download_status": "downloaded",
+      "bytes": 444,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/ic_meettheteam.png",
+      "alt": "Meet the Team",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ic_meettheteam-9f646d3985df.png",
+      "download_status": "downloaded",
+      "bytes": 2291,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-arc-01-09.png",
+      "alt": "RSVP for ARC Events on Engage",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/co.jpg",
+      "alt": "Discipline Learning Assistants",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/co-3cde038e5cdd.jpg",
+      "download_status": "downloaded",
+      "bytes": 115305,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/arc-sm.jpg",
+      "alt": "Writing and Speaking Learning Assistants",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/info_ass.jpg",
+      "alt": "Information Assistants",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/info_ass-7a22becf1e6c.jpg",
+      "download_status": "downloaded",
+      "bytes": 118672,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/arc-tutoring-schedule",
+      "text": "ARC Peer Tutoring Schedule",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/arc/writing",
+      "text": "Writing, Speaking, Reading & Listening",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/arc/course-specific-tutoring",
+      "text": "Math, CS, Natural Sciences, Business, Economics, Chinese",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/page/academic-skills-coaching-and-workshops",
+      "text": "Academic Skills Coaching & Workshops",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/csd",
+      "text": "Academic Accessibility & Accommodations",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/arc/meet-the-team",
+      "text": "Meet the Team",
+      "internal": true
+    },
+    {
+      "url": "https://engage.shanghai.nyu.edu/organization/academic-resource-center",
+      "text": "RSVP for ARC Events on Engage",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/drive/folders/1Xk4yWB3TCohxyYwToQdrGg93XLheR46_?usp=drive_link",
+      "text": "folder",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/arc/work/Learning-Assistants",
+      "text": "Discipline Learning Assistants",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/arc/work-for-the-arc/writing-and-speaking-learning-assistants",
+      "text": "Writing and Speaking Learning Assistants",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/arc/work/Information-Assistants",
+      "text": "Information Assistants",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 232,
+  "crawled_at": "2026-06-09T04:28:05+00:00",
+  "sequence": 39
+}

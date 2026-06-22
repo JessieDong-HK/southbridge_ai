@@ -1,0 +1,58 @@
+{
+  "id": "leadership__nasir-memon-53d6c48bb4",
+  "url": "https://shanghai.nyu.edu/leadership/nasir-memon",
+  "canonical_url": "https://shanghai.nyu.edu/leadership/nasir-memon",
+  "page_type": "leadership",
+  "title": "Nasir Memon",
+  "description": "Nasir Memon is the Interim Dean of Engineering and Computer Science at NYU Shanghai. In this role, he is responsible for overseeing faculty recruitment, curriculum development, and the intellectual growth of the engineering and computer science programs.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Nasir Memon\nNasir Memon is the Interim Dean of Engineering and Computer Science at NYU Shanghai. In this role, he is responsible for overseeing faculty recruitment, curriculum development, and the intellectual growth of the engineering and computer science programs.\nWith a distinguished career spanning several decades, Memon has made remarkable contributions to academia and research, while fostering strong connections with industry partners. Prior to joining NYU Shanghai, he held various leadership positions at the NYU Tandon School of Engineering, including serving as the Department Head of Computer Science and Engineering, Associate Dean for Online Learning and Global Programs, and Vice Dean for Academic and Student Affairs.\nThroughout his career, Memon has been at the forefront of cybersecurity education. He initiated NYU's cyber security program in 2000, making it one of the earliest programs of its kind in the country. He co-founded the Center for Cyber Security (CCS), a collaborative initiative across multiple NYU schools, spanning New York and NYU Abu Dhabi. Memon also established CSAW, the world's largest student-run cyber security competition, and founded the OSIRIS lab for undergraduate students at NYU Tandon.\nAs the Associate Dean for Online Learning, Memon launched innovative programs such as the Bridge to Tandon, providing pathways for non-STEM students to enter the field of computer science, and the Cyber Fellows program, offering a highly affordable online MS in cyber security in partnership with industry. He has demonstrated a commitment to expanding access and driving excellence in online education.\nMemon is an accomplished researcher with over 300 articles published in prestigious journals and conference proceedings. He holds a dozen patents in image compression and security and has authored two edited books and numerous book chapters. His work has had a significant impact in media security, biometrics security, behavioral biometrics, and the intersection of security and human behavior. Memon's research has garnered attention from major media outlets, including the New York Times, NBC Nightly News, BBC, Wired Magazine, MIT Technology Review, and the Wall Street Journal.\nHis contributions have been recognized with several awards, including the Jacobs Excellence in Education award and multiple best paper awards. Memon has served on the editorial boards of several journals and was the Editor-in-Chief of IEEE Transactions on Information Security and Forensics. He is a Fellow of the Institute of Electrical and Electronics Engineers (IEEE), the International Association for Pattern Recognition (IAPR), and the Society of Photo-Optical Instrumentation Engineers (SPIE).",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Nasir Memon"
+    },
+    {
+      "type": "p",
+      "text": "Nasir Memon is the Interim Dean of Engineering and Computer Science at NYU Shanghai. In this role, he is responsible for overseeing faculty recruitment, curriculum development, and the intellectual growth of the engineering and computer science programs."
+    },
+    {
+      "type": "p",
+      "text": "With a distinguished career spanning several decades, Memon has made remarkable contributions to academia and research, while fostering strong connections with industry partners. Prior to joining NYU Shanghai, he held various leadership positions at the NYU Tandon School of Engineering, including serving as the Department Head of Computer Science and Engineering, Associate Dean for Online Learning and Global Programs, and Vice Dean for Academic and Student Affairs."
+    },
+    {
+      "type": "p",
+      "text": "Throughout his career, Memon has been at the forefront of cybersecurity education. He initiated NYU's cyber security program in 2000, making it one of the earliest programs of its kind in the country. He co-founded the Center for Cyber Security (CCS), a collaborative initiative across multiple NYU schools, spanning New York and NYU Abu Dhabi. Memon also established CSAW, the world's largest student-run cyber security competition, and founded the OSIRIS lab for undergraduate students at NYU Tandon."
+    },
+    {
+      "type": "p",
+      "text": "As the Associate Dean for Online Learning, Memon launched innovative programs such as the Bridge to Tandon, providing pathways for non-STEM students to enter the field of computer science, and the Cyber Fellows program, offering a highly affordable online MS in cyber security in partnership with industry. He has demonstrated a commitment to expanding access and driving excellence in online education."
+    },
+    {
+      "type": "p",
+      "text": "Memon is an accomplished researcher with over 300 articles published in prestigious journals and conference proceedings. He holds a dozen patents in image compression and security and has authored two edited books and numerous book chapters. His work has had a significant impact in media security, biometrics security, behavioral biometrics, and the intersection of security and human behavior. Memon's research has garnered attention from major media outlets, including the New York Times, NBC Nightly News, BBC, Wired Magazine, MIT Technology Review, and the Wall Street Journal."
+    },
+    {
+      "type": "p",
+      "text": "His contributions have been recognized with several awards, including the Jacobs Excellence in Education award and multiple best paper awards. Memon has served on the editorial boards of several journals and was the Editor-in-Chief of IEEE Transactions on Information Security and Forensics. He is a Fellow of the Institute of Electrical and Electronics Engineers (IEEE), the International Association for Pattern Recognition (IAPR), and the Society of Photo-Optical Instrumentation Engineers (SPIE)."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/profile/nasir-memon-edited.jpg?itok=R31vwznk",
+      "alt": "Nasir Memon",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 409,
+  "crawled_at": "2026-06-09T04:29:34+00:00",
+  "sequence": 228
+}

@@ -1,0 +1,76 @@
+{
+  "id": "stories__kevin-pham-8f24427213",
+  "url": "https://shanghai.nyu.edu/stories/kevin-pham",
+  "canonical_url": "https://shanghai.nyu.edu/stories/kevin-pham",
+  "page_type": "stories",
+  "title": "Kevin Pham, IMA Major. Study Away Site: Accra",
+  "description": "October 30, 2015 - \"As an intern at e.TV Ghana of Global Media Alliance, I get unique insight into the structure of the city of Accra. Working in TV broadcasting requires me to go out into the field to develop and follow up on local stories, giving me the chance to interact with locals. When I am",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Kevin Pham, IMA Major. Study Away Site: Accra\nTwitter\nFacebook\nWeibo\nOctober 30, 2015 - \"As an intern at e.TV Ghana of Global Media Alliance, I get unique insight into the structure of the city of Accra. Working in TV broadcasting requires me to go out into the field to develop and follow up on local stories, giving me the chance to interact with locals. When I am behind the camera or conducting the interview, I don't feel like a tourist but rather one with the culture because I get to see what happens beyond face value, what is important to locals and how they feel about things. I really value the opportunity to work as part of the team and a rapidly-expanding media field because I feel like I am contributing as well as progressing technical and personal skills.\" - Kevin Pham, IMA Major; Study Away Site: Accra, Ghana; Global Media Alliance - Production Intern.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Kevin Pham, IMA Major. Study Away Site: Accra"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "October 30, 2015 - \"As an intern at e.TV Ghana of Global Media Alliance, I get unique insight into the structure of the city of Accra. Working in TV broadcasting requires me to go out into the field to develop and follow up on local stories, giving me the chance to interact with locals. When I am behind the camera or conducting the interview, I don't feel like a tourist but rather one with the culture because I get to see what happens beyond face value, what is important to locals and how they feel about things. I really value the opportunity to work as part of the team and a rapidly-expanding media field because I feel like I am contributing as well as progressing technical and personal skills.\" - Kevin Pham, IMA Major; Study Away Site: Accra, Ghana; Global Media Alliance - Production Intern."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/story",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/story/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/story/Kevin.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Kevin-d58d89c274d3.jpg",
+      "download_status": "downloaded",
+      "bytes": 397377,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Kevin%20Pham%2C%20IMA%20Major.%20Study%20Away%20Site%3A%20Accra&url=https%3A//shanghai.nyu.edu/stories/kevin-pham&status=Kevin%20Pham%2C%20IMA%20Major.%20Study%20Away%20Site%3A%20Accra%20https%3A//shanghai.nyu.edu/stories/kevin-pham",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/stories/kevin-pham&title=Kevin%20Pham%2C%20IMA%20Major.%20Study%20Away%20Site%3A%20Accra",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/stories/kevin-pham&title=Kevin%20Pham%2C%20IMA%20Major.%20Study%20Away%20Site%3A%20Accra",
+      "text": "Weibo",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 156,
+  "crawled_at": "2026-06-09T04:47:40+00:00",
+  "sequence": 1878
+}

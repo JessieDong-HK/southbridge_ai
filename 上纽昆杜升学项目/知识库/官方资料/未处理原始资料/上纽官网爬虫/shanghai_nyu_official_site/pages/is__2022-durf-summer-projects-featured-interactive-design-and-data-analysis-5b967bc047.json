@@ -1,0 +1,226 @@
+{
+  "id": "is__2022-durf-summer-projects-featured-interactive-design-and-data-analysis-5b967bc047",
+  "url": "https://shanghai.nyu.edu/is/2022-durf-summer-projects-featured-interactive-design-and-data-analysis",
+  "canonical_url": "https://shanghai.nyu.edu/is/2022-durf-summer-projects-featured-interactive-design-and-data-analysis",
+  "page_type": "is",
+  "title": "2022 DURF Summer Projects Feature Interactive Design and Data Analysis",
+  "description": "Catch a sneak peek of four selected projects below!",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "2022 DURF Summer Projects Feature Interactive Design and Data Analysis\nTwitter\nFacebook\nWeibo\nOver the summer, NYU Shanghai’s Deans' Undergraduate Research Fund (DURF) supported 141 students in a wide range of research areas including interactive design, intelligent transportation, and fintech to develop their problem-solving, critical thinking, and in-depth analysis capabilities.\nCatch a sneak peek of four selected projects below!\n“Phonism” by Sun Yuqian ’23 and Sha Jiayun ’23\nFaculty Mentor: NYU Assistant Arts professor Charles J. Pratt\nA common interest in exploring auditory senses inspired the team to make “Phonism”, an auditory game that provides an immersive environment. “Nowadays, people seem to be surrounded or even obsessed with dazzling visuals. We wanted to reawaken the awareness of how sounds can be deceiving and attractive,” said Sun Yuqian.\nStudents say that they learned many lessons from technical, programming, and game design perspectives. “The project provided an opportunity for us to become familiar with some basics of the popular game engine, audio editor, and experiments with sound coding platforms. It enhances our ability to look up documents and find answers to engineering problems,” Sun said.\nThe team will continue doing player tests to improve user experience and improve its unity, sound, and UI design sides. Sha Jiayun said her biggest takeaways came from interaction with potential users since she found it interesting to observe people's different reactions towards silence, confusion, and disorientation and their diverse directions of imagination instigated by sound.\n“How Information Influences Toilet Paper Stockpiling Behavior during COVID-19 Pandemic” by Zhang Yijun ’23 and Zheng Yu ’23\nFaculty Mentor: Assistant Professor of Economics Jin Ye\nInspired by Game Theory and Behavioral Economics concepts, the team was curious about why Americans always stockpile toilet paper during crises such as the COVID-19 pandemic. With a focus on consumer behavior, Zhang Yijun and Zheng Yu released a survey on Amazon Mechanical Turk (MTurk), sifted out 248 qualified subjects, and used linear regression to analyze the data.\nAfter several rounds of data analysis, they found some elements that have led to the stockpiling during the pandemic, including household members' spending more time at home, knowledge of pandemic severity and personal stockpiling habits, and awareness of toilet paper stockpiles or panic buying.\n“Now, we have found significant indicators in each of the hypotheses we come up with. The next step is to finish our report and take part in the Fall 2022 Undergraduate Research Symposium,” said Zhang.\n“Map-based Interactive Interfaces for Locating, Finding, and Rescuing Homeless Animals in Urban Areas” by Liang Jiayi ’23 and Wang Jiyan ’23\nFaculty Mentor: Assistant Arts Professor Yuan Yanyue\nLiang Jiayi and Wang Jiyan designed an application interface to help provide humanitarian assistance to homeless dogs and cats. Individuals and animal shelters can upload and post relevant information and communicate with each other on this platform.\n“We often see posts on social media platforms like Weibo and Tiktok about the frustrating situation of homeless cats and dogs in big cities with no one taking care of them. We wanted to address this issue and figure out ways to help these cute animals,” said Liang.\nThe team started their research by reading papers and official documents regarding Chinese animal protection policies, looking for real-life examples of animal rescue centers and online influencers, and collecting first-hand information. After getting a relatively comprehensive understanding of the stray pets situation in Shanghai and figuring out what kind of pain points can be solved by their design, they built up a complete prototype that contains the core functions such as “post”, “map”, and “personal page”. “In the next stage, we will try to add some sub-functions like building pet lover communities and adding commercial models,” Wang said.\n“Forecasting Realized Volatility Using GARCH and Stochastic Volatility Models: Estimation, Prediction, and Optimization” by Zhang Yimeng ’23 and Zhang Yuejia ’23\nFaculty Mentor: Assistant Professor of Finance Wang Dan\nBusiness and Finance and Data Science major Zhang Yimeng and Mathematics major Zhang Yuejia attended the “Forecasting Time Series Data” course and became interested in uncovering the underlying rules of Bitcoin’s volatility. They explored and compared different combinations of GARCH models, the most commonly used models in analyzing the return volatility of financial markets, and statistical distributions to identify the optimal model for Bitcoin price.\n“We estimated parameters to form a complete model that enables us to predict the volatility of Bitcoin price. With an accuracy of 94.567%, we proved that the GARCH models can obtain a good prediction result,” said Zhang Yimeng.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "2022 DURF Summer Projects Feature Interactive Design and Data Analysis"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Over the summer, NYU Shanghai’s Deans' Undergraduate Research Fund (DURF) supported 141 students in a wide range of research areas including interactive design, intelligent transportation, and fintech to develop their problem-solving, critical thinking, and in-depth analysis capabilities."
+    },
+    {
+      "type": "p",
+      "text": "Catch a sneak peek of four selected projects below!"
+    },
+    {
+      "type": "p",
+      "text": "“Phonism” by Sun Yuqian ’23 and Sha Jiayun ’23"
+    },
+    {
+      "type": "p",
+      "text": "Faculty Mentor: NYU Assistant Arts professor Charles J. Pratt"
+    },
+    {
+      "type": "p",
+      "text": "A common interest in exploring auditory senses inspired the team to make “Phonism”, an auditory game that provides an immersive environment. “Nowadays, people seem to be surrounded or even obsessed with dazzling visuals. We wanted to reawaken the awareness of how sounds can be deceiving and attractive,” said Sun Yuqian."
+    },
+    {
+      "type": "p",
+      "text": "Students say that they learned many lessons from technical, programming, and game design perspectives. “The project provided an opportunity for us to become familiar with some basics of the popular game engine, audio editor, and experiments with sound coding platforms. It enhances our ability to look up documents and find answers to engineering problems,” Sun said."
+    },
+    {
+      "type": "p",
+      "text": "The team will continue doing player tests to improve user experience and improve its unity, sound, and UI design sides. Sha Jiayun said her biggest takeaways came from interaction with potential users since she found it interesting to observe people's different reactions towards silence, confusion, and disorientation and their diverse directions of imagination instigated by sound."
+    },
+    {
+      "type": "p",
+      "text": "“How Information Influences Toilet Paper Stockpiling Behavior during COVID-19 Pandemic” by Zhang Yijun ’23 and Zheng Yu ’23"
+    },
+    {
+      "type": "p",
+      "text": "Faculty Mentor: Assistant Professor of Economics Jin Ye"
+    },
+    {
+      "type": "p",
+      "text": "Inspired by Game Theory and Behavioral Economics concepts, the team was curious about why Americans always stockpile toilet paper during crises such as the COVID-19 pandemic. With a focus on consumer behavior, Zhang Yijun and Zheng Yu released a survey on Amazon Mechanical Turk (MTurk), sifted out 248 qualified subjects, and used linear regression to analyze the data."
+    },
+    {
+      "type": "p",
+      "text": "After several rounds of data analysis, they found some elements that have led to the stockpiling during the pandemic, including household members' spending more time at home, knowledge of pandemic severity and personal stockpiling habits, and awareness of toilet paper stockpiles or panic buying."
+    },
+    {
+      "type": "p",
+      "text": "“Now, we have found significant indicators in each of the hypotheses we come up with. The next step is to finish our report and take part in the Fall 2022 Undergraduate Research Symposium,” said Zhang."
+    },
+    {
+      "type": "p",
+      "text": "“Map-based Interactive Interfaces for Locating, Finding, and Rescuing Homeless Animals in Urban Areas” by Liang Jiayi ’23 and Wang Jiyan ’23"
+    },
+    {
+      "type": "p",
+      "text": "Faculty Mentor: Assistant Arts Professor Yuan Yanyue"
+    },
+    {
+      "type": "p",
+      "text": "Liang Jiayi and Wang Jiyan designed an application interface to help provide humanitarian assistance to homeless dogs and cats. Individuals and animal shelters can upload and post relevant information and communicate with each other on this platform."
+    },
+    {
+      "type": "p",
+      "text": "“We often see posts on social media platforms like Weibo and Tiktok about the frustrating situation of homeless cats and dogs in big cities with no one taking care of them. We wanted to address this issue and figure out ways to help these cute animals,” said Liang."
+    },
+    {
+      "type": "p",
+      "text": "The team started their research by reading papers and official documents regarding Chinese animal protection policies, looking for real-life examples of animal rescue centers and online influencers, and collecting first-hand information. After getting a relatively comprehensive understanding of the stray pets situation in Shanghai and figuring out what kind of pain points can be solved by their design, they built up a complete prototype that contains the core functions such as “post”, “map”, and “personal page”. “In the next stage, we will try to add some sub-functions like building pet lover communities and adding commercial models,” Wang said."
+    },
+    {
+      "type": "p",
+      "text": "“Forecasting Realized Volatility Using GARCH and Stochastic Volatility Models: Estimation, Prediction, and Optimization” by Zhang Yimeng ’23 and Zhang Yuejia ’23"
+    },
+    {
+      "type": "p",
+      "text": "Faculty Mentor: Assistant Professor of Finance Wang Dan"
+    },
+    {
+      "type": "p",
+      "text": "Business and Finance and Data Science major Zhang Yimeng and Mathematics major Zhang Yuejia attended the “Forecasting Time Series Data” course and became interested in uncovering the underlying rules of Bitcoin’s volatility. They explored and compared different combinations of GARCH models, the most commonly used models in analyzing the return volatility of financial markets, and statistical distributions to identify the optimal model for Bitcoin price."
+    },
+    {
+      "type": "p",
+      "text": "“We estimated parameters to form a complete model that enables us to predict the volatility of Bitcoin price. With an accuracy of 94.567%, we proved that the GARCH models can obtain a good prediction result,” said Zhang Yimeng."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/focus_image",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/focus_image/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/focus_image/wechatimg282.jpeg?itok=kk5GIQaq",
+      "alt": "pibpib",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/content_page_slideshow_display/public/field/focus_image/wechatimg282.jpeg?itok=kk5GIQaq (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in viola"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/screen_shot_2022-09-22_at_19.47.33.png",
+      "alt": "pipic",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/screen_shot_2022-09-22_at_19.47.33.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/screen_shot_2022-09-22_at_19.47.46.png",
+      "alt": "picpic",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/screen_shot_2022-09-22_at_19.47.46.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/screen_shot_2022-09-22_at_19.47.57.png",
+      "alt": "home",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/screen_shot_2022-09-22_at_19.47.57.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/screen_shot_2022-09-22_at_19.48.05.png",
+      "alt": "bitcorn",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/screen_shot_2022-09-22_at_19.48.05.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=2022%20DURF%20Summer%20Projects%20Feature%20Interactive%20Design%20and%20Data%20Analysis&url=https%3A//shanghai.nyu.edu/is/2022-durf-summer-projects-featured-interactive-design-and-data-analysis&status=2022%20DURF%20Summer%20Projects%20Feature%20Interactive%20Design%20and%20Data%20Analysis%20https%3A//shanghai.nyu.edu/is/2022-durf-summer-projects-featured-interactive-design-and-data-analysis",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/is/2022-durf-summer-projects-featured-interactive-design-and-data-analysis&title=2022%20DURF%20Summer%20Projects%20Feature%20Interactive%20Design%20and%20Data%20Analysis",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/is/2022-durf-summer-projects-featured-interactive-design-and-data-analysis&title=2022%20DURF%20Summer%20Projects%20Feature%20Interactive%20Design%20and%20Data%20Analysis",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/undergraduate-research",
+      "text": "Deans' Undergraduate Research Fund (DURF)",
+      "internal": true
+    },
+    {
+      "url": "https://gamecenter.nyu.edu/faculty/charles-pratt",
+      "text": "NYU Assistant Arts professor Charles J. Pratt",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/ye-wendy-jin",
+      "text": "Assistant Professor of Economics Jin Ye",
+      "internal": true
+    },
+    {
+      "url": "https://www.mturk.com/",
+      "text": "Amazon Mechanical Turk (MTurk)",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/content/undergraduate-research-symposium-and-conferences",
+      "text": "Undergraduate Research Symposium",
+      "internal": true
+    },
+    {
+      "url": "https://ima.shanghai.nyu.edu/faculty/yanyue-yuan",
+      "text": "Assistant Arts Professor Yuan Yanyue",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/christina-dan-wang",
+      "text": "Assistant Professor of Finance Wang Dan",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 757,
+  "crawled_at": "2026-06-09T04:49:47+00:00",
+  "sequence": 2061
+}

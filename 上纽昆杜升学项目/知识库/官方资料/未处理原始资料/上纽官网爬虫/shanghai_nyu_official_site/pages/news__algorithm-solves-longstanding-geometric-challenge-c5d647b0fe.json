@@ -1,0 +1,101 @@
+{
+  "id": "news__algorithm-solves-longstanding-geometric-challenge-c5d647b0fe",
+  "url": "https://shanghai.nyu.edu/news/algorithm-solves-longstanding-geometric-challenge",
+  "canonical_url": "https://shanghai.nyu.edu/news/algorithm-solves-longstanding-geometric-challenge",
+  "page_type": "news",
+  "title": "Algorithm Solves Longstanding Geometric Challenge",
+  "description": "A new algorithm is proposed to solve the Planar Two-Center Problem in the fastest way one can expect..",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Algorithm Solves Longstanding Geometric Challenge\nTwitter\nFacebook\nWeibo\nImagine you are a city planner for a large metropolis, tasked with building two airports. Where should you locate them to ensure everyone can quickly reach an airport to get on a flight? This scenario exemplifies a classic optimization problem in computational geometry known as the Planar Two-Center Problem. In a recent study, NYU Shanghai Assistant Professor of Computer Science Jie Xue and his collaborators have proposed an algorithm to solve this fundamental problem in the fastest way one can expect. This resolves a longstanding open problem in the area of Computational Geometry. Their paper has appeared in the Proceedings of the 40th International Symposium on Computational Geometry (SoCG 2024) in Athens, Greece, this June.\nComputational Geometry is a branch of Theoretical Computer Science focused on solving problems related to shapes, points, and other geometric objects using algorithms. The Planar Two-Center Problem involves finding the optimal locations for two congruent circles to cover all points on a map, minimizing the size of the circles. In our airport scenario, the city is the plane with multiple citizens represented as points. The goal is to place two airports (circle centers) so that the maximum distance from a citizen to travel to its nearest airport is minimized.\nCalculating the solution to this problem is complex and time-consuming. Developing the most efficient algorithm to achieve this in the shortest possible time has eluded scientists for decades. “The Planar Two-Center Problem has been an open question since the 1980s, with a lower bound for the time required to solve it proposed in 1997,” explained Xue. “For nearly three decades, researchers have been working to optimize their algorithms to approach this bound, with limited success.”\nIn the paper, Xue, along with Kyungjin Cho and Eunjin Oh from Pohang University of Science and Technology, and Haitao Wang from the University of Utah, proposes a new algorithm to solve the Planar Two-Center Problem, significantly improving the previous work. This is the first algorithm whose running time matches the lower bound after decades of research since 1997, making a major breakthrough in Computational Geometry. “Though it sounds highly theoretical, this algorithm has practical applications in city planning and other related real-world problems,” said Xue. “It also has the potential to facilitate exploration of problems involving more than two centers.”\nIn addition to this paper, four other papers by Xue were accepted by SoCG 2024, making him the only attendee this year with five or more accepted papers. Despite their varied focuses, these papers share the goal of developing efficient algorithms for geometric problems. One paper, titled “An O(nlogn)-Time Approximation Scheme for Geometric Many-to-Many Matching,” won the Best Paper Award of the conference, marking the first time a researcher from mainland China has received this honor. Xue presented two of his accepted papers online at SoCG 2024, engaging with peer researchers who showed great interest in his work.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Algorithm Solves Longstanding Geometric Challenge"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Imagine you are a city planner for a large metropolis, tasked with building two airports. Where should you locate them to ensure everyone can quickly reach an airport to get on a flight? This scenario exemplifies a classic optimization problem in computational geometry known as the Planar Two-Center Problem. In a recent study, NYU Shanghai Assistant Professor of Computer Science Jie Xue and his collaborators have proposed an algorithm to solve this fundamental problem in the fastest way one can expect. This resolves a longstanding open problem in the area of Computational Geometry. Their paper has appeared in the Proceedings of the 40th International Symposium on Computational Geometry (SoCG 2024) in Athens, Greece, this June."
+    },
+    {
+      "type": "p",
+      "text": "Computational Geometry is a branch of Theoretical Computer Science focused on solving problems related to shapes, points, and other geometric objects using algorithms. The Planar Two-Center Problem involves finding the optimal locations for two congruent circles to cover all points on a map, minimizing the size of the circles. In our airport scenario, the city is the plane with multiple citizens represented as points. The goal is to place two airports (circle centers) so that the maximum distance from a citizen to travel to its nearest airport is minimized."
+    },
+    {
+      "type": "p",
+      "text": "Calculating the solution to this problem is complex and time-consuming. Developing the most efficient algorithm to achieve this in the shortest possible time has eluded scientists for decades. “The Planar Two-Center Problem has been an open question since the 1980s, with a lower bound for the time required to solve it proposed in 1997,” explained Xue. “For nearly three decades, researchers have been working to optimize their algorithms to approach this bound, with limited success.”"
+    },
+    {
+      "type": "p",
+      "text": "In the paper, Xue, along with Kyungjin Cho and Eunjin Oh from Pohang University of Science and Technology, and Haitao Wang from the University of Utah, proposes a new algorithm to solve the Planar Two-Center Problem, significantly improving the previous work. This is the first algorithm whose running time matches the lower bound after decades of research since 1997, making a major breakthrough in Computational Geometry. “Though it sounds highly theoretical, this algorithm has practical applications in city planning and other related real-world problems,” said Xue. “It also has the potential to facilitate exploration of problems involving more than two centers.”"
+    },
+    {
+      "type": "p",
+      "text": "In addition to this paper, four other papers by Xue were accepted by SoCG 2024, making him the only attendee this year with five or more accepted papers. Despite their varied focuses, these papers share the goal of developing efficient algorithms for geometric problems. One paper, titled “An O(nlogn)-Time Approximation Scheme for Geometric Many-to-Many Matching,” won the Best Paper Award of the conference, marking the first time a researcher from mainland China has received this honor. Xue presented two of his accepted papers online at SoCG 2024, engaging with peer researchers who showed great interest in his work."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/algorithm_solves_longstanding_geometric_challenge.jpg?itok=-k9Xjh8V",
+      "alt": "planar_two-center_problem",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/planar_two-center_problem.jpg",
+      "alt": "planar_two-center_problem",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Algorithm%20Solves%20Longstanding%20Geometric%20Challenge&url=https%3A//shanghai.nyu.edu/news/algorithm-solves-longstanding-geometric-challenge&status=Algorithm%20Solves%20Longstanding%20Geometric%20Challenge%20https%3A//shanghai.nyu.edu/news/algorithm-solves-longstanding-geometric-challenge",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/algorithm-solves-longstanding-geometric-challenge&title=Algorithm%20Solves%20Longstanding%20Geometric%20Challenge",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/algorithm-solves-longstanding-geometric-challenge&title=Algorithm%20Solves%20Longstanding%20Geometric%20Challenge",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://arxiv.org/abs/2007.08784",
+      "text": "study",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jie-xue",
+      "text": "Jie Xue",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 496,
+  "crawled_at": "2026-06-09T04:40:38+00:00",
+  "sequence": 1302
+}

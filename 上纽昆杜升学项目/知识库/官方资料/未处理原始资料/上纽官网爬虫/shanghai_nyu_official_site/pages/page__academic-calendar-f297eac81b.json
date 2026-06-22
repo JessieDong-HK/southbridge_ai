@@ -1,0 +1,88 @@
+{
+  "id": "page__academic-calendar-f297eac81b",
+  "url": "https://shanghai.nyu.edu/page/academic-calendar",
+  "canonical_url": "https://shanghai.nyu.edu/page/academic-calendar",
+  "page_type": "page",
+  "title": "Academic Calendar",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Academic Calendar\nChoose a semester: Fall 2026 | January 2027 | Spring 2027 | Summer 2027\nOptional Summer Term 2026\nFall 2026 | Google Calendar\nLast Day of 1st 7-week Classes\nOptional January Term 2027\nSpring 2027\nOptional Summer Term 2027",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Academic Calendar"
+    },
+    {
+      "type": "p",
+      "text": "Choose a semester: Fall 2026 | January 2027 | Spring 2027 | Summer 2027"
+    },
+    {
+      "type": "h3",
+      "text": "Optional Summer Term 2026"
+    },
+    {
+      "type": "h3",
+      "text": "Fall 2026 | Google Calendar"
+    },
+    {
+      "type": "p",
+      "text": "Last Day of 1st 7-week Classes"
+    },
+    {
+      "type": "h3",
+      "text": "Optional January Term 2027"
+    },
+    {
+      "type": "h3",
+      "text": "Spring 2027"
+    },
+    {
+      "type": "h3",
+      "text": "Optional Summer Term 2027"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/page/academic-calendar",
+      "text": "Fall 2026",
+      "internal": true
+    },
+    {
+      "url": "https://calendar.google.com/calendar/u/0?cid=Y19lNDc1ZTFmYWQwYzBjOWJjZGFlOTA3NWQ4ZjQ5ZDAxZjJiMWIzOWRmMTFlMzc5NzI5ZmE5ZmFhNDg2MTJiZmViQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20",
+      "text": "Google Calendar",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/NYUSH_2025-2026_Academic_Calendar.pdf",
+      "text": "2025-2026 Academic Calendar",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/NYUSH_2024-2025_Academic_Calendar.pdf",
+      "text": "2024-2025 Academic Calendar",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/nyush_2023-2024_academic_calendar.pdf",
+      "text": "2023-2024 Academic Calendar",
+      "internal": false
+    },
+    {
+      "url": "http://cdn.shanghai.nyu.edu/sites/default/files/nyush_2022-2023_academic_calendar.pdf",
+      "text": "2022-2023 Academic Calendar",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/nyush_2021-2022_academic_calendar.pdf",
+      "text": "2021-2022 Academic Calendar",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 38,
+  "crawled_at": "2026-06-09T04:28:31+00:00",
+  "sequence": 88
+}

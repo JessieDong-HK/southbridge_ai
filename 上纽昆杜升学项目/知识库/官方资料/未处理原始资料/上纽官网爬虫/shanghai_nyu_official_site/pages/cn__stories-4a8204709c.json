@@ -1,0 +1,252 @@
+{
+  "id": "cn__stories-4a8204709c",
+  "url": "https://shanghai.nyu.edu/cn/stories?page=8",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "cn",
+  "title": "人物 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "人物\nJessica Seobyn Ryu：“韩国小姐”长成记\n对话历史学教授Tansen Sen：跨越中印两国的旅程\n2017届毕业生Mark West：设立行业标准，为艺术创造平等机会\n对话全球中国学助理教授Lena Scheen：品小说，读中国\n好室友 好朋友：2022届学生毛家翌和Farheen Foad\n2020届硕士毕业生：杨挚（英语教育项目）\n2020届硕士毕业生：Jiyoung Kim（数据分析和商业计算项目）\n上纽校友王莹：2个月，106台呼吸机，我与疫情赛跑\n关成贺：用大数据想象未来城市\n上纽大创校校长俞立中：亲民校长的教育梦\n童世骏校长：对话中的人生\n何梓晴：拥抱不确定性",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "人物"
+    },
+    {
+      "type": "h4",
+      "text": "Jessica Seobyn Ryu：“韩国小姐”长成记"
+    },
+    {
+      "type": "h4",
+      "text": "对话历史学教授Tansen Sen：跨越中印两国的旅程"
+    },
+    {
+      "type": "h4",
+      "text": "2017届毕业生Mark West：设立行业标准，为艺术创造平等机会"
+    },
+    {
+      "type": "h4",
+      "text": "对话全球中国学助理教授Lena Scheen：品小说，读中国"
+    },
+    {
+      "type": "h4",
+      "text": "好室友 好朋友：2022届学生毛家翌和Farheen Foad"
+    },
+    {
+      "type": "h4",
+      "text": "2020届硕士毕业生：杨挚（英语教育项目）"
+    },
+    {
+      "type": "h4",
+      "text": "2020届硕士毕业生：Jiyoung Kim（数据分析和商业计算项目）"
+    },
+    {
+      "type": "h4",
+      "text": "上纽校友王莹：2个月，106台呼吸机，我与疫情赛跑"
+    },
+    {
+      "type": "h4",
+      "text": "关成贺：用大数据想象未来城市"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大创校校长俞立中：亲民校长的教育梦"
+    },
+    {
+      "type": "h4",
+      "text": "童世骏校长：对话中的人生"
+    },
+    {
+      "type": "h4",
+      "text": "何梓晴：拥抱不确定性"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/miss_korea_123.jpg?itok=qSnELCVI",
+      "alt": "miss korea seobyn ryu banner2",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/miss_korea_123-f43dffc2eff3.jpg",
+      "download_status": "downloaded",
+      "bytes": 25210,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/homepage350.jpg?itok=iu5Mwo1s",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/homepage350-c19ff0787bc6.jpg",
+      "download_status": "downloaded",
+      "bytes": 30694,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/cx2a0059.jpg?itok=7y-JdhuQ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/cx2a0059-4344f04d13b2.jpg",
+      "download_status": "downloaded",
+      "bytes": 26210,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/05.11-940.jpg?itok=AUUrUIdx",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/05.11-940-4b711964cb0e.jpg",
+      "download_status": "downloaded",
+      "bytes": 24444,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/roommates_banner_image.jpg?itok=AV6rnCRi",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/jamesnyu.jpg?itok=ZMMPZgo9",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/jamesnyu-93be7f6b411a.jpg",
+      "download_status": "downloaded",
+      "bytes": 28362,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/19-0908_110_meitu_1_2.jpg?itok=aQC2vva2",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/19-0908_110_meitu_1_2-b94b79cf5a45.jpg",
+      "download_status": "downloaded",
+      "bytes": 22959,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/3q0a007-940.jpg?itok=ZuqpCPY7",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/focus_image/05.11-940.jpg?itok=tih9p4fT",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/05.11-940-858872193836.jpg",
+      "download_status": "downloaded",
+      "bytes": 20362,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/2020-06-01.jpg?itok=XPy2dEEd",
+      "alt": "pinpincSHEH",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2020-06-01-5f19b728decb.jpg",
+      "download_status": "downloaded",
+      "bytes": 17206,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/2020-06-01_1.png?itok=D9XFVQYo",
+      "alt": "6020101",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2020-06-01_1-474dbfb2a181.png",
+      "download_status": "downloaded",
+      "bytes": 201244,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/headline_photo_-_homepage.jpg?itok=HpBxV70D",
+      "alt": "Laughing under cherry blossoms at Jefferson Memorial",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/headline_photo_-_homepage-4c866264cc7d.jpg",
+      "download_status": "downloaded",
+      "bytes": 21849,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/jessica-seobyn-ryu-becoming-miss-korea",
+      "text": "Jessica Seobyn Ryu：“韩国小姐”长成记",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/dui-hua-li-shi-xue-jiao-shoutansen-sen-kua-yue-zhong-yin-liang-guo-de-lu-cheng",
+      "text": "对话历史学教授Tansen Sen：跨越中印两国的旅程",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2017-jie-bi-ye-shengmark-west-she-li-xing-ye-biao-zhun-wei-yi-shu-chuang-zao-ping-deng-ji",
+      "text": "2017届毕业生Mark West：设立行业标准，为艺术创造平等机会",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/dui-hua-quan-qiu-zhong-guo-xue-zhu-li-jiao-shoulena-scheen-pin-xiao-shuo-du-zhong-guo",
+      "text": "对话全球中国学助理教授Lena Scheen：品小说，读中国",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/roommates-mao-jiayi-22-and-farheen-foad-22heen-foad",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2020-jie-shuo-shi-bi-ye-sheng-yang-zhi-ying-yu-jiao-yu-xiang-mu",
+      "text": "2020届硕士毕业生：杨挚（英语教育项目）",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/2020-jie-shuo-shi-bi-ye-sheng-jiyoung-kim-shu-ju-fen-xi-he-shang-ye-ji-suan-xiang-mu",
+      "text": "2020届硕士毕业生：Jiyoung Kim（数据分析和商业计算项目）",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/two-month-race-supplying-frontlines-pandemic",
+      "text": "上纽校友王莹：2个月，106台呼吸机，我与疫情赛跑",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/guan-cheng-he-yong-da-shu-ju-xiang-xiang-wei-lai-cheng-shi",
+      "text": "关成贺：用大数据想象未来城市",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/yu-lizhong-founding-chancellor-our-times",
+      "text": "上纽大创校校长俞立中：亲民校长的教育梦",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/tong-shi-jun-xiao-zhang-dui-hua-zhong-de-ren-sheng",
+      "text": "童世骏校长：对话中的人生",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/stories/he-zi-qing-yong-bao-bu-que-ding-xing",
+      "text": "何梓晴：拥抱不确定性",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 40,
+  "crawled_at": "2026-06-09T04:33:08+00:00",
+  "sequence": 655
+}

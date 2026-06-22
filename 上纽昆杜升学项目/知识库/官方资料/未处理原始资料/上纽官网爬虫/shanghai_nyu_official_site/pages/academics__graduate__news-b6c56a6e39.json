@@ -1,0 +1,242 @@
+{
+  "id": "academics__graduate__news-b6c56a6e39",
+  "url": "https://shanghai.nyu.edu/academics/graduate/news?page=1",
+  "canonical_url": "https://shanghai.nyu.edu/academics/graduate/news",
+  "page_type": "academics",
+  "title": "Graduate News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Graduate News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Graduate News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/grad_news_banner_-_1280480_px_1.png?itok=n6m46x_3",
+      "alt": "Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/grad_news_banner_-_1280480_px_1.png?itok=n6m46x_3 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in vi"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/shuo_banner.jpg?itok=7yDLCDP6",
+      "alt": "Math PhD Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/ogae_orientation_banner.jpg?itok=237wrk_d",
+      "alt": "2024 OGAE Orientation Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ogae_orientation_banner-f04e03be886e.jpg",
+      "download_status": "downloaded",
+      "bytes": 43782,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/grad_news_banner_-_1280480_px_0.png?itok=ZGEhWBp-",
+      "alt": "Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/grad_news_banner_-_1280480_px_0.png?itok=ZGEhWBp- (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in vi"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/2024_doctoral_summer_camp_banner.png?itok=_64Q_CMd",
+      "alt": "2024_doctoral_summer_camp_banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2024_doctoral_summer_camp_banner-31ba8ded2adf.png",
+      "download_status": "downloaded",
+      "bytes": 248395,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/0_banner.png?itok=RXi_sCRW",
+      "alt": "0_banner.png",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/stern_summer_recap_image_0.png?itok=gkZAvyQf",
+      "alt": "Thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/stern_summer_recap_image_0-ac03a844b9d2.png",
+      "download_status": "downloaded",
+      "bytes": 290066,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/nyu00345.jpg?itok=y_ys4mNu",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/copy_of_shanghai_stock_exchange_on_feb_28-05_0.jpg?itok=FK8Tof1n",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/copy_of_shanghai_stock_exchange_on_feb_28-05_0.jpg?itok=FK8Tof1n (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/research_assembly_thumbnail-1_1.jpg?itok=StU8kAo7",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/research_assembly_thumbnail-1_1-2468cbf9c5ab.jpg",
+      "download_status": "downloaded",
+      "bytes": 32456,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/nyu00075-3.jpg?itok=EcIcEEK3",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/image1-2.jpg?itok=KVL0i4jk",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/image1-2.jpg?itok=KVL0i4jk (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/tim_zheng_thumbnail_0.jpg?itok=uT0ngCA2",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/tim_zheng_thumbnail_0-777452258e5b.jpg",
+      "download_status": "downloaded",
+      "bytes": 19085,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/pic1.jpg?itok=jtT1kW7t",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/pic1-e2783f07188b.jpg",
+      "download_status": "downloaded",
+      "bytes": 31383,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/4-2.jpg?itok=pGaNUPrO",
+      "alt": "thumbnail",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/4-2.jpg?itok=pGaNUPrO (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/stern-shanghai-alumni-cocktails-conversation-ai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-awards-first-phd-mathematics-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-welcomes-2024-masters-and-phd-student-cohort-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/summer-city-nyu-shanghai-nyu-stern-ms-programs-summer-2024-highlights",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-first-year-doctoral-summer-camp-setting-new-journey-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/ima-low-res-thesis-24-show",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/summer-2024-orientation-nyu-stern-launching-journey-growth-and-academic-excellence",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-celebrates-2024-graduate-convocation-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/springing-forward-nyu-shanghai-nyu-stern-ms-programs-spring-2024-recap",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/ready-set-present-research-assembly-pushes-limits-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/symposium-centers-childrens-health-and-wellbeing-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/ima-low-res-alumni-host-renewal-room-wellness-space-nyu-community",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/professor-tim-zheng-studying-artificial-intelligence-cross-cultural-and-global-mindset",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/empowering-next-generation-educators-tesol-program-welcomes-new-co-director-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/learning-and-engaging-fall-2023-semester-study-programs-highlights",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:42:50+00:00",
+  "sequence": 1507
+}

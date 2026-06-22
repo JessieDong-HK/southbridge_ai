@@ -1,0 +1,49 @@
+{
+  "id": "page__culturexchange-b45be66441",
+  "url": "https://shanghai.nyu.edu/page/culturexchange",
+  "canonical_url": "https://shanghai.nyu.edu/page/culturexchange",
+  "page_type": "page",
+  "title": "CultureXChange",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "CultureXChange\nEvery Spring semester, CultureXChange offers a platform for our community members to organize events centering and celebrating their cultures, engaging fellow students to practice experiential learning and cultural humility. We support students who apply for cultural ambassadors to practice leadership, culturally-specific advocacy, and critical multicultural community building. Past events engage students through traditional practices, customs, foods, arts, and more.\nDocument: here (NYU login required).",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "CultureXChange"
+    },
+    {
+      "type": "p",
+      "text": "Every Spring semester, CultureXChange offers a platform for our community members to organize events centering and celebrating their cultures, engaging fellow students to practice experiential learning and cultural humility. We support students who apply for cultural ambassadors to practice leadership, culturally-specific advocacy, and critical multicultural community building. Past events engage students through traditional practices, customs, foods, arts, and more."
+    },
+    {
+      "type": "p",
+      "text": "Document: here (NYU login required)."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/cul-2_1.jpg",
+      "alt": "CultureXChange",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/cul-2_1-0f9ad0998ad1.jpg",
+      "download_status": "downloaded",
+      "bytes": 518574,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://docs.google.com/document/d/1rlhcrYc75kse_ynQyjMTXaiss_a9apJXOh9Knghf2Yk/edit?usp=sharing",
+      "text": "here",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 66,
+  "crawled_at": "2026-06-09T04:32:07+00:00",
+  "sequence": 522
+}

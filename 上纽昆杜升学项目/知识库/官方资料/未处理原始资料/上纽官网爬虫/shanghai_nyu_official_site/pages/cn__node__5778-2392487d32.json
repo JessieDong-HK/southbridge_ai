@@ -1,0 +1,124 @@
+{
+  "id": "cn__node__5778-2392487d32",
+  "url": "https://shanghai.nyu.edu/cn/node/5778",
+  "canonical_url": "https://shanghai.nyu.edu/students",
+  "page_type": "cn",
+  "title": "Students",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Students\nNYU Shanghai has grown from its first class of 295 undergraduates in 2013. Today’s student body is truly diverse and international. From the start, students are fully immersed in a multicultural and multilingual learning environment, helping them develop into innovative individuals with strong cross-cultural communication skills.\nThe resources on this page will help you explore what it’s like to study here, make the most of the opportunities available to you, and start preparing for the next steps after graduation.\nAcademic Calendar\nStudent Life\nGet involved! Connect to our vibrant and ever evolving student community.\nAcademic Resource Center\nGet the support you need with one-on-one tutoring, study groups, workshops, and more.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Students"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai has grown from its first class of 295 undergraduates in 2013. Today’s student body is truly diverse and international. From the start, students are fully immersed in a multicultural and multilingual learning environment, helping them develop into innovative individuals with strong cross-cultural communication skills."
+    },
+    {
+      "type": "p",
+      "text": "The resources on this page will help you explore what it’s like to study here, make the most of the opportunities available to you, and start preparing for the next steps after graduation."
+    },
+    {
+      "type": "h4",
+      "text": "Academic Calendar"
+    },
+    {
+      "type": "h4",
+      "text": "Student Life"
+    },
+    {
+      "type": "p",
+      "text": "Get involved! Connect to our vibrant and ever evolving student community."
+    },
+    {
+      "type": "h4",
+      "text": "Academic Resource Center"
+    },
+    {
+      "type": "p",
+      "text": "Get the support you need with one-on-one tutoring, study groups, workshops, and more."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/22.jpg",
+      "alt": "Academic Calendar",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/22-bd8381704cb3.jpg",
+      "download_status": "downloaded",
+      "bytes": 187843,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/21_1.jpg",
+      "alt": "Student Life",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/21_1-34e8479c5eb5.jpg",
+      "download_status": "downloaded",
+      "bytes": 48362,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/19_3.jpg",
+      "alt": "Academic Resource Center",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/19_3-0d85cea99b12.jpg",
+      "download_status": "downloaded",
+      "bytes": 38296,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/academics/calendar",
+      "text": "Academic Calendar",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/student-life",
+      "text": "Student Life",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/arc",
+      "text": "Academic Resource Center",
+      "internal": true
+    },
+    {
+      "url": "http://students.shanghai.nyu.edu/",
+      "text": "Student Portal",
+      "internal": false
+    },
+    {
+      "url": "https://students.shanghai.nyu.edu/content/get-visa-china",
+      "text": "Moving Countries",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/page/bills-payments-and-refunds",
+      "text": "Office of the Bursar",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career",
+      "text": "Career Development",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/content/2024-new-student-faq",
+      "text": "New Student FAQs",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 116,
+  "crawled_at": "2026-06-09T04:32:40+00:00",
+  "sequence": 607
+}

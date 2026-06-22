@@ -1,0 +1,38 @@
+{
+  "id": "page__apr-handbook-a58dddd971",
+  "url": "https://shanghai.nyu.edu/page/apr-handbook",
+  "canonical_url": "https://shanghai.nyu.edu/page/apr-handbook",
+  "page_type": "page",
+  "title": "APR Handbook",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "APR Handbook\nNYU Shanghai faculty can learn more in the handbook available in the APR Shared Drive.\nAPR Handbook",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "APR Handbook"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai faculty can learn more in the handbook available in the APR Shared Drive."
+    },
+    {
+      "type": "p",
+      "text": "APR Handbook"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://drive.google.com/drive/folders/14X-RaGmA-3KYW9ebXGiG02UF7zGFthDS?usp=sharing",
+      "text": "APR Handbook",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 19,
+  "crawled_at": "2026-06-09T04:30:43+00:00",
+  "sequence": 345
+}

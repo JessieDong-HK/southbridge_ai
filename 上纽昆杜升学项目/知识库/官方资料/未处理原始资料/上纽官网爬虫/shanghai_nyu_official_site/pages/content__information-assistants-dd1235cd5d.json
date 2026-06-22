@@ -1,0 +1,97 @@
+{
+  "id": "content__information-assistants-dd1235cd5d",
+  "url": "https://shanghai.nyu.edu/content/information-assistants",
+  "canonical_url": "https://shanghai.nyu.edu/content/information-assistants",
+  "page_type": "content",
+  "title": "Information Assistants",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Information Assistants\nMission\nInformation Assistants (IAs) attend the front desk, welcoming students to the Academic Resource Center (ARC). They can help you learn more about the academic support available in the ARC, assist you in reviewing the tutoring schedule, or guide you to the available tutors during drop-in office hours. IAs also serve as the liaison between the ARC and the undergraduate student body to share feedback with the ARC and help the ARC promote and improve services.\nEligibility Requirements\nInformation Assistants (IAs) are reliable and responsible with an enthusiasm for connecting students to academic resources. They are friendly and welcoming, with the ability to communicate effectively and solve problems efficiently. They are passionate about helping students access the ARC and providing feedback to the leadership team that can help the ARC work to engage students more effectively.\nFirst and second-year students are prioritized for the IA position.\nApplication Form and Deadline:\nInterested applicants should fill out this application form.\nThe application deadline is 11:59 PM, Monday, January 12, 2026. Selected candidates will be invited for on-site interviews scheduled between January 19-21, 2026.\nLearn more about the Information Assistants program.\nClick here to download the full Job Description.\nIAs typically work 5-8 hours per week.\nIAs staff the ARC front desk on the 5th floor of the West Hall and direct students to ARC walk-in sessions. They maintain the ARC space and ensure supplies and resources are well-stocked. IAs may work on semester-long group or individual projects with the goals of helping to advance ARC services and engaging students with the ARC.\nThe IA position helps students develop time management skills, professional and collaborative skills like communication and leadership, and familiarize themselves with the processes of the Academic Resource Center and the Academic Affairs Department at NYU Shanghai. The job prepares students for future positions in administration and coordination. IAs are also encouraged to apply for the Learning Assistant role in their upperclass years.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Information Assistants"
+    },
+    {
+      "type": "h3",
+      "text": "Mission"
+    },
+    {
+      "type": "p",
+      "text": "Information Assistants (IAs) attend the front desk, welcoming students to the Academic Resource Center (ARC). They can help you learn more about the academic support available in the ARC, assist you in reviewing the tutoring schedule, or guide you to the available tutors during drop-in office hours. IAs also serve as the liaison between the ARC and the undergraduate student body to share feedback with the ARC and help the ARC promote and improve services."
+    },
+    {
+      "type": "h3",
+      "text": "Eligibility Requirements"
+    },
+    {
+      "type": "p",
+      "text": "Information Assistants (IAs) are reliable and responsible with an enthusiasm for connecting students to academic resources. They are friendly and welcoming, with the ability to communicate effectively and solve problems efficiently. They are passionate about helping students access the ARC and providing feedback to the leadership team that can help the ARC work to engage students more effectively."
+    },
+    {
+      "type": "p",
+      "text": "First and second-year students are prioritized for the IA position."
+    },
+    {
+      "type": "h3",
+      "text": "Application Form and Deadline:"
+    },
+    {
+      "type": "p",
+      "text": "Interested applicants should fill out this application form."
+    },
+    {
+      "type": "p",
+      "text": "The application deadline is 11:59 PM, Monday, January 12, 2026. Selected candidates will be invited for on-site interviews scheduled between January 19-21, 2026."
+    },
+    {
+      "type": "h3",
+      "text": "Learn more about the Information Assistants program."
+    },
+    {
+      "type": "p",
+      "text": "Click here to download the full Job Description."
+    },
+    {
+      "type": "p",
+      "text": "IAs typically work 5-8 hours per week."
+    },
+    {
+      "type": "p",
+      "text": "IAs staff the ARC front desk on the 5th floor of the West Hall and direct students to ARC walk-in sessions. They maintain the ARC space and ensure supplies and resources are well-stocked. IAs may work on semester-long group or individual projects with the goals of helping to advance ARC services and engaging students with the ARC."
+    },
+    {
+      "type": "p",
+      "text": "The IA position helps students develop time management skills, professional and collaborative skills like communication and leadership, and familiarize themselves with the processes of the Academic Resource Center and the Academic Affairs Department at NYU Shanghai. The job prepares students for future positions in administration and coordination. IAs are also encouraged to apply for the Learning Assistant role in their upperclass years."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/IA_0.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/IA_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdYMAVVMVCAr8bIqciGj3DJHJ5jM24VGLhmWGcKy79hPWz2RA/viewform",
+      "text": "this application form",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1Z1qVZ5AhSBdTq_tNU433XO3yIOdQKuj1uuX_J2UHGdw/edit?tab=t.0",
+      "text": "Job Description",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 333,
+  "crawled_at": "2026-06-09T04:42:23+00:00",
+  "sequence": 1469
+}

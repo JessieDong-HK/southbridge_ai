@@ -1,0 +1,102 @@
+{
+  "id": "campus-life__involvement__community-43c6dd1609",
+  "url": "https://shanghai.nyu.edu/campus-life/involvement/community",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/involvement/community",
+  "page_type": "campus-life",
+  "title": "Community Engagement",
+  "description": "NYU Shanghai is full of opportunities to engage with the local community and communities across China, and explore this country’s rich culture, history, and development.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Community Engagement\nNYU Shanghai is full of opportunities to engage with the local community and communities across China, and explore this country’s rich culture, history, and development.\nHere, students are encouraged to step outside of familiar environments and expand their horizons. By engaging with the community and culture of Shanghai and China, students can build leadership, communication, and problem-solving skills, learn about themselves and the world around them, and advance their academics by connecting classroom learning with real-world experience.\nFind out more about volunteering and involvement opportunities at NYU Shanghai below, or email shanghai.involvement@nyu.edu.\nDean's Service Corps\nProject OutReach\nThis is China",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Community Engagement"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai is full of opportunities to engage with the local community and communities across China, and explore this country’s rich culture, history, and development."
+    },
+    {
+      "type": "p",
+      "text": "Here, students are encouraged to step outside of familiar environments and expand their horizons. By engaging with the community and culture of Shanghai and China, students can build leadership, communication, and problem-solving skills, learn about themselves and the world around them, and advance their academics by connecting classroom learning with real-world experience."
+    },
+    {
+      "type": "p",
+      "text": "Find out more about volunteering and involvement opportunities at NYU Shanghai below, or email shanghai.involvement@nyu.edu."
+    },
+    {
+      "type": "h4",
+      "text": "Dean's Service Corps"
+    },
+    {
+      "type": "h4",
+      "text": "Project OutReach"
+    },
+    {
+      "type": "h4",
+      "text": "This is China"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/athletics-07_0.jpg",
+      "alt": "Activities & Community Engagement",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/athletics-08.jpg",
+      "alt": "Dean service scholars",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/athletics-08-3d32ef4111d2.jpg",
+      "download_status": "downloaded",
+      "bytes": 66850,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/athletics-09.jpg",
+      "alt": "project OutReach",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/athletics-09.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/athletics-111.jpg",
+      "alt": "This is China",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/involvement/community/scholars",
+      "text": "Dean's Service Corps",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/involvement/community/outreach",
+      "text": "Project OutReach",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/involvement/community/china",
+      "text": "This is China",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 109,
+  "crawled_at": "2026-06-09T04:32:02+00:00",
+  "sequence": 510
+}

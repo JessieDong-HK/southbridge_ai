@@ -1,0 +1,35 @@
+{
+  "id": "academics__faculty__directory__arif-nairang-e8ff2356b7",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/arif-nairang",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/arif-nairang",
+  "page_type": "academics",
+  "title": "Arif",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Arif Nairang",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Arif Nairang"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/IMG_0625.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/IMG_0625-a1aa00fc8386.jpg",
+      "download_status": "downloaded",
+      "bytes": 618215,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:34:52+00:00",
+  "sequence": 793
+}

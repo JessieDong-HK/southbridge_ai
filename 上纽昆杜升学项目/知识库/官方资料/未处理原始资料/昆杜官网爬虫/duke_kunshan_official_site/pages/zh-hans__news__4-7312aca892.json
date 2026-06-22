@@ -1,0 +1,36 @@
+{
+  "id": "zh-hans__news__4-7312aca892",
+  "url": "https://www.dukekunshan.edu.cn/zh-hans/news/4",
+  "canonical_url": "https://www.dukekunshan.edu.cn/zh-hans/news/4/",
+  "page_type": "zh-hans",
+  "title": "求真以致善：一群昆杜人的“无人驾驶”之旅",
+  "description": "在昆山杜克大学，张天一是医学物理专业的2024届硕士，本科时他专攻电子信息工程领域，曾参与大疆产品研发；而Renzo Balcazar Tapia则是数据科学方向的2025届本科生，他来自秘鲁，研究兴趣在于算法，曾获得多项数学奥林匹克国际竞赛大奖。在求学与生活的旅途中，他们原本是两条泾渭分明的平行线。但是，大学生创新创业项目“机器人自主定位导航技术算法研究”却让两条平行线交汇，开启了一条科研之路。两人都想要建立一种机器人控制算法，使得机器能够具备机器控制能力和感知周围环境、主动避障的导航能力，为“无人驾驶”这一重点领域的发展贡献力量。“志同”进而“道合”，他们在这段项目经历中碰撞出了“平行且相交”的科研成果，交融出了立体而多彩的创新收获。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "2023-12-13T11:21:56+00:00",
+  "sitemap_lastmod": "2023-12-13T11:21:56+00:00",
+  "text": "求真以致善：一群昆杜人的“无人驾驶”之旅",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "求真以致善：一群昆杜人的“无人驾驶”之旅"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 4,
+  "crawled_at": "2026-06-03T13:52:20+00:00",
+  "sequence": 300
+}

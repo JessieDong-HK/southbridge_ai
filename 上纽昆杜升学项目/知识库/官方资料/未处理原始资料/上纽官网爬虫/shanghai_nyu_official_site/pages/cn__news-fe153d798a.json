@@ -1,0 +1,247 @@
+{
+  "id": "cn__news-fe153d798a",
+  "url": "https://shanghai.nyu.edu/cn/news?page=5",
+  "canonical_url": "https://shanghai.nyu.edu/news",
+  "page_type": "cn",
+  "title": "新闻 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "新闻",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "新闻"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/exploring_authenticity_through_food_-01.jpg?itok=QtbCSkHh",
+      "alt": "nyu shanghai reads",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/ica_at_nyu_shanghai_launches_new_exhibition_chronologies_-01.jpg?itok=7qBbnFnN",
+      "alt": "studentbodies",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/nyu_shanghai_faculty_publications_selected_for_prestigious_stoc_conference-04_1.jpg?itok=n_mKK9y2",
+      "alt": "graph theory",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyu_shanghai_faculty_publications_selected_for_prest-c7d98d068a62.jpg",
+      "download_status": "downloaded",
+      "bytes": 16298,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/reality_show-01_0.jpg?itok=epQJsTqC",
+      "alt": "reality show",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/reality_show-01_0-c4e98898ca7a.jpg",
+      "download_status": "downloaded",
+      "bytes": 35876,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/nyu_shanghai_celebrates_naming_of_dangdang_auditorium-01_0.jpg?itok=JzAfEQmJ",
+      "alt": "dangdangauditorium",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyu_shanghai_celebrates_naming_of_dangdang_auditoriu-af48a6a9bdbf.jpg",
+      "download_status": "downloaded",
+      "bytes": 31028,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/clara_princeton_in_asia-01.jpg?itok=_5zR_2oS",
+      "alt": "Clara Akhlaghi ’25",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/clara_princeton_in_asia-01-83acf491c42c.jpg",
+      "download_status": "downloaded",
+      "bytes": 25633,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/nyu_shanghai_open_course_first_class_group_photo.jpg?itok=cVBjA6BP",
+      "alt": "nyu shanghai open courses first class group photo",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nyu_shanghai_open_course_first_class_group_photo-6e336ce98854.jpg",
+      "download_status": "downloaded",
+      "bytes": 36681,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/banner16bi9.jpg?itok=FWI7LCkv",
+      "alt": "AI Summer Program",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/banner16bi9-a06f6287976f.jpg",
+      "download_status": "downloaded",
+      "bytes": 42126,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/up_up_and_study_away_in_shanghai-01.jpg?itok=SxAPXnuH",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/shendiheshangniudahezuo-01.jpg?itok=BpSvZwMS",
+      "alt": "Banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/shendiheshangniudahezuo-01-77961be41594.jpg",
+      "download_status": "downloaded",
+      "bytes": 20337,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/class_of_2029_orientation_you_just_had_to_be_there-01.jpg?itok=KsEg4M8U",
+      "alt": "orientation banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/class_of_2029_orientation_you_just_had_to_be_there-0-44f6bef6f946.jpg",
+      "download_status": "downloaded",
+      "bytes": 38815,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/measuring_magic_-_new_tool_could_boost_quantum_computing_power-01.jpg?itok=dd80-zmJ",
+      "alt": "magic study tim",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/beyond_entanglement_-_first_experimental_measurement_of_three-particle_quantum_discord-01.jpg?itok=GrZ89d2N",
+      "alt": "discord",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/beyond_entanglement_-_first_experimental_measurement-3d79b8509a0f.jpg",
+      "download_status": "downloaded",
+      "bytes": 28173,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/vins_summer_school_news-01.jpg?itok=gFvPtOaq",
+      "alt": "2025 sofie",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/vins_summer_school_news-01-9d5513c20df1.jpg",
+      "download_status": "downloaded",
+      "bytes": 31025,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/shangniudabaodaorixinshengmendouzailiaoshenme_-01.jpg?itok=nnKv0jJu",
+      "alt": "CN banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/shangniudabaodaorixinshengmendouzailiaoshenme_-01-1663c301ac7f.jpg",
+      "download_status": "downloaded",
+      "bytes": 35904,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/exploring-authenticity-through-food",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/new-exhibition-opens-ica-chronologies",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/nyu-shanghai-faculty-publications-selected-prestigious-stoc-conference",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/reality-show-brings-college-experience-stage",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/nyu-shanghai-celebrates-naming-dangdang-auditorium",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/clara-akhlaghi-25-awarded-princeton-asia-scholarship",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/open-courses-unlock-lifelong-learning",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/nyu-shanghai-launches-first-ai-summer-program-high-schoolers",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/up-up-and-study-away-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/shang-hai-niu-yue-da-xue-yu-shen-di-ji-tuan-qian-shu-zhan-e-he-zuo-kuang-jia-xie-yi",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/class-2029-orientation-you-just-had-be-there",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/measuring-magic-new-tool-could-boost-quantum-computing-power",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/beyond-entanglement-first-experimental-measurement-three-particle-quantum-discord",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/2025-sofie-summer-school-exploring-climate-and-nature-finance",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/new-beginnings-class-2029-moves",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:32:51+00:00",
+  "sequence": 626
+}

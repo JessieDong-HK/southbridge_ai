@@ -1,0 +1,248 @@
+{
+  "id": "global-awards-f12d1d9382",
+  "url": "https://shanghai.nyu.edu/global-awards?page=2",
+  "canonical_url": "https://shanghai.nyu.edu/global-awards",
+  "page_type": "global-awards",
+  "title": "Global Awards | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Global Awards",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Global Awards"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/05.21-940.jpg?itok=824Z9RHa",
+      "alt": "Three Fulbright and Critical Language Scholarship winners",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/05.21-940-4d3e6b84a94b.jpg",
+      "download_status": "downloaded",
+      "bytes": 64991,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/img_8378.jpg?itok=zAyJVlHw",
+      "alt": "Ariana Wearing NYU Shanghai T-shirt in Yuyuan Gardens",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_8378-8e05e514ddad.jpg",
+      "download_status": "downloaded",
+      "bytes": 49054,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/banner940_0.jpg?itok=WHgYQqUQ",
+      "alt": "yenching",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/banner940_0-5d362a70feea.jpg",
+      "download_status": "downloaded",
+      "bytes": 46937,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/web_2.jpg?itok=WBKBpwDr",
+      "alt": "Taylah and Alex",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/web_2-70a416b7a1d8.jpg",
+      "download_status": "downloaded",
+      "bytes": 54225,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/940-350_0.jpg?itok=L2rSj2-y",
+      "alt": "940350",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/940-350_0-58f3aa2f04d1.jpg",
+      "download_status": "downloaded",
+      "bytes": 60811,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/2020-04-23_1.jpg?itok=FrFxeYJJ",
+      "alt": "000000000",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2020-04-23_1-6de896c1b633.jpg",
+      "download_status": "downloaded",
+      "bytes": 62096,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/295284090-940.jpg?itok=BMRM4NXl",
+      "alt": "Ma Haitian '20 at Keukenhof Park in the Netherlands",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/dsc_0004-940.jpg?itok=k0nYFXOO",
+      "alt": "Three students",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/dsc_0004-940-cabb52548cd7.jpg",
+      "download_status": "downloaded",
+      "bytes": 63933,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/0509-800.jpg?itok=kTuKxwHM",
+      "alt": "pic safia",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/savannah-billman-940.jpg?itok=ukUkzT5T",
+      "alt": "Savannah Billman",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/savannah-billman-940-6602b9bb3234.jpg",
+      "download_status": "downloaded",
+      "bytes": 48618,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/scholarships940.jpg?itok=0C-KQCfK",
+      "alt": "taiwan",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/scholarships940-4cbc709c4bc7.jpg",
+      "download_status": "downloaded",
+      "bytes": 59683,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/alum-win-940.jpg?itok=RF3GUved",
+      "alt": "Alum Win",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/alum-win-940-17f6846caad2.jpg",
+      "download_status": "downloaded",
+      "bytes": 65184,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/231537966311_.pic_.jpg?itok=3PjHfgUc",
+      "alt": "Mongolia",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/231537966311_.pic-538a26dbe2da.jpg",
+      "download_status": "downloaded",
+      "bytes": 65033,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/yanjing-940.jpg?itok=xD_dBGWs",
+      "alt": "Chinese houses",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/landing_page_style/public/field/image/nofar-940.jpg?itok=JJff9w3N",
+      "alt": "Nofar Hamrany",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/nofar-940-fc45cc253389.jpg",
+      "download_status": "downloaded",
+      "bytes": 29202,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/three-students-awarded-us-fellowships-language-exchange",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-sophomore-wins-fellowship-and-future-us-diplomatic-placement",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-senior-and-alum-named-yenching-scholars-peking-university",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/seniors-awarded-schwarzman-scholars-fellowship-tsinghua-university",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/two-nyu-shanghai-seniors-earn-fulbright-scholarships",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-students-win-boren-and-erasmus-mundus-scholarships",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/senior-named-nyu-shanghais-first-clarendon-scholar",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/three-nyu-shanghai-seniors-receive-schwarzman-scholars-fellowship",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-senior-named-2019-princeton-asia-fellow",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-senior-wins-yenching-scholarship-peking-university",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/two-nyu-shanghai-students-earn-fulbright-scholarships",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/alum-wins-nyu-shanghais-first-erasmus-mundus-scholarship",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/alumni-serve-malaysia-and-mongolia-princeton-asia-fellows",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/seniors-named-yenching-scholars",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-senior-selected-2019-schwarzman-scholar",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:42:02+00:00",
+  "sequence": 1435
+}

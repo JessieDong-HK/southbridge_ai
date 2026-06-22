@@ -1,0 +1,36 @@
+{
+  "id": "news__nothing-compares-to-dku-9c436716d9",
+  "url": "https://www.dukekunshan.edu.cn/news/nothing-compares-to-dku",
+  "canonical_url": "https://www.dukekunshan.edu.cn/news/nothing-compares-to-dku/",
+  "page_type": "news",
+  "title": "Nothing compares to DKU",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2022-05-31T07:32:14+00:00",
+  "sitemap_lastmod": "2022-05-31T08:14:01+00:00",
+  "text": "Nothing compares to DKU",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Nothing compares to DKU"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 4,
+  "crawled_at": "2026-06-03T13:51:24+00:00",
+  "sequence": 218
+}

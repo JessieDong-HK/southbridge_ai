@@ -1,0 +1,102 @@
+{
+  "id": "cn__campus-life__involvement__community-f356f5d5f9",
+  "url": "https://shanghai.nyu.edu/cn/campus-life/involvement/community",
+  "canonical_url": "https://shanghai.nyu.edu/cn/campus-life/involvement/community",
+  "page_type": "cn",
+  "title": "社区参与",
+  "description": "上海纽约大学为学生提供各种机会参与上海当地及中国其他城市的社区活动，引导学生探索中国的历史文化和发展现状。上纽大鼓励学生走出舒适圈，积极拓展视野。通过参与上海及中国各地的社区和文化活动，培养学生的领导才能，提高学生的沟通交流和解决问题的能力。学生也可以借此机会探索自我及身边世界，将课堂所学与现实生活相结合，进一步提升学术能力。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "社区参与\n上海纽约大学为学生提供各种机会参与上海当地及中国其他城市的社区活动，引导学生探索中国的历史文化和发展现状。\n上纽大鼓励学生走出舒适圈，积极拓展视野。通过参与上海及中国各地的社区和文化活动，培养学生的领导才能，提高学生的沟通交流和解决问题的能力。学生也可以借此机会探索自我及身边世界，将课堂所学与现实生活相结合，进一步提升学术能力。\n欲了解更多上纽大志愿者和社区参与活动信息，请浏览下方内容，或发送邮件至shanghai.involvement@nyu.edu咨询。\n院长基金公益服务项目\n社区外展项目\n这就是中国",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "社区参与"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学为学生提供各种机会参与上海当地及中国其他城市的社区活动，引导学生探索中国的历史文化和发展现状。"
+    },
+    {
+      "type": "p",
+      "text": "上纽大鼓励学生走出舒适圈，积极拓展视野。通过参与上海及中国各地的社区和文化活动，培养学生的领导才能，提高学生的沟通交流和解决问题的能力。学生也可以借此机会探索自我及身边世界，将课堂所学与现实生活相结合，进一步提升学术能力。"
+    },
+    {
+      "type": "p",
+      "text": "欲了解更多上纽大志愿者和社区参与活动信息，请浏览下方内容，或发送邮件至shanghai.involvement@nyu.edu咨询。"
+    },
+    {
+      "type": "h4",
+      "text": "院长基金公益服务项目"
+    },
+    {
+      "type": "h4",
+      "text": "社区外展项目"
+    },
+    {
+      "type": "h4",
+      "text": "这就是中国"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/athletics-07_0.jpg",
+      "alt": "Activities & Community Engagement",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/athletics-08.jpg",
+      "alt": "Dean service scholars",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/athletics-08-3d32ef4111d2.jpg",
+      "download_status": "downloaded",
+      "bytes": 66850,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/athletics-09.jpg",
+      "alt": "project OutReach",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/athletics-09.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/athletics-111.jpg",
+      "alt": "This is China",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/involvement/community/scholars",
+      "text": "院长基金公益服务项目",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/involvement/community/outreach",
+      "text": "社区外展项目",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/campus-life/involvement/community/china",
+      "text": "这就是中国",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 20,
+  "crawled_at": "2026-06-09T04:36:49+00:00",
+  "sequence": 957
+}

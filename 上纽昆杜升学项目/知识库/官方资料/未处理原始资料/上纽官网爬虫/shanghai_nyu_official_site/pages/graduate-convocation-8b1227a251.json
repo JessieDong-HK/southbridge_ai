@@ -1,0 +1,159 @@
+{
+  "id": "graduate-convocation-8b1227a251",
+  "url": "https://shanghai.nyu.edu/graduate-convocation",
+  "canonical_url": "https://shanghai.nyu.edu/graduate-convocation",
+  "page_type": "graduate-convocation",
+  "title": "Graduate Convocation",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Graduate Convocation\nWatch this year’s Convocation and take a look back at previous years’ ceremonies.\nClass of 2025\nClass of 2024\nClass of 2023\nClass of 2022\nClass of 2021\nClass of 2021 (Go Local)\nClass of 2020",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Graduate Convocation"
+    },
+    {
+      "type": "p",
+      "text": "Watch this year’s Convocation and take a look back at previous years’ ceremonies."
+    },
+    {
+      "type": "h4",
+      "text": "Class of 2025"
+    },
+    {
+      "type": "h4",
+      "text": "Class of 2024"
+    },
+    {
+      "type": "h4",
+      "text": "Class of 2023"
+    },
+    {
+      "type": "h4",
+      "text": "Class of 2022"
+    },
+    {
+      "type": "h4",
+      "text": "Class of 2021"
+    },
+    {
+      "type": "h4",
+      "text": "Class of 2021 (Go Local)"
+    },
+    {
+      "type": "h4",
+      "text": "Class of 2020"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/class-2025-v1-2.jpg",
+      "alt": "Class of 2025",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/class-2025-v1-2-8ec62c07951b.jpg",
+      "download_status": "downloaded",
+      "bytes": 338763,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/class-2024.jpg",
+      "alt": "Class of 2024 Graduate Convocation",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/class-2024.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/2023convocation.jpg",
+      "alt": "Class of 2023",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2023convocation-118a963c5ee5.jpg",
+      "download_status": "downloaded",
+      "bytes": 85963,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-masters_convocation2022-2.jpg",
+      "alt": "Class of 2022",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-masters_convocation2022-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/class-2021_0.jpg",
+      "alt": "Class of 2021",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/class-2021_0-5009777bcd19.jpg",
+      "download_status": "downloaded",
+      "bytes": 25393,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/class-2021-golocal_0.jpg",
+      "alt": "Class of 2021 (Go Local)",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/class-2020_1.jpg",
+      "alt": "Class of 2020",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/page/class-2025-graduate-convocation",
+      "text": "Class of 2025",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/page/class-2024-graduate-convocation",
+      "text": "Class of 2024",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/convocation/class-2023",
+      "text": "Class of 2023",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/convocation/class-2022",
+      "text": "Class of 2022",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/convocation/class-2021",
+      "text": "Class of 2021",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/convocation/class-2021-go-local",
+      "text": "Class of 2021 (Go Local)",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/convocation/class-2020",
+      "text": "Class of 2020",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 39,
+  "crawled_at": "2026-06-09T04:31:23+00:00",
+  "sequence": 447
+}

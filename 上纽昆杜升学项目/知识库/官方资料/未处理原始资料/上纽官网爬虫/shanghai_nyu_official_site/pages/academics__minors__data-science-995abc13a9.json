@@ -1,0 +1,110 @@
+{
+  "id": "academics__minors__data-science-995abc13a9",
+  "url": "https://shanghai.nyu.edu/academics/minors/data-science",
+  "canonical_url": "https://shanghai.nyu.edu/academics/minors/data-science",
+  "page_type": "academics",
+  "title": "Data Science",
+  "description": "Post a MinorData Science at NYU Shanghai is designed to create data-driven leaders with a global perspective, a broad education, and the capacity to think creatively. Data science involves using computerized methods to analyze massive amounts of data and to extract knowledge from them.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Data Science\nData Science at NYU Shanghai is designed to create data-driven leaders with a global perspective, a broad education, and the capacity to think creatively. Data science involves using computerized methods to analyze massive amounts of data and to extract knowledge from them. Data science addresses a wide-range of data types, including scientific and economic numerical data, textual data, and image and video data.\nRequirements for the Minor\nChoose One Course Below:\nECON-SHU 301 Econometrics\nMATH-SHU 234 Mathematical Statistics\nChoose One Course Below:\nBUSF-SHU 101 Statistics for Business and Economics\nMATH-SHU 235 Probability and Statistics\nMATH-SHU 238 Honors Theory of Probability\nSOCS-SHU 141 Methods of Social Research\nNote: Computer Systems Engineering and Computer Science major students interested in pursuing a DS minor can count the Databases course toward fulfilling the 12 unique credit requirement.\nFaculty Mentors\nFaculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory.\nArea Head of Data Science, Associate Professor of Practice in Data Science\nComputer Science majors should additionally take CSCI-SHU​ 235 Information Visualization or CSCI-SHU 213 Databases to earn at least 12 unique credits for the minor.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Data Science"
+    },
+    {
+      "type": "p",
+      "text": "Data Science at NYU Shanghai is designed to create data-driven leaders with a global perspective, a broad education, and the capacity to think creatively. Data science involves using computerized methods to analyze massive amounts of data and to extract knowledge from them. Data science addresses a wide-range of data types, including scientific and economic numerical data, textual data, and image and video data."
+    },
+    {
+      "type": "h3",
+      "text": "Requirements for the Minor"
+    },
+    {
+      "type": "p",
+      "text": "Choose One Course Below:"
+    },
+    {
+      "type": "p",
+      "text": "ECON-SHU 301 Econometrics"
+    },
+    {
+      "type": "p",
+      "text": "MATH-SHU 234 Mathematical Statistics"
+    },
+    {
+      "type": "p",
+      "text": "Choose One Course Below:"
+    },
+    {
+      "type": "p",
+      "text": "BUSF-SHU 101 Statistics for Business and Economics"
+    },
+    {
+      "type": "p",
+      "text": "MATH-SHU 235 Probability and Statistics"
+    },
+    {
+      "type": "p",
+      "text": "MATH-SHU 238 Honors Theory of Probability"
+    },
+    {
+      "type": "p",
+      "text": "SOCS-SHU 141 Methods of Social Research"
+    },
+    {
+      "type": "p",
+      "text": "Note: Computer Systems Engineering and Computer Science major students interested in pursuing a DS minor can count the Databases course toward fulfilling the 12 unique credit requirement."
+    },
+    {
+      "type": "h3",
+      "text": "Faculty Mentors"
+    },
+    {
+      "type": "p",
+      "text": "Faculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory."
+    },
+    {
+      "type": "p",
+      "text": "Area Head of Data Science, Associate Professor of Practice in Data Science"
+    },
+    {
+      "type": "p",
+      "text": "Computer Science majors should additionally take CSCI-SHU​ 235 Information Visualization or CSCI-SHU 213 Databases to earn at least 12 unique credits for the minor."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/liguo.jpg",
+      "alt": "Li Guo",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/liguo.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/posting-minor",
+      "text": "Post a Minor",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory",
+      "text": "faculty directory",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/li-guo",
+      "text": "Li Guo",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 238,
+  "crawled_at": "2026-06-09T04:41:27+00:00",
+  "sequence": 1384
+}

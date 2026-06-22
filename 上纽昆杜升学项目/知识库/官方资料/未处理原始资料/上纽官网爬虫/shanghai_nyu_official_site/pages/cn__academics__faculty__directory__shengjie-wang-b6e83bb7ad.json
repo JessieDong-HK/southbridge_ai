@@ -1,0 +1,115 @@
+{
+  "id": "cn__academics__faculty__directory__shengjie-wang-b6e83bb7ad",
+  "url": "https://shanghai.nyu.edu/cn/academics/faculty/directory/shengjie-wang",
+  "canonical_url": "https://shanghai.nyu.edu/cn/academics/faculty/directory/shengjie-wang",
+  "page_type": "cn",
+  "title": "王圣杰 (Shengjie",
+  "description": "王圣杰现任上海纽约大学计算机科学系助理教授（准长聘制）。王教授在华盛顿大学获得计算机科学博士学位。他的研究兴趣包括机器学习、深度学习、人工智能科学、优化和以人为本的人工智能。",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "王圣杰 (Shengjie Wang)\n王圣杰现任上海纽约大学计算机科学系助理教授（准长聘制）。王教授在华盛顿大学获得计算机科学博士学位。他的研究兴趣包括机器学习、深度学习、人工智能科学、优化和以人为本的人工智能。\n代表性论著\nMachine Learning Force Fields with Data Cost Aware Training. A. Bukharin, T. Liu, S. Wang, S. Zuo, W. Gao, W. Yan, T. Zhao. ICML23\nConstrained Robust Submodular Partitioning. S Wang*, T Zhou*, C Lavania, J Bilmes. NeurIPS21\nRobust Curriculum Learning: from clean label detection to noisy label self-correction.T Zhou*, S Wang*, J Bilmes. ICLR21\nBias also matters: Bias attribution for deep neural network explanation. S Wang*, T Zhou*, J Bilmes. ICML19\nAnalysis of deep neural networks with extended data Jacobian matrix. S Wang, A Mohamed, R Caruana, J Bilmes, M Plilipose, M Richardson, K Geras, G Urban, O Aslan. ICML16\n教育背景\n华盛顿大学西雅图分校 计算机科学博士\n伊利诺伊大学厄巴纳-香槟分校 计算机科学和心理学学士\nMachine Learning\nDeep Learning\nAI for Science\nOptimization\nHuman-centered AI\n机器学习\n深度学习\n用于科学的人工智能\n优化\n以人为本的人工智能",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "王圣杰 (Shengjie Wang)"
+    },
+    {
+      "type": "p",
+      "text": "王圣杰现任上海纽约大学计算机科学系助理教授（准长聘制）。王教授在华盛顿大学获得计算机科学博士学位。他的研究兴趣包括机器学习、深度学习、人工智能科学、优化和以人为本的人工智能。"
+    },
+    {
+      "type": "h3",
+      "text": "代表性论著"
+    },
+    {
+      "type": "li",
+      "text": "Machine Learning Force Fields with Data Cost Aware Training. A. Bukharin, T. Liu, S. Wang, S. Zuo, W. Gao, W. Yan, T. Zhao. ICML23"
+    },
+    {
+      "type": "li",
+      "text": "Constrained Robust Submodular Partitioning. S Wang*, T Zhou*, C Lavania, J Bilmes. NeurIPS21"
+    },
+    {
+      "type": "li",
+      "text": "Robust Curriculum Learning: from clean label detection to noisy label self-correction.T Zhou*, S Wang*, J Bilmes. ICLR21"
+    },
+    {
+      "type": "li",
+      "text": "Bias also matters: Bias attribution for deep neural network explanation. S Wang*, T Zhou*, J Bilmes. ICML19"
+    },
+    {
+      "type": "li",
+      "text": "Analysis of deep neural networks with extended data Jacobian matrix. S Wang, A Mohamed, R Caruana, J Bilmes, M Plilipose, M Richardson, K Geras, G Urban, O Aslan. ICML16"
+    },
+    {
+      "type": "h3",
+      "text": "教育背景"
+    },
+    {
+      "type": "li",
+      "text": "华盛顿大学西雅图分校 计算机科学博士"
+    },
+    {
+      "type": "li",
+      "text": "伊利诺伊大学厄巴纳-香槟分校 计算机科学和心理学学士"
+    },
+    {
+      "type": "li",
+      "text": "Machine Learning"
+    },
+    {
+      "type": "li",
+      "text": "Deep Learning"
+    },
+    {
+      "type": "li",
+      "text": "AI for Science"
+    },
+    {
+      "type": "li",
+      "text": "Optimization"
+    },
+    {
+      "type": "li",
+      "text": "Human-centered AI"
+    },
+    {
+      "type": "li",
+      "text": "机器学习"
+    },
+    {
+      "type": "li",
+      "text": "深度学习"
+    },
+    {
+      "type": "li",
+      "text": "用于科学的人工智能"
+    },
+    {
+      "type": "li",
+      "text": "优化"
+    },
+    {
+      "type": "li",
+      "text": "以人为本的人工智能"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/selected-capture_one_catalog0152.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/selected-capture_one_catalog0152-7afcaa6293d0.jpg",
+      "download_status": "downloaded",
+      "bytes": 133614,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 135,
+  "crawled_at": "2026-06-09T04:37:51+00:00",
+  "sequence": 1081
+}

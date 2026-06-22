@@ -1,0 +1,71 @@
+{
+  "id": "academics__faculty__directory__inmi-lee-e247553dfa",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/inmi-lee",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/inmi-lee",
+  "page_type": "academics",
+  "title": "Inmi",
+  "description": "Inmi Lee is the Associate Arts Professor of Interactive Media Arts (IMA) at NYU Shanghai. Lee’s work explores current sociopolitical systems and the structure of power that exists within the interaction of people. She has exhibited at Anren Biennale, Digital Art Biennale, SIGGRAPH, ISEA, Boston",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Inmi Lee\nInmi Lee is the Associate Arts Professor of Interactive Media Arts (IMA) at NYU Shanghai. Lee’s work explores current sociopolitical systems and the structure of power that exists within the interaction of people. She has exhibited at Anren Biennale, Digital Art Biennale, SIGGRAPH, ISEA, Boston Cyberarts Festival, and the International Performance Art Festival. Prior to joining NYU Shanghai, Lee was an Associate Professor of Digital Media, Art, and Art History at Kuztown University.\nEducation\nPhD, Digital Arts and Experimental MediaUniversity of Washington\nMFA, Digital MediaRhode Island School of Design\nDigital Sculpture\nData Science\nSpeculative Narrative\nInteraction Lab\nConstruction of Authenticity in Contemporary Art",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Inmi Lee"
+    },
+    {
+      "type": "p",
+      "text": "Inmi Lee is the Associate Arts Professor of Interactive Media Arts (IMA) at NYU Shanghai. Lee’s work explores current sociopolitical systems and the structure of power that exists within the interaction of people. She has exhibited at Anren Biennale, Digital Art Biennale, SIGGRAPH, ISEA, Boston Cyberarts Festival, and the International Performance Art Festival. Prior to joining NYU Shanghai, Lee was an Associate Professor of Digital Media, Art, and Art History at Kuztown University."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Digital Arts and Experimental MediaUniversity of Washington"
+    },
+    {
+      "type": "li",
+      "text": "MFA, Digital MediaRhode Island School of Design"
+    },
+    {
+      "type": "li",
+      "text": "Digital Sculpture"
+    },
+    {
+      "type": "li",
+      "text": "Data Science"
+    },
+    {
+      "type": "li",
+      "text": "Speculative Narrative"
+    },
+    {
+      "type": "li",
+      "text": "Interaction Lab"
+    },
+    {
+      "type": "li",
+      "text": "Construction of Authenticity in Contemporary Art"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/lee_inmi_inwoo_2022.jpeg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/lee_inmi_inwoo_2022-e50cfa2361e3.jpeg",
+      "download_status": "downloaded",
+      "bytes": 600491,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 106,
+  "crawled_at": "2026-06-09T04:53:07+00:00",
+  "sequence": 2341
+}

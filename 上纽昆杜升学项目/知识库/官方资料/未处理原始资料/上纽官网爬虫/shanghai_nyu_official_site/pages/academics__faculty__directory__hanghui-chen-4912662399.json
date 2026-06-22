@@ -1,0 +1,100 @@
+{
+  "id": "academics__faculty__directory__hanghui-chen-4912662399",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/hanghui-chen",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/hanghui-chen",
+  "page_type": "academics",
+  "title": "Hanghui",
+  "description": "Homepage Link (requires VPN): http://www.hanghuichen.org Hanghui Chen is an Associate Professor of Physics at NYU Shanghai and a Global Network Associate Professor in the Department of Physics at NYU. Prior to joining NYU Shanghai, he was a post-doctoral fellow at Columbia University. He holds a PhD",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Hanghui Chen\nHomepage Link (requires VPN): http://www.hanghuichen.org\nHanghui Chen is an Associate Professor of Physics at NYU Shanghai and a Global Network Associate Professor in the Department of Physics at NYU. Prior to joining NYU Shanghai, he was a post-doctoral fellow at Columbia University. He holds a PhD from Yale University and a BS from Peking University.\nSelect Publications\nChengliang Xia, Hongquan Liu, Shengjie Zhou, Hanghui Chen, \"Sensitive dependence of pairing symmetry on Ni-eg crystal field splitting in the nickelate superconductor La3Ni2O7\", Nature Communications 16, 1054 (2025)\nWenjie Sun, Zhicheng Jiang, Chengliang Xia, Bo Hao, Shengjun Yan, Maosen Wang, Yueying Li, Hongquan Liu, Jianyang Ding, Jiayu Liu, Zhengtai Liu, Jishan Liu, Hanghui Chen, Dawei Shen, Yuefeng Nie, \"Electronic structure of superconducting infinite-layer lanthanum nickelates\", Science Advances 11, eadr5116 (2025)\nYifei Hao, Xuegang Chen, Le Zhang, Myung-Geun Han, Wei Wang, Yue-Wen Fang, Hanghui Chen, Yimei Zhu, Xia Hong, \"Record high room temperature resistance switching in ferroelectric-gated Mott transistors unlocked by interfacial charge engineering\", Nature Communications 14, 8247 (2023)\nHanghui Chen, Yifeng Yang, Guangming Zhang, Hongquan Liu, \"An electronic origin of charge order in infinite-layer nickelates\", Nature Communications 14, 5477 (2023)\nJiaji Ma, Ruihan Yang, Hanghui Chen, \"A large modulation of electron-phonon coupling and an emergent superconducting dome in doped strong ferroelectrics\", Nature Communications 12, 2314 (2021)\nEducation\nPhD, PhysicsYale University\nBS, PhysicsPeking University\nWe combine state-of-the-art first principles and many-body model calculations to study strongly correlated properties of quantum materials, with an emphasis on unconventional superconductivity.\nFoundations of Physics I Honors\nFoundations of Physics II Honors\nIndependent Study - Interdisciplinary",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Hanghui Chen"
+    },
+    {
+      "type": "h4",
+      "text": "Homepage Link (requires VPN): http://www.hanghuichen.org"
+    },
+    {
+      "type": "p",
+      "text": "Hanghui Chen is an Associate Professor of Physics at NYU Shanghai and a Global Network Associate Professor in the Department of Physics at NYU. Prior to joining NYU Shanghai, he was a post-doctoral fellow at Columbia University. He holds a PhD from Yale University and a BS from Peking University."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Chengliang Xia, Hongquan Liu, Shengjie Zhou, Hanghui Chen, \"Sensitive dependence of pairing symmetry on Ni-eg crystal field splitting in the nickelate superconductor La3Ni2O7\", Nature Communications 16, 1054 (2025)"
+    },
+    {
+      "type": "li",
+      "text": "Wenjie Sun, Zhicheng Jiang, Chengliang Xia, Bo Hao, Shengjun Yan, Maosen Wang, Yueying Li, Hongquan Liu, Jianyang Ding, Jiayu Liu, Zhengtai Liu, Jishan Liu, Hanghui Chen, Dawei Shen, Yuefeng Nie, \"Electronic structure of superconducting infinite-layer lanthanum nickelates\", Science Advances 11, eadr5116 (2025)"
+    },
+    {
+      "type": "li",
+      "text": "Yifei Hao, Xuegang Chen, Le Zhang, Myung-Geun Han, Wei Wang, Yue-Wen Fang, Hanghui Chen, Yimei Zhu, Xia Hong, \"Record high room temperature resistance switching in ferroelectric-gated Mott transistors unlocked by interfacial charge engineering\", Nature Communications 14, 8247 (2023)"
+    },
+    {
+      "type": "li",
+      "text": "Hanghui Chen, Yifeng Yang, Guangming Zhang, Hongquan Liu, \"An electronic origin of charge order in infinite-layer nickelates\", Nature Communications 14, 5477 (2023)"
+    },
+    {
+      "type": "li",
+      "text": "Jiaji Ma, Ruihan Yang, Hanghui Chen, \"A large modulation of electron-phonon coupling and an emergent superconducting dome in doped strong ferroelectrics\", Nature Communications 12, 2314 (2021)"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, PhysicsYale University"
+    },
+    {
+      "type": "li",
+      "text": "BS, PhysicsPeking University"
+    },
+    {
+      "type": "p",
+      "text": "We combine state-of-the-art first principles and many-body model calculations to study strongly correlated properties of quantum materials, with an emphasis on unconventional superconductivity."
+    },
+    {
+      "type": "li",
+      "text": "Foundations of Physics I Honors"
+    },
+    {
+      "type": "li",
+      "text": "Foundations of Physics II Honors"
+    },
+    {
+      "type": "li",
+      "text": "Independent Study - Interdisciplinary"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/hanghui_chen.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://www.hanghuichen.org",
+      "text": "http://www.hanghuichen.org",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 273,
+  "crawled_at": "2026-06-09T04:41:00+00:00",
+  "sequence": 1350
+}

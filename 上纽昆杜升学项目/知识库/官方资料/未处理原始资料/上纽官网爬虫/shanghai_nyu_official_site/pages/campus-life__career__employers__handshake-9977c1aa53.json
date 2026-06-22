@@ -1,0 +1,74 @@
+{
+  "id": "campus-life__career__employers__handshake-9977c1aa53",
+  "url": "https://shanghai.nyu.edu/campus-life/career/employers/handshake",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/career/employers/handshake",
+  "page_type": "campus-life",
+  "title": "Recruitment and Engagement",
+  "description": "There are several ways for employers to connect with our students:",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Recruitment and Engagement\nThere are several ways for employers to connect with our students:\nPost an Internship or Full-Time Position\nJoin an On-Campus Career Fair\nPresent at an On-Campus Recruitment Session\nHost Events and Connect With Students\nResources",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Recruitment and Engagement"
+    },
+    {
+      "type": "p",
+      "text": "There are several ways for employers to connect with our students:"
+    },
+    {
+      "type": "h3",
+      "text": "Post an Internship or Full-Time Position"
+    },
+    {
+      "type": "h3",
+      "text": "Join an On-Campus Career Fair"
+    },
+    {
+      "type": "h3",
+      "text": "Present at an On-Campus Recruitment Session"
+    },
+    {
+      "type": "h3",
+      "text": "Host Events and Connect With Students"
+    },
+    {
+      "type": "h3",
+      "text": "Resources"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://app.joinhandshake.com/",
+      "text": "Handshake",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/accessible_nyush_handshake_employer_registration_guide.pdf",
+      "text": "registration guide",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/accessible_nyu_shanghai_handshake_employer_user_guide.pdf",
+      "text": "user guide",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/NYU%20Shanghai%20Career%20Development%20Center_Employer%20Guidelines%202015.pdf",
+      "text": "Employer Internship Guidelines (PDF)",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/accessible_employer_services_overview_final.pdf",
+      "text": "Employer Service Overview (PDF)",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 41,
+  "crawled_at": "2026-06-09T04:44:33+00:00",
+  "sequence": 1613
+}

@@ -1,0 +1,106 @@
+{
+  "id": "campus-life__health-wellness__health-promotion-and-education-154ccb4229",
+  "url": "https://shanghai.nyu.edu/campus-life/health-wellness/health-promotion-and-education",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/health-wellness/health-promotion-and-education",
+  "page_type": "campus-life",
+  "title": "Health Promotion and Education",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Health Promotion and Education\nThe Student Health Center offers a variety of wellness programs and educational resources to support the health and wellbeing of our entire student community.\nSelf-Serve Wellness Resources\nWellness supplies and educational materials are available for students outside of the Student Health Center office, Room W405. This includes hand sanitizer, bandages, menstrual supplies, and male condoms.\nWeekly Wellness Programs\nEach week during the academic term, the Student Health center offers in-person or mixed-mode wellness programs, open to all students. This includes:\nLunch and Learn interactive workshops, where medical and mental health professionals share their knowledge about a variety of topics most relevant for students.\nWeekly Guided Meditation where students can practice a variety of effective mindfulness techniques to help reduce stress, improve focus, and boost your mood.\nSinging Bowls have been used throughout history as a way to relax, relieve stress, and promote harmony in the body. We are happy to offer this sound healing session with singing bowls and a variety of other instruments that represent natural, soothing sounds from nature.\nSmall Group Workshops to build knowledge and skills for range of topics including procrastination, sleep habits, art therapy, anxiety, and sexual health.\nCalm Corner De-stress Space\nThe Calm Corner, located in Room W405, is a comfortable and welcoming space for students to relax, de-stress, and practice self-care. The space is open for drop-in use Monday through Friday from 1:00-5:00pm, and includes a variety of materials for students to use. We also have a Virtual Calm Corner website with additional self-care resources.\nSexual Health Resources\nSexual health is a state of physical, mental and social well-being in relation to sexuality. It requires a positive and respectful approach to sexuality and sexual relationships, as well as the possibility of having pleasurable and safe sexual experience, free of coercion, discrimination and violence. Find more information here about sexual health resources in Shanghai.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Health Promotion and Education"
+    },
+    {
+      "type": "p",
+      "text": "The Student Health Center offers a variety of wellness programs and educational resources to support the health and wellbeing of our entire student community."
+    },
+    {
+      "type": "h3",
+      "text": "Self-Serve Wellness Resources"
+    },
+    {
+      "type": "p",
+      "text": "Wellness supplies and educational materials are available for students outside of the Student Health Center office, Room W405. This includes hand sanitizer, bandages, menstrual supplies, and male condoms."
+    },
+    {
+      "type": "h3",
+      "text": "Weekly Wellness Programs"
+    },
+    {
+      "type": "p",
+      "text": "Each week during the academic term, the Student Health center offers in-person or mixed-mode wellness programs, open to all students. This includes:"
+    },
+    {
+      "type": "li",
+      "text": "Lunch and Learn interactive workshops, where medical and mental health professionals share their knowledge about a variety of topics most relevant for students."
+    },
+    {
+      "type": "li",
+      "text": "Weekly Guided Meditation where students can practice a variety of effective mindfulness techniques to help reduce stress, improve focus, and boost your mood."
+    },
+    {
+      "type": "li",
+      "text": "Singing Bowls have been used throughout history as a way to relax, relieve stress, and promote harmony in the body. We are happy to offer this sound healing session with singing bowls and a variety of other instruments that represent natural, soothing sounds from nature."
+    },
+    {
+      "type": "li",
+      "text": "Small Group Workshops to build knowledge and skills for range of topics including procrastination, sleep habits, art therapy, anxiety, and sexual health."
+    },
+    {
+      "type": "h3",
+      "text": "Calm Corner De-stress Space"
+    },
+    {
+      "type": "p",
+      "text": "The Calm Corner, located in Room W405, is a comfortable and welcoming space for students to relax, de-stress, and practice self-care. The space is open for drop-in use Monday through Friday from 1:00-5:00pm, and includes a variety of materials for students to use. We also have a Virtual Calm Corner website with additional self-care resources."
+    },
+    {
+      "type": "h3",
+      "text": "Sexual Health Resources"
+    },
+    {
+      "type": "p",
+      "text": "Sexual health is a state of physical, mental and social well-being in relation to sexuality. It requires a positive and respectful approach to sexuality and sexual relationships, as well as the possibility of having pleasurable and safe sexual experience, free of coercion, discrimination and violence. Find more information here about sexual health resources in Shanghai."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/health_center_website_banner-05-1.jpg",
+      "alt": "Self-Serve Wellness Resources",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/health_center_website_banner-05-1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/health_center_website_banner-04-1.jpg",
+      "alt": "Calm Corner De-stress Space",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/health_center_website_banner-04-1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://sites.google.com/nyu.edu/calm-corner/home",
+      "text": "Virtual Calm Corner",
+      "internal": false
+    },
+    {
+      "url": "http://sites.google.com/nyu.edu/shanghaisexualhealth/home",
+      "text": "here",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 326,
+  "crawled_at": "2026-06-09T04:32:23+00:00",
+  "sequence": 566
+}

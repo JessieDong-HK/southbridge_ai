@@ -1,0 +1,244 @@
+{
+  "id": "news-ea425dad24",
+  "url": "https://shanghai.nyu.edu/news?page=3",
+  "canonical_url": "https://shanghai.nyu.edu/news",
+  "page_type": "news",
+  "title": "News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/spaces_to_know-food_on_campus-01_3.jpeg?itok=saBkEWMn",
+      "alt": "banner food",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/spaces_to_know-food_on_campus-01_3-e919b20d43fe.jpeg",
+      "download_status": "downloaded",
+      "bytes": 34896,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/when-the-playing-field-is-leveled-the-reversed-gender-gap-in-education-1.jpg?itok=iR4A-ysK",
+      "alt": "wu study",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/when-the-playing-field-is-leveled-the-reversed-gende-a61129641a7c.jpg",
+      "download_status": "downloaded",
+      "bytes": 19153,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/serendipity_2025-01_0.jpg?itok=fUlLW2_m",
+      "alt": "serendipity",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/serendipity_2025-01_0-e665a013d65b.jpg",
+      "download_status": "downloaded",
+      "bytes": 33475,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/diwen_-_when_ai_says_one_thing_but_does_another_0.jpg?itok=VLTqFAe6",
+      "alt": "Professor Shen joined NYU Shanghai in fall 2025 as an assistant professor of computer science",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/scientists_put_teeth_into_water-driven_gears-01.jpg?itok=VvC4hfFm",
+      "alt": "jun zhang study",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/scientists_put_teeth_into_water-driven_gears-01-519f07ac7d0b.jpg",
+      "download_status": "downloaded",
+      "bytes": 27391,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/record_number_of_students_arrive_to_study_away_in_shanghai-01.jpg?itok=zSrAFBDz",
+      "alt": "study away cohort arrives",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/record_number_of_students_arrive_to_study_away_in_sh-2e9eddeddfe9.jpg",
+      "download_status": "downloaded",
+      "bytes": 44038,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/_celebrating_gps_with_joy-01.jpg?itok=FzqBNXOS",
+      "alt": "winning exhibits",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/celebrating_gps_with_joy-01-0437b0bb3941.jpg",
+      "download_status": "downloaded",
+      "bytes": 35577,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/six_new_books_in_2025_by_nyu_shanghai_faculty-01_2.jpg?itok=4nhTStaY",
+      "alt": "2025bookroundup",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/nyu_shanghai_professor_alejandro_ramirez_receives_humboldt_research_award.jpg?itok=hkssfj-_",
+      "alt": "alejandroramirezhumboldtaward",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/vins_2025_conference-01.jpg?itok=Yqfnohm6",
+      "alt": "vins",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/vins_2025_conference-01-b596ad1e0272.jpg",
+      "download_status": "downloaded",
+      "bytes": 22458,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/first_year_dialogues_help_navigate_university_life_-01.jpg?itok=WYi20WWk",
+      "alt": "first year dialogues",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/how_organizations_misread_their_own_progress.jpg?itok=xJvlliwl",
+      "alt": "hur study",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/culture_and_heritage_expo-01.jpg?itok=k_WxmqH9",
+      "alt": "culture and heritage expo",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/phones_off_device-free_initiatives_build_community_on_campus-01.jpg?itok=AJ70WSdf",
+      "alt": "diy postcards",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/phones_off_device-free_initiatives_build_community_o-cb0fdd2ded26.jpg",
+      "download_status": "downloaded",
+      "bytes": 33646,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/fall_2025_undergraduate_research_symposium-01.jpg?itok=dCo1QXE0",
+      "alt": "banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/spaces-know-food-campus",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/when-playing-field-leveled-understanding-reversed-gender-gap",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/moments-serendipity-gathering-promotes-cross-campus-ai-research-collaboration",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/when-ai-says-one-thing-does-another",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/scientists-put-teeth-water-driven-gears",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/record-number-students-arrive-study-away-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/celebrating-gps-joy",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/winter-reads-eight-new-books-nyu-shanghai-faculty",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/alejandro-ramirez-receives-humboldt-prize",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/vins-2025-conference-maps-how-geopolitical-shocks-move-through-finance",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/talk-truths-first-year-dialogues-help-navigate-university-life",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/inclusion-illusion-how-organizations-misread-their-own-progress",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/culture-heritage-expo-celebrates-global-diversity",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/phones-device-free-initiatives-build-community-campus",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/putting-research-focus-fall-2025-undergraduate-research-symposium",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:29:53+00:00",
+  "sequence": 250
+}

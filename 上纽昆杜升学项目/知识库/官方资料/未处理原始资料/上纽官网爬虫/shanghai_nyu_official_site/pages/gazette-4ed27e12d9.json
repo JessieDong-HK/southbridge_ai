@@ -1,0 +1,394 @@
+{
+  "id": "gazette-4ed27e12d9",
+  "url": "https://shanghai.nyu.edu/gazette?field_mailchimplist_value=alumni",
+  "canonical_url": "https://shanghai.nyu.edu/gazette",
+  "page_type": "gazette",
+  "title": "University Newsletters | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "University Newsletters\nAcademic Year 2025-2026\nAcademic Year 2024-2025\nAcademic Year 2023-2024\nAcademic Year 2022-2023\nAcademic Year 2021-2022\nAcademic Year 2018-2019\nAcademic Year 2017-2018\nAcademic Year 2016-2017",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "University Newsletters"
+    },
+    {
+      "type": "h3",
+      "text": "Academic Year 2025-2026"
+    },
+    {
+      "type": "h3",
+      "text": "Academic Year 2024-2025"
+    },
+    {
+      "type": "h3",
+      "text": "Academic Year 2023-2024"
+    },
+    {
+      "type": "h3",
+      "text": "Academic Year 2022-2023"
+    },
+    {
+      "type": "h3",
+      "text": "Academic Year 2021-2022"
+    },
+    {
+      "type": "h3",
+      "text": "Academic Year 2018-2019"
+    },
+    {
+      "type": "h3",
+      "text": "Academic Year 2017-2018"
+    },
+    {
+      "type": "h3",
+      "text": "Academic Year 2016-2017"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/website%20banner.png?itok=x9g1ec_R",
+      "alt": "Celebrating Spring and Violet Pride",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/Alumni%20lounge%20launch%20event.jpg?itok=xob6jlfC",
+      "alt": "NYU Shanghai Wishes Alumni a Happy Year of the Horse!",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Alumni-20lounge-20launch-20event-57cddc488392.jpg",
+      "download_status": "downloaded",
+      "bytes": 37751,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/Alumni%20Lounge.jpg?itok=0OGY92e8",
+      "alt": "Alumni Reunion in NY & Public Event at NYU Shanghai",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Alumni-20Lounge-a1f0f862cb01.jpg",
+      "download_status": "downloaded",
+      "bytes": 35110,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/AD_4nXe5SLEMPYIyytLISeF2xTMAzorB_gNvwPQw-IaaSAI6ltfsQi_1B6jaTnyYGpog5SQwdOCXNJxSc5cAvb3mcHqELWNOktZhmbo606uj1K9NwUSkF11w8DCr-2.jpg?itok=4ZbzX8PT",
+      "alt": "Welcome to Our Newest Alums, the Class of 2025!",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/AD_4nXe5SLEMPYIyytLISeF2xTMAzorB_gNvwPQw-IaaSAI6ltfs-d32946d08805.jpg",
+      "download_status": "downloaded",
+      "bytes": 47388,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/joanna%20exhibition-no%20watermark%20banner.jpg?itok=ncd20zkY",
+      "alt": "Alumni’s Gatherings for more NYU Shanghai Memories",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/joanna-20exhibition-no-20watermark-20banner-4f2e2addcfcc.jpg",
+      "download_status": "downloaded",
+      "bytes": 22365,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/year%20of%20the%20snake.jpg?itok=UPu-Ubvc",
+      "alt": "Happy New Year to NYU Shanghai Alumni",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/year-20of-20the-20snake-d8fd4f86ad42.jpg",
+      "download_status": "downloaded",
+      "bytes": 202411,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/admissions%20banner%20pic.png?itok=_JOz7_cg",
+      "alt": "Connect with NYU Shanghai & Inspire Future Students",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/admissions-20banner-20pic-949822b0fa0f.png",
+      "download_status": "downloaded",
+      "bytes": 265123,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/alumin.jpg?itok=U20Wb2ph",
+      "alt": "alumin.jpg",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/89f36d214de0a0c60524b2e2_1100x568.png?itok=mXd3SMWh",
+      "alt": "NYU One Day + NYU Shanghai 2013 Fund",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/2003959bf72334d8e9d0bbaf_1060x596.jpg?itok=MQOyrh4M",
+      "alt": "Happy Year of the Dragon, NYU Shanghai Alumni!",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2003959bf72334d8e9d0bbaf_1060x596-79495592a0de.jpg",
+      "download_status": "downloaded",
+      "bytes": 34490,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/unnamed1.jpg?itok=b39CKeR6",
+      "alt": "Hear more updates from NYU Shanghai alumni!",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/unnamed1-120b7f1daa47.jpg",
+      "download_status": "downloaded",
+      "bytes": 29507,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/unnamed_2_0.jpg?itok=Mq3D7eHK",
+      "alt": "alumni newsletter cover image",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/unnamed_2_0-e4ab090357fe.jpg",
+      "download_status": "downloaded",
+      "bytes": 38424,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/unnamed-1.jpg?itok=uVVis2kn",
+      "alt": "Returning and Reviving! A New Decade at the New Bund",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/unnamed-1-dab515d51909.jpg",
+      "download_status": "downloaded",
+      "bytes": 27807,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/screen_shot_2023-05-24_at_14.51.24.png?itok=nAHw0_21",
+      "alt": "Happy New Year, NYU Shanghai Alumni! See you at the new campus!",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/together-1_0.jpg?itok=YMRsWc7W",
+      "alt": "Welcome, new alumni! See you at the new campus!",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/2018.png?itok=6PLGK6v6",
+      "alt": "2018",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2018-d77404f1e6d6.png",
+      "download_status": "downloaded",
+      "bytes": 155819,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/2ee2db4b-c788-40fa-90ba-17e4ee2683db.jpg?itok=A4jocxMA",
+      "alt": "弃物重纫时装秀",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/db39ba86-eb66-468d-8729-29187e87d7b8.jpg?itok=anX7mUwH",
+      "alt": "October 2018: Orientation, New TESOL Program, Demystifying SciFi Writing",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/0548dce4-ba74-4798-8fac-19248a7f5ed6.jpg?itok=-CLt5mdl",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/0548dce4-ba74-4798-8fac-19248a7f5ed6-e9fa1b4a6298.jpg",
+      "download_status": "downloaded",
+      "bytes": 16427,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/4debdd33-7c74-4dd0-937b-71c5bdfd1526.jpg?itok=cpi9z7EW",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/1_4.png?itok=o_PJ_n4r",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/1_4-31adb4ac8c37.png",
+      "download_status": "downloaded",
+      "bytes": 299876,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/540f79a0-42d3-4429-ba12-7c3bd56f8e92.jpg?itok=c482cezZ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/mailchimp_campaign_list__580_x_250/public/dsc08517-940.jpg?itok=LSFWIyT0",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/dsc08517-940-ae19fa86cdb7.jpg",
+      "download_status": "downloaded",
+      "bytes": 23057,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://urldefense.proofpoint.com/v2/url?u=https-3A__t.e2ma.net_webview_0zar9m_c37e06abf356eafdd9ac284a9a22eae0&d=DwMFaQ&c=slrrB7dE8n7gBJbeO0g-IQ&r=dznkhyEaYj4ALF4hDoPqHg&m=R_hR4GbmAOkkFcwpXuVkoyu_YT-5Ayqjvhpp0QiimaXMovp0v7GPs5Ec7SoBs_dw&s=dp34dKMwwDcQW5ALkqY9MRUpplRdBVyhARkZV_PjaNA&e=",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/oa3yym/544dc527b8cabd5b1ea6625a21cd46da",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/89jrqm/4a4b8a80715b0aa83603e942ce981663",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/o20n6l/4a3c0573339ef2c5c3675edbbeb21760",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/85cn3l/2d04912af938c619d77ee484bb6e399c",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/850hvl/f6892700dcb9ca7cba11bf113d092241",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/oi94ll/164a6bfefc2e5f431edfbb6fe847054b",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/knu1vk/6c4d2178ac87184758d6e7eb00585108",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/w4v7mk/5dbc7002de304f60070f798d49dc82b6",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/ouyg1j/1ca8c017c9a54a3f17574034ab246739",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/knqa8i/7709b09a7685a29691bd76bc70270314",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/4yc7bi/877cac22b7dc0301d046df651e5ea710",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/ctl02h/25f41d5eb9364e770fb1c8dbaf733b29",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/kvo2eh/653a03666445efb0aa41a7f3dd49123e",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://t.e2ma.net/webview/wkow5f/4139245cdfaa79595f77c2fcca37e1fc",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://us11.campaign-archive.com/?u=1865b7035bb53d9c34f186520&id=090b6049f9",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://us11.campaign-archive.com/?u=1865b7035bb53d9c34f186520&id=3d2caa27a5",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/605d015af538/october-2018-orientation-new-tesol-program-demystifying-scifi-writing",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "https://mailchi.mp/fa276f5bbd3e/april-2018-building-a-creative-future-alumni-day-at-disney-and-more",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "http://mailchi.mp/a6c32f9d5a60/february-2018-balancing-work-life-incoming-class-and-more",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "http://mailchi.mp/6a8ce50b6eba/november-2017-romans-post-grad-study-in-geneva-alumni-return-home-and-more",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "http://mailchi.mp/4f5bdb002329/september-2017-kristas-post-grad-princeton-in-asia-experience-rsvp-for-nyu-alumni-day-and-find-out-what-your-alumni-benefits-are",
+      "text": "",
+      "internal": false
+    },
+    {
+      "url": "http://mailchi.mp/d7480ec30ce2/may-2017-congratulations-graduates-check-out-your-inaugural-alumni-newsletter-and-help-us-with-a-quick-survey",
+      "text": "",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 34,
+  "crawled_at": "2026-06-09T04:28:44+00:00",
+  "sequence": 115
+}

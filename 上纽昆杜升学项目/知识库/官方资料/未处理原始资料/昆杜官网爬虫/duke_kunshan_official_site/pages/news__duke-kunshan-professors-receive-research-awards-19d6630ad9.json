@@ -1,0 +1,36 @@
+{
+  "id": "news__duke-kunshan-professors-receive-research-awards-19d6630ad9",
+  "url": "https://www.dukekunshan.edu.cn/news/duke-kunshan-professors-receive-research-awards",
+  "canonical_url": "https://www.dukekunshan.edu.cn/news/duke-kunshan-professors-receive-research-awards/",
+  "page_type": "news",
+  "title": "Duke Kunshan professors receive research awards",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2023-10-23T13:28:35+00:00",
+  "sitemap_lastmod": "2023-10-23T13:28:35+00:00",
+  "text": "Duke Kunshan professors receive research awards",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Duke Kunshan professors receive research awards"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 6,
+  "crawled_at": "2026-06-03T13:51:54+00:00",
+  "sequence": 266
+}

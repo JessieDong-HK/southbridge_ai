@@ -1,0 +1,130 @@
+{
+  "id": "home-55d9e4e55d",
+  "url": "https://rits.shanghai.nyu.edu/",
+  "canonical_url": "https://rits.shanghai.nyu.edu/",
+  "page_type": "home",
+  "title": "Home Page",
+  "description": "",
+  "language": "",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "R I T S\nResearch and Instructional Technology Services",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "R I T S"
+    },
+    {
+      "type": "h2",
+      "text": "Research and Instructional Technology Services"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://rits.shanghai.nyu.edu/icon.png",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "_shared/icon-ff603469543e.png",
+      "download_status": "downloaded",
+      "bytes": 47755,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://rits.shanghai.nyu.edu/_gatsby/image/0db8754a3f3a225fa675b7c33ee3dfba/ad70ba7155a20c77884d78df0fec8ddb/interactive-spaces.png?u=https%3A%2F%2Fwordpress.ritsdev.top%2Fwp-content%2Fuploads%2F2025%2F01%2Finteractive-spaces.png&a=w%3D400%26h%3D400%26fm%3Dpng%26q%3D75&cd=6d8ceac801239bc9305f5e4bd30490ac",
+      "alt": "Interdisciplinary Digital Research Lab",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/interactive-spaces-30a2a3ccc1a0.png",
+      "download_status": "downloaded",
+      "bytes": 19099,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://rits.shanghai.nyu.edu/_gatsby/image/320977683e494094914e2cb46cc52e54/ad70ba7155a20c77884d78df0fec8ddb/emerging_technologies.png?u=https%3A%2F%2Fwordpress.ritsdev.top%2Fwp-content%2Fuploads%2F2025%2F01%2Femerging_technologies.png&a=w%3D400%26h%3D400%26fm%3Dpng%26q%3D75&cd=b273c09e552383cbe830139d6b502449",
+      "alt": "Emerging Technologies",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/emerging_technologies-695289af87b1.png",
+      "download_status": "downloaded",
+      "bytes": 9569,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://rits.shanghai.nyu.edu/_gatsby/image/157803508c608bd26b9522fab0445b86/ad70ba7155a20c77884d78df0fec8ddb/dle.png?u=https%3A%2F%2Fwordpress.ritsdev.top%2Fwp-content%2Fuploads%2F2025%2F01%2Fdle.png&a=w%3D400%26h%3D400%26fm%3Dpng%26q%3D75&cd=5c137f915f0b0789fcb0c2e60fbd46aa",
+      "alt": "Digital Learning Environments",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/dle-b581d9d62d1e.png",
+      "download_status": "downloaded",
+      "bytes": 8216,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://rits.shanghai.nyu.edu/_gatsby/image/c755d5507ea128bfcaa42406ac1dbf41/ad70ba7155a20c77884d78df0fec8ddb/data.png?u=https%3A%2F%2Fwordpress.ritsdev.top%2Fwp-content%2Fuploads%2F2025%2F01%2Fdata.png&a=w%3D400%26h%3D400%26fm%3Dpng%26q%3D75&cd=f60b6b1be2f0a7dfc0d5a61a9091a2ac",
+      "alt": "Data Services",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/data-66771f04d464.png",
+      "download_status": "downloaded",
+      "bytes": 5917,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://rits.shanghai.nyu.edu/_gatsby/image/9d3a9e4a803bdd6a68b18b8cc88d712d/ad70ba7155a20c77884d78df0fec8ddb/studio.png?u=https%3A%2F%2Fwordpress.ritsdev.top%2Fwp-content%2Fuploads%2F2025%2F01%2Fstudio.png&a=w%3D400%26h%3D400%26fm%3Dpng%26q%3D75&cd=a8bf2e8b2b8f4dceb057060993a91e3c",
+      "alt": "Studio",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/studio-4f81be1676d1.png",
+      "download_status": "downloaded",
+      "bytes": 11405,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://rits.shanghai.nyu.edu/_gatsby/image/39fe664eb1302b6dfbe589e063a7477f/ad70ba7155a20c77884d78df0fec8ddb/digitalScholarship_v001.png?u=https%3A%2F%2Fwordpress.ritsdev.top%2Fwp-content%2Fuploads%2F2025%2F01%2FdigitalScholarship_v001.png&a=w%3D400%26h%3D400%26fm%3Dpng%26q%3D75&cd=6dc46134d1b066ce13d1aa1426929def",
+      "alt": "Brainstorming over paper",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/digitalScholarship_v001-6be409c84af9.png",
+      "download_status": "downloaded",
+      "bytes": 10325,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://rits.shanghai.nyu.edu/interactive-spaces",
+      "text": "Interactive Spaces",
+      "internal": false
+    },
+    {
+      "url": "https://rits.shanghai.nyu.edu/emerging-technologies",
+      "text": "Emerging Technologies",
+      "internal": false
+    },
+    {
+      "url": "https://rits.shanghai.nyu.edu/digital-learning",
+      "text": "Digital Learning Environments",
+      "internal": false
+    },
+    {
+      "url": "https://rits.shanghai.nyu.edu/data-services",
+      "text": "Data Services",
+      "internal": false
+    },
+    {
+      "url": "https://rits.shanghai.nyu.edu/digital-studio",
+      "text": "Digital Studio",
+      "internal": false
+    },
+    {
+      "url": "https://rits.shanghai.nyu.edu/digital-scholarship",
+      "text": "Digital Scholarship",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 9,
+  "crawled_at": "2026-06-09T04:35:08+00:00",
+  "sequence": 802
+}

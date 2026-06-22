@@ -1,0 +1,92 @@
+{
+  "id": "academics__faculty__directory__xiaoai-lyu-8dd1051e9e",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/xiaoai-lyu",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/xiaoai-lyu",
+  "page_type": "academics",
+  "title": "Xiaoai",
+  "description": "Xiaoai Lyu is a researcher in molecular biology, cell biology, and genomics, with a focus on chromosomal instability, aneuploidy, and the molecular mechanisms underlying cancer progression. Using a combination of gene editing and bioinformatics tools, she investigates how abnormal chromosomal",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Xiaoai Lyu\nXiaoai Lyu is a researcher in molecular biology, cell biology, and genomics, with a focus on chromosomal instability, aneuploidy, and the molecular mechanisms underlying cancer progression. Using a combination of gene editing and bioinformatics tools, she investigates how abnormal chromosomal phenotypes alter cellular behavior.\nSelect Publications\nAkter, M., Lyu, X., …, Kang, J. (2025). Role of noncanonical histone H2A variant, H2A.Z, to maintain proper centromeric transcription and chromosome segregation, Journal of Biological Chemistry, J Biol Chem, 108464. doi.org/10.1016/j.jbc.2025.108464\nHuang, C. J., Lyu, X., & Kang, J. (2023). The molecular characteristics and functional roles of microspherule protein 1 (MCRS1) in gene expression, cell proliferation, and organismic development. Cell Cycle, 22(6), 619-632. doi:10.1080/15384101.2022.2145816\nYang, H., Zhang, F., Huang, C. J., Lu, X., . . . Kang, J. (2019). Mps1 regulates spindle morphology through MCRS1 to promote chromosome alignment. Mol Biol Cell, 30(9), 1060-1068. doi:10.1091/mbc.E18-09-0546\nEducation\nPhD, BiologyNew York University\nMSc, Biology New York University\nBSc, Applied Biology with BiotechnologyHong Kong Polytechnic University\nMitosis\nCell Cycle Checkpoints\nAneuploidy\nApoptosis",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Xiaoai Lyu"
+    },
+    {
+      "type": "p",
+      "text": "Xiaoai Lyu is a researcher in molecular biology, cell biology, and genomics, with a focus on chromosomal instability, aneuploidy, and the molecular mechanisms underlying cancer progression. Using a combination of gene editing and bioinformatics tools, she investigates how abnormal chromosomal phenotypes alter cellular behavior."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Akter, M., Lyu, X., …, Kang, J. (2025). Role of noncanonical histone H2A variant, H2A.Z, to maintain proper centromeric transcription and chromosome segregation, Journal of Biological Chemistry, J Biol Chem, 108464. doi.org/10.1016/j.jbc.2025.108464"
+    },
+    {
+      "type": "li",
+      "text": "Huang, C. J., Lyu, X., & Kang, J. (2023). The molecular characteristics and functional roles of microspherule protein 1 (MCRS1) in gene expression, cell proliferation, and organismic development. Cell Cycle, 22(6), 619-632. doi:10.1080/15384101.2022.2145816"
+    },
+    {
+      "type": "li",
+      "text": "Yang, H., Zhang, F., Huang, C. J., Lu, X., . . . Kang, J. (2019). Mps1 regulates spindle morphology through MCRS1 to promote chromosome alignment. Mol Biol Cell, 30(9), 1060-1068. doi:10.1091/mbc.E18-09-0546"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, BiologyNew York University"
+    },
+    {
+      "type": "li",
+      "text": "MSc, Biology New York University"
+    },
+    {
+      "type": "li",
+      "text": "BSc, Applied Biology with BiotechnologyHong Kong Polytechnic University"
+    },
+    {
+      "type": "li",
+      "text": "Mitosis"
+    },
+    {
+      "type": "li",
+      "text": "Cell Cycle Checkpoints"
+    },
+    {
+      "type": "li",
+      "text": "Aneuploidy"
+    },
+    {
+      "type": "li",
+      "text": "Apoptosis"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/Shanghai%20Mascot_3.jpeg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://doi.org/10.1016/j.jbc.2025.108464",
+      "text": "doi.org/10.1016/j.jbc.2025.108464",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 186,
+  "crawled_at": "2026-06-09T04:34:47+00:00",
+  "sequence": 788
+}

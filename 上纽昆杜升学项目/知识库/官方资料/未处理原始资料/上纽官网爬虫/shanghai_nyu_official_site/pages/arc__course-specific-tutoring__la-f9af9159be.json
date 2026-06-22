@@ -1,0 +1,96 @@
+{
+  "id": "arc__course-specific-tutoring__la-f9af9159be",
+  "url": "https://shanghai.nyu.edu/arc/course-specific-tutoring/la?field_arc_disciplines_target_id=831",
+  "canonical_url": "https://shanghai.nyu.edu/arc/course-specific-tutoring/la",
+  "page_type": "arc",
+  "title": "Learning Assistants Spring 2026 | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Learning Assistants Spring 2026\nZhuo ChenBUSF&ECON LABUSF-SHU 303 Corporate Finance, ECON-SHU 301 Econometrics\nShirshak Poudel Economics LAECON-SHU 202: Intermediate Macroeconomics, ECON-SHU 3 Microeconomics\nJinkun(Stella) HuangEconomics LAECON-SHU 3 Microeconomics, ECON-SHU 251 Economics of Global Business\nEleanor Nguyen Economics LAECON-SHU 202 Intermediate Macroeconomics, ECON-SHU 1 Principles of Macroeconomics\nGuanheng (Harry) CenEconomics LAECON-SHU 1 Principles of Macroeconomics, ECON-SHU 251 Economics of Global BusinessHi! I’m Harry, a senior majoring in Data Science and Business and Finance. I’m interested in data science and related topics, and I really appreciate the opportunity to help with any questions you might have. I also enjoy playing tennis, basketball, and bouldering. Looking forward to seeing you at ARC!\nHi! I’m Harry, a senior majoring in Data Science and Business and Finance. I’m interested in data science and related topics, and I really appreciate the opportunity to help with any questions you might have. I also enjoy playing tennis, basketball, and bouldering. Looking forward to seeing you at ARC!",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Learning Assistants Spring 2026"
+    },
+    {
+      "type": "li",
+      "text": "Zhuo ChenBUSF&ECON LABUSF-SHU 303 Corporate Finance, ECON-SHU 301 Econometrics"
+    },
+    {
+      "type": "li",
+      "text": "Shirshak Poudel Economics LAECON-SHU 202: Intermediate Macroeconomics, ECON-SHU 3 Microeconomics"
+    },
+    {
+      "type": "li",
+      "text": "Jinkun(Stella) HuangEconomics LAECON-SHU 3 Microeconomics, ECON-SHU 251 Economics of Global Business"
+    },
+    {
+      "type": "li",
+      "text": "Eleanor Nguyen Economics LAECON-SHU 202 Intermediate Macroeconomics, ECON-SHU 1 Principles of Macroeconomics"
+    },
+    {
+      "type": "li",
+      "text": "Guanheng (Harry) CenEconomics LAECON-SHU 1 Principles of Macroeconomics, ECON-SHU 251 Economics of Global BusinessHi! I’m Harry, a senior majoring in Data Science and Business and Finance. I’m interested in data science and related topics, and I really appreciate the opportunity to help with any questions you might have. I also enjoy playing tennis, basketball, and bouldering. Looking forward to seeing you at ARC!"
+    },
+    {
+      "type": "p",
+      "text": "Hi! I’m Harry, a senior majoring in Data Science and Business and Finance. I’m interested in data science and related topics, and I really appreciate the opportunity to help with any questions you might have. I also enjoy playing tennis, basketball, and bouldering. Looking forward to seeing you at ARC!"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/alumni_vocies__300x450/public/meettheteam/%E7%BE%8E%E7%AD%BE%20-%20Zhuo%20Chen.jpg?itok=3V7UTRTD",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/alumni_vocies__300x450/public/meettheteam/%E7%BE%8E%E7%AD%BE%20-%20Zhuo%20Chen.jpg?itok=3V7UTRTD (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/alumni_vocies__300x450/public/meettheteam/1.jpeg?itok=B4OlOUCT",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/alumni_vocies__300x450/public/meettheteam/Jinkun%20Huang.png?itok=ckJ5wJKR",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Jinkun-20Huang-9c098c8ba258.png",
+      "download_status": "downloaded",
+      "bytes": 133099,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/alumni_vocies__300x450/public/meettheteam/IMG_8045%202%20-%20Eleanor%20Nguyen.JPG?itok=anE7uBsq",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/IMG_8045-202-20-20Eleanor-20Nguyen-35c66c0f102c.jpg",
+      "download_status": "downloaded",
+      "bytes": 19620,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/alumni_vocies__300x450/public/meettheteam/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260109232555_342_38%20-%20Guanheng%20Cen.png?itok=DLduwX1o",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/alumni_vocies__300x450/public/meettheteam/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260109232555_342_38%20-%20Guanheng%20Cen.png?itok=DLduwX1o (Caused by SSLError(SSLEOFError(8, '[SSL:"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 175,
+  "crawled_at": "2026-06-09T04:42:20+00:00",
+  "sequence": 1464
+}

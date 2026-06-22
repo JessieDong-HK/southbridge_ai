@@ -1,0 +1,162 @@
+{
+  "id": "campus-life__career__students__identify-opportunities-bb362f714b",
+  "url": "https://shanghai.nyu.edu/campus-life/career/students/identify-opportunities",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/career/students/identify-opportunities",
+  "page_type": "campus-life",
+  "title": "Identify Opportunities",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Identify Opportunities\nReady to begin the search for jobs, internships, or fellowships? In addition to connecting you to relevant websites and events, the Center for Career Development (CCD) can help with proactive strategies for your search, such as networking and making speculative applications.\nThe Job Search\nResources for your job search, in China and abroad.\nCareer Fair & OCR Sessions\nOn campus career fairs and recruitment sessions connect students to potential employers.\nGlobal Awards & Fellowships\nExplore fellowships for continued study and research.\nWork and Intern in China\nExplore how to intern off campus, or stay in China to work after graduation.\nOn-Campus Job\nWorking on campus allows students to take advantage of the resources within the University and gain real work experience.\nHandshake\nUse your Net ID to sign onto Handshake and to find career recommendations based on your major, interests and network.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Identify Opportunities"
+    },
+    {
+      "type": "p",
+      "text": "Ready to begin the search for jobs, internships, or fellowships? In addition to connecting you to relevant websites and events, the Center for Career Development (CCD) can help with proactive strategies for your search, such as networking and making speculative applications."
+    },
+    {
+      "type": "h4",
+      "text": "The Job Search"
+    },
+    {
+      "type": "p",
+      "text": "Resources for your job search, in China and abroad."
+    },
+    {
+      "type": "h4",
+      "text": "Career Fair & OCR Sessions"
+    },
+    {
+      "type": "p",
+      "text": "On campus career fairs and recruitment sessions connect students to potential employers."
+    },
+    {
+      "type": "h4",
+      "text": "Global Awards & Fellowships"
+    },
+    {
+      "type": "p",
+      "text": "Explore fellowships for continued study and research."
+    },
+    {
+      "type": "h4",
+      "text": "Work and Intern in China"
+    },
+    {
+      "type": "p",
+      "text": "Explore how to intern off campus, or stay in China to work after graduation."
+    },
+    {
+      "type": "h4",
+      "text": "On-Campus Job"
+    },
+    {
+      "type": "p",
+      "text": "Working on campus allows students to take advantage of the resources within the University and gain real work experience."
+    },
+    {
+      "type": "h4",
+      "text": "Handshake"
+    },
+    {
+      "type": "p",
+      "text": "Use your Net ID to sign onto Handshake and to find career recommendations based on your major, interests and network."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/cdc_website_image-03.jpg",
+      "alt": "The Job Search",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/cdc_website_image-03.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/the-job-search_0.jpg",
+      "alt": "Career Fair & OCR Sessions",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/the-job-search_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/cdc_website_image-01.jpg",
+      "alt": "Global Awards & Fellowships",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/cdc_website_image-01.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/work-and-intern-in-china.jpg",
+      "alt": "Work and Intern in China",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/work-and-intern-in-china.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/cdc_website_image-05.jpg",
+      "alt": "On-Campus Job",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/cdc_website_image-05.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/handic_0.png",
+      "alt": "Handshake",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/handic_0.png (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/students/identify-opportunities/job-search",
+      "text": "The Job Search",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/students/identify-opportunities/career-fair-ocr-sessions",
+      "text": "Career Fair & OCR Sessions",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/students/identify-opportunities/global-awards-fellowships",
+      "text": "Global Awards & Fellowships",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/students/identify-opportunities/get-ready-work",
+      "text": "Work and Intern in China",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/career/students/identify-opportunities/on-campus-job",
+      "text": "On-Campus Job",
+      "internal": true
+    },
+    {
+      "url": "https://app.joinhandshake.com",
+      "text": "Handshake",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 143,
+  "crawled_at": "2026-06-09T04:32:13+00:00",
+  "sequence": 539
+}

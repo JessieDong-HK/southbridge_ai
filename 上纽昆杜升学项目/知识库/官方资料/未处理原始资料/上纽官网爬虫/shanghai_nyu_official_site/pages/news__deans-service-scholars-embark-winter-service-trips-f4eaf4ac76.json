@@ -1,0 +1,98 @@
+{
+  "id": "news__deans-service-scholars-embark-winter-service-trips-f4eaf4ac76",
+  "url": "https://shanghai.nyu.edu/news/deans-service-scholars-embark-winter-service-trips",
+  "canonical_url": "https://shanghai.nyu.edu/news/deans-service-scholars-embark-winter-service-trips",
+  "page_type": "news",
+  "title": "Deans' Service Scholars Embark on Winter Service Trips",
+  "description": "NYU Shanghai's Deans' Service Scholars (DSS) program kicked off 2015 by jet-setting to Cambodia and India for its winter service trips, while also hosting a group of NYU New York students in Shanghai. A unique collaboration of service and scholarship, the DSS program allows students to actively",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Deans' Service Scholars Embark on Winter Service Trips\nTwitter\nFacebook\nWeibo\nNYU Shanghai's Deans' Service Scholars (DSS) program kicked off 2015 by jet-setting to Cambodia and India for its winter service trips, while also hosting a group of NYU New York students in Shanghai. A unique collaboration of service and scholarship, the DSS program allows students to actively engage in serving their community through an academic lens while also experiencing a new culture.\nAfter witnessing the famed Angkor Wat sunrise in Siem Reap, DSS participants in Cambodia helped scrub down the walls of the school at Project New Hope, where they also spent time getting to know the staff and students. Scholars who teamed up with Cross Cultural Solutions in India volunteered in New Delhi's \"Shanty Towns,\" interacting with and designing educational games for elementary students. In Shanghai, scholars taught English to children at the Raising Community Center and provided company to the residents of the Pudong Social Welfare Elderly Home while receiving a lesson in Chinese dumpling-making. While challenging, the service trips provided DSS participants with once-in-a-lifetime outreach opportunities.In addition to writing post-trip reflections following the completion of their service trips, many students plan to continue collaborating with their respective outreach centers. According to the DSS blog, sophomore Lathika Mouli will work with the New Hope IT department to improve their databases, while student leader Sarah Chang plans to help initiate a mental health program for New Hope.\nView the DSS Cambodia Gallery\nWritten by Tina Xu*Photos provided by the DSS blog",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Deans' Service Scholars Embark on Winter Service Trips"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai's Deans' Service Scholars (DSS) program kicked off 2015 by jet-setting to Cambodia and India for its winter service trips, while also hosting a group of NYU New York students in Shanghai. A unique collaboration of service and scholarship, the DSS program allows students to actively engage in serving their community through an academic lens while also experiencing a new culture."
+    },
+    {
+      "type": "p",
+      "text": "After witnessing the famed Angkor Wat sunrise in Siem Reap, DSS participants in Cambodia helped scrub down the walls of the school at Project New Hope, where they also spent time getting to know the staff and students. Scholars who teamed up with Cross Cultural Solutions in India volunteered in New Delhi's \"Shanty Towns,\" interacting with and designing educational games for elementary students. In Shanghai, scholars taught English to children at the Raising Community Center and provided company to the residents of the Pudong Social Welfare Elderly Home while receiving a lesson in Chinese dumpling-making. While challenging, the service trips provided DSS participants with once-in-a-lifetime outreach opportunities.In addition to writing post-trip reflections following the completion of their service trips, many students plan to continue collaborating with their respective outreach centers. According to the DSS blog, sophomore Lathika Mouli will work with the New Hope IT department to improve their databases, while student leader Sarah Chang plans to help initiate a mental health program for New Hope."
+    },
+    {
+      "type": "p",
+      "text": "View the DSS Cambodia Gallery"
+    },
+    {
+      "type": "p",
+      "text": "Written by Tina Xu*Photos provided by the DSS blog"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/img_1113.jpg?itok=QCQU069U",
+      "alt": "Deans' Service Scholars",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/dss_split2.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/dss_split2-214b299ca1a2.jpg",
+      "download_status": "downloaded",
+      "bytes": 89758,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Deans",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/deans-service-scholars-embark-winter-service-trips&title=Deans",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/deans-service-scholars-embark-winter-service-trips&title=Deans",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/campus-life/involvement/community/scholars",
+      "text": "Deans' Service Scholars (DSS)",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/gallery/dss-winter-service-trip-cambodia",
+      "text": "DSS Cambodia Gallery",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 263,
+  "crawled_at": "2026-06-09T04:44:08+00:00",
+  "sequence": 1586
+}

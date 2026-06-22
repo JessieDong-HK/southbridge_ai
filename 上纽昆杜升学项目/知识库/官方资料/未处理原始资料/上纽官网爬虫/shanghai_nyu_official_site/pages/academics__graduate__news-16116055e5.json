@@ -1,0 +1,241 @@
+{
+  "id": "academics__graduate__news-16116055e5",
+  "url": "https://shanghai.nyu.edu/academics/graduate/news?page=7",
+  "canonical_url": "https://shanghai.nyu.edu/academics/graduate/news",
+  "page_type": "academics",
+  "title": "Graduate News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Graduate News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Graduate News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/wechatimg48.jpeg?itok=xtG_NNrl",
+      "alt": "2019 graduate orientation cover photo",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/datasciencephd.jpeg?itok=xRJsr3JZ",
+      "alt": "data science phd",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/dial_interface_large_0.jpg?itok=QBzuYTtG",
+      "alt": "cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/c.png?itok=_SjoIoxD",
+      "alt": "students",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/c-c02c271744fe.png",
+      "download_status": "downloaded",
+      "bytes": 220526,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/9.1.jpg?itok=G6X0o6Gw",
+      "alt": "cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/10.1.jpg?itok=U9rlQHMU",
+      "alt": "cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/10.1.jpg?itok=U9rlQHMU (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/1_3.jpg?itok=9KC-9OxR",
+      "alt": "cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/2.1.png?itok=7jWHeZnr",
+      "alt": "cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/19-0922_004-940.jpg?itok=NGfEgQfO",
+      "alt": "stern group photo",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/19-0922_004-940-5021789b0b01.jpg",
+      "download_status": "downloaded",
+      "bytes": 42221,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/1_image.jpg?itok=vk_IVT06",
+      "alt": "Graduates of the 2019 MSW Program",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/cover_1.jpg?itok=dxdIFGCX",
+      "alt": "cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_0640-940.jpg?itok=btTmpYp-",
+      "alt": "At the showcase",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_0640-940-3c01dff54047.jpg",
+      "download_status": "downloaded",
+      "bytes": 14484,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/02.professor_takaya_with_the_english_teachers_from_changning_school_district_who_participated_in_the_workshop_copy_copy_0.jpg?itok=KN9VYi8w",
+      "alt": "Professor Takaya with the English teachers",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/02.professor_takaya_with_the_english_teachers_from_c-9c6ae4a56646.jpg",
+      "download_status": "downloaded",
+      "bytes": 29460,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/photo_for_transportation_planning_phd_0.jpg?itok=Pi08woPX",
+      "alt": "car",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/photo_for_transportation_planning_phd_0.jpg?itok=Pi08woPX (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurr"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/cover_0.jpg?itok=dADqF8WO",
+      "alt": "cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/cover_0-5cdbf69516d7.jpg",
+      "download_status": "downloaded",
+      "bytes": 22343,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-establishes-graduate-student-community-and-holds-fall-orientation",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-establishes-new-data-science-phd",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-launches-master-arts-ima-nyus-tisch-school-arts-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/studying-rodents-understand-how-we-make-decisions",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/msdabc-company-visits-summer-2019-nyc",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/msqf-company-visits-summer-2019-nyc",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/ma-tesol-welcomes-its-second-class-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-stern-nyu-shanghai-career-services-kickoff",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/inaugural-classes-nyu-shanghai-nyu-stern-global-masters-programs-arrive-nyc",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/looking-back-shanghai-and-new-york-experience-interview-19-msw-graduate-michelle-wong",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-nyu-stern-networking-reception",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-sends-first-post-doctoral-associate-nyu-research-showcase",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/tesol-meets-teachers-and-students-and-outside-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-launches-new-transportation-planning-phd",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/graduate-students-2019-spring-mixer",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:42:55+00:00",
+  "sequence": 1513
+}

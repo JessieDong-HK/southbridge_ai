@@ -1,0 +1,96 @@
+{
+  "id": "academics__graduate__phd-programs__student-success__resources-forms-8637ed059a",
+  "url": "https://shanghai.nyu.edu/academics/graduate/phd-programs/student-success/resources-forms",
+  "canonical_url": "https://shanghai.nyu.edu/academics/graduate/phd-programs/student-success/resources-forms",
+  "page_type": "academics",
+  "title": "Resources & Forms",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Resources & Forms\nForms\nDoctoral Periodic Review Form\nDocument and Transcript Request Form\nGSAS Mentorship agreement\nResources\nGSAS Policies and Procedures\nTandon Academic Requirements and Policies\nWagner Academic Policies\nLibrary Study Space Reservation",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Resources & Forms"
+    },
+    {
+      "type": "h3",
+      "text": "Forms"
+    },
+    {
+      "type": "p",
+      "text": "Doctoral Periodic Review Form"
+    },
+    {
+      "type": "p",
+      "text": "Document and Transcript Request Form"
+    },
+    {
+      "type": "p",
+      "text": "GSAS Mentorship agreement"
+    },
+    {
+      "type": "h3",
+      "text": "Resources"
+    },
+    {
+      "type": "p",
+      "text": "GSAS Policies and Procedures"
+    },
+    {
+      "type": "p",
+      "text": "Tandon Academic Requirements and Policies"
+    },
+    {
+      "type": "p",
+      "text": "Wagner Academic Policies"
+    },
+    {
+      "type": "p",
+      "text": "Library Study Space Reservation"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://docs.google.com/document/d/1R57O4UsGeqzhhPAw4UsZxHPi5_0c3tsd/edit?usp=sharing&ouid=109747749364920826741&rtpof=true&sd=true",
+      "text": "Doctoral Periodic Review Form",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSc8XtCFg_v4MP-yc9r24AvU_tMAtde3GdPYyuhHdto-g3V_1g/viewform",
+      "text": "Document and Transcript Request Form",
+      "internal": false
+    },
+    {
+      "url": "https://drive.google.com/file/d/1NN9uXoAI8OmK7D8XaMoh6o1wfb-VndEh/view?usp=sharing",
+      "text": "GSAS Mentorship agreement",
+      "internal": false
+    },
+    {
+      "url": "https://gsas.nyu.edu/about-gsas/policies-and-procedures.html",
+      "text": "GSAS Policies and Procedures",
+      "internal": false
+    },
+    {
+      "url": "http://bulletin.engineering.nyu.edu/content.php?catoid=14&navoid=1179",
+      "text": "Tandon Academic Requirements and Policies",
+      "internal": false
+    },
+    {
+      "url": "https://wagner.nyu.edu/education/degrees/doctorate-public-administration/academic-policies",
+      "text": "Wagner Academic Policies",
+      "internal": false
+    },
+    {
+      "url": "https://library.shanghai.nyu.edu/rooms-and-spaces",
+      "text": "Library Study Space Reservation",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 32,
+  "crawled_at": "2026-06-09T04:30:48+00:00",
+  "sequence": 367
+}

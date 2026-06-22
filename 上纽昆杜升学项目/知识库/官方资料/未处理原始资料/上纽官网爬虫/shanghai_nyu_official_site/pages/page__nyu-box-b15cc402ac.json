@@ -1,0 +1,152 @@
+{
+  "id": "page__nyu-box-b15cc402ac",
+  "url": "https://shanghai.nyu.edu/page/nyu-box",
+  "canonical_url": "https://shanghai.nyu.edu/page/nyu-box",
+  "page_type": "page",
+  "title": "NYU Box",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "NYU Box\nNYU Box is a cloud-based service for file storage/sharing and document collaboration. It can be used by individuals and departments. Restricted or potentially sensitive data can be stored here.\nWho is this service available to?\nNYU faculty and full-time staff\nHow can users access this service?\nNYU Box is automatically available to faculty and full-time staff at box.nyu.edu. Students are recommended to use NYU Drive for file storage, sharing, and collaboration. Faculty or staff sponsors can request an NYU Box account for students, contractors, or affiliates, if needed, by contacting the IT Service Desk.\nNeed help?\nSubmit a request on support.nyu.edu\nSend a request through WeChat\nEmail to shanghai.it.help@nyu.edu\nVisit the IT Service Center: Room N525 @ New Bund Campus\nFAQs and more\nAbout NYU Box\nGeneral FAQs\nSetup FAQs\nBest Practices FAQs\nCollaboration and Sharing FAQs\nEligibility and access\nTerms of Use",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "NYU Box"
+    },
+    {
+      "type": "p",
+      "text": "NYU Box is a cloud-based service for file storage/sharing and document collaboration. It can be used by individuals and departments. Restricted or potentially sensitive data can be stored here."
+    },
+    {
+      "type": "h2",
+      "text": "Who is this service available to?"
+    },
+    {
+      "type": "p",
+      "text": "NYU faculty and full-time staff"
+    },
+    {
+      "type": "h2",
+      "text": "How can users access this service?"
+    },
+    {
+      "type": "p",
+      "text": "NYU Box is automatically available to faculty and full-time staff at box.nyu.edu. Students are recommended to use NYU Drive for file storage, sharing, and collaboration. Faculty or staff sponsors can request an NYU Box account for students, contractors, or affiliates, if needed, by contacting the IT Service Desk."
+    },
+    {
+      "type": "h2",
+      "text": "Need help?"
+    },
+    {
+      "type": "li",
+      "text": "Submit a request on support.nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Send a request through WeChat"
+    },
+    {
+      "type": "li",
+      "text": "Email to shanghai.it.help@nyu.edu"
+    },
+    {
+      "type": "li",
+      "text": "Visit the IT Service Center: Room N525 @ New Bund Campus"
+    },
+    {
+      "type": "h2",
+      "text": "FAQs and more"
+    },
+    {
+      "type": "li",
+      "text": "About NYU Box"
+    },
+    {
+      "type": "li",
+      "text": "General FAQs"
+    },
+    {
+      "type": "li",
+      "text": "Setup FAQs"
+    },
+    {
+      "type": "li",
+      "text": "Best Practices FAQs"
+    },
+    {
+      "type": "li",
+      "text": "Collaboration and Sharing FAQs"
+    },
+    {
+      "type": "li",
+      "text": "Eligibility and access"
+    },
+    {
+      "type": "li",
+      "text": "Terms of Use"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://box.nyu.edu/",
+      "text": "box.nyu.edu",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/life/information-technology/communication-and-collaboration/document-collaboration-and-sharing/nyu-drive.html",
+      "text": "NYU Drive",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=sc_cat_item&sys_id=5110048e1bd85a103f31a9b6624bcb5d",
+      "text": "IT Service Desk",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011955",
+      "text": "Send a request through WeChat",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/life/information-technology/communication-and-collaboration/document-collaboration-and-sharing/nyu-box.html",
+      "text": "About NYU Box",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0012179",
+      "text": "General FAQs",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0012180",
+      "text": "Setup FAQs",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0012043",
+      "text": "Best Practices FAQs",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0012184",
+      "text": "Collaboration and Sharing FAQs",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0012046",
+      "text": "Eligibility and",
+      "internal": false
+    },
+    {
+      "url": "https://support.nyu.edu/esc?id=kb_article&sysparm_article=KB0011067",
+      "text": "Terms of Use",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 156,
+  "crawled_at": "2026-06-09T04:31:50+00:00",
+  "sequence": 488
+}

@@ -1,0 +1,62 @@
+{
+  "id": "academics__faculty__directory__beilei-gu-46859146e8",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/beilei-gu",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/beilei-gu",
+  "page_type": "academics",
+  "title": "Beilei",
+  "description": "Beilei Gu is a Senior Lecturer of Chinese at NYU Shanghai. She has been teaching Chinese to college students in both the U.S. And China for more than 10 years, with formal training on the subject from New York University Steinhardt School of Culture, Education and Human Development.Prior to joining",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Beilei Gu\nBeilei Gu is a Senior Lecturer of Chinese at NYU Shanghai. She has been teaching Chinese to college students in both the U.S. And China for more than 10 years, with formal training on the subject from New York University Steinhardt School of Culture, Education and Human Development.\nPrior to joining NYU Shanghai in 2014, she had taught Chinese as second language at the Northwestern University Department of Asian Languages and Cultures in Evanston Illinois, Baruch College of The City University of New York and the China Institute at New York.\nEducation\nMA, Foreign Language Education; Teaching Chinese as a Second LanguageNew York University\nLocal Culture and History of Shanghai\nAdvanced Chinese II\nShanghai Architecture for Chinese Language Learners",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Beilei Gu"
+    },
+    {
+      "type": "p",
+      "text": "Beilei Gu is a Senior Lecturer of Chinese at NYU Shanghai. She has been teaching Chinese to college students in both the U.S. And China for more than 10 years, with formal training on the subject from New York University Steinhardt School of Culture, Education and Human Development."
+    },
+    {
+      "type": "p",
+      "text": "Prior to joining NYU Shanghai in 2014, she had taught Chinese as second language at the Northwestern University Department of Asian Languages and Cultures in Evanston Illinois, Baruch College of The City University of New York and the China Institute at New York."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MA, Foreign Language Education; Teaching Chinese as a Second LanguageNew York University"
+    },
+    {
+      "type": "li",
+      "text": "Local Culture and History of Shanghai"
+    },
+    {
+      "type": "li",
+      "text": "Advanced Chinese II"
+    },
+    {
+      "type": "li",
+      "text": "Shanghai Architecture for Chinese Language Learners"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/final-Beilei%20Gu-2025%20fall.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 122,
+  "crawled_at": "2026-06-09T04:54:40+00:00",
+  "sequence": 2446
+}

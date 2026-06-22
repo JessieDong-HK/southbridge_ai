@@ -1,0 +1,35 @@
+{
+  "id": "news__from-duke-kunshan-to-silicon-valley-15184dd31f",
+  "url": "https://www.dukekunshan.edu.cn/news/from-duke-kunshan-to-silicon-valley",
+  "canonical_url": "https://www.dukekunshan.edu.cn/news/from-duke-kunshan-to-silicon-valley/",
+  "page_type": "news",
+  "title": "From Duke Kunshan to Silicon Valley",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2022-05-31T07:32:36+00:00",
+  "sitemap_lastmod": "2022-05-31T08:14:57+00:00",
+  "text": "From Duke Kunshan to Silicon Valley",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "From Duke Kunshan to Silicon Valley"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://dku-web-admissions.s3.cn-north-1.amazonaws.com.cn/wp-content/uploads/staging/2022/05/25160952/homethumb_1-1.jpeg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/homethumb_1-1-680be3bc1e36.jpeg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 47568
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 6,
+  "crawled_at": "2026-06-03T13:51:24+00:00",
+  "sequence": 219
+}

@@ -1,0 +1,96 @@
+{
+  "id": "is__large-scale-55fd50316c",
+  "url": "https://shanghai.nyu.edu/is/large-scale",
+  "canonical_url": "https://shanghai.nyu.edu/is/large-scale",
+  "page_type": "is",
+  "title": "A Large-scale Dynamical Model Reveals Temporal Hierarchy in Primary Cortex",
+  "description": "Human beings are able to integrate and hold information across time, as well as rapidly and transiently respond to changing stimuli. For instance, to carry a conversation, our brain gets the meaning of words on a very short timescale, it integrates words to understand a sentence on a longer",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "A Large-scale Dynamical Model Reveals Temporal Hierarchy in Primary Cortex\nTwitter\nFacebook\nWeibo\nHuman beings are able to integrate and hold information across time, as well as rapidly and transiently respond to changing stimuli. For instance, to carry a conversation, our brain gets the meaning of words on a very short timescale, it integrates words to understand a sentence on a longer timescale, and finally it must also combine sentences to make sense of paragraphs and whole texts on even longer timescales.\nIncreasing experimental evidence suggests that the brain displays a hierarchy in the temporal domain that is similar to the hierarchical information convergence in the visual system. Led by NYU Shanghai’s professor of neuroscience, physics and mathematics, Xiao-Jing Wang, scientists recently established a large-scale neural circuit model to reveal the neurobiological mechanisms underlying such a timescale hierarchy. The study was published on the journal Neuron.\nBy incorporating anatomical connectivity and heterogeneity data for the macaque neocortex, Xiao-Jing and his colleagues developed a neural model that enabled researchers to probe the interplay between local circuitry and long-range connectivity. This system naturally produced a hierarchy of timescales - sensory areas show brief, transient responses to stimuli input, while association areas integrates inputs over time and exhibit persistent activity - that perfectly correspond to the experimental observations on time scale in monkey and human studies.\nMoreover, the circuit model revealed that slower prefrontal and temporal areas crucially impact on global brain dynamics. It implies, the researchers believe, that different cortical areas cannot be treated as identical nodes of a network, and the traditional fMRI connectivity analyses should be revised.\nThis study bridges the brain connectivity data and the timescale of dynamical operations. It increases our understanding of the brain function across different cognitive levels. “This work is notable because it is one of the first dynamical models of large-scale primate cortical circuits, and it reveals a hierarchy of temporal processing in the brain.” Xiao-Jing said. A perspective highlighting this paper in Neuron calls their finding “an organizing principle of primate cortex”.\nChaudhuri R, Knoblauch K, Gariel M-A, Kennedy H, Wang X-J (2015)A large-scale circuit mechanism for hierarchical dynamical processing in the primate cortexNeuron 88:419–431. doi:10.1016/j.neuron.2015.09.008",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "A Large-scale Dynamical Model Reveals Temporal Hierarchy in Primary Cortex"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Human beings are able to integrate and hold information across time, as well as rapidly and transiently respond to changing stimuli. For instance, to carry a conversation, our brain gets the meaning of words on a very short timescale, it integrates words to understand a sentence on a longer timescale, and finally it must also combine sentences to make sense of paragraphs and whole texts on even longer timescales."
+    },
+    {
+      "type": "p",
+      "text": "Increasing experimental evidence suggests that the brain displays a hierarchy in the temporal domain that is similar to the hierarchical information convergence in the visual system. Led by NYU Shanghai’s professor of neuroscience, physics and mathematics, Xiao-Jing Wang, scientists recently established a large-scale neural circuit model to reveal the neurobiological mechanisms underlying such a timescale hierarchy. The study was published on the journal Neuron."
+    },
+    {
+      "type": "p",
+      "text": "By incorporating anatomical connectivity and heterogeneity data for the macaque neocortex, Xiao-Jing and his colleagues developed a neural model that enabled researchers to probe the interplay between local circuitry and long-range connectivity. This system naturally produced a hierarchy of timescales - sensory areas show brief, transient responses to stimuli input, while association areas integrates inputs over time and exhibit persistent activity - that perfectly correspond to the experimental observations on time scale in monkey and human studies."
+    },
+    {
+      "type": "p",
+      "text": "Moreover, the circuit model revealed that slower prefrontal and temporal areas crucially impact on global brain dynamics. It implies, the researchers believe, that different cortical areas cannot be treated as identical nodes of a network, and the traditional fMRI connectivity analyses should be revised."
+    },
+    {
+      "type": "p",
+      "text": "This study bridges the brain connectivity data and the timescale of dynamical operations. It increases our understanding of the brain function across different cognitive levels. “This work is notable because it is one of the first dynamical models of large-scale primate cortical circuits, and it reveals a hierarchy of temporal processing in the brain.” Xiao-Jing said. A perspective highlighting this paper in Neuron calls their finding “an organizing principle of primate cortex”."
+    },
+    {
+      "type": "p",
+      "text": "Chaudhuri R, Knoblauch K, Gariel M-A, Kennedy H, Wang X-J (2015)A large-scale circuit mechanism for hierarchical dynamical processing in the primate cortexNeuron 88:419–431. doi:10.1016/j.neuron.2015.09.008"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/focus_image",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/focus_image/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/focus_image/large-scale_940-350.jpg?itok=NMmLeaUU",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/large-scale_940-350-34ccb7a86b05.jpg",
+      "download_status": "downloaded",
+      "bytes": 50762,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=A%20Large-scale%20Dynamical%20Model%20Reveals%20Temporal%20Hierarchy%20in%20Primary%20Cortex&url=https%3A//shanghai.nyu.edu/is/large-scale&status=A%20Large-scale%20Dynamical%20Model%20Reveals%20Temporal%20Hierarchy%20in%20Primary%20Cortex%20https%3A//shanghai.nyu.edu/is/large-scale",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/is/large-scale&title=A%20Large-scale%20Dynamical%20Model%20Reveals%20Temporal%20Hierarchy%20in%20Primary%20Cortex",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/is/large-scale&title=A%20Large-scale%20Dynamical%20Model%20Reveals%20Temporal%20Hierarchy%20in%20Primary%20Cortex",
+      "text": "Weibo",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 382,
+  "crawled_at": "2026-06-09T04:50:43+00:00",
+  "sequence": 2134
+}

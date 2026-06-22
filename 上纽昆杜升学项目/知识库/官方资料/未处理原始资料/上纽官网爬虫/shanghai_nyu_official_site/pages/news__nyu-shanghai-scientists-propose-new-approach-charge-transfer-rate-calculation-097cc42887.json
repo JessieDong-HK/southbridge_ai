@@ -1,0 +1,119 @@
+{
+  "id": "news__nyu-shanghai-scientists-propose-new-approach-charge-transfer-rate-calculation-097cc42887",
+  "url": "https://shanghai.nyu.edu/news/nyu-shanghai-scientists-propose-new-approach-charge-transfer-rate-calculation",
+  "canonical_url": "https://shanghai.nyu.edu/news/nyu-shanghai-scientists-propose-new-approach-charge-transfer-rate-calculation",
+  "page_type": "news",
+  "title": "NYU Shanghai Scientists Propose New Approach for Charge Transfer Rate Calculation",
+  "description": "Sun’s team proposed a novel method of calculating the charge transfer rate between electronic states.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "NYU Shanghai Scientists Propose New Approach for Charge Transfer Rate Calculation\nTwitter\nFacebook\nWeibo\nResearchers around the world are working on developing alternatives to traditional energy sources. Predicting the charge transfer process and rate in materials as well as understanding the quantum dynamics of the process can be essential for developing alternative energy. This has been a focused research area of NYU Shanghai Assistant Professor of Chemistry Sun Xiang’s research team. Recently, Sun’s team made a breakthrough by proposing a novel method of calculating the charge transfer rate between electronic states. The study was recently published in The Journal of Chemical Physics, a leading journal in the field.\nSun explained the charge transfer process as a ball bouncing from one point to another, where the ball is the charge and the movement of bouncing creates electricity. “When developing alternative energy”, he said, “it’s essential to know how ‘fast’ electricity can be generated inside certain materials - and that’s the reason why we have to calculate the charge transfer rate.”\nIn this work, Sun’s team successfully developed an “open-chain path-integral (OCPI)” approach that can be applied to calculate charge transfer rate between two electronic states. They developed this new approach based on a previous single-state approach established in 2018 by a team led by NYU Professor of Chemistry and Mathematics Mark Tuckerman. Tuckerman is also a member of the NYU-ECNU Center for Computational Chemistry at NYU Shanghai.\nIllustration of the OCPI approach\nSun said that his team’s approach is a significant upgrade to the previous theory, which was used mostly for computing quantum time correlation function of the ground state, and couldn’t compute the electronic transition between multiple states. “Extending their groundwork, he said, “we can now compute how ‘fast’ the charge ‘bounces’ between states using this new approach for a model system, which has laid a theoretical foundation for further study on the efficiency of alternative energy materials.”\nTuckerman highlighted the applications for Sun’s research. “Processes involving multiple electronic states – both ground and excited states – are critical, not just for clean energy technologies, but also for innovations in medicine, including photopharmacology and photodynamic therapies, and to understand important phenomena such as photosynthesis and radiation-induced DNA damage,” he said.\nSun praised the paper’s first author, Liu Zengkui, who is in the third year of his PhD study in Sun’s group. “He’s able to understand the related theories thoroughly, propose ways to solve numerical issues, and apply them to run simulations, which I believe is a key ability for being a researcher,” Sun said.\nLiu reflected on his learning from this project. “From theoretical derivation, computer programming, simulation running, and data analysis, to figure generation and the first draft composition, the whole project enabled me to be systematically trained as a researcher,” he said.\nTuckerman said that the research opens up many new doors for further research. “The extension of our original ground-state approach to include these excited states was far from trivial,” he said. “We still have work ahead of us to see what we can prove about the new technique.”",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "NYU Shanghai Scientists Propose New Approach for Charge Transfer Rate Calculation"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Researchers around the world are working on developing alternatives to traditional energy sources. Predicting the charge transfer process and rate in materials as well as understanding the quantum dynamics of the process can be essential for developing alternative energy. This has been a focused research area of NYU Shanghai Assistant Professor of Chemistry Sun Xiang’s research team. Recently, Sun’s team made a breakthrough by proposing a novel method of calculating the charge transfer rate between electronic states. The study was recently published in The Journal of Chemical Physics, a leading journal in the field."
+    },
+    {
+      "type": "p",
+      "text": "Sun explained the charge transfer process as a ball bouncing from one point to another, where the ball is the charge and the movement of bouncing creates electricity. “When developing alternative energy”, he said, “it’s essential to know how ‘fast’ electricity can be generated inside certain materials - and that’s the reason why we have to calculate the charge transfer rate.”"
+    },
+    {
+      "type": "p",
+      "text": "In this work, Sun’s team successfully developed an “open-chain path-integral (OCPI)” approach that can be applied to calculate charge transfer rate between two electronic states. They developed this new approach based on a previous single-state approach established in 2018 by a team led by NYU Professor of Chemistry and Mathematics Mark Tuckerman. Tuckerman is also a member of the NYU-ECNU Center for Computational Chemistry at NYU Shanghai."
+    },
+    {
+      "type": "p",
+      "text": "Illustration of the OCPI approach"
+    },
+    {
+      "type": "p",
+      "text": "Sun said that his team’s approach is a significant upgrade to the previous theory, which was used mostly for computing quantum time correlation function of the ground state, and couldn’t compute the electronic transition between multiple states. “Extending their groundwork, he said, “we can now compute how ‘fast’ the charge ‘bounces’ between states using this new approach for a model system, which has laid a theoretical foundation for further study on the efficiency of alternative energy materials.”"
+    },
+    {
+      "type": "p",
+      "text": "Tuckerman highlighted the applications for Sun’s research. “Processes involving multiple electronic states – both ground and excited states – are critical, not just for clean energy technologies, but also for innovations in medicine, including photopharmacology and photodynamic therapies, and to understand important phenomena such as photosynthesis and radiation-induced DNA damage,” he said."
+    },
+    {
+      "type": "p",
+      "text": "Sun praised the paper’s first author, Liu Zengkui, who is in the third year of his PhD study in Sun’s group. “He’s able to understand the related theories thoroughly, propose ways to solve numerical issues, and apply them to run simulations, which I believe is a key ability for being a researcher,” Sun said."
+    },
+    {
+      "type": "p",
+      "text": "Liu reflected on his learning from this project. “From theoretical derivation, computer programming, simulation running, and data analysis, to figure generation and the first draft composition, the whole project enabled me to be systematically trained as a researcher,” he said."
+    },
+    {
+      "type": "p",
+      "text": "Tuckerman said that the research opens up many new doors for further research. “The extension of our original ground-state approach to include these excited states was far from trivial,” he said. “We still have work ahead of us to see what we can prove about the new technique.”"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/wide/public/field/image/11-4_-_sunxiang-01.jpg?itok=c3iIdVJk",
+      "alt": "sunxiang study",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/11-4_-_sunxiang-01-21ec031fda95.jpg",
+      "download_status": "downloaded",
+      "bytes": 43323,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/horizontal-sunxiang.jpg",
+      "alt": "horizontal-sunxiang",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/horizontal-sunxiang-66c5ec74496c.jpg",
+      "download_status": "downloaded",
+      "bytes": 276651,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=NYU%20Shanghai%20Scientists%20Propose%20New%20Approach%20for%20Charge%20Transfer%20Rate%20Calculation&url=https%3A//shanghai.nyu.edu/news/nyu-shanghai-scientists-propose-new-approach-charge-transfer-rate-calculation&status=NYU%20Shanghai%20Scientists%20Propose%20New%20Approach%20for%20Charge%20Transfer%20Rate%20Calculation%20https%3A//shanghai.nyu.edu/news/nyu-shanghai-scientists-propose-new-approach-charge-transfer-rate-calculation",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/news/nyu-shanghai-scientists-propose-new-approach-charge-transfer-rate-calculation&title=NYU%20Shanghai%20Scientists%20Propose%20New%20Approach%20for%20Charge%20Transfer%20Rate%20Calculation",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/news/nyu-shanghai-scientists-propose-new-approach-charge-transfer-rate-calculation&title=NYU%20Shanghai%20Scientists%20Propose%20New%20Approach%20for%20Charge%20Transfer%20Rate%20Calculation",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/xiang-sun",
+      "text": "Sun Xiang",
+      "internal": true
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/cn/chemistry",
+      "text": "NYU-ECNU Center for Computational Chemistry at NYU Shanghai",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 526,
+  "crawled_at": "2026-06-09T04:40:34+00:00",
+  "sequence": 1295
+}

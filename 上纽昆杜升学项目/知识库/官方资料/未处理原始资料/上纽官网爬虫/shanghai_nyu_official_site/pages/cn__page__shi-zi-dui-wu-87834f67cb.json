@@ -1,0 +1,115 @@
+{
+  "id": "cn__page__shi-zi-dui-wu-87834f67cb",
+  "url": "https://shanghai.nyu.edu/cn/page/shi-zi-dui-wu",
+  "canonical_url": "https://shanghai.nyu.edu/cn/page/shi-zi-dui-wu",
+  "page_type": "cn",
+  "title": "师资队伍",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "师资队伍\n上海纽约大学按照纽约大学师资聘用标准面向全球招聘，依托纽约大学世界一流的师资资源和选材体系，已建成一支国际化、高水平、结构合理的师资队伍。其中不乏美国国家科学院院士、美国人文与科学院院士、美国科学促进会会士及国内外知名学术协会重要成员。他们潜心钻研，在世界前沿实验室和顶尖研究所深耕学术，并常有研究成果发表于全球知名学术期刊。\n我们的教授\nAdam Brandenburger教授荣获上海市“白玉兰纪念奖”\n上纽大2024卓越教学奖揭晓\n师资队伍再壮大！二十名新教师加入上海纽约大学",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "师资队伍"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学按照纽约大学师资聘用标准面向全球招聘，依托纽约大学世界一流的师资资源和选材体系，已建成一支国际化、高水平、结构合理的师资队伍。其中不乏美国国家科学院院士、美国人文与科学院院士、美国科学促进会会士及国内外知名学术协会重要成员。他们潜心钻研，在世界前沿实验室和顶尖研究所深耕学术，并常有研究成果发表于全球知名学术期刊。"
+    },
+    {
+      "type": "h2",
+      "text": "我们的教授"
+    },
+    {
+      "type": "h4",
+      "text": "Adam Brandenburger教授荣获上海市“白玉兰纪念奖”"
+    },
+    {
+      "type": "h4",
+      "text": "上纽大2024卓越教学奖揭晓"
+    },
+    {
+      "type": "h4",
+      "text": "师资队伍再壮大！二十名新教师加入上海纽约大学"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_page_one/public/adam_magnolia_award-02.jpg?itok=A-o54Yaf",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/adam_magnolia_award-02-dda1cb3fa205.jpg",
+      "download_status": "downloaded",
+      "bytes": 36512,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_page_second/public/2024tea.jpg?itok=k9u-j5Lx",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2024tea-b8e0cd1cbf58.jpg",
+      "download_status": "downloaded",
+      "bytes": 13811,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/faculty_page_second/public/2024faculty_0.jpg?itok=BwYlkkoC",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/faculty_v3_1.jpg",
+      "alt": "教师目录",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/faculty_v3_1-d175686e50c5.jpg",
+      "download_status": "downloaded",
+      "bytes": 40901,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/shanghai-honors-adam-brandenburger-magnolia-silver-award",
+      "text": "Adam Brandenburger教授荣获上海市“白玉兰纪念奖”",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/what-teaching-excellence-nyu-shanghai-students-give-their-take",
+      "text": "上纽大2024卓越教学奖揭晓",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/20-new-faculty-members-join-nyu-shanghai",
+      "text": "师资队伍再壮大！二十名新教师加入上海纽约大学",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/academics/faculty-directory",
+      "text": "教师目录",
+      "internal": true
+    },
+    {
+      "url": "https://faculty.shanghai.nyu.edu/",
+      "text": "教师内网",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/en/about/work-here/open-positions-faculty",
+      "text": "师资招聘",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 19,
+  "crawled_at": "2026-06-09T04:28:59+00:00",
+  "sequence": 150
+}

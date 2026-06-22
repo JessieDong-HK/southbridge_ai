@@ -1,0 +1,245 @@
+{
+  "id": "academics__graduate__news-faf5180a5c",
+  "url": "https://shanghai.nyu.edu/academics/graduate/news?page=8",
+  "canonical_url": "https://shanghai.nyu.edu/academics/graduate/news",
+  "page_type": "academics",
+  "title": "Graduate News | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Graduate News",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Graduate News"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/kaichen-cover-1-edit730x375.jpg?itok=ahsEqEs9",
+      "alt": "Cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/kaichen-cover-1-edit730x375-52fa7ea1941b.jpg",
+      "download_status": "downloaded",
+      "bytes": 26012,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/msw_justin_cover_edit.jpg?itok=NAB_n36W",
+      "alt": "msw_justin_cover",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/msw_justin_cover_edit-91f77dca52e1.jpg",
+      "download_status": "downloaded",
+      "bytes": 33831,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/nyu_shanghai_launches_new_mathematics_phd-940_1.jpg?itok=gy0_ynGZ",
+      "alt": "NYU Shanghai Launches New Mathematics PhD",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/eric-940.jpg?itok=0MhbFUg8",
+      "alt": "Eric Mao",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/field/image/eric-940.jpg?itok=0MhbFUg8 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_s"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/1030_event1_-_social_work.jpg?itok=BjIGX6PM",
+      "alt": "Financial Means, Social Ends",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/1030_event1_-_social_work-de48c46c8aac.jpg",
+      "download_status": "downloaded",
+      "bytes": 23538,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/pei_tu_di_san_zhang_.jpg?itok=UqVPJKR4",
+      "alt": "phd open house",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/pei_tu_di_san_zhang-0f79fef4e617.jpg",
+      "download_status": "downloaded",
+      "bytes": 19612,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/screen_shot_2018-11-27_at_3.55.09_pm.png?itok=6C_v_Q7J",
+      "alt": "parents council banner",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/screen_shot_2018-11-27_at_3.55.09_pm-6a5a2b823d41.png",
+      "download_status": "downloaded",
+      "bytes": 169043,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_1385-940.jpg?itok=lWpvsDWU",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/engages-india-940-2.jpg?itok=kI1a1fsq",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/engages-india-940-2-e798626d0e0d.jpg",
+      "download_status": "downloaded",
+      "bytes": 35204,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/c9a1045-940.jpg?itok=s6mUIDBY",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/child-940.jpg?itok=RpGGs1z-",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/child-940-94956e2155dd.jpg",
+      "download_status": "downloaded",
+      "bytes": 20413,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/tesol-940.jpg?itok=0I9lc5yA",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/unnamed_0.jpg?itok=1AHg7Z9A",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/unnamed_0-e504ae8142eb.jpg",
+      "download_status": "downloaded",
+      "bytes": 29216,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/260057197cde5da31b1016-940_2.jpg?itok=8IBmXSXp",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/img_1542_940.jpg?itok=mm3NqFOG",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_1542_940-419b891fdcfc.jpg",
+      "download_status": "downloaded",
+      "bytes": 22790,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/news/experience-harmony-diversity-20-msw-student-kaichen-tan",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/msw-student-feature-justin-pataray",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-launches-new-mathematics-phd",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/assistant-dean-mao-speaks-india-news-magazine-about-nyu-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/financial-means-social-ends",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-hosts-first-ever-phd-open-house-0",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/graduate-initiatives-spotlighted-nyu-shanghai-parents-council-reception",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/tesol-masters-welcomes-first-class",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-engages-india-leading-programs",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/one-year-master-science-programs",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/social-care-children",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-launches-new-ma-program-tesol",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/integrated-care-china",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/approaching-social-work-science",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/stern-msba-holds-shanghai-module",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-09T04:42:55+00:00",
+  "sequence": 1514
+}

@@ -1,0 +1,36 @@
+{
+  "id": "zh-hans__news__how-dku-banded-together-latest-covid-19-response-b2dc7097c8",
+  "url": "https://www.dukekunshan.edu.cn/zh-hans/news/how-dku-banded-together-latest-covid-19-response",
+  "canonical_url": "https://www.dukekunshan.edu.cn/zh-hans/news/how-dku-banded-together-latest-covid-19-response/",
+  "page_type": "zh-hans",
+  "title": "我们，守望这片校园",
+  "description": "",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "2022-05-31T08:19:13+00:00",
+  "sitemap_lastmod": "2022-05-31T08:19:13+00:00",
+  "text": "我们，守望这片校园",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "我们，守望这片校园"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-03T13:51:27+00:00",
+  "sequence": 223
+}

@@ -1,0 +1,38 @@
+{
+  "id": "academics__faculty__directory__wei-min-wang-a669f35058",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/wei-min-wang",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/wei-min-wang",
+  "page_type": "academics",
+  "title": "Wei-Min",
+  "description": "Wei-Min Wang is a Visiting Professor of Mathematics at NYU Shanghai. Wei-Min is a research director in the Centre National de la Recherche Scientifique (CNRS) in France. She received her B.S. from MIT and PhD from Princeton University. Wei-Min has been a member at the Institute for Advanced Study,",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Wei-Min Wang\nWei-Min Wang is a Visiting Professor of Mathematics at NYU Shanghai. Wei-Min is a research director in the Centre National de la Recherche Scientifique (CNRS) in France. She received her B.S. from MIT and PhD from Princeton University. Wei-Min has been a member at the Institute for Advanced Study, Princeton. She was a plenary speaker at the International Congress of Mathematical Physics. Wei-Min's research interests mainly lie in analysis, partial differential equations, infinite dimensional dynamical systems and mathematical physics.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Wei-Min Wang"
+    },
+    {
+      "type": "p",
+      "text": "Wei-Min Wang is a Visiting Professor of Mathematics at NYU Shanghai. Wei-Min is a research director in the Centre National de la Recherche Scientifique (CNRS) in France. She received her B.S. from MIT and PhD from Princeton University. Wei-Min has been a member at the Institute for Advanced Study, Princeton. She was a plenary speaker at the International Congress of Mathematical Physics. Wei-Min's research interests mainly lie in analysis, partial differential equations, infinite dimensional dynamical systems and mathematical physics."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/screen_shot_2024-06-24_at_10.24.39_am_33.png",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 88,
+  "crawled_at": "2026-06-09T04:53:28+00:00",
+  "sequence": 2370
+}

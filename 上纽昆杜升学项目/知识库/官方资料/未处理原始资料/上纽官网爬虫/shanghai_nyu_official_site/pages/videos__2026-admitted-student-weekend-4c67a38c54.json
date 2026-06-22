@@ -1,0 +1,170 @@
+{
+  "id": "videos__2026-admitted-student-weekend-4c67a38c54",
+  "url": "https://shanghai.nyu.edu/videos/2026-admitted-student-weekend?page=12",
+  "canonical_url": "https://shanghai.nyu.edu/videos/2026-admitted-student-weekend",
+  "page_type": "videos",
+  "title": "2026 Admitted Student Weekend",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "2026 Admitted Student Weekend\nTwitter\nFacebook\nWeibo",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "2026 Admitted Student Weekend"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/wb_Cover.jpg?itok=q0BZiyIY",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wb_Cover-a8ee736894ea.jpg",
+      "download_status": "downloaded",
+      "bytes": 28896,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/cover_1.jpg?itok=88plCWs6",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/video-cover.jpg?itok=WG65Kebr",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/welcome2018a.jpg?itok=3HZoeH7v",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/welcome2018a-f1d127de8e68.jpg",
+      "download_status": "downloaded",
+      "bytes": 34114,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/bbi6.jpg?itok=thX3iw78",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/pd1.jpg?itok=GiRpm2rm",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/pd1-3442be249adc.jpg",
+      "download_status": "downloaded",
+      "bytes": 15642,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/home-pagevideo_0.png?itok=bVjU24By",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/home-pagevideo_0-1acba58cde06.png",
+      "download_status": "downloaded",
+      "bytes": 238719,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/videos/cover/mwm.jpg?itok=GBWHZ6wK",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/mwm-24c8a7c8258e.jpg",
+      "download_status": "downloaded",
+      "bytes": 28433,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=2026%20Admitted%20Student%20Weekend&url=https%3A//shanghai.nyu.edu/videos/2026-admitted-student-weekend&status=2026%20Admitted%20Student%20Weekend%20https%3A//shanghai.nyu.edu/videos/2026-admitted-student-weekend",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/videos/2026-admitted-student-weekend&title=2026%20Admitted%20Student%20Weekend",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/videos/2026-admitted-student-weekend&title=2026%20Admitted%20Student%20Weekend",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/world-bazaar",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/big-and-small-breaking-barriers-initiative-event",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/nyu-shanghai-mens-soccer-team",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/gallery/welcome-nyu-shanghai-class-2018",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/gallery/breaking-barriers-initiative",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/pudong-campus",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/welcome-nyu-shanghai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/make-world-your-major",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 7,
+  "crawled_at": "2026-06-09T04:35:16+00:00",
+  "sequence": 826
+}

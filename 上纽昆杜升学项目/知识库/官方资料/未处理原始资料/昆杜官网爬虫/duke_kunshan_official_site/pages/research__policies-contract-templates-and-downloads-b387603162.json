@@ -1,0 +1,52 @@
+{
+  "id": "research__policies-contract-templates-and-downloads-b387603162",
+  "url": "https://www.dukekunshan.edu.cn/research/policies-contract-templates-and-downloads",
+  "canonical_url": "https://research.dukekunshan.edu.cn/rso/policies-contract-templates-and-downloads/",
+  "page_type": "research",
+  "title": "Policies, Contract Templates and Downloads – Research | Duke Kunshan University",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": "2024-04-01T13:08:35+00:00",
+  "text": "Policies, Contract Templates and Downloads\nPolicies\nContracts\nDownloads",
+  "text_blocks": [
+    {
+      "type": "h2",
+      "text": "Policies, Contract Templates and Downloads"
+    },
+    {
+      "type": "li",
+      "text": "Policies"
+    },
+    {
+      "type": "li",
+      "text": "Contracts"
+    },
+    {
+      "type": "li",
+      "text": "Downloads"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://www.dukekunshan.edu.cn/research/policies",
+      "text": "Policies",
+      "internal": true
+    },
+    {
+      "url": "https://www.dukekunshan.edu.cn/research/contracts",
+      "text": "Contracts",
+      "internal": true
+    },
+    {
+      "url": "https://www.dukekunshan.edu.cn/research/pi-manual",
+      "text": "Downloads",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 8,
+  "crawled_at": "2026-06-03T13:49:50+00:00",
+  "sequence": 96
+}

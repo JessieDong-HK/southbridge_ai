@@ -1,0 +1,54 @@
+{
+  "id": "academics__faculty__directory__eric-h-mao-772e0f9020",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/eric-h-mao",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/eric-h-mao",
+  "page_type": "academics",
+  "title": "Eric H.",
+  "description": "Eric H.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Eric H. Mao\nEducation\nJD, LawUniversity of Michigan\nBS, Business AdministrationUniversity of California, Berkeley\nResearch & Practice in Academic English Writing for ELLs\nProfessional Responsibility and Leadership (PRL)",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Eric H. Mao"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "JD, LawUniversity of Michigan"
+    },
+    {
+      "type": "li",
+      "text": "BS, Business AdministrationUniversity of California, Berkeley"
+    },
+    {
+      "type": "li",
+      "text": "Research & Practice in Academic English Writing for ELLs"
+    },
+    {
+      "type": "li",
+      "text": "Professional Responsibility and Leadership (PRL)"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/eric_mao_-_faculty_portrait-01_0.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 27,
+  "crawled_at": "2026-06-09T04:42:57+00:00",
+  "sequence": 1517
+}

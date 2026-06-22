@@ -1,0 +1,95 @@
+{
+  "id": "academics__minors__physics-8e0bba5f88",
+  "url": "https://shanghai.nyu.edu/academics/minors/physics",
+  "canonical_url": "https://shanghai.nyu.edu/academics/minors/physics",
+  "page_type": "academics",
+  "title": "Physics",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Physics\nPhysics is a broad discipline, ranging from fundamental scientific questions to sophisticated technological applications. At its most basic, it is the study of matter and energy and their manifold interactions. Physicists study topics as wide-ranging as the underlying nature of space and time; the origins, large-scale structure, and future evolution of the universe; the behavior of stars and galaxies; the fundamental constituents of matter; the many different patterns in which matter is organized, including superconductivity, liquid crystals, or the various forms of magnetism in solids; the workings of biological matter, whether in molecules such as DNA, or cellular structures, or the transport of matter and energy in and across cells; and many others. Basic physics research has led to myriad technological advances, which have transformed society in the 20th century through the present day; a small list includes: radio and television; computers; lasers; X-rays; magnetic resonance imaging and CAT scans; and the World Wide Web.\nRequirements for the Minor\nChoose One:\nPHYS-SHU 91 Foundations of Physics I Honors\nPHYS-SHU 11 General Physics I\nChoose One:\nPHYS-SHU 93 Foundations of Physics II Honors\nPHYS-SHU 12 General Physics II\nFaculty Mentors\nFaculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory.\nArea Head of Natural Sciences, Professor of Practice of Biology",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Physics"
+    },
+    {
+      "type": "p",
+      "text": "Physics is a broad discipline, ranging from fundamental scientific questions to sophisticated technological applications. At its most basic, it is the study of matter and energy and their manifold interactions. Physicists study topics as wide-ranging as the underlying nature of space and time; the origins, large-scale structure, and future evolution of the universe; the behavior of stars and galaxies; the fundamental constituents of matter; the many different patterns in which matter is organized, including superconductivity, liquid crystals, or the various forms of magnetism in solids; the workings of biological matter, whether in molecules such as DNA, or cellular structures, or the transport of matter and energy in and across cells; and many others. Basic physics research has led to myriad technological advances, which have transformed society in the 20th century through the present day; a small list includes: radio and television; computers; lasers; X-rays; magnetic resonance imaging and CAT scans; and the World Wide Web."
+    },
+    {
+      "type": "h3",
+      "text": "Requirements for the Minor"
+    },
+    {
+      "type": "p",
+      "text": "Choose One:"
+    },
+    {
+      "type": "p",
+      "text": "PHYS-SHU 91 Foundations of Physics I Honors"
+    },
+    {
+      "type": "p",
+      "text": "PHYS-SHU 11 General Physics I"
+    },
+    {
+      "type": "p",
+      "text": "Choose One:"
+    },
+    {
+      "type": "p",
+      "text": "PHYS-SHU 93 Foundations of Physics II Honors"
+    },
+    {
+      "type": "p",
+      "text": "PHYS-SHU 12 General Physics II"
+    },
+    {
+      "type": "h3",
+      "text": "Faculty Mentors"
+    },
+    {
+      "type": "p",
+      "text": "Faculty mentors are the leading faculty and experts in the major disciplines. Students can reach out to faculty mentors for specific questions about the major, and references for connecting with relevant discipline resources. If you have specific questions about specific fields of study within the major, you can search for faculty through the faculty directory."
+    },
+    {
+      "type": "p",
+      "text": "Area Head of Natural Sciences, Professor of Practice of Biology"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/danyang_yu.jpeg",
+      "alt": "Danyang Yu",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/danyang_yu-c2e970728738.jpeg",
+      "download_status": "downloaded",
+      "bytes": 1010578,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/advising/forms/posting-minor",
+      "text": "Post a Minor",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty-directory",
+      "text": "faculty directory",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/danyang-yu",
+      "text": "Danyang Yu",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 262,
+  "crawled_at": "2026-06-09T04:41:33+00:00",
+  "sequence": 1394
+}

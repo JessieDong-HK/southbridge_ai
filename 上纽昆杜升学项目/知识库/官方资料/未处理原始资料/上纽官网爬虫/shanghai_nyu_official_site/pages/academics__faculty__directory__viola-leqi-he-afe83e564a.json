@@ -1,0 +1,62 @@
+{
+  "id": "academics__faculty__directory__viola-leqi-he-afe83e564a",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/viola-leqi-he",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/viola-leqi-he",
+  "page_type": "academics",
+  "title": "Viola (Leqi)",
+  "description": "Viola He is a Clinical Assistant Professor of Interactive Media Arts (IMA) at NYU Shanghai. Their work explores algorithmic approaches to audio-visual media, as well as designing, researching, and developing alternative structures, systems and interfaces. They are an artist, musician, culture",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Viola (Leqi) He\nViola He is a Clinical Assistant Professor of Interactive Media Arts (IMA) at NYU Shanghai. Their work explores algorithmic approaches to audio-visual media, as well as designing, researching, and developing alternative structures, systems and interfaces. They are an artist, musician, culture worker, and an organizing member of artist collective Livecode.NYC. They have exhibited and performed at SXSW, Gray Area, Wave Farm, HASTAC Conference, Anomaly Shanghai and more. Previously, He was an Adjunct faculty teaching at School of Visual Arts, teaching MFA Interactive Design.\nEducation\nMPS, Interactive Telecommunications ProgramNew York University\nBA, CommunicationUniversity of Southern California\nResearch Interests\nCritical hardware & software\nEmbodied systems for live performances",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Viola (Leqi) He"
+    },
+    {
+      "type": "p",
+      "text": "Viola He is a Clinical Assistant Professor of Interactive Media Arts (IMA) at NYU Shanghai. Their work explores algorithmic approaches to audio-visual media, as well as designing, researching, and developing alternative structures, systems and interfaces. They are an artist, musician, culture worker, and an organizing member of artist collective Livecode.NYC. They have exhibited and performed at SXSW, Gray Area, Wave Farm, HASTAC Conference, Anomaly Shanghai and more. Previously, He was an Adjunct faculty teaching at School of Visual Arts, teaching MFA Interactive Design."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MPS, Interactive Telecommunications ProgramNew York University"
+    },
+    {
+      "type": "li",
+      "text": "BA, CommunicationUniversity of Southern California"
+    },
+    {
+      "type": "h3",
+      "text": "Research Interests"
+    },
+    {
+      "type": "li",
+      "text": "Critical hardware & software"
+    },
+    {
+      "type": "li",
+      "text": "Embodied systems for live performances"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/retouched%202024.3.1%EF%BC%88%E6%9B%B9%EF%BC%890217.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 110,
+  "crawled_at": "2026-06-09T04:35:48+00:00",
+  "sequence": 864
+}

@@ -1,0 +1,54 @@
+{
+  "id": "cn__about__nyu-shanghai-education-development-foundation-61a4183d64",
+  "url": "https://shanghai.nyu.edu/cn/about/nyu-shanghai-education-development-foundation",
+  "canonical_url": "https://shanghai.nyu.edu/cn/about/nyu-shanghai-education-development-foundation",
+  "page_type": "cn",
+  "title": "上海纽约大学教育发展基金会",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "上海纽约大学教育发展基金会\n上海纽约大学教育发展基金会旨在为有需要的学生提供奖助学金，支持与资助教师的科研学术工作，并为学校的建设发展和各项办学需求提供支持。\n上海纽约大学致力于发展成为一所世界一流的综合性研究型大学，努力构建一个充满活力、交流融洽的学术氛围。上海纽约大学教育发展基金会和上海纽约大学均立足上海、融入上海，并和纽约大学遍布五大洲的全球教育网络紧密相连。您对上海纽约大学的捐赠与支持，必将在全球范围产生积极深远的影响。",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "上海纽约大学教育发展基金会"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学教育发展基金会旨在为有需要的学生提供奖助学金，支持与资助教师的科研学术工作，并为学校的建设发展和各项办学需求提供支持。"
+    },
+    {
+      "type": "p",
+      "text": "上海纽约大学致力于发展成为一所世界一流的综合性研究型大学，努力构建一个充满活力、交流融洽的学术氛围。上海纽约大学教育发展基金会和上海纽约大学均立足上海、融入上海，并和纽约大学遍布五大洲的全球教育网络紧密相连。您对上海纽约大学的捐赠与支持，必将在全球范围产生积极深远的影响。"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-c-about-07-03.jpg",
+      "alt": "chinese give now",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-c-about-07-03-767e61d3aa6c.jpg",
+      "download_status": "downloaded",
+      "bytes": 127399,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://foundation.shanghai.nyu.edu/cn",
+      "text": "了解更多",
+      "internal": false
+    },
+    {
+      "url": "https://foundation.shanghai.nyu.edu/cn/give-now",
+      "text": "我要捐赠",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 12,
+  "crawled_at": "2026-06-09T04:29:01+00:00",
+  "sequence": 158
+}

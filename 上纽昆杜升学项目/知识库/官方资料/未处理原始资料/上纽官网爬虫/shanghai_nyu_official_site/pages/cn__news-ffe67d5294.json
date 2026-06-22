@@ -1,0 +1,245 @@
+{
+  "id": "cn__news-ffe67d5294",
+  "url": "https://shanghai.nyu.edu/cn/news?page=60",
+  "canonical_url": "https://shanghai.nyu.edu/news",
+  "page_type": "cn",
+  "title": "新闻 | 上海纽约大学",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "新闻",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "新闻"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/262-Eastern-Forum_1280.jpg?itok=nICQ0vUG",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/262-Eastern-Forum_1280-259f462c8a99.jpg",
+      "download_status": "downloaded",
+      "bytes": 37905,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/roger-launius1280.jpg?itok=BOC_U_Sy",
+      "alt": "img",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/IMG_2745_news.jpg?itok=T-GZ8DW8",
+      "alt": "img",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/IMG_2745_news-b8ab719d948a.jpg",
+      "download_status": "downloaded",
+      "bytes": 19393,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/IMG_4764%20%281%29_0.jpg?itok=WwyBiibi",
+      "alt": "img",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/IMG_4764-20-281-29_0-0fc723c9fc62.jpg",
+      "download_status": "downloaded",
+      "bytes": 24965,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/3__0.jpg?itok=Ic4OqGM4",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/DSC01036.JPG?itok=Z5uoHH6U",
+      "alt": "img",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/DSC01036-a0a8a4add319.jpg",
+      "download_status": "downloaded",
+      "bytes": 11228,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/f834772b3.jpg?itok=tsF_0uJX",
+      "alt": "img",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/f834772b3-c6a162298366.jpg",
+      "download_status": "downloaded",
+      "bytes": 15520,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/DSC04028__0.jpg?itok=RxW-fHKU",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/IMG_8500_news.jpg?itok=LB1OjRPa",
+      "alt": "img",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/IMG_8500_news-3b0a06c8cb69.jpg",
+      "download_status": "downloaded",
+      "bytes": 31118,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/IMG_8461_news.jpg?itok=zRB5wCOA",
+      "alt": "img",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/Design-Expo-1280.jpg?itok=daY9sKe5",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/Design-Expo-1280-01c9bd739299.jpg",
+      "download_status": "downloaded",
+      "bytes": 31321,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/_MG_0042_.jpg?itok=vabhlAW_",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/MG_0042-e93108bfd6b0.jpg",
+      "download_status": "downloaded",
+      "bytes": 42079,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/IMG_2507.jpg?itok=s_HBB1Qk",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/IMG_2507-30d9d8541e60.jpg",
+      "download_status": "downloaded",
+      "bytes": 25120,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/field/image/DGK_9266%E2%80%94%E2%80%94.jpg?itok=UIvdkLCZ",
+      "alt": "img",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/DSC_0388.jpg?itok=VY2Vwjf7",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/262-dong-fang-ke-ji-lun-tan",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/ji-qi-ren-yu-ren-lei-de-tai-kong-tan-suo-ke-ji-jin-hua-yu-xing-ji-lu-xing",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/shang-hai-niu-yue-da-xue-jiao-shouclay-shirky-xin-shu-chu-lu",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/shang-hai-niu-yue-da-xue-ju-ban-han-dai-wen-hua-ti-yan-huo-dong",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/qiu-ji-chuang-ye-jiang-zuo",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/jie-fu-lei-meng-huo-shang-hai-shi-bai-yu-lan-rong-yu-jiang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/yong-yi-zhong-xin-ying-er-jing-que-de-fang-fa-lai-ce-liang-qian-ke",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/joanna-huo-baiyulan-jiang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/pu-dong-fei-wu-zhi-wen-hua-yi-chan-yi-shu-zhan-jin-xiao-yuan",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/pu-dong-tu-shu-guan-zeng-xin-sheng-mian-fei-jie-shu-ka",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/wei-ruan-she-ji-bi-sai",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/shanghai-keji-guan",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/space2",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/shu-xue-da-ka-yun-ji-shang-hai-da-zao-ying-yong-shu-xue-xin-dian-tang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/cn/news/xiang-mu",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 1,
+  "crawled_at": "2026-06-09T04:46:33+00:00",
+  "sequence": 1782
+}

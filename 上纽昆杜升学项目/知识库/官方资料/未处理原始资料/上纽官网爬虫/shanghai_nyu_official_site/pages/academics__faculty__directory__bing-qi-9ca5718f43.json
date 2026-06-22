@@ -1,0 +1,102 @@
+{
+  "id": "academics__faculty__directory__bing-qi-9ca5718f43",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/bing-qi",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/bing-qi",
+  "page_type": "academics",
+  "title": "Bing",
+  "description": "Bing Qi (戚兵) is currently PhD Coordinator of Physics and an Associate Professor of Physics at NYU Shanghai. Prior to joining NYU Shanghai, he was a Senior Researcher with the Quantum Research Team at Cisco Systems. Dr. Qi previously held positions as a Senior Research Scientist at Oak Ridge National",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Bing Qi\nBing Qi (戚兵) is currently PhD Coordinator of Physics and an Associate Professor of Physics at NYU Shanghai. Prior to joining NYU Shanghai, he was a Senior Researcher with the Quantum Research Team at Cisco Systems. Dr. Qi previously held positions as a Senior Research Scientist at Oak Ridge National Laboratory and as a Joint Faculty Associate Professor in the Department of Physics and Astronomy at the University of Tennessee, Knoxville. He received his Ph.D. in Physics from Dalian University of Technology in 1996. From 1996 to 2013, he held research appointments at Tsinghua University, Virginia Tech, and the University of Toronto. In 2024, Dr. Qi was elected Fellow of OPTICA (formerly the Optical Society of America, OSA).\nSelect Publications\nYi Zhao, Bing Qi, Xiongfeng Ma, Hoi-Kwong Lo, Li Qian, “Experimental Quantum Key Distribution with Decoy States,” Physical Review Letters 96, 070502 (2006)\nBing Qi, Chi-Hang Fred Fung, Hoi-Kwong Lo, Xiongfeng Ma, “Time-shift attack in practical quantum cryptosystems,” Quantum Information and Computation 7(1), 73-82 (2007)\nBing Qi, Yue-Meng Chi, Hoi-Kwong Lo, Li Qian, “High-speed quantum random number generation by measuring phase noise of a single-mode laser”, Optics Letters 35, 312-314 (2010)\nHoi-Kwong Lo, Marcos Curty, Bing Qi, “Measurement-device-independent quantum key distribution”, Physical Review Letters 108, 130503 (2012)\nBing Qi, Pavel Lougovski, Raphael Pooser, Warren Grice, and Miljko Bobrek, “Generating the local oscillator ‘locally’ in continuous-variable quantum key distribution based on coherent detection”, Physical Review X 5, 041009 (2015)\nEducation\nPhD, Applied OpticsDalian University of Technology\nQuantum cryptography\nQuantum cryptography\nQuantum communications and networking\nQuantum communications and networking\nOptical sensing\nOptical sensing\nHow things work\nIntroduction to quantum communication",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Bing Qi"
+    },
+    {
+      "type": "p",
+      "text": "Bing Qi (戚兵) is currently PhD Coordinator of Physics and an Associate Professor of Physics at NYU Shanghai. Prior to joining NYU Shanghai, he was a Senior Researcher with the Quantum Research Team at Cisco Systems. Dr. Qi previously held positions as a Senior Research Scientist at Oak Ridge National Laboratory and as a Joint Faculty Associate Professor in the Department of Physics and Astronomy at the University of Tennessee, Knoxville. He received his Ph.D. in Physics from Dalian University of Technology in 1996. From 1996 to 2013, he held research appointments at Tsinghua University, Virginia Tech, and the University of Toronto. In 2024, Dr. Qi was elected Fellow of OPTICA (formerly the Optical Society of America, OSA)."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Yi Zhao, Bing Qi, Xiongfeng Ma, Hoi-Kwong Lo, Li Qian, “Experimental Quantum Key Distribution with Decoy States,” Physical Review Letters 96, 070502 (2006)"
+    },
+    {
+      "type": "li",
+      "text": "Bing Qi, Chi-Hang Fred Fung, Hoi-Kwong Lo, Xiongfeng Ma, “Time-shift attack in practical quantum cryptosystems,” Quantum Information and Computation 7(1), 73-82 (2007)"
+    },
+    {
+      "type": "li",
+      "text": "Bing Qi, Yue-Meng Chi, Hoi-Kwong Lo, Li Qian, “High-speed quantum random number generation by measuring phase noise of a single-mode laser”, Optics Letters 35, 312-314 (2010)"
+    },
+    {
+      "type": "li",
+      "text": "Hoi-Kwong Lo, Marcos Curty, Bing Qi, “Measurement-device-independent quantum key distribution”, Physical Review Letters 108, 130503 (2012)"
+    },
+    {
+      "type": "li",
+      "text": "Bing Qi, Pavel Lougovski, Raphael Pooser, Warren Grice, and Miljko Bobrek, “Generating the local oscillator ‘locally’ in continuous-variable quantum key distribution based on coherent detection”, Physical Review X 5, 041009 (2015)"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Applied OpticsDalian University of Technology"
+    },
+    {
+      "type": "li",
+      "text": "Quantum cryptography"
+    },
+    {
+      "type": "p",
+      "text": "Quantum cryptography"
+    },
+    {
+      "type": "li",
+      "text": "Quantum communications and networking"
+    },
+    {
+      "type": "p",
+      "text": "Quantum communications and networking"
+    },
+    {
+      "type": "li",
+      "text": "Optical sensing"
+    },
+    {
+      "type": "p",
+      "text": "Optical sensing"
+    },
+    {
+      "type": "li",
+      "text": "How things work"
+    },
+    {
+      "type": "li",
+      "text": "Introduction to quantum communication"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/selected-capture_one_catalog0017-2.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/field/profile/selected-capture_one_catalog0017-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 286,
+  "crawled_at": "2026-06-09T04:41:02+00:00",
+  "sequence": 1352
+}

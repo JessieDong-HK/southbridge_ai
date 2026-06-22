@@ -1,0 +1,78 @@
+{
+  "id": "event__library-workshop-r-for-cleaning-and-visualizing-data-cc62ad403c",
+  "url": "https://www.dukekunshan.edu.cn/event/library-workshop-r-for-cleaning-and-visualizing-data",
+  "canonical_url": "https://www.dukekunshan.edu.cn/event/library-workshop-r-for-cleaning-and-visualizing-data/",
+  "page_type": "event",
+  "title": "Library Workshop | R for Cleaning and Visualizing Data",
+  "description": "",
+  "language": "en-US",
+  "published_time": "",
+  "modified_time": "2024-09-03T01:15:49+00:00",
+  "sitemap_lastmod": "2024-09-03T01:15:49+00:00",
+  "text": "Library Workshop | R for Cleaning and Visualizing Data\nDescription\nHost\nRegistration Link\nOnline Event Link",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Library Workshop | R for Cleaning and Visualizing Data"
+    },
+    {
+      "type": "h4",
+      "text": "Description"
+    },
+    {
+      "type": "h4",
+      "text": "Host"
+    },
+    {
+      "type": "h4",
+      "text": "Registration Link"
+    },
+    {
+      "type": "h4",
+      "text": "Online Event Link"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    },
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2024/06/06091115/March-2nd-Library-workshop.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "images/_shared/March-2nd-Library-workshop-c374df5ded30.jpg",
+      "download_status": "ok",
+      "bytes": 1110476,
+      "cached_from_disk": true
+    }
+  ],
+  "links": [
+    {
+      "url": "https://rstudio-education.github.io/hopr/starting.html",
+      "text": "https://rstudio-education.github.io/hopr/starting.html",
+      "internal": false
+    },
+    {
+      "url": "https://duke.qualtrics.com/jfe/form/SV_2azrw6FM0gmX0V0",
+      "text": "https://duke.qualtrics.com/jfe/form/SV_2azrw6FM0gmX0V0",
+      "internal": false
+    },
+    {
+      "url": "https://duke.zoom.us/j/6788304113?pwd=UXhvT244WnQxS3pNKy9RUkgvNW1jUT09&omn=97619376034",
+      "text": "https://duke.zoom.us/j/6788304113?pwd=UXhvT244WnQxS3pNKy9RUkgvNW1jUT09&omn=97619376034",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 15,
+  "crawled_at": "2026-06-03T13:51:13+00:00",
+  "sequence": 207
+}

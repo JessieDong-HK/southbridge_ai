@@ -1,0 +1,96 @@
+{
+  "id": "academics__faculty__directory__hongyi-wen-935c3fb366",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/hongyi-wen",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/hongyi-wen",
+  "page_type": "academics",
+  "title": "Hongyi",
+  "description": "Hongyi Wen is an Assistant Professor of Computer Science at NYU Shanghai. Professor Wen holds a PhD in Information Science from Cornell University. He received his BEng in Computer Science from Tsinghua University. His research interest lies in developing human-centered AI, with applications in",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Hongyi Wen\nHongyi Wen is an Assistant Professor of Computer Science at NYU Shanghai. Professor Wen holds a PhD in Information Science from Cornell University. He received his BEng in Computer Science from Tsinghua University. His research interest lies in developing human-centered AI, with applications in machine learning, recommender systems, and personalization in education and health.\nSelect Publications\nGuo Y, Xie L, Chen Z, Yu K, Po R, Yang G, Wetzstein G, Wen H. ImageGem: In-the-wild Generative Image Interaction Dataset for Generative Model Personalization. ICCV 2025.\nXie L, Teng X, Ke S, Wen H, Wang S. Reveal and Release: Iterative LLM Unlearning with Self-generated Data. EMNLP 2025.\nGuo Y, Liu H, and Wen H. 2024. GEMRec: Towards Generative Model Recommendation. WSDM 2024 Demo.\nHendy M, Sarkar A, Tuluk U, Jiang Y, Teng X, and Wen H. 2024. KiwiNotebook: Interactive Computational Notebook Enhanced by Retrieval-Augmented Language Models. CHI 2024 Workshop.\nWen H, Yi X, Yao T, Tang J, Hong L, and Chi E. 2022. Distributionally-robust Recommendations for Improving Worst-case User Experience. WWW 2022.\nEducation\nPhD, Information ScienceCornell University\nBEng, Computer Science and TechnologyTsinghua University\nHuman-centered AI\nMachine Learning\nRecommender Systems\nPersonalization in Education and Health",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Hongyi Wen"
+    },
+    {
+      "type": "p",
+      "text": "Hongyi Wen is an Assistant Professor of Computer Science at NYU Shanghai. Professor Wen holds a PhD in Information Science from Cornell University. He received his BEng in Computer Science from Tsinghua University. His research interest lies in developing human-centered AI, with applications in machine learning, recommender systems, and personalization in education and health."
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Guo Y, Xie L, Chen Z, Yu K, Po R, Yang G, Wetzstein G, Wen H. ImageGem: In-the-wild Generative Image Interaction Dataset for Generative Model Personalization. ICCV 2025."
+    },
+    {
+      "type": "li",
+      "text": "Xie L, Teng X, Ke S, Wen H, Wang S. Reveal and Release: Iterative LLM Unlearning with Self-generated Data. EMNLP 2025."
+    },
+    {
+      "type": "li",
+      "text": "Guo Y, Liu H, and Wen H. 2024. GEMRec: Towards Generative Model Recommendation. WSDM 2024 Demo."
+    },
+    {
+      "type": "li",
+      "text": "Hendy M, Sarkar A, Tuluk U, Jiang Y, Teng X, and Wen H. 2024. KiwiNotebook: Interactive Computational Notebook Enhanced by Retrieval-Augmented Language Models. CHI 2024 Workshop."
+    },
+    {
+      "type": "li",
+      "text": "Wen H, Yi X, Yao T, Tang J, Hong L, and Chi E. 2022. Distributionally-robust Recommendations for Improving Worst-case User Experience. WWW 2022."
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "PhD, Information ScienceCornell University"
+    },
+    {
+      "type": "li",
+      "text": "BEng, Computer Science and TechnologyTsinghua University"
+    },
+    {
+      "type": "li",
+      "text": "Human-centered AI"
+    },
+    {
+      "type": "li",
+      "text": "Machine Learning"
+    },
+    {
+      "type": "li",
+      "text": "Recommender Systems"
+    },
+    {
+      "type": "li",
+      "text": "Personalization in Education and Health"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/selected-capture_one_catalog0136.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://whongyi.github.io/",
+      "text": "https://whongyi.github.io/",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 202,
+  "crawled_at": "2026-06-09T04:43:28+00:00",
+  "sequence": 1554
+}

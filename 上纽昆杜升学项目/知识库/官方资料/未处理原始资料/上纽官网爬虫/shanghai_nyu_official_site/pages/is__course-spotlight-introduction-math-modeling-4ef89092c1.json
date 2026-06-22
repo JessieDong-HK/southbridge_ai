@@ -1,0 +1,253 @@
+{
+  "id": "is__course-spotlight-introduction-math-modeling-4ef89092c1",
+  "url": "https://shanghai.nyu.edu/is/course-spotlight-introduction-math-modeling",
+  "canonical_url": "https://shanghai.nyu.edu/is/course-spotlight-introduction-math-modeling",
+  "page_type": "is",
+  "title": "Course Spotlight: Introduction to Math Modeling",
+  "description": "This award-winning course is intended for those with a basic foundation in college mathematics.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Course Spotlight: Introduction to Math Modeling\nTwitter\nFacebook\nWeibo\nInstructor: Jinzi Mac Huang, Assistant Professor of Mathematics\nMathematics Elective\nThe Lowdown: Intended for those with a basic foundation in college mathematics, this award-winning course offers students the tools to solve real-world problems using math modeling skills. Sign up for this class to learn how to apply a mathematical perspective to a wide array of disciplines, from Physics to Biology to Finance. The Shanghai Municipal Education Commission recognized the course as a “first-class undergraduate course of Shanghai Higher Education Institutions” in 2021.\nWhat to Expect: “Introduction to Math Modeling” teaches students the fundamentals of applied mathematics through examples from everyday life. Students analyze models of population data, traffic patterns, and Google’s PageRank algorithm to understand differential equations and applied math methods. Data on the spread of Covid-19, digital image processing as seen in Photoshop, or Artificial Intelligence may also be discussed in the course. Students complete weekly homework assignments as well as a final exam in which they create their own math models to solve practical problems, ranging from redesigning a water fountain in Century Park to determining the maximum capacity for a room in the event of an emergency. Huang also helps his students register and prepare for the Mathematical Contest in Modeling, an international competition.\nSelected Reading List:\nChristiane Rousseau and Yvan Saint-Aubin, Mathematics and Technology\nRichard Haberman, Mathematical Models\nSoftware Used in the Class:\nMATLAB\nAny LaTeX environment, available through Overleaf, TeX Live, or MiKTeX\nWolfram Mathematica\nAbout the Instructor: Jinzi Mac Huang joined NYU Shanghai in Fall 2020, shortly after receiving his PhD from the NYU Courant Institute of Mathematical Sciences. An applied mathematician, his research interests are interdisciplinary and include fluid dynamics and geophysics. In addition to his work at NYU Shanghai, he collaborates with the Courant Institute and the NYU-ECNU Institute of Physics.\nLeft: Professor Huang and students examine a problem together. Right: Professor Huang delivers a lecture to the class.\nProfessor Huang Says:\n“Applied mathematics teaches you the techniques you need to turn your observations of nature, or other subjects like physics and chemistry, into the language of mathematics. There's a way to turn pretty much any problem or question into math.\nAs a graduate student at the Courant Institute, I was the TA for an introductory math modeling class taught by Associate Professor of Mathematics Aaditya Rangan. Now, I’ve started to develop my own version of the course at NYU Shanghai. I update the syllabus with trendier math models such as that of Covid-19’s spread to better accommodate the diverse and motivated students here.\nThe special thing about ‘Introduction to Math Modeling’ is that it provides an introduction to many different math models and math tools. After taking my class, students might find subjects they wish to explore in future research or more advanced classes.\nFor math majors, this course offers concrete examples of how math works in the real world. For other STEM majors, this course prepares them with mathematical tools so they can learn to model and solve the problems in their fields with new math perspectives. Many of my students have never coded before, but in this class we do have a very simple introduction on how to write code with MATLAB.\nEvery year, there's the international Mathematical Contest in Modeling. It’s like a hackathon, but for math. Many of my students compete in this contest — last year, we had six teams of three students, and three teams won awards. The first year I taught this course, one team of my students were named finalists in the contest.\nWhat the Students Say:\nFor their final project, Yuejia and her teammates developed a model to reduce how much water from a fountain in Century Park would spray passerby on a windy day.\n“I’m not a person who is into the theoretical part of mathematics. So, I enrolled in this course because I wanted to know how to apply mathematical formulas and theorems to the real world. Professor Huang is a very caring and considerate professor, and I find his intrinsic passion for his area of study to be inspiring. ‘Introduction to Math Modeling’ and a later course I took with Professor Huang [on Partial Differential Equations] ignited my interest in applied mathematics. After graduation, I will pursue a PhD at the Courant Institute, where I will continue to study fluid dynamics with Professor Huang.”\n- Yuejia Zhang ’23\nJialin and her teammates created a model to identify negative messages on an online gaming platform, as well as the accounts that spread them.\n“I recommend this course not only to students who are majoring in mathematics, but also to students in other STEM-related majors. It’s not enough to know about coding or technology without a basic understanding of mathematical models. Learning these models can help you to make good decisions and solve real-life problems. There’s also a final project for the course, where you can implement knowledge and methodology learned throughout the semester in real-world scenarios. I think it’s a very interesting process. My teammates and I developed a model to detect harmful messages in chat systems. You want to reduce the negative impacts [of such messages], so we figured out a solution to stop the circulation of the harmful message and identify its creator.”\n- Jialin Wang ’23",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Course Spotlight: Introduction to Math Modeling"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    },
+    {
+      "type": "p",
+      "text": "Instructor: Jinzi Mac Huang, Assistant Professor of Mathematics"
+    },
+    {
+      "type": "p",
+      "text": "Mathematics Elective"
+    },
+    {
+      "type": "p",
+      "text": "The Lowdown: Intended for those with a basic foundation in college mathematics, this award-winning course offers students the tools to solve real-world problems using math modeling skills. Sign up for this class to learn how to apply a mathematical perspective to a wide array of disciplines, from Physics to Biology to Finance. The Shanghai Municipal Education Commission recognized the course as a “first-class undergraduate course of Shanghai Higher Education Institutions” in 2021."
+    },
+    {
+      "type": "p",
+      "text": "What to Expect: “Introduction to Math Modeling” teaches students the fundamentals of applied mathematics through examples from everyday life. Students analyze models of population data, traffic patterns, and Google’s PageRank algorithm to understand differential equations and applied math methods. Data on the spread of Covid-19, digital image processing as seen in Photoshop, or Artificial Intelligence may also be discussed in the course. Students complete weekly homework assignments as well as a final exam in which they create their own math models to solve practical problems, ranging from redesigning a water fountain in Century Park to determining the maximum capacity for a room in the event of an emergency. Huang also helps his students register and prepare for the Mathematical Contest in Modeling, an international competition."
+    },
+    {
+      "type": "p",
+      "text": "Selected Reading List:"
+    },
+    {
+      "type": "p",
+      "text": "Christiane Rousseau and Yvan Saint-Aubin, Mathematics and Technology"
+    },
+    {
+      "type": "p",
+      "text": "Richard Haberman, Mathematical Models"
+    },
+    {
+      "type": "p",
+      "text": "Software Used in the Class:"
+    },
+    {
+      "type": "p",
+      "text": "MATLAB"
+    },
+    {
+      "type": "p",
+      "text": "Any LaTeX environment, available through Overleaf, TeX Live, or MiKTeX"
+    },
+    {
+      "type": "p",
+      "text": "Wolfram Mathematica"
+    },
+    {
+      "type": "p",
+      "text": "About the Instructor: Jinzi Mac Huang joined NYU Shanghai in Fall 2020, shortly after receiving his PhD from the NYU Courant Institute of Mathematical Sciences. An applied mathematician, his research interests are interdisciplinary and include fluid dynamics and geophysics. In addition to his work at NYU Shanghai, he collaborates with the Courant Institute and the NYU-ECNU Institute of Physics."
+    },
+    {
+      "type": "p",
+      "text": "Left: Professor Huang and students examine a problem together. Right: Professor Huang delivers a lecture to the class."
+    },
+    {
+      "type": "p",
+      "text": "Professor Huang Says:"
+    },
+    {
+      "type": "p",
+      "text": "“Applied mathematics teaches you the techniques you need to turn your observations of nature, or other subjects like physics and chemistry, into the language of mathematics. There's a way to turn pretty much any problem or question into math."
+    },
+    {
+      "type": "p",
+      "text": "As a graduate student at the Courant Institute, I was the TA for an introductory math modeling class taught by Associate Professor of Mathematics Aaditya Rangan. Now, I’ve started to develop my own version of the course at NYU Shanghai. I update the syllabus with trendier math models such as that of Covid-19’s spread to better accommodate the diverse and motivated students here."
+    },
+    {
+      "type": "p",
+      "text": "The special thing about ‘Introduction to Math Modeling’ is that it provides an introduction to many different math models and math tools. After taking my class, students might find subjects they wish to explore in future research or more advanced classes."
+    },
+    {
+      "type": "p",
+      "text": "For math majors, this course offers concrete examples of how math works in the real world. For other STEM majors, this course prepares them with mathematical tools so they can learn to model and solve the problems in their fields with new math perspectives. Many of my students have never coded before, but in this class we do have a very simple introduction on how to write code with MATLAB."
+    },
+    {
+      "type": "p",
+      "text": "Every year, there's the international Mathematical Contest in Modeling. It’s like a hackathon, but for math. Many of my students compete in this contest — last year, we had six teams of three students, and three teams won awards. The first year I taught this course, one team of my students were named finalists in the contest."
+    },
+    {
+      "type": "p",
+      "text": "What the Students Say:"
+    },
+    {
+      "type": "p",
+      "text": "For their final project, Yuejia and her teammates developed a model to reduce how much water from a fountain in Century Park would spray passerby on a windy day."
+    },
+    {
+      "type": "p",
+      "text": "“I’m not a person who is into the theoretical part of mathematics. So, I enrolled in this course because I wanted to know how to apply mathematical formulas and theorems to the real world. Professor Huang is a very caring and considerate professor, and I find his intrinsic passion for his area of study to be inspiring. ‘Introduction to Math Modeling’ and a later course I took with Professor Huang [on Partial Differential Equations] ignited my interest in applied mathematics. After graduation, I will pursue a PhD at the Courant Institute, where I will continue to study fluid dynamics with Professor Huang.”"
+    },
+    {
+      "type": "p",
+      "text": "- Yuejia Zhang ’23"
+    },
+    {
+      "type": "p",
+      "text": "Jialin and her teammates created a model to identify negative messages on an online gaming platform, as well as the accounts that spread them."
+    },
+    {
+      "type": "p",
+      "text": "“I recommend this course not only to students who are majoring in mathematics, but also to students in other STEM-related majors. It’s not enough to know about coding or technology without a basic understanding of mathematical models. Learning these models can help you to make good decisions and solve real-life problems. There’s also a final project for the course, where you can implement knowledge and methodology learned throughout the semester in real-world scenarios. I think it’s a very interesting process. My teammates and I developed a model to detect harmful messages in chat systems. You want to reduce the negative impacts [of such messages], so we figured out a solution to stop the circulation of the harmful message and identify its creator.”"
+    },
+    {
+      "type": "p",
+      "text": "- Jialin Wang ’23"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://shanghai.nyu.edu/sites/default/files/field/focus_image",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "",
+      "download_status": "error",
+      "error": "404 Client Error: Not Found for url: https://shanghai.nyu.edu/sites/default/files/field/focus_image/"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display/public/field/image/spotlight_-_mac_huang-01.jpg?itok=K8CGqA-a",
+      "alt": "mac huang's class",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/spotlight_-_mac_huang-01-673636900502.jpg",
+      "download_status": "downloaded",
+      "bytes": 58735,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/spotlight_-_mac_huang-05.jpg",
+      "alt": "books",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/untitled-1_1.jpg",
+      "alt": "mac huang",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/untitled-1_1-576faa68e26b.jpg",
+      "download_status": "downloaded",
+      "bytes": 471839,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/nyu_3469.jpg",
+      "alt": "students",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/nyu_3469.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/-2em3porwdaruxldc0fzngwpjfxyammlw31kgyzk4rsc48l_foq446ylr2yt6xp4zozxrz3gcqyvataxr3dlaicricavs5kwkyxu_ufsoikfcjczju9xh4omx8ap.png",
+      "alt": "student project",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/w-hjvbyiwtqa7nmgzoukukzvscofptvvtso2cuygp_bewuc6okwwiwzrkllkdhjnaquk6tridprxwyj2rx5pfopbqyhpb0ndhew04a2vxb-dcum8fs_qnehiey5f.png",
+      "alt": "mac huang",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/w-hjvbyiwtqa7nmgzoukukzvscofptvvtso2cuygp_bewuc6okww-e0771494a48e.png",
+      "download_status": "downloaded",
+      "bytes": 38085,
+      "content_type": "image/png"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=Course%20Spotlight%3A%20Introduction%20to%20Math%20Modeling&url=https%3A//shanghai.nyu.edu/is/course-spotlight-introduction-math-modeling&status=Course%20Spotlight%3A%20Introduction%20to%20Math%20Modeling%20https%3A//shanghai.nyu.edu/is/course-spotlight-introduction-math-modeling",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/is/course-spotlight-introduction-math-modeling&title=Course%20Spotlight%3A%20Introduction%20to%20Math%20Modeling",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/is/course-spotlight-introduction-math-modeling&title=Course%20Spotlight%3A%20Introduction%20to%20Math%20Modeling",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jinzi-mac-huang",
+      "text": "Jinzi Mac Huang",
+      "internal": true
+    },
+    {
+      "url": "https://www.comap.com/contests/mcm-icm",
+      "text": "Mathematical Contest in Modeling",
+      "internal": false
+    },
+    {
+      "url": "https://cims.nyu.edu/dynamic",
+      "text": "NYU Courant Institute of Mathematical Sciences",
+      "internal": false
+    },
+    {
+      "url": "https://research.shanghai.nyu.edu/physics",
+      "text": "NYU-ECNU Institute of Physics",
+      "internal": false
+    },
+    {
+      "url": "https://cims.nyu.edu/people/profiles/RANGAN_Aaditya.html",
+      "text": "Aaditya Rangan",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/news/nyu-shanghai-students-win-2021-american-college-student-mathematical-contest-modeling-finalists",
+      "text": "named finalists in the contest",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 905,
+  "crawled_at": "2026-06-09T04:49:27+00:00",
+  "sequence": 2035
+}

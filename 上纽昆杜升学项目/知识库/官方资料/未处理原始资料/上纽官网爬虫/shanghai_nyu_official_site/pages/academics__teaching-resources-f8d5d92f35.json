@@ -1,0 +1,94 @@
+{
+  "id": "academics__teaching-resources-f8d5d92f35",
+  "url": "https://shanghai.nyu.edu/academics/teaching-resources",
+  "canonical_url": "https://shanghai.nyu.edu/academics/teaching-resources",
+  "page_type": "academics",
+  "title": "Teaching Resources",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Teaching Resources\nAn innovative pedagogy that equips students for meaningful engagement in their profession and the world at large is at the core of NYU Shanghai's mission. Here, you will find diverse, research-based teaching strategies as well as guidelines and resources that support the delivery of pedagogical excellence.\nCourse Planning & Design\nTeaching Guidelines & Policies\nCenter for Teaching & Learning\nCommunity Engaged Learning\nResearch & Instructional Technology Toolkit\nResearch & Instructional Technology Website",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Teaching Resources"
+    },
+    {
+      "type": "p",
+      "text": "An innovative pedagogy that equips students for meaningful engagement in their profession and the world at large is at the core of NYU Shanghai's mission. Here, you will find diverse, research-based teaching strategies as well as guidelines and resources that support the delivery of pedagogical excellence."
+    },
+    {
+      "type": "p",
+      "text": "Course Planning & Design"
+    },
+    {
+      "type": "p",
+      "text": "Teaching Guidelines & Policies"
+    },
+    {
+      "type": "p",
+      "text": "Center for Teaching & Learning"
+    },
+    {
+      "type": "p",
+      "text": "Community Engaged Learning"
+    },
+    {
+      "type": "p",
+      "text": "Research & Instructional Technology Toolkit"
+    },
+    {
+      "type": "p",
+      "text": "Research & Instructional Technology Website"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/ctl.jpeg",
+      "alt": "CTL",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/ctl-729bd1908ca2.jpeg",
+      "download_status": "downloaded",
+      "bytes": 16843,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://nyu-shanghai.libcal.com/spaces?lid=6441&gid=0",
+      "text": "Course Planning & Design",
+      "internal": false
+    },
+    {
+      "url": "https://faculty.shanghai.nyu.edu/teaching/teach",
+      "text": "Teaching Guidelines & Policies",
+      "internal": false
+    },
+    {
+      "url": "https://ctl.shanghai.nyu.edu/",
+      "text": "Center for Teaching & Learning",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/undergraduate/community-engaged-learning",
+      "text": "Community Engaged Learning",
+      "internal": true
+    },
+    {
+      "url": "https://wp.nyu.edu/shanghai-online_teaching",
+      "text": "Research & Instructional Technology Toolkit",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/academics/library/faculty/rits",
+      "text": "Research & Instructional Technology Website",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 71,
+  "crawled_at": "2026-06-09T04:28:35+00:00",
+  "sequence": 98
+}

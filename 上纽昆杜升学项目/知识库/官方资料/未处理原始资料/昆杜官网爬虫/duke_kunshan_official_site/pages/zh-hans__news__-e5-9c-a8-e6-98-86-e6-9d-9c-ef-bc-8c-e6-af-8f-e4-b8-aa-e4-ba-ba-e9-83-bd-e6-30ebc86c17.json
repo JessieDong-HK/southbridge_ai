@@ -1,0 +1,36 @@
+{
+  "id": "zh-hans__news__-e5-9c-a8-e6-98-86-e6-9d-9c-ef-bc-8c-e6-af-8f-e4-b8-aa-e4-ba-ba-e9-83-bd-e6-30ebc86c17",
+  "url": "https://www.dukekunshan.edu.cn/zh-hans/news/%e5%9c%a8%e6%98%86%e6%9d%9c%ef%bc%8c%e6%af%8f%e4%b8%aa%e4%ba%ba%e9%83%bd%e6%9c%89%e5%8f%91%e5%85%89%e7%9a%84%e6%9c%ba%e4%bc%9a%ef%bc%81",
+  "canonical_url": "https://www.dukekunshan.edu.cn/zh-hans/news/在昆杜，每个人都有发光的机会！/",
+  "page_type": "zh-hans",
+  "title": "在昆杜，每个人都有发光的机会！",
+  "description": "",
+  "language": "zh-hans",
+  "published_time": "",
+  "modified_time": "2024-08-21T03:14:51+00:00",
+  "sitemap_lastmod": "2024-08-21T03:14:51+00:00",
+  "text": "在昆杜，每个人都有发光的机会！",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "在昆杜，每个人都有发光的机会！"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://newstatic.dukekunshan.edu.cn/mainsite/2025/08/21145841/DKU-Yoast-Social-Banner.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "og:image",
+      "local_path": "images/_shared/DKU-Yoast-Social-Banner-e55c7d92285b.jpg",
+      "download_status": "ok",
+      "content_type": "image/jpeg",
+      "bytes": 74370,
+      "deduplicated": true
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 2,
+  "crawled_at": "2026-06-03T13:53:31+00:00",
+  "sequence": 427
+}

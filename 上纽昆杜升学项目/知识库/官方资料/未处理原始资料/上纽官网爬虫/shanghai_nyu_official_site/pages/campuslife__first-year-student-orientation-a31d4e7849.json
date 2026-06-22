@@ -1,0 +1,87 @@
+{
+  "id": "campuslife__first-year-student-orientation-a31d4e7849",
+  "url": "https://shanghai.nyu.edu/campuslife/first-year-student-orientation",
+  "canonical_url": "https://shanghai.nyu.edu/campuslife/first-year-student-orientation",
+  "page_type": "campuslife",
+  "title": "First-Year Student Orientation",
+  "description": "2026 Orientation WeekMonday August 24, 2026 to Saturday August 29, 2026All NYU Shanghai first-year students are required to participate in the Orientation Week.The Orientation Week will help you prepare for your academic transition into NYU Shanghai through workshops, discussions, language",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "First-Year Student Orientation\n2026 Orientation Week\nMonday August 24, 2026 to Saturday August 29, 2026\nAll NYU Shanghai first-year students are required to participate in the Orientation Week.\nThe Orientation Week will help you prepare for your academic transition into NYU Shanghai through workshops, discussions, language preparation, and academic advising. It will also help you transition into social life at NYU Shanghai and connect you with your peers through fun events, dialogues, games, and tours.\nDuring and after Orientation Week, you will also have opportunities to engage with upper-class study away students from NYU’s campuses in New York City and Abu Dhabi.\nMore details about Orientation Week will be provided in the last summer newsletter from New Student Programs.\nOrientation Ambassador\nEach spring semester, New Student Programs selects a group of Orientation Ambassadors (OAs) from upperclassmen who will help the office provide support to incoming first-year students. Each Orientation Ambassador will be assigned a group of first-year students, reach out to them during the summer, and support them in their first semester at NYU Shanghai.\nOrientation Ambassadors are a key part of the Fall Orientation Week​ and First Year Dialogue program. They help new students adjust to the unique cultural and linguistic environment of our school, and introduce them to the diverse community. All Orientation Ambassadors are full-time sophomores, juniors, or seniors. The selection starts in February each year. And the selected new OAs will receive various training in spring and summer. If you have any questions about the Orientation Ambassador program, please contact the Center for New Student Programs at shanghai.newstudents@nyu.edu.\nThe Reality Show\nPerformed in a musical form at the start of each academic year to welcome first year students. The Reality Show has a long legacy among 3 major NYU global sites, Abu Dhabi, New York, and Shanghai. It highlights a range of situations that new students might encounter. Themes covered academic stress, homesickness, mental and physical health, intercultural and interpersonal collisions and beyond. The cast members not only performed the show but also actively engaged in brainstorming, writing, and building the show in New York City over the summer with each site’s unique perspectives and experiences. Such uniqueness makes the similar topics highper diversified in result. Join us to find out what this year’s show looks like in Shanghai!",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "First-Year Student Orientation"
+    },
+    {
+      "type": "h2",
+      "text": "2026 Orientation Week"
+    },
+    {
+      "type": "p",
+      "text": "Monday August 24, 2026 to Saturday August 29, 2026"
+    },
+    {
+      "type": "p",
+      "text": "All NYU Shanghai first-year students are required to participate in the Orientation Week."
+    },
+    {
+      "type": "p",
+      "text": "The Orientation Week will help you prepare for your academic transition into NYU Shanghai through workshops, discussions, language preparation, and academic advising. It will also help you transition into social life at NYU Shanghai and connect you with your peers through fun events, dialogues, games, and tours."
+    },
+    {
+      "type": "p",
+      "text": "During and after Orientation Week, you will also have opportunities to engage with upper-class study away students from NYU’s campuses in New York City and Abu Dhabi."
+    },
+    {
+      "type": "p",
+      "text": "More details about Orientation Week will be provided in the last summer newsletter from New Student Programs."
+    },
+    {
+      "type": "h2",
+      "text": "Orientation Ambassador"
+    },
+    {
+      "type": "p",
+      "text": "Each spring semester, New Student Programs selects a group of Orientation Ambassadors (OAs) from upperclassmen who will help the office provide support to incoming first-year students. Each Orientation Ambassador will be assigned a group of first-year students, reach out to them during the summer, and support them in their first semester at NYU Shanghai."
+    },
+    {
+      "type": "p",
+      "text": "Orientation Ambassadors are a key part of the Fall Orientation Week​ and First Year Dialogue program. They help new students adjust to the unique cultural and linguistic environment of our school, and introduce them to the diverse community. All Orientation Ambassadors are full-time sophomores, juniors, or seniors. The selection starts in February each year. And the selected new OAs will receive various training in spring and summer. If you have any questions about the Orientation Ambassador program, please contact the Center for New Student Programs at shanghai.newstudents@nyu.edu."
+    },
+    {
+      "type": "h2",
+      "text": "The Reality Show"
+    },
+    {
+      "type": "p",
+      "text": "Performed in a musical form at the start of each academic year to welcome first year students. The Reality Show has a long legacy among 3 major NYU global sites, Abu Dhabi, New York, and Shanghai. It highlights a range of situations that new students might encounter. Themes covered academic stress, homesickness, mental and physical health, intercultural and interpersonal collisions and beyond. The cast members not only performed the show but also actively engaged in brainstorming, writing, and building the show in New York City over the summer with each site’s unique perspectives and experiences. Such uniqueness makes the similar topics highper diversified in result. Join us to find out what this year’s show looks like in Shanghai!"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/IMG_3117.jpg",
+      "alt": "Orientation Ambassador",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/IMG_3117.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/NYU00265_0.jpg",
+      "alt": "The Reality Show",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/NYU00265_0.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 395,
+  "crawled_at": "2026-06-09T04:37:22+00:00",
+  "sequence": 1050
+}

@@ -1,0 +1,276 @@
+{
+  "id": "videos__nyu-shanghaier-season-5-38d4487f16",
+  "url": "https://shanghai.nyu.edu/videos/nyu-shanghaier-season-5?page=1",
+  "canonical_url": "https://shanghai.nyu.edu/videos/nyu-shanghaier-season-5",
+  "page_type": "videos",
+  "title": "NYU Shanghaier Season One - 5",
+  "description": "",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "NYU Shanghaier Season One - 5\nTwitter\nFacebook\nWeibo",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "NYU Shanghaier Season One - 5"
+    },
+    {
+      "type": "li",
+      "text": "Twitter"
+    },
+    {
+      "type": "li",
+      "text": "Facebook"
+    },
+    {
+      "type": "li",
+      "text": "Weibo"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-09/2025%20Open%20Course%20video%20cover.jpg?itok=Z1ERTnmy",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2025-20Open-20Course-20video-20cover-806e351f3f3e.jpg",
+      "download_status": "downloaded",
+      "bytes": 23984,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-09/20250909%20Charlie-cover.jpg?itok=4ahbvKy1",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/20250909-20Charlie-cover-3a2a6db47d09.jpg",
+      "download_status": "downloaded",
+      "bytes": 18704,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-09/christina-dan-wang-cover3.jpg?itok=tNDEawH5",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-09/christina-dan-wang-cover2.jpg?itok=bLDhNItD",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/gallery_list__580x250/public/2025-09/christina-dan-wang-cover2.jpg?itok=bLDhNItD (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-09/christina-dan-wang-cover.jpg?itok=v_KjVNp8",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/christina-dan-wang-cover-dc2368db6837.jpg",
+      "download_status": "downloaded",
+      "bytes": 14846,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-09/farnival.jpg?itok=Kbf9YUxk",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/farnival-4f34cf4af03a.jpg",
+      "download_status": "downloaded",
+      "bytes": 29667,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-09/cover.jpg?itok=Lz3iMJqJ",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/cover-622cee9af26b.jpg",
+      "download_status": "downloaded",
+      "bytes": 20141,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-08/movein-cover.jpg?itok=fasHBrf8",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/movein-cover-79aa6131f903.jpg",
+      "download_status": "downloaded",
+      "bytes": 16454,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-08/addison-subtitles-cover2_1.jpg?itok=wk0FY1xY",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/addison-subtitles-cover2_1-5a3765d5992e.jpg",
+      "download_status": "downloaded",
+      "bytes": 22475,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-05/2025_cw-cover.jpg?itok=jFsA2rlz",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2025_cw-cover-ba0179907816.jpg",
+      "download_status": "downloaded",
+      "bytes": 29297,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-05/2025_aswCover.jpg?itok=CKLvxTZ1",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2025_aswCover-638563a85258.jpg",
+      "download_status": "downloaded",
+      "bytes": 17367,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-05/2025_commencement_kong_speechCover.jpg?itok=JcdE9MIK",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2025_commencement_kong_speechCover-733d10634931.jpg",
+      "download_status": "downloaded",
+      "bytes": 14433,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-05/2025_commencementcover.jpg?itok=9IxFlm6V",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2025_commencementcover-b9e3c2ea17db.jpg",
+      "download_status": "downloaded",
+      "bytes": 35774,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-05/2025-tibute-cover_0.jpg?itok=W2tPm-KK",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/2025-tibute-cover_0-398edaf98528.jpg",
+      "download_status": "downloaded",
+      "bytes": 39696,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/gallery_list__580x250/public/2025-04/TechTrek-cover.jpg?itok=hWjiB0M3",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/TechTrek-cover-833f68f3ba58.jpg",
+      "download_status": "downloaded",
+      "bytes": 30089,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://twitter.com/intent/tweet?text=NYU%20Shanghaier%20Season%20One%20-%205&url=https%3A//shanghai.nyu.edu/videos/nyu-shanghaier-season-5&status=NYU%20Shanghaier%20Season%20One%20-%205%20https%3A//shanghai.nyu.edu/videos/nyu-shanghaier-season-5",
+      "text": "Twitter",
+      "internal": false
+    },
+    {
+      "url": "https://www.facebook.com/share.php?u=https%3A//shanghai.nyu.edu/videos/nyu-shanghaier-season-5&title=NYU%20Shanghaier%20Season%20One%20-%205",
+      "text": "Facebook",
+      "internal": false
+    },
+    {
+      "url": "http://service.weibo.com/share/share.php?url=https%3A//shanghai.nyu.edu/videos/nyu-shanghaier-season-5&title=NYU%20Shanghaier%20Season%20One%20-%205",
+      "text": "Weibo",
+      "internal": false
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/2025-nyu-shanghai-open-courses-unlock-lifelong-learning",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/graduate-and-entrepreneur-bridging-china-and-us",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/2025-teaching-excellence-awardee-jingyuan-johnson-mo",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/2025-teaching-excellence-awardee-fernando-romero",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/2025-teaching-excellence-awardee-christina-dan-wang",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/farnival-2025",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/clay-and-culture-immersive-learning-trip-jingdezhen",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/class-2029-movein",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/sundays-grandma",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/candidate-weekend-2025",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/admitted-student-weekend-2025",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/kong-xiangdong-commencement-2025",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/highlights-2025-commencement",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/class-2025-tribute",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/videos/techtrek-nyush",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 8,
+  "crawled_at": "2026-06-09T04:56:00+00:00",
+  "sequence": 2539
+}

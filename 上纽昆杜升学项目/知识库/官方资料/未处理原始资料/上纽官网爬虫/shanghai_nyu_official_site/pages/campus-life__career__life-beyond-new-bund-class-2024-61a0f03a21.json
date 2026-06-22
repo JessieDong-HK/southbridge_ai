@@ -1,0 +1,77 @@
+{
+  "id": "campus-life__career__life-beyond-new-bund-class-2024-61a0f03a21",
+  "url": "https://shanghai.nyu.edu/campus-life/career/life-beyond-new-bund-class-2024",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/career/life-beyond-new-bund-class-2024",
+  "page_type": "campus-life",
+  "title": "Life Beyond the New Bund: Class of 2024",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Life Beyond the New Bund: Class of 2024\nThe NYU Shanghai Class of 2024 enjoys the largest cohort of graduates from the New Bund campus. This year the Class of 2024 has achieved a 90% overall placement rate. The 430 graduates from 34 countries and regions can now be found all over the world, with 73% choosing to work or study outside their home countries.\nThe Class of 2024 is unprecedented in its academic pursuits, with over half the graduates enrolled in graduate programs at top universities around the globe, among which a record 25 individuals are studying at some of the world's most prestigious PhD, PsyD or JD programs. Two graduates were selected for globally competitive scholarship programs—the Schwarzman Scholar Program and the Fulbright English Teaching Assistant Program.\nAnother 31% have accepted offers from employers in Asia, North America, and Europe, for the most part in the sectors of Accounting/Banking/Finance, Consumer Goods/Entertainment/Food/Sports, Hardware/Internet/IT/Software, Education/Research, Government/Law/NGO/Public Service, and Management Consulting. Notably, two graduates have embarked on careers in scientific research; one at the Chinese Academy of Sciences and the other at Liangzhu Laboratory of Zhejiang University. Among the international graduates, nine chose to start their career in China, working at notable employers such as Grimaldi Group, PwC, UBS, and YK Pao School.\n*Statistics are rounded to the nearest whole number. Therefore, totals do not always equal 100%.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Life Beyond the New Bund: Class of 2024"
+    },
+    {
+      "type": "p",
+      "text": "The NYU Shanghai Class of 2024 enjoys the largest cohort of graduates from the New Bund campus. This year the Class of 2024 has achieved a 90% overall placement rate. The 430 graduates from 34 countries and regions can now be found all over the world, with 73% choosing to work or study outside their home countries."
+    },
+    {
+      "type": "p",
+      "text": "The Class of 2024 is unprecedented in its academic pursuits, with over half the graduates enrolled in graduate programs at top universities around the globe, among which a record 25 individuals are studying at some of the world's most prestigious PhD, PsyD or JD programs. Two graduates were selected for globally competitive scholarship programs—the Schwarzman Scholar Program and the Fulbright English Teaching Assistant Program."
+    },
+    {
+      "type": "p",
+      "text": "Another 31% have accepted offers from employers in Asia, North America, and Europe, for the most part in the sectors of Accounting/Banking/Finance, Consumer Goods/Entertainment/Food/Sports, Hardware/Internet/IT/Software, Education/Research, Government/Law/NGO/Public Service, and Management Consulting. Notably, two graduates have embarked on careers in scientific research; one at the Chinese Academy of Sciences and the other at Liangzhu Laboratory of Zhejiang University. Among the international graduates, nine chose to start their career in China, working at notable employers such as Grimaldi Group, PwC, UBS, and YK Pao School."
+    },
+    {
+      "type": "p",
+      "text": "*Statistics are rounded to the nearest whole number. Therefore, totals do not always equal 100%."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/CO2024%20FD-%20website_%E5%88%A0%E5%87%8F_0120-2_00001.jpg",
+      "alt": "Life Beyond the New Bund: Class of 2024",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/CO2024%20FD-%20website_%E5%88%A0%E5%87%8F_0120-2_00001.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/CO2024%20FD-%20website_%E5%88%A0%E5%87%8F_0120-2_00002.jpg",
+      "alt": "Life Beyond the New Bund: Class of 2024",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/CO2024%20FD-%20website_%E5%88%A0%E5%87%8F_0120-2_00002.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/fdrnew.jpg",
+      "alt": "fdr",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/fdrnew.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/inline-images/CO2024%20FD-%20website_%E5%88%A0%E5%87%8F_0120-2_00004.jpg",
+      "alt": "Life Beyond the New Bund: Class of 2024",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/inline-images/CO2024%20FD-%20website_%E5%88%A0%E5%87%8F_0120-2_00004.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl"
+    }
+  ],
+  "links": [],
+  "word_count_estimate": 241,
+  "crawled_at": "2026-06-09T04:30:12+00:00",
+  "sequence": 284
+}

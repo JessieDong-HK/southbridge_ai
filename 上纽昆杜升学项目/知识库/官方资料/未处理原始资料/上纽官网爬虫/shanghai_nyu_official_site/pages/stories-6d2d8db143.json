@@ -1,0 +1,247 @@
+{
+  "id": "stories-6d2d8db143",
+  "url": "https://shanghai.nyu.edu/stories?page=13",
+  "canonical_url": "https://shanghai.nyu.edu/stories",
+  "page_type": "stories",
+  "title": "People | NYU Shanghai",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU global network, joining NYU Abu Dhabi and NYU New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "People\nDanielle Sanger '19 Joins Climate Conference\nHengyu Jin '20 – A Letter to My High School\nSocial Mission in Myanmar\nSummer Internship Series: Shaping Public Policy in Washington D.C.\nRoommates: Lauren Benedict ‘21 + Mi Zhou (Dora) ‘21\nMartin Teng in Abu Dhabi\nBo Donners in Berlin\nHu Shuang ‘17 : Becoming a Global Citizen\nKalkidan Fekadu Eteffa, '18 – Computer Science\nSusan Xu, '19 – Neuroscience\nLathika Chandra Mouli, '17 – Electrical Engineering\nAutumn Wu, '17 – Computer Science",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "People"
+    },
+    {
+      "type": "h4",
+      "text": "Danielle Sanger '19 Joins Climate Conference"
+    },
+    {
+      "type": "h4",
+      "text": "Hengyu Jin '20 – A Letter to My High School"
+    },
+    {
+      "type": "h4",
+      "text": "Social Mission in Myanmar"
+    },
+    {
+      "type": "h4",
+      "text": "Summer Internship Series: Shaping Public Policy in Washington D.C."
+    },
+    {
+      "type": "h4",
+      "text": "Roommates: Lauren Benedict ‘21 + Mi Zhou (Dora) ‘21"
+    },
+    {
+      "type": "h4",
+      "text": "Martin Teng in Abu Dhabi"
+    },
+    {
+      "type": "h4",
+      "text": "Bo Donners in Berlin"
+    },
+    {
+      "type": "h4",
+      "text": "Hu Shuang ‘17 : Becoming a Global Citizen"
+    },
+    {
+      "type": "h4",
+      "text": "Kalkidan Fekadu Eteffa, '18 – Computer Science"
+    },
+    {
+      "type": "h4",
+      "text": "Susan Xu, '19 – Neuroscience"
+    },
+    {
+      "type": "h4",
+      "text": "Lathika Chandra Mouli, '17 – Electrical Engineering"
+    },
+    {
+      "type": "h4",
+      "text": "Autumn Wu, '17 – Computer Science"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/p1290764-940.jpg?itok=V7AiVPVq",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/petra-940_0.jpg?itok=SvyvHo6h",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/21014621_940.jpg?itok=sJMf78m8",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/21014621_940-3d3c92c140a6.jpg",
+      "download_status": "downloaded",
+      "bytes": 24074,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/img_7767-940-c.jpg?itok=Ppkt8nvh",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/wechatimg777.jpg?itok=qbkFuVC4",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/wechatimg777-949cf752becf.jpg",
+      "download_status": "downloaded",
+      "bytes": 16358,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/shanghaigame-940.jpg?itok=OuDpy1Oa",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/3m9a8288_1.jpg?itok=H-E-mkf3",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/3m9a8288_1-43e5a16a38db.jpg",
+      "download_status": "downloaded",
+      "bytes": 32180,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/untitled-940_1.jpg?itok=R-E5YC1L",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/dsc05585-940.jpg?itok=yhlPwrsw",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/susan_credit-to-940.jpg?itok=U-L-QODX",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/susan_credit-to-940-6cc4b18a769f.jpg",
+      "download_status": "downloaded",
+      "bytes": 39304,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/img_6397-940.jpg?itok=zILlmjDo",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=20)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/styles/stories__400x423_/public/field/story/autumn-940.jpg?itok=tjU2fcO9",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/autumn-940-5444ee937233.jpg",
+      "download_status": "downloaded",
+      "bytes": 23235,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://shanghai.nyu.edu/stories/danielle-sanger-19-joins-climate-conference",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/hengyu-jin-20-letter-my-high-school",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/social-mission-myanmar",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/summer-internship-series-shaping-public-policy-washington-dc",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/roommates-lauren-benedict-21-mi-zhou-dora-21",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/martin-teng-abu-dhabi",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/bo-donners-berlin",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/hu-shuang-17-becoming-global-citizen",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/kalkidan-fekadu-eteffa-18-computer-science",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/susan-xu-19-neuroscience",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/lathika-chandra-mouli-17-electrical-engineering",
+      "text": "",
+      "internal": true
+    },
+    {
+      "url": "https://shanghai.nyu.edu/stories/autumn-wu-17-computer-science",
+      "text": "",
+      "internal": true
+    }
+  ],
+  "word_count_estimate": 75,
+  "crawled_at": "2026-06-09T04:47:50+00:00",
+  "sequence": 1888
+}

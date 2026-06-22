@@ -1,0 +1,131 @@
+{
+  "id": "campus-life__career__students__entrepreneurship-cfb1a11587",
+  "url": "https://shanghai.nyu.edu/campus-life/career/students/entrepreneurship",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/career/students/entrepreneurship",
+  "page_type": "campus-life",
+  "title": "Entrepreneurship",
+  "description": "The NYU Shanghai Program on Creativity + Innovation (PCI) and the CCD are here to support aspiring NYU Shanghai entrepreneurs at every stage of the startup journey.PCI Brochure (PDF)PCI supports students’ entrepreneurial interests at three levels: mindset, map, and method.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Entrepreneurship\nThe NYU Shanghai Program on Creativity + Innovation (PCI) and the CCD are here to support aspiring NYU Shanghai entrepreneurs at every stage of the startup journey.\nPCI Brochure (PDF)\nPCI supports students’ entrepreneurial interests at three levels: mindset, map, and method.\nEntrepreneurship Competitions\nNYU Shanghai encourages and supports students who want to participate in entrepreneurship competitions in China and abroad. Review the list of entrepreneurship competitions below, and contact PCI for more information at creativity.innovation@nyu.edu.\nCompetition List\nEntrepreneurship Residence Permit\nInternational students, read the PDF below and reach out to the CCD for information about the Entrepreneurship Residence Permit.",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Entrepreneurship"
+    },
+    {
+      "type": "p",
+      "text": "The NYU Shanghai Program on Creativity + Innovation (PCI) and the CCD are here to support aspiring NYU Shanghai entrepreneurs at every stage of the startup journey."
+    },
+    {
+      "type": "h3",
+      "text": "PCI Brochure (PDF)"
+    },
+    {
+      "type": "p",
+      "text": "PCI supports students’ entrepreneurial interests at three levels: mindset, map, and method."
+    },
+    {
+      "type": "h3",
+      "text": "Entrepreneurship Competitions"
+    },
+    {
+      "type": "p",
+      "text": "NYU Shanghai encourages and supports students who want to participate in entrepreneurship competitions in China and abroad. Review the list of entrepreneurship competitions below, and contact PCI for more information at creativity.innovation@nyu.edu."
+    },
+    {
+      "type": "h2",
+      "text": "Competition List"
+    },
+    {
+      "type": "h3",
+      "text": "Entrepreneurship Residence Permit"
+    },
+    {
+      "type": "p",
+      "text": "International students, read the PDF below and reach out to the CCD for information about the Entrepreneurship Residence Permit."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-3-05-11-2.jpg",
+      "alt": "cdc",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-3-05-11-2.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/email-icon.jpeg",
+      "alt": "Email",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/email-icon.jpeg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://creativityandinnovation.shanghai.nyu.edu/entrepreneurship",
+      "text": "Program on Creativity + Innovation (PCI)",
+      "internal": false
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/pci_brochure_for_cdc_website_update_in_fall_2019.pdf",
+      "text": "PCI Brochure (PDF)",
+      "internal": false
+    },
+    {
+      "url": "http://gjcxcy.bjtu.edu.cn/Index.aspx",
+      "text": "National Students Platform for Innovation and Entrepreneurship Training Program",
+      "internal": false
+    },
+    {
+      "url": "http://shcxcy.usst.edu.cn/Index",
+      "text": "Shanghai Students Platform for Innovation and Entrepreneurship Training Program",
+      "internal": false
+    },
+    {
+      "url": "https://cy.ncss.org.cn/en",
+      "text": "China \"Internet+\" University Graduates Innovation and Entrepreneurship Award",
+      "internal": false
+    },
+    {
+      "url": "https://chinaccelerator.com/",
+      "text": "Accelerator Program Batch 16",
+      "internal": false
+    },
+    {
+      "url": "http://www.itcsz.cn/",
+      "text": "International Innovative & Entrepreneurial Competition Shenzhen, China",
+      "internal": false
+    },
+    {
+      "url": "https://www.eweekchina.org/en_gcc/index.php",
+      "text": "Global Entrepreneurship Week Campus Center (GCC)",
+      "internal": false
+    },
+    {
+      "url": "http://www.stefg.org/en/study/culture.aspx",
+      "text": "EFG Postgraduate Project",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1dFLxLlIA_Vff9SLA2jhz3dgJbHge6sy-7NXfFPjbSko/edit?usp=sharing",
+      "text": "About entrepreneurship residence permits",
+      "internal": false
+    },
+    {
+      "url": "https://docs.google.com/document/d/1SuV8qH8TDRUyd32Jbuiu3zKKM8WFRMGaJRbWF2weLek/edit?usp=sharing",
+      "text": "About entrepreneurship residence permits",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 103,
+  "crawled_at": "2026-06-09T04:32:12+00:00",
+  "sequence": 536
+}

@@ -1,0 +1,210 @@
+{
+  "id": "academics__faculty__directory__marcela-godoy-cd5a9474a4",
+  "url": "https://shanghai.nyu.edu/academics/faculty/directory/marcela-godoy",
+  "canonical_url": "https://shanghai.nyu.edu/academics/faculty/directory/marcela-godoy",
+  "page_type": "academics",
+  "title": "Marcela",
+  "description": "Marcela Godoy is the Area Head of Interactive Media Arts (IMA) and an Associate Arts Professor of Interactive Media Arts (IMA) at NYU Shanghai. She has been an IMA faculty member since 2015.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "Marcela Godoy\nSelect Publications\nRe-Make: An Artist’s and Pedagogue’s Perspective from Shanghai (p. 109 -132). Author: Marcela Godoy\nCritically Recycling through Community-Engaged Learning. Authors: Marcela Godoy and Diane Geng\nPNEU-SKIN: A Haptic Social Interface with Inflatable Fabrics. Authors: Yujie Wang and Marcela Godoy\nEducation\nMPS, Interactive TelecommunicationsNew York University\nProfessional degree, ArchitectureTechnical University Federico Santa Maria\nHuman Computer Interaction\nCritical Making\nBody Architecture\nSustainable Design\nData Physicalization\nInteraction Lab\nCreative Coding Lab\nDigital Fabrication\nToy Design and Prototyping\nRe-Made in China\nPlastic Fantastic!?\nData: Code it, Make it\nInteractive Fashion\nArt and the Anthropocene: Material Based Activism",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "Marcela Godoy"
+    },
+    {
+      "type": "h3",
+      "text": "Select Publications"
+    },
+    {
+      "type": "li",
+      "text": "Re-Make: An Artist’s and Pedagogue’s Perspective from Shanghai (p. 109 -132). Author: Marcela Godoy"
+    },
+    {
+      "type": "li",
+      "text": "Critically Recycling through Community-Engaged Learning. Authors: Marcela Godoy and Diane Geng"
+    },
+    {
+      "type": "li",
+      "text": "PNEU-SKIN: A Haptic Social Interface with Inflatable Fabrics. Authors: Yujie Wang and Marcela Godoy"
+    },
+    {
+      "type": "h3",
+      "text": "Education"
+    },
+    {
+      "type": "li",
+      "text": "MPS, Interactive TelecommunicationsNew York University"
+    },
+    {
+      "type": "li",
+      "text": "Professional degree, ArchitectureTechnical University Federico Santa Maria"
+    },
+    {
+      "type": "li",
+      "text": "Human Computer Interaction"
+    },
+    {
+      "type": "li",
+      "text": "Critical Making"
+    },
+    {
+      "type": "li",
+      "text": "Body Architecture"
+    },
+    {
+      "type": "li",
+      "text": "Sustainable Design"
+    },
+    {
+      "type": "li",
+      "text": "Data Physicalization"
+    },
+    {
+      "type": "li",
+      "text": "Interaction Lab"
+    },
+    {
+      "type": "li",
+      "text": "Creative Coding Lab"
+    },
+    {
+      "type": "li",
+      "text": "Digital Fabrication"
+    },
+    {
+      "type": "li",
+      "text": "Toy Design and Prototyping"
+    },
+    {
+      "type": "li",
+      "text": "Re-Made in China"
+    },
+    {
+      "type": "li",
+      "text": "Plastic Fantastic!?"
+    },
+    {
+      "type": "li",
+      "text": "Data: Code it, Make it"
+    },
+    {
+      "type": "li",
+      "text": "Interactive Fashion"
+    },
+    {
+      "type": "li",
+      "text": "Art and the Anthropocene: Material Based Activism"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/field/profile/img_1978.jpg",
+      "alt": "",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/img_1978-ec4e3d0966e0.jpg",
+      "download_status": "downloaded",
+      "bytes": 341271,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://itp.nyu.edu/itp",
+      "text": "Interaction Telecommunications",
+      "internal": false
+    },
+    {
+      "url": "https://usm.cl/en/home",
+      "text": "Technical University Federico Santa Maria",
+      "internal": false
+    },
+    {
+      "url": "http://www.arquitectura.utalca.cl/",
+      "text": "School of Architecture, University of Talca",
+      "internal": false
+    },
+    {
+      "url": "http://yesyesno.com/",
+      "text": "YesYesNo",
+      "internal": false
+    },
+    {
+      "url": "https://www.remaker.space/",
+      "text": "NYU Shanghai Re-Makerspace",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/life/sustainability/get-involved/green-grants.html",
+      "text": "Green Grant",
+      "internal": false
+    },
+    {
+      "url": "https://www.nyu.edu/life/sustainability.html",
+      "text": "NYU’s Office of Sustainability",
+      "internal": false
+    },
+    {
+      "url": "https://www.degruyterbrill.com/document/isbn/9783111331522/html",
+      "text": "Re-Make: An Artist’s and Pedagogue’s Perspective from Shanghai",
+      "internal": false
+    },
+    {
+      "url": "https://engagementaustralia.org.au/transform-volume-9-hong-kong-special-issue",
+      "text": "Critically Recycling through Community-Engaged Learning",
+      "internal": false
+    },
+    {
+      "url": "https://doi.org/10.52842/conf.caadria.2021.1.713",
+      "text": "PNEU-SKIN: A Haptic Social Interface with Inflatable Fabrics",
+      "internal": false
+    },
+    {
+      "url": "https://wp.nyu.edu/shanghai-ima-interaction-lab",
+      "text": "Interaction Lab",
+      "internal": false
+    },
+    {
+      "url": "https://creative-coding-lab.github.io/",
+      "text": "Creative Coding Lab",
+      "internal": false
+    },
+    {
+      "url": "https://wp.nyu.edu/shanghai-toydesignandprototyping",
+      "text": "Toy Design and Prototyping",
+      "internal": false
+    },
+    {
+      "url": "https://wp.nyu.edu/remadeinchina",
+      "text": "Re-Made in China",
+      "internal": false
+    },
+    {
+      "url": "https://wp.nyu.edu/abudhabi-plasticfantastic",
+      "text": "Plastic Fantastic!?",
+      "internal": false
+    },
+    {
+      "url": "https://wp.nyu.edu/shanghai-ima-datacodeitmakeit",
+      "text": "Data: Code it, Make it",
+      "internal": false
+    },
+    {
+      "url": "https://wp.nyu.edu/shanghai-interactivefashion",
+      "text": "Interactive Fashion",
+      "internal": false
+    },
+    {
+      "url": "https://wp.nyu.edu/artandtheanthropocene/projects",
+      "text": "Art and the Anthropocene: Material Based Activism",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 103,
+  "crawled_at": "2026-06-09T04:38:54+00:00",
+  "sequence": 1176
+}

@@ -1,0 +1,77 @@
+{
+  "id": "campus-life__career__students__university-accreditation-and-english-proficiency-7cd7a123eb",
+  "url": "https://shanghai.nyu.edu/campus-life/career/students/university-accreditation-and-english-proficiency",
+  "canonical_url": "https://shanghai.nyu.edu/campus-life/career/students/university-accreditation-and-english-proficiency",
+  "page_type": "campus-life",
+  "title": "University Accreditation and English Proficiency",
+  "description": "Jointly established by New York University and East China Normal University, NYU Shanghai is the third degree-granting campus in NYU’s global network, joining NYU Abu Dhabi and NYU's campus in New York City.",
+  "language": "en",
+  "published_time": "",
+  "modified_time": "",
+  "sitemap_lastmod": null,
+  "text": "University Accreditation and English Proficiency\nTOEFL\nIELTS",
+  "text_blocks": [
+    {
+      "type": "h1",
+      "text": "University Accreditation and English Proficiency"
+    },
+    {
+      "type": "li",
+      "text": "TOEFL"
+    },
+    {
+      "type": "li",
+      "text": "IELTS"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-3-07-1.jpg",
+      "alt": "School",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Max retries exceeded with url: /sites/default/files/media/p-cdc-3-07-1.jpg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-3-07-2.jpg",
+      "alt": "School",
+      "caption": "",
+      "source": "img",
+      "local_path": "",
+      "download_status": "error",
+      "error": "HTTPSConnectionPool(host='cdn.shanghai.nyu.edu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "url": "https://cdn.shanghai.nyu.edu/sites/default/files/media/p-cdc-3-07-3.jpg",
+      "alt": "School",
+      "caption": "",
+      "source": "img",
+      "local_path": "_shared/p-cdc-3-07-3-ddf3fd9b49d4.jpg",
+      "download_status": "downloaded",
+      "bytes": 5414,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://docs.google.com/document/d/1F-aZXUkvCS7u3c6LUnslNsJHOry76a5PxBeXteqp1ko/edit",
+      "text": "Statement of University Status",
+      "internal": false
+    },
+    {
+      "url": "http://www.ets.org/toefl",
+      "text": "TOEFL",
+      "internal": false
+    },
+    {
+      "url": "http://www.ielts.org/",
+      "text": "IELTS",
+      "internal": false
+    }
+  ],
+  "word_count_estimate": 7,
+  "crawled_at": "2026-06-09T04:32:13+00:00",
+  "sequence": 538
+}
