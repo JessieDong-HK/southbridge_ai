@@ -1,0 +1,74 @@
+{
+  "1782114786548-2ca046f2fd4c88": {
+    "id": "1782114786548-2ca046f2fd4c88",
+    "type": "chat",
+    "student": "阎浩翔",
+    "status": "completed",
+    "message": "聊天处理完成，新增 1 条消息（OCR 原始输出已保存）",
+    "createdAt": "2026-06-22T07:53:06.548Z",
+    "updatedAt": "2026-06-22T07:54:19.692Z"
+  },
+  "1782114793185-e99965bf8af22": {
+    "id": "1782114793185-e99965bf8af22",
+    "type": "chat",
+    "student": "阎浩翔",
+    "status": "completed",
+    "message": "聊天处理完成，新增 20 条消息（OCR 原始输出已保存）",
+    "createdAt": "2026-06-22T07:53:13.186Z",
+    "updatedAt": "2026-06-22T07:56:50.520Z"
+  },
+  "1782115794060-e83b3530779fc": {
+    "id": "1782115794060-e83b3530779fc",
+    "type": "chat",
+    "student": "阎浩翔",
+    "status": "completed",
+    "message": "聊天处理完成，新增 1 条消息（OCR 原始输出已保存）",
+    "createdAt": "2026-06-22T08:09:54.060Z",
+    "updatedAt": "2026-06-22T08:14:18.882Z"
+  },
+  "1782115809781-b21c3b34812f3": {
+    "id": "1782115809781-b21c3b34812f3",
+    "type": "chat",
+    "student": "阎浩翔",
+    "status": "completed",
+    "message": "聊天处理完成，新增 17 条消息（OCR 原始输出已保存）",
+    "createdAt": "2026-06-22T08:10:09.781Z",
+    "updatedAt": "2026-06-22T08:16:23.711Z"
+  },
+  "1782117667714-f1391ef3435fa": {
+    "id": "1782117667714-f1391ef3435fa",
+    "type": "chat",
+    "student": "阎浩翔",
+    "status": "failed",
+    "message": "Step 2 未能解析出有效消息，原始 OCR 已保存至 txt 文件",
+    "createdAt": "2026-06-22T08:41:07.714Z",
+    "updatedAt": "2026-06-22T08:44:50.437Z"
+  },
+  "1782117676676-198981f4f90ec": {
+    "id": "1782117676676-198981f4f90ec",
+    "type": "chat",
+    "student": "阎浩翔",
+    "status": "completed",
+    "message": "聊天处理完成，新增 4 条消息（OCR 原始输出已保存）",
+    "createdAt": "2026-06-22T08:41:16.676Z",
+    "updatedAt": "2026-06-22T08:45:55.136Z"
+  },
+  "1782143526488-d973a7fe2dbb7": {
+    "id": "1782143526488-d973a7fe2dbb7",
+    "type": "chat",
+    "student": "阎浩翔",
+    "status": "failed",
+    "message": "Step 2 未能解析出有效消息，原始 OCR 已保存至 txt 文件",
+    "createdAt": "2026-06-22T15:52:06.488Z",
+    "updatedAt": "2026-06-22T15:54:25.739Z"
+  },
+  "1782143540376-94aae6a1df5fb": {
+    "id": "1782143540376-94aae6a1df5fb",
+    "type": "chat",
+    "student": "阎浩翔",
+    "status": "completed",
+    "message": "聊天处理完成，新增 0 条消息（OCR 原始输出已保存）",
+    "createdAt": "2026-06-22T15:52:20.376Z",
+    "updatedAt": "2026-06-22T15:54:46.233Z"
+  }
+}

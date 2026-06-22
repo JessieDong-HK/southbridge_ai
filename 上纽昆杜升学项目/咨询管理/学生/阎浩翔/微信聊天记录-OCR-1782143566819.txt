@@ -1,0 +1,44 @@
+# OCR 原始输出 · 阎浩翔 · 学生家长
+> 上传时间：2026-06-22 23:52
+> 截图数量：2
+
+```json
+[
+	{"text": "1:11 peter阎浩翔家长 北京 雅思7.0 男 嗯 晚些吧 7点可以?", "pos_list": [{"rotate_rect": [444, 24, 11, 675, 90]}]}, 
+	{"text": "6/9/26 4:46 PM 好嘞，我问下我们老师时间 可以的!", "pos_list": [{"rotate_rect": [500, 54, 7, 250, 90]}]}, 
+	{"text": "你好，我们是南桥 | 上纽昆杜工作室", "pos_list": [{"rotate_rect": [498, 74, 11, 643, 90]}]}, 
+	{"text": "室", "pos_list": [{"rotate_rect": [206, 85, 10, 49, 90]}]}, 
+	{"text": "6/9/26 5:17 PM 我这边先拉个群，然后会议链接稍候给您", "pos_list": [{"rotate_rect": [500, 108, 7, 250, 90]}]}, 
+	{"text": "Greetings shown above", "pos_list": [{"rotate_rect": [500, 126, 7, 375, 90]}]}, 
+	{"text": "I've accepted your friend request. Now let's chat!", "pos_list": [{"rotate_rect": [426, 148, 11, 501, 90]}]}, 
+	{"text": "哈喽呀你好！想问下是学生本人还是学生家长呀", "pos_list": [{"rotate_rect": [498, 178, 11, 643, 90]}]}, 
+	{"text": "是想咨询上纽昆杜的申请吗，学生高几了呀", "pos_list": [{"rotate_rect": [498, 210, 11, 643, 90]}]}, 
+	{"text": "高二 家长 你们什么服务和对应收费和我说下", "pos_list": [{"rotate_rect": [230, 272, 11, 121, 90]}]}, 
+	{"text": "这样，那孩子是在哪个城市呀，目前有考语言成绩吗，平常成绩排名如何呢", "pos_list": [{"rotate_rect": [498, 312, 11, 643, 90]}]}, 
+	{"text": "可以的，我发下我们的产品手册给您", "pos_list": [{"rotate_rect": [498, 352, 11, 643, 90]}]}, 
+	{"text": "peter阎浩翔家长 北京 雅思7.0 男：你们什么服务和对应收费和我说下", "pos_list": [{"rotate_rect": [498, 384, 11, 643, 90]}]}, 
+	{"text": "北京 雅思7.0 上纽昆杜服务手册.pdf 33.6 MB PDF", "pos_list": [{"rotate_rect": [306, 414, 11, 263, 90]}]}, 
+	{"text": "区重点20%吧 好嘞，男孩还是女孩呀", "pos_list": [{"rotate_rect": [318, 458, 11, 303, 90]}]}, 
+	{"text": "peter阎浩翔家长 北京 雅思7.0 男：北京雅思7.0", "pos_list": [{"rotate_rect": [480, 498, 11, 633, 90]}]}, 
+	{"text": "男 北京哪个区呀，方便透露吗", "pos_list": [{"rotate_rect": [206, 528, 11, 49, 90]}]}, 
+	{"text": "朝阳 好嘞!", "pos_list": [{"rotate_rect": [228, 568, 11, 91, 90]}]}, 
+	{"text": "平常孩子有参加其他课外活动，或者竞赛什么的吗", "pos_list": [{"rotate_rect": [498, 618, 11, 643, 90]}]}, 
+	{"text": "这是我们的产品手册，您可以先看一看，有什么问题都可以问", "pos_list": [{"rotate_rect": [448, 654, 11, 601, 90]}]}, 
+	{"text": "南桥 | 上纽昆杜工作室：上纽昆杜服务手册.pdf PDF", "pos_list": [{"rotate_rect": [444, 676, 11, 579, 90]}]}, 
+	{"text": "学科没有 有个CTB 好哦", "pos_list": [{"rotate_rect": [364, 698, 11, 375, 90]}]}, 
+	{"text": "现在孩子是在家嘛", "pos_list": [{"rotate_rect": [638, 742, 11, 369, 90]}]}, 
+	{"text": "这两天高考，应该有休假?", "pos_list": [{"rotate_rect": [568, 764, 11, 501, 90]}]}, 
+	{"text": "高二啊 上课 都是1v1吗 这样呀", "pos_list": [{"rotate_rect": [298, 786, 11, 263, 90]}]}, 
+	{"text": "peter阎浩翔家长 北京 雅思7.0 男：高二啊 上课", "pos_list": [{"rotate_rect": [478, 848, 11, 633, 90]}]}, 
+	{"text": "我们深度陪跑服务是1v1的", "pos_list": [{"rotate_rect": [568, 872, 11, 501, 90]}]}, 
+	{"text": "peter阎浩翔家长 北京 雅思7.0 男：都是1v1吗", "pos_list": [{"rotate_rect": [478, 890, 11, 633, 90]}]}, 
+	{"text": "孩子的情况我刚反馈给了我们主负责老师，您看您什么时候有空，可以一起约个会议，我们老师想详细了解下孩子的情况，看看有什么我们能提供帮助的，这次会议不收费的", "pos_list": [{"rotate_rect": [498, 940, 11, 643, 90]}]}, 
+	{"text": "嗯 晚些吧 7点可以?", "pos_list": [{"rotate_rect": [372, 988, 11, 383, 90]}]}, 
+	{"text": "预录取可以理解为通过校园日，具体通过的定义是上纽A/B档，昆杜拿到名次", "pos_list": [{"rotate_rect": [500, 306, 11, 643, 90]}]}, 
+	{"text": "peter阎浩翔家长 北京 雅思7.0 男：预录取怎么定义", "pos_list": [{"rotate_rect": [498, 336, 11, 643, 90]}]}, 
+	{"text": "剩下决定学生是否能进入这两个学校，就要看学生的高考成绩了", "pos_list": [{"rotate_rect": [500, 356, 11, 643, 90]}]}, 
+	{"text": "Chloe invites you to a meeting on Tencent Meeting Meeting Topic: Chloe's Scheduled Meeting Time: 2026/06/09 19:00-19:40 (GMT+08:00) China Standard Time - Beijing Click the link to join the meeting or to add it to your meeting list: https://meeting.tencent.com/dm/E1AWCj1MB4Ud #TencentMeeting: 432-174-228 Copy this invitation and open in Tencent Meeting app (V2.13 or later) to join the meeting", "pos_list": [{"rotate_rect": [500, 446, 11, 643, 90]}]}, 
+	{"text": "你再问一个问题，就是昆杜的预录取指的是说，我看今年昆度好像一共北京这块儿一共有二百二百七八十人吧，就是这这二百七八十人拿到名次是吗？这叫预录取是吧？就是就是所谓预录取，是进到这个北京这个剩下的这个校园日通过的这二百七八十人是吗?", "pos_list": [{"rotate_rect": [500, 616, 11, 643, 90]}]}, 
+	{"text": "OK, 昆度的预录取就是进到校园日的可能有比如说假设有七八百人，然后最终就是会通过啊，就是一个比例是吧。像我刚才发几张表儿，就是今年通过的这280多人，相当于是从这个可能一堆人选出来的是吧。所谓预录取就是进就就是就是说是说就进到这280多人是吧，就是这样按照今年来讲。", "pos_list": [{"rotate_rect": [500, 928, 11, 643, 90]}]}
+]
+```
